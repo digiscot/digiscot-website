@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="splash-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-8">
+    
+      <p class="lead">{{ page.excerpt }}</p>
+      <hr />
+
+      {{ content }}
+      
+    </div>
+    <div class="col-md-4">
+    
+      {% include sidebar.html %}
+    
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12">
+    
+      <h2>Our partners<br />
+      <small>{{ site.data.charter | size }} organisations have signed the charter</small></h2>
+      <hr />
+  
+      <p class="text-center">
+
+        {% for item in site.data.charter %}
+          {% if item.url %}
+            <a href="{{ item.url }}"><img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter-logo" /></a>
+          {% else %}
+            <img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter-logo" />
+          {% endif %}
+        {% endfor %}
+
+      </p>
+
+    </div>
+  </div>
+
+</div>

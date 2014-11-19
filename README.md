@@ -1,3 +1,3 @@
-# DigiScot
+# UNGOV
 
-Testing site. Enquiries to [@clry2](https://github.com/clry2)
+This is the master respository for [UNGOV](http://ungov.uk).

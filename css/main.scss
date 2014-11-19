@@ -1,0 +1,211 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+
+// Base variables
+
+$base-font-family:                Helvetica, Arial, sans-serif;
+$base-font-weight:                300;
+$base-font-color:                 #666666;
+$base-font-color-muted:           #999999;
+
+$base-font-size:                  18px;
+$base-line-height:                1.5;
+
+$title-color:                     #345476;
+$title-shadow:                    0px 1px 1px rgba(255, 255, 255, 1);
+
+$brand-color:                     #009E99;
+$brand-color-hover:               #33B1AD;
+
+$brand-color-button:              #009E99;
+$brand-color-button-border:       #008E8A;
+
+$brand-color-button-hover:        #007E7A;
+$brand-color-button-border-hover: #006F6B;
+
+$spacing-unit:                    30px;
+
+
+
+// Base styles 
+
+html, body {
+  height: 100%;
+}
+
+body { 
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  color: $base-font-color;  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+
+p {
+  font-size: $base-font-size;
+}
+
+.row li {
+  font-size: $base-font-size;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.lead {
+  font-size: 150%;
+}
+
+.text-muted {
+  color: $base-font-color-muted;
+}
+
+
+
+// Links and buttons
+
+a {
+  color: $brand-color;
+}
+
+a:hover {
+  color: $brand-color-hover;
+}
+
+a:hover fa {
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: $brand-color-button;
+  border-color: $brand-color-button-border;
+}
+
+.btn-primary:hover {
+  background-color: $brand-color-button-hover;
+  border-color: $brand-color-button-border-hover;  
+}
+
+
+
+// Spacing
+
+img {
+  max-width: 100%;
+}
+
+h3, h4, h5, h6 {
+  margin-top: $spacing-unit;
+}
+
+.btn-lg, .input-lg {
+  margin-top: $spacing-unit / 3;
+  margin-bottom: $spacing-unit / 3;
+}
+
+.col-front {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+.project-index {
+  margin-bottom: $spacing-unit;
+}
+
+img.project {
+  margin-bottom: $spacing-unit;
+}
+
+.well h4 {
+  margin-top: $spacing-unit / 3;
+}
+
+
+
+
+// Other
+
+.alpha {
+  margin: 0px;
+  padding: 5px;
+  background-color: #FFCC00;
+  color: #000000;
+  font-size: 80%;
+}
+
+.splash {
+  margin-top: -20px;
+  margin-bottom: 20px;
+  padding-top: $spacing-unit;
+  min-height: 100%;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('/images/splash.jpg');
+  
+  .jumbotron {
+    background-color: rgba(255, 255, 255, 0.5);  
+  }
+  
+  h1 {
+    font-weight: bold;
+    color: $title-color;
+    text-shadow: $title-shadow;
+    margin-bottom: $spacing-unit / 1.5;
+  }
+  
+  p {
+    color: #000000;
+  }
+  
+}
+
+.splash-header {
+  margin-top: -20px;
+  margin-bottom: $spacing-unit;
+  background-color: #b9e0f1;
+  background-position: top center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('/images/splash-header.jpg');
+  
+  h1 {
+    color: $title-color;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px rgba(255, 255, 255, 1);
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+  }
+  
+}
+
+img.charter-logo {
+  width: 156px;
+  height: auto;
+  vertical-align: middle;
+  margin: $spacing-unit;
+}
+
+img.avatar {
+  width: 96px;
+  height: 96px;
+}
+
+.footer {
+  margin-top: $spacing-unit;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit / 2;
+  border-top: 1px solid #EEEEEE;
+  background-color: #FBFBFB;
+  
+  img {
+    height: $spacing-unit * 1.5;
+    padding-left: $spacing-unit /2;
+  }
+    
+}

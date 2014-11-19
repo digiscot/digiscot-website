@@ -1,0 +1,219 @@
+- name: Aberlour
+  image: aberlour.jpg
+  url: 
+- name: Asda
+  image: asda.jpg
+  url: 
+- name: Blackwood
+  image: blackwood.jpg
+  url: 
+- name: BT
+  image: bt.jpg
+  url: http://www.bt.com
+- name: Capacity Grid
+  image: capacitygrid.jpg
+  url: 
+- name: Capita
+  image: capita.jpg
+  url: 
+- name: Carnegie UK Trust
+  image: carnegie-trust.jpg
+  url: 
+- name: CGI
+  image: cgi.jpg
+  url: 
+- name: Children 1st
+  image: children-1st.jpg
+  url: 
+- name: Cisco
+  image: cisco.jpg
+  url: 
+- name: Citizens Online
+  image: citizens-online.jpg
+  url: 
+- name: City of Edinburgh Council
+  image: city-edinburgh-council.jpg
+  url: 
+- name: COSLA
+  image: cosla.jpg
+  url: 
+- name: CVO East Ayrshire
+  image: cvo-east-ayrshire.jpg
+  url: 
+- name: Digital Fife
+  image: digital-fife.jpg
+  url: 
+- name: Digital Outreach
+  image: digital-outreach.jpg
+  url: 
+- name: Digital Skills Academy
+  image: digital-skills-academy.jpg
+  url: 
+- name: Disability Scotland
+  image: disability-scotland.jpg
+  url: 
+- name: EDLC
+  image: edlc.jpg
+  url: 
+- name: Experian
+  image: experian.jpg
+  url: 
+- name: Fujitsu
+  image: fujitsu.jpg
+  url: 
+- name: Glasgow Kelvin College
+  image: glasgow-kelvin-college.jpg
+  url: 
+- name: HP
+  image: hp.jpg
+  url: 
+- name: Improvement Service
+  image: improvement-service.jpg
+  url: 
+- name: IRISS
+  image: iriss.jpg
+  url: 
+- name: JP Morgan
+  image: jp-morgan.jpg
+  url: 
+- name: Keeping In Touch Edinburgh
+  image: kite.jpg
+  url: 
+- name: Lead Scotland
+  image: lead-scotland.jpg
+  url: 
+- name: Liberata
+  image: liberata.jpg
+  url: 
+- name: Light Touch Learning
+  image: light-touch.png
+  url: 
+- name: Mackay Hannah
+  image: mackay-hannah.jpg
+  url: 
+- name: Maritime Charities Funding Group
+  image: maritime-charities.jpg
+  url: 
+- name: Microsoft
+  image: microsoft.jpg
+  url: 
+- name: Miituu
+  image: miituu.jpg
+  url: 
+- name: MJI Business Solutions
+  image: mji.jpg
+  url: 
+- name: Muon
+  image: muon.jpg
+  url: 
+- name: Musuems Galleries Scotland
+  image: museums-galleries-scotland.jpg
+  url: 
+- name: Mydex CIC
+  image: mydex.jpg
+  url: 
+- name: Nesta
+  image: nesta.jpg
+  url: 
+- name: NHS Health Scotland
+  image: nhs-health-scotland.jpg
+  url: 
+- name: NHS 24
+  image: nhs-24.jpg
+  url: 
+- name: North Ayrshire Council
+  image: north-ayrshire.jpg
+  url: 
+- name: North Highland Language Centre
+  image: north-highland-language.jpg
+  url: 
+- name: O2
+  image: o2.jpg
+  url: 
+- name: Opportunity Enhancement Trust
+  image: oet.jpg
+  url: 
+- name: Pass IT On
+  image: pass-it-on.jpg
+  url: 
+- name: Patient Opinion
+  image: patient-opinion.jpg
+  url: 
+- name: People Too
+  image: peopletoo.jpg
+  url: 
+- name: Rathbone
+  image: rathbone.jpg
+  url: 
+- name: Reuse My PC
+  image: reusemypc.jpg
+  url: 
+- name: Reusing IT
+  image: reusing-it.jpg
+  url: 
+- name: RNIB
+  image: rnib.jpg
+  url: 
+- name: Scottish Council On Deafness
+  image: scod.jpg
+  url: 
+- name: Scotland IS
+  image: scotland-is.jpg
+  url: 
+- name: Scottish Enterprise
+  image: scottish-enterprise.jpg
+  url: 
+- name: Scottish Government
+  image: scottish-government.jpg
+  url: 
+- name: Scottish Council for Voluntary Organisations
+  image: scvo.jpg
+  url: 
+- name: Snook
+  image: snook.jpg
+  url: 
+- name: Sopra
+  image: sopra.jpg
+  url: 
+- name: Scottish Qualifications Authority
+  image: sqa.jpg
+  url: 
+- name: Storm ID
+  image: stormid.jpg
+  url: 
+- name: Strive
+  image: strive.jpg
+  url: 
+- name: Swirrl
+  image: swirrl.jpg
+  url: 
+- name: Thenue Housing
+  image: thenue-housing.jpg
+  url: 
+- name: Third Age Computer Fun
+  image: third-age.jpg
+  url: 
+- name: Unit4
+  image: unit4.jpg
+  url: 
+- name: University of Edinburgh
+  image: university-edinburgh.jpg
+  url: 
+- name: Virgin Media
+  image: virgin-media.jpg
+  url: 
+- name: Volunteer Centre Edinburgh
+  image: volunteer-centre-edinburgh.png
+  url: 
+- name: Volunteer Scotland
+  image: volunteer-scotland.jpg
+  url: 
+- name: Wheatley Group
+  image: wheatley-group.jpg
+  url: 
+- name: Wise Group
+  image: wise-group.jpg
+  url: 
+- name: Young Scot
+  image: youngscot.jpg
+  url: 

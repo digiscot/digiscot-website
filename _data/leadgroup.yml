@@ -1,0 +1,36 @@
+- name: Brendan Dick
+  chair: Chair and SCVO honorary president
+  image: brendan.jpg
+  org: BT
+  url: http://www.bt.com
+  twitter:
+- name: Alison McLaughlin
+  image: alison.jpg
+  org: Sopra
+  url: http://www.sopra.co.uk/
+  twitter: AlisonMcLaugh
+- name: Colin Cook
+  image: colin.jpg
+  org: Scottish Government
+  url: http://scotland.gov.uk/
+  twitter: CSBCook
+- name: Eliot Stark
+  image: eliot.png
+  org: Strive
+  url: http://strive.me.uk/
+  twitter: eliotstark
+- name: Elma Murray
+  image: elma.jpg
+  org: North Ayrshire Council
+  url: http://www.north-ayrshire.gov.uk/
+  twitter: 
+- name: Louise Macdonald
+  image: louise.png
+  org: Young Scot
+  url: http://www.youngscot.org/
+  twitter: Louisemac
+- name: Tommy Laughlin
+  image: tommy.jpg
+  org: Scotland IS
+  url: http://www.scotlandis.com/
+  twitter: tomlau56
