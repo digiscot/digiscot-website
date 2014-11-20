@@ -95,10 +95,6 @@ a:hover fa {
 
 // Spacing
 
-img {
-  max-width: 100%;
-}
-
 h3, h4, h5, h6 {
   margin-top: $spacing-unit;
 }
@@ -113,11 +109,7 @@ h3, h4, h5, h6 {
   margin-bottom: $spacing-unit;
 }
 
-.project-index {
-  margin-bottom: $spacing-unit;
-}
-
-img.project {
+.p-index {
   margin-bottom: $spacing-unit;
 }
 
@@ -126,6 +118,36 @@ img.project {
 }
 
 
+
+// Images
+
+img {
+  max-width: 100%;
+}
+
+img.project {
+  margin-bottom: $spacing-unit;
+}
+
+img.charter {
+  width: 156px;
+  height: auto;
+  vertical-align: middle;
+  margin: $spacing-unit;
+}
+
+img.thumb {
+  width: $spacing-unit * 4;
+}
+
+img.avatar {
+  width: 128px;
+  height: 128px;
+}
+
+img.logo {
+  height: $spacing-unit * 1.5;
+}
 
 
 // Other
@@ -191,28 +213,10 @@ img.project {
   
 }
 
-img.charter-logo {
-  width: 156px;
-  height: auto;
-  vertical-align: middle;
-  margin: $spacing-unit;
-}
-
-img.avatar {
-  width: 128px;
-  height: 128px;
-}
-
 .footer {
   margin-top: $spacing-unit;
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit / 2;
   border-top: 1px solid #EEEEEE;
   background-color: #FBFBFB;
-  
-  img {
-    height: $spacing-unit * 1.5;
-    padding-left: $spacing-unit /2;
-  }
-    
 }

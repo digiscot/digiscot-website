@@ -29,6 +29,8 @@ If your organisation helps people to learn then we would love to add you to the 
 
 ### Learn My Way
 
+<img src="/images/learnmyway.jpg" class="thumb" />
+
 We've partnered with [Tinder Foundation](http://www.tinderfoundation.org) to develop extra learning resources for people and organisations in Scotland. [Learn My Way](http://scotland.learnmyway.com) is a free online resource designed to help people learn basic online skills. If your organisation helps people to learn then you can apply for a free centre code, for your learners to use when they register on the Learn My Way website. This will help you to keep count of all your learners and see how they are getting on.
 
 <a href="http://letsgeton.digitalscotland.org/SignUp/create" class="btn btn-primary btn-lg">Apply for a Learn My Way code</a>

@@ -41,9 +41,9 @@ layout: default
 
         {% for item in site.data.charter %}
           {% if item.url %}
-            <a href="{{ item.url }}"><img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter-logo" /></a>
+            <a href="{{ item.url }}"><img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter" /></a>
           {% else %}
-            <img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter-logo" />
+            <img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter" />
           {% endif %}
         {% endfor %}
 
