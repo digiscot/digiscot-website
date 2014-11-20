@@ -143,6 +143,7 @@ img.project {
   margin-bottom: 20px;
   padding-top: $spacing-unit;
   min-height: 100%;
+  background-color: #b9e0f1;
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -163,6 +164,12 @@ img.project {
     color: #000000;
   }
   
+}
+
+@media screen and (max-width: 767px) {
+  .splash {
+    background-image: none;
+  }
 }
 
 .splash-header {
