@@ -10,7 +10,7 @@ It’s easy to take the internet for granted, but more than a million people in 
 
 We’re part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk), and are working with partners across the country to promote digital participation.
 
-The programme is overseen by a leadership group drawn from across the public, private and third sectors. The group's [terms of reference](/about/leadership-group-tors/) set out its role and remit in more detail.
+The programme is overseen by a leadership group drawn from across the public, private and third sectors. The group's [terms of reference](/about/leadership-group-tor/) set out its role and remit in more detail.
 
 Our work on digital participation is closely linked to the wider [Digital Scotland](http://www.digitalscotland.org/") agenda, which is led by the [Scottish Government](http://www.scotland.gov.uk).
 
