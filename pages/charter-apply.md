@@ -6,4 +6,4 @@ layout: page
 permalink: /charter/apply/
 ---
 
-We're working on this bit now, please come back soon.
+We're still working on this bit, please try again soon.
