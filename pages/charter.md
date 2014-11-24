@@ -26,4 +26,4 @@ Together, charter signatories commit to:
 
 We need to know a little bit about your organisation to get you signed up to the charter. Once we have this we will be in touch to confirm your support and talk about how we can work together. If you have any questions then please contact [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
-<a href="/charter/sign/" class="btn btn-primary btn-lg">Sign the charter</a>
+<a href="/charter/apply/" class="btn btn-primary btn-lg">Sign the charter</a>
