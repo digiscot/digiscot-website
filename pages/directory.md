@@ -8,8 +8,6 @@ permalink: /directory/
 
 We know it's not always easy to find this sort of help, so we're building a directory of places in Scotland where it's on offer. This includes places like libraries and computer clubs, and everything from formal courses to informal drop-in sessions.
 
-Now I'll find out about the hashtag problem
-
 ### Search the directory
 
 To see what's listed in your area, start by entering a postcode.
