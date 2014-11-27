@@ -8,10 +8,6 @@ permalink: /directory/
 
 We know it's not always easy to find this sort of help, so we're building a directory of places in Scotland where it's on offer. This includes places like libraries and computer clubs, and everything from formal courses to informal drop-in sessions.
 
-- I'm just having another practice - hope that's okay
-#I think this is a first stage heading - although I'm not sure whether I have to put this at the end as well#
-##I think this is a second stage heading
-
 Now I'll find out about the hashtag problem
 
 ### Search the directory
