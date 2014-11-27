@@ -2,13 +2,13 @@ function campaignhelper_checkemail(email) { return new RegExp("^[\\w-_\.+]*[\\w-
 <div id="campaignhelper_progress" style="display:none;"></div>
 <form id="campaignhelper_signup" class="campaignhelper_signup" method="post" action="http://scvo.cmph.org/f/o0HMBAgKoPw">
 <div id="CH_FIELD_CONTAINER_FORENAME" class="field">
-<label for="CH_FIELD_FORENAME">Forename:</label> <input type="text" id="CH_FIELD_FORENAME" name="CH_FIELD_FORENAME" value="" size="40" />
+<label for="CH_FIELD_FORENAME">First name:</label> <input type="text" id="CH_FIELD_FORENAME" name="CH_FIELD_FORENAME" value="" size="40" />
 </div>
 <div id="CH_FIELD_CONTAINER_SURNAME" class="field">
-<label for="CH_FIELD_SURNAME">Surname:</label> <input type="text" id="CH_FIELD_SURNAME" name="CH_FIELD_SURNAME" value="" size="40" />
+<label for="CH_FIELD_SURNAME">Last name:</label> <input type="text" id="CH_FIELD_SURNAME" name="CH_FIELD_SURNAME" value="" size="40" />
 </div>
 <div id="CH_FIELD_CONTAINER_1" class="field">
-<label for="CH_FIELD_1">Name of Organisation:</label> <input type="text" id="CH_FIELD_11" name="CH_FIELD_11" value="" size="40" />
+<label for="CH_FIELD_1">Organisation:</label> <input type="text" id="CH_FIELD_11" name="CH_FIELD_11" value="" size="40" />
 </div>
 <div id="CH_FIELD_CONTAINER_EMAIL" class="field required"><label for="CH_FIELD_EMAIL">E-mail address:</label> <input type="text" id="CH_FIELD_EMAIL" name="CH_FIELD_EMAIL" value="" size="50" />
 </div>
