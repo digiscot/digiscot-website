@@ -22,8 +22,8 @@ We're happy to publish posts written by other people too, so if you'd like to ta
 
 <a href="http://www.scvo.org.uk/blog" class="btn btn-primary btn-lg">See all blogs</a>
 
-### Our bulletin
+### Our mailing list
 
 Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland and beyond.
 
-<a href="/about/bulletin/" class="btn btn-primary btn-lg">Subscribe to our bulletin</a>
+<a href="/subscribe/" class="btn btn-primary btn-lg">Join our mailing list</a>
