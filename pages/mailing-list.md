@@ -1,9 +1,9 @@
 ---
-title: Subscribe to our bulletin
+title: Join our mailing list
 excerpt: Fill in the form below to subscribe to our fortnightly email bulletin.
 
 layout: page
-permalink: /about/bulletin/
+permalink: /mailing-list/
 ---
 
 <div>
