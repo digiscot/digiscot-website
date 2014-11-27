@@ -7,5 +7,5 @@ permalink: /about/bulletin/
 ---
 
 <div>
-<script src="http://scvo.cmph.org/f/o0HMBAgKoPw?js=1"></script>
+<script src="http://digital.scvo.org.uk/js/cmph.js?js=1"></script>
 </div>
