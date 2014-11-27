@@ -12,7 +12,7 @@ We are also working closely with organisations that have signed [Scotland's digi
 
 All successful applicants will have a project page on this website where they can tell their story, so that others can see what works and learn from their experience.
 
-<a href="/challenge/apply/" class="btn btn-disabled btn-lg">Applications open again in January</a>
+<a href="/challenge/apply/" class="btn btn-primary btn-lg" disabled="disabled">Applications open again in January</a>
 
 ### Key dates for 2014-15
 
