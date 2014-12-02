@@ -22,6 +22,12 @@ We're happy to publish posts written by other people too, so if you'd like to ta
 
 <a href="http://www.scvo.org.uk/blog" class="btn btn-primary btn-lg">See all blogs</a>
 
+### Recommended reading
+
+Digital participation is a hot topic for policymakers. We've picked out some of the best reports to get you up to speed on the issues.
+
+<a href="/reading/" class="btn btn-primary btn-lg">Find out more</a>
+
 ### Our mailing list
 
 Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland and beyond.
