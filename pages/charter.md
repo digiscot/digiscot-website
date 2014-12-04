@@ -22,7 +22,7 @@ Together, Charter signatories commit to:
 4. Channelling our efforts through the Digital Participation Programme, so that our activities can be coordinated for maximum impact and measured consistently
 5. Using common language based on digital participation and basic online skills, to make our thinking and actions as clear as possible
 
-You can [download a print version of the charter](/images/charter.pdf) to share with colleagues and use within your organisation.
+You can [download a print version](/images/charter.pdf) to share with colleagues and use within your organisation.
 
 ### Pledge your support
 
