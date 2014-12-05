@@ -1,6 +1,6 @@
 ---
-title: Sign the charter
-excerpt: Use this form to sign our digital participation charter.
+title: Sign the Charter
+excerpt: Use this form to sign our Digital Participation Charter.
 
 layout: page
 permalink: /charter/apply/
