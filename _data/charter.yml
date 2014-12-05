@@ -160,6 +160,9 @@
 - name: RNIB
   image: rnib.jpg
   url: 
+- name: R3D
+  image: r3d.jpg
+  url: 
 - name: Scottish Council On Deafness
   image: scod.jpg
   url: 
