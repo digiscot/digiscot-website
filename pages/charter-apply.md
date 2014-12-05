@@ -10,4 +10,6 @@ Thank you for your interest in becoming a Digital Participation Charter signator
 
 ---
 
+[INSERT FORM HERE]
+
 We're making a few improvements to our online sign-up form. It'll be back soon, in the meantime for more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
