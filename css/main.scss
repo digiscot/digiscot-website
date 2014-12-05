@@ -172,7 +172,8 @@ img.logo {
   background-image: url('/images/splash.jpg');
   
   .jumbotron {
-    background-color: rgba(255, 255, 255, 0.5);  
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-bottom: $spacing-unit / 2;  
   }
   
   h1 {
@@ -184,6 +185,11 @@ img.logo {
   
   p {
     color: #000000;
+  }
+  
+  img {
+    width: $spacing-unit * 4;
+    margin-bottom: $spacing-unit / 2;
   }
   
 }
