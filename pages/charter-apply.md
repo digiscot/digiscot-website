@@ -12,4 +12,6 @@ Thank you for your interest in becoming a Digital Participation Charter signator
   <iframe class="embed-responsive-item" src="http://www.fundingscotland.com/digitalcontacts/PledgeYourSupport"></iframe>
 </div>
 
+<br />
+
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
