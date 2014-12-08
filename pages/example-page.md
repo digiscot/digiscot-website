@@ -42,7 +42,7 @@ Here's how to make a numbered list:
 
 Headings come in sizes 1 (largest) to 6 (smallest). Use size 3 for subheadings within a page.
 
-### Here is subheading
+### Here is a subheading
 
 Want to learn more? Try this [Markdown basics](https://daringfireball.net/projects/markdown/basics) guide.
 
