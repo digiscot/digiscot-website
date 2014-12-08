@@ -20,6 +20,14 @@ Here's how to insert a picture:
 
 ![SCVO Logo](/images/scvo.png)
 
+And how to insert a picture that lives somewhere else:
+
+![The internet tree](http://www.scvo.org.uk/wp-content/uploads/2013/12/news-digital-participation-main-banner-940x292px.png)
+
+Here's a horizontal line:
+
+---
+
 Here's how to make a bulleted list:
 
 - List item
