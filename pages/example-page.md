@@ -44,7 +44,7 @@ Headings come in sizes 1 (largest) to 6 (smallest). Use size 3 for subheadings w
 
 ### Here is a subheading
 
-This [Wikipedia page on Markdown](http://en.wikipedia.org/wiki/Markdown) has some more info on how Markdown works.
+This [Wikipedia page](http://en.wikipedia.org/wiki/Markdown) has some more info on how Markdown works.
 
 ### Ready to start editing?
 
