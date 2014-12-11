@@ -6,8 +6,6 @@ layout: page
 permalink: /example-page/
 ---
 
-Hello team. Merry christmas!
-
 This is an example of how our pages get converted from Markdown (.md) files to nicely formatted web pages. It'll make more sense if you open the [source file](https://github.com/digiscot/digiscot.github.io/blob/master/pages/example-page.md) next to this window.
 
 Here is some plain text. Lovely, lovely text.
