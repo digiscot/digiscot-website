@@ -1,6 +1,6 @@
 ---
 title: Example project 3
-excerpt: Here comes a very short summary of what this project is all about.
+excerpt: This is an example project page. We will be setting up new project pages soon!
 image: 
 lead: 123 Organisation
 link: http://www.example.com
