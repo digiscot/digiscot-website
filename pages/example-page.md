@@ -51,3 +51,5 @@ Want to learn more? Try this [Markdown basics](https://daringfireball.net/projec
 ### Ready to start editing?
 
 You'll need to sign up for a free [GitHub](http://github.com) account. Then head over to [our repository](https://github.com/digiscot/digiscot.github.io/), find the file you want and click on edit. Once you're happy with your changes, send a pull request so we know you want us to incorporate your changes.
+
+Here's a [direct link to the source file for this page](https://github.com/digiscot/digiscot.github.io/blob/master/pages/example-page.md).
