@@ -10,7 +10,7 @@ We know it's not always easy to find this sort of help, so we're building a dire
 
 ### Search the directory
 
-To see what's listed in your area, start by entering a postcode.
+To see what's listed in your area, start by entering a full postcode. A full postcode will give you the most accurate information
 
 <form class="form-inline form-front" role="form" action="http://letsgeton.digitalscotland.org/Search" method="GET">
   <input type="text" class="form-control input-lg" id="postcode" name="geo.postcode" placeholder="Enter postcode">
