@@ -1,6 +1,6 @@
 ---
 title: Leadership group
-excerpt: Terms of reference for our cross-sector leadership group.
+excerpt: Terms of reference for our cross-sector Leadership Group.
 
 layout: page
 permalink: /about/leadership-group-tor/
