@@ -8,7 +8,7 @@ permalink: /about/leadership-group-tor/
 
 ### Introduction
 
-The aims of the Digital Participation Programme are to
+The aims of the Digital Participation Programme are:
 
 - To increase rates of digital participation amongst people in Scotland to meet the Scottish Government’s objective of enabling Scotland to have the highest rates of participation of any country in the United Kingdom
 - To grow the digital capability of the of the voluntary sector in Scotland so that its staff develop digital skills in line with the commitments of Scotland’s Digital Pparticipation Charter and the sector itself is better able to engage with and provide support and services to clients through digital channels
@@ -25,14 +25,14 @@ Membership will be considered on a biennial basis (process to be agreed).
 
 Ultimate contractual responsibility rests with SCVO’s Management Board for the content of the Digital Participation programme.
 
-### Role of the Group
+### Role of the group
 
 The Leadership Group will:
 
-- Make decisions on the strategic allocation and management of resources;
-- Determine priorities within the portfolio programme;
-- Commission work within the terms of the Digital Participation portfolio;
-- Review and evaluate programme outcomes and impacts;.
+- Make decisions on the strategic allocation and management of resources
+- Determine priorities within the portfolio programme
+- Commission work within the terms of the Digital Participation portfolio
+- Review and evaluate programme outcomes and impacts
 
 ### Quorum
 
