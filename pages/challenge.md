@@ -22,31 +22,7 @@ Call 1: Announcement
 
 Over seventy applications were made to Call 1.  The digital participation leadership group has made twenty five direct offers and have made offers to a further twenty nine organisations to partner with Charter Signatories.  All successful projects will have their own project page in the New Year.  Below are the organisations which have received direct offers:
 
-Spruce Carpets Ltd
-Linthouse Monday Club
-Toryglen Community Base
-The Libertie Project
-Old Torry Community Centre
-The Greenhouse Shop CIC
-Mydex CIC
-Homstart Majik
-Applecross Community Company
-The Annex Healthy Living Centre
-SHMU
-Comas
-Project Scotland
-CVO East Ayrshire
-Scottish Council on Deafness 
-Bethany Christian Trust 
-Queens Cross Housing Association
-Ormlie Community Association
-Link Group Ltd.,
-Homelands Trust Fife
-Volunteer Centre Dundee
-Opportunity Enhancement Trust
-Capability Scotland
-Midlothian Voluntary Action
-Coupar Angus Regeneration Trust
+Spruce Carpets Ltd:     Linthouse Monday Club:     Toryglen Community Base:     The Libertie Project:     Old Torry Community Centre:     The Greenhouse Shop CIC:     Mydex CIC:     Homstart Majik:     Applecross Community Company:     The Annex Healthy Living Centre:     Station House Media Unit:     Comas:     Project Scotland:     CVO East Ayrshire:     Scottish Council on Deafness:     Bethany Christian Trust:     Queens Cross Housing Association:     Ormlie Community Association: Link Group Ltd:     Homelands Trust Fife:     Volunteer Centre Dundee:     Opportunity Enhancement Trust:     Capability Scotland:     Midlothian Voluntary Action:     Coupar Angus Regeneration Trust
 
 
 Call 2:
