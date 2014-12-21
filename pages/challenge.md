@@ -31,4 +31,4 @@ Call 2:
 - Deadline for applications: Friday 13 February 2015
 - Notification of award: By Friday 20 March 2015
 
-We will be announcing the successful awards from Call 1 shortly, and will be keeping you fully informed on how these projects progress.
+
