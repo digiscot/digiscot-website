@@ -5,7 +5,8 @@ excerpt: Charities and voluntary organisations have a huge amount to gain if the
 layout: page
 permalink: /internships/
 ---
-**Round two deadline - Monday 2nd February** 
+
+### ** Round two deadline: Monday 2nd February ** 
 
 Let’s Get Digital is our business growth programme for charities and voluntary organisations. It's an opportunity to tap into knowledge, expertise and enthusiasm to boost business growth and competitiveness in the third sector, and to increase digital skills and capability.
 
