@@ -16,7 +16,7 @@ All successful applicants will have a project page on this website where they ca
 
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
-###**Challenge Fund Call 2 Information Session**
+###**Challenge Fund Call 2 Information Sessions**
 
 We're providing a series of sessions where organisations intending to submit an application can meet with a member of the team to ask questions and discuss their application. 
 
