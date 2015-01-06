@@ -1,13 +1,10 @@
 ---
 title: Let's Get Digital internships
 excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
+alert: Deadline for Round 2 applications is Monday 2nd February
 
 layout: page
 permalink: /internships/
----
-
-#### ** Latest news: Deadline for Round 2 applications is Monday 2nd February ** 
-
 ---
 
 Let’s Get Digital is our business growth programme for charities and voluntary organisations. It's an opportunity to tap into knowledge, expertise and enthusiasm to boost business growth and competitiveness in the third sector, and to increase digital skills and capability.
