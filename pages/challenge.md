@@ -1,6 +1,7 @@
 ---
 title: Challenge Fund and Projects
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
+alert: Applications for Call 2 open on Monday 12 January.
 
 layout: challenge
 permalink: /challenge/
@@ -16,31 +17,41 @@ All successful applicants will have a project page on this website where they ca
 
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
-###**Challenge Fund Call 2 Information Sessions**
+---
+
+### Call 2 (Spring 2015)
+
+#### Key dates
+
+- Launch of online application: Monday 12 January 2015
+- Deadline for applications: Friday 13 February 2015
+- Notification of award: By Friday 20 March 2015
+
+#### Information sessions
 
 We're providing a series of sessions where organisations intending to submit an application can meet with a member of the team to ask questions and discuss their application. 
 
-**Tuesday 13th January - Inverness**
-Sessions available between: 1-5pm
+**Tuesday 13th January - Inverness**  
+Sessions available between: 1-5pm  
 Location: Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA
 
-**Wednesday 14th January - Edinburgh**
-Sessions available between: 10am - 2pm
+**Wednesday 14th January - Edinburgh**  
+Sessions available between: 10am - 2pm  
 Location: Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB
 
-**Thursday 15th January - Glasgow**
-Sessions available between: 10am - 3:30pm
+**Thursday 15th January - Glasgow**  
+Sessions available between: 10am - 3:30pm  
 Location: Albany Centre, 44 Ashley St, Glasgow, G3 6DS. 
 
 To book a slot on any of these dates please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk). There will also be the opportunity to participate by video conference on additional dates, again please email to let us know if this is your preference. 
 
+---
 
+### Call 1 (Winter 2014)
 
-### Key dates for 2014-15
+#### Announcement of successful applicants
 
-#### Call 1: Announcement
-
-Over seventy applications were made to Call 1. The [Digital Participation Leadership Group](/about/) has made twenty-five direct offers of funding for digital participation projects, and has also made a further twenty-nine offers for projects to partner with organisations that have signed [Scotland's Digital Participation Charter](/charter/). All successful projects will have their own project page online in early 2015.
+Over seventy applications were made to Call 1. The [Digital Participation Leadership Group](/about/) has made twenty-five direct offers of funding for digital participation projects, and has also made a further twenty-nine offers for projects to partner with organisations that have signed [Scotland's Digital Participation Charter](/charter/).
 
 The following have received direct offers of funding:
 
@@ -70,8 +81,4 @@ The following have received direct offers of funding:
 24. Midlothian Voluntary Action
 25. Coupar Angus Regeneration Trust
 
-#### Call 2:
-
-- Launch of online application: Monday 12 January 2015
-- Deadline for applications: Friday 13 February 2015
-- Notification of award: By Friday 20 March 2015
+All successful projects will have their own project page online in early 2015.
