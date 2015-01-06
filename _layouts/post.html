@@ -20,8 +20,10 @@ layout: default
       <p class="text-muted"><small>{{ page.date | date: "%d %B %Y" }}</small></p>
       <hr />
     
+      {% if page.excerpt %}
       <p class="lead">{{ page.excerpt }}</p>
       <hr />
+      {% endif %}
       
       {% if page.featured-image %}<p><img src="/images/{{ page.featured-image }}" /></p>{% endif %}
 
