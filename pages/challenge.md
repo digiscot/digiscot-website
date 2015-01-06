@@ -17,9 +17,9 @@ All successful applicants will have a project page on this website where they ca
 
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
----
-
 ## Call 2 (Spring 2015)
+
+---
 
 ### Key dates
 
@@ -45,9 +45,9 @@ Location: Albany Centre, 44 Ashley St, Glasgow, G3 6DS.
 
 To book a slot on any of these dates please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk). There will also be the opportunity to participate by video conference on additional dates, again please email to let us know if this is your preference. 
 
----
-
 ## Call 1 (Winter 2014)
+
+---
 
 ### Announcement of successful applicants
 
