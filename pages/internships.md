@@ -1,7 +1,7 @@
 ---
 title: Let's Get Digital internships
 excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
-alert: Deadline for Round 2 applications is Monday 2nd February
+alert: Deadline for Round 2 applications is Monday 2nd February.
 
 layout: page
 permalink: /internships/
