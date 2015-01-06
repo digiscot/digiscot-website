@@ -16,8 +16,10 @@ layout: default
   <div class="row">
     <div class="col-md-8">
     
+      {% if page.excerpt %}
       <p class="lead">{{ page.excerpt }}</p>
       <hr />
+      {% endif %}
       
       <p>Led by: <a href="{{ page.link }}">{{ page.lead }}</a></p>
       <p>Runs from: {{ page.start }} to {{ page.end }}</p>
