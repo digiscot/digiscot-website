@@ -1,5 +1,5 @@
 <p>
-<a href="http://www.facebook.com/sharer/sharer.php?p[url]={{ page.url | prepend: site.url }}&[title]={{ page.title }}" target="_blank" class="btn btn-primary" title="Share on Facebook"><i class="fa fa-fw fa-facebook"></i></a>
+<a href="http://www.facebook.com/sharer/sharer.php?p[url]={{ page.url | prepend: site.url }}&[title]={% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" target="_blank" class="btn btn-primary" title="Share on Facebook"><i class="fa fa-fw fa-facebook"></i></a>
 <a href="http://twitter.com/intent/tweet/?text={{ page.title }}&url={{ page.url | prepend: site.url }}&via={{ site.twitter }}" target="_blank" class="btn btn-primary" title="Share on Twitter"><i class="fa fa-fw fa-twitter"></i></a>
 <a href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" target="_blank" class="btn btn-primary"><i class="fa fa-fw fa-google-plus" title="Share on Google+"></i></a>
 <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url }}&title={{ page.title }}" target="_blank" class="btn btn-primary" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin"></i></a>
