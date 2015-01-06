@@ -17,8 +17,10 @@ layout: default
   <div class="row">
     <div class="col-md-8">
 
+      {% if page.excerpt %}
       <p class="lead">{{ page.excerpt }}</p>
       <hr />
+      {% endif %}
 
       {{ content }}
     
