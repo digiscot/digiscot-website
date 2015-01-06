@@ -19,15 +19,15 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 
 ---
 
-### Call 2 (Spring 2015)
+## Call 2 (Spring 2015)
 
-#### Key dates
+### Key dates
 
 - Launch of online application: Monday 12 January 2015
 - Deadline for applications: Friday 13 February 2015
 - Notification of award: By Friday 20 March 2015
 
-#### Information sessions
+### Information sessions
 
 We're providing a series of sessions where organisations intending to submit an application can meet with a member of the team to ask questions and discuss their application. 
 
@@ -47,9 +47,9 @@ To book a slot on any of these dates please email [digital@scvo.org.uk](mailto:d
 
 ---
 
-### Call 1 (Winter 2014)
+## Call 1 (Winter 2014)
 
-#### Announcement of successful applicants
+### Announcement of successful applicants
 
 Over seventy applications were made to Call 1. The [Digital Participation Leadership Group](/about/) has made twenty-five direct offers of funding for digital participation projects, and has also made a further twenty-nine offers for projects to partner with organisations that have signed [Scotland's Digital Participation Charter](/charter/).
 
@@ -81,4 +81,4 @@ The following have received direct offers of funding:
 24. Midlothian Voluntary Action
 25. Coupar Angus Regeneration Trust
 
-All successful projects will have their own project page online in early 2015.
+All successful applicants will have their own project page online in early 2015.
