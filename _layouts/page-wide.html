@@ -20,6 +20,10 @@ layout: default
       <p class="lead">{{ page.excerpt }}</p>
       <hr />
       {% endif %}
+      
+      {% if page.alert %}
+      <div class="alert alert-info" role="alert"><p><i class="fa fa-info-circle"></i> {{ page.alert }}</p></div>
+      {% endif %}
 
       {{ content }}
     
