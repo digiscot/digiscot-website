@@ -40,7 +40,8 @@ Secondly, we would like to know how you will monitor the progress of the project
 For any applicants who anticipate potential barriers to recruiting an intern locally (lack of premises or remote/rural location etc) there is scope for the interns to be hosted at the premises of the business mentor. If you think this may help your project come to fruition please make it known.
 
 ---
-###Section 3:
+
+### Section 3:
 
 **3.3** – This answer will form the basis of the job advert that goes out via JobCentre Plus so think carefully about what to include here. In addition to the core aspects of the internship role (developing the new website, for example) there may be associated tasks, such as training staff on how to keep it up-to-date or reporting on progress at weekly meetings that should be included as well.
 
@@ -51,6 +52,7 @@ Avoid including generic statements such as “help around the office” – reme
 **3.6** - The intern is going to be working with you as a full member of the team for the duration of their placement so they will experience a real range of different activities and processes. Have a think about the different aspects that they will be involved in or manage, some examples may be – project management, presentation skills, experiencing the third sector, visit some front line services, report writing, time management etc.
 
 ---
+
 ### Section 4:
 
 **4.1** – We want to ensure that the intern is going to get the support, supervision and mentoring that they need to be successful in their project. In your response please make sure that you explain who they will be reporting to, how their progress will be monitored and how of often this will happen. Explain how they will be inducted to your organisation, and if you will provide any on the job training.
@@ -61,7 +63,6 @@ Avoid including generic statements such as “help around the office” – reme
 
 Please remember that we’re here to help. If you have any questions at any stage of your application please contact us on the addresses below.
 
-Alastair Watson – Lowlands and Uplands Co-ordinator – alastair.watson@scvo.org.uk 
+Alastair Watson – Lowlands and Uplands Co-ordinator – [alastair.watson@scvo.org.uk](mailto:alastair.watson@scvo.org.uk) 
 
-Beverley Maclean – Highlands and Islands Co-ordinator – beverley.maclean@scvo.org.uk
-
+Beverley Maclean – Highlands and Islands Co-ordinator – [beverley.maclean@scvo.org.uk](mailto:beverley.maclean@scvo.org.uk)
