@@ -78,3 +78,7 @@ The following have received direct offers of funding:
 25. Coupar Angus Regeneration Trust
 
 All successful applicants will have their own project page online in early 2015.
+
+---
+
+![ERDF](/images/erdf.jpg)

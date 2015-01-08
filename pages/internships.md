@@ -47,4 +47,6 @@ Some [extra guidance notes](/internships/guidance/) are available to help you co
 
 <a href="http://www.scvo.org.uk/jobs-employability/apply-to-host-a-business-growth-graduate-internship/" class="btn btn-primary btn-lg">Find out more and apply</a>
 
+---
+
 ![ERDF](/images/erdf.jpg)
