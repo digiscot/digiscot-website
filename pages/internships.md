@@ -46,3 +46,5 @@ Once your application has been submitted, our assessment team will review the ap
 Some [extra guidance notes](/internships/guidance/) are available to help you complete your application.
 
 <a href="http://www.scvo.org.uk/jobs-employability/apply-to-host-a-business-growth-graduate-internship/" class="btn btn-primary btn-lg">Find out more and apply</a>
+
+![ERDF](/images/erdf.jpg)
