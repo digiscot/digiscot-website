@@ -37,9 +37,7 @@ permalink: /example-page/
 ---
 ```
 
-Below this you can put your page content. You can use [Markdown syntax](https://help.github.com/articles/markdown-basics/) for things like headings and links.
-
-It's often easiest to start by copying and pasting from a similar page and then adapting it to your needs.
+Below this you can put your page content. You can use [Markdown syntax](https://help.github.com/articles/markdown-basics/) for things like headings and links. It's often easiest to start by copying and pasting from a similar page and then adapting it to your needs.
 
 If you add a new profile page (e.g. a new charter signatory) then an entry for it will automatically appear on the matching regular page (e.g. the main charter page).
 
