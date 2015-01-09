@@ -2,8 +2,6 @@
 
 This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.uk)
 
----
-
 ### Where to find things
 
 **Regular pages** are at:
