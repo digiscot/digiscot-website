@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Example page title
 excerpt: A one or two sentence summary of what this page is about goes here. This one is about how pages on the site work.
-
-layout: page
 permalink: /example-page/
 ---
 

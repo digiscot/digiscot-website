@@ -121,10 +121,6 @@ h3, h4, h5, h6 {
   line-height: 1.2;
 }
 
-.well h4 {
-  margin-top: $spacing-unit / 3;
-}
-
 
 
 // Images
@@ -133,7 +129,7 @@ img {
   max-width: 100%;
 }
 
-img.project {
+img.main {
   margin-bottom: $spacing-unit;
 }
 

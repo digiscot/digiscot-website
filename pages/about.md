@@ -1,8 +1,7 @@
 ---
+layout: about
 title: About
 excerpt: We think the internet should be for everyone, so we're leading an ambitious programme to promote digital participation and basic online skills.
-
-layout: about
 permalink: /about/
 ---
 
@@ -10,7 +9,7 @@ It’s easy to take the internet for granted, but more than a million people in 
 
 We’re part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk), and are working with partners across the country to promote digital participation.
 
-The programme is overseen by a leadership group drawn from across the public, private and third sectors. The group's [terms of reference](/about/leadership-group-tor/) set out its role and remit in more detail.
+The programme is overseen by a leadership group drawn from across the public, private and third sectors. The group's [terms of reference](/about/leadership-group/) set out its role and remit in more detail.
 
 Our work on digital participation is generously funded by the [Scottish Government](http://www.scotland.gov.uk) and closely linked to the wider [Digital Scotland](http://www.digitalscotland.org/") agenda.
 
@@ -26,7 +25,7 @@ We're happy to publish posts written by other people too, so if you'd like to ta
 
 Digital participation is a hot topic for policymakers. We've picked out some of the best reports to get you up to speed on the issues.
 
-<a href="/reading/" class="btn btn-primary btn-lg">Find out more</a>
+<a href="/about/reading/" class="btn btn-primary btn-lg">Find out more</a>
 
 ### Our mailing list
 

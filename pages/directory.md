@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Let's Get On directory
 excerpt: For many people who want to learn how to do things online, taking the first step is easier if there's someone else around to lend a helping hand.
-
-layout: page
 permalink: /directory/
 ---
 

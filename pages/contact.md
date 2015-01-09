@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Contact us
 excerpt: Have a question or want to talk to us? Here's how to get in touch.
-
-layout: page
 permalink: /contact/
 ---
 

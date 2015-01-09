@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Third sector data platforms and skills
 excerpt: We're exploring ways to make data about the third sector more accessible, and what we need to do to help people to work with it. 
-
-layout: page
 permalink: /data/
 ---
 

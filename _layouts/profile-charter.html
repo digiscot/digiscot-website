@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="splash-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Charter &raquo; {{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      
+      {% if page.image %}<p><img src="{{ page.image }}" class="charter" /></p>{% endif %}
+      
+      {% if page.link %}
+      <p>Website: <a href="{{ page.link }}">{{ page.link }}</a></p>
+      {% endif %}
+      
+      {% if page.twitter %}
+      <p>Twitter: <a href="{{ page.twitter | prepend: "https://twitter.com/" }}">@{{ page.twitter }}</a></p>
+      {% endif %}
+      
+      {% if page.email %}
+      <p>Email: <a href="{{ page.email | prepend: "mailto:" }}">{{ page.email }}</a></p>
+      {% endif %}
+      
+      {% if page.image or page.link or page.twitter or page.email %}
+      <hr />
+      {% endif %}     
+
+      {{ content }}
+      
+      {% include sidebar-edit.html %}
+    
+    </div>
+    <div class="col-md-4">
+    
+    {% include sidebar.html %}
+        
+    </div>
+  </div>
+</div>

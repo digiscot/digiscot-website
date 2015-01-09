@@ -1,9 +1,8 @@
 ---
+layout: page
 title: Recommended reading
 excerpt: Plenty of smart people have been thinking about digital participation. Here are our top picks.
-
-layout: page
-permalink: /reading/
+permalink: /about/reading/
 ---
 
 Facts, figures, reports and recommendations are important ingredients in the debate on digital participation. We've picked out some recommended reading to get you started. If there are other things you think we should include then please [let us know](/contact/).

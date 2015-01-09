@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="splash-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Challenge &raquo; {{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+    
+      {% if page.excerpt %}
+      <p class="lead">{{ page.excerpt }}</p>
+      <hr />
+      {% endif %}
+      
+      <p>Led by: <a href="{{ page.link }}">{{ page.lead }}</a></p>
+      <p>Runs from: {{ page.start }} to {{ page.end }}</p>
+      <p>Challenge fund award: {{ page.award }}</p>
+      <hr />
+      
+      {% if page.image %}<p><img src="{{ page.image }}" class="main" /></p>{% endif %}
+
+      {{ content }}
+      
+      {% include sidebar-edit.html %}
+    
+    </div>
+    <div class="col-md-4">
+    
+    {% include sidebar.html %}
+        
+    </div>
+  </div>
+</div>

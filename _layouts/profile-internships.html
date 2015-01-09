@@ -6,7 +6,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1>{{ page.title }}</h1>
+        <h1>Internships &raquo; {{ page.title }}</h1>
       </div>
     </div>
   </div>
@@ -21,21 +21,20 @@ layout: default
       <hr />
       {% endif %}
       
-      <p>Led by: <a href="{{ page.link }}">{{ page.lead }}</a></p>
+      <p>Hosted by by: <a href="{{ page.link }}">{{ page.host }}</a></p>
       <p>Runs from: {{ page.start }} to {{ page.end }}</p>
-      <p>Challenge fund award: {{ page.award }}</p>
       <hr />
       
-      {% if page.image %}<p><img src="/images/projects/{{ page.image }}" class="project" /></p>{% endif %}
+      {% if page.image %}<p><img src="{{ page.image }}" class="main" /></p>{% endif %}
 
       {{ content }}
+      
+      {% include sidebar-edit.html %}
     
     </div>
     <div class="col-md-4">
     
     {% include sidebar.html %}
-    
-    {% include sidebar-project.html %}
         
     </div>
   </div>

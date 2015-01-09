@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Digital Scotland festival
 excerpt: Join us for a series of free networking and discussion events exploring all things digital.
-
-layout: page
 permalink: /festival/
 ---
 

@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Sign the Charter
 excerpt: Use this form to sign our Digital Participation Charter.
-
-layout: page-wide
 permalink: /charter/apply/
 ---
 

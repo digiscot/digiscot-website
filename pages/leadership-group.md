@@ -1,9 +1,8 @@
 ---
+layout: page
 title: Leadership group
 excerpt: Terms of reference for our cross-sector Leadership Group.
-
-layout: page
-permalink: /about/leadership-group-tor/
+permalink: /about/leadership-group/
 ---
 
 ### Introduction
