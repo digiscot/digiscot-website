@@ -4,7 +4,23 @@ This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.
 
 ---
 
-### Adding new pages
+### Where to find things
+
+Regular pages are at:
+
+```
+/pages/
+```
+
+Profile pages for projects, placements and charter signatories are at:
+
+```
+/profiles/challenge/
+/profiles/charter/
+/profiles/internships/
+```
+
+### Adding pages
 
 Navigate to the relevant folder and use the `+` button to add a new page.
 
@@ -34,22 +50,6 @@ Once you are finished editing, one of two things needs to happen.
 If you have sufficient privileges then you can choose `Commit changes`. Your changes will go live on the website within a couple of minutes.
 
 Otherwise you can choose `Submit pull request`. This will notify the team that you have proposed a change. We will review this ASAP.
-
-### Where to find things
-
-Regular pages are at:
-
-```
-/pages/
-```
-
-Profile pages for projects, placements and charter signatories are at:
-
-```
-/profiles/challenge/
-/profiles/charter/
-/profiles/internships/
-```
 
 ### Uploading images
 
