@@ -21,7 +21,7 @@ permalink: /example-page/
 ---
 ```
 
-Below this you can put your page content. You can use **Markdown** formatting for things like headings and links.
+Below this you can put your page content. You can use **Markdown** formatting for things like headings and links. You can find an example page with different Markdown elements [here](http://digital.scvo.org.uk/example-page/).
 
 It's often easiest to start by copying and pasting from a similar page and then adapting it to your needs.
 
