@@ -41,6 +41,8 @@ Below this you can put your page content. You can use [Markdown syntax](https://
 
 If you add a new profile page (e.g. a new charter signatory) then an entry for it will automatically appear on the matching regular page (e.g. the main charter page).
 
+Once you are finished, click `Commit new file` to save it.
+
 **NB: You will need sufficient privileges to add new pages.**
 
 ### Editing pages
