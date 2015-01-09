@@ -10,7 +10,7 @@ Navigate to the relevant folder and use the `+` button to add a new page.
 
 Please give your file a sensible name, and make sure it ends in `.md`.
 
-Your file will need some **front matter** at the top, to specify things like the page layout and permalink. Front matter lives between two sets of `---` marks and looks something like this:
+Your file will need some [front matter](http://jekyllrb.com/docs/frontmatter/) at the top, to specify things like the page layout and permalink. Front matter lives between two sets of `---` marks and looks something like this:
 
 ```
 ---
@@ -21,7 +21,7 @@ permalink: /example-page/
 ---
 ```
 
-Below this you can put your page content. You can use **Markdown** formatting for things like headings and links. You can find an example page with different Markdown elements [here](http://digital.scvo.org.uk/example-page/).
+Below this you can put your page content. You can use [Markdown syntax](https://help.github.com/articles/markdown-basics/) for things like headings and links.
 
 It's often easiest to start by copying and pasting from a similar page and then adapting it to your needs.
 
