@@ -65,7 +65,7 @@ layout: default
         {% for page in site.pages %}
           {% if page.layout == 'profile-charter' %}
           
-            <p class="p-index"><strong><a href="{{ page.url }}">{{ page.title }}</a></strong></p>
+            <p><strong><a href="{{ page.url }}">{{ page.title }}</a></strong></p>
             
             {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
             
@@ -79,6 +79,26 @@ layout: default
   
     </div>
   
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12">
+    
+      <hr />
+  
+      <p class="text-center">
+      
+        {% for page in site.pages %}
+          {% if page.layout == 'profile-charter' %}
+          
+            <a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.title }}" class="charter" /></a>     
+            
+          {% endif %}
+        {% endfor %}
+
+      </p>
+
+    </div>
   </div>
 
 </div>
