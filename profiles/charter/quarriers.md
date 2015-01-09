@@ -2,8 +2,8 @@
 layout: profile-charter
 title: Quarriers
 excerpt: 
-link: 
-twitter: 
+link: http://www.quarriers.org.uk
+twitter: quarriers
 email: 
 image: /images/charter/quarriers.jpg
 permalink: /charter/quarriers/
