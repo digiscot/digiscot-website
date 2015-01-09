@@ -1,6 +1,6 @@
 # SCVO Digital Participation
 
-This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.uk)
+This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.uk).
 
 ### Where to find things
 
@@ -78,4 +78,4 @@ When you are finished adding images, click `Commit to master` and then `Sync` to
 
 ### Contact
 
-Enquiries to [@clry2](https://github.com/clry2)
+Enquiries to [@clry2](https://github.com/clry2).
