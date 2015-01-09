@@ -41,15 +41,16 @@ Below this you can put your page content. You can use [Markdown syntax](https://
 
 It's often easiest to start by copying and pasting from a similar page and then adapting it to your needs.
 
+If you add a new profile page (e.g. a new charter signatory) then an entry for it will automatically appear on the matching regular page (e.g. the main charter page).
+
 ### Editing pages
 
-Navigate to the relevant file and use the `Edit` button (it sometimes looks like a pencil).
+Navigate to the relevant file and use the `Edit` button (it usually looks like a pencil).
 
-Once you are finished editing, one of two things needs to happen.
+Once you are finished editing, one of two things needs to happen:
 
-If you have sufficient privileges then you can choose `Commit changes`. Your changes will go live on the website within a couple of minutes.
-
-Otherwise you can choose `Submit pull request`. This will notify the team that you have proposed a change. We will review this ASAP.
+1. If you have sufficient privileges then you can choose `Commit changes`. Your changes will go live on the website within a couple of minutes.
+2. Otherwise you can choose `Submit pull request`. This will notify the team that you have proposed a change. We will review this ASAP.
 
 ### Uploading images
 
