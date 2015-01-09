@@ -6,13 +6,13 @@ This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.
 
 ### Where to find things
 
-Regular pages are at:
+**Regular pages** are at:
 
 ```
 /pages/
 ```
 
-Profile pages for challenge projects, charter signatories and internship placements are at:
+**Profile pages** for challenge projects, charter signatories and internship placements are at:
 
 ```
 /profiles/challenge/
