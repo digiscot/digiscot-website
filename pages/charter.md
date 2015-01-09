@@ -1,8 +1,7 @@
 ---
+layout: charter
 title: Scotland's Digital Participation Charter
 excerpt: We're inviting organisations across Scotland to join a national movement to promote digital participation and basic online skills.
-
-layout: charter
 permalink: /charter/
 ---
 

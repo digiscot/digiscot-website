@@ -36,26 +36,49 @@ layout: default
     </div>
   </div>
   
-  <div class="row">
+  <div class="row" id="orgs">
     <div class="col-md-12">
     
-      <h2>Our partners<br />
-      <small>{{ site.data.charter | size }} organisations have signed the charter so far</small></h2>
-      <hr />
-  
-      <p class="text-center">
+      {% assign count = 0 %}
 
-        {% for item in site.data.charter %}
-          {% if item.url %}
-            <a href="{{ item.url }}"><img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter" /></a>
-          {% else %}
-            <img src="/images/charter/{{ item.image }}" alt="{{ item.name }}" class="charter" />
+      {% for page in site.pages %}
+        {% if page.layout == 'profile-charter' %}
+          {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+        {% endif %}
+      {% endfor %}
+    
+      <h2>Our partners<br />
+      <small>{{ count }} organisations have signed the Charter so far</small></h2>
+      <hr />
+    </div>
+  </div>
+  
+  <div class="row">
+
+    <div class="col-md-6">
+
+    {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
+    {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
+
+    {% assign idx = 0 %}
+    
+        {% for page in site.pages %}
+          {% if page.layout == 'profile-charter' %}
+          
+            <p class="p-index"><strong><a href="{{ page.url }}">{{ page.title }}</a></strong></p>
+            
+            {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
+            
+            {% if idx == break %}
+              </div>
+              <div class="col-md-6">
+            {% endif %}        
+            
           {% endif %}
         {% endfor %}
-
-      </p>
-
+  
     </div>
+  
   </div>
 
 </div>
