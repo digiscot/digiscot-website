@@ -83,21 +83,18 @@ layout: default
   
   <div class="row">
     <div class="col-md-12">
-    
       <hr />
-  
       <p class="text-center">
       
         {% for page in site.pages %}
           {% if page.layout == 'profile-charter' %}
-          
-            <a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.title }}" class="charter" /></a>     
-            
+            {% if page.image %}
+              <a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.title }}" class="charter" /></a>     
+            {% endif %}
           {% endif %}
         {% endfor %}
 
       </p>
-
     </div>
   </div>
 
