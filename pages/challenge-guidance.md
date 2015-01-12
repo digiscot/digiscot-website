@@ -22,15 +22,19 @@ In partnership with the Digital Participation Charter signatories http://digital
 **QUESTIONS ON APPLYING**
 
 •	Who is eligible to apply?
+
 The Challenge Fund is open to groups and organisations from all sectors. We are particularly interested in supporting groups that work closely with their local community. Applicants must operate in Scotland, with awarded fund being spent entirely in Scotland.
 
 •	Can we submit more than one application?
+
 Yes, where several discrete support activities are being proposed and they are not dependent on one another, applicants may submit more than one application.  
 
 •	Can we submit an application in partnership with others?
+
 Yes, we welcome applications from organisations that are proposing to work in partnership with others. One organisation must be specified as the lead applicant and identified as the main contact, with details of partners being included.  The lead applicant will be the contract holder and responsible for the award.
 
 •	How do we apply to the Challenge Fund?
+
 You are required to register an interest in applying via an email to digital@scvo.org.uk. In this email you should provide the following information:
 o	Organisation name
 o	Address 1
@@ -47,42 +51,50 @@ All interests to register should be emailed no later than **Monday 9th February.
 On receipt of this we will send you a user name and password to login in to the online Challenge Fund Community where you will be able to complete and edit your application. 
 
 •	What is the timescale for applications to be submitted and for notification of award?
+
 Call 2 applications must be submitted by 5pm on Friday 13th February, with awards being announced by Friday 20th March 2015.
 
 •	How will our application be assessed?
+
 The application will be assessed by the Digital Participation team.  Recommended applications will be passed to the Leadership Group for approval. For information on the team & Leadership Group go to http://digital.scvo.org.uk/about/.
 
 •	If our application is unsuccessful, can we apply again in next year's Challenge Fund?
+
 Unsuccessful applicants will receive feedback on their application where requested and are welcome to submit revised applications in future Challenge Fund calls (where appropriate and providing the new application meets any changes in funding criteria that have been developed). 
 
 •	Can we apply to extend and develop an existing project or do we have to come up with a new idea?
+
 Applications to enhance an existing project will be considered but we will not purely fund a continuation or extension of current activity. Applicants must make clear how any funding received would add value to the existing project and allow for additional or extended activities.  
 
 •	We have part-funding for a project that is relevant to your criteria. Will the Challenge Fund contribute towards / fund this?
+
 Applications from part funded projects with existing partners will be considered. Applicants must provide details of additional funding secured or being sought.
 
 •	Within what time period does funded activity require to be undertaken?
+
 Successful applicants that receive funding must ensure that funded activity is completed by the end of March 2016.
 
 **GUIDANCE NOTES: The online form**
 
 Registering an interest in the Challenge Fund
+
 Once you have registered an interest in the Challenge Fund by email, you will receive your Challenge Fund Community login details within 48hours.
 
 Saving an incomplete form. 
-You will be able to save your progress on the form by clicking on the 'Save' button at the bottom of the form after each session.  
 
-You can return to your form to add text and edit existing text by logging in at <insert link> using your username and password.
+You will be able to save your progress on the form by clicking on the 'Save' button at the bottom of the form after each session.  You can return to your form to add text and edit existing text by logging in at <insert link> using your username and password.
 
-Copy and pasting form data via a word processing program.   
-You may wish to format your information in a word processing program, then “paste” the finished product into this form under the appropriate headings. 
-Where questions have a word limit it is advised that text is copied and pasted into “Notepad” and then copied and pasted from Notepad into the form field.  When pasting straight from Microsoft Word a range of additional and invisible characters are copied across which may take you word count above the limit set.  
-Please do not attempt to attach files to this form.
+Copy and pasting form data via a word processing program.
+
+You may wish to format your information in a word processing program, then “paste” the finished product into this form under the appropriate headings. Where questions have a word limit it is advised that text is copied and pasted into “Notepad” and then copied and pasted from Notepad into the form field.  When pasting straight from Microsoft Word a range of additional and invisible characters are copied across which may take you word count above the limit set.  
+**Please do not attempt to attach files to this form.**
 
 Notification
+
 You will receive a confirmation email on receipt of your electronic submission within 48 hours. 
 
 Note
+
 While we accept grant applications online, we cannot guarantee the confidentiality of information transmitted over the Internet. 
 
 **CALL 2 APPLICATION QUESTIONS**
