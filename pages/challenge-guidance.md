@@ -39,14 +39,23 @@ Yes, we welcome applications from organisations that are proposing to work in pa
 •	How do we apply to the Challenge Fund?
 
 You are required to register an interest in applying via an email to digital@scvo.org.uk. In this email you should provide the following information:
+
   - Organisation name
+  
   - Address 1
+ 
   - Address 2
+  
   - Town
+  
   - Postcode
+  
   - Contact person for application
+  
   - Contact’s role in organisation
+  
   - Contact’s email address
+  
   - Contact’s phone number
 
 All interests to register should be emailed no later than **Monday 9th February.**
