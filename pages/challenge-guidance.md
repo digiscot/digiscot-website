@@ -3,6 +3,7 @@ layout: page
 title: Challenge Fund guidance notes
 excerpt: We've put together some notes to help you with your Challenge Fund application
 permalink: /challenge/guidance/
+---
 
 
 **OVERVIEW**
@@ -18,7 +19,6 @@ It is anticipated that awards will range from £200 to £10,000. Our average awa
 We recognise that you may have additional funding sources identified or secured for your proposed project and details of these should be included within your application. 
 
 In partnership with the Digital Participation Charter signatories http://digital.scvo.org.uk/charter/, a wide range of support types are being developed, e.g. provision of IT equipment, infrastructure support, provision of volunteers, etc. This will be offered in addition to or as an alternative to a financial grant where appropriate. 
-
 
 === 
    	
