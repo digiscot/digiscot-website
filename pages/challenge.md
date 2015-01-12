@@ -43,7 +43,7 @@ To register an interest please email digital@scvo.org.uk with the subject header
 
 - Contact’s phone number 
 
-On receipt of this we will send you a user name to login to the online Challenge Fund Community where you will be able to populate and edit your application. 
+Within 48hrs you will recieve an email with your user name to login to the online Challenge Fund Community where you will be able to populate and edit your application. 
 
 
 ### Information sessions
