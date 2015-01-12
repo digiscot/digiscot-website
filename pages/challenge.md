@@ -12,8 +12,6 @@ We are also working closely with organisations that have signed [Scotland's Digi
 
 All successful applicants will have a project page on this website where they can tell their story, so that others can see what works and learn from their experience.
 
-<a href="/challenge/apply/" class="btn btn-primary btn-lg" disabled="disabled">Applications are currently closed</a>
-
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
 ## **Now Open** Call 2 (Spring 2015)
