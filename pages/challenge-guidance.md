@@ -277,3 +277,6 @@ The balancing criteria outlined below will be used alongside the primary selecti
 •	Effective marketing and communications
 •	Value for money
 
+**We're here to help!**
+
+If you have any questions during any stage of the Challenge Fund application process please don't hesitate to get in touch at digital@scvo.org.uk 
