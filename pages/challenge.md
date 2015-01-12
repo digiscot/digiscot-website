@@ -26,14 +26,23 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 - Notification of award: By Friday 20 March 2015
 
 To register an interest please email digital@scvo.org.uk with the subject header ‘Challenge Fund Call 2 Registering Interest’. In the email you should provide the following information:  
+
 - Organisation name 
-- Address 1 
+
+- Address 1
+
 - Address 2 
+
 - Town 
+
 - Postcode 
+
 - Contact person for application 
+
 - Contact’s role in organisation 
+
 - Contact’s email address 
+
 - Contact’s phone number 
 
 On receipt of this we will send you a user name to login to the online Challenge Fund Community where you will be able to populate and edit your application. 
