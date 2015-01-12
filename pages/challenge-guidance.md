@@ -141,7 +141,7 @@ If yes, please provide an example giving details of the sum and source:
 
 ---
 
-SECTION 3: PROPOSED PROJECT 
+**SECTION 3: PROPOSED PROJECT**
 
 3.1 Please provide a short title for your proposed project that can be used in publicity:   (5 WORD LIMIT) 
 
@@ -180,7 +180,7 @@ Please note that all activity must be complete by end of March 2016.
 
 ---
 
-SECTION 4: PROPOSED BENEFICIARIES 
+**SECTION 4: PROPOSED BENEFICIARIES**
 
 4.1 Please tell us which of the following groups will directly benefit from your project: 
 •	Older People  
@@ -224,7 +224,7 @@ In this answer we are particularly keen to see innovation in the activities and 
 
 --- 
 
-SECTION 5: CHALLENGE FUND SUPPORT 
+**SECTION 5: CHALLENGE FUND SUPPORT** 
 
 5.1 Are you looking for 100% funding for your project from us? 
 •	Yes
@@ -261,7 +261,7 @@ In partnership with the Digital Participation Charter signatories, the Challenge
 
 --- 
 
-SECTION 6: EVALUATION 
+**SECTION 6: EVALUATION** 
 
 6.1 Please explain how you will evaluate your project:  (300 WORD LIMIT) 
  In this answer we are looking for:  
@@ -272,7 +272,7 @@ SECTION 6: EVALUATION
 
 --- 
 
-SECTION 7: DECLARATION 
+**SECTION 7: DECLARATION** 
 
 The declarations are as follows: 
 •	This application is supported by the relevant senior person within my organisation 
