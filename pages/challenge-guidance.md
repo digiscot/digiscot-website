@@ -18,6 +18,8 @@ It is anticipated that awards will range from £200 to £10,000. Our average awa
 We recognise that you may have additional funding sources identified or secured for your proposed project and details of these should be included within your application. 
 
 In partnership with the Digital Participation Charter signatories http://digital.scvo.org.uk/charter/, a wide range of support types are being developed, e.g. provision of IT equipment, infrastructure support, provision of volunteers, etc. This will be offered in addition to or as an alternative to a financial grant where appropriate. 
+
+=== 
    	
 **QUESTIONS ON APPLYING**
 
@@ -74,6 +76,8 @@ Applications from part funded projects with existing partners will be considered
 
 Successful applicants that receive funding must ensure that funded activity is completed by the end of March 2016.
 
+=== 
+
 **GUIDANCE NOTES: The online form**
 
 Registering an interest in the Challenge Fund
@@ -96,6 +100,8 @@ You will receive a confirmation email on receipt of your electronic submission w
 Note
 
 While we accept grant applications online, we cannot guarantee the confidentiality of information transmitted over the Internet. 
+
+=== 
 
 **CALL 2 APPLICATION QUESTIONS**
 
@@ -131,6 +137,8 @@ If yes, please provide an example giving details of the sum and source:
 * Examples of your experiences of identifying need and supporting people to develop their digital skills 
 * Examples of how your organisation has recognised barriers faced by specific target groups and how you have provided workable solutions to address them 
 * Insight into how you would apply these solutions to this contract 
+
+=== 
 
 SECTION 3: PROPOSED PROJECT 
 
@@ -168,6 +176,8 @@ Please note that all activity must be complete by end of March 2016.
 3.9 Please tell us in what ways, if any, you consider your proposed project to be innovative:  (200 WORD LIMIT) 
 
 3.10 Please tell us how your project will add value to other activity in the area, or how you know that you are not duplicating existing activity: (200 WORD LIMIT) 
+
+===
 
 SECTION 4: PROPOSED BENEFICIARIES 
 
@@ -211,6 +221,8 @@ In this answer we are particularly keen to see innovation in the activities and 
 
 4.9 Please tell us about your current practice and / or relationships with other organisations and how these might support participant development in the future:  (200 WORD LIMIT) 
 
+=== 
+
 SECTION 5: CHALLENGE FUND SUPPORT 
 
 5.1 Are you looking for 100% funding for your project from us? 
@@ -246,6 +258,8 @@ In partnership with the Digital Participation Charter signatories, the Challenge
 
 5.5 Thinking carefully about your project, please tell us in what ways these types of support provided by Charter signatories might be useful to your organisation and the proposed project.  (200 WORD LIMIT) 
 
+=== 
+
 SECTION 6: EVALUATION 
 
 6.1 Please explain how you will evaluate your project:  (300 WORD LIMIT) 
@@ -254,6 +268,8 @@ SECTION 6: EVALUATION
 * How you will measure the progress of the project, so that you can make changes if necessary to ensure you deliver all outputs and outcomes  
 * How you will measure the overall final impact of the project  
 * What methods you will use to gather evidence for each stage of the evaluation, for example using an online survey or by interviewing the people who will benefit  
+
+=== 
 
 SECTION 7: DECLARATION 
 
@@ -265,6 +281,8 @@ The declarations are as follows:
 Please tick the box to confirm you have read the above declarations  
 
 Please complete all sections before submitting your application.  
+
+=== 
 
 **AWARD CRITERIA**
 
@@ -278,7 +296,6 @@ All applications will be assessed according to the following criteria:
 •	Project management
 •	Project evaluation
 
-
 Balancing Criteria
 The balancing criteria outlined below will be used alongside the primary selection criteria to make the final decisions about which projects to fund:
 
@@ -288,6 +305,8 @@ The balancing criteria outlined below will be used alongside the primary selecti
 •	Broader participation & sustainability
 •	Effective marketing and communications
 •	Value for money
+
+=== 
 
 **We're here to help!**
 
