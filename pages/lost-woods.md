@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Lost Woods
-permalink: /lostwoods
+permalink: /lostwoods/
 ---
+
+Hello world
