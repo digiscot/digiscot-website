@@ -20,7 +20,7 @@ We recognise that you may have additional funding sources identified or secured 
 
 In partnership with the Digital Participation Charter signatories http://digital.scvo.org.uk/charter/, a wide range of support types are being developed, e.g. provision of IT equipment, infrastructure support, provision of volunteers, etc. This will be offered in addition to or as an alternative to a financial grant where appropriate. 
 
-=== 
+---  
    	
 **QUESTIONS ON APPLYING**
 
