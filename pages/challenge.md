@@ -63,7 +63,7 @@ Location: Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB
 Sessions available between: 10am - 3:30pm  
 Location: Albany Centre, 44 Ashley St, Glasgow, G3 6DS. 
 
-To book a slot on any of these dates please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk). There will also be the opportunity to participate by video conference on additional dates, again please email to let us know if this is your preference. 
+** Glasgow and Edinburgh information sessions are now fully booked** To book a slot on any of these dates please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk). There will also be the opportunity to participate by video conference on additional dates, again please email to let us know if this is your preference. 
 
 ## Call 1 (Winter 2014)
 
