@@ -328,9 +328,13 @@ In partnership with the Digital Participation Charter signatories, the Challenge
 
 6.1 Please explain how you will evaluate your project:  (300 WORD LIMIT) 
  In this answer we are looking for:  
+ 
 * How you will establish a baseline (the situation before the project began) against which the impact of the project can be compared  
+
 * How you will measure the progress of the project, so that you can make changes if necessary to ensure you deliver all outputs and outcomes  
+
 * How you will measure the overall final impact of the project  
+
 * What methods you will use to gather evidence for each stage of the evaluation, for example using an online survey or by interviewing the people who will benefit  
 
 --- 
@@ -338,8 +342,11 @@ In partnership with the Digital Participation Charter signatories, the Challenge
 **SECTION 7: DECLARATION** 
 
 The declarations are as follows: 
+
 •	This application is supported by the relevant senior person within my organisation 
+
 •	I confirm that by submitting this application for grant funding that I am confident that I can fulfil the requirements of this contract if it is offered to me  
+
 •	I understand that if I do not meet all the requirements of the grant funding then some or all of it may be recovered 
 
 Please tick the box to confirm you have read the above declarations  
@@ -354,20 +361,31 @@ Primary Criteria
 All applications will be assessed according to the following criteria:
 
 •	Potential impact of project
+
 •	Understanding & identification of need
+
 •	Experience of working with target group
+
 •	Feasibility
+
 •	Project management
+
 •	Project evaluation
 
 Balancing Criteria
+
 The balancing criteria outlined below will be used alongside the primary selection criteria to make the final decisions about which projects to fund:
 
 •	Geographical areas: Seeking proposals from across all regions within Scotland, especially Glasgow and Remote & Rural areas. 
+
 •	Target group: Seeking proposals that target groups in need, especially older people, people with a disability and people seeking benefits.
+
 •	Innovative approach & / or engagement methods
+
 •	Broader participation & sustainability
+
 •	Effective marketing and communications
+
 •	Value for money
 
 --- 
