@@ -116,36 +116,52 @@ While we accept grant applications online, we cannot guarantee the confidentiali
 **CALL 2 APPLICATION QUESTIONS**
 
 2.1 Let us know which sector your organisation is in: 
+
 •	Third Sector 
+
 •	Public Sector  
+
 •	Private Sector 
 
 2.2 Is your organisation registered with OSCR? 
+
 •	Yes 
+
 •	No 
 
 2.3 Is your organisation registered with Companies House? 
+
 •	Yes 
+
 •	No 
 
 2.4 How long has your organisation been in existence in its current status? 
+
 •	Less than 1 year  
+
 •	1-2 years  
+
 •	3-4 years  
+
 •	5 years or more 
 
 If less than 1 year you may be asked to provide references from organisations you are working with. 
 
 2.5 Have you delivered any externally funded programmes in the last 3 years? 
+
 •	Yes  
+
 •	No
 
 If yes, please provide an example giving details of the sum and source: 
 
 2.6 Please tell us what experience your organisation has of supporting people to develop their digital skills or other digital activities:  (250 WORD LIMIT) 
  In this answer we are looking for:  
+ 
 * Examples of your experiences of identifying need and supporting people to develop their digital skills 
+
 * Examples of how your organisation has recognised barriers faced by specific target groups and how you have provided workable solutions to address them 
+
 * Insight into how you would apply these solutions to this contract 
 
 ---
@@ -155,9 +171,13 @@ If yes, please provide an example giving details of the sum and source:
 3.1 Please provide a short title for your proposed project that can be used in publicity:   (5 WORD LIMIT) 
 
 3.2 Which of the following types of activity best describes your proposed project? 
+
 •	Digitising content 
+
 •	Building digital networks  
+
 •	Improving digital skills 
+
 •	Other
 
 If ‘Other’, please briefly specify type of activity:  (10 WORD LIMIT) 
@@ -171,8 +191,11 @@ If ‘Other’, please briefly specify type of activity:  (10 WORD LIMIT)
 3.6 Proposed project start date:   Date….. Month…..  Year…..         
 
 3.6 Please indicate whether the proposed start date provided is: 
+
 •	Flexible  
+
 •	Preferred start 
+
 •	Must start  
 
 If ‘Must start’ please explain why the project must start on this date:  
@@ -191,10 +214,14 @@ Please note that all activity must be complete by end of March 2016.
 
 **SECTION 4: PROPOSED BENEFICIARIES**
 
-4.1 Please tell us which of the following groups will directly benefit from your project: 
+4.1 Please tell us which of the following groups will directly benefit from your project:
+
 •	Older People  
+
 •	People with Disability 
+
 •	People Seeking Benefits  
+
 •	Others 
 
 If ‘Other’, please briefly specify:  (10 WORD LIMIT) 
@@ -202,8 +229,11 @@ If ‘Other’, please briefly specify:  (10 WORD LIMIT)
 4.2 Please provide more detail on the groups you plan to engage with:  (100 WORD LIMIT) 
 
 4.3 Please tell us which of the following geographical areas you plan to work in: 
+
 •	Glasgow  
+
 •	Remote and rural areas in Scotland  
+
 •	Other areas in Scotland  
 
 4.4 Please provide more detail about the geographical areas you plan to work in: (100 WORD LIMIT) 
@@ -215,18 +245,26 @@ If ‘Other’, please briefly specify:  (10 WORD LIMIT)
 4.6 Please provide further explanation on the number of individuals supported & / or the project’s reach that you would like to highlight within your application:   (100 WORD LIMIT)  
 
 4.7 Please tell us how you are going to ensure that the proposed project reaches the people who are in most need:   (250 WORD LIMIT) 
- In this answer we are looking for:  
+ In this answer we are looking for: 
+ 
 * If delivering basic online skills how you will know that the individuals you are targeting are beginners to the internet 
+
 * Your understanding of the groups of people who are most likely to be offline and your plans for how you will engage with these groups  
+
 * The reason(s) you have identified these groups of people as needing this support 
+
 * Where the evidence of need has come from, e.g. local authority report, research or press articles etc.  
 
 4.8 Please tell us how you are going to identify and engage with the appropriate participants and ensure you achieve your specified targets:  (250 WORD LIMIT) 
 In this answer we are particularly keen to see innovation in the activities and outreach locations used and are looking for:  
 * Examples of your current practice in engaging with your target group  
+
 * Examples of existing relationships that will support this  
+
 * What promotional approaches you are considering  
+
 * What marketing strategies you will use  
+
 * Any specific campaigns you plan to run or work in partnership with  
 
 4.9 Please tell us about your current practice and / or relationships with other organisations and how these might support participant development in the future:  (200 WORD LIMIT) 
@@ -236,32 +274,48 @@ In this answer we are particularly keen to see innovation in the activities and 
 **SECTION 5: CHALLENGE FUND SUPPORT** 
 
 5.1 Are you looking for 100% funding for your project from us? 
+
 •	Yes
+
 •	No  
 
 5.2 Please provide details of other funding sources: 
 Additional funding sources / Additional funding amount / Please tick if secured
 £  
  
-Please note that the following question is located at the very end of the online form.
+**Please note that the following question is located at the very end of the online form.**
 5.3 Please let us know your detailed budget for your entire proposed project including:  
+
 	Budget Items
+
 	Amounts
+
 	Please tick if covered by additional funding
  
 In partnership with the Digital Participation Charter signatories, the Challenge Fund seeks to provide a range of support beyond project funding. 
 
 5.4 Please indicate which of the following types of support might be helpful to your proposed project: 
+
 •	Provision of IT equipment (e.g. loan or donation)   
+
 •	Repair or adaptation of IT equipment   
+
 •	Infrastructure support / advice ( e.g. assisting setting up network, ICT ‘health-check’)  
+
 •	Web / social media development support / advice   
+
 •	Provision of venues   
+
 •	IT related consultancy ( e.g. software advice, IT Legal or HR issues, procurement advice)  
+
 •	Staff release – provision of regular or one off volunteers   
-•	Signposting / marketing in public areas (e.g. posting marketing material at till points, etc)  
+
+•	Signposting / marketing in public areas (e.g. posting marketing material at till points, etc) 
+
 •	Creation of supporting marketing / communications materials ( e.g. video, case studies) 
-•	Money ( e.g. donation into a managed fund for specific purpose e.g. code clubs, specialist IT equipment)   
+
+•	Money ( e.g. donation into a managed fund for specific purpose e.g. code clubs, specialist IT equipment) 
+
 •	Other 
 
  If other, please specify: (100 WORD LIMIT)
