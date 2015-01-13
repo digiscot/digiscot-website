@@ -35,11 +35,11 @@ permalink: /lostwoods/
           title: orgName
         });
         
-        var infoWindow = new google.maps.InfoWindow({
+        /*var infoWindow = new google.maps.InfoWindow({
           content: '<h1>' + orgName + '</h1>' + '<p>' + address + '</p>'
         });
         
-        infoWindow.open(map,marker);
+        infoWindow.open(map,marker);*/
         
       }
       else{
