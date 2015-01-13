@@ -17,7 +17,7 @@ permalink: /lostwoods/
         center: { lat: -34.397, lng: 150.644},
         zoom: 8
         };
-    map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+    var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
   }
       
   function initialize2() {
