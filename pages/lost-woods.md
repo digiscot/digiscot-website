@@ -35,13 +35,13 @@ permalink: /lostwoods/
         //  position: result[0].geometry.location
         //});
         }
-        /*else{
+        else{
           var mapOptions = {
           center: {lat: 55.858, lng: 4.259},
           zoom: 11
           };
           var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
-        }*/
+        }
       });
  }
  initialize2();
