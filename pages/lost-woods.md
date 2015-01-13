@@ -25,7 +25,7 @@ permalink: /lostwoods/
           center: result[0].geometry.location,
           zoom: 11
         };
-        map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+        map = new google.maps.Map(document.getElementById("map-canvas"),mapOptions);
         
         var marker = new.google.maps.Marker({
           map:map,
