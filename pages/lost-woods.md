@@ -6,7 +6,7 @@ permalink: /lostwoods/
 
 <div class="container">
   <div class="row">
-    <div class="col-md-6" id="map-canvas"></div>
+    <div class="col-md-6"> test </div>
     <div class="col-md-6">test</div>
     </div>
 </div>
