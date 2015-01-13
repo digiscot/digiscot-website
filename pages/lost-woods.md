@@ -16,4 +16,5 @@ permalink: /lostwoods/
     };
     var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
   }
+  initialize();
 </script>
