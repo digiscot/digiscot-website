@@ -19,7 +19,8 @@ permalink: /lostwoods/
       if(statusCode == google.maps.GeocoderStatus.OK){
         var mapOptions = {
           center: result[0].geometry.location,
-          zoom: 11
+          zoom: 11,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
         };
         map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
         
@@ -32,14 +33,13 @@ permalink: /lostwoods/
         var infoWindow = new google.maps.InfoWindow({
           content: '<h1>' + orgName + '</h1>' + '<p>' + address + '</p>'
         });
-        
         infoWindow.open(map,marker);
-        
       }
       else{
         var mapOptions = {
         center: {lat: 55.858, lng: 4.259},
-        zoom: 11
+        zoom: 11,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
         };
         map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
       }
