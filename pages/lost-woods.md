@@ -31,10 +31,10 @@ permalink: /lostwoods/
         };
         var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
         
-        var marker = new.google.maps.Marker({
-          map:map,
-          position: result[0].geometry.location
-        });
+        //var marker = new.google.maps.Marker({
+        //  map:map,
+        //  position: result[0].geometry.location
+        //});
         }
         /*else{
           var mapOptions = {
