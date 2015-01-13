@@ -2,7 +2,7 @@
 layout: challenge
 title: Challenge Fund and Projects
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: Applications for Call 2 open on Monday 12 January.
+alert: Applications for Call 2 are now open.
 permalink: /challenge/
 ---
 
@@ -14,7 +14,7 @@ All successful applicants will have a project page on this website where they ca
 
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
-## **Now Open** Call 2 (Spring 2015)
+## Call 2 (Spring 2015) **Now Open** 
 
 ### Key dates
 
@@ -23,27 +23,19 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 - Deadline for applications: Friday 13 February 2015
 - Notification of award: By Friday 20 March 2015
 
-To register an interest please email digital@scvo.org.uk with the subject header ‘Challenge Fund Call 2 Registering Interest’. In the email you should provide the following information:  
+To register an interest please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk?Subject=Challenge Fund Call 2 Registering Interest) with the subject header ‘Challenge Fund Call 2 Registering Interest’. In the email you should provide the following information:  
 
 - Organisation name 
-
 - Address 1
-
 - Address 2 
-
 - Town 
-
 - Postcode 
-
 - Contact person for application 
-
 - Contact’s role in organisation 
-
 - Contact’s email address 
-
 - Contact’s phone number 
 
-Within 48hrs you will recieve an email with your user name to login to the online Challenge Fund Community where you will be able to populate and edit your application. 
+Within 48 hours you will recieve an email with your user name to login to the online Challenge Fund Community where you will be able to populate, edit and submit your application. 
 
 Some [guidance notes](/challenge/guidance/) are available to help you with your application.
 
