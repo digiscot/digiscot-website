@@ -10,7 +10,7 @@ permalink: /lostwoods/
 
 <script type="text/javascript">
   var address = 'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK';
-  var geocoder, map;
+  var geocoder, map2;
   
   function initialize() {
     var mapOptions = {
