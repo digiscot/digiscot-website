@@ -26,7 +26,7 @@ permalink: /lostwoods/
       if(statusCode == google.maps.GeocoderStatus.OK){
         var mapOptions = {
           center: result[0].geometry.location,
-          zoom: 10
+          zoom: 12
         };
         map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
         
