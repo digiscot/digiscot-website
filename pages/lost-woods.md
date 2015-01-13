@@ -5,7 +5,6 @@ permalink: /lostwoods/
 ---
 
 <div id="map-canvas"></div>
-<div><img src="http://img4.wikia.nocookie.net/__cb20091016210740/zelda/images/e/e1/Skull_Kid_Artwork_%28Majora%27s_Mask%29.png"></div>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBczbNIYsrrbOLxudm2oZq9t1xzLLpA2cg"></script>
 
