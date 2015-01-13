@@ -1,16 +1,12 @@
 ---
-layout: page
+layout: page-wide
 title: Lost Woods
 permalink: /lostwoods/
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8" id="map-canvas"></div>
-    <div class="col-md-2"></div>
-  </div>
-</div>
+
+    <div id="map-canvas"></div>
+
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBczbNIYsrrbOLxudm2oZq9t1xzLLpA2cg"></script>
 
