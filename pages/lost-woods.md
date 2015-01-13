@@ -20,7 +20,8 @@ permalink: /lostwoods/
         var mapOptions = {
           center: result[0].geometry.location,
           zoom: 11,
-          mapTypeId: google.maps.MapTypeId.ROADMAP
+          mapTypeId: google.maps.MapTypeId.ROADMAP,
+          disableDefaultUI: true
         };
         map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
         
@@ -39,7 +40,8 @@ permalink: /lostwoods/
         var mapOptions = {
         center: {lat: 55.858, lng: 4.259},
         zoom: 11,
-        mapTypeId: google.maps.MapTypeId.ROADMAP
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        disableDefaultUI: true
         };
         map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
       }
