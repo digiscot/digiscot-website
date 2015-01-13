@@ -29,14 +29,14 @@ permalink: /lostwoods/
           center: result[0].geometry.location,
           zoom: 10
         };
-        var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);/*
+        var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
         
-        var marker = new.google.maps.Marker({
+        /*var marker = new.google.maps.Marker({
           map:map,
           position: result[0].geometry.location
-        });
+        });*/
         }
-        else{
+        /*else{
           var mapOptions = {
           center: {lat: 55.858, lng: 4.259},
           zoom: 11
