@@ -19,7 +19,6 @@ permalink: /lostwoods/
         };
     map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
   }
-  initialize();
     
   function initialize2() {
     geocoder = new google.maps.Geocoder();
@@ -45,5 +44,5 @@ permalink: /lostwoods/
         }*/
       });
  }
-  
+ initialize2();
 </script>
