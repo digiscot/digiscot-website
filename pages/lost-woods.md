@@ -24,12 +24,12 @@ permalink: /lostwoods/
   function initialize2() {
     geocoder = new google.maps.Geocoder();
     geocoder.geocode({'address': address}, function (result, statusCode){
-      /*if(statusCode == google.maps.GeocoderStatus.OK){
+      if(statusCode == google.maps.GeocoderStatus.OK){
         var mapOptions = {
           center: result[0].geometry.location,
-          zoom: 11
+          zoom: 10
         };
-        var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+        var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);/*
         
         var marker = new.google.maps.Marker({
           map:map,
