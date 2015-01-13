@@ -30,8 +30,6 @@ permalink: /lostwoods/
           map:map,
           position: result[0].geometry.location
         });
-        } else{
-          $("#MainContainer").hide();
         }
       });
   }
