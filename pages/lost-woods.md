@@ -19,7 +19,7 @@ permalink: /lostwoods/
   function initialize() {
     geocoder = new google.maps.geocoder();
     geocoder.geocode({'address': address}, function (result, statusCode){
-      alert('test');
+      window.alert("Status code" + statusCode);
       if(statusCode == google.maps.GeocoderStatus.OK){
         var mapOptions = {
           center: result[0].geometry.location,
