@@ -3,7 +3,7 @@ layout: page-wide
 title: Lost Woods
 permalink: /lostwoods/
 ---
-<> SCVO office locations </p>
+<p> SCVO office locations </p>
 <div id="map-canvas"></div>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBczbNIYsrrbOLxudm2oZq9t1xzLLpA2cg"></script>
