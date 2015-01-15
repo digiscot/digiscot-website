@@ -33,16 +33,17 @@ permalink: /lostwoods/
     geocoder = new google.maps.Geocoder();
     
     for(i=0;i<addresses.length;i++){
-      geocoder.geocode({'address': addresses[i]}, function(result, statusCode){
+      var currentAddress = addresses[i];
+      geocoder.geocode({'address': currentAddress}, function(result, statusCode){
         if(statusCode == google.maps.GeocoderStatus.OK){
           var marker = new google.maps.Marker({
             map:map,
             position: result[0].geometry.location,
-            title: 'No. ' + i
+            title: orgName
           });
           
           var infoWindow = new google.maps.InfoWindow({
-            content: '<h1>' + i + '</h1>' + '<p>' + addresses[i] + '</p>'
+            content: '<h1>' + orgName + '</h1>' + '<p>' + currentAddress + '</p>'
           });
           google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
         }
