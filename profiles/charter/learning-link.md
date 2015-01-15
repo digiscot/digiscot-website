@@ -1,6 +1,6 @@
 ---
 layout: profile-charter
-title: learning link
+title: Learning link
 excerpt: 
 link: 
 twitter: 
