@@ -14,7 +14,7 @@ Tickets for all of our events can be booked via the main SCVO website.
 #### Digital Scotland Festival at The Gathering
 Glasgow, 25-26 February 2015
 
-<a href="http://www.scvo.org.uk/events" class="btn btn-primary btn-lg">See all event listings</a>
+<a href="http://gatherscotland.org.uk/events/?event_category=digital" class="btn btn-primary btn-lg">Visit The Gathering website</a> <a href="http://www.scvo.org.uk/events" class="btn btn-primary btn-lg">See other SCVO event listings</a>
 
 ### Past events
 
