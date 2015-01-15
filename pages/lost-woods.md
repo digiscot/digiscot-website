@@ -17,49 +17,37 @@ permalink: /lostwoods/
   'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK',
   'Brunswick House, 51 Wilson St, Glasgow, G1 1UZ, UK',
   'Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA, UK'];
-  var geocoder, map;
-  var mapOptions = {
-    center: {lat: 56.490671, lng: -4.202646},
-    zoom: 6,
-    mapTypeId: google.maps.MapTypeId.ROADMAP,
-    disableDefaultUI: true,
-    mapTypeControl: true
-  };
-    
-  map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
-
-  /*function geoCodeAndMark(addresses) {
+  
+  function main(){
+    var geocoder, map, i;
+    var mapOptions = {
+      center: {lat: 56.490671, lng: -4.202646},
+      zoom: 7,
+      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      disableDefaultUI: true,
+      mapTypeControl: true
+    };
+    map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
     geocoder = new google.maps.Geocoder();
-    // FOR EACH ADDRESS IN ARRAY LOOP GEOCODER
     
-    geocoder.geocode({'address': address}, function (result, statusCode){
-      if(statusCode == google.maps.GeocoderStatus.OK){
-        
-        // POPULATE ARRAY OF MARKERS
-        var marker = new google.maps.Marker({
-          map:map,
-          position: result[0].geometry.location,
-          title: orgName
-        });
-        
-        // POPULATE ARRAY OF INFOWINDOWS
-        var infoWindow = new google.maps.InfoWindow({
-          content: '<h1>' + orgName + '</h1>' + '<p>' + address + '</p>'
-        });
-        google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
-      }
-      else{
-        // REMOVE THIS AFTER SF API
-        var mapOptions = {
-        center: {lat: 55.858, lng: 4.259},
-        zoom: 11,
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
-        disableDefaultUI: true,
-        mapTypeControl: true
-        };
-        map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
-      }
-    });
+    for(i=0;i<addresses.length;i++){
+      geocoder.geocode({'address': addresses[i]}, function(result, statusCode){
+        if(statusCode == google.maps.GeocoderStatus.OK){
+          var marker = new google.maps.Marker({
+            map:map,
+            position: result[0].geometry.location,
+            title: orgName
+          });
+          
+          var infoWindow = new google.maps.InfoWindow({
+            content: '<h1>' + orgName + '</h1>' + '<p>' + addresses[i] + '</p>'
+          });
+          google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
+        }
+      });
+    }
   }
-  main();*/
+  
+  google.maps.event.addDomListener(window, 'load', main);
+  
  </script>
