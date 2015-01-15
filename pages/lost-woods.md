@@ -38,7 +38,7 @@ permalink: /lostwoods/
           var marker = new google.maps.Marker({
             map:map,
             position: result[0].geometry.location,
-            title: orgName
+            title: 'No. ' + i
           });
           
           var infoWindow = new google.maps.InfoWindow({
