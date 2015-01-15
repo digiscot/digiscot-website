@@ -20,7 +20,7 @@ permalink: /lostwoods/
   var geocoder, map;
   var mapOptions = {
     center: {lat: 56.490671, lng: -4.202646},
-    zoom: 8,
+    zoom: 6,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: true,
     mapTypeControl: true
