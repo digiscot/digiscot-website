@@ -44,7 +44,7 @@ permalink: /lostwoods/
           var infoWindow = new google.maps.InfoWindow({
             content: '<h1>' + orgName + '</h1>' + '<p>' + addresses[i] + '</p>'
           });
-          //google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
+          google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
         }
       });
     }
