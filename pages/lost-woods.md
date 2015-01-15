@@ -9,9 +9,6 @@ permalink: /lostwoods/
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBczbNIYsrrbOLxudm2oZq9t1xzLLpA2cg"></script>
 
 <script type="text/javascript">
-  // PRACTICE CODE WORKING, COMMENTS FOR UPDATING CODE WHEN WE HAVE SF API
-  // PUT ARRAY OF ORG NAME & ADDRESSES FROM SF API HERE
-  // DECLARE AN ARRAY OF MARKERS & INFO WINDOWS
   var orgName = 'Scottish Council for Voluntary Organisations';
   var addresses = [
   'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK',
@@ -33,8 +30,7 @@ permalink: /lostwoods/
     geocoder = new google.maps.Geocoder();
     
     for(i=0;i<addresses.length;i++){
-      var currentAddress = addresses[i];
-      geocoder.geocode({'address': currentAddress}, function(result, statusCode){
+      geocoder.geocode({'address': addresses[i]}, function(result, statusCode){
         if(statusCode == google.maps.GeocoderStatus.OK){
           var marker = new google.maps.Marker({
             map:map,
@@ -42,8 +38,14 @@ permalink: /lostwoods/
             title: orgName
           });
           
+          /* 
+           addresses[i] not working due to asychronous execution of geocoder.geocode
+           value of i is 4 (out of bounds) by time geocode returns and creates this infowindow
+           solution is to rather than use a volatile index variable instead make this a function and
+           pass address in as a parameter
+          */
           var infoWindow = new google.maps.InfoWindow({
-            content: '<h1>' + orgName + '</h1>' + '<p>' + currentAddress + '</p>'
+            content: '<h1>' + orgName + '</h1>' + '<p>' + /*addresses[i]*/'No Skull Kids here' + \u2620 + '</p>'
           });
           google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
         }
