@@ -16,7 +16,9 @@ permalink: /lostwoods/
   var addresses = [
   'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK',
   'Brunswick House, 51 Wilson St, Glasgow, G1 1UZ, UK',
-  'Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA, UK'];
+  'Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA, UK',
+  'Hayweight House, 23 Lauriston Street, Edinburgh, EH3 9DQ, UK'
+  ];
   
   function main(){
     var geocoder, map, i;
@@ -40,7 +42,7 @@ permalink: /lostwoods/
           });
           
           var infoWindow = new google.maps.InfoWindow({
-            content: '<h1>' + orgName + '</h1>' + '<p>' + 'test' + '</p>'
+            content: '<h1>' + orgName + '</h1>' + '<p>' + addresses[i] + '</p>'
           });
           google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
         }
