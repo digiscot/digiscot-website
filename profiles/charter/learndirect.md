@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Learndirect
 excerpt: 
-link: 
+link: http://www.learndirect.com/ 
 twitter: 
 email: 
 image: /images/charter/learndirect.jpg
