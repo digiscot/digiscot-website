@@ -7,7 +7,7 @@ permalink: /festival/
 
 We host regular, free events for people interested in digital participation in Scotland. These are great opportunities to find out what's going on, make new connections and learn from what other people are up to.
 
-Tickets for all of our events can be booked via the main SCVO website.
+Tickets for our events can be booked using the links below.
 
 ### Upcoming events
 
