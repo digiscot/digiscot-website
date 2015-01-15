@@ -40,7 +40,7 @@ permalink: /lostwoods/
           });
           
           var infoWindow = new google.maps.InfoWindow({
-            content: '<h1>' + orgName + '</h1>' + '<p>' + addresses[i] + '</p>'
+            content: '<h1>' + orgName + '</h1>' + '<p>' + 'test'' + '</p>'
           });
           google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
         }
