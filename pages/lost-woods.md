@@ -22,6 +22,7 @@ permalink: /lostwoods/
   
   function main(){
     var geocoder, map;
+    var i = 0;
     var mapOptions = {
       center: {lat: 56.490671, lng: -4.202646},
       zoom: 7,
@@ -32,7 +33,7 @@ permalink: /lostwoods/
     map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
     geocoder = new google.maps.Geocoder();
     
-    for(var i=0;i<addresses.length;i++){
+    for(i;i<addresses.length;i++){
       geocoder.geocode({'address': addresses[i]}, function(result, statusCode){
         if(statusCode == google.maps.GeocoderStatus.OK){
           var marker = new google.maps.Marker({
