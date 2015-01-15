@@ -19,7 +19,7 @@ permalink: /lostwoods/
   'Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA, UK'];
   var geocoder, map;
   var mapOptions = {
-    center: {lat: 55.950, lng: 3.183},
+    center: {lat: 56.490671, lng: -4.202646},
     zoom: 8,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: true,
