@@ -6,7 +6,7 @@ alert: Deadline for Round 2 applications is Monday 2nd February.
 permalink: /internships/
 ---
 
-Let’s Get Digital is our business growth programme for charities and voluntary organisations. It's an opportunity to tap into knowledge, expertise and enthusiasm to boost business growth and competitiveness in the third sector, and to increase digital skills and capability.
+Let’s Get Digital, supported by Scottish Government and ERDF, is our business growth programme for charities and voluntary organisations. It's an opportunity to tap into knowledge, expertise and enthusiasm to boost business growth and competitiveness in the third sector, and to increase digital skills and capability.
 
 It works by helping organisations to set up and finance a six-week paid internship, built around a bespoke project to deliver meaningful digital change and growth. The sorts of projects in scope include:
 
