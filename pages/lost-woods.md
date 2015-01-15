@@ -12,26 +12,28 @@ permalink: /lostwoods/
   // PRACTICE CODE WORKING, COMMENTS FOR UPDATING CODE WHEN WE HAVE SF API
   // PUT ARRAY OF ORG NAME & ADDRESSES FROM SF API HERE
   // DECLARE AN ARRAY OF MARKERS & INFO WINDOWS
-  var orgName = 'SCVO';
-  var address = 'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK';
+  var orgName = 'Scottish Council for Voluntary Organisations';
+  var addresses = [
+  'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK',
+  'Brunswick House, 51 Wilson St, Glasgow, G1 1UZ, UK',
+  'Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA, UK'];
   var geocoder, map;
+  var mapOptions = {
+    center: {lat: 55.950, lng: 3.183},
+    zoom: 2,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    disableDefaultUI: true,
+    mapTypeControl: true
+  };
     
-  function main() {
+  map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+
+  /*function geoCodeAndMark(addresses) {
     geocoder = new google.maps.Geocoder();
     // FOR EACH ADDRESS IN ARRAY LOOP GEOCODER
+    
     geocoder.geocode({'address': address}, function (result, statusCode){
       if(statusCode == google.maps.GeocoderStatus.OK){
-        var mapOptions = {
-          center: result[0].geometry.location,
-          zoom: 11,
-          mapTypeId: google.maps.MapTypeId.ROADMAP,
-          // DISABLED UI AS IT WAS NOT DISPLAYING CORRECTLY - need to fix
-          disableDefaultUI: true,
-          mapTypeControl: true
-        };
-        
-        // MOVE THIS MAP UP TOP WITH DEFAULT OPTIONS AFTER WE GET SF API
-        map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
         
         // POPULATE ARRAY OF MARKERS
         var marker = new google.maps.Marker({
@@ -59,5 +61,5 @@ permalink: /lostwoods/
       }
     });
   }
-  main();
+  main();*/
  </script>
