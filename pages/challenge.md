@@ -74,7 +74,7 @@ The following have received direct offers of funding:
 5. Old Torry Community Centre
 6. The Greenhouse Shop CIC
 7. Mydex CIC
-8. Homstart Majik
+8. Homestart Majik
 9. Applecross Community Company
 10. The Annex Healthy Living Centre
 11. Station House Media Unit
