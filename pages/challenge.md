@@ -39,25 +39,6 @@ Within 48 hours you will recieve an email with your user name to login to the on
 
 Some [guidance notes](/challenge/guidance/) are available to help you with your application.
 
-### Information sessions
-
-We're providing a series of sessions where organisations intending to submit an application can meet with a member of the team to ask questions and discuss their application. 
-
-**Tuesday 13th January - Inverness**  
-Sessions available between: 1-5pm  
-Location: Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA
-
-**Wednesday 14th January - Edinburgh**  
-Sessions available between: 10am - 2pm  
-Location: Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB
-
-**Thursday 15th January - Glasgow**  
-Sessions available between: 10am - 3:30pm  
-Location: Albany Centre, 44 Ashley St, Glasgow, G3 6DS. 
-
-** Glasgow and Edinburgh information sessions are now fully booked**
-
-To book a slot on any of these dates please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk). There will also be the opportunity to participate by video conference on additional dates, again please email to let us know if this is your preference. 
 
 ## Call 1 (Winter 2014)
 
