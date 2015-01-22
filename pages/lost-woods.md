@@ -23,7 +23,7 @@ permalink: /lostwoods/
       center: {lat: 56.490671, lng: -4.202646},
       zoom: 7,
       mapTypeId: google.maps.MapTypeId.ROADMAP,
-      //disableDefaultUI: true,
+      disableDefaultUI: true,
       mapTypeControl: true
     };
     map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
