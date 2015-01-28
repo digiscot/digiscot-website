@@ -21,14 +21,36 @@ layout: default
       <hr />
       {% endif %}
       
-      <p>Led by: <a href="{{ page.link }}">{{ page.lead }}</a></p>
-      <p>Runs from: {{ page.start }} to {{ page.end }}</p>
-      <p>Challenge fund award: {{ page.award }}</p>
-      <hr />
+      {% if page.website %}
+      <p>Led by: <a href="{{ page.website }}">{{ page.lead }}</a></p>
+      {% else %}
+      <p>Led by: {{ page.lead }}</p>
+      {% endif %}
+    
+      {% if page.email %}
+      <p>Email: <a href="{{ page.email | prepend: "mailto:" }}">{{ page.email }}</a></p>
+      {% endif %}  
       
-      {% if page.image %}<p><img src="{{ page.image }}" class="main" /></p>{% endif %}
+      {% if page.twitter %}
+      <p>Twitter: <a href="{{ page.twitter | prepend: "https://twitter.com/" }}">@{{ page.twitter }}</a></p>
+      {% endif %}
+      
+      {% if page.facebook %}
+      <p>Facebook: <a href="{{ page.facebook }}">{{ page.facebook }}</a></p>
+      {% endif %}          
+      
+      <p>Runs from: {{ page.start }} to {{ page.end }}</p>
+      
+      <p>Challenge fund award: {{ page.award }}</p>
+      
+      {% if page.image %}
+      <hr />
+      <p><img src="{{ page.image }}" class="main" /></p>
+      {% endif %}
 
       {{ content }}
+      
+      {% include disqus.html %}
       
       {% include sidebar-edit.html %}
     
