@@ -36,7 +36,6 @@ The way we're funded means that there are a few rules about what sorts of organi
 If your application is successful then we will support your organisation by:
 
 - Funding salary costs (at £7.85 per hour, 35 hours per week, for six weeks) plus employer's NICs
-- Processing this salary on your behalf
 - Providing support to develop suitable projects
 - Advertising your opportunity
 
