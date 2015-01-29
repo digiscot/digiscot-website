@@ -26,7 +26,7 @@ In partnership with the Digital Participation Charter signatories http://digital
 
 •	Who is eligible to apply?
 
-The Challenge Fund is open to groups and organisations from all sectors. We are particularly interested in supporting groups that work closely with their local community. Applicants must operate in Scotland, with awarded fund being spent entirely in Scotland.
+The Challenge Fund is open to groups and organisations from all sectors. We are particularly interested in supporting organisations that work closely with their local community and who focus on reaching out to our target groups, older people, those with disabilities and people seeking benefits. Applicants must operate in Scotland, with awarded fund being spent entirely in Scotland.
 
 •	Can we submit more than one application?
 
