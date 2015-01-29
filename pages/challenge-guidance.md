@@ -214,7 +214,7 @@ Please note that all activity must be complete by end of March 2016.
 
 **SECTION 4: PROPOSED BENEFICIARIES**
 
-4.1 Please tell us which of the following groups will directly benefit from your project:
+4.1 Please tell us which of the following target groups will directly benefit from your project:
 
 •	Older People  
 
@@ -222,7 +222,7 @@ Please note that all activity must be complete by end of March 2016.
 
 •	People Seeking Benefits  
 
-•	Others 
+•	Others (if not any of the above target groups)
 
 If ‘Other’, please briefly specify:  (10 WORD LIMIT) 
 
