@@ -8,8 +8,8 @@ email: info@example.com
 twitter: example
 facebook: http://facebook.com/example
 start: February 2015
-end: July 2015
-award: £5,000
+end: December 2015
+award: 
 image: /images/challenge/example.jpg
 permalink: /challenge/midlothian-voluntary-action/ 
 ---
