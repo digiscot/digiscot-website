@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Getting IT
-excerpt: This project from Midlothian Voluntary Action will upskill organisations to help them to support people who have little or no experience in using the internet.
+excerpt: This project will upskill organisations to help them to support people who have little or no experience in using the internet.
 lead: Midlothian Voluntary Action 
 website: http://www.mvacvs.org/ 
 email: info@example.com
