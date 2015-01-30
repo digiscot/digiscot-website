@@ -37,8 +37,6 @@ We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us w
 
 ---
 
-This is where the project lead will post updates about their project.
-
 ### Initial Phase: January - March 2015
 
 •Project publicity is created and distributed to 200 local voluntary and community activists  
@@ -50,6 +48,8 @@ This is where the project lead will post updates about their project.
 
 #### Update: March 2015
 
+•
+
 ### Development Phase 1: April - June 2015 
 
 •Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
@@ -60,6 +60,8 @@ This is where the project lead will post updates about their project.
 
 #### Update: June 2015 
 
+•
+
 ### Development Phase 2: July - September 2015
 
 •Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
@@ -67,6 +69,8 @@ This is where the project lead will post updates about their project.
 •Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group
 
 #### Update: September 2015
+
+•
 
 ### Concluding Phase: October - December 2015
 
