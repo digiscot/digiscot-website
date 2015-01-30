@@ -52,7 +52,7 @@ This is where the project lead will post updates about their project.
 •Outreach work with 7 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them
 
 
-## Update: March 2015
+### Update: March 2015
 
 ### Development Phase 1: April - June 2015 
 
@@ -62,7 +62,7 @@ This is where the project lead will post updates about their project.
 
 •Assess first 3 months of Digital Access Hub in Gorebridge Library. Provide feedback and if successful use it as an example of good practice.
 
-## Update: June 2015 
+### Update: June 2015 
 
 ### Development Phase 2: July - September 2015
 
@@ -70,11 +70,11 @@ This is where the project lead will post updates about their project.
 
 •Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group
 
-## Update: September 2015
+### Update: September 2015
 
 ### Concluding Phase: October - December 2015
 
-## Evaluation
+### Evaluation
 
 ---
 
