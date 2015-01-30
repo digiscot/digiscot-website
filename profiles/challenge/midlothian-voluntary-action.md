@@ -10,7 +10,7 @@ facebook: http://facebook.com/example
 start: February 2015
 end: December 2015
 award: 
-image: /images/challenge/example.jpg
+image: /images/challenge/MVA.jpg
 permalink: /challenge/midlothian-voluntary-action/ 
 ---
 
