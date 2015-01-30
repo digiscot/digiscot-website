@@ -18,7 +18,7 @@ permalink: /challenge/midlothian-voluntary-action/
 
 ### Project description
 
-Paste project description here from existing materials.
+The project will upskill community groups, community council members, self-help groups, faith organisations, and anchor organisations to support people with little or no experience to access the internet.
 
 ### Key activities
 
