@@ -11,7 +11,7 @@ start: February 2015
 end: July 2015
 award: £5,000
 image: /images/challenge/example.jpg
-permalink: /challenge/test-project/midlothian-voluntary-action/ 
+permalink: /challenge/midlothian-voluntary-action/ 
 ---
 
 ## Project plan
