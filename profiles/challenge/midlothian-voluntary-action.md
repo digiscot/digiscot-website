@@ -5,8 +5,8 @@ excerpt: This project from Midlothian Voluntary Action will upskill organisation
 lead: Midlothian Voluntary Action 
 website: http://www.mvacvs.org/ 
 email: info@example.com
-twitter: example
-facebook: http://facebook.com/example
+twitter: MVACommunity
+facebook: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
 end: December 2015
 award: 
