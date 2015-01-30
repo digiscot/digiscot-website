@@ -14,7 +14,7 @@ image: /images/challenge/example.jpg
 permalink: /challenge/midlothian-voluntary-action/ 
 ---
 
-## *Project plan*
+## **Project plan**
 
 ### Project description
 
