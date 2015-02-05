@@ -10,7 +10,7 @@ facebook: www.facebook.com/MidlothianVoluntaryAction
 start: February 2015
 end: December 2015
 award: 
-image: /images/challenge/MVA.jpg
+image:
 permalink: /challenge/midlothian-voluntary-action/ 
 ---
 
@@ -74,7 +74,7 @@ We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us w
 
 ### Concluding Phase: October - December 2015
 
-## **Evaluation**
+## ***Evaluation***
 
 ---
 
