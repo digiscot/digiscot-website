@@ -5,7 +5,7 @@ excerpt:
 link: http://www.scottishhousingconnections.org/HA/Calvay/
 twitter: 
 email: yvonne@calway.org.uk
-image: /images/charter/calvay-housing-association.jpeg
+image: /images/charter/calvay-housing-association.jpg
 permalink: /charter/calvay-housing-association/ 
 ---
 
