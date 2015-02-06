@@ -5,7 +5,7 @@ excerpt:
 link: 
 twitter: 
 email: david@sportsol.co.uk
-image: /images/charter/sporting-solutions
+image: /images/charter/sporting-solutions.png
 permalink: /charter/pkc-sporting-solutions/
 ---
 
