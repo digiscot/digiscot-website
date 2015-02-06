@@ -5,7 +5,7 @@ excerpt:
 link: http://www.glenoaks.org.uk/
 twitter: 
 email: jean.murray@glenoaks.org.uk
-image: 
+image: images/charter/glen-oaks.jpg
 permalink: /charter/glenoaks-housing-association/ 
 ---
 
