@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting started: Challenge projects
+title: Getting started as a challenge project
 excerpt: Hints and tips on running your project and sharing what you learn.
 permalink: /challenge/getting-started/
 ---
