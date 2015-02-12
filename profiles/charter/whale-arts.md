@@ -5,7 +5,7 @@ excerpt:
 link: http://www.whalearts.co.uk/
 twitter: 
 email: 
-image: 
+image: /images/charter/whale-arts.jpg
 permalink: /charter/whale-arts/
 ---
 
