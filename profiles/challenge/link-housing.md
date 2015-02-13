@@ -7,9 +7,9 @@ website: http://linkhousing.org.uk/
 email: 
 twitter: 
 facebook: 
-start: 
-end: 
-award: 
+start: January 2015
+end: N/A
+award: £9156
 image:
 permalink: /challenge/link-housing/ 
 ---
