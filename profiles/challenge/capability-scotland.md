@@ -20,30 +20,18 @@ permalink: /challenge/capability-scotland/
 
 Development of the Information and Communication Technology suite at Upper Springland, one of Capability Scotland’s residential and day services in Perth, through the procurement of new height adjustable specialized computer desks to allow direct wheelchair access.
 
-### Key activities
 
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
-
-
-## **Project updates**
+## **Project Milestones**
 
 ---
 
 ### Phase 1
 
+New equipment is purchased and fitted within the ICT suite. 
 
 ### Phase 2
 
-
-### Phase 3
+The fully accessible ICT suite is promoted externally to the wider community. 
 
 
 ## **Evaluation**
@@ -73,3 +61,7 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
+
+### **Partners**
+
+We're partnering with... 
