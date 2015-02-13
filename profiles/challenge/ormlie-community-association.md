@@ -1,9 +1,9 @@
 ---
 layout: profile-challenge
-title: 
-excerpt: 
+title: Digital access and IT skills
+excerpt: Supported digital access and improving IT skills 
 lead: Ormlie Community Association
-website: 
+website: http://www.ormlie.org/
 email: 
 twitter: 
 facebook: 
@@ -18,7 +18,7 @@ permalink: /challenge/ormlie-community-association/
 
 ### Project description
 
-
+IT courses
 
 ### Key activities
 
