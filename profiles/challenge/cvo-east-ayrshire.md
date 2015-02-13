@@ -11,7 +11,7 @@ start:
 end: 
 award: 
 image:
-permalink: /challenge/cvo-east-ayrshire
+permalink: /challenge/cvo-east-ayrshire/ 
 ---
 
 ## **Project plan**
