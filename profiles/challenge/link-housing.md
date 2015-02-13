@@ -14,20 +14,11 @@ image:
 permalink: /challenge/link-housing
 ---
 
-
 ## **Project plan**
 
 ### Project description
 
 13 week City & Guilds Training with attainment of qualification and laptop.
-
-### Key activities
-
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
 
 ### Partners
 
@@ -39,13 +30,20 @@ We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us w
 ---
 
 ### Phase 1
-
+ 
+Recruitment of 40 tenants to the course.
 
 ### Phase 2
 
+40 laptops supplied with Microsoft Windows and Office software activated.
 
 ### Phase 3
 
+40 tenants start course (20 North Lanarkshire & 20 West Lothian) 
+
+### Phase 4
+
+All attendees take City & Guilds exam
 
 ## **Evaluation**
 
