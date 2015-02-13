@@ -20,31 +20,26 @@ permalink: /challenge/comas/
 
 Dot Can will help disadvantaged people to use online resources, communicate online and access services and support they need. Dot Can will reduce isolation, empower people and reduce barriers to full participation in society.
 
-### Key activities
 
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
-
-
-## **Project updates**
+## **Project Milestones**
 
 ---
 
 ### Phase 1
 
+Initiate Memory Box project in Craigmillar, group gets underway.
 
 ### Phase 2
 
+Start Dumbiedykes and Serenity Cafe sessions. Staff development sessions completed. 
 
 ### Phase 3
 
+Maintain group and 1:1 sessions in all projects. Start residents’ group to focus on community broadband. Train volunteers to sustain groups. 
+
+### Phase 4
+
+Conclude groups and handover to volunteers to sustain activity
 
 ## **Evaluation**
 
@@ -73,3 +68,7 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
+
+## **Partners**
+
+We're working with...
