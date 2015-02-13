@@ -20,30 +20,29 @@ permalink: /challenge/the-libertie-project/
 
 The Creative Digital Club (CDC) will be a project that uses creative digital activities as a platform to engage with hard to reach individuals, develops skills, positive activities, encourages independence and resilience and nurtures individuals to take steps towards developing new interests, training, education or employment.
 
-### Key activities
 
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
-
-
-## **Project updates**
+## **Project Milestones**
 
 ---
 
 ### Phase 1
 
+Plan delivery of digital creative club, establish links with stakeholders and obtain equipment.
 
 ### Phase 2
 
+Homeless Club: Deliver digital creative club for people who are homeless.
+Establish individual learning plans and record baseline of skills. Deliver pre-employability digital skills and looking for work skills. Create virtual blogs to record progress. Use Digital photography and video equipment to upload to virtual blogs
 
 ### Phase 3
+
+Women's Club: Deliver digital creative club for women.
+Establish individual learning plans and record baseline of skills. Deliver digital life skills training to include emails, internet searching and shopping, online services. Use digital photography to create virtual webpage and virtual online etsy shop. 
+
+### Phase 4
+
+Offender's Club: Deliver digital creative club for offenders.
+Establish individual learning plans and record baseline of skills.Deliver digital radioskills training to create virtual radio programme. Establish whether Ofcom will grant temporary or restricted internet radio license. Establish budget for running internet radio station beyond the timescale of the digital creative club.
 
 
 ## **Evaluation**
