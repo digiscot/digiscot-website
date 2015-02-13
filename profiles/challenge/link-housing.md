@@ -11,8 +11,9 @@ start:
 end: 
 award: 
 image:
-permalink: /challenge/link-housing/ 
+permalink: /challenge/link-housing
 ---
+
 
 ## **Project plan**
 
