@@ -7,8 +7,8 @@ website: http://www.comas.org.uk/
 email: mail@comas.org.uk
 twitter: 
 facebook: 
-start: 
-end: 
+start: January 2015
+end: December 2015
 award: 
 image:
 permalink: /challenge/comas/ 
