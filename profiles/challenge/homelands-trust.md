@@ -1,4 +1,4 @@
----
+--- 
 layout: profile-challenge
 title: Me Help Me
 excerpt: Me Help Me: digital advancement encouraging self-management
@@ -11,7 +11,7 @@ start:
 end: 
 award: 
 image:
-permalink: /challenge/homelands-trust 
+permalink: /challenge/homelands-trust/
 ---
 
 ## **Project plan**
