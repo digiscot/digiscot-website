@@ -20,12 +20,8 @@ permalink: /challenge/link-housing/
 
 13 week City & Guilds Training with attainment of qualification and laptop.
 
-### Partners
 
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
-
-
-## **Project updates**
+## **Project Milestones**
 
 ---
 
@@ -72,3 +68,7 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
+
+### Partners
+
+We're working with ... 
