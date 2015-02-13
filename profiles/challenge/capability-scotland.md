@@ -7,7 +7,7 @@ website: http://www.capability-scotland.org.uk/
 email: 
 twitter: 
 facebook: 
-start: 
+start: February 2015
 end: 
 award: 
 image:
