@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Me Help Me
-excerpt: Me Help Me: Digital advancement encouraging self-management
+excerpt:
 lead: Bethany Christian Trust
 website: http://www.bethanychristiantrust.com/
 email: info@bethanychristiantrust.com
