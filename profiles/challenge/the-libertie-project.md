@@ -9,7 +9,7 @@ twitter:
 facebook: https://www.facebook.com/libertieproject 
 start: January 2015
 end: November 2015
-award: 
+award: £9700
 image:
 permalink: /challenge/the-libertie-project/ 
 ---
