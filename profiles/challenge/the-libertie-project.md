@@ -3,7 +3,7 @@ layout: profile-challenge
 title: Digital Creative Club
 excerpt: Using creative digital activities to engage with hard to reach individuals
 lead: The Libertie Project
-website: http://www.libertie.biz/
+website: http://www.libertie.biz/ 
 email: 
 twitter: 
 facebook: https://www.facebook.com/libertieproject 
