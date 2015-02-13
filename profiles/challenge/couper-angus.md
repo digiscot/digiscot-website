@@ -11,7 +11,7 @@ start:
 end: 
 award: 
 image:
-permalink: /challenge/couper-angus-regeneration-trust/ 
+permalink: /challenge/couper-angus/ 
 ---
 
 ## **Project plan**
