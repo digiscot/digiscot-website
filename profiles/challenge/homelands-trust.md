@@ -1,13 +1,13 @@
 ---
 layout: profile-challenge
-title: Me Help Me
-excerpt: Me Help Me: digital advancement encouraging self-management
-lead: Homelands Trust Fife
-website: http://homelands-fife.co.uk/
-email: 
+title: Digital Oasis
+excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse
+lead: Bethany Christian Trust
+website: http://www.bethanychristiantrust.com/
+email: info@bethanychristiantrust.com
 twitter: 
-facebook: https://www.facebook.com/HomelandsTrust
-start:  
+facebook: https://www.facebook.com/BethanyChristianTrust1
+start: 
 end: 
 award: 
 image:
