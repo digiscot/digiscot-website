@@ -18,7 +18,7 @@ permalink: /challenge/project-scotland/
 
 ### Project description
 
-
+To support 6 volunteer workshops introducing the social media tool LinkedIn as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology. 
 
 ### Key activities
 
