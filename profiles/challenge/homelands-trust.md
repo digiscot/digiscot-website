@@ -11,7 +11,7 @@ start:
 end: 
 award: 
 image:
-permalink: /challenge/homelands-trust/
+permalink: /challenge/homelands-trust/ 
 ---
 
 ## **Project plan**
