@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: LinkedIn workshops
-excerpt:
+excerpt: Get on in life workshop programme
 lead: Project Scotland
 website: http://www.projectscotland.co.uk/
 email: 
