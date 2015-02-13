@@ -5,7 +5,7 @@ excerpt:
 link: 
 twitter: 
 email: 
-image: 
+image: /images/charter/tablet-academy.jpg
 permalink: /charter/tablet-academy/
 ---
 
