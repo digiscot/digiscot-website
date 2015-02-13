@@ -1,6 +1,6 @@
 ---
 layout: profile-challenge
-title: 
+title: Connecting and Communicating
 excerpt: 
 lead: Scottish Council on Deafness
 website: http://www.scod.org.uk/
@@ -37,29 +37,14 @@ We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us w
 
 ---
 
-### Initial Phase: January - March 2015
+### Phase 1
 
 
-
-#### Update: March 2015
-
-•
-
-### Development Phase 1: April - June 2015 
+### Phase 2
 
 
-#### Update: June 2015 
+### Phase 3
 
-•
-
-### Development Phase 2: July - September 2015
-
-
-#### Update: September 2015
-
-•
-
-### Concluding Phase: October - December 2015
 
 ## **Evaluation**
 
