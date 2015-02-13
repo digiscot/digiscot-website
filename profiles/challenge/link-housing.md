@@ -69,6 +69,6 @@ Things that we would do differently next time:
 2. Text
 3. Text
 
-### Partners
+## **Partners**
 
 We're working with ... 
