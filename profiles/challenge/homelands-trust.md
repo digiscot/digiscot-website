@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
-title: Digital Oasis
-excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse
+title: Me Help Me
+excerpt: Me Help Me: Digital advancement encouraging self-management
 lead: Bethany Christian Trust
 website: http://www.bethanychristiantrust.com/
 email: info@bethanychristiantrust.com
