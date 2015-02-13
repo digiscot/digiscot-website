@@ -9,7 +9,7 @@ twitter:
 facebook: https://www.facebook.com/SpruceCarpets
 start:  February 2015
 end: June 2015
-award: 
+award: £1600
 image:
 permalink: /challenge/spruce-carpets/
 ---
