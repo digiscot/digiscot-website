@@ -7,8 +7,8 @@ website: http://www.sprucecarpets.org.uk/
 email: 
 twitter: 
 facebook: https://www.facebook.com/SpruceCarpets
-start:  
-end: 
+start:  February 2015
+end: June 2015
 award: 
 image:
 permalink: /challenge/spruce-carpets/
@@ -18,32 +18,20 @@ permalink: /challenge/spruce-carpets/
 
 ### Project description
 
-IT skills training for people in the community to ECDL accreditation. 
-
-### Key activities
-
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
+IT skills training for people in the community to European Computer Driving License (ECDL) accreditation. 
 
 
-## **Project updates**
+## **Project Milestones**
 
 ---
 
 ### Phase 1
 
+Refit of existing area within warehouse and install 6 pc’s and 2 printers
 
 ### Phase 2
 
-
-### Phase 3
+Engage with existing and new volunteers. Assess IT skills and introduce individual training plans. Commence IT training courses with participants reaching basic ECDL level. 
 
 
 ## **Evaluation**
