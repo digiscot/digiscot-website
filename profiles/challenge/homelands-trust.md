@@ -2,11 +2,11 @@
 layout: profile-challenge
 title: Me Help Me
 excerpt:
-lead: Bethany Christian Trust
-website: http://www.bethanychristiantrust.com/
-email: info@bethanychristiantrust.com
+lead: Homelands Trust Fife
+website: http://homelands-fife.co.uk/
+email:
 twitter: 
-facebook: https://www.facebook.com/BethanyChristianTrust1
+facebook: https://www.facebook.com/HomelandsTrust
 start: 
 end: 
 award: 
