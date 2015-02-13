@@ -11,7 +11,7 @@ start:
 end: 
 award: 
 image:
-permalink: /challenge/homelands-trust-fife/
+permalink: /challenge/homelands-trust-fife
 ---
 
 ## **Project plan**
