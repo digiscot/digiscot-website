@@ -1,4 +1,4 @@
---- 
+---
 layout: profile-challenge
 title: Me Help Me
 excerpt: Me Help Me: digital advancement encouraging self-management
