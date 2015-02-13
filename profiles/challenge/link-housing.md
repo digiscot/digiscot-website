@@ -1,3 +1,4 @@
+---
 layout: profile-challenge
 title: City & Guilds Training
 excerpt: 
