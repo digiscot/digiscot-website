@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Digital Creative Club
-excerpt: 
+excerpt: Using creative digital activities to engage with hard to reach individuals
 lead: 
 website: http://www.libertie.biz/
 email: 
@@ -18,7 +18,7 @@ permalink: /challenge/the-libertie-project/
 
 ### Project description
 
-
+The Creative Digital Club (CDC) will be a project that uses creative digital activities as a platform to engage with hard to reach individuals, develops skills, positive activities, encourages independence and resilience and nurtures individuals to take steps towards developing new interests, training, education or employment.
 
 ### Key activities
 
