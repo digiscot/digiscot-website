@@ -7,8 +7,8 @@ website: http://www.libertie.biz/
 email: 
 twitter: 
 facebook: https://www.facebook.com/libertieproject 
-start: 
-end: 
+start: January 2015
+end: November 2015
 award: 
 image:
 permalink: /challenge/the-libertie-project/ 
