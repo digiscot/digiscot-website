@@ -14,7 +14,7 @@ All successful applicants will have a project page on this website where they ca
 
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
 
-## Call 2 (Spring 2015) **Now Open** 
+## Call 2 (Spring 2015) **Please note that applications for Challenge Fund call 2 have now closed**
 
 ### Key dates
 
