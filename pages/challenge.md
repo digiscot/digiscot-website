@@ -15,7 +15,7 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 
 ## Call 2 (Spring 2015) 
 
-*Please note that applications for Challenge Fund call 2 have now closed*
+~ *Please note that applications for Challenge Fund call 2 have now closed* ~
 
 ### Key dates
 
