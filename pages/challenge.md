@@ -2,7 +2,6 @@
 layout: challenge
 title: Challenge Fund and Projects
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: Applications for Call 2 are now open.
 permalink: /challenge/
 ---
 
