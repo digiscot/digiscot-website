@@ -5,7 +5,7 @@ excerpt:
 link: http://www.shapinsay.org.uk
 twitter:
 email:
-image: /images/charter/
+image:
 permalink: /charter/shapinsay-development-trust/ 
 ---
 
