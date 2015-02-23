@@ -66,6 +66,7 @@ layout: default
           {% if page.layout == 'profile-challenge' %}
           
             <p class="p-index"><strong><a href="{{ page.url }}">{{ page.title }}</a></strong><br />
+            {{ page.lead }}<br/>
             <small>{{ page.excerpt }}</small></p>
             
             {% capture idx %}{{ idx | plus: 1}}{% endcapture %}

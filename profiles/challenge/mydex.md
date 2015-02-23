@@ -1,8 +1,8 @@
 ---
 layout: profile-challenge
-title: 
+title: Title TBC
 excerpt: 
-lead: Mydex
+lead: Mydex CIC
 website: https://mydex.org/
 email: 
 twitter: 

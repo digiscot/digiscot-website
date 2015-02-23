@@ -1,6 +1,6 @@
 ---
 layout: profile-challenge
-title: 
+title: Title TBC
 excerpt: 
 lead: Couper Angus Regeneration Trust
 website: http://www.coupar-angus.org/

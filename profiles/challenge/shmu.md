@@ -1,6 +1,6 @@
 ---
 layout: profile-challenge
-title: 
+title: Title TBC
 excerpt: 
 lead: Station House Media Unit (shmu)
 website: http://www.shmu.org.uk/
