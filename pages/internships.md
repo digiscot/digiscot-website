@@ -22,6 +22,8 @@ It's also a great way to give people aged 18–30 (and with an HND qualification
 
 Host organisations and interns will also benefit from the support of carefully selected mentors from the Scottish technology sector, who will be there every step of the way to ensure the very best outcomes for both parties.
 
+<a href="http://www.scvo.net/Home/findyourdigitalinternjobsSCVOSITE.aspx" class="btn btn-primary btn-lg">View current vacancies</a>
+
 ### Eligibility and support available
 
 The way we're funded means that there are a few rules about what sorts of organisations can apply. To be eligible your organisation must:
