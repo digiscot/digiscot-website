@@ -2,7 +2,7 @@
 layout: internships
 title: Let's Get Digital internships
 excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
-alert: Now accepting applications.
+alert: Now accepting applications for Highlands and Islands.
 permalink: /internships/
 ---
 
