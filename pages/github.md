@@ -33,7 +33,7 @@ When you're in GitHub, the editable version of your page looks a lot like a plai
 
 #### Front matter
 
-The top part of the file, sandwiched between two sets of "---" marks, is known as the **front matter**. We use the information here to help build the page and give it the correct address on the internet. You should avoid editing this section unless you are sure you know what you are doing!
+The top part of the file, sandwiched between two sets of `---` marks, is known as the **front matter** (or *metadata*). We use the information here to help build the page and give it the correct address on the internet. **You should avoid editing this section unless you are sure you know what you are doing!**
 
 #### Content
 
