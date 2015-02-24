@@ -11,7 +11,7 @@ We’re part of the [Scottish Council for Voluntary Organisations](http://www.sc
 
 The programme is overseen by a leadership group drawn from across the public, private and third sectors. The group's [terms of reference](/about/leadership-group/) set out its role and remit in more detail.
 
-Our work on digital participation is generously funded by the [Scottish Government](http://www.scotland.gov.uk) and closely linked to the wider [Digital Scotland](http://www.digitalscotland.org/") agenda.
+Our work on digital participation is generously funded by the [Scottish Government](http://www.scotland.gov.uk) and closely linked to the wider [Digital Scotland](http://www.digitalscotland.org/) agenda.
 
 ### Our blog
 
