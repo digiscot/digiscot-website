@@ -50,7 +50,7 @@ Navigate to the relevant file and use the `Edit` button (it usually looks like a
 Once you are finished editing, one of two things needs to happen:
 
 1. If you have sufficient privileges then you can choose `Commit changes`. Your changes will go live on the website within a couple of minutes.
-2. Otherwise you can choose `Submit pull request`. This will notify the team that you have proposed a change. We will review this ASAP and if everything is ok we will `Merge` to incorporate your changes.
+2. Otherwise you can choose `Propose file change` followed by `Send pull request`. This will notify the team that you have proposed a change. We will review this ASAP and if everything is ok we will `Merge` to incorporate your changes.
 
 ### Uploading images
 
