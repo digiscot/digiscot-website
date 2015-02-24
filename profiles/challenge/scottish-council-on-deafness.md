@@ -1,54 +1,44 @@
 ---
 layout: profile-challenge
 title: Connecting and Communicating
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: Scottish Council on Deafness
 website: http://www.scod.org.uk/
 email: admin@scod.org.uk
 twitter: 
 facebook: 
-start: 
-end: 
-award: 
+start: TBC
+end: TBC
+award: TBC
 image:
 permalink: /challenge/scottish-council-on-deafness/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
+TBC
 
 
-### Key activities
 
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
-
-
-## **Project updates**
-
----
+## Project milestones
 
 ### Phase 1
 
+TBC
 
 ### Phase 2
 
+TBC
 
 ### Phase 3
 
+TBC
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

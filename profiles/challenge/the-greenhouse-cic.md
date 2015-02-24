@@ -1,54 +1,44 @@
 ---
 layout: profile-challenge
 title: The Greenhouse Digital Participation Programme
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: The Greenhouse Shop CIC
 website: 
 email: 
 twitter: 
 facebook: https://www.facebook.com/thegreenhousedingwall
-start: 
-end: 
-award: 
+start: TBC
+end: TBC
+award: TBC
 image:
 permalink: /challenge/the-greenhouse-cic/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
 To provide computer hardware and support for the local and wider community. 
 
-### Key activities
-
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
 
 
-## **Project updates**
-
----
+## Project milestones
 
 ### Phase 1
 
+TBC
 
 ### Phase 2
 
+TBC
 
 ### Phase 3
 
+TBC
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

@@ -1,54 +1,44 @@
 ---
 layout: profile-challenge
 title: Toryglen Digital Base
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: Toryglen Community Base
 website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
 twitter: 
 facebook: 
 start: January 2015
-end: 
-award: £4704.77 
+end: TBC
+award: £4,700
 image:
 permalink: /challenge/toryglen-community-base/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
-IT suite refurbishment to support the development of Toryglen Digital Base and it's work teaching basic computer skills in the community. 
-
-### Key activities
-
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
+IT suite refurbishment to support the development of Toryglen Digital Base and its work teaching basic computer skills in the community. 
 
 
-## **Project updates**
 
----
+## Project milestones
 
 ### Phase 1
 
+TBC
 
 ### Phase 2
 
+TBC
 
 ### Phase 3
 
+TBC
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

@@ -1,42 +1,40 @@
 ---
 layout: profile-challenge
 title: The Spruce Hub
-excerpt: Accredited IT skills training  
+excerpt: Accredited IT skills training.
 lead: Spruce Carpets
 website: http://www.sprucecarpets.org.uk/
 email: 
 twitter: 
 facebook: https://www.facebook.com/SpruceCarpets
-start:  February 2015
+start: February 2015
 end: June 2015
-award: £1600
+award: £1,600
 image:
 permalink: /challenge/spruce-carpets/
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
 IT skills training for people in the community to European Computer Driving License (ECDL) accreditation. 
 
 
-## **Project Milestones**
 
----
+## Project Milestones
 
 ### Phase 1
 
-Refit of existing area within warehouse and install 6 pc’s and 2 printers
+Refit of existing area within warehouse and install 6 PCs and 2 printers.
 
 ### Phase 2
 
 Engage with existing and new volunteers. Assess IT skills and introduce individual training plans. Commence IT training courses with participants reaching basic ECDL level. 
 
 
-## **Evaluation**
 
----
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

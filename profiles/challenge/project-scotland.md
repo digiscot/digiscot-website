@@ -1,54 +1,44 @@
 ---
 layout: profile-challenge
 title: LinkedIn workshops
-excerpt: Get on in life workshop programme - LinkedIn workshops
+excerpt: Get on in life workshop programme - LinkedIn workshops.
 lead: Project Scotland
 website: http://www.projectscotland.co.uk/
 email: 
 twitter: 
 facebook: 
-start: 
-end: 
-award: 
+start: TBC
+end: TBC
+award: TBC
 image:
 permalink: /challenge/project-scotland/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
 To support 6 volunteer workshops introducing the social media tool LinkedIn as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology. 
 
-### Key activities
-
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
 
 
-## **Project updates**
-
----
+## Project milestones
 
 ### Phase 1
 
+TBC
 
 ### Phase 2
 
+TBC
 
 ### Phase 3
 
+TBC
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

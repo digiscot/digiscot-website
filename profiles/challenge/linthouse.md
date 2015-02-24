@@ -1,28 +1,28 @@
 ---
 layout: profile-challenge
 title: Title TBC
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: Linthouse Monday club
 website: 
 email: 
 twitter: 
 facebook: 
-start: 
-end: 
-award: 
+start: TBC
+end: TBC
+award: TBC
 image:
 permalink: /challenge/linthouse-monday-club/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
+TBC
 
 
-## **Project Milestones**
 
----
+## Project milestones
 
 ### Phase 1
 
@@ -32,10 +32,13 @@ TBC
 
 TBC
 
+### Phase 3
 
-## **Evaluation**
+TBC
 
----
+
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

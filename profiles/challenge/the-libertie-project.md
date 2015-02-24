@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Digital Creative Club
-excerpt: Using creative digital activities to engage with hard to reach individuals
+excerpt: Using creative digital activities to engage with hard to reach individuals.
 lead: The Libertie Project
 website: http://www.libertie.biz/ 
 email: 
@@ -9,21 +9,20 @@ twitter:
 facebook: https://www.facebook.com/libertieproject 
 start: January 2015
 end: November 2015
-award: £9700
+award: £9,700
 image:
 permalink: /challenge/the-libertie-project/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
 The Creative Digital Club (CDC) will be a project that uses creative digital activities as a platform to engage with hard to reach individuals, develops skills, positive activities, encourages independence and resilience and nurtures individuals to take steps towards developing new interests, training, education or employment.
 
 
-## **Project Milestones**
 
----
+## Project Milestones
 
 ### Phase 1
 
@@ -32,22 +31,24 @@ Plan delivery of digital creative club, establish links with stakeholders and ob
 ### Phase 2
 
 Homeless Club: Deliver digital creative club for people who are homeless.
+
 Establish individual learning plans and record baseline of skills. Deliver pre-employability digital skills and looking for work skills. Create virtual blogs to record progress. Use Digital photography and video equipment to upload to virtual blogs
 
 ### Phase 3
 
 Women's Club: Deliver digital creative club for women.
+
 Establish individual learning plans and record baseline of skills. Deliver digital life skills training to include emails, internet searching and shopping, online services. Use digital photography to create virtual webpage and virtual online etsy shop. 
 
 ### Phase 4
 
 Offender's Club: Deliver digital creative club for offenders.
+
 Establish individual learning plans and record baseline of skills.Deliver digital radioskills training to create virtual radio programme. Establish whether Ofcom will grant temporary or restricted internet radio license. Establish budget for running internet radio station beyond the timescale of the digital creative club.
 
 
-## **Evaluation**
 
----
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 

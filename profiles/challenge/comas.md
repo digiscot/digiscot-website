@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Dot Can
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: Comas
 website: http://www.comas.org.uk/
 email: mail@comas.org.uk
@@ -9,21 +9,20 @@ twitter:
 facebook: 
 start: January 2015
 end: December 2015
-award: 
+award: TBC
 image:
 permalink: /challenge/comas/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
 Dot Can will help disadvantaged people to use online resources, communicate online and access services and support they need. Dot Can will reduce isolation, empower people and reduce barriers to full participation in society.
 
 
-## **Project Milestones**
 
----
+## Project Milestones
 
 ### Phase 1
 
@@ -39,11 +38,11 @@ Maintain group and 1:1 sessions in all projects. Start residents’ group to foc
 
 ### Phase 4
 
-Conclude groups and handover to volunteers to sustain activity
+Conclude groups and handover to volunteers to sustain activity.
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 
@@ -68,7 +67,3 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
-
-## **Partners**
-
-We're working with...

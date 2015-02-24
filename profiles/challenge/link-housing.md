@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: City & Guilds Training
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: Link Housing
 website: http://linkhousing.org.uk/
 email: 
@@ -14,16 +14,15 @@ image:
 permalink: /challenge/link-housing/ 
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
 13 week City & Guilds Training with attainment of qualification and laptop.
 
 
-## **Project Milestones**
 
----
+## Project Milestones
 
 ### Phase 1
  
@@ -35,15 +34,15 @@ Recruitment of 40 tenants to the course.
 
 ### Phase 3
 
-40 tenants start course (20 North Lanarkshire & 20 West Lothian) 
+40 tenants start course (20 North Lanarkshire & 20 West Lothian).
 
 ### Phase 4
 
-All attendees take City & Guilds exam
+All attendees take City & Guilds exam.
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 
@@ -68,7 +67,3 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
-
-## **Partners**
-
-We're working with ... 

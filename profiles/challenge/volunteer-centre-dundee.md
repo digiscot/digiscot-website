@@ -1,54 +1,44 @@
 ---
 layout: profile-challenge
 title: Volunteer with IT
-excerpt: 
+excerpt: Excerpt coming soon...
 lead: Volunteer Centre Dundee
 website: http://www.volunteerdundee.org.uk/
 email: 
 twitter: 
 facebook: 
-start: 
-end: 
-award: 
+start: TBC
+end: TBC
+award: TBC
 image:
 permalink: /challenge/volunteer-centre-dundee/
 ---
 
-## **Project plan**
+## Project plan
 
 ### Project description
 
-Peer support to increase identified IT learning goals
-
-### Key activities
-
-Paste key activities here from existing materials.
-
-### Outputs and outcomes
-
-Paste project description here from existing materials.
-
-### Partners
-
-We're working with [XYZ Organisation](/charter/xyz-org/) who are supporting us with 1, 2 and 3.
+Peer support to increase identified IT learning goals.
 
 
-## **Project updates**
 
----
+## Project milestones
 
 ### Phase 1
 
+TBC
 
 ### Phase 2
 
+TBC
 
 ### Phase 3
 
+TBC
 
-## **Evaluation**
 
----
+
+## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
 
