@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Snook
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/snook.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Wheatley Group
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/wheatley-group.jpg

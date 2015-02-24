@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Mydex CIC
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/mydex.jpg

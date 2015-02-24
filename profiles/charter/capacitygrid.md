@@ -2,7 +2,7 @@
 layout: profile-charter
 title: CapacityGrid
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/capacitygrid.jpg

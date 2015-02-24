@@ -2,7 +2,7 @@
 layout: profile-charter
 title: BT
 excerpt: 
-link: http://www.bt.com
+website: http://www.bt.com
 twitter: 
 email: 
 image: /images/charter/bt.jpg

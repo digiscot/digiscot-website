@@ -2,7 +2,7 @@
 layout: profile-charter
 title: CalMac Ferries
 excerpt: 
-link: http://www.calmac.co.uk/
+website: http://www.calmac.co.uk/
 twitter: 
 email: Elaine.Dyer@calmac.co.uk
 image: /images/charter/calmac.png

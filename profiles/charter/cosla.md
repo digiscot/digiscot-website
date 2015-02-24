@@ -2,7 +2,7 @@
 layout: profile-charter
 title: COSLA
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/cosla.jpg

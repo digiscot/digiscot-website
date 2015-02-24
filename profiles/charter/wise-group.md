@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Wise Group
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/wise-group.jpg

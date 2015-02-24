@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Mackay Hannah
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/mackay-hannah.jpg

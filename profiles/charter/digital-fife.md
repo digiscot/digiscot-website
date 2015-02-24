@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Digital Fife
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/digital-fife.jpg

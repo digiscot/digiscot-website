@@ -2,7 +2,7 @@
 layout: profile-charter
 title: PKC S'porting Solutions
 excerpt: 
-link: 
+website: 
 twitter: 
 email: david@sportsol.co.uk
 image: /images/charter/sporting-solutions.png

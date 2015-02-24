@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Merkinch Community Centre
 excerpt: 
-link:
+website:
 twitter:
 email: elsie.merkinch@uwclub.net
 image: 

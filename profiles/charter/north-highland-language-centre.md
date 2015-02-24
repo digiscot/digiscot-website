@@ -2,7 +2,7 @@
 layout: profile-charter
 title: North Highland Language Centre
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/north-highland-language-centre.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Virgin Media
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/virgin-media.jpg

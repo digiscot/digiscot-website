@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Bemis
 excerpt: 
-link: http://www.bemis.org.uk/
+website: http://www.bemis.org.uk/
 twitter: 
 email: mail@bemis.org.uk
 image: 

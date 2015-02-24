@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scotland's Learning Partnership
 excerpt: 
-link: http://www.salp.org.uk/
+website: http://www.salp.org.uk/
 twitter: 
 email: info@scotlandslearning.org.uk
 image: 

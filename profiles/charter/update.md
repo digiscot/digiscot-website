@@ -2,7 +2,7 @@
 layout: profile-charter
 title: UPDATE
 excerpt: 
-link: http://www.update.org.uk/
+website: http://www.update.org.uk/
 twitter: 
 email: 
 image: 

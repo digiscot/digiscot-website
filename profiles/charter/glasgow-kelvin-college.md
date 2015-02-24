@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Glasgow Kelvin College
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/glasgow-kelvin-college.jpg

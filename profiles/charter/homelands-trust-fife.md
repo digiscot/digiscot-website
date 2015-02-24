@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Homelands Trust Fife
 excerpt: 
-link: http://homelands-fife.co.uk/
+website: http://homelands-fife.co.uk/
 twitter: 
 email: 
 image: 

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scottish Council for Voluntary Organisations
 excerpt: 
-link: http://www.scvo.org.uk
+website: http://www.scvo.org.uk
 twitter: scvotweet
 email: enquiries@scvo.org.uk
 image: /images/charter/scvo.jpg

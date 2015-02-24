@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scottish Council on Deafness
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/scod.jpg

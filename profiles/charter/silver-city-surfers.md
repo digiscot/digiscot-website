@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Silver City Surfers
 excerpt: 
-link: http://silvercitysurfers.co.uk/
+website: http://silvercitysurfers.co.uk/
 twitter: 
 email: Silvercitysurfers@gmail.com
 image: 

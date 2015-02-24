@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Quarriers
 excerpt: 
-link: http://www.quarriers.org.uk
+website: http://www.quarriers.org.uk
 twitter: quarriers
 email: 
 image: /images/charter/quarriers.jpg

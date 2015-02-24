@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Learning link
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/learning-link.jpg

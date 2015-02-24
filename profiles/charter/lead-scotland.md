@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Lead Scotland
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/lead-scotland.jpg

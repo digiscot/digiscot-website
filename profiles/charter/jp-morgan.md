@@ -2,7 +2,7 @@
 layout: profile-charter
 title: JP Morgan
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/jp-morgan.jpg

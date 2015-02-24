@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Disability Scotland
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/disability-scotland.jpg

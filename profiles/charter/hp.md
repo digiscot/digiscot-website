@@ -2,7 +2,7 @@
 layout: profile-charter
 title: HP
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/hp.jpg

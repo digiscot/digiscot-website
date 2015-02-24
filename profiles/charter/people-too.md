@@ -2,7 +2,7 @@
 layout: profile-charter
 title: People Too
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/people-too.jpg

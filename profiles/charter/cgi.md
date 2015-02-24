@@ -2,7 +2,7 @@
 layout: profile-charter
 title: CGI
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/cgi.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: RUTS
 excerpt: 
-link: http://ruts.org.uk/
+website: http://ruts.org.uk/
 twitter: 
 email: 
 image: 

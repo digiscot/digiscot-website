@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Tablet Academy
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/tablet-academy.jpg

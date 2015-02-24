@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Etive
 excerpt: 
-link: http://etive.org/
+website: http://etive.org/
 twitter: 
 email: 
 image: 

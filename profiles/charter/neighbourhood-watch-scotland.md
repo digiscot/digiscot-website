@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Neighbourhood Watch Scotland
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/neighbourhood-watch-scotland.jpg

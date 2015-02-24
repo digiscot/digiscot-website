@@ -2,7 +2,7 @@
 layout: profile-charter
 title: NEoN
 excerpt: 
-link: http://www.northeastofnorth.com/
+website: http://www.northeastofnorth.com/
 twitter: 
 email: 
 image: 

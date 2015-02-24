@@ -2,7 +2,7 @@
 layout: profile-charter
 title: IRISS
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/iriss.jpg

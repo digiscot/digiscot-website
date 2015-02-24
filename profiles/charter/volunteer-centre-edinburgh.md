@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Volunteer Centre Edinburgh
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/volunteer-centre-edinburgh.png

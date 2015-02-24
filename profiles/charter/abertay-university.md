@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Abertay University
 excerpt: 
-link: http://www.abertay.ac.uk/
+website: http://www.abertay.ac.uk/
 twitter: 
 email: 
 image: 

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Miituu
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/miituu.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Maritime Charities Funding Group
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/maritime-charities.jpg

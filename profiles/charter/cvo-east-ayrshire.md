@@ -2,7 +2,7 @@
 layout: profile-charter
 title: CVO East Ayrshire
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/cvo-east-ayrshire.jpg

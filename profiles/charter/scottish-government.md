@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scottish Government
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/scottish-government.jpg

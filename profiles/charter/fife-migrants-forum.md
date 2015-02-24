@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Fife Migrants Forum
 excerpt: 
-link: http://fifemigrantsforum.org.uk/
+website: http://fifemigrantsforum.org.uk/
 twitter: 
 email: 
 image: 

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Reusing IT
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/reusing-it.jpg

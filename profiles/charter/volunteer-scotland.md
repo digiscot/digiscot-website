@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Volunteer Scotland
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/volunteer-scotland.jpg

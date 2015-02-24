@@ -2,7 +2,7 @@
 layout: profile-charter
 title: NHS Health Scotland
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/nhs-health-scotland.jpg

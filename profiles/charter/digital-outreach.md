@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Digital Outreach
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/digital-outreach.jpg

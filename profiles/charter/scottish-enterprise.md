@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scottish Enterprise
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/scottish-enterprise.jpg

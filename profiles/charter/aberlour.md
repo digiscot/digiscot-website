@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Aberlour
 excerpt: 
-link: http://www.aberlour.org.uk
+website: http://www.aberlour.org.uk
 twitter: AberlourCCT
 email: enquiries@aberlour.org.uk
 image: /images/charter/aberlour.jpg

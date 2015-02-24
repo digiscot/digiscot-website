@@ -2,7 +2,7 @@
 layout: profile-charter
 title: R3D
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/r3d.png

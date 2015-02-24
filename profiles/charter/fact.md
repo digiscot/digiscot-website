@@ -2,7 +2,7 @@
 layout: profile-charter
 title: FACT
 excerpt: 
-link: http://forresarea.org/
+website: http://forresarea.org/
 twitter: 
 email: 
 image: 

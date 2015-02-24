@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Storm ID
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/storm-id.jpg

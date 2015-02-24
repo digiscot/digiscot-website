@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Saheliya
 excerpt: 
-link: http://www.saheliya.co.uk/
+website: http://www.saheliya.co.uk/
 twitter: 
 email: 
 image: 

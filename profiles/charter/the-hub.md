@@ -2,7 +2,7 @@
 layout: profile-charter
 title: The Hub
 excerpt: 
-link: http://www.thehubdg.org/
+website: http://www.thehubdg.org/
 twitter: 
 email: 
 image: 

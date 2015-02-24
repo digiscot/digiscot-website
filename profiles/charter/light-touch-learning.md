@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Light Touch Learning
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/light-touch-learning.png

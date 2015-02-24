@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Patient Opinion
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/patient-opinion.jpg

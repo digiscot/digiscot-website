@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scottish Qualifications Authority
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/sqa.jpg

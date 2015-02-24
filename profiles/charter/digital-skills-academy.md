@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Digital Skills Academy
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/digital-skills-academy.jpg

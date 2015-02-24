@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Raploch Community Partnership
 excerpt: 
-link:
+website:
 twitter: 
 email: mitchellja@stirling.gov.uk
 image: 

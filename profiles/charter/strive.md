@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Strive
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/strive.jpg

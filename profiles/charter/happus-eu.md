@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Happus.eu
 excerpt: 
-link: http://www.happus.eu/
+website: http://www.happus.eu/
 twitter: 
 email: 
 image: 

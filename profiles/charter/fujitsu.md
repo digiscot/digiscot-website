@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Fujitsu
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/fujitsu.jpg

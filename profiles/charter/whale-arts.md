@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Whale Arts
 excerpt: 
-link: http://www.whalearts.co.uk/
+website: http://www.whalearts.co.uk/
 twitter: 
 email: 
 image: /images/charter/whale-arts.jpg

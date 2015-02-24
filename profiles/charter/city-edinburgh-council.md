@@ -2,7 +2,7 @@
 layout: profile-charter
 title: City of Edinburgh Council
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/city-edinburgh-council.jpg

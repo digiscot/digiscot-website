@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Pass IT On
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/pass-it-on.jpg

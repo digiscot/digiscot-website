@@ -2,7 +2,7 @@
 layout: profile-charter
 title: EDLC
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/edlc.jpg

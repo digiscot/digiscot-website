@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Nesta
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/nesta.jpg

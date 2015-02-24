@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Asda
 excerpt: 
-link: http://www.asda.com
+website: http://www.asda.com
 twitter: asda
 email: 
 image: /images/charter/asda.png

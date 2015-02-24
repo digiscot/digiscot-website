@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Maryhill Housing Association
 excerpt: 
-link: http://www.maryhill.org.uk/
+website: http://www.maryhill.org.uk/
 twitter:
 email:
 image:

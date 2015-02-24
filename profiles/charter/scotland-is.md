@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Scotland IS
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/scotland-is.jpg

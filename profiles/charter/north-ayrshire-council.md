@@ -2,7 +2,7 @@
 layout: profile-charter
 title: North Ayrshire Council
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/north-ayrshire-council.jpg

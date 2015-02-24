@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Reuse My PC
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/reuse-my-pc.jpg

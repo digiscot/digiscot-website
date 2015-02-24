@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Shapinsay Development Trust
 excerpt: 
-link: http://www.shapinsay.org.uk
+website: http://www.shapinsay.org.uk
 twitter:
 email:
 image:

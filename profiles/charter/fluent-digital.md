@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Fluent Digital CIC
 excerpt: 
-link: 
+website: 
 twitter: 
 email: scott@fluent.org.uk
 image: 

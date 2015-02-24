@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Citizens Online
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/citizens-online.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: UcanDoIT
 excerpt: 
-link: http://www.ucandoit.org.uk/node/18952 
+website: http://www.ucandoit.org.uk/node/18952 
 twitter: 
 email: 
 image: 

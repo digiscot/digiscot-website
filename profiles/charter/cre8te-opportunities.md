@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Cre8te Opportunities
 excerpt: 
-link: http://cre8te.co.uk/
+website: http://cre8te.co.uk/
 twitter: 
 email: 
 image: 

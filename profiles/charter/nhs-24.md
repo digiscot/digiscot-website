@@ -2,7 +2,7 @@
 layout: profile-charter
 title: NHS 24
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/nhs-24.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Young Scot
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/young-scot.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Blackwood
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/blackwood.jpg

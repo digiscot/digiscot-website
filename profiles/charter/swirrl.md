@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Swirrl
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/swirrl.jpg

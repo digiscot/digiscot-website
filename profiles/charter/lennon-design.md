@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Lennon Design
 excerpt: 
-link: http://lennondesign.co.uk/
+website: http://lennondesign.co.uk/
 twitter: 
 email: 
 image: 

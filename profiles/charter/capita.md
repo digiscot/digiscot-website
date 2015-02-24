@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Capita
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/capita.jpg

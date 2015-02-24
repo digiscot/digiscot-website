@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Keeping In Touch Edinburgh
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/kite.jpg

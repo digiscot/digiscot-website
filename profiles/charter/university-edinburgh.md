@@ -2,7 +2,7 @@
 layout: profile-charter
 title: University of Edinburgh
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/university-edinburgh.jpg

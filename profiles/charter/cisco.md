@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Cisco
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/cisco.jpg

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Children 1st
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/children-1st.jpg

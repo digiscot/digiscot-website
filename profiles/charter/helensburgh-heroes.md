@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Helensburgh Heroes
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/helensburgh-heroes.jpg

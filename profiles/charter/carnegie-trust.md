@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Carnegie UK Trust
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/carnegie-trust.jpg

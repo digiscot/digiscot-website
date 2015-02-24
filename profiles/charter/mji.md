@@ -2,7 +2,7 @@
 layout: profile-charter
 title: MJI Business Solutions
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/mji.jpg

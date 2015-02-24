@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Microsoft
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/microsoft.jpg

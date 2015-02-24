@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Thenue Housing
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/thenue-housing.jpg

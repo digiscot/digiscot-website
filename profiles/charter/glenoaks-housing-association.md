@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Glen Oaks Housing Association
 excerpt: 
-link: http://www.glenoaks.org.uk/
+website: http://www.glenoaks.org.uk/
 twitter: 
 email: jean.murray@glenoaks.org.uk
 image: /images/charter/glen-oaks.jpg

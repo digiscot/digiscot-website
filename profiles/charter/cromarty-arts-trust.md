@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Cromarty Arts Trust
 excerpt: 
-link:
+website:
 twitter: 
 email: info@cromartyartstrust.org.uk
 image: 

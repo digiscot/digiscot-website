@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Intowork
 excerpt: 
-link: http://www.intowork.org.uk/
+website: http://www.intowork.org.uk/
 twitter: 
 email: 
 image: 

@@ -2,7 +2,7 @@
 layout: profile-charter
 title: Museums Galleries Scotland
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/museums-galleries-scotland.jpg

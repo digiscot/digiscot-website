@@ -2,7 +2,7 @@
 layout: profile-charter
 title: RNIB
 excerpt: 
-link: 
+website: 
 twitter: 
 email: 
 image: /images/charter/rnib.jpg
