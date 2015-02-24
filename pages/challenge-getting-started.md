@@ -8,5 +8,5 @@ permalink: /challenge/getting-started/
 Coming soon. To include:
 
 - Project plan and milestones
-- Keeping us updated by [editing your project page](/about/github/)
+- Keeping us updated by [editing your project page](/about/github-pages/)
 - Evaluation

@@ -8,5 +8,5 @@ permalink: /charter/getting-started/
 Coming soon. To include:
 
 - Charter commitments
-- Keeping us updated by [editing your signatory page](/about/github/)
+- Keeping us updated by [editing your signatory page](/about/github-pages/)
 - Getting involved
