@@ -11,7 +11,7 @@ Email: [digital@scvo.org.uk](mailto:digital@scvo.org.uk)
 
 ### Visiting us
 
-If you're coming to see us then you'll find us in one of these places:
+If you're coming to see us then you'll find us in one of these places.
 
 #### Edinburgh
 
