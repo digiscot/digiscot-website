@@ -7,9 +7,9 @@ website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
 twitter: 
 facebook: 
-start: 
+start: January 2015
 end: 
-award: 
+award: £4704.77 
 image:
 permalink: /challenge/toryglen-community-base/ 
 ---
@@ -18,7 +18,7 @@ permalink: /challenge/toryglen-community-base/
 
 ### Project description
 
-IT suite refurbishment to support the development of Toryglen Digital Base and it's work teaching basic computer skills in the community. in th
+IT suite refurbishment to support the development of Toryglen Digital Base and it's work teaching basic computer skills in the community. 
 
 ### Key activities
 

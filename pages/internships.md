@@ -2,7 +2,7 @@
 layout: internships
 title: Let's Get Digital internships
 excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
-alert: Now accepting applications.
+alert: Now accepting applications for Highlands and Islands.
 permalink: /internships/
 ---
 
@@ -21,6 +21,8 @@ It works by helping organisations to set up and finance a six-week paid internsh
 It's also a great way to give people aged 18–30 (and with an HND qualification or above) the opportunity to gain valuable work experience in the third sector.
 
 Host organisations and interns will also benefit from the support of carefully selected mentors from the Scottish technology sector, who will be there every step of the way to ensure the very best outcomes for both parties.
+
+<a href="http://www.scvo.net/Home/findyourdigitalinternjobsSCVOSITE.aspx" class="btn btn-primary btn-lg">View current vacancies</a>
 
 ### Eligibility and support available
 
