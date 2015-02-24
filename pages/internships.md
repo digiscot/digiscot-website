@@ -2,7 +2,7 @@
 layout: internships
 title: Let's Get Digital internships
 excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
-alert: Now accepting applications for Highlands and Islands.
+alert: Currently accepting applications from host organisations in the Highlands and Islands.
 permalink: /internships/
 ---
 
@@ -22,9 +22,21 @@ It's also a great way to give people aged 18–30 (and with an HND qualification
 
 Host organisations and interns will also benefit from the support of carefully selected mentors from the Scottish technology sector, who will be there every step of the way to ensure the very best outcomes for both parties.
 
+![ERDF](/images/erdf.jpg)
+
+
+
+### Information for individuals
+
+You can view a list of available internship vacancies on the SCVO website.
+
+Once you have found a vacancy you are interested in you will need to speak to your local JobCentre Plus advisor to apply.
+
 <a href="http://www.scvo.net/Home/findyourdigitalinternjobsSCVOSITE.aspx" class="btn btn-primary btn-lg">View current vacancies</a>
 
-### Eligibility and support available
+
+
+### Information for organisations
 
 The way we're funded means that there are a few rules about what sorts of organisations can apply. To be eligible your organisation must:
 
@@ -46,7 +58,3 @@ Once your application has been submitted, our assessment team will review the ap
 Some [extra guidance notes](/internships/guidance/) are available to help you complete your application.
 
 <a href="http://www.scvo.org.uk/jobs-employability/apply-to-host-a-business-growth-graduate-internship/" class="btn btn-primary btn-lg">Find out more and apply</a>
-
----
-
-![ERDF](/images/erdf.jpg)

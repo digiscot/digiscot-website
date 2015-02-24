@@ -17,7 +17,7 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 
 ## Call 2 (Spring 2015) 
 
-Over 150 applications were made to Call 2. We are currently running the assessment and will update this page soon.
+Over 150 applications were made to Call 2. We are currently assessing these applications and will update this page with more information as soon as possible.
 
 ## Call 1 (Winter 2014)
 

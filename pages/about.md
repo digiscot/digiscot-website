@@ -5,7 +5,7 @@ excerpt: We think the internet should be for everyone, so we're leading an ambit
 permalink: /about/
 ---
 
-It’s easy to take the internet for granted, but more than a million people in Scotland lack the [basic online skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) to communicate, find information, get things done and stay safe on the web. What's more, many charities and voluntary organisations are missing a huge opportunity to boost their impact and engagement by using digital tools.
+It’s easy to take the internet for granted, but more than a million people in Scotland lack the [basic digital skills](http://www.go-on.co.uk/basic-digital-skills/) to communicate, find information, get things done and stay safe on the web. What's more, many charities and voluntary organisations are missing a huge opportunity to boost their impact and engagement by using digital tools.
 
 We’re part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk), and are working with partners across the country to promote digital participation.
 
