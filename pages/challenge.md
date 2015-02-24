@@ -21,6 +21,6 @@ Over 150 applications were made to Call 2. We are currently assessing these appl
 
 ## Call 1 (Winter 2014)
 
-Over 70 applications were made to Call 1. The [Digital Participation Leadership Group](/about/) has made twenty-five direct offers of funding for digital participation projects, and has also made a further twenty-nine offers for projects to partner with organisations that have signed [Scotland's Digital Participation Charter](/charter/).
+Over 70 applications were made to Call 1. The [Digital Participation Leadership Group](/about/) has made 25 direct offers of funding for digital participation projects, and has also made a further 29 proposals for projects to partner with organisations that have signed [Scotland's Digital Participation Charter](/charter/).
 
 Work-in-progress pages for funded projects are listed below.
