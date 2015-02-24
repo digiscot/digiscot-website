@@ -35,51 +35,5 @@ layout: default
     
     </div>
   </div>
-
-  <div class="row" id="placements">
-    <div class="col-md-12">
-    
-      {% assign count = 0 %}
-
-      {% for page in site.pages %}
-        {% if page.layout == 'profile-internships' %}
-          {% capture count %}{{ count | plus: 1 }}{% endcapture %}
-        {% endif %}
-      {% endfor %}
-    
-      <h2>Our placements<br />
-      <small>{{ count }} placements have received support</small></h2>
-      <hr />
-    </div>
-  </div>
-  
-  <div class="row">
-
-    <div class="col-md-6">
-
-    {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
-    {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
-
-    {% assign idx = 0 %}
-    
-        {% for page in site.pages %}
-          {% if page.layout == 'profile-internships' %}
-          
-            <p class="p-index"><strong><a href="{{ page.url }}">{{ page.title }}</a></strong><br />
-            <small>{{ page.excerpt }}</small></p>
-            
-            {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
-            
-            {% if idx == break %}
-              </div>
-              <div class="col-md-6">
-            {% endif %}        
-            
-          {% endif %}
-        {% endfor %}
-  
-    </div>
-  
-  </div>
   
 </div>
