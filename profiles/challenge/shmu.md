@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
-title: Title TBC
-excerpt: Excerpt coming soon...
+title: Connected Communities
+excerpt: Online community portal
 lead: Station House Media Unit (shmu)
 website: http://www.shmu.org.uk/
 email: 
@@ -9,7 +9,7 @@ twitter:
 facebook: 
 start: TBC
 end: TBC
-award: TBC
+award: £10,000
 image:
 permalink: /challenge/shmu/ 
 ---
@@ -18,7 +18,7 @@ permalink: /challenge/shmu/
 
 ### Project description
 
-TBC
+
 
 
 
