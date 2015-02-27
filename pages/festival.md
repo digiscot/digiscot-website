@@ -20,10 +20,8 @@ Glasgow, 25-26 February 2015
 
 In partnership with [Citizens Online](http://www.citizensonline.org.uk/) and [The Royal Society of Edinburgh](http://www.royalsoced.org.uk/).
 
-* Orkney, March 17th 2015 (provisional)
-* Western Isles, March 19th / 20th 2015 (provisional)
-* Argyll & Bute, March 25th 2015 (provisional)
-* Shetland Islands, March 30th 2015 (provisional)
+* Orkney, March 17th 2015
+* Shetland Islands, March 30th 2015
 
 <a href="http://www.scvo.org.uk/events" class="btn btn-primary btn-lg">See other SCVO event listings</a>
 
