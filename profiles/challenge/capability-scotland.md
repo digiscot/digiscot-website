@@ -8,8 +8,8 @@ email:
 twitter: 
 facebook: 
 start: February 2015
-end: TBC
-award: TBC
+end: February 2016
+award: £6000
 image:
 permalink: /challenge/capability-scotland/ 
 ---
