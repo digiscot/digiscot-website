@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
 title: Connecting and Communicating
-excerpt: Excerpt coming soon...
+excerpt: Improving the digital capability of SCoD to better support and communicate with members
 lead: Scottish Council on Deafness
 website: http://www.scod.org.uk/
 email: admin@scod.org.uk
 twitter: 
 facebook: 
-start: TBC
-end: TBC
-award: TBC
+start: February 2015
+end: June 2015
+award: £2000
 image:
 permalink: /challenge/scottish-council-on-deafness/ 
 ---
@@ -18,24 +18,22 @@ permalink: /challenge/scottish-council-on-deafness/
 
 ### Project description
 
-TBC
-
+Developing SCoD's digital infrastructure to faciliate better communication with members and to help develop and grow support for the deaf sector, particularly with regards to digital skills. 
 
 
 ## Project milestones
 
-### Phase 1
+### Phase 1 February - March 2015
 
-TBC
+Purchase equipment and get software stabilised
 
-### Phase 2
+### Phase 2 April 2015
 
-TBC
+Improve server arrangement. Purchase and install NAS drive 
 
-### Phase 3
+### Phase 3 June 2015
 
-TBC
-
+Review impact of new equipment on organsiation
 
 
 ## Evaluation
