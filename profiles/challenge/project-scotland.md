@@ -7,9 +7,9 @@ website: http://www.projectscotland.co.uk/
 email: 
 twitter: 
 facebook: 
-start: TBC
-end: TBC
-award: TBC
+start: January 2015
+end: March 2016
+award: £4019.59
 image:
 permalink: /challenge/project-scotland/ 
 ---
@@ -21,21 +21,27 @@ permalink: /challenge/project-scotland/
 To support 6 volunteer workshops introducing the social media tool LinkedIn as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology. 
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 January 2015
 
-TBC
+Software purchase and development of software use/ integration
 
-### Phase 2
+### Phase 2 February 2015
 
-TBC
+Run LinkedIn workshop in Dumfries - trial new technology in live workshop situation with volunteers
 
-### Phase 3
+### Phase 3 April - September 2015
 
-TBC
+Run LinkedIn workshops in Glasgow, Edinburgh and Aberdeen or Dundee (tbc) 
 
+### Phase 4 October & November 2015
+
+Run second LinkedIn workshops in Glasgow & Edinburgh
+
+### Phase 5 January - March 2016 
+
+Review of LinkedIn Workshops - potential creation of permanent online resource to be accessed by all ProjectScotland volunteers.
 
 
 ## Evaluation
