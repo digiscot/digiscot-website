@@ -26,6 +26,7 @@ Delivery of eight basic digital skills training course for older residents of we
 ### Phase 1 - January
 
 Recruit tutors and plan basic content and training schedule.
+
 Market and publicise digital skills training amongst the local community.
 
 ### Phase 2 - February to June
@@ -39,6 +40,7 @@ Train peer volunteers
 ### Phase 4 - September & October
 
 Deliver 2 digital skills courses
+
 Train peer volunteers
 
 ### Phase 5 - November & December
