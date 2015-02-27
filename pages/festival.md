@@ -20,6 +20,10 @@ Glasgow, 25-26 February 2015
 
 In partnership with [Citizens Online](http://www.citizensonline.org.uk/) and [The Royal Society of Edinburgh](http://www.royalsoced.org.uk/).
 
+DigiScotFest's northern tour will bring together practitioners, academics and policy enthusiasts to focus on how we can work together to promote digital participation and help people to get things done online.
+
+Everyone is welcome at this event. We hope to meet lots of people who are involved in helping people to use the internet formally or informally. We are also keen to welcome organisations who are embedding the use of digital tools and the internet as part of their wider work.
+
 * Orkney, March 17th 2015
 * Shetland Islands, March 30th 2015
 
