@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Title TBC
-excerpt: Excerpt coming soon...
+excerpt: Helping people to thrive in the digital world and reducing social isolation
 lead: Homestart Majik
 website: http://www.home-start-majik.org.uk/
 email: 
@@ -9,7 +9,7 @@ twitter:
 facebook: https://www.facebook.com/Home.start.majik
 start: TBC
 end: TBC
-award: TBC
+award: £7000
 image:
 permalink: /challenge/homestart-majik/ 
 ---
@@ -19,7 +19,6 @@ permalink: /challenge/homestart-majik/
 ### Project description
 
 TBC
-
 
 
 ## Project milestones
