@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
-title: Title TBC
-excerpt: Excerpt coming soon...
+title: Digital Empowerment - Person Centred Services
+excerpt: Encouraging digital participation through action learning and knowledge exchange
 lead: Mydex CIC
 website: https://mydex.org/
 email: 
 twitter: 
 facebook: 
-start: TBC
+start: February 2015
 end: TBC
-award: TBC
+award: £15750
 image:
 permalink: /challenge/mydex/ 
 ---
@@ -18,8 +18,7 @@ permalink: /challenge/mydex/
 
 ### Project description
 
-TBC
-
+STRiVE in East Lothian to register and create personal data stores (PDS) for initial 200 - 400 users, and SCVO Salesforce team in Glasgow to make Connection from Salesforce to Mydex platform. Outcome is digital participation and data exchange between STRiVE Salesforce and citizen’s PDS via the Mydex platform for up to 5,000 users.
 
 
 ## Project milestones
