@@ -18,7 +18,7 @@ permalink: /challenge/applecross-community-company/
 
 ### Project description
 
-TBC
+Digital skills lessons supported by dedicated tutors and 1-1 training and instruction
 
 ## Project milestones
 
