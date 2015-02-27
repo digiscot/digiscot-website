@@ -7,9 +7,9 @@ website: http://www.ormlie.org/
 email: 
 twitter: 
 facebook: 
-start: TBC
-end: TBC
-award: TBC
+start: April 2015
+end: January 2016
+award: £10,000
 image:
 permalink: /challenge/ormlie-community-association/ 
 ---
@@ -18,24 +18,32 @@ permalink: /challenge/ormlie-community-association/
 
 ### Project description
 
-IT courses.
-
+IT classes to help participants gain basic digital skills
 
 
 ## Project milestones
 
-### Phase 1
+### Phase 1 April - June 2015
 
-TBC
+Employ Staff (2 part-time) 
 
-### Phase 2
+Marketing Materials developed and distributed 
 
-TBC
+Recording mechanisms in place 
 
-### Phase 3
+Contact with Job Centre, SDS, HC etc to advice facility open
 
-TBC
+### Phase 2 July 2015 - January 2016
 
+Individuals gain IT access 
+
+Individuals improve IT skills 
+
+Review of milestones
+
+### Phase 3 January 2016
+
+End of project reporting to SCVO
 
 
 ## Evaluation
