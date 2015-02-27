@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
 title: The Greenhouse Digital Participation Programme
-excerpt: Excerpt coming soon...
+excerpt: IT equipment and digital skills sessions for the community
 lead: The Greenhouse Shop CIC
 website: 
 email: 
 twitter: 
-facebook: https://www.facebook.com/thegreenhousedingwall
-start: TBC
-end: TBC
-award: TBC
+facebook: https://www.facebook.com/thegreenhousedingwall 
+start: January 2015
+end: August 2015
+award: £5636
 image:
 permalink: /challenge/the-greenhouse-cic/ 
 ---
@@ -18,25 +18,36 @@ permalink: /challenge/the-greenhouse-cic/
 
 ### Project description
 
-To provide computer hardware and support for the local and wider community. 
-
+To provide computer hardware, support and IT sessions for the local and wider community. 
 
 
 ## Project milestones
 
-### Phase 1
+### Phase 1 January 2015
 
-TBC
+Purchase of hardware and advertising the facility
 
-### Phase 2
+### Phase 2 February 2015
 
-TBC
+Engage sessional worker to teach Basic Digital Skills
 
-### Phase 3
+Start first sessions
 
-TBC
+### Phase 3 March 2015
 
+Assess numbers of people attending sessions via survey and evaluation
 
+### Phase 4 April - July 2015
+
+Sessions continue 
+
+Marketing and publicity to encourage more people to sign up to groups
+
+Start encouraging volunteer/peer support
+
+### Phase 5 August 2015
+
+Move on to volunteer/peer support for sessions
 
 ## Evaluation
 
