@@ -7,9 +7,9 @@ website: http://homelands-fife.co.uk/
 email:
 twitter: 
 facebook: https://www.facebook.com/HomelandsTrust
-start: TBC
+start: January 2015
 end: TBC
-award: TBC
+award: £823.79
 image:
 permalink: /challenge/homelands-trust/ 
 ---
@@ -21,21 +21,23 @@ permalink: /challenge/homelands-trust/
 We will coach people on how to research their conditions, disabilities and associated factors (ie isolation, stress, benefit, travel restrictions, accessibility etc etc). We want to introduce to digital technology helping to alleviate symptoms of isolation, stress etc and also promote self-care and well health.
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 January & February 2015 
 
-TBC
+Partnership, marketing and recruitment
 
-### Phase 2
+Establish a digital partner via SCVO and Digital Scotland. Advertise the supported digital advancement rolling programme. Create a list of learners.
 
-TBC
+### Phase 2 March/April 2015
+
+Assess competencies and deficiencies of individual, tailor and agree an individual plan
 
 ### Phase 3
 
-TBC
+Work through agreed plan 
 
+Evaluate the interventions effectiveness
 
 
 ## Evaluation
