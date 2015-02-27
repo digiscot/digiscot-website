@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
-title: Title TBC
-excerpt: Excerpt coming soon...
+title: Strathmore Skills Centre
+excerpt: Basic digital skills lessons for local people
 lead: Couper Angus Regeneration Trust
 website: http://www.coupar-angus.org/
 email: 
 twitter: 
 facebook: 
-start: TBC
-end: TBC
-award: TBC
+start: February 2015
+end: December 2015
+award: £860
 image:
 permalink: /challenge/couper-angus/ 
 ---
@@ -18,24 +18,22 @@ permalink: /challenge/couper-angus/
 
 ### Project description
 
-TBC
-
+Supporting local people to develop digital skills via basic digital skills lessons. 
 
 
 ## Project milestones
 
-### Phase 1
+### Phase 1 January & February 2015
 
-TBC
+Contact parents through school and older people through networks
 
-### Phase 2
+### Phase 2 March 2015 onwards
 
-TBC
+Buy IT equipment for users
 
-### Phase 3
+Invite learners to meet volunteers
 
-TBC
-
+Start sessions to teach basic online skills covering topis such as online shopping, email and IT security
 
 
 ## Evaluation
