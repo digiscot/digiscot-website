@@ -7,8 +7,8 @@ website: http://www.oldtorry.org.uk/
 email: 
 twitter: 
 facebook: https://www.facebook.com/oldtorrycommunitycentre
-start: TBC
-end: TBC
+start: January 2015
+end: July 2015
 award: £4530
 image:
 permalink: /challenge/old-torry-community-centre/
@@ -22,22 +22,21 @@ Teaching the folk of Torry basic computing skills to: combat social isolation; c
 employability and improve general wellbeing.
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 January 2015
 
-TBC
+Engage with community partners to agree the promotion of the project
 
-### Phase 2
+Purchase printer and laptops. Create documents to compliment tuition. Create questionnaires to quantify student progress. Promote courses.
 
-TBC
+### Phase 2 February & March 2015
 
-### Phase 3
+Documentation printed, computers set up. Start classes. Maximum number of people at this early stage will be 5 people on 5 Chromebooks. This phase will allow us to ascertain whether the next phase of purchases should be desktops, laptops, or tablets. There will be at least five hours of tuition per week during this phase, split in whichever way best suits our clients.
 
-TBC
+### Phase 3 April, May, June 2015
 
-
+Using the knowledge we have gained from Phase 3, we will expand our classes in which ever way we think will benefit the local community the most. This may be in the form of: larger classes, mixed device classes, specific device classes, specific skill classes, or specific demographic classes. We may also provide outreach classes, depending on manpower. The relevant documentation will be created for whichever direction we will go in, and questionnaires will continue to be used to quantify the progress of the project.
 
 ## Evaluation
 
