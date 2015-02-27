@@ -9,7 +9,7 @@ twitter:
 facebook: https://www.facebook.com/oldtorrycommunitycentre
 start: TBC
 end: TBC
-award: TBC
+award: £4530
 image:
 permalink: /challenge/old-torry-community-centre/
 ---
