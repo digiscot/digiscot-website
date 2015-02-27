@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Dot Can
-excerpt: Excerpt coming soon...
+excerpt: Digital skills sessions to help disadvantaged people use online services and access the support they need.
 lead: Comas
 website: http://www.comas.org.uk/
 email: mail@comas.org.uk
