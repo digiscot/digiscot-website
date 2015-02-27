@@ -9,7 +9,7 @@ twitter: MVACommunity
 facebook: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
 end: December 2015
-award: TBC
+award: £10,000
 image:
 permalink: /challenge/midlothian-voluntary-action/ 
 ---
