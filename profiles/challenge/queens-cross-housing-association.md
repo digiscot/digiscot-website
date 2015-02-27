@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
 title: Historical Connections @ Queens Cross
-excerpt: Excerpt coming soon...
+excerpt: Using local history to teach older people how to use the internet 
 lead: Queens Cross Housing Association
 website: http://www.qcha.org.uk/
 email: 
 twitter: 
 facebook: 
-start: TBC
-end: TBC
-award: TBC
+start: January 2015
+end: January 2016
+award: £8430
 image:
 permalink: /challenge/queens-cross-housing-association/ 
 ---
