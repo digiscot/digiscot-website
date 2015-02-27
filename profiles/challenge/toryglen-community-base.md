@@ -1,14 +1,14 @@
 ---
 layout: profile-challenge
 title: Toryglen Digital Base
-excerpt: Excerpt coming soon...
+excerpt: IT suite refurbishment to support various digital inclusion projects
 lead: Toryglen Community Base
 website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
 twitter: 
 facebook: 
 start: January 2015
-end: TBC
+end: July 2015
 award: £4,700
 image:
 permalink: /challenge/toryglen-community-base/ 
@@ -21,21 +21,19 @@ permalink: /challenge/toryglen-community-base/
 IT suite refurbishment to support the development of Toryglen Digital Base and its work teaching basic computer skills in the community. 
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 January 2015
 
-TBC
+Purchase and installation of equipment
 
-### Phase 2
+### Phase 2 February 2015
 
-TBC
+Marketing of service including recruitment of participants 
 
-### Phase 3
+### Phase 3 February - July 2015
 
-TBC
-
+Ongoing use of facility to support training, digital skills clubs, job clubs and community access 
 
 
 ## Evaluation
