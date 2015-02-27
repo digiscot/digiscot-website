@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
 title: Digital skills through football
-excerpt: Excerpt coming soon...
+excerpt: Using football as a means to help people develop digital skills
 lead: Opportunity Enhancement Trust
 website: http://opportunityenhancement.co.uk/
 email: 
 twitter: 
 facebook: https://www.facebook.com/opportunityenhancement
-start: TBC
-end: TBC
-award: TBC
+start: April 2015
+end: November 2015
+award: £17500
 image:
 permalink: /challenge/opportunity-enhancement-trust/
 ---
@@ -23,21 +23,29 @@ Digital Skills Through Football is an education course which helps people with s
 It provides the opportunity to gain a certificate at SCQF levels 2, 3, or 4 and the level of certificate awarded depends entirely on how well the student performs over their time on the course. 
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 April 2015
 
-TBC
+Arranging courses schedule; meeting with clubs and agreeing dates for DSTF courses
 
-### Phase 2
+### Phase 2 June 2015
 
-TBC
+Delivering DSTF alongside (or training up) club community staff
 
-### Phase 3
+DTSF courses delivered
 
-TBC
+### Phase 3 October 2015
 
+Delivering DSTF alongside, (or training up) club community staff
+
+DTSF courses delivered 
+
+### Phase 4 November 2015
+
+Follow up and assist DSTF students with moving into further training or employment
+
+Students achieve outcomes after completing DSTF course 
 
 
 ## Evaluation
