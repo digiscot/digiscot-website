@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Me Help Me
-excerpt: Excerpt coming soon...
+excerpt: Introducing digital technology to alleviate symptoms of isolation and stress and also promote self-care and good health
 lead: Homelands Trust Fife
 website: http://homelands-fife.co.uk/
 email:
