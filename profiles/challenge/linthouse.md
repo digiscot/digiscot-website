@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: Title TBC
-excerpt: Excerpt coming soon...
+excerpt: IT workshops
 lead: Linthouse Monday club
 website: 
 email: 
@@ -9,7 +9,7 @@ twitter:
 facebook: 
 start: TBC
 end: TBC
-award: TBC
+award: £1000
 image:
 permalink: /challenge/linthouse-monday-club/ 
 ---
