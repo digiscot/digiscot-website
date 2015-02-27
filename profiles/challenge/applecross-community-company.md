@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
 title: Apples for Applecross
-excerpt: Excerpt coming soon...
+excerpt: Digital skills lessons and tutoring
 lead: Applecross Community Company
 website: http://www.applecrosscommunitycompany.org/
 email: 
 twitter: 
 facebook: https://www.facebook.com/applecrosscommunitycompany
-start: TBC
-end: TBC
-award: TBC
+start: March 2015
+end: February 2016
+award: £6250
 image:
 permalink: /challenge/applecross-community-company/
 ---
@@ -20,21 +20,28 @@ permalink: /challenge/applecross-community-company/
 
 TBC
 
-
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 March 2015
 
-TBC
+Recruitment of co-ordinator
 
-### Phase 2
+### Phase 2 April 2015
 
-TBC
+Recruitment of tutors
+Purhcase of hardware & software
+First digital skills lessons start
 
-### Phase 3
+### Phase 3 May & June 2015
 
-TBC
+Discussions with learners to assess needs and set aims
+Group sessions engaged with regular get togethers
+Tutors matched with learners for 1-1 sessions
+
+### Phase 4 July 2015 - February 2016
+
+Ongoing tutoring and digital skills instruction
+End of project recap and celebration
 
 
 
