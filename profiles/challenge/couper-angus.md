@@ -33,7 +33,7 @@ Buy IT equipment for users
 
 Invite learners to meet volunteers
 
-Start sessions to teach basic online skills covering topis such as online shopping, email and IT security
+Start sessions to teach basic online skills covering topics such as online shopping, email and IT security
 
 
 ## Evaluation
