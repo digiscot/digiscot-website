@@ -18,25 +18,61 @@ permalink: /challenge/queens-cross-housing-association/
 
 ### Project description
 
-TBC
-
+Getting older people enagaged and learning how to use the internet through researching their local history. 
 
 
 ## Project milestones
 
-### Phase 1
+### Phase 1 January - February 2015
 
-TBC
+Recruitment of Sessional Worker 
 
-### Phase 2
+Purchase of Equipment 
 
-TBC
+Advertising of activities
 
-### Phase 3
+### Phase 2 February - March 2015
 
-TBC
+Make up local history kits to be used in classes, use sample family trees, documents and photographs 
+
+Open days and events aimed at recruiting members to join the groups
+
+Marketing launched
 
 
+### Phase 3 March 2015
+
+Begin sessions. 
+
+Primary focus on familiarizing members with devices, basic internet awareness, internet safety etc. 
+
+Establish blog and write sample content to inspire learners, establish plan for blogging and content with Communications Team.
+
+### Phase 4 April to September 2015
+
+Genealogical research begins – familiarize learners with the tools required and the recording possibilities
+
+Encourage some brief blogs about experience of using the internet to research family history
+
+Start to collect photographs and videos to create history map and blogposts. 
+
+Liaise with Youth Work Coordinator re working within the Youth Clubs, look at ways in which the Young People and Older People might work together
+
+Establish a project plan for working with Young People in Youth Clubs and begin work with them
+
+### Phase 5 September 2015 to January 2016
+
+Encourage learners to interview each other about their research and experiences, record this and upload to blog
+
+Encourage learners to share their stories and findings via the blog
+
+Bring together Older and Younger learners
+
+### Phase 6 December 2015 to January 2016 
+
+Devise action plan to seek further funding to make project sustainable for the longer term
+
+Recruit Digital Ambassadors from groups for further training to then support the groups digitally
 
 ## Evaluation
 
