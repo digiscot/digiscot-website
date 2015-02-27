@@ -9,7 +9,7 @@ twitter:
 facebook: 
 start: January 2015
 end: December 2015
-award: TBC
+award: £9985
 image:
 permalink: /challenge/comas/ 
 ---
