@@ -1,15 +1,15 @@
 ---
 layout: profile-challenge
 title: Connected Up
-excerpt: Excerpt coming soon...
+excerpt: Digital skills training for older people
 lead: Annexe Communities
 website: http://www.annexecommunities.org.uk/
 email: info@annexecommunities.org.uk
 twitter: 
 facebook: https://www.facebook.com/annexepartick
-start: TBC
-end: TBC
-award: TBC
+start: January 2015
+end: December 2015
+award: £4520
 image:
 permalink: /challenge/annexe-communities/ 
 ---
@@ -18,26 +18,32 @@ permalink: /challenge/annexe-communities/
 
 ### Project description
 
-Delivery of eight basic digital skills training course for older residents of west Glasgow, including training and capacity
-building of older volunteers as peer tutors.
-
+Delivery of eight basic digital skills training course for older residents of west Glasgow, including training and capacity building of older volunteers as peer tutors.
 
 
 ## Project milestones
 
-### Phase 1
+### Phase 1 - January
 
-TBC
+Recruit tutors and plan basic content and training schedule.
+Market and publicise digital skills training amongst the local community.
 
-### Phase 2
+### Phase 2 - February to June
 
-TBC
+Deliver 2 digital skills courses
 
-### Phase 3
+### Phase 3 - July & August
 
-TBC
+Train peer volunteers
 
+### Phase 4 - September & October
 
+Deliver 2 digital skills courses
+Train peer volunteers
+
+### Phase 5 - November & December
+
+Deliver final digital skills courses 
 
 ## Evaluation
 
