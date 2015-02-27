@@ -7,10 +7,10 @@ website: http://www.cvoea.co.uk/
 email: 
 twitter: 
 facebook: https://www.facebook.com/CVOEA
-start: TBC
+start: February 2015
 end: TBC
-award: TBC
-image:
+award: £9200
+image: 
 permalink: /challenge/cvo-east-ayrshire/ 
 ---
 
@@ -21,22 +21,25 @@ permalink: /challenge/cvo-east-ayrshire/
 Supporting community groups in East Ayrshire to increase their online presence and thereby widen their audience and increase participation in their activities and services. 
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 February 2015
 
-TBC
+Development of course content and evaluation
 
-### Phase 2
+Recruitment and training of volunteers to deliver training
 
-TBC
+### Phase 2 March 2015
 
-### Phase 3
+Marketing materials produced to promote course
 
-TBC
+### Phase 3 April 2015 onwards
 
+Ten courses to be delivered of 8 hours (6-10 participants on each course)
 
+Ongoing support to be arranged on an individual basis
+
+Evaluation report to be compiled. Evaluations to show that participants report increased confidence in their ability to promote their organisations online. 
 
 ## Evaluation
 
