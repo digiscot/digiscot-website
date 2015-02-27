@@ -29,18 +29,23 @@ Recruitment of co-ordinator
 ### Phase 2 April 2015
 
 Recruitment of tutors
+
 Purhcase of hardware & software
+
 First digital skills lessons start
 
 ### Phase 3 May & June 2015
 
 Discussions with learners to assess needs and set aims
+
 Group sessions engaged with regular get togethers
+
 Tutors matched with learners for 1-1 sessions
 
 ### Phase 4 July 2015 - February 2016
 
 Ongoing tutoring and digital skills instruction
+
 End of project recap and celebration
 
 
