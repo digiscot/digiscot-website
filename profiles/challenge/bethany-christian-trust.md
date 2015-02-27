@@ -7,9 +7,9 @@ website: http://www.bethanychristiantrust.com/
 email: info@bethanychristiantrust.com
 twitter: 
 facebook: https://www.facebook.com/BethanyChristianTrust1
-start: TBC
-end: TBC
-award: TBC
+start: January 2015
+end: January 2016
+award: £9885.44
 image:
 permalink: /challenge/bethany-christian-trust/ 
 ---
@@ -21,22 +21,31 @@ permalink: /challenge/bethany-christian-trust/
 Running weekly digital learning drop-ins in Parkhead and Easterhouse which are open to every adult who wants to increase their digital knowledge. The drop-ins will engage participants with their own learning plan with the aim of increasing their confidence, decreasing their social isolation and helping them gain the skills necessary to gain employment. 
 
 
-
 ## Project milestones
 
-### Phase 1
+### Phase 1 January - May 2015
 
-TBC
+Training volunteers
 
-### Phase 2
+Promotion of drop-in sessions
 
-TBC
-
-### Phase 3
-
-TBC
+Preparing learning plans and finalising preparation of equipment
 
 
+### Phase 2 June 2015 
+
+Weekly digital drop-ins running with a high number of participants each week
+
+Individual learning plans created and followed
+
+Mid-way point review of project with feedback from participants
+
+
+### Phase 3 November 2015
+
+Two months remaining of digital drop-ins 
+
+Feedback and monitoring forms used to begin evaluation process
 
 ## Evaluation
 
