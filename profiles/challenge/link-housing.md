@@ -1,7 +1,7 @@
 ---
 layout: profile-challenge
 title: City & Guilds Training
-excerpt: Excerpt coming soon...
+excerpt: IT & digital skills training working towards accredited qualifications
 lead: Link Housing
 website: http://linkhousing.org.uk/
 email: 
