@@ -11,11 +11,6 @@ Tickets for our events can be booked using the links below.
 
 ## Upcoming events
 
-### Digital Scotland Festival at The Gathering
-Glasgow, 25-26 February 2015
-
-<a href="http://gatherscotland.org.uk/events/?event_category=digital" class="btn btn-primary btn-lg">Visit The Gathering website</a> 
-
 ### Digital Scotland Festival Northern Tour
 
 In partnership with [Citizens Online](http://www.citizensonline.org.uk/) and [The Royal Society of Edinburgh](http://www.royalsoced.org.uk/).
@@ -27,11 +22,14 @@ Everyone is welcome at this event. We hope to meet lots of people who are involv
 * Orkney, March 17th 2015
 * Shetland Islands, March 30th 2015
 
-If you would like to sign up for any of these events please email digital@scvo.org.uk 
+If you would like to sign up for any of these events please email [digital@scvo.org.uk](digital@scvo.org.uk). 
 
 <a href="http://www.scvo.org.uk/events" class="btn btn-primary btn-lg">See other SCVO event listings</a>
 
 ## Past events
+
+### Digital Scotland Festival at The Gathering
+Glasgow, 25-26 February 2015
 
 ### Digital Scotland Festival Glasgow
 Glasgow, 20 November 2014
