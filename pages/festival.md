@@ -19,7 +19,7 @@ DigiScotFest's northern tour will bring together practitioners, academics and po
 
 Everyone is welcome at this event. We hope to meet lots of people who are involved in helping people to use the internet formally or informally. We are also keen to welcome organisations who are embedding the use of digital tools and the internet as part of their wider work.
 
-* Orkney, March 17th 2015
+* Orkney, March 17th 2015 - for further information and booking please [click here](http://www.scvo.org.uk/events/digiscotfest-orkney/). 
 * Shetland Islands, March 30th 2015
 
 If you would like to sign up for any of these events please email [digital@scvo.org.uk](digital@scvo.org.uk). 
