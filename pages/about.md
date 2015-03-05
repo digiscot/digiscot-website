@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-excerpt: We think the internet should be for everyone, so we're leading an ambitious programme to promote digital participation and basic online skills.
+excerpt: We think the internet should be for everyone, so we're leading an ambitious programme to promote digital participation and basic digital skills.
 permalink: /about/
 ---
 
