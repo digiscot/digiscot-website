@@ -26,9 +26,3 @@ We're happy to publish posts written by other people too, so if you'd like to ta
 Digital participation is a hot topic for policymakers. We've picked out some of the best reports to get you up to speed on the issues.
 
 <a href="/about/reading/" class="btn btn-primary btn-lg">Find out more</a>
-
-### Our mailing list
-
-Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland and beyond.
-
-<a href="/subscribe/" class="btn btn-primary btn-lg">Join our mailing list</a>

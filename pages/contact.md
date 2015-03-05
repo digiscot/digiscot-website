@@ -9,6 +9,12 @@ Twitter: [@scvotweet](https://twitter.com/scvotweet)
 
 Email: [digital@scvo.org.uk](mailto:digital@scvo.org.uk)
 
+### Our mailing list
+
+Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland and beyond.
+
+<a href="/contact/subscribe/" class="btn btn-primary btn-lg">Join our mailing list</a>
+
 ### Visiting us
 
 If you're coming to see us then you'll find us in one of these places.
