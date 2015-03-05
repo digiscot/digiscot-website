@@ -19,7 +19,7 @@ You can also see a [list of offers from charter signatories](/charter/offers/).
 * Looking for: A sentence or two summarising what's being asked for (e.g. devices, venues, volunteers, donations, pro-bono support)
 * Location: Where in Scotland this is needed
 * Asked for by: Name of organisation (with [link to their page](/challenge/) and / or contact info)
-* Date posted: XX Month 2015
+* Date posted: Month 2015
 
 
 
@@ -27,7 +27,7 @@ You can also see a [list of offers from charter signatories](/charter/offers/).
 * Looking for: XXX
 * Location: XXX
 * Asked for by: XXX
-* Date posted: XX Month 2015
+* Date posted: Month 2015
 
 
 
@@ -39,5 +39,5 @@ You can also see a [list of offers from charter signatories](/charter/offers/).
 * Looking for: XXX
 * Location: XXX
 * Asked for by: XXX
-* Date posted: XX Month 2015
+* Date posted: Month 2015
 * Status: Met by XXX

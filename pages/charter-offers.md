@@ -19,7 +19,7 @@ You can also see a [list of asks from the community](/charter/asks/).
 * On offer: A sentence or two summarising what's being offered (e.g. devices, venues, volunteers, donations, pro-bono support)
 * Location: Where in Scotland this is available
 * Offered by: Name of organisation (with [link to their page](/charter/))
-* Date posted: XX Month 2015
+* Date posted: Month 2015
 
 
 
@@ -27,7 +27,7 @@ You can also see a [list of asks from the community](/charter/asks/).
 * On offer: XXX
 * Location: XXX
 * Offered by: XXX
-* Timing: XX Month 2015
+* Timing: Month 2015
 
 
 
@@ -39,5 +39,5 @@ You can also see a [list of asks from the community](/charter/asks/).
 * On offer: XXX
 * Location: XXX
 * Offered by: XXX
-* Date posted: XX Month 2015
+* Date posted: Month 2015
 * Status: Taken by XXX
