@@ -30,3 +30,9 @@ We need to know a little bit about your organisation to get you signed up to the
 <a href="/charter/apply/" class="btn btn-primary btn-lg">Sign the charter</a>
 
 For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
+
+### Get involved
+
+We are starting to build a list of specific opportunities for charter signatories to get involved with community digital participation projects across Scotland. Alongside this we're also starting to build a list of specific offers of help that charter signatories have made for projects to take up. You can view both of these lists, and make your own contributions, using the buttons below.
+
+<a href="/charter/asks/" class="btn btn-primary btn-lg">Asks for help</a> <a href="/charter/offers/" class="btn btn-primary btn-lg">Offers of help</a>
