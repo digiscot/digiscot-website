@@ -9,7 +9,7 @@ We host regular, free events for people interested in digital participation in S
 
 Tickets for our events can be booked using the links below.
 
-If you would like any more information about any of our events please email [digital@scvo.org.uk](digital@scvo.org.uk). 
+If you would like more information about any of our events please email [digital@scvo.org.uk](digital@scvo.org.uk).
 
 ## Upcoming events
 
