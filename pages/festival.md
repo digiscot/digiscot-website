@@ -9,6 +9,8 @@ We host regular, free events for people interested in digital participation in S
 
 Tickets for our events can be booked using the links below.
 
+If you would like any more information about any of our events please email [digital@scvo.org.uk](digital@scvo.org.uk). 
+
 ## Upcoming events
 
 ### Digital Scotland Festival Northern Tour
@@ -19,10 +21,8 @@ DigiScotFest's northern tour will bring together practitioners, academics and po
 
 Everyone is welcome at this event. We hope to meet lots of people who are involved in helping people to use the internet formally or informally. We are also keen to welcome organisations who are embedding the use of digital tools and the internet as part of their wider work.
 
-* Orkney, March 17th 2015 - for further information and booking please [click here](http://www.scvo.org.uk/events/digiscotfest-orkney/). 
-* Shetland Islands, March 23rd 2015 
-
-If you would like any more information on our events please email [digital@scvo.org.uk](digital@scvo.org.uk). 
+* Orkney, March 17th 2015 - [book tickets](http://www.scvo.org.uk/events/digiscotfest-orkney/)
+* Shetland Islands, March 23rd 2015 - [book tickets](http://www.scvo.org.uk/events/digiscotfest-shetland/)
 
 <a href="http://www.scvo.org.uk/events" class="btn btn-primary btn-lg">See other SCVO event listings</a>
 
