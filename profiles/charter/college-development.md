@@ -2,7 +2,7 @@
 layout: profile-charter
 title: College Development Network
 excerpt: 
-website: http://www.collegedevelopmentnetwork.ac.uk
+website:
 twitter: 
 email: colin.buchanan@cdn.ac.uk
 image: /images/charter/
