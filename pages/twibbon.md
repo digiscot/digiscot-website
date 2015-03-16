@@ -9,7 +9,7 @@ permalink: /twibbon/
 
   
 
-Twibbon helps people support your organisation and spread your message, by making it easy for them to add an icon or badge to their profile pictures on [Facebook](https://facebook.com) and [Twitter](http://twitter.com/).
+[Twibbon](http://twibbon.com/scvo) helps people support your organisation and spread your message, by making it easy for them to add an icon or badge to their profile pictures on [Facebook](https://facebook.com) and [Twitter](http://twitter.com/).
 
 Basic campaigns on Twibbon are free and have been used by hundreds of thousands of organisations around the world.
 
