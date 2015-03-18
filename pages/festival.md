@@ -34,6 +34,9 @@ Glasgow, 25-26 February 2015
 ### Digital Scotland Festival Glasgow
 Glasgow, 20 November 2014
 
+### Digital Scotland Festival D&G
+Dumfries & Galloway, 22 October 2014
+
 ### Digital Scotland Festival North
 Strathpeffer, 7 October 2014
 
