@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Offers of help
-excerpt: Here are the latest offers of help and support from our charter signatories 
+excerpt: Here are the latest offers of help and support from our charter signatories.
+alert: This page is currently under construction.
 permalink: /charter/offers/
 ---
 

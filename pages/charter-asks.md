@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Asks for help
-excerpt: Here are the latest requests for help and support from the digital participation community 
+excerpt: Here are the latest requests for help and support from the digital participation community.
+alert: This page is currently under construction.
 permalink: /charter/asks/
 ---
 
