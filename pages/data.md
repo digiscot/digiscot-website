@@ -21,7 +21,7 @@ We are starting to make some of the data from the Milo platform available more w
 
 XXX
 
-<a href="http://www.google.co.uk" class="btn btn-primary"> Find out more </a>
+<a href="/milo/" class="btn btn-primary btn-lg"> Find out more </a>
 
 ### Big data and the third sector
 
