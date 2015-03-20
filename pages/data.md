@@ -19,7 +19,7 @@ We are starting to make some of the data from the Milo platform available more w
 
 ### Milo - FAQ
 
-XXX
+All you need to know about the new Milo.
 
 <a href="/milo/" class="btn btn-primary btn-lg"> Find out more </a>
 
