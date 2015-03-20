@@ -9,7 +9,7 @@ Good digital and data skills are essential for all modern organisations, and cha
 
 As part of the work that SCVO does on behalf of the third sector in Scotland, we provide a data management and reporting platform (known as Milo) that is used by Scotland's [Third Sector Interfaces](http://www.vascotland.org/tsis) to track local organisations and volunteering opportunities.
 
-We are working hard to modernise the platform to better meet the needs of the people that use it, and to help organisations develop the digital and data skills they need to get the most out of the platform. We will post more information here as this work progresses. If you use Milo as part of your job and have thoughts or suggestions for us then please do [get in touch](/contact/).
+We are working hard to modernise the platform to better meet the needs of the people that use it, and to help organisations develop the digital and data skills they need to get the most out of the platform. We will post more information here as this work progresses. If you use Milo as part of your job and have thoughts or suggestions for us then please do [get in touch](/contact/ "test").
 
 ### Open data
 
