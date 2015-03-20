@@ -5,7 +5,7 @@ excerpt:
 website: http://www.fare-scotland.org/
 twitter: 
 email: michael.mooney@fare-scotland.org
-image: /images/charter/
+image: /images/charter/fare.jpg
 permalink: /charter/fare/
 ---
 
