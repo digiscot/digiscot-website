@@ -17,7 +17,13 @@ We are starting to make some of the data from the Milo platform available more w
 
 <a href="http://www.getinvolved.org.uk" class="btn btn-primary btn-lg">Find out more</a>
 
-#### Big data and the third sector
+### Milo - FAQ
+
+XXX
+
+<a href="/milo/" class="btn btn-primary btn-lg"> Find out more </a>
+
+### Big data and the third sector
 
 We are currently supporting a third sector data programme hosted by the [Scottish Universities Insight Institute](http://www.scottishinsight.ac.uk). This is exploring a range of questions around what data there is about the third sector, how data is used in the third sector, and how capacity to work with data can be developed.
 
