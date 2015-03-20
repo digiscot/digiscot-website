@@ -35,7 +35,7 @@ The bulk of existing data will be migrated to the new system, so TSIs will be ab
 
 #### Main database entities
 
-The system will still operate according to the same principles, allowing users to view, edit, and create new organisations, contacts, volunteers and opportunities. TSIs will also be able to record interactions, although this will be done in a slightly different way from the existing system.
+The system will still operate according to the same principles, allowing users to view, edit, and create new **organisations**, **contacts**, **volunteers** and **opportunities**. TSIs will also be able to record interactions, although this will be done in a slightly different way from the existing system.
 
 #### What is happening to Episodes and Interactions?
 
