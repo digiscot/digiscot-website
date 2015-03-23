@@ -57,6 +57,26 @@ No, you will no longer need to access a separate report server, and will not req
 
 Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called <a href="http://www.congamerge.com/products/composer" target="_blank">**Conga Composer**</a>. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
 
+### Document storage / discussion forums
+
+Document storage and communication between Milo users will work differently on the new system, reflecting both the way users interact with Milo, and technological advances over the last few years.
+
+#### Will we still be able to attach documents to interactions and volunteer registrations? 
+
+Yes, and in an improvement to current functionality, you will be able to attach notes and documents to organisation, opportunity and contact records as well. 
+
+#### Is there a storage limit on uploading documents?
+
+Memory is included with the licences. There is a data limit on uploads, but this should not get in the way of uploading standard documents. As long as you don’t attach videos to every record, you should be fine!
+
+#### Will there still be a document library like on the current system?
+
+The new system will not have a separate document library as there was on the old system. Documents relating to organisations, contacts and interactions can be attached to the relevant entity. General documents that need to be made accessible to all users (e.g. training documentation) will be uploaded to Chatter (see below).
+
+#### Will there be discussion forums?
+
+Discussion and communication between users on Milo will now be managed using <a href="http://www.salesforce.com/uk/chatter/overview/" target="_blank">**Chatter**</a>, a more modern social networking solution which will enable users to post public and private communications about all things Milo, from troubleshooting to new innovations. 
+
 ### When will TSIs migrate to the new system?
 
 The system rebuild has been underway since December. We are currently on track to have the new system available by the **end of May 2015**. 
