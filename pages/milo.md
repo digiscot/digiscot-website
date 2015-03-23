@@ -95,7 +95,7 @@ Licences can be transferred to a new named user at no cost.
 
 ### Websites
 
-The new system will provide easier integration with websites, including existing feeds like Volunteer Scotland and Get Involved.
+The new system will provide easier integration with websites, including existing feeds like <a href="http://www.volunteerscotland.org" target="_blank">**Volunteer Scotland**</a> and <a href="http://www.getinvolved.org.uk" target="_blank">**Get Involved**</a>.
 
 #### Will opportunities still feed through to Volunteer Scotland?
 
