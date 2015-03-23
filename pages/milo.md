@@ -9,7 +9,7 @@ permalink: /milo/
 
 Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)**</a> network in Scotland. Milo is funded by the <a href="http://www.gov.scot/" target="_blank">**Scottish Government**</a>, managed by <a href="http://www.scvo.org.uk/" target="_blank">**SCVO**</a>, and was designed and implemented by <a href="http://www.soprasteria.co.uk/" target="_blank">**Sopra Group**</a>. TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
-Milo is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new system in May and June of 2015, before support for the existing system ceases on 30th June 2015.
+Milo is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new system in **May/June of 2015**, before support for the existing system ceases on 30th June 2015.
 
 This FAQ is the online resource for your questions about Milo. If you don’t find what you’re looking for here, drop us an [email](mailto:gavin.bell@scvo.org.uk) and we’ll make sure we address your query. 
 
@@ -95,7 +95,7 @@ Licences can be transferred to a new named user at no cost.
 
 ### Websites
 
-The new system will provide easier integration with websites, including existing feeds like <a href="http://www.volunteerscotland.org" target="_blank">**Volunteer Scotland**</a> and <a href="http://www.getinvolved.org.uk" target="_blank">**Get Involved**</a>.
+The new system will provide easier integration with websites, including existing feeds like <a href="http://www.volunteerscotland.net" target="_blank">**Volunteer Scotland**</a> and <a href="http://www.getinvolved.org.uk" target="_blank">**Get Involved**</a>.
 
 #### Will opportunities still feed through to Volunteer Scotland?
 
