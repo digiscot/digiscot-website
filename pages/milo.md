@@ -7,11 +7,11 @@ permalink: /milo/
 
 <img src="/images/MiloLogo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
 
-Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)** </a> network in Scotland. Milo is funded by the <a href="http://www.gov.scot/" target="_blank">**Scottish Government** </a>, managed by <a href="http://www.scvo.org.uk/" target="_blank">**SCVO** </a>, and was designed and implemented by <a href="http://www.soprasteria.co.uk/" target="_blank">**Sopra Group** </a>. TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
+Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)**</a> network in Scotland. Milo is funded by the <a href="http://www.gov.scot/" target="_blank">**Scottish Government**</a>, managed by <a href="http://www.scvo.org.uk/" target="_blank">**SCVO**</a>, and was designed and implemented by <a href="http://www.soprasteria.co.uk/" target="_blank">**Sopra Group**</a>. TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
-The Milo platform is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new platform in May and June of 2015, before support for the existing system ceases on 30th June 2015.
+Milo is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new system in May and June of 2015, before support for the existing system ceases on 30th June 2015.
 
-This FAQ is the online resource for your questions about Milo. If you don’t find what you’re looking for here, drop us an email and we’ll make sure we address your query. 
+This FAQ is the online resource for your questions about Milo. If you don’t find what you’re looking for here, drop us an [email](mailto:gavin.bell@scvo.org.uk) and we’ll make sure we address your query. 
 
 ### Why is Milo moving to a new system?
 
@@ -19,11 +19,11 @@ The current Milo system is supported by Sopra Group and hosted at Pulsant, howev
 
 ### Who is designing the new system?
 
-<a href="http://synovations.co.uk/" target="_blank">**Synovations** </a> is a technical company specialising in solutions for nonprofits and the charity sector. They have a strong record of delivering on solutions for nonprofits, including SCVO and <a href="http://www.evoc.org.uk/" target="_blank">**EVOC** </a> (part of the Edinburgh TSI). Following a tender process in the summer of 2014, Synovations was selected as the new technology partner for Milo, with a proposal to rebuild the system on the Salesforce platform.
+<a href="http://synovations.co.uk/" target="_blank">**Synovations**</a> is a technical company specialising in solutions for nonprofits and the charity sector. They have a strong record of delivering on solutions for nonprofits, including SCVO and <a href="http://www.evoc.org.uk/" target="_blank">**EVOC**</a> (part of the Edinburgh TSI). Following a tender process in the summer of 2014, Synovations was selected as the new technology partner for Milo, with a proposal to rebuild the system on the Salesforce platform.
 
 ### What is Salesforce?
 
-<a href="http://www.salesforce.com/uk/" target="_blank">**Salesforce** </a> is one of the world’s most-used CRM (customer relationship management) platforms. It is a cloud-based solution providing excellent features and usability out of the box for recording and analysing data, but is also extremely customisable to meet the needs of Milo users. 
+<a href="http://www.salesforce.com/uk/" target="_blank">**Salesforce**</a> is one of the world’s most-used CRM (customer relationship management) platforms. It is a cloud-based solution providing excellent features and usability out of the box for recording and analysing data, but is also extremely customisable to meet the needs of Milo users. 
 
 ### What will be different about the new system?
 
@@ -31,7 +31,7 @@ The major changes will be positive. The new version of Milo will be more user-fr
 
 #### Existing data
 
-The bulk of existing data will be migrated to the new system, so TSIs will be able to view, edit and manage their existing organisations, contacts, volunteer registrations and volunteer opportunities. The one area of the database that will change slightly is Episodes & Interactions (see below).
+The bulk of existing data will be migrated to the new system, so TSIs will be able to view, edit and manage their existing organisations, contacts, volunteer registrations and volunteer opportunities. The one area of the database that will change is Episodes & Interactions (see below).
 
 #### Main database entities
 
@@ -55,7 +55,7 @@ No, you will no longer need to access a separate report server, and will not req
 
 #### Can we export reports to Word, PDF etc.?
 
-Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called **Conga Composer**. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
+Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called <a href="http://www.congamerge.com/products/composer" target"_blank">**Conga Composer**</a>. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
 
 ### When will TSIs migrate to the new system?
 
