@@ -23,7 +23,7 @@ The current Milo system is supported by Sopra Group and hosted at Pulsant, howev
 
 ### What is Salesforce?
 
-**Salesforce** is one of the world’s most-used CRM (customer relationship management) platforms. It is a cloud-based solution providing excellent features and usability out of the box for recording and analysing data, but is also extremely customisable to meet the needs of Milo users. 
+<a href="http://www.salesforce.com/uk/"><b>Salesforce</b></a> is one of the world’s most-used CRM (customer relationship management) platforms. It is a cloud-based solution providing excellent features and usability out of the box for recording and analysing data, but is also extremely customisable to meet the needs of Milo users. 
 
 ### What will be different about the new system?
 
