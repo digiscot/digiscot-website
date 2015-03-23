@@ -5,9 +5,9 @@ excerpt: All you need to know about the new Milo
 permalink: /milo/
 ---
 
-<img src="/images/MiloLogo.png" alt="Milo Logo" width="225px" height="105px">
+<img src="/images/MiloLogo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
 
-Milo is the database and interaction management system for the [**third sector interface (TSI)**](http://www.vascotland.org/) network in Scotland. Milo is managed by SCVO, and was designed and implemented by [**Sopra Group**](http://www.soprasteria.co.uk/). TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
+Milo is the database and interaction management system for the [**third sector interface (TSI)**](http://www.vascotland.org/) network in Scotland. Milo is funded by the [**Scottish Government**](http://www.gov.scot/), managed by [**SCVO**](http://www.scvo.org.uk), and was designed and implemented by [**Sopra Group**](http://www.soprasteria.co.uk/). TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
 The Milo platform is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new platform in May and June of 2015, before support for the existing system ceases on 30th June 2015.
 
@@ -15,11 +15,11 @@ This FAQ is the online resource for your questions about Milo. If you don’t fi
 
 ### Why is Milo moving to a new system?
 
-The current Milo system is supported by Sopra Group and hosted at Pulsant, however ongoing support costs are unsustainable in the light of cuts to [**Scottish Government**](http://www.gov.scot/) funding. In addition to this, the bespoke build of the system means development and bug fixes are prohibitively expensive. Therefore a full system rebuild will be undertaken by Synovations to implement Milo on the Salesforce platform.
+The current Milo system is supported by Sopra Group and hosted at Pulsant, however ongoing support costs are unsustainable in the light of cuts to **Scottish Government** funding. In addition to this, the bespoke build of the system means development and bug fixes are prohibitively expensive. Therefore a full system rebuild will be undertaken by Synovations to implement Milo on the Salesforce platform.
 
 ### Who is designing the new system?
 
-[**Synovations**](http://synovations.co.uk/) is a technical company specialising in solutions for nonprofits and the charity sector. They have a strong record of delivering on solutions for nonprofits, including [**SCVO**](http://www.scvo.org.uk) and [**EVOC**](http://www.evoc.org.uk/) (part of the Edinburgh TSI). Following a tender process in the summer of 2014, Synovations was selected as the new technology partner for Milo, with a proposal to rebuild the system on the **Salesforce** platform.
+[**Synovations**](http://synovations.co.uk/) is a technical company specialising in solutions for nonprofits and the charity sector. They have a strong record of delivering on solutions for nonprofits, including **SCVO** and [**EVOC**](http://www.evoc.org.uk/) (part of the Edinburgh TSI). Following a tender process in the summer of 2014, Synovations was selected as the new technology partner for Milo, with a proposal to rebuild the system on the **Salesforce** platform.
 
 ### What is Salesforce?
 
