@@ -9,7 +9,7 @@ permalink: /milo/
 
 Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)**</a> network in Scotland. Milo is funded by the <a href="http://www.gov.scot/" target="_blank">**Scottish Government**</a>, managed by <a href="http://www.scvo.org.uk/" target="_blank">**SCVO**</a>, and was designed and implemented by <a href="http://www.soprasteria.co.uk/" target="_blank">**Sopra Group**</a>. TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
-Milo is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new system in **May/June of 2015**, before support for the existing system ceases on 30th June 2015.
+Milo is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new system in **May/June of 2015**, before support for the existing system ceases on **30th June 2015**.
 
 This FAQ is the online resource for your questions about Milo. If you don’t find what you’re looking for here, drop us an [email](mailto:gavin.bell@scvo.org.uk) and we’ll make sure we address your query. 
 
@@ -55,7 +55,7 @@ No, you will no longer need to access a separate report server, and will not req
 
 #### Can we export reports to Word, PDF etc.?
 
-Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called <a href="http://www.congamerge.com/products/composer" target"_blank">**Conga Composer**</a>. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
+Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called <a href="http://www.congamerge.com/products/composer" target="_blank">**Conga Composer**</a>. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
 
 ### When will TSIs migrate to the new system?
 
