@@ -7,7 +7,7 @@ permalink: /milo/
 
 <img src="/images/MiloLogo.png" alt="Milo Logo" width="225px" height="105px">
 
-Milo is the database and interaction management system for the third sector interface (TSI) network in Scotland. Milo is managed by SCVO, and was designed and implemented by Sopra Group. TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
+Milo is the database and interaction management system for the third sector interface (TSI) network in Scotland. Milo is managed by SCVO, and was designed and implemented by [**Sopra Group**](http://www.soprasteria.co.uk/). TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
 The Milo platform is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new platform in May and June of 2015, before support for the existing system ceases on 30th June 2015.
 
@@ -23,7 +23,7 @@ The current Milo system is supported by Sopra Group and hosted at Pulsant, howev
 
 ### What is Salesforce?
 
-<a href="http://www.salesforce.com/uk/"><b>Salesforce</b></a> is one of the world’s most-used CRM (customer relationship management) platforms. It is a cloud-based solution providing excellent features and usability out of the box for recording and analysing data, but is also extremely customisable to meet the needs of Milo users. 
+[**Salesforce**](http://www.salesforce.com/uk/) is one of the world’s most-used CRM (customer relationship management) platforms. It is a cloud-based solution providing excellent features and usability out of the box for recording and analysing data, but is also extremely customisable to meet the needs of Milo users. 
 
 ### What will be different about the new system?
 
