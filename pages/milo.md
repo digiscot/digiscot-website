@@ -71,7 +71,7 @@ Memory is included with the licences. There is a data limit on uploads, but this
 
 #### Will there still be a document library like on the current system?
 
-The new system will not have a separate document library as there was on the old system. Documents relating to organisations, contacts and interactions can be attached to the relevant entity. General documents that need to be made accessible to all users (e.g. training documentation) will be uploaded to Chatter (see below).
+The new system will not have a separate document library as there was on the old system. Documents relating to organisations, contacts and interactions can be attached to the relevant entity. General documents that need to be made accessible to all users (e.g. training documentation) will be uploaded to **Chatter** (see below).
 
 #### Will there be discussion forums?
 
