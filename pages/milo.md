@@ -55,11 +55,11 @@ No, you will no longer need to access a separate report server, and will not req
 
 #### Can we export reports to Word, PDF etc.?
 
-Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called Conga. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
+Exporting reports in from Salesforce to Word etc. is possible, but currently requires a separate app called **Conga Composer**. We are currently investigating TSI requirements for exporting data to identify the best solution. As noted above, all reports can be exported to Excel.
 
 ### When will TSIs migrate to the new system?
 
-The system rebuild has been underway since December. We are currently on track to have the new system available by the end of May 2015. 
+The system rebuild has been underway since December. We are currently on track to have the new system available by the **end of May 2015**. 
 
 #### Will there be any downtime during migration?
 
