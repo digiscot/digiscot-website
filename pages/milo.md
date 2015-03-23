@@ -13,7 +13,7 @@ The Milo platform is currently undergoing a full system rebuild on the Salesforc
 
 This FAQ is the online resource for your questions about Milo. If you don’t find what you’re looking for here, drop us an email and we’ll make sure we address your query. 
 
-<H3> Why is Milo moving to a new system? </H3>
+<H4> Why is Milo moving to a new system? </H4>
 
 The current Milo system is supported by Sopra Group and hosted at Pulsant, however ongoing support costs are unsustainable in the light of cuts to Scottish Government funding. In addition to this, the bespoke build of the system means development and bug fixes are prohibitively expensive. Therefore a full system rebuild will be undertaken by Synovations to implement Milo on the Salesforce platform.
 
