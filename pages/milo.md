@@ -7,7 +7,7 @@ permalink: /milo/
 
 <img src="/images/MiloLogo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
 
-Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)** </a> network in Scotland. Milo is funded by the [**Scottish Government**](http://www.gov.scot/), managed by [**SCVO**](http://www.scvo.org.uk), and was designed and implemented by [**Sopra Group**](http://www.soprasteria.co.uk/). TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
+Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)** </a> network in Scotland. Milo is funded by the <a href="http://www.gov.scot/" target="_blank">**Scottish Government** </a>, managed by [**SCVO**](http://www.scvo.org.uk), and was designed and implemented by [**Sopra Group**](http://www.soprasteria.co.uk/). TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
 The Milo platform is currently undergoing a full system rebuild on the Salesforce platform. TSIs are expected to migrate to the new platform in May and June of 2015, before support for the existing system ceases on 30th June 2015.
 
