@@ -1,6 +1,6 @@
 ---
 layout: profile-challenge
-title: Title TBC
+title: Thrive in the Digital World
 excerpt: Helping people to thrive in the digital world and reducing social isolation
 lead: Homestart Majik
 website: http://www.home-start-majik.org.uk/
