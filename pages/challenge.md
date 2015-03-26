@@ -17,7 +17,7 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 
 ## Call 2 (Spring 2015) 
 
-Over 150 applications were made to Call 2. We are currently assessing these applications and will update this page with more information as soon as possible.
+With 150 great applications received for Call 2, we are delighted to announce that The [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. Those organisations who will be receiving funding are listed below: 
 
 ## Call 1 (Winter 2014)
 
