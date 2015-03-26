@@ -18,7 +18,7 @@ permalink: /challenge/linthouse-monday-club/
 
 ### Project description
 
-TBC
+The proposed project is for the club to increase the IT and digital skills within the group, with sessions taking place each month over a 6 month period.  The uniqueness of the project lies within the overall approach the Monday Club is based on: by using Learning Circles and also by using social capital (networks of shared understanding) as a key resource which will enable the club to maximise its opportunities through empowering the group's members and enabling them to address directly the current and future needs of the members (in this case to improve their digital skills). 
 
 
 
@@ -26,16 +26,19 @@ TBC
 
 ### Phase 1
 
-TBC
+Identify & recruit trainer services 
 
 ### Phase 2
 
-TBC
+Training plan / schedule developed in consultation with Linthouse Monday Club participants 
 
 ### Phase 3
 
-TBC
+Training Sessions delivered (12 over 6 month period) 
 
+### Phase 4
+
+1-3 peer volunteers trained up to provide ongoing support to the Club 
 
 
 ## Evaluation
