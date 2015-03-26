@@ -91,7 +91,7 @@ Yes. Training documentation and online tutorials will be available before the la
 
 #### Will there be on-site training?
 
-Due to significantly reduced funding from Scottish Government, SCVO are unable to provide on-site training on the new system. Training will be provided through a combination of documentation, online tutorials, and support from the Milo technical team.
+Due to increased pressures on budgets, SCVO are unable to provide on-site training on the new system. Training will be provided through a combination of documentation, online tutorials, and support from the Milo technical team.
 
 #### How much training will be required for existing users?
 
