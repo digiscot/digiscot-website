@@ -9,7 +9,7 @@ Milo is the database and interaction management system for the <a href="http://w
 
 Check back here to see the latest news and updates about the Milo system and the current rebuild project.
 
-<a href="/milo/" class="btn btn-primary btn-lg"> Find out more </a>
+<a href="/milofaq/" class="btn btn-primary btn-lg"> Find out more </a>
 
 
 
