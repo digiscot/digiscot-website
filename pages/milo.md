@@ -13,3 +13,5 @@ permalink: /milo/
 <a href="/milofaq/" class="btn btn-primary btn-lg"> Find out more </a>
 
 ### Milo - Documents
+
+<a href="/milodocs/" class="btn btn-primary btn-lg"> Find out more </a>
