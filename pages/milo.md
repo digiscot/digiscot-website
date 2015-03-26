@@ -2,7 +2,7 @@
 layout: page
 title: Milo - Frequently Asked Questions
 excerpt: All you need to know about the new Milo
-permalink: /milo/
+permalink: /milofaq/
 ---
 
 <img src="/images/MiloLogo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
