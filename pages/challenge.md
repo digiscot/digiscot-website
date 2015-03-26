@@ -17,7 +17,74 @@ For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.
 
 ## Call 2 (Spring 2015) 
 
-With 150 great applications received for Call 2, we are delighted to announce that The [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. Those organisations who will be receiving funding are listed below: 
+With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below: 
+
+Stromness Community Centre
+
+Leonard Cheshire
+
+Argyll Voluntary Action
+
+Bonkle Computer Club
+
+Moray Firth media trust
+
+Merkinch Partnership
+
+Glasgow Life
+
+Move On Limited
+
+Moray Council Libraries
+
+Castle Douglas Community IT Centre
+
+The Scottish Highlands And Islands And Morayshire Chinese Association
+
+Merkinch Community Centre
+
+North Highland Language Centre
+
+West Of Scotland Housing Association Ltd
+
+Centre for Nordic Studies
+
+FACT Forres Area Community Trust
+
+St Andrews Church of Scotland, Arbroath (Havilah Project)
+
+Flourish House
+
+Colonsay and Oransay Heritage Trust
+
+Cranhill Development Trust
+
+The Ayrshire Community Trust
+
+Scottish Borders Council
+
+Thenue Housing Association Ltd
+
+Partnerships For Wellbeing
+
+Blackwood Foundation
+
+North West Training Centre
+
+Youthlink Scotland
+
+Hebridean Connections
+
+Citizens Online
+
+Deaf Connections
+
+Dundee Augmentative and Alternative Communication (AAC) Research Group
+
+Co Chomunn na Pairce
+
+Scottish Women's Aid
+
 
 ## Call 1 (Winter 2014)
 
