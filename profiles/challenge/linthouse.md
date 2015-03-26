@@ -1,6 +1,6 @@
 ---
 layout: profile-challenge
-title: Title TBC
+title: Linthouse Digital Learners
 excerpt: IT workshops
 lead: Linthouse Monday club
 website: 
