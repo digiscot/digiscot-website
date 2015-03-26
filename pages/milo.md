@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <img src="/images/MiloLogo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
-Excerpt: 
+title: Milo
+Excerpt: Welcome to the Milo page
 permalink: /milo/
 ---
 
