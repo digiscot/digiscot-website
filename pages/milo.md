@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Milo
+layout: testlogo
+logo: <img src="/images/Milo-Logo.png" alt="Milo Logo" title="Milo Logo">
 excerpt: Welcome to the Milo page
 permalink: /milo/
 ---
