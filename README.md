@@ -13,9 +13,8 @@ This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.
 **Profile pages** for challenge projects, charter signatories and internship placements are at:
 
 ```
-/profiles/challenge/
-/profiles/charter/
-/profiles/internships/
+/pages/projects/
+/pages/signatories/
 ```
 
 ### Adding pages
@@ -67,9 +66,8 @@ Add any new images to your local copy of the images folder, either:
 Or the relevant subfolder:
 
 ```
-/images/challenge/
+/images/projects/
 /images/charter/
-/images/internships/
 ```
 
 Please try to give your images sensible filenames!
