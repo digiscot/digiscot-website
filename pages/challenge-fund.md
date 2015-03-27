@@ -17,7 +17,7 @@ For more information please [contact us](/contact/).
 
 ## Call 2 (Spring 2015) 
 
-With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below, and [project pages](/projects/) will follow shortly. We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/). 
+With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below, and [project pages](/projects/) will follow shortly.
 
 * Stromness Community Centre
 * Leonard Cheshire
@@ -52,6 +52,10 @@ With 150 great applications received for Call 2, we are delighted to announce th
 * Dundee Augmentative and Alternative Communication (AAC) Research Group
 * Co Chomunn na Pairce
 * Scottish Women's Aid
+
+We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/). 
+
+
 
 ## Call 1 (Winter 2014)
 
