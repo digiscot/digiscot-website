@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+    
+      <h1>{{ page.title }}</h1>
+
+      {% if page.excerpt %}
+      <p class="lead">{{ page.excerpt }}</p>
+      {% endif %}
+
+      {% if page.alert %}
+      <div class="alert alert-warning" role="alert"><p><i class="fa fa-info-circle"></i> {{ page.alert }}</p></div>
+      {% endif %}
+
+      {{ content }}
+    
+    </div>
+  </div>
+
+  <div class="row" id="projects">
+    <div class="col-md-12">
+    
+      {% assign count = 0 %}
+
+      {% for page in site.pages %}
+        {% if page.layout == 'project' %}
+          {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+        {% endif %}
+      {% endfor %}
+    
+      <h2>Our projects<br />
+      <small>{{ count }} projects have received support</small></h2>
+    </div>
+  </div>
+  
+  <div class="row">
+
+    <div class="col-md-6">
+
+    {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
+    {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
+
+    {% assign idx = 0 %}
+    
+        {% for page in site.pages %}
+          {% if page.layout == 'project' %}
+          
+            <p class="p-index"><strong><a href="{{ page.url }}">{{ page.title }}</a></strong><br />
+            {{ page.lead }}<br/>
+            <small>{{ page.excerpt }}</small></p>
+            
+            {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
+            
+            {% if idx == break %}
+              </div>
+              <div class="col-md-6">
+            {% endif %}        
+            
+          {% endif %}
+        {% endfor %}
+  
+    </div>
+  
+  </div>
+  
+</div>

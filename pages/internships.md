@@ -1,9 +1,9 @@
 ---
-layout: internships
-title: Let's Get Digital internships
+layout: page
+title: Business Growth Internships
 excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
 alert: Currently accepting applications from host organisations in the Highlands and Islands.
-permalink: /internships/
+permalink: /resources/internships/
 ---
 
 Let’s Get Digital, supported by Scottish Government and ERDF, is our business growth programme for charities and voluntary organisations. It's an opportunity to tap into knowledge, expertise and enthusiasm to boost business growth and competitiveness in the third sector, and to increase digital skills and capability.
@@ -26,7 +26,7 @@ Host organisations and interns will also benefit from the support of carefully s
 
 
 
-### Information for individuals
+## Information for individuals
 
 You can view a list of available internship vacancies on the SCVO website.
 
@@ -36,7 +36,7 @@ Once you have found a vacancy you are interested in you will need to speak to yo
 
 
 
-### Information for organisations
+## Information for organisations
 
 The way we're funded means that there are a few rules about what sorts of organisations can apply. To be eligible your organisation must:
 
@@ -55,6 +55,6 @@ If your application is successful then we will support your organisation by:
 
 Once your application has been submitted, our assessment team will review the application and either give you the green light or support you through any revisions required. Once this is done we can start the process to find an intern and mentor.
 
-Some [extra guidance notes](/internships/guidance/) are available to help you complete your application.
+Some [extra guidance notes](/resources/internships-guidance/) are available to help you complete your application.
 
 <a href="http://www.scvo.org.uk/jobs-employability/apply-to-host-a-business-growth-graduate-internship/" class="btn btn-primary btn-lg">Find out more and apply</a>

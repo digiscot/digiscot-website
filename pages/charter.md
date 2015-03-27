@@ -1,5 +1,5 @@
 ---
-layout: charter
+layout: page
 title: Scotland's Digital Participation Charter
 excerpt: We're inviting organisations across Scotland to join a national movement to promote digital participation and basic online skills.
 permalink: /charter/
@@ -11,7 +11,7 @@ Efforts to scale up and accelerate activity in Scotland are coordinated through 
 
 This charter establishes a framework for organisations in Scotland to support the Digital Participation Programme and to pursue our shared ambition. Signatories to the Charter commit to working together in a spirit of partnership to promote digital participation in Scotland.
 
-### Commitments
+## Commitments
 
 Together, Charter signatories commit to:
 
@@ -21,18 +21,27 @@ Together, Charter signatories commit to:
 4. Channelling our efforts through the Digital Participation Programme, so that our activities can be coordinated for maximum impact and measured consistently
 5. Using common language based on digital participation and basic digital skills, to make our thinking and actions as clear as possible
 
-You can [download a print version](/images/DigiParticip-Charter-A4.pdf) to share with colleagues and use within your organisation.
+## Signatories
 
-### Pledge your support
+Over a hundred partners have pledged their support for digital participation in Scotland.
 
-We need to know a little bit about your organisation to get you signed up to the Charter. Once we have this we will be in touch to confirm your support and discuss how we can work together.
+<a href="/charter/signatories/" class="btn btn-primary btn-lg">View signatories</a>
 
-<a href="/charter/apply/" class="btn btn-primary btn-lg">Sign the charter</a>
+## Sign the charter
 
-For more information please email [digital@scvo.org.uk](mailto:digital@scvo.org.uk).
+We need to know a little bit about your organisation to get you signed up to the Charter. Once we have this we will be in touch to confirm your support and discuss how we can work together. 
+If you need more information please [contact us](/contact/).
 
-### Get involved
+<a class="btn btn-primary btn-lg" onclick="return windowpop('http://surveywithus.com/', 545, 433)">Sign the charter</a>
 
-We are starting to build a list of specific opportunities for charter signatories to get involved with community digital participation projects across Scotland. Alongside this we're also starting to build a list of specific offers of help that charter signatories have made for projects to take up. You can view both of these lists, and make your own contributions, using the buttons below.
-
-<a href="/charter/asks/" class="btn btn-primary btn-lg">Asks for help</a> <a href="/charter/offers/" class="btn btn-primary btn-lg">Offers of help</a>
+<script>
+  function windowpop(url, width, height) {
+    var leftPosition, topPosition;
+    //Allow for borders.
+    leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+    //Allow for title and status bars.
+    topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+    //Open the window.
+    window.open(url, "Window2", "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=yes,location=no,directories=no");
+  }
+</script>

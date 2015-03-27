@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+    
+      <h1>{{ page.title }}</h1>
+    
+      {% if page.excerpt %}
+      <p class="lead">{{ page.excerpt }}</p>
+      {% endif %}
+      
+      {% if page.alert %}
+      <div class="alert alert-warning" role="alert"><p><i class="fa fa-info-circle"></i> {{ page.alert }}</p></div>
+      {% endif %}
+
+      {{ content }}
+      
+    </div>
+  </div>
+  
+    {% for item in site.data.board %}
+    {% capture break %}{{ forloop.index | modulo: 3 }}{% endcapture %}
+      
+      {% if break == '1' %}
+        <div class="row">
+      {% endif %}
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center"><img src="/images/board/{{ item.image }}" alt="{{ item.name }}" class="img-circle avatar" /></p>
+        <p class="text-center"><strong>{{ item.name }}</strong><br />
+        {% if item.chair %}{{ item.chair}}<br />{% endif %}
+        {% if item.url %}<a href="{{ item.url }}">{{ item.org }}</a>
+        {% else %}{{ item.org }}{% endif %}
+        {% if item.twitter %}<br /><a href="https://twitter.com/{{ item.twitter }}"><i class="fa fa-fw fa-twitter"></i></a>{% endif %} 
+        </p>
+      </div>
+      
+      {% if break == '0' %}
+        </div>
+      {% endif %}
+      
+    {% endfor %}
+    
+    {% if break != '0' %}
+      </div>
+    {% endif %}
+
+</div>

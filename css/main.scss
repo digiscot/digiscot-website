@@ -4,6 +4,8 @@
 
 @charset "utf-8";
 
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 // Base variables
@@ -13,11 +15,16 @@ $base-font-weight:                300;
 $base-font-color:                 #666666;
 $base-font-color-muted:           #999999;
 
-$base-font-size:                  18px;
+$base-font-size:                  16px;
 $base-line-height:                1.5;
 
-$title-color:                     #345476;
-$title-shadow:                    0px 1px 1px rgba(255, 255, 255, 1);
+$h1-font-family:                  Montserrat, Helvetica, Arial, sans-serif;
+$h1-font-size:                    48px;
+$h1-font-weight:                  700;
+$h1-font-color:                   #0042A3;
+
+$h-font-color:                    #000000;
+$h-font-weight:                   700;
 
 $brand-color:                     #009E99;
 $brand-color-hover:               #33B1AD;
@@ -39,31 +46,39 @@ html, body {
 }
 
 body { 
-  font-family: $base-font-family;
-  font-weight: $base-font-weight;
-  color: $base-font-color;  
+  font-family:                    $base-font-family;
+  font-weight:                    $base-font-weight;
+  color:                          $base-font-color;  
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #000000;
-  font-weight: 600;
+h1 {
+  font-family:                    $h1-font-family;
+  font-size:                      $h1-font-size;
+  font-weight:                    $h1-font-weight;
+  color:                          $h1-font-color;
+}
+
+h2, h3, h4, h5, h6 {
+  color:                          $h-font-color;
+  font-weight:                    $h-font-weight;
 }
 
 p {
-  font-size: $base-font-size;
-}
-
-.row li {
-  font-size: $base-font-size;
-  margin-bottom: $spacing-unit / 2;
+  font-size:                      $base-font-size;
 }
 
 .lead {
-  font-size: 150%;
+  font-size:                      175%;
+  color:                          $h1-font-color;
 }
 
 .text-muted {
-  color: $base-font-color-muted;
+  color:                          $base-font-color-muted;
+}
+
+.row li {
+  font-size:                      $base-font-size;
+  margin-bottom:                  $spacing-unit / 2;
 }
 
 
@@ -116,7 +131,7 @@ h4, h5, h6 {
   margin-bottom: $spacing-unit / 3;
 }
 
-.col-front {
+.col-front, .form-front {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
@@ -133,7 +148,6 @@ h4.comments {
   margin-top: $spacing-unit * 2;
 }
 
-
 #disqus_thread {
   margin-bottom: $spacing-unit * 2;
 }
@@ -144,10 +158,8 @@ h4.comments {
 
 img {
   max-width: 100%;
-}
-
-img.main {
-  margin-bottom: $spacing-unit;
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
 
 img.charter {
@@ -195,8 +207,8 @@ img.logo {
   
   h1 {
     font-weight: bold;
-    color: $title-color;
-    text-shadow: $title-shadow;
+    color: #345476;
+    text-shadow: 0px 1px 1px rgba(255, 255, 255, 1);
     margin-bottom: $spacing-unit / 1.5;
   }
   
@@ -215,25 +227,6 @@ img.logo {
   .splash {
     background-image: none;
   }
-}
-
-.splash-header {
-  margin-top: -20px;
-  margin-bottom: $spacing-unit;
-  background-color: #b9e0f1;
-  background-position: top center;
-  background-size: auto 100%;
-  background-repeat: no-repeat;
-  background-image: url('/images/splash-header.jpg');
-  
-  h1 {
-    color: $title-color;
-    font-weight: bold;
-    text-shadow: 0px 1px 1px rgba(255, 255, 255, 1);
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit;
-  }
-  
 }
 
 .footer {

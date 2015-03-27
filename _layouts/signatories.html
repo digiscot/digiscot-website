@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+    
+      <h1>{{ page.title }}</h1>
+    
+      {% if page.excerpt %}
+      <p class="lead">{{ page.excerpt }}</p>
+      {% endif %}
+
+      {% if page.alert %}
+      <div class="alert alert-warning" role="alert"><p><i class="fa fa-info-circle"></i> {{ page.alert }}</p></div>
+      {% endif %}
+
+      {{ content }}
+      
+    </div>
+  </div>
+  
+  <div class="row" id="orgs">
+    <div class="col-md-12">
+    
+      {% assign count = 0 %}
+
+      {% for page in site.pages %}
+        {% if page.layout == 'signatory' %}
+          {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+        {% endif %}
+      {% endfor %}
+    
+      <h2>Our partners<br />
+      <small>{{ count }} organisations have signed the Charter</small></h2>
+    </div>
+  </div>
+  
+  <div class="row">
+
+    <div class="col-md-6">
+
+    {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
+    {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
+
+    {% assign idx = 0 %}
+    
+        {% for page in site.pages %}
+          {% if page.layout == 'signatory' %}
+          
+            <p><strong><a href="{{ page.url }}">{{ page.title }}</a></strong></p>
+            
+            {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
+            
+            {% if idx == break %}
+              </div>
+              <div class="col-md-6">
+            {% endif %}        
+            
+          {% endif %}
+        {% endfor %}
+  
+    </div>
+  
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12">
+      <hr />
+      <p class="text-center">
+      
+        {% for page in site.pages %}
+          {% if page.layout == 'signatory' %}
+            {% if page.image %}
+              <a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.title }}" class="charter" /></a>     
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+      </p>
+    </div>
+  </div>
+
+</div>

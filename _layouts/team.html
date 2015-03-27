@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+    
+      <h1>{{ page.title }}</h1>
+    
+      {% if page.excerpt %}
+      <p class="lead">{{ page.excerpt }}</p>
+      {% endif %}
+      
+      {% if page.alert %}
+      <div class="alert alert-warning" role="alert"><p><i class="fa fa-info-circle"></i> {{ page.alert }}</p></div>
+      {% endif %}
+
+      {{ content }}
+      
+    </div>
+  </div>
+  
+    {% for item in site.data.team %}
+    {% capture break %}{{ forloop.index | modulo: 3 }}{% endcapture %}
+      
+      {% if break == '1' %}
+        <div class="row">
+      {% endif %}
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center"><img src="/images/team/{{ item.image }}" alt="{{ item.name }}" class="img-circle avatar" /></p>
+        <p class="text-center"><strong>{{ item.name }}</strong><br />
+        {{ item.job }}<br />
+        {{ item.phone }}<br />
+        {% if item.email %}<a href="mailto:{{ item.email }}"><i class="fa fa-fw fa-envelope"></i></a>{% endif %}
+        {% if item.twitter %}<a href="https://twitter.com/{{ item.twitter }}"><i class="fa fa-fw fa-twitter"></i></a>{% endif %} 
+        {% if item.linkedin %}<a href="{{ item.linkedin }}"><i class="fa fa-fw fa-linkedin"></i></a>{% endif %}
+        </p>
+      </div>
+      
+      {% if break == '0' %}
+        </div>
+      {% endif %}
+      
+    {% endfor %}
+    
+    {% if break != '0' %}
+      </div>
+    {% endif %}
+
+</div>

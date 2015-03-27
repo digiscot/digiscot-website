@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+    
+      <h1>{{ page.title }}</h1>
+      
+      {% if page.image %}
+      <p><img src="{{ page.image }}" class="charter" /></p>
+      {% else %}
+      <p><img src="/images/nologo.jpg" class="charter" /></p>
+      {% endif %}
+      
+      {{ content }}
+      
+      {% if page.website or page.twitter or page.email %}
+      <h4>Contact details</h4>
+      {% endif %}   
+      
+      {% if page.website %}
+      <p>Website: <a href="{{ page.website }}">{{ page.website }}</a></p>
+      {% endif %}
+      
+      {% if page.twitter %}
+      <p>Twitter: <a href="{{ page.twitter | prepend: "https://twitter.com/" }}">@{{ page.twitter }}</a></p>
+      {% endif %}
+      
+      {% if page.email %}
+      <p>Email: <a href="{{ page.email | prepend: "mailto:" }}">{{ page.email }}</a></p>
+      {% endif %}  
+      
+      {% include edit.html %}
+    
+    </div>
+  </div>
+</div>
