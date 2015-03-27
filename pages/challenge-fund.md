@@ -5,7 +5,7 @@ excerpt: There are great digital participation projects going on across Scotland
 permalink: /resources/challenge-fund/
 ---
 
-In 2014-15, supported by the Scottish Government and ERDF, we will be awarding more than £200,000 to community digital participation projects across Scotland. This will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world. We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
+In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we will be awarding more than £200,000 to community digital participation projects across Scotland. This will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world. We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
 
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can apply for in-kind support as well as, or instead of, a financial award.
 
@@ -17,7 +17,7 @@ For more information please [contact us](/contact/).
 
 ## Call 2 (Spring 2015) 
 
-With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below: 
+With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below, and [project pages](/projects/) will follow shortly. We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/). 
 
 * Stromness Community Centre
 * Leonard Cheshire
@@ -55,4 +55,4 @@ With 150 great applications received for Call 2, we are delighted to announce th
 
 ## Call 1 (Winter 2014)
 
-Over 70 applications were made to Call 1. The [Digital Participation Leadership Group](/about/) has made 25 direct offers of funding for digital participation projects. We are also following up with a number of projects to seek alternative support from organisations that have signed [Scotland's Digital Participation Charter](/charter/).
+Over 70 applications were made to Call 1, and the [Digital Participation Leadership Group](/about/) made 25 direct offers of funding. You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/).

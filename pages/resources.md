@@ -5,7 +5,7 @@ excerpt: If you're delivering basic digital skills for people or charities in Sc
 permalink: /resources/
 ---
 
-With the support of Scottish Government, ERDF and our other partners, we've put together a range of resources focused on digital participation. Follow the links below to find out more about what's available.
+With the support of the [Scottish Government](http://www.gov.scot), the ERDF and [our partners](/charter/), we've put together a range of resources focused on digital participation. Follow the links below to find out more about what's available.
 
 
 
