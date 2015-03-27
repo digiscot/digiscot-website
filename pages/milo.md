@@ -9,12 +9,18 @@ Milo is the database and interaction management system for the <a href="http://w
 
 ### Latest News
 
+View the latest update to Milo users and download past updates.
+
 <a href="/milonews/" class="btn btn-primary btn-lg">Find out more</a>
 
 ### Frequently Asked Questions
 
+The online resource for all the need-to-know information on the Milo system.
+
 <a href="/milofaq/" class="btn btn-primary btn-lg">Find out more</a>
 
 ### Documents
+
+Download information documents on the new system, including the Milo enhancement list.
 
 <a href="/milodocs/" class="btn btn-primary btn-lg">Find out more</a>
