@@ -16,7 +16,7 @@ A multi-sector *Leadership Group* has been established to provide strategic prog
 
 ### Membership 
 
-The Leadership Group comprises of two representatives from the third, private and public sectors and is chaired by The Honorary President of SCVO. [See current members &raquo;](/about/#leadership-group)
+The Leadership Group comprises of two representatives from the third, private and public sectors and is chaired by The Honorary President of SCVO.
 
 Membership will be considered on a biennial basis (process to be agreed).
 

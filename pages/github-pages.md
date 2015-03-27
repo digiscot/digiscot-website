@@ -5,7 +5,7 @@ excerpt: How to edit your challenge project or charter signatory page.
 permalink: /github-pages/
 ---
 
-If your organisation has received support from our [challenge fund](/challenge/) or signed our [digital participation charter](/charter/) then you will have a page on this website where you can share a bit more about who you are and what you are doing. Here is a step-by-step guide to adding content and editing your page.
+If you we are supporting your [digital participation project](/projects) or you have signed our [digital participation charter](/charter/) then you will have a page on this website where you can share a bit more about who you are and what you are doing. Here is a step-by-step guide to adding content and editing your page.
 
 ### Before you start
 
