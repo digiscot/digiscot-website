@@ -55,6 +55,6 @@ All the best
 
 Gavin
 
-### Past Updates
+### Previous Updates
 
-<a class="btn btn-primary btn-lg" href="/documents/pastupdate.pdf">Milo update - XX/XX/XXXX</a>
+<a class="btn btn-primary btn-lg" href="/documents/miloupdate-feb15.pdf">Milo update - Feb 2015</a>
