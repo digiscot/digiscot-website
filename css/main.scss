@@ -11,11 +11,10 @@
 // Base variables
 
 $base-font-family:                Helvetica, Arial, sans-serif;
+$base-font-size:                  16px;
 $base-font-weight:                300;
 $base-font-color:                 #666666;
-$base-font-color-muted:           #999999;
 
-$base-font-size:                  16px;
 $base-line-height:                1.5;
 
 $h1-font-family:                  Montserrat, Helvetica, Arial, sans-serif;
@@ -47,6 +46,7 @@ html, body {
 
 body { 
   font-family:                    $base-font-family;
+  font-size:                      $base-font-size;
   font-weight:                    $base-font-weight;
   color:                          $base-font-color;  
 }
@@ -59,11 +59,11 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  color:                          $h-font-color;
   font-weight:                    $h-font-weight;
+  color:                          $h-font-color;
 }
 
-p {
+p, li {
   font-size:                      $base-font-size;
 }
 
@@ -72,25 +72,16 @@ p {
   color:                          $h1-font-color;
 }
 
-.text-muted {
-  color:                          $base-font-color-muted;
-}
-
-.row li {
-  font-size:                      $base-font-size;
-  margin-bottom:                  $spacing-unit / 2;
-}
-
 
 
 // Links and buttons
 
 a {
-  color: $brand-color;
+  color:                          $brand-color;
 }
 
 a:hover {
-  color: $brand-color-hover;
+  color:                          $brand-color-hover;
 }
 
 a:hover fa {
@@ -98,13 +89,13 @@ a:hover fa {
 }
 
 .btn-primary {
-  background-color: $brand-color-button;
-  border-color: $brand-color-button-border;
+  background-color:               $brand-color-button;
+  border-color:                   $brand-color-button-border;
 }
 
 .btn-primary:hover {
-  background-color: $brand-color-button-hover;
-  border-color: $brand-color-button-border-hover;  
+  background-color:               $brand-color-button-hover;
+  border-color:                   $brand-color-button-border-hover;  
 }
 
 
@@ -131,7 +122,7 @@ h4, h5, h6 {
   margin-bottom: $spacing-unit / 3;
 }
 
-.col-front, .form-front {
+.col-front, form {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
@@ -180,14 +171,6 @@ img.logo {
 
 
 // Other
-
-.alpha {
-  margin: 0px;
-  padding: 5px;
-  background-color: #FFCC00;
-  color: #000000;
-  font-size: 80%;
-}
 
 .splash {
   margin-top: -20px;

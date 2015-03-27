@@ -29,9 +29,13 @@ For many people who want to learn how to do things online, taking the first step
 
 To see what's listed in your area, start by entering a postcode.
 
-<form class="form-front" role="form" action="http://letsgeton.digitalscotland.org/Search" method="GET">
-  <input type="text" class="form-control input-lg" id="postcode" name="geo.postcode" placeholder="Enter postcode">
-  <button type="submit" class="btn btn-primary btn-lg">Search</button>
+<form role="form" action="http://letsgeton.digitalscotland.org/Search" method="GET">
+  <div class="form-group">
+    <input type="text" class="form-control input-lg" id="postcode" name="geo.postcode" placeholder="Enter postcode">
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary btn-lg">Search</button>
+  </div>
 </form>
 
 For people who aren't able to search online, the same information is available from a freephone helpline: 0800 771234.

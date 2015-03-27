@@ -11,19 +11,39 @@ Efforts to scale up and accelerate activity in Scotland are coordinated through 
 
 This charter establishes a framework for organisations in Scotland to support the Digital Participation Programme and to pursue our shared ambition. Signatories to the Charter commit to working together in a spirit of partnership to promote digital participation in Scotland.
 
+
+
 ## Commitments
 
-Together, Charter signatories commit to:
+<div class="panel panel-default">
 
-1. Ensuring that all of our staff and volunteers have an opportunity to learn basic digital skills, and that they take advantage of this opportunity
-2. Encouraging and supporting our staff and volunteers to help other people learn basic digital skills, and help other organisations to embrace digital tools
-3. Contributing resources and practical support for digital participation initiatives in Scotland in whatever ways we can
-4. Channelling our efforts through the Digital Participation Programme, so that our activities can be coordinated for maximum impact and measured consistently
-5. Using common language based on digital participation and basic digital skills, to make our thinking and actions as clear as possible
+  <div class="panel-heading"><strong>Charter signatories commit to:</strong></div>
+
+  <div class="list-group">
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>1.</strong> Ensuring that all of our staff and volunteers have an opportunity to learn basic digital skills, and that they take advantage of this opportunity.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>2.</strong> Encouraging and supporting our staff and volunteers to help other people learn basic digital skills, and help other organisations to embrace digital tools.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>3.</strong> Contributing resources and practical support for digital participation initiatives in Scotland in whatever ways we can.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>4.</strong> Channelling our efforts through the Digital Participation Programme, so that our activities can be coordinated for maximum impact and measured consistently.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>5.</strong> Using common language based on digital participation and basic digital skills, to make our thinking and actions as clear as possible.</p>
+    </span>
+  </div>
+
+</div>
+
+
 
 ## Signatories
 
-Over a hundred partners have pledged their support for digital participation in Scotland.
+Over a hundred partners have signed the Charter and pledged their support for digital participation in Scotland.
 
 <a href="/charter/signatories/" class="btn btn-primary btn-lg">View signatories</a>
 
