@@ -5,7 +5,7 @@ excerpt: All you need to know about the new Milo
 permalink: /milofaq/
 ---
 
-<img src="/images/MiloLogo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
+<img src="/images/Milo-Logo.png" alt="Milo Logo" title="Milo Logo" width="225px" height="105px">
 
 Milo is the database and interaction management system for the <a href="http://www.vascotland.org/" target="_blank">**third sector interface (TSI)**</a> network in Scotland. Milo is funded by the <a href="http://www.gov.scot/" target="_blank">**Scottish Government**</a>, managed by <a href="http://www.scvo.org.uk/" target="_blank">**SCVO**</a>, and was designed and implemented by <a href="http://www.soprasteria.co.uk/" target="_blank">**Sopra Group**</a>. TSIs have been using the system to manage their interactions with voluntary organisations and volunteers since 2012.
 
