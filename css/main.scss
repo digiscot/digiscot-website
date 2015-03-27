@@ -209,6 +209,9 @@ img.logo {
 @media screen and (max-width: 767px) {
   .splash {
     background-image: none;
+    h1 {
+      font-size: 36px;
+    }
   }
 }
 
