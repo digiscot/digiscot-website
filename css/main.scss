@@ -160,6 +160,13 @@ img.charter {
   margin: $spacing-unit;
 }
 
+img.charter-page {
+  width: 156px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: $spacing-unit;
+}
+
 img.avatar {
   width: 128px;
   height: 128px;
@@ -206,15 +213,6 @@ img.logo {
   
 }
 
-@media screen and (max-width: 767px) {
-  .splash {
-    background-image: none;
-  }
-  h1 {
-    font-size: 36px;
-  }
-}
-
 .footer {
   margin-top: $spacing-unit;
   padding-top: $spacing-unit;
@@ -222,6 +220,26 @@ img.logo {
   border-top: 1px solid #EEEEEE;
   background-color: #FBFBFB;
 }
+
+
+
+// Mobile optimisation
+
+@media screen and (max-width: 767px) {
+  .splash {
+    background-image: none;
+  }
+  h1 {
+    font-size: 36px;
+  }
+  .lead {
+    font-size: 150%;
+  }
+}
+
+
+
+// Experimental
 
 #map-canvas {
   height: 500px;

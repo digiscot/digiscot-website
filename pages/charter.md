@@ -43,9 +43,13 @@ This charter establishes a framework for organisations in Scotland to support th
 
 ## Signatories
 
+![Charter signatory](/images/charter-signatory.png)
+
 Over a hundred partners have signed the Charter and pledged their support for digital participation in Scotland.
 
 <a href="/charter/signatories/" class="btn btn-primary btn-lg">View signatories</a>
+
+
 
 ## Sign the charter
 
@@ -65,3 +69,14 @@ If you need more information please [contact us](/contact/).
     window.open(url, "Window2", "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=yes,location=no,directories=no");
   }
 </script>
+
+
+
+## Get the logo
+
+If your organisation has signed the Charter then we'd love you to tell the world about it! Use the link below to download logos (PNG, JPG and EPS formats) for use on your website, letterheads and other materials.
+
+<a href="/files/digital-charter-logos.zip" class="btn btn-primary btn-lg">Download logos</a>
+
+Please link the logo back to this page at [http://digital.scvo.org.uk/charter](/charter/) or your individual [signatory page](/charter/signatories/).
+

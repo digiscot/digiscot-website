@@ -13,7 +13,7 @@ We have adopted the [basic digital skills definition](http://www.go-on.co.uk/bas
 4. Problem solving
 5. Creating
 
-For each of them the definition explains a bit about online safety, and gives examples of what these skills should enable people and organisations to do.
+For each of these skills the definition gives examples of what they should enable people and organisations to do, and also covers staying safe online.
 
 
 
@@ -96,7 +96,7 @@ For each of them the definition explains a bit about online safety, and gives ex
 
 
 
-## 4. Problem-solving
+## 4. Problem solving
 
 **Increase independence and confidence by solving problems using digital tools and finding solutions.**
 
