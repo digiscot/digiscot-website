@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic digital skills
-excerpt: The basic digital skills that people and organisations need to get things done. 
+excerpt: The basic digital skills that people and organisations need to get things done online. 
 permalink: /basic-digital-skills/
 ---
 
