@@ -25,7 +25,7 @@ Access financial and in-kind support to explore digital opportunities for third 
 
 ## Directory
 
-For many people who want to learn how to do things online, taking the first step is easier if there's someone else around to lend a helping hand. We know it's not always easy to find this sort of support, so we're helping to build a directory of places in Scotland where it's on offer. This includes places you might expect to find support like libraries and computer clubs, and as well as other places like lunch or craft clubs. The directory supports the Scottish Government's [Let's Get On](http://www.letsgeton.scot/) campaign.
+For many people who want to learn how to do things online, taking the first step is easier if there's someone else around to lend a helping hand. We know it's not always easy to find this sort of support, so we're helping to build a directory of places in Scotland where it's on offer. This includes places you might expect to find support like libraries and computer clubs, and as well as other places like lunch or craft clubs.
 
 To see what's listed in your area, start by entering a postcode.
 
@@ -40,9 +40,11 @@ To see what's listed in your area, start by entering a postcode.
 
 For people who aren't able to search online, the same information is available by calling 0300 004 1000.
 
+The directory supports the Scottish Government's [Let's Get On](http://www.letsgeton.scot/) campaign.
+
 ### Add your centre
 
-If you help people to get online and learn [basic digital skills](/basic-digital-skills/) then you can register your centre or organisation on the directory.
+If you help people to get online and learn [basic digital skills](/basic-digital-skills/) then you can add your centre or organisation to the directory.
 
 <a href="http://letsgeton.digitalscotland.org/SignUp/create" class="btn btn-primary btn-lg">Get started</a>
 
@@ -54,7 +56,7 @@ If you help people to get online and learn [basic digital skills](/basic-digital
 
 We've partnered with [Tinder Foundation](http://www.tinderfoundation.org) to develop extra learning resources for people and organisations in Scotland. [Learn My Way](http://scotland.learnmyway.com) is a free online resource designed to help people learn basic online skills. If your organisation helps people to learn then you can apply for a free centre code, for your learners to use when they register on the Learn My Way website. This will help you to keep count of all your learners and see how they are getting on.
 
-You can apply for a Learn My Way code when you register your centre or organisation the directory.
+You can apply for a Learn My Way code when you add your centre or organisation to the directory.
 
 <a href="http://letsgeton.digitalscotland.org/SignUp/create" class="btn btn-primary btn-lg">Get started</a>
 
