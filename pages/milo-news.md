@@ -25,7 +25,7 @@ Completed surveys should be submitted no later than **Friday 10 April**.
 
 We have begun to collate the most frequently asked questions about the new system online. The FAQ provides up to date information on the background to the move, the Salesforce platform, what will be different about the new system, how web feeds will be maintained etc.
 
-You can view the Milo FAQ by clicking on <a href="/milofaq/" target="_blank">this link</a>.
+You can view the Milo FAQ by clicking on <a href="/milo-faq/" target="_blank">this link</a>.
 
 The FAQ is intended to be a living document. If you have questions that aren’t answered by the FAQ, or would like more detail in some areas, just email [gavin.bell@scvo.org.uk](mailto:gavin.bell@scvo.org.uk) 
 
@@ -45,7 +45,7 @@ It does mean that in most cases, interactions will have to start afresh on the n
 * We are still planning on migration to the new system in **May** – following agreement by all partners, we should be identifying a firm date within the next week
 * Migration work will involve one week of downtime – this will only have to happen once, and all TSIs will be migrated at the same time
 * Advance testers from the User Group have been working on the test build, and we’ll be widening the pool of testers soon – if you would like to be involved, please let us know
-* We recently circulated the latest version of the Milo enhancements list with the User Group, outlining the key changes and immediate improvements we hope to see following go-live day. You can view the list online <a href="/milodocs/" target="_blank">here</a>
+* We recently circulated the latest version of the Milo enhancements list with the User Group, outlining the key changes and immediate improvements we hope to see following go-live day. You can view the list online <a href="/milo-docs/" target="_blank">here</a>
 
 The next meeting of the MUG will be held on Thursday 2nd April. Synovations, the new Milo technology partner, will be attending to answer questions about the build. If you would like to have any particular points discussed at the meeting, please forward them to [angus.lindsay@vaslan.org.uk](mailto:angus.lindsay@vaslan.org.uk)
 
