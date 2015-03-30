@@ -54,7 +54,7 @@ If you help people to get online and learn [basic digital skills](/basic-digital
 
 ![Learn My Way](/images/learnmyway.jpg)
 
-We've partnered with [Tinder Foundation](http://www.tinderfoundation.org) to develop extra learning resources for people and organisations in Scotland. [Learn My Way](http://scotland.learnmyway.com) is a free online resource designed to help people learn basic online skills. If your organisation helps people to learn then you can apply for a free centre code, for your learners to use when they register on the Learn My Way website. This will help you to keep count of all your learners and see how they are getting on.
+We've partnered with [Tinder Foundation](http://www.tinderfoundation.org) to develop extra learning resources for people and organisations in Scotland. [Learn My Way](http://scotland.learnmyway.com) is a free online resource designed to help people learn basic digital skills. If your organisation helps people to learn then you can apply for a free centre code, for your learners to use when they register on the Learn My Way website. This will help you to keep count of all your learners and see how they are getting on.
 
 You can apply for a Learn My Way code when you add your centre or organisation to the directory.
 
