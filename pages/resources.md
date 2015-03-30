@@ -38,7 +38,9 @@ To see what's listed in your area, start by entering a postcode.
   </div>
 </form>
 
-For people who aren't able to search online, the same information is available from a freephone helpline: 0800 771234.
+For people who aren't able to search online, the same information is available by calling 0300 004 1000.
+
+The directory supports the Scottish Government's [Let's Get On](http://www.letsgeton.scot/) campaign.
 
 
 
