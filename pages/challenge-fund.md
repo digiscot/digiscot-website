@@ -2,6 +2,7 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
+alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible. 
 permalink: /resources/challenge-fund/
 ---
 

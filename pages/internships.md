@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Business Growth Internships
-excerpt: Charities and voluntary organisations have a huge amount to gain if they can make the most of new digital opportunities.
-alert: Currently accepting applications from host organisations in the Highlands and Islands.
+excerpt: We're supporting charities and voluntary organisations to make the most of new digital opportunities.
+alert: We are currently accepting applications from host organisations in the Highlands and Islands.
 permalink: /resources/internships/
 ---
 
@@ -23,16 +23,6 @@ It's also a great way to give people aged 18–30 (and with an HND qualification
 Host organisations and interns will also benefit from the support of carefully selected mentors from the Scottish technology sector, who will be there every step of the way to ensure the very best outcomes for both parties.
 
 ![ERDF](/images/erdf.jpg)
-
-
-
-## Information for job seekers
-
-You can view a list of available internship vacancies on the SCVO website.
-
-Once you have found a vacancy you are interested in you will need to speak to your local JobCentre Plus advisor to apply.
-
-<a href="http://www.scvo.net/Home/findyourdigitalinternjobsSCVOSITE.aspx" class="btn btn-primary btn-lg">View current vacancies</a>
 
 
 
@@ -58,3 +48,13 @@ Once your application has been submitted, our assessment team will review the ap
 Some [extra guidance notes](/resources/internships-guidance/) are available to help you complete your application.
 
 <a href="http://www.scvo.org.uk/jobs-employability/apply-to-host-a-business-growth-graduate-internship/" class="btn btn-primary btn-lg">Find out more and apply</a>
+
+
+
+## Information for job seekers
+
+You can view a list of available internship vacancies on the SCVO website.
+
+Once you have found a vacancy you are interested in you will need to speak to your local JobCentre Plus advisor to apply.
+
+<a href="http://www.scvo.net/Home/findyourdigitalinternjobsSCVOSITE.aspx" class="btn btn-primary btn-lg">View current vacancies</a>
