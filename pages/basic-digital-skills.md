@@ -52,7 +52,7 @@ For each of them the definition explains a bit about online safety, and gives ex
 
 * Understand how to manage identities
 * Protect yourself from scams
-* Use the right security/privacy settings (including parental controls)
+* Use the right security / privacy settings (including parental controls)
 
 #### Actions for individuals
 
@@ -70,7 +70,7 @@ For each of them the definition explains a bit about online safety, and gives ex
 
 ## 3. Transacting
 
-**Purchase and sell goods and services, organise your finances and register for and use digital government services.**
+**Purchase and sell goods and services, organise your finances, and register for and use digital government services.**
 
 #### Safety
 
