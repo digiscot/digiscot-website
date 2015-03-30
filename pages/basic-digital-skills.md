@@ -5,29 +5,37 @@ excerpt: The basic digital skills that people and organisations need to get thin
 permalink: /basic-digital-skills/
 ---
 
-We have adopted the [basic digital skills definition](http://www.go-on.co.uk/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills, and for each of them explains a bit about online safety, along with examples of what these skills should enable people and organisations to do.
+We have adopted the [basic digital skills definition](http://www.go-on.co.uk/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
+
+1. Managing information
+2. Communicating
+3. Transacting
+4. Problem solving
+5. Creating
+
+For each of them the definition explains a bit about online safety, and gives examples of what these skills should enable people and organisations to do.
 
 
 
-## Managing information
+## 1. Managing information
 
-Find, manage and store digital information and content.
+**Find, manage and store digital information and content.**
 
-### Safety
+#### Safety
 
 * Identify and assess accurate sources of information
 * Use security tools when browsing the web
 * Regularly update and run virus checking software
 * Manage parental controls
 
-### Actions for individuals
+#### Actions for individuals
 
 * Use a search engine to find the information you need
 * Search for deals on comparison websites
 * Bookmark useful websites and services you use often
 * Store data on a device or in the cloud
 
-### Actions for organisations
+#### Actions for organisations
 
 * Store digital information on suppliers and customers
 * Search for new suppliers to find the best deals
@@ -36,23 +44,23 @@ Find, manage and store digital information and content.
 
 
 
-## Communicating
+## 2. Communicating
 
-Communicate, interact, collaborate, share and connect with others.
+**Communicate, interact, collaborate, share and connect with others.**
 
-### Safety
+#### Safety
 
 * Understand how to manage identities
 * Protect yourself from scams
 * Use the right security/privacy settings (including parental controls)
 
-### Actions for individuals
+#### Actions for individuals
 
 * Keep in touch using email, instant messaging, video calls and social media
 * Post on forums to connect with communities
 * Leave feedback on shopping websites and services providers about purchases or experiences
 
-### Actions for organisations
+#### Actions for organisations
 
 * Maintain customer and client relationships
 * Use social media to promote your business and connect with new customers
@@ -60,17 +68,17 @@ Communicate, interact, collaborate, share and connect with others.
 
 
 
-## Transacting
+## 3. Transacting
 
-Purchase and sell goods and services; organise your finances; register for and use digital government services.
+**Purchase and sell goods and services, organise your finances and register for and use digital government services.**
 
-### Safety
+#### Safety
 
 * Use secure websites for financial transactions
 * Protect your personal data
 * Respect the privacy of others / third parties
 
-### Actions for individuals
+#### Actions for individuals
 
 * Complete a Universal Credit application
 * Order your shopping
@@ -78,7 +86,7 @@ Purchase and sell goods and services; organise your finances; register for and u
 * Manage your bank account
 * Understand and use marketplaces to buy and sell
 
-### Actions for organisations
+#### Actions for organisations
 
 * Maximise your selling potential through a website
 * Apply for government business permits and licences and save time
@@ -88,22 +96,22 @@ Purchase and sell goods and services; organise your finances; register for and u
 
 
 
-## Problem-solving
+## 4. Problem-solving
 
-Increase independence and confidence by solving problems using digital tools and finding solutions.
+**Increase independence and confidence by solving problems using digital tools and finding solutions.**
 
-### Safety
+#### Safety
 
 * Use accurate sources of support
 * Avoid malicious websites, scams and pop-up windows
 
-### Actions for individuals
+#### Actions for individuals
 
 * Teach yourself simple tasks using video lessons
 * Use feedback from other internet users to solve common problems
 * Access support services such as live chat
 
-### Actions for organisations
+#### Actions for organisations
 
 * Save on business travel and be more efficient by using video conferencing
 * Quickly understand which products and services work based on online feedback
@@ -112,24 +120,24 @@ Increase independence and confidence by solving problems using digital tools and
 
 
 
-## Creating
+## 5. Creating
 
-Engage with communities and create basic digital content.
+**Engage with communities and create basic digital content.**
 
-### Safety
+#### Safety
 
 * Be aware of copyright
 * Protect your personal data
 * Respect the privacy of others / third parties
 
-### Actions for individuals
+#### Actions for individuals
 
 * Create a social media post
 * Create a text document (e.g. CV)
 * Create and share a photo album
 * Create and share feedback using shopping websites
 
-### Actions for organisations
+#### Actions for organisations
 
 * Create content (pictures, logos, text) to promote your organisation and reach customers
 * Create communities around your services and products using social media to engage with customers
