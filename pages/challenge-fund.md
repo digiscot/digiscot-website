@@ -2,7 +2,7 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible. 
+alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible.
 permalink: /resources/challenge-fund/
 ---
 
@@ -17,7 +17,6 @@ All successful applicants will have a [project page on this website](/projects/)
 For more information please [contact us](/contact/).
 
 ![ERDF](/images/erdf.jpg)
-
 ## Call 2 (Spring 2015) 
 
 With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below:
