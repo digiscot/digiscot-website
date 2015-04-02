@@ -2,11 +2,10 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible.
+alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible. If you would like to see a list of successful Challenge Fund organisations please scroll down. 
 permalink: /resources/challenge-fund/
 ---
 
-* Please scroll down for a list of successful Challenge Fund applicants * 
 
 In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we will be awarding more than £200,000 to community digital participation projects across Scotland. This will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world. We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
 
