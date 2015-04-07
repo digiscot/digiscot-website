@@ -2,7 +2,7 @@
 layout: signatory
 title: Stay Bright Digital
 excerpt: 
-website:
+website: http://www.staybrightdigital.com/
 twitter: 
 email: martin@staybrightdigital.com
 image: /images/signatories/
