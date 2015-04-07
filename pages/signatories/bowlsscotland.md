@@ -4,7 +4,7 @@ title: Bowls Scotland
 excerpt: 
 website:
 twitter: 
-email: valwright@bowlsscotland.com
+email: 
 image: 
 permalink: /charter/bemis/bowlsscotland.md
 ---
