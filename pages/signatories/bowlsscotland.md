@@ -2,9 +2,9 @@
 layout: signatory
 title: Bowls Scotland
 excerpt: 
-website:
+website: http://www.bowlsscotland.com/
 twitter: 
-email: 
+email: valwright@bowlsscotland.com
 image: 
 permalink: /charter/bemis/bowlsscotland.md/
 ---
