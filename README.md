@@ -67,7 +67,7 @@ Or the relevant subfolder:
 
 ```
 /images/projects/
-/images/charter/
+/images/signatories/
 ```
 
 Please try to give your images sensible filenames!
