@@ -4,7 +4,7 @@ title: UPDATE
 excerpt: 
 website: http://www.update.org.uk/
 twitter: 
-email: 
+email: michelle.davitt@update.org.uk
 image: 
 permalink: /charter/update/
 ---
