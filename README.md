@@ -10,7 +10,7 @@ This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.
 /pages/
 ```
 
-**Profile pages** for challenge projects, charter signatories and internship placements are at:
+**Profile pages** for projects and charter signatories are at:
 
 ```
 /pages/projects/
