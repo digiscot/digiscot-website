@@ -42,6 +42,8 @@ For people who aren't able to search online, the same information is available b
 
 The directory supports the Scottish Government's [Let's Get On](http://www.letsgeton.scot/) campaign.
 
+[![Let's get on](/images/Letsgetonbutton-125x125.png)](http://www.letsgeton.scot/)
+
 ### Add your centre
 
 If you help people to get online and learn [basic digital skills](/basic-digital-skills/) then you can add your centre or organisation to the directory.
