@@ -5,7 +5,7 @@ excerpt:
 website: http://www.bowlsscotland.com/
 twitter: 
 email: valwright@bowlsscotland.com
-image: 
+image: images/signatories/bowls.jpg
 permalink: /charter/bemis/bowlsscotland.md/
 ---
 
