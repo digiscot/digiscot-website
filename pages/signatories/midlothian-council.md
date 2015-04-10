@@ -5,7 +5,7 @@ excerpt:
 website: http://www.midlothian.gov.uk/
 twitter: 
 email: 
-image: 
+image: /images/signatories/midlothian.jpg
 permalink: /charter/midlothian-council/
 ---
 
