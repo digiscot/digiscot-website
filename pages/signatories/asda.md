@@ -5,7 +5,7 @@ excerpt:
 website: http://www.asda.com/
 twitter: 
 email: polly.jones@asda.co.uk
-image: images/signatories/Asda.jpg/
+image: /images/signatories/Asda.jpg
 permalink: /charter/asda/
 ---
 
