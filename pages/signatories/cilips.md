@@ -5,7 +5,7 @@ excerpt:
 website: http://www.cilips.org.uk/
 twitter: 
 email: sean.mcnamara@cilips.org.uk
-image: /images/signatories/
+image: /images/signatories/cilips.jpg
 permalink: /charter/cilips/
 ---
 
