@@ -5,7 +5,7 @@ excerpt:
 website: http://linkhousing.org.uk/
 twitter: 
 email: craig.stephenson@linkhaltd.co.uk
-image: /images/signatories/
+image: /images/signatories/link.jpg
 permalink: /charter/link-group.md/ 
 ---
 
