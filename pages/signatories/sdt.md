@@ -5,7 +5,7 @@ excerpt:
 website: 
 twitter: 
 email: 
-image: /images/signatories/sdt.jpeg
+image: /images/signatories/sdt logo.jpeg
 permalink: /charter/sdt/
 ---
 
