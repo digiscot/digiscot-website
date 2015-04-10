@@ -5,7 +5,7 @@ excerpt:
 website: http://www.staybrightdigital.com/
 twitter: 
 email: martin@staybrightdigital.com
-image: /images/signatories/
+image: /images/signatories/staybright.jpg
 permalink: /charter/aberlour/staybrightdigital.md/ 
 ---
 
