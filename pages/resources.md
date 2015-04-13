@@ -66,7 +66,7 @@ You can apply for a Learn My Way code when you add your centre or organisation t
 
 We've partnered with [Storm ID](/charter/storm-id/) to offer a special discount for Scottish charities.
 
-<a href="" class="btn btn-primary btn-lg disabled">Coming soon</a>
+<a href="/twibbon/" class="btn btn-primary btn-lg">Get started</a>
 
 
 
