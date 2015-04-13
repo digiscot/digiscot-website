@@ -2,7 +2,7 @@
 layout: projects
 title: Projects
 excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
-alert: Projects funded in Call 2 for our challenge fund will be added soon.
+alert: Projects funded through Call 2 of our challenge fund (Spring 2015) will be added soon.
 permalink: /projects/
 ---
 
