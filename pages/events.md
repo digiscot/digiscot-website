@@ -2,7 +2,7 @@
 layout: page
 title: Digital Scotland Festival
 excerpt: Join us for a series of free networking and discussion events exploring all things digital.
-permalink: /festival/
+permalink: /events/
 ---
 
 We host regular, free events for people interested in digital participation in Scotland. These are great opportunities to find out what's going on, make new connections and learn from what other people are up to. If you would like more information about any of our events please [contact us](/contact/).
@@ -12,9 +12,9 @@ We host regular, free events for people interested in digital participation in S
 ## Upcoming events
 
 ### Digital Scotland Festival Western Isles
-Stornoway, Isle of Lewis. 14th May 2015
+Stornoway, Isle of Lewis, 14th May 2015
 
-For further information and to book a place please [click here](http://www.scvo.org.uk/events/digiscotfest-western-isles/)  
+For further information and to book a place please [click here](http://www.scvo.org.uk/events/digiscotfest-western-isles/).
 
 ## Past events
 
