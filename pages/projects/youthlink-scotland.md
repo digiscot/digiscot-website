@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 
+title: Coming Soon
 excerpt: 
 lead: Youthlink Scotland
 website: http://www.youthlinkscotland.org/
