@@ -9,7 +9,7 @@ twitter:
 facebook: 
 start: April 2015
 end: April 2016
-award: 
+award: £9901.36
 image:
 permalink: /projects/westscot/ 
 ---
