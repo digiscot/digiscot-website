@@ -1,7 +1,7 @@
 ---
 layout: project
 title: UR CIRCLE
-excerpt: 
+excerpt: Informal computer drop-in sessions to boost IT skills and reduce social isolation
 lead: Merkinch Community Centre
 website: http://www.merkinchcommunitycentre.co.uk/
 email: 
