@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Digital inclusion through entrepreneurship 
+title: Digital Inclusion through Entrepreneurship 
 excerpt: 
 lead: Flourish House
 website: http://www.flourishhouse.org.uk/
