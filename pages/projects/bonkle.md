@@ -9,7 +9,7 @@ twitter:
 facebook: 
 start: March 2015
 end: August 2015
-award: 
+award: £900
 image:
 permalink: /projects/bonkle/ 
 ---
