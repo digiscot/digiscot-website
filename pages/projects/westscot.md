@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Digital Inclusion Coordinator
-excerpt: Digital Inclusion Coordinator to assist in teaching digital skills 
+excerpt: Digital Inclusion Coordinator to teach digital skills 
 lead: West of Scotland Housing Association 
 website: http://www.westscot.co.uk/
 email: 
