@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Digital Inclusion through Entrepreneurship 
-excerpt: 
+excerpt: Developing IT skills and boosting organisational online fundraising activity 
 lead: Flourish House
 website: http://www.flourishhouse.org.uk/
 email: 
