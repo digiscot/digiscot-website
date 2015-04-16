@@ -7,8 +7,8 @@ website: http://www.home-start-majik.org.uk/
 email: 
 twitter: 
 facebook: https://www.facebook.com/Home.start.majik
-start: TBC
-end: TBC
+start: May 2015
+end: September 2015
 award: £7000
 image:
 permalink: /projects/homestart-majik/ 
@@ -18,23 +18,33 @@ permalink: /projects/homestart-majik/
 
 ### Project description
 
-TBC
-
+Digital skills training for people who are socially isolated
 
 ## Project milestones
 
 ### Phase 1
 
-TBC
+Base line questionnaire  
+
+Initial staff/vol training planning and networking  
+
+Basic how to guides developed
 
 ### Phase 2
 
-TBC
+Advertising and promotion design and raising awareness
 
 ### Phase 3
 
-TBC
+Increase awareness  & skills events  
 
+Training in homes 
+
+### Phase 4
+
+Develop and advertise
+
+Collate info for feedback
 
 
 ## Evaluation
