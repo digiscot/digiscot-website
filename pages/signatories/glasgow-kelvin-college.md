@@ -3,7 +3,7 @@ layout: signatory
 title: Glasgow Kelvin College
 excerpt: 
 website: http://www.glasgowkelvin.ac.uk/
-twitter: https://twitter.com/GKCollege
+twitter: GKCollege
 email: craig@glasgowkelvin.ac.uk
 image: /images/signatories/glasgow-kelvin-college.jpg
 permalink: /charter/glasgow-kelvin-college/
