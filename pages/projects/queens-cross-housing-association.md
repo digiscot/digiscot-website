@@ -31,7 +31,8 @@ Purchase of Equipment
 
 Advertising of activities
 
-https://pbs.twimg.com/media/CBHa-fOWoAAuzdx.jpg:large 
+![Historical Connections](https://pbs.twimg.com/media/CBHa-fOWoAAuzdx.jpg:large) 
+
 
 ### Phase 2 February - March 2015
 
