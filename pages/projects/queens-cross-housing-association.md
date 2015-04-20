@@ -31,8 +31,7 @@ Purchase of Equipment
 
 Advertising of activities
 
-<blockquote class="twitter-tweet" lang="en"><p>Look forward to hearing progress of Historical Connections <a href="https://twitter.com/QueensCrossHA">@QueensCrossHA</a> - unique project to help folk get online <a href="http://t.co/Sr3WuUa6zC">pic.twitter.com/Sr3WuUa6zC</a></p>&mdash; Rebecca Stafford (@digibecca) <a href="https://twitter.com/digibecca/status/581486594110132224">March 27, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+https://pbs.twimg.com/media/CBHa-fOWoAAuzdx.jpg:large 
 
 ### Phase 2 February - March 2015
 
