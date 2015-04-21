@@ -20,9 +20,6 @@ permalink: /projects/centre-nordic/
 
 CNS will work with elderly members of the Orkney Community to teach them how to use digital technology through the use of the app Fieldwork GB. People will be able to capture minor place-names and stories attached to specific places in the landscape. The data captured will be uploaded to a website, which will form a lasting legacy and which will also continuously be used to add more data. Participants will also be trained in scanning photographs and uploading other types of material to the project website.
 
-<blockquote class="twitter-tweet" lang="en"><p>Looking forward to today&#39;s kickoff event with all our lovely projects, kindly hosted by <a href="https://twitter.com/GCHalls">@GCHalls</a> :) Hashtag <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/Es9RzWq00c">pic.twitter.com/Es9RzWq00c</a></p>&mdash; Chris Yiu (@clry2) <a href="https://twitter.com/clry2/status/590445028687872000">April 21, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## Project milestones
 
