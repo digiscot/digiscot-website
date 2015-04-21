@@ -19,26 +19,27 @@ permalink: /projects/move-on/
 ### Project description
 
 Move On will provide IT Literacy skills to service users in Glasgow who have experienced homelessness or the care system.  This will be delivered by literacy tutors through one-to-one and group sessions on common IT tasks including internet/e-mail, intro to word processing and spreadsheets.  Service users will be identified through personal plans drawn up at the beginning of their engagement with our existing literacy programme.
+
 The project will also include setting up and moderating a secure online group for current and past service users to practise their skills and to facilitate monitoring their ongoing use of IT and the overall impact their increased skills and knowledge has on their lives.
 
 
 ## Project milestones
 
-###Phase 1
+### Phase 1
 
-Publicise service
-IT Literacy skills benchmarked
+- Publicise service
+- IT Literacy skills benchmarked
 
-###Phase 2
+### Phase 2
 
-Set up secure online group
-Monitor skills development
-Midway review
+- Set up secure online group
+- Monitor skills development
+- Midway review
 
-###Phase 3
+### Phase 3
 
-Service users regularly communicate via online group
-Project evaluation
+- Service users regularly communicate via online group
+- Project evaluation
 
 
 ## Evaluation
