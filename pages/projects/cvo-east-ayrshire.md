@@ -18,7 +18,9 @@ permalink: /projects/cvo-east-ayrshire/
 
 ### Project description
 
-Supporting community groups in East Ayrshire to increase their online presence and thereby widen their audience and increase participation in their activities and services. 
+58% of Scottish Charities don't have the digital skills they need within their organisation.  
+
+We want to help lower that number within East Ayshire for charities and other community organisations, using our trained volunteers to offer training and support to increase their online presence to widen their audience and increase participation in their activities and services. 
 
 
 ## Project milestones
