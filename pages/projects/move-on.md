@@ -24,6 +24,21 @@ The project will also include setting up and moderating a secure online group fo
 
 ## Project milestones
 
+###Phase 1
+
+Publicise service
+IT Literacy skills benchmarked
+
+###Phase 2
+
+Set up secure online group
+Monitor skills development
+Midway review
+
+###Phase 3
+
+Service users regularly communicate via online group
+Project evaluation
 
 
 ## Evaluation
