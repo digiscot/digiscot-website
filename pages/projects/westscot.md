@@ -20,6 +20,7 @@ permalink: /projects/westscot/
 
 This project will employ a part-time Digital Inclusion Communications Coordinator at our Inclusive Learning Centre. The Coordinator role will include facilitating the ILC’s operation, registering new users and assisting service users in getting the most out of equipment and software. The Coordinator will also liaise with key partners and other local service users - particularly existing G31 Centre users - to create sustainable partnerships and encourage further cross-demographic use of the ILC facilities, focusing in particular at engaging the Over 60s tenants, Benefit Seekers and those with mental and physical disabilities. This will be achieved through organising focus groups and holding workshop sessions to identify key needs, and subsequently generating project ideas to meet these needs.
 
+Temp change.
 
 ## Project milestones
 
