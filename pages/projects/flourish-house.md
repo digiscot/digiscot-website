@@ -5,7 +5,7 @@ excerpt: Developing IT skills and boosting organisational online fundraising act
 lead: Flourish House
 website: http://www.flourishhouse.org.uk/
 email: 
-twitter: @flourishhouse1 
+twitter: flourishhouse1 
 facebook: 
 start: May 2015
 end: March 2016
