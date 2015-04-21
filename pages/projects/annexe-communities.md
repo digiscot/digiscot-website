@@ -26,6 +26,8 @@ Here's a new paragraph. We're talking about digital participation!
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJNR2EpS0jw" frameborder="0" allowfullscreen></iframe>
+
 ## Project milestones
 
 ### Phase 1 - January
