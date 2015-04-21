@@ -20,6 +20,8 @@ permalink: /projects/annexe-communities/
 
 Delivery of eight basic digital skills training course for older residents of west Glasgow, including training and capacity building of older volunteers as peer tutors.
 
+Here's a new paragraph. We're talking about digital participation!
+
 
 ## Project milestones
 
