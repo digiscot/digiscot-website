@@ -5,8 +5,8 @@ excerpt: Improving the digital capability of SCoD to better support and communic
 lead: Scottish Council on Deafness
 website: http://www.scod.org.uk/
 email: admin@scod.org.uk
-twitter: 
-facebook: 
+twitter: https://twitter.com/scodmedia
+facebook: https://www.facebook.com/pages/Scottish-Council-on-Deafness-SCoD/753972261325368?fref=ts
 start: February 2015
 end: June 2015
 award: £2000
@@ -18,7 +18,7 @@ permalink: /projects/scottish-council-on-deafness/
 
 ### Project description
 
-Developing SCoD's digital infrastructure to faciliate better communication with members and to help develop and grow support for the deaf sector, particularly with regards to digital skills. 
+Developing SCoD's digital infrastructure to facilitate better communication with SCoD Members and to help develop and grow support for the deaf sector, particularly with regards to digital skills. 
 
 
 ## Project milestones
