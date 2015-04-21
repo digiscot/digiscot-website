@@ -2,14 +2,14 @@
 layout: project
 title: IT for total beginners
 excerpt: 
-lead: SHIMCA
+lead: SHIMCA (Scottish Highlands & Islands and Moray Chinese Association)
 website: 
-email: 
+email: shimca.org.uk@gmail.com 
 twitter: 
 facebook: 
-start: January 2015
-end: December 2015
-award: 
+start: June 2015
+end: July 2015
+award:£3110 
 image:
 permalink: /projects/shimca/ 
 ---
