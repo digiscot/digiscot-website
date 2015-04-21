@@ -27,7 +27,9 @@ The Creative Digital Club (CDC) will be a project that uses creative digital act
 ### Phase 1
 
 Plan delivery of digital creative club, establish links with stakeholders and obtain equipment.
+
 We've been shopping for all our new digital equipment and have teamed up with Citizens Online to run a Digital Champions Course. Our first four week course starts next Tuesday and we're already oversubscribed.
+
 ### Phase 2
 
 Homeless Club: Deliver digital creative club for people who are homeless.
