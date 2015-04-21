@@ -22,6 +22,8 @@ Delivery of eight basic digital skills training course for older residents of we
 
 Here's a new paragraph. We're talking about digital participation!
 
+[Here is a link to a gallery](http://digitallyagilecld.org)
+
 <blockquote class="twitter-tweet" lang="en"><p>Lovely Liz from <a href="https://twitter.com/BTBetterFuture">@BTBetterFuture</a> <a href="https://twitter.com/BTScotlandNews">@BTScotlandNews</a> sharing brilliant successes <a href="https://twitter.com/hashtag/digtalinclusion?src=hash">#digtalinclusion</a> <a href="https://twitter.com/hashtag/digiscot2015?src=hash">#digiscot2015</a> <a href="https://twitter.com/hashtag/g2015?src=hash">#g2015</a> <a href="http://t.co/tJsGSgy4Fp">pic.twitter.com/tJsGSgy4Fp</a></p>&mdash; Irene Mackintosh (@irenewarnermack) <a href="https://twitter.com/irenewarnermack/status/570609895927623680">February 25, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
