@@ -3,10 +3,10 @@ layout: project
 title: Move On IT Literacy Project
 excerpt: IT literacy skills for homeless people and care leavers in Glasgow
 lead: Move On
-website: http://www.move-on.org.uk/
-email: 
-twitter: 
-facebook: 
+website: http://www.moveon.org.uk/
+email: mail@moveon.org.uk
+twitter: @moveonscotland
+facebook: https://www.facebook.com/MoveOnScotland
 start: April 2015
 end: March 2016
 award: £6440
