@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Gadget Geekery
+title: Get to know the Internet
 excerpt: Basic digital and online skills training
 lead: North Highland Language Centre
 website: http://www.nhlanguagecentre.com/
