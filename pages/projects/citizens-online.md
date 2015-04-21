@@ -11,7 +11,7 @@ start: May 2015
 end: August 2015
 award: £15,000
 image:
-permalink: /projects/citizens-online/ 
+permalink: /projects/citizens-online/
 ---
 
 ## Project plan
