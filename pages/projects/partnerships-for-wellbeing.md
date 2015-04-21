@@ -24,7 +24,7 @@ To encourage walkers in Step It Up Highland walking groups to engage with digita
 ## Project milestones
 
 
-[This is our first attempt at recording a walk in Fortrose] (http://youtu.be/-DL-L1MrYEU)
+[This is our first attempt at recording a walk in Fortrose] (https://www.youtube.com/watch?v=-DL-L1MrYEU&feature=youtu.be)
 
 
 
