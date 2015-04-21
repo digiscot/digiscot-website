@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Colonsay Captured
-excerpt: Growing community resources with a website and the digitisation of historial archives
+excerpt: Growing community resources with a website and the digitisation of historic archives
 lead: Colonsay and Oransay Heritage Trust
 website: http://www.spanglefish.com/ColonsayandOransayHeritageTrust/
 email: 
