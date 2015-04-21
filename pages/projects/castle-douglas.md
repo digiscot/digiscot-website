@@ -3,7 +3,7 @@ layout: project
 title: Take a Tablet
 excerpt: Tablet training for older people
 lead: Castle Douglas Community IT Centre
-website: 
+website: [The IT Centre](http://new.theitcentre.org.uk)
 email: 
 twitter: 
 facebook: 
