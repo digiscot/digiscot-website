@@ -20,10 +20,9 @@ permalink: /projects/merkinch-partnership/
 
 We want to deliver a project in Merkinch which supports local people living in poverty to access online services and resources which will help them to build skills, improve their economic circumstances and give them opportunities to build new links in their own community.The project will deliver a rolling programme of information sessions and practical skills activities for 7 hours per week on the following topics – using the internet, basic literacy, online banking, access to affordable credit, comparing fuel tariffs online and the benefits system. The project will have several outcomes- local people will have increased access to digital services and resources, they will have increased skills and confidence, the project will reduce poverty and increase financial inclusion, fuel poverty will be reduced, more people will have access to affordable credit and incomes will be increased.
 
-
 ## Project milestones
 
-
+im at royal concert hall learning git hub
 
 ## Evaluation
 
