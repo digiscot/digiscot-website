@@ -55,7 +55,7 @@ With 150 great applications received for Call 2, we are delighted to announce th
 * Co Chomunn na Pairce
 * Scottish Women's Aid
 
-[Project pages](/projects/) for all of these organisations will follow shortly. We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/). 
+You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/). 
 
 
 
