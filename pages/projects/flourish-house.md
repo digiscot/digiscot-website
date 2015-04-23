@@ -23,6 +23,36 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 
 ## Project milestones
 
+###May 2015
+- Purchase of hardware - 2 x laptops and 1 x tablets
+- Recruit 5 peer mentors and volunteers to help support IT courses
+-  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
+
+###June 2015
+- Develop and deliver 4 week Internet Safety Course (deliver in June and again in September)
+
+
+###July 2015
+- Develop and deliver EBay Training Module and support (delivered in July/August and repeated in January 2016)
+- Develop and deliver 3 week Mobile Smart Phone Course 
+
+###August 2015
+- Deliver 2nd 7 week IT Skills Course 
+
+###September 2015
+- Deliver 2nd 4 week Internet Safety Course
+
+###November 2015
+- Recruit more peer mentors and volunteers from past participants of courses
+
+###December 2015
+
+###January 2015
+- Deliver Ebay Training Module and support. 
+
+###February 2015
+
+###March 2015
 
 
 ## Evaluation
