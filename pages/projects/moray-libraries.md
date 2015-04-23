@@ -15,8 +15,10 @@ permalink: /projects/moray-libraries/
 ---
 
 ## Project plan
+Get DigITal Clubs will target older people, people with disabilities and job seekers with little or no ICT experience. Participants will undertake a  4 week  (2 hours per week) basic ICT course run by one of our Learning Centre Advisers and then be supported ,to practice their new skills, by volunteers recruited from learners who have: completed one of our accredited courses; or who have declared an interest as a result of our advertising campaign
 
 ### Project description
+
 
 
 
