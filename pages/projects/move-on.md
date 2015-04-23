@@ -28,7 +28,7 @@ The project will also include setting up and moderating a secure online group fo
 ### Phase 1
 
 - Publicise service
-- IT Literacy skills benchmarked
+- IT literacy skills benchmarked
 
 ### Phase 2
 
