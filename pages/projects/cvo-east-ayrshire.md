@@ -5,7 +5,7 @@ excerpt: TransmIT (Training in Social Media and IT).
 lead: CVO East Ayrshire 
 website: http://www.cvoea.co.uk/
 email: info@cvoea.co.uk
-twitter: @cvoea
+twitter: cvoea
 facebook: https://www.facebook.com/CVOEA
 start: February 2015
 end: TBC
