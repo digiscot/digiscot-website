@@ -5,7 +5,7 @@ excerpt:
 website: http://ecomscotland.com/
 twitter-url: 
 email: wendy.edie@ecomscotland.com
-image: /images/signatories/
+image: 
 permalink: /charter/ecom-scotland/
 ---
 

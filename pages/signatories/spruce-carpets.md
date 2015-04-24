@@ -5,7 +5,7 @@ excerpt:
 website: http://www.sprucecarpets.org.uk/
 twitter-url: 
 email: 
-image: /images/signatories/
+image: 
 permalink: /charter/spruce-carpets/
 ---
 

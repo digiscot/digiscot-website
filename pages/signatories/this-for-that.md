@@ -5,7 +5,7 @@ excerpt:
 website: 
 twitter-url: 
 email: donagh@thisforthat.org.uk
-image: /images/signatories/
+image: 
 permalink: /charter/this-for-that/
 ---
 

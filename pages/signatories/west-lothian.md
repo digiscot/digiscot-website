@@ -5,7 +5,7 @@ excerpt:
 website: http://www.westlothian.gov.uk/
 twitter-url: 
 email: elaine.nisbet@westlothian.gov.uk
-image: /images/signatories/
+image: 
 permalink: /charter/west-lothian/
 ---
 
