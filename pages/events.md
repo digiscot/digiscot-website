@@ -23,7 +23,7 @@ Royal Concert Hall, Glasgow, 21st April 2015
 
 On the 21st April, we invited all of the 53 projects that we're supporting through the [Digital Challenge Fund](http://digital.scvo.org.uk/projects/) along with some of the fantastic [Charter](http://digital.scvo.org.uk/charter/) signatories to meet, share their stories and forge new partnerships.  Check out the video below for a quick insight into the event.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/jqvS6WxepNQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jqvS6WxepNQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Past events
 
