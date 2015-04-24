@@ -21,7 +21,7 @@ For further information and to book a place please [click here](http://www.scvo.
 ### DigiScot Glasgow
 Royal Concert Hall, Glasgow, 21st April 2015
 
-On the 21st April, we invited all of the 53 projects that we're supporting through the [Digital Challenge Fund](http://digital.scvo.org.uk/projects/) along with some of the fantastic [Charter](http://digital.scvo.org.uk/charter/) signatories to meet, share their stories and forge new partnerships.  Check out the video below for a quick insight into the event.
+On the 21st April, we invited all of the 53 projects that we're supporting through the [Digital Challenge Fund](http://digital.scvo.org.uk/projects/) along with some of the fantastic [Charter](http://digital.scvo.org.uk/charter/) signatories to meet, share their stories and forge new partnerships.  Check out the video below for a quick insight into the event.  This event was hosted with the kind support of [Glasgow Life](http://www.glasgowlife.org.uk/Pages/default.aspx).
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jqvS6WxepNQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
