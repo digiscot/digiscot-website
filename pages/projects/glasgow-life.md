@@ -5,8 +5,8 @@ excerpt: Online learning resource for staff working with client groups least lik
 lead: Glasgow Life
 website: http://www.glasgowlife.org.uk/Pages/default.aspx
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: October 2015
 award: £7970.79

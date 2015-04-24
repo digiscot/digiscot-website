@@ -3,7 +3,7 @@ layout: signatory
 title: Strive
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/strive.jpg
 permalink: /charter/strive/

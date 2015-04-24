@@ -3,7 +3,7 @@ layout: signatory
 title: Virgin Media
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/virgin-media.jpg
 permalink: /charter/virgin-media/

@@ -3,7 +3,7 @@ layout: signatory
 title: Rathbone
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/rathbone.jpg
 permalink: /charter/rathbone/

@@ -5,8 +5,8 @@ excerpt: Accredited IT skills training.
 lead: Spruce Carpets
 website: http://www.sprucecarpets.org.uk/
 email: 
-twitter: 
-facebook: https://www.facebook.com/SpruceCarpets
+twitter-url:
+facebook-url: https://www.facebook.com/SpruceCarpets
 start: February 2015
 end: June 2015
 award: £1,600

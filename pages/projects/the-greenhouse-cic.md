@@ -5,8 +5,8 @@ excerpt: IT equipment and digital skills sessions for the community
 lead: The Greenhouse Shop CIC
 website: 
 email: 
-twitter: 
-facebook: https://www.facebook.com/thegreenhousedingwall 
+twitter-url:
+facebook-url: https://www.facebook.com/thegreenhousedingwall 
 start: January 2015
 end: August 2015
 award: £5636

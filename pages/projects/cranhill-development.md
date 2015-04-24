@@ -5,8 +5,8 @@ excerpt: Click and Connect Learning Centre in Ruchazie Parish Church
 lead: Cranhill Development Trust
 website: http://www.cranhilldt.co.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £8721.91

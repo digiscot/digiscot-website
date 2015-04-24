@@ -3,7 +3,7 @@ layout: signatory
 title: Helensburgh Heroes
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/helensburgh-heroes.jpg
 permalink: /charter/helensburgh-heroes/

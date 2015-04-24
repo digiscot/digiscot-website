@@ -3,7 +3,7 @@ layout: signatory
 title: NHS Health Scotland
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/nhs-health-scotland.jpg
 permalink: /charter/nhs-health-scotland/

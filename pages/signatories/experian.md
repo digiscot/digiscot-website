@@ -3,7 +3,7 @@ layout: signatory
 title: Experian
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/experian.jpg
 permalink: /charter/experian/

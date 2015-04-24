@@ -3,7 +3,7 @@ layout: signatory
 title: Learndirect
 excerpt: 
 website: http://www.learndirect.com/ 
-twitter: learndirect
+twitter-url: https://twitter.com/learndirect
 email: 
 image: /images/signatories/learndirect.jpg
 permalink: /charter/learndirect/

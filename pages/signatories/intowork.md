@@ -3,7 +3,7 @@ layout: signatory
 title: Intowork
 excerpt: 
 website: http://www.intowork.org.uk/
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/intowork/ 

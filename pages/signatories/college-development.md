@@ -3,7 +3,7 @@ layout: signatory
 title: College Development Network
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: colin.buchanan@cdn.ac.uk
 image: 
 permalink: /charter/college-development/

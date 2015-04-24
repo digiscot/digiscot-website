@@ -3,7 +3,7 @@ layout: signatory
 title: Reuse My PC
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/reuse-my-pc.jpg
 permalink: /charter/reuse-my-pc/

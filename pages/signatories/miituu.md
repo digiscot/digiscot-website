@@ -3,7 +3,7 @@ layout: signatory
 title: Miituu
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/miituu.jpg
 permalink: /charter/miituu/

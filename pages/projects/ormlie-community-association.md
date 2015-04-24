@@ -5,8 +5,8 @@ excerpt: Supported digital access and improving IT skills.
 lead: Ormlie Community Association
 website: http://www.ormlie.org/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: January 2016
 award: £10,000

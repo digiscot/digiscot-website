@@ -3,7 +3,7 @@ layout: signatory
 title: NHS 24
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/nhs-24.jpg
 permalink: /charter/nhs-24/

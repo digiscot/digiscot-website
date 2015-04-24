@@ -5,8 +5,8 @@ excerpt: Digital skills lessons and tutoring
 lead: Applecross Community Company
 website: http://www.applecrosscommunitycompany.org/
 email: 
-twitter: 
-facebook: https://www.facebook.com/applecrosscommunitycompany
+twitter-url:
+facebook-url: https://www.facebook.com/applecrosscommunitycompany
 start: March 2015
 end: February 2016
 award: £6250

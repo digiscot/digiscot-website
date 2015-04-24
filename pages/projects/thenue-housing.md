@@ -5,8 +5,8 @@ excerpt: Volunteer Digital Champions programme
 lead: Thenue Housing Association
 website: http://www.thenuehousing.co.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: March 2015
 end: March 2016
 award: £10,000

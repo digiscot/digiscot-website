@@ -3,7 +3,7 @@ layout: signatory
 title: CalMac Ferries
 excerpt: 
 website: http://www.calmac.co.uk/
-twitter: 
+twitter-url:
 email: Elaine.Dyer@calmac.co.uk
 image: /images/signatories/calmac.png
 permalink: /charter/calmac-ferries/

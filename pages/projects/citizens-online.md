@@ -5,8 +5,8 @@ excerpt: Variety of digital participation activity across the Highlands
 lead: Citizens Online
 website: http://www.citizensonline.org.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: May 2015
 end: August 2015
 award: £15,000

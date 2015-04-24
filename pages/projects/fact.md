@@ -5,8 +5,8 @@ excerpt: Training programme for online learning and activity in Forres.
 lead: Forres Area Community Trust
 website: http://forresarea.org/
 email: info@forresarea.org
-twitter: Forres_Area
-facebook: https://www.facebook.com/forresarea
+twitter-url: Forres_Area
+facebook-url: https://www.facebook.com/forresarea
 start: May 2015
 end: Dec 2015
 award: £6440

@@ -3,7 +3,7 @@ layout: signatory
 title: Blackwood
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/blackwood.jpg
 permalink: /charter/blackwood/

@@ -3,7 +3,7 @@ layout: signatory
 title: UcanDoIT
 excerpt: 
 website: http://www.ucandoit.org.uk/node/18952 
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/ucandoit/

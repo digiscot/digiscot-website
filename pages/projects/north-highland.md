@@ -5,8 +5,8 @@ excerpt: Basic digital and online skills training
 lead: North Highland Language Centre
 website: http://www.nhlanguagecentre.com/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: May 2015
 end: September 2015
 award: £4050

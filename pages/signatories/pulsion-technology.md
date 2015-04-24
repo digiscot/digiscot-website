@@ -3,7 +3,7 @@ layout: signatory
 title: Pulsion Technology
 excerpt: 
 website: http://www.pulsion.co.uk/
-twitter: 
+twitter-url:
 email: keri.houston@pulsion.co.uk
 image: 
 permalink: /charter/pulsion-technology/

@@ -3,7 +3,7 @@ layout: signatory
 title: Deaf Connections
 excerpt: 
 website: http://www.deafconnections.co.uk/
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/deafconnections/

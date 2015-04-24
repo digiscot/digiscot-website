@@ -5,8 +5,8 @@ excerpt: Get on in life workshop programme - LinkedIn workshops.
 lead: Project Scotland
 website: http://www.projectscotland.co.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: January 2015
 end: March 2016
 award: £4019.59

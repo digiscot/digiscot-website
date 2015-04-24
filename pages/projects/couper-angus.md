@@ -5,8 +5,8 @@ excerpt: Basic digital skills lessons for local people
 lead: Couper Angus Regeneration Trust
 website: http://www.coupar-angus.org/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: February 2015
 end: December 2015
 award: £860

@@ -5,8 +5,8 @@ excerpt: Drop-in digital training sessions
 lead: Co Chomunn na Pairce
 website: http://www.youthlinkscotland.org/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: May 2015
 end: December 2015
 award: £1350

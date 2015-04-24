@@ -3,7 +3,7 @@ layout: signatory
 title: Scottish Council for Voluntary Organisations
 excerpt: 
 website: http://www.scvo.org.uk
-twitter: scvotweet
+twitter-url: https://twitter.com/scvotweet
 email: enquiries@scvo.org.uk
 image: /images/signatories/scvo.jpg
 permalink: /charter/scvo/

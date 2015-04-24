@@ -3,7 +3,7 @@ layout: signatory
 title: R3D
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/r3d.png
 permalink: /charter/r3d/

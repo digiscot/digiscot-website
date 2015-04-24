@@ -3,7 +3,7 @@ layout: signatory
 title: Snook
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/snook.jpg
 permalink: /charter/snook/

@@ -3,7 +3,7 @@ layout: signatory
 title: Lead Scotland
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/lead-scotland.jpg
 permalink: /charter/lead-scotland/

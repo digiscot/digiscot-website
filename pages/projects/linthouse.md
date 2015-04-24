@@ -5,8 +5,8 @@ excerpt: IT workshops
 lead: Linthouse Monday club
 website: 
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: TBC
 end: TBC
 award: £1000

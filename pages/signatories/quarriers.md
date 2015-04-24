@@ -3,7 +3,7 @@ layout: signatory
 title: Quarriers
 excerpt: 
 website: http://www.quarriers.org.uk
-twitter: quarriers
+twitter-url: https://twitter.com/quarriers
 email: 
 image: /images/signatories/quarriers.jpg
 permalink: /charter/quarriers/

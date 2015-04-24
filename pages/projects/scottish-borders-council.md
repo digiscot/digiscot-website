@@ -5,8 +5,8 @@ excerpt: Introduction to IT and the internet
 lead: Scottish Borders Council
 website: http://www.scotborders.gov.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: May 2015
 end: March 2016
 award: £4163

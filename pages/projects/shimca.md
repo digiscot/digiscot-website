@@ -5,8 +5,8 @@ excerpt:
 lead: SHIMCA (Scottish Highlands & Islands and Moray Chinese Association)
 website: 
 email: shimca.org.uk@gmail.com 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: June 2015
 end: July 2015
 award: £3110 

@@ -5,8 +5,8 @@ excerpt: Improving the digital capability of SCoD to better support and communic
 lead: Scottish Council on Deafness
 website: http://www.scod.org.uk/
 email: admin@scod.org.uk
-twitter: scodmedia
-facebook: https://www.facebook.com/pages/Scottish-Council-on-Deafness-SCoD/753972261325368?fref=ts
+twitter-url: scodmedia
+facebook-url: https://www.facebook.com/pages/Scottish-Council-on-Deafness-SCoD/753972261325368?fref=ts
 start: February 2015
 end: June 2015
 award: £2000

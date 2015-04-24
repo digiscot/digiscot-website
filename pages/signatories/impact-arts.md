@@ -3,7 +3,7 @@ layout: signatory
 title: Impact Arts
 excerpt: 
 website: http://impactarts.co.uk/
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/impact-arts.jpg
 permalink: /charter/impact-arts/

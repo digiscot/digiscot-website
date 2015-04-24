@@ -3,7 +3,7 @@ layout: signatory
 title: North Ayrshire Council
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/north-ayrshire-council.jpg
 permalink: /charter/north-ayrshire-council/

@@ -3,7 +3,7 @@ layout: signatory
 title: Digital Outreach
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/digital-outreach.jpg
 permalink: /charter/digital-outreach/

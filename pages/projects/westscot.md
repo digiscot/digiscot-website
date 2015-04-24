@@ -5,8 +5,8 @@ excerpt: Digital Inclusion Coordinator to teach digital skills
 lead: West of Scotland Housing Association 
 website: http://www.westscot.co.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: April 2016
 award: £9901.36

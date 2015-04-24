@@ -3,7 +3,7 @@ layout: signatory
 title: BT
 excerpt: 
 website: http://www.bt.com
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/bt.jpg
 permalink: /charter/bt/

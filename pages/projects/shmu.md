@@ -5,8 +5,8 @@ excerpt: Online community portal
 lead: Station House Media Unit (shmu)
 website: http://www.shmu.org.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: TBC
 end: TBC
 award: £10,000

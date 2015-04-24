@@ -5,8 +5,8 @@ excerpt: To encourage engagement with and confidence in digital technology
 lead: Partnerships for Wellbeing
 website: http://www.pfw.org.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: May 2015
 end: March 2016
 award: £5200

@@ -5,8 +5,8 @@ excerpt:
 lead: Deaf Connections 
 website: http://www.deafconnections.co.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £9959

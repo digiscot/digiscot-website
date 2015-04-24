@@ -3,7 +3,7 @@ layout: signatory
 title: Happus.eu
 excerpt: 
 website: http://www.happus.eu/
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/happus-eu/

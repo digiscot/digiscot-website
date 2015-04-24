@@ -3,7 +3,7 @@ layout: signatory
 title: YouthLink
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/youthlink.jpg
 permalink: /charter/youthlink/

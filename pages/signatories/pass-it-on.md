@@ -3,7 +3,7 @@ layout: signatory
 title: Pass IT On
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/pass-it-on.jpg
 permalink: /charter/pass-it-on/

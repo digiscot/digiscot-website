@@ -5,8 +5,8 @@ excerpt: Using creative digital activities to engage with hard to reach individu
 lead: The Libertie Project
 website: http://www.libertie.biz/ 
 email: 
-twitter: 
-facebook: https://www.facebook.com/libertieproject 
+twitter-url:
+facebook-url: https://www.facebook.com/libertieproject 
 start: January 2015
 end: November 2015
 award: £9,700

@@ -3,7 +3,7 @@ layout: signatory
 title: Shapinsay Development Trust
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/sdt logo.jpg
 permalink: /charter/sdt/

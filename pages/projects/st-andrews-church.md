@@ -5,8 +5,8 @@ excerpt: Teaching basic computer skills alongside job search support and literac
 lead: St Andrews Church (Havilah Project)
 website: http://www.arbroathstandrews.org.uk/index.php/what-we-do/serve/locally/havilah/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: February 2016
 award: £323

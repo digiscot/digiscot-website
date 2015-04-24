@@ -18,7 +18,7 @@ layout: default
       
       {{ content }}
       
-      {% if page.website or page.twitter or page.email %}
+      {% if page.website or page.twitter-url or page.email %}
       <h4>Contact details</h4>
       {% endif %}   
       
@@ -26,8 +26,8 @@ layout: default
       <p>Website: <a href="{{ page.website }}">{{ page.website }}</a></p>
       {% endif %}
       
-      {% if page.twitter %}
-      <p>Twitter: <a href="{{ page.twitter | prepend: "https://twitter.com/" }}">@{{ page.twitter }}</a></p>
+      {% if page.twitter-url %}
+      <p>Twitter: <a href="{{ page.twitter-url }}">{{ page.twitter-url }}</a></p>
       {% endif %}
       
       {% if page.email %}

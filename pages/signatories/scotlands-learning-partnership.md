@@ -3,7 +3,7 @@ layout: signatory
 title: Scotland's Learning Partnership
 excerpt: 
 website: http://www.salp.org.uk/
-twitter: 
+twitter-url:
 email: info@scotlandslearning.org.uk
 image: 
 permalink: /charter/scotlands-learning-partnership/ 

@@ -3,7 +3,7 @@ layout: signatory
 title: Wheatley Group
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/wheatley-group.jpg
 permalink: /charter/wheatley-group/

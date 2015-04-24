@@ -5,8 +5,8 @@ excerpt: Basic digital skills training for tenants
 lead: Blackwood
 website: http://www.blackwoodgroup.org.uk/
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £10,000

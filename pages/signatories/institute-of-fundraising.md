@@ -3,7 +3,7 @@ layout: signatory
 title: Institute of Fundraising 
 excerpt: 
 website: http://www.institute-of-fundraising.org.uk/home/
-twitter: 
+twitter-url:
 email: rebeccac@institute-of-fundraising.org.uk
 image: 
 permalink: /charter/institute-of-fundraising/

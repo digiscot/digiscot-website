@@ -3,7 +3,7 @@ layout: signatory
 title: Wise Group
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/wise-group.jpg
 permalink: /charter/wise-group/

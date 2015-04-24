@@ -3,7 +3,7 @@ layout: signatory
 title: Silver City Surfers
 excerpt: 
 website: http://silvercitysurfers.co.uk/
-twitter: 
+twitter-url:
 email: Silvercitysurfers@gmail.com
 image: 
 permalink: /charter/silver-city-surfers/

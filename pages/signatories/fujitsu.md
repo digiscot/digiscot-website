@@ -3,7 +3,7 @@ layout: signatory
 title: Fujitsu
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/fujitsu.jpg
 permalink: /charter/fujitsu/

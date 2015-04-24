@@ -3,7 +3,7 @@ layout: signatory
 title: Learning link
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/learning-link.jpg
 permalink: /charter/learning-link/

@@ -5,8 +5,8 @@ excerpt: Support group to help adults with aphasia explore the benefits of techn
 lead: Dundee Augmentative and Alternative Communication (AAC) Research Group, University of Dundee
 website:
 email: 
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: May 2015
 end: November 2015
 award: £7250

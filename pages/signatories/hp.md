@@ -3,7 +3,7 @@ layout: signatory
 title: HP
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/hp.jpg
 permalink: /charter/hp/

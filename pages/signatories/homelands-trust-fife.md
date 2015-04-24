@@ -3,7 +3,7 @@ layout: signatory
 title: Homelands Trust Fife
 excerpt: 
 website: http://homelands-fife.co.uk/
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/homelands-trust-fife/

@@ -3,7 +3,7 @@ layout: signatory
 title: Citizens Online
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/citizens-online.jpg
 permalink: /charter/citizens-online/

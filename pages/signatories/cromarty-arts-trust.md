@@ -3,7 +3,7 @@ layout: signatory
 title: Cromarty Arts Trust
 excerpt: 
 website:
-twitter: 
+twitter-url:
 email: info@cromartyartstrust.org.uk
 image: 
 permalink: /charter/cromarty-arts-trust/ 

@@ -3,7 +3,7 @@ layout: signatory
 title: Patient Opinion
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/patient-opinion.jpg
 permalink: /charter/patient-opinion/

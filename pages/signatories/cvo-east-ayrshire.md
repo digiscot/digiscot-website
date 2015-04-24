@@ -3,7 +3,7 @@ layout: signatory
 title: CVO East Ayrshire
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/cvo-east-ayrshire.jpg
 permalink: /charter/cvo-east-ayrshire/

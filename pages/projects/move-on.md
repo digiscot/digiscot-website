@@ -5,8 +5,8 @@ excerpt: IT literacy skills for homeless people and care leavers in Glasgow
 lead: Move On
 website: http://www.moveon.org.uk/
 email: mail@moveon.org.uk
-twitter: moveonscotland
-facebook: https://www.facebook.com/MoveOnScotland
+twitter-url: moveonscotland
+facebook-url: https://www.facebook.com/MoveOnScotland
 start: April 2015
 end: March 2016
 award: £6440

@@ -3,7 +3,7 @@ layout: signatory
 title: Aberlour
 excerpt: 
 website: http://www.aberlour.org.uk
-twitter: AberlourCCT
+twitter-url: https://twitter.com/AberlourCCT
 email: enquiries@aberlour.org.uk
 image: /images/signatories/aberlour.jpg
 permalink: /charter/aberlour/

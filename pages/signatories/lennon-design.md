@@ -3,7 +3,7 @@ layout: signatory
 title: Lennon Design
 excerpt: 
 website: http://lennondesign.co.uk/
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/lennon-design/

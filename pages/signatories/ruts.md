@@ -3,7 +3,7 @@ layout: signatory
 title: RUTS
 excerpt: 
 website: http://ruts.org.uk/
-twitter: 
+twitter-url:
 email: 
 image: 
 permalink: /charter/ruts/

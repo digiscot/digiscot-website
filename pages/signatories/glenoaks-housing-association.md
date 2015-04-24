@@ -3,7 +3,7 @@ layout: signatory
 title: Glen Oaks Housing Association
 excerpt: 
 website: http://www.glenoaks.org.uk/
-twitter: 
+twitter-url:
 email: jean.murray@glenoaks.org.uk
 image: /images/signatories/glen-oaks.jpg
 permalink: /charter/glenoaks-housing-association/ 

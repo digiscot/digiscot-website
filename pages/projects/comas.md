@@ -5,8 +5,8 @@ excerpt: Digital skills sessions to help disadvantaged people use online service
 lead: Comas
 website: http://www.comas.org.uk/
 email: mail@comas.org.uk
-twitter: 
-facebook: 
+twitter-url:
+facebook-url: 
 start: January 2015
 end: December 2015
 award: £9985

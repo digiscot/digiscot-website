@@ -3,7 +3,7 @@ layout: signatory
 title: Capita
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/capita.jpg
 permalink: /charter/capita/

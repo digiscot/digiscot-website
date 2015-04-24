@@ -3,7 +3,7 @@ layout: signatory
 title: Keeping In Touch Edinburgh
 excerpt: 
 website: 
-twitter: 
+twitter-url:
 email: 
 image: /images/signatories/kite.jpg
 permalink: /charter/kite/
