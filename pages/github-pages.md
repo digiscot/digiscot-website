@@ -64,6 +64,6 @@ And some helpful guides if you want to find out more about how they work:
 * [Flickr web embeds](https://help.yahoo.com/kb/flickr/flickr-web-embeds-sln22515.html)
 * [Embed your Imgur post anywhere](http://imgur.com/blog/2015/04/07/embed-your-post-anywhere/)
 * [Embed YouTube videos](https://support.google.com/youtube/answer/171780?hl=en-GB)
-* [Embedding videos on Vimeo](https://vimeo.com/help/faq/sharing-videos/embedding-videos)
+* [Embedding videos from Vimeo](https://vimeo.com/help/faq/sharing-videos/embedding-videos)
 * [How do I embed Slideshare content?](http://help.slideshare.com/entries/58887-What-is-embedding-How-do-I-embed-content-)
 * [Embedding Scribd documents on your website](https://www.scribd.com/developers)
