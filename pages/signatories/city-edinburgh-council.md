@@ -3,7 +3,7 @@ layout: signatory
 title: City of Edinburgh Council
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/city-edinburgh-council.jpg
 permalink: /charter/city-edinburgh-council/

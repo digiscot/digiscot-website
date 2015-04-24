@@ -5,8 +5,7 @@ excerpt: Digital skills training for older people
 lead: Annexe Communities
 website: http://www.annexecommunities.org.uk/
 email: info@annexecommunities.org.uk
-twitter-url:
-facebook-url: https://www.facebook.com/annexepartick
+twitter-url: facebook-url: https://www.facebook.com/annexepartick
 start: January 2015
 end: December 2015
 award: £4520

@@ -3,7 +3,7 @@ layout: signatory
 title: University of Edinburgh
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/university-edinburgh.jpg
 permalink: /charter/university-edinburgh/

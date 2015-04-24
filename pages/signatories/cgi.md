@@ -3,7 +3,7 @@ layout: signatory
 title: CGI
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/cgi.jpg
 permalink: /charter/cgi/

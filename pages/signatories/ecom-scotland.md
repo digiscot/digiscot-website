@@ -3,7 +3,7 @@ layout: signatory
 title: e-Com Scotland
 excerpt: 
 website: http://ecomscotland.com/
-twitter-url:
+twitter-url: 
 email: wendy.edie@ecomscotland.com
 image: /images/signatories/
 permalink: /charter/ecom-scotland/

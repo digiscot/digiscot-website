@@ -3,7 +3,7 @@ layout: signatory
 title: Liberata
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/liberata.jpg
 permalink: /charter/liberata/

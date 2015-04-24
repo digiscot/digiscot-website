@@ -5,8 +5,7 @@ excerpt: Using local history to teach older people how to use the internet
 lead: Queens Cross Housing Association
 website: http://www.qcha.org.uk/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: January 2015
 end: January 2016
 award: £8430

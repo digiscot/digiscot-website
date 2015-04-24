@@ -5,8 +5,7 @@ excerpt: Using football as a means to help people develop digital skills
 lead: Opportunity Enhancement Trust
 website: http://opportunityenhancement.co.uk/
 email: 
-twitter-url:
-facebook-url: https://www.facebook.com/opportunityenhancement
+twitter-url: facebook-url: https://www.facebook.com/opportunityenhancement
 start: April 2015
 end: November 2015
 award: £17500

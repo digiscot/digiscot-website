@@ -3,7 +3,7 @@ layout: signatory
 title: West Lothian Council
 excerpt: 
 website: http://www.westlothian.gov.uk/
-twitter-url:
+twitter-url: 
 email: elaine.nisbet@westlothian.gov.uk
 image: /images/signatories/
 permalink: /charter/west-lothian/

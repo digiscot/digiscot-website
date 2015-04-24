@@ -3,7 +3,7 @@ layout: signatory
 title: North Highland Language Centre
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/north-highland-language-centre.jpg
 permalink: /charter/north-highland-language-centre/

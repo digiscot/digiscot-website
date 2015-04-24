@@ -3,7 +3,7 @@ layout: signatory
 title: Volunteer Centre Edinburgh
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/volunteer-centre-edinburgh.png
 permalink: /charter/volunteer-centre-edinburgh/

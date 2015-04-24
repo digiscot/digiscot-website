@@ -3,7 +3,7 @@ layout: signatory
 title: UPDATE
 excerpt: 
 website: http://www.update.org.uk/
-twitter-url:
+twitter-url: 
 email: michelle.davitt@update.org.uk
 image: 
 permalink: /charter/update/

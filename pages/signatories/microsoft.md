@@ -3,7 +3,7 @@ layout: signatory
 title: Microsoft
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/microsoft.jpg
 permalink: /charter/microsoft/

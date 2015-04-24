@@ -3,7 +3,7 @@ layout: signatory
 title: Asda
 excerpt: 
 website: http://www.asda.com/
-twitter-url:
+twitter-url: 
 email: polly.jones@asda.co.uk
 image: /images/signatories/Asda.jpg
 permalink: /charter/asda/

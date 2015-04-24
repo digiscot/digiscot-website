@@ -3,7 +3,7 @@ layout: signatory
 title: Muon
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/muon.jpg
 permalink: /charter/muon/

@@ -5,8 +5,7 @@ excerpt:
 lead: Youthlink Scotland
 website: http://www.youthlinkscotland.org/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: 
 end: 
 award: 

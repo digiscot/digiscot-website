@@ -3,7 +3,7 @@ layout: signatory
 title: Calvay Housing Association
 excerpt: 
 website: http://www.scottishhousingconnections.org/HA/Calvay/
-twitter-url:
+twitter-url: 
 email: yvonne@calway.org.uk
 image: /images/signatories/calvay-housing-association.jpg
 permalink: /charter/calvay-housing-association/ 

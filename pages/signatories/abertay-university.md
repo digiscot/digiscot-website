@@ -3,7 +3,7 @@ layout: signatory
 title: Abertay University
 excerpt: 
 website: http://www.abertay.ac.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/abertay-university/

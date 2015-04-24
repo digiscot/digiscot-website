@@ -3,7 +3,7 @@ layout: signatory
 title: Fife Migrants Forum
 excerpt: 
 website: http://fifemigrantsforum.org.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/fife-migrants-forum/ 

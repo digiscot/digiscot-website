@@ -3,7 +3,7 @@ layout: signatory
 title: Stay Bright Digital
 excerpt: 
 website: http://www.staybrightdigital.com/
-twitter-url:
+twitter-url: 
 email: martin@staybrightdigital.com
 image: /images/signatories/staybright.jpg
 permalink: /charter/aberlour/staybrightdigital.md/ 

@@ -3,7 +3,7 @@ layout: signatory
 title: EDLC
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/edlc.jpg
 permalink: /charter/edlc/

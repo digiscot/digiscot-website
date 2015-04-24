@@ -3,7 +3,7 @@ layout: signatory
 title: Bemis
 excerpt: 
 website: http://www.bemis.org.uk/
-twitter-url:
+twitter-url: 
 email: mail@bemis.org.uk
 image: 
 permalink: /charter/bemis/

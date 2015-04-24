@@ -3,7 +3,7 @@ layout: signatory
 title: Volunteer Scotland
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/volunteer-scotland.jpg
 permalink: /charter/volunteer-scotland/

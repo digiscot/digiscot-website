@@ -3,7 +3,7 @@ layout: signatory
 title: Whale Arts
 excerpt: 
 website: http://www.whalearts.co.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/whale-arts.jpg
 permalink: /charter/whale-arts/

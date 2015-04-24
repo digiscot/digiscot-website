@@ -3,7 +3,7 @@ layout: signatory
 title: Scottish Government
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/scottish-government.jpg
 permalink: /charter/scottish-government/

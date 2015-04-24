@@ -3,7 +3,7 @@ layout: signatory
 title: CapacityGrid
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/capacitygrid.jpg
 permalink: /charter/capacitygrid/

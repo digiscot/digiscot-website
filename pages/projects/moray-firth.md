@@ -5,8 +5,7 @@ excerpt: Part time courses in digital and radio broadcasting production
 lead: Moray Firth Media Trust
 website: 
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: April 2015
 end: October 2015
 award: £11,172

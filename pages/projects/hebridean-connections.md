@@ -5,8 +5,7 @@ excerpt: Digital skills training events across Lewis and Harris
 lead: Hebridean Connections 
 website: http://www.hebrideanconnections.com/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: April 2015
 end: March 2016
 award: £5400

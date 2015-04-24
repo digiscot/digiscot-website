@@ -3,7 +3,7 @@ layout: signatory
 title: Community Renewal
 excerpt: 
 website: http://www.communityrenewal.org.uk/
-twitter-url:
+twitter-url: 
 email: archie.lowe@communityrenewal.org.uk
 image: /images/signatories/community-renewal.jpg
 permalink: /charter/community-renewal/

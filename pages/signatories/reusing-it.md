@@ -3,7 +3,7 @@ layout: signatory
 title: Reusing IT
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/reusing-it.jpg
 permalink: /charter/reusing-it/

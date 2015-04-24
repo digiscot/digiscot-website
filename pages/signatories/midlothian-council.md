@@ -3,7 +3,7 @@ layout: signatory
 title: Midlothian Council
 excerpt: 
 website: http://www.midlothian.gov.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/midlothian.jpg
 permalink: /charter/midlothian-council/

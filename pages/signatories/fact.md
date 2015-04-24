@@ -3,7 +3,7 @@ layout: signatory
 title: FACT
 excerpt: 
 website: http://forresarea.org/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/fact/

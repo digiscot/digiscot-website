@@ -3,7 +3,7 @@ layout: signatory
 title: Glasgow Life
 excerpt: 
 website: http://www.glasgowlife.org.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/glasgow-life/ 

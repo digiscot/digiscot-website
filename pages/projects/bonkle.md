@@ -5,8 +5,7 @@ excerpt: Introduction to computers, tablets and notebooks and how to use them
 lead: Bonkle Computer Club
 website: http://www.bonkle.org.uk/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: March 2015
 end: August 2015
 award: £900

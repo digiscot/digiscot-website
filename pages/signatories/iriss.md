@@ -3,7 +3,7 @@ layout: signatory
 title: IRISS
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/iriss.jpg
 permalink: /charter/iriss/

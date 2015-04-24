@@ -3,7 +3,7 @@ layout: signatory
 title: Maritime Charities Funding Group
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/maritime-charities.jpg
 permalink: /charter/maritime-charities/

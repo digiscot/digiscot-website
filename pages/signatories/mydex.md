@@ -3,7 +3,7 @@ layout: signatory
 title: Mydex CIC
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/mydex.jpg
 permalink: /charter/mydex/

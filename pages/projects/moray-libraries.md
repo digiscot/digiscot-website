@@ -5,8 +5,7 @@ excerpt: ICT courses for the most digitally excluded
 lead: Moray Libraries and Information Service
 website: http://www.moray.gov.uk/moray_standard/page_1472.html
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: April 2015
 end: February 2016
 award: £9816

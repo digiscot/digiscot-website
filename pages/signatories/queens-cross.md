@@ -3,7 +3,7 @@ layout: signatory
 title: Queens Cross Housing Association
 excerpt: 
 website: http://www.qcha.org.uk/
-twitter-url:
+twitter-url: 
 email: HKennedy@qcha.org.uk
 image: 
 permalink: /charter/queens-cross/

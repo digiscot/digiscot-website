@@ -3,7 +3,7 @@ layout: signatory
 title: Thenue Housing
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/thenue-housing.jpg
 permalink: /charter/thenue-housing/

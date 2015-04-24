@@ -5,8 +5,7 @@ excerpt: Helping people to thrive in the digital world and reducing social isola
 lead: Homestart Majik
 website: http://www.home-start-majik.org.uk/
 email: 
-twitter-url:
-facebook-url: https://www.facebook.com/Home.start.majik
+twitter-url: facebook-url: https://www.facebook.com/Home.start.majik
 start: May 2015
 end: September 2015
 award: £7000

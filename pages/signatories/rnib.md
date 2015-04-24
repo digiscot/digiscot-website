@@ -3,7 +3,7 @@ layout: signatory
 title: RNIB
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/rnib.jpg
 permalink: /charter/rnib/

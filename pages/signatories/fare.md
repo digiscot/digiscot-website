@@ -3,7 +3,7 @@ layout: signatory
 title: Family Action in Rogerfield and Easterhouse (FARE)
 excerpt: 
 website: http://www.fare-scotland.org/
-twitter-url:
+twitter-url: 
 email: michael.mooney@fare-scotland.org
 image: /images/signatories/fare.jpg
 permalink: /charter/fare/

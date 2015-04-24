@@ -5,8 +5,7 @@ excerpt: Introducing digital technology to alleviate symptoms of isolation and s
 lead: Homelands Trust Fife
 website: http://homelands-fife.co.uk/
 email:
-twitter-url:
-facebook-url: https://www.facebook.com/HomelandsTrust
+twitter-url: facebook-url: https://www.facebook.com/HomelandsTrust
 start: January 2015
 end: TBC
 award: £823.79

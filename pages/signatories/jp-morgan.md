@@ -3,7 +3,7 @@ layout: signatory
 title: JP Morgan
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/jp-morgan.jpg
 permalink: /charter/jp-morgan/

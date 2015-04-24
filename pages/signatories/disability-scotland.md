@@ -3,7 +3,7 @@ layout: signatory
 title: Disability Scotland
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/disability-scotland.jpg
 permalink: /charter/disability-scotland/

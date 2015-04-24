@@ -3,7 +3,7 @@ layout: signatory
 title: PKC S'porting Solutions
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: david@sportsol.co.uk
 image: /images/signatories/sporting-solutions.png
 permalink: /charter/pkc-sporting-solutions/

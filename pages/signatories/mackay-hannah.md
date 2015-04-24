@@ -3,7 +3,7 @@ layout: signatory
 title: Mackay Hannah
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/mackay-hannah.jpg
 permalink: /charter/mackay-hannah/

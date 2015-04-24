@@ -3,7 +3,7 @@ layout: signatory
 title: Etive
 excerpt: 
 website: http://etive.org/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/etive/

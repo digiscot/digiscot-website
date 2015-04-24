@@ -5,8 +5,7 @@ excerpt: Supporting local people to access online services and resources
 lead: Merkinch Partnership
 website: 
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: April
 end: October
 award: £8650

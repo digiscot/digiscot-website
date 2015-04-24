@@ -5,8 +5,7 @@ excerpt: Developing the ICT suite at Upper Springland residental and daycare ser
 lead: Capability Scotland
 website: http://www.capability-scotland.org.uk/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: February 2015
 end: February 2016
 award: £6000

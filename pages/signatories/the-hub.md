@@ -3,7 +3,7 @@ layout: signatory
 title: The Hub
 excerpt: 
 website: http://www.thehubdg.org/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/the-hub/

@@ -3,7 +3,7 @@ layout: signatory
 title: Digital Fife
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/digital-fife.jpg
 permalink: /charter/digital-fife/

@@ -3,7 +3,7 @@ layout: signatory
 title: Scottish Qualifications Authority
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/sqa.jpg
 permalink: /charter/sqa/

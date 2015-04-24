@@ -3,7 +3,7 @@ layout: signatory
 title: Young Scot
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/young-scot.jpg
 permalink: /charter/young-scot/

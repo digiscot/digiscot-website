@@ -3,7 +3,7 @@ layout: signatory
 title: CILIPS
 excerpt: 
 website: http://www.cilips.org.uk/
-twitter-url:
+twitter-url: 
 email: sean.mcnamara@cilips.org.uk
 image: /images/signatories/cilips.jpg
 permalink: /charter/cilips/

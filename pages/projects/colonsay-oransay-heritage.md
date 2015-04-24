@@ -5,8 +5,7 @@ excerpt: Growing community resources with a website and the digitisation of hist
 lead: Colonsay and Oransay Heritage Trust
 website: http://www.spanglefish.com/ColonsayandOransayHeritageTrust/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: April 2015
 end: March 2016
 award: £4820

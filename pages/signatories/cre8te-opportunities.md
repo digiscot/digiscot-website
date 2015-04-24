@@ -3,7 +3,7 @@ layout: signatory
 title: Cre8te Opportunities
 excerpt: 
 website: http://cre8te.co.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/cre8te-opportunities/

@@ -3,7 +3,7 @@ layout: signatory
 title: Scotland IS
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/scotland-is.jpg
 permalink: /charter/scotland-is/

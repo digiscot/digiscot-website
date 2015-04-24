@@ -3,7 +3,7 @@ layout: signatory
 title: Opportunity Enhancement Trust
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/oet.jpg
 permalink: /charter/oet/

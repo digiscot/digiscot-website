@@ -3,7 +3,7 @@ layout: signatory
 title: Unit4
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/unit4.jpg
 permalink: /charter/unit4/

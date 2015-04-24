@@ -3,7 +3,7 @@ layout: signatory
 title: Tablet Academy
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/tablet-academy.jpg
 permalink: /charter/tablet-academy/

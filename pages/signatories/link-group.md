@@ -3,7 +3,7 @@ layout: signatory
 title: Link Group Ltd
 excerpt: 
 website: http://linkhousing.org.uk/
-twitter-url:
+twitter-url: 
 email: craig.stephenson@linkhaltd.co.uk
 image: /images/signatories/link-group.jpg
 permalink: /charter/link-group.md/ 

@@ -3,7 +3,7 @@ layout: signatory
 title: Fluent Digital CIC
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: scott@fluent.org.uk
 image: 
 permalink: /charter/fluent-digital/

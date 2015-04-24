@@ -3,7 +3,7 @@ layout: signatory
 title: Raploch Community Partnership
 excerpt: 
 website:
-twitter-url:
+twitter-url: 
 email: mitchellja@stirling.gov.uk
 image: 
 permalink: /charter/raploch-community-partnership/

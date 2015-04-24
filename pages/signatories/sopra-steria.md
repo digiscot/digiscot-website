@@ -3,7 +3,7 @@ layout: signatory
 title: Sopra Steria
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/sopra-steria.png
 permalink: /charter/sopra-steria/

@@ -3,7 +3,7 @@ layout: signatory
 title: Merkinch Community Centre
 excerpt: 
 website:
-twitter-url:
+twitter-url: 
 email: elsie.merkinch@uwclub.net
 image: 
 permalink: /charter/merkinch-community-centre/

@@ -3,7 +3,7 @@ layout: signatory
 title: Neighbourhood Watch Scotland
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/neighbourhood-watch-scotland.jpg
 permalink: /charter/neighbourhood-watch-scotland/

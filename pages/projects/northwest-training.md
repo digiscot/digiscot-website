@@ -5,8 +5,7 @@ excerpt: Basic computer skills tuition for older people
 lead: Northwest Training Centre Association
 website: http://northwesttrainingcentre.weebly.com/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: April 2015
 end: March 2016
 award: £3910

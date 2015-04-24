@@ -3,7 +3,7 @@ layout: signatory
 title: Swirrl
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/swirrl.jpg
 permalink: /charter/swirrl/

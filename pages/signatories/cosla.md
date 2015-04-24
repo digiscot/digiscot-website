@@ -3,7 +3,7 @@ layout: signatory
 title: COSLA
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/cosla.jpg
 permalink: /charter/cosla/

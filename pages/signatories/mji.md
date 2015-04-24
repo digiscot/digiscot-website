@@ -3,7 +3,7 @@ layout: signatory
 title: MJI Business Solutions
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/mji.jpg
 permalink: /charter/mji/

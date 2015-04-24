@@ -3,7 +3,7 @@ layout: signatory
 title: Spruce Carpets
 excerpt: 
 website: http://www.sprucecarpets.org.uk/
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/
 permalink: /charter/spruce-carpets/

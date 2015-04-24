@@ -3,7 +3,7 @@ layout: signatory
 title: Cisco
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/cisco.jpg
 permalink: /charter/cisco/

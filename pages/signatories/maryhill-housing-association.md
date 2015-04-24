@@ -3,7 +3,7 @@ layout: signatory
 title: Maryhill Housing Association
 excerpt: 
 website: http://www.maryhill.org.uk/
-twitter-url:
+twitter-url: 
 email:
 image:
 permalink: /charter/maryhill-housing-association/

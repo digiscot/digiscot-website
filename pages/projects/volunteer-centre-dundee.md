@@ -5,8 +5,7 @@ excerpt: IT sessions with peer mentoring
 lead: Volunteer Centre Dundee
 website: http://www.volunteerdundee.org.uk/
 email: 
-twitter-url:
-facebook-url: 
+twitter-url: facebook-url: 
 start: March 2015
 end: June 2015
 award: £3148.40

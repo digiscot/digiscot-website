@@ -3,7 +3,7 @@ layout: signatory
 title: Museums Galleries Scotland
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/museums-galleries-scotland.jpg
 permalink: /charter/museums-galleries-scotland/

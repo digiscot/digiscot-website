@@ -3,7 +3,7 @@ layout: signatory
 title: Nesta
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/nesta.jpg
 permalink: /charter/nesta/

@@ -3,7 +3,7 @@ layout: signatory
 title: Scottish Council on Deafness
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/scod.jpg
 permalink: /charter/scod/

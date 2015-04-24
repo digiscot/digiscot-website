@@ -3,7 +3,7 @@ layout: signatory
 title: NEoN
 excerpt: 
 website: http://www.northeastofnorth.com/
-twitter-url:
+twitter-url: 
 email: 
 image: 
 permalink: /charter/neon/ 

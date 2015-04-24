@@ -3,7 +3,7 @@ layout: signatory
 title: Storm ID
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/storm-id.jpg
 permalink: /charter/storm-id/

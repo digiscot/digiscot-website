@@ -3,7 +3,7 @@ layout: signatory
 title: Carnegie UK Trust
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/carnegie-trust.jpg
 permalink: /charter/carnegie-trust/

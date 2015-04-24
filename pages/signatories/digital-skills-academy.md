@@ -3,7 +3,7 @@ layout: signatory
 title: Digital Skills Academy
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/digital-skills-academy.jpg
 permalink: /charter/digital-skills-academy/

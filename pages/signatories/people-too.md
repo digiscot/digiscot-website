@@ -3,7 +3,7 @@ layout: signatory
 title: People Too
 excerpt: 
 website: 
-twitter-url:
+twitter-url: 
 email: 
 image: /images/signatories/people-too.jpg
 permalink: /charter/people-too/
