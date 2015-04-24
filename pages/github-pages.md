@@ -44,4 +44,26 @@ Here are some useful tips for editing the content:
 * You don't need to worry about fonts or colours, these will get set automatically
 * Remember to leave a blank line between paragraphs
 * You can use [Markdown syntax](https://help.github.com/articles/markdown-basics/) for things like headings and links
-* You can also use HTML if you wish, e.g. if you have been given some code to embed a video or tweet
+* You can also use regular HTML if you wish
+
+### Embedding media
+
+Our pages accept HTML, which means you can embed photos, videos and social media from other websites. The details will be different depending on which services you decide to use, but you'll usually be looking for an option called "embed" which will give you some code to copy and paste into your page.
+
+Here are a few services that we like:
+
+* Social media: [Twitter](https://twitter.com). [Facebook](https://www.facebook.com/help/692720347411816/)
+* Photo sharing: [Flickr](https://flickr.com), [Imgur](http://imgur.com/)
+* Video sharing: [YouTube](https://youtube.com), [Vimeo](https://vimeo.com/)
+* Slides and documents: [Slideshare](http://www.slideshare.net), [Scribd](https://www.scribd.com/)
+
+And some helpful guides if you want to find out more about how they work:
+
+* [Embedding a Tweet on your website](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog)
+* [Sharing Facebook posts on other websites](https://www.facebook.com/help/692720347411816/)
+* [Flickr web embeds](https://help.yahoo.com/kb/flickr/flickr-web-embeds-sln22515.html)
+* [Embed your Imgur post anywhere](http://imgur.com/blog/2015/04/07/embed-your-post-anywhere/)
+* [Embed YouTube videos](https://support.google.com/youtube/answer/171780?hl=en-GB)
+* [Embedding videos on Vimeo](https://vimeo.com/help/faq/sharing-videos/embedding-videos)
+* [How do I embed Slideshare content?](http://help.slideshare.com/entries/58887-What-is-embedding-How-do-I-embed-content-)
+* [Embedding Scribd documents on your website](https://www.scribd.com/developers)
