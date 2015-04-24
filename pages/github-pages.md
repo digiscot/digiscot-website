@@ -59,7 +59,7 @@ Here are a few services that we like:
 
 And some helpful guides if you want to find out more about how they work:
 
-* [Embedding a Tweet on your website](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog)
+* [Embedding a tweet on your website](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog)
 * [Sharing Facebook posts on other websites](https://www.facebook.com/help/692720347411816/)
 * [Flickr web embeds](https://help.yahoo.com/kb/flickr/flickr-web-embeds-sln22515.html)
 * [Embed your Imgur post anywhere](http://imgur.com/blog/2015/04/07/embed-your-post-anywhere/)
@@ -67,3 +67,8 @@ And some helpful guides if you want to find out more about how they work:
 * [Embedding videos from Vimeo](https://vimeo.com/help/faq/sharing-videos/embedding-videos)
 * [How do I embed Slideshare content?](http://help.slideshare.com/entries/58887-What-is-embedding-How-do-I-embed-content-)
 * [Embedding Scribd documents on your website](https://www.scribd.com/developers)
+
+Here's an example of an embedded tweet:
+
+<blockquote class="twitter-tweet" lang="en"><p>Standing room only at <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> for this afternoon&#39;s charter workshops! Find out more and sign <a href="http://t.co/DIWKnoOE3F">http://t.co/DIWKnoOE3F</a> <a href="http://t.co/YCtfI8SRax">pic.twitter.com/YCtfI8SRax</a></p>&mdash; Chris Yiu (@clry2) <a href="https://twitter.com/clry2/status/590502283982610432">April 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
