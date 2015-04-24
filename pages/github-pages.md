@@ -52,10 +52,10 @@ Our pages accept HTML, which means you can embed photos, videos and social media
 
 Here are a few services that we like:
 
-* Social media: [Twitter](https://twitter.com). [Facebook](https://www.facebook.com/help/692720347411816/)
+* Social media: [Twitter](https://twitter.com). [Facebook](https://www.facebook.com)
 * Photo sharing: [Flickr](https://flickr.com), [Imgur](http://imgur.com/)
 * Video sharing: [YouTube](https://youtube.com), [Vimeo](https://vimeo.com/)
-* Slides and documents: [Slideshare](http://www.slideshare.net), [Scribd](https://www.scribd.com/)
+* Slides and documents: [Slideshare](http://www.slideshare.net), [Scribd](https://www.scribd.com)
 
 And some helpful guides if you want to find out more about how they work:
 
