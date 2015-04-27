@@ -27,8 +27,6 @@ On April 18 Ragnhild Ljosland and Alex Sanmark gave a presentation to the Orkney
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/BIsoxHs2dQILLN" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
-You can see the PowerPoint slides [here](https://www.slideshare.net/slideshow/embed_code/key/BIsoxHs2dQILLN)  
-
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
