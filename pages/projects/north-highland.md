@@ -5,7 +5,8 @@ excerpt: Basic digital and online skills training
 lead: North Highland Language Centre
 website: http://www.nhlanguagecentre.com/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: May 2015
 end: September 2015
 award: £4050
@@ -26,7 +27,7 @@ To aid understanding and use for older residents of Tain and surrounding area. T
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+Evaluation will be a complilation of learner made videos to demonstrate personal achievements throughout the project, linked to project aims.
 
 ### Outputs and outcomes
 
