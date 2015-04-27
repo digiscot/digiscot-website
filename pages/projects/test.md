@@ -20,14 +20,7 @@ permalink: /test/
 ### Project description
 
 
-
 ## Project milestones
-
-
-### Phase 1
-
-
-### Phase 2
 
 
 ## Evaluation
