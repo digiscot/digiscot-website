@@ -23,7 +23,7 @@ CNS will work with elderly members of the Orkney Community to teach them how to 
 
 ## Project milestones
 
-
+On April 18 Ragnhild Ljosland and Alex Sanmark gave a presentation to the Orkney Heritage Society. The members were delighted and were keen to be involved. A new meeting has been scheduled. You can see the PowerPoint slides [here] (https://www.slideshare.net/slideshow/embed_code/key/BIsoxHs2dQILLN)  
 
 ## Evaluation
 
