@@ -10,7 +10,7 @@ facebook-url:
 start: June 2015
 end: July 2015
 award: £3110 
-image: /images/projects/shimca/
+image: /images/projects/shimca.jpg
 permalink: /projects/shimca/ 
 ---
 
