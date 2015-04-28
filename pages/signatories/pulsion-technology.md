@@ -5,7 +5,7 @@ excerpt:
 website: http://www.pulsion.co.uk/
 twitter-url: https://twitter.com/Pulsion_Tech
 email: keri.houston@pulsion.co.uk
-image: 
+image: /images/signatories/pulsion.jpg
 permalink: /charter/pulsion-technology/
 ---
 Pulsion is one of the signatories on Scotland’s Digital Participation Charter, a national movement to promote digital participation and basic digital skills in Scotland. Our shared ambition is for Scotland to be a world-leading digital nation by 2020.
