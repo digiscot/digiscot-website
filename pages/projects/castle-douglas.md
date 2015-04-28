@@ -5,7 +5,8 @@ excerpt: Tablet training for older people
 lead: Castle Douglas Community IT Centre
 website: http://new.theitcentre.org.uk
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £8659
@@ -21,7 +22,10 @@ Castle Douglas Community IT Centre will deliver training on using tablet devices
 
 
 ## Project milestones
+May 2015 - Purchase of 6 iPad Air and 7 Hudl 2 tablets and cases.
+Marketing and advertising of classes
 
+June - October 2015 - Delivery of courses
 
 
 ## Evaluation
