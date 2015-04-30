@@ -11,7 +11,7 @@ start: April 2015
 end: December 2015
 award:
 image:
-permalink: /tutorial-example/ 
+permalink: /test/tutorial-example/ 
 ---
 
 ## Project plan
