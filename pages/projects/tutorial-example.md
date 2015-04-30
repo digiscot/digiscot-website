@@ -28,7 +28,10 @@ permalink: /test/tutorial-example/
 
 ## Evaluation
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kMsvDigaC8PoF6" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/imjustmike/creativesocial-influencers-final-with-explanations" title="What&#x27;s the future of influencer marketing?" target="_blank">What&#x27;s the future of influencer marketing?</a> </strong> from <strong><a href="//www.slideshare.net/imjustmike" target="_blank">Mike Phillips</a></strong> </div>
 
+
+<a href="http://imgur.com/YMnLNxY"><img src="http://i.imgur.com/YMnLNxY.jpg" title="source: imgur.com" /></a>
 
 ### Outputs and outcomes
 
