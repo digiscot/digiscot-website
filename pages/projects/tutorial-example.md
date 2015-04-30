@@ -20,7 +20,7 @@ permalink: /test/tutorial-example/
 
 ### Project description
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Standing room only at <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> for this afternoon&#39;s charter workshops! Find out more and sign <a href="http://t.co/DIWKnoOE3F">http://t.co/DIWKnoOE3F</a> <a href="http://t.co/YCtfI8SRax">pic.twitter.com/YCtfI8SRax</a></p>&mdash; Chris Yiu (@clry2) <a href="https://twitter.com/clry2/status/590502283982610432">April 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We think all the <a href="https://twitter.com/hashtag/ScotCharityAwards?src=hash">#ScotCharityAwards</a> finalists are <a href="https://twitter.com/hashtag/puredeadbrilliant?src=hash">#puredeadbrilliant</a>. Vote for your fave here <a href="http://t.co/KKnVe7SbtG">http://t.co/KKnVe7SbtG</a> <a href="http://t.co/yuTvdfvu7J">pic.twitter.com/yuTvdfvu7J</a></p>&mdash; SCVO (@scvotweet) <a href="https://twitter.com/scvotweet/status/593689249855115264">April 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Project milestones
 
