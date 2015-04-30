@@ -22,6 +22,8 @@ permalink: /test/tutorial-example/
 
 <blockquoteclass="twitter-tweet" lang="en"><p lang="en" dir="ltr">Such an impressive shortlist. Proud once again of Scottish third sector <a href="https://twitter.com/hashtag/charity?src=hash">#charity</a> &#10;<a href="http://t.co/TaMPcE6rZJ">http://t.co/TaMPcE6rZJ</a></p>&mdash; Gemma Branney(@GemmaBranney) <a href="https://twitter.com/GemmaBranney/status/593452783501729792">April 29, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquoteclass="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GE2015?src=hash">#GE2015</a> is just 1 week away but there&#39;s an important vote taking place now! <a href="https://twitter.com/hashtag/scotcharityawards?src=hash">#scotcharityawards</a> <a href="http://t.co/4MhwzHUqsc">http://t.co/4MhwzHUqsc</a> <a href="http://t.co/pzP490fuKp">pic.twitter.com/pzP490fuKp</a></p>&mdash; SCVO (@scvotweet) <a href="https://twitter.com/scvotweet/status/593707202613026816">April 30, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Project milestones
 
 
