@@ -5,7 +5,7 @@ excerpt: Teaching older people how to use digital technology through the app Fie
 lead: Centre for Nordic Studies
 website: http://www.nordic.uhi.ac.uk
 email: cns@uhi.ac.uk
-twitter-url: [NordicUHI](https://twitter.com/NordicUHI?lang=en-gb)
+twitter-url: NordicUHI
 facebook-url: UHI Centre for Nordic Studies
 start: May 2015
 end: December 2015 
