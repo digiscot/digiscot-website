@@ -22,12 +22,13 @@ Castle Douglas Community IT Centre will deliver training on using tablet devices
 
 
 ## Project milestones
-# Phase 1 - Planning - May 2015
+
+### Phase 1 - Planning - May 2015
 Purchase of tablet devices, development of training materials to compliment delivery and evaluation materials to record outcomes
 Engagement with local partners that will provide inital participatns for courses
 Scheduling and promotion of project and courses
 
-# Phase 2 - Delivery - June 2015 - March 2016
+### Phase 2 - Delivery - June 2015 - March 2016
 Deliver 20 Take a Tablet courses, 10 using iPads and 10 using Android devices, across 7 locations in Dumfries and Galloway. Courses will run for 4 weeks in the following locations: Castle Douglas, Dalbeattie, Dumfries, Gatehouse of Fleet, Kirkcudbright, New Galloway and Newton Stewart.  
 
 
