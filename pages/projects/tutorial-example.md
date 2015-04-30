@@ -16,15 +16,15 @@ permalink: /tutorial-example/
 
 ## Project plan
 
-Information of Project Plan.
+
 
 ### Project description
 
-Description of Project.
+
 
 ## Project milestones
 
-Outline of project milestones.
+
 
 ## Evaluation
 
