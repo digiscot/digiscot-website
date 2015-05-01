@@ -5,7 +5,7 @@ excerpt: Here's how to edit your digital participation project or charter signat
 permalink: /github-pages/
 ---
 
-If we are supporting your [digital participation project](/projects/) or you have signed our [digital participation charter](/charter/) then you will have a page on this website where you can share a bit more about who you are and what you are doing. This is a short, step-by-step guide to adding content and editing your page.
+If we are supporting your [digital participation project](/projects/) or you have signed our [digital participation charter](/charter/) then you will have a page on this website where you can share a bit more about who you are and what you are doing. This is a short, step-by-step guide to adding content and editing your page along with some quick walkthrough videos to give you some extra guidance if needed.
 
 ## Before you start
 
@@ -13,7 +13,9 @@ Our website is powered by a service called [GitHub Pages](https://pages.github.c
 
 * [Click here to create a new GitHub account](https://github.com/join)
 
-Creating an account is free and you only need to do this step once.
+Creating an account is free and you only need to do this step once.  The video below will guide you through the sign up process.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EVorj_yZ6M0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Updating a page
 
