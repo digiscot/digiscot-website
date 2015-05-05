@@ -26,15 +26,15 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 ###May 2015
 - Purchase of hardware - 2 x laptops and 1 x tablets
 - Recruit 5 peer mentors and volunteers to help support IT courses
--  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
+- Develop and deliver 4 week Mobile Smart Phone Course
+
 
 ###June 2015
-- Develop and deliver 4 week Internet Safety Course (deliver in June and again in September)
-
+-  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
 
 ###July 2015
 - Develop and deliver EBay Training Module and support (delivered in July/August and repeated in January 2016)
-- Develop and deliver 3 week Mobile Smart Phone Course 
+ - Develop and deliver 4 week Internet Safety Course (deliver in July and again in September)
 
 ###August 2015
 - Deliver 2nd 7 week IT Skills Course 
@@ -46,6 +46,7 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 - Recruit more peer mentors and volunteers from past participants of courses
 
 ###December 2015
+TBA
 
 ###January 2015
 - Deliver Ebay Training Module and support. 
