@@ -34,9 +34,9 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 * Created promotional posters
 
-<img src="https://lh3.googleusercontent.com/-335iHYrzs4Q/VUiMbGMgbGI/AAAAAAAAH6U/JX3ppDzbUVA/s640/11133971_10153227630850930_1629882804108123568_o.jpg" alt="Promotional Poster 1" width=500>
+<img src="https://lh3.googleusercontent.com/-335iHYrzs4Q/VUiMbGMgbGI/AAAAAAAAH6U/JX3ppDzbUVA/s640/11133971_10153227630850930_1629882804108123568_o.jpg" alt="Promotional Poster 1" width="500">
 
-<img src="https://lh3.googleusercontent.com/-agGnlREqb5c/VUiMbDwReCI/AAAAAAAAH6c/z7UsrT_uTwo/s912/11148457_10153227630865930_2821786352367356866_n.jpg" alt="Promotional Poster 2" width=500>
+<img src="https://lh3.googleusercontent.com/-agGnlREqb5c/VUiMbDwReCI/AAAAAAAAH6c/z7UsrT_uTwo/s912/11148457_10153227630865930_2821786352367356866_n.jpg" alt="Promotional Poster 2" width="500">
 
 * Created training materials - presentation and step-by-step resource guides
 * Arranged to give training at team meetings of 6 organisations
