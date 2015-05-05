@@ -2,7 +2,7 @@
 layout: project
 title: Recounting Women
 excerpt: 
-lead: Scottish Women's Aid
+lead: Scottish Womens Aid
 website: 
 email: 
 twitter-url: 
