@@ -34,9 +34,9 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 * Created promotional posters
 
-<img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s960x960/11133971_10153227630850930_1629882804108123568_o.jpg" alt="Promotional Poster 1">
+<img src="https://lh3.googleusercontent.com/-335iHYrzs4Q/VUiMbGMgbGI/AAAAAAAAH6U/JX3ppDzbUVA/s640/11133971_10153227630850930_1629882804108123568_o.jpg" alt="Promotional Poster 1" width=500px>
 
-<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/11148457_10153227630865930_2821786352367356866_n.jpg?oh=c4be4e3b47fb5653bd327370ae574afe&oe=5599CD26&__gda__=1440384815_2903632573e6771c6da2f4b1cfa97733" alt="Promotional Poster 2">
+<img src="https://lh3.googleusercontent.com/-agGnlREqb5c/VUiMbDwReCI/AAAAAAAAH6c/z7UsrT_uTwo/s912/11148457_10153227630865930_2821786352367356866_n.jpg" alt="Promotional Poster 2" width=500px>
 
 * Created training materials - presentation and step-by-step resource guides
 * Arranged to give training at team meetings of 6 organisations
@@ -50,11 +50,25 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 #### RESULTS
 * April 1st - gave training to 9 staff at Melville Housing Association in Dalkeith
 
-<img src="http://www.melville.org.uk/sites/www.melville.org.uk/files/images/staff%20group.preview.jpg" alt="Melville Housing Association Staff">
+<img src="https://lh3.googleusercontent.com/-gaXSDwoEMnk/VUiMb9FKUXI/AAAAAAAAH6k/cC4ZugKutcA/s912/WP_20150505_001.jpg" alt="Melville Housing Association" width=500px>
 
 * April 7th - gave training to 8 staff at The Bridges Project in Musselburgh
 
-<img src="http://www.fionaodonnellmp.org/wp-content/uploads/2011/02/Bridges-Project-300x225.jpg" alt="The Bridges Project">
+<img src="http://www.fionaodonnellmp.org/wp-content/uploads/2011/02/Bridges-Project-300x225.jpg" alt="The Bridges Project" width=500px>
+
+(Some of their clients - proper photo to come)
+
+* April 22nd - gave training to 12 third sector workers on the capabilities and possibilities of smartphones
+ 
+<img src="https://lh3.googleusercontent.com/-KFP7GXOYGSs/VUiMbO-zb0I/AAAAAAAAH6o/xFQn4V5qW2Q/s912/WP_20150422_001.jpg" alt="Mobile Phone Training Atendees" width=500px>
+
+* April 23rd - gave training to 6 staff at The Association for Real Change in Dalkeith
+ 
+<img src="https://lh3.googleusercontent.com/-T3QM5k9GziA/VUiMbjv60lI/AAAAAAAAH6w/8qt6TFOK568/s912/WP_20150423_001.jpg" alt="Association for Real Change staff" width=500px>
+
+* May 5th - gave training to 15 staff at The Orchard Centre (Health in Mind) in Bonnyrigg
+ 
+<img src="https://lh3.googleusercontent.com/-OUY9nblSij0/VUi3UagmlQI/AAAAAAAAH7A/vKCyc5rK5-8/s912/WP_20150505_003.jpg" alt="Orchard Centre staff" width=500px>
 
 ### Development Phase 2: July - September 2015
 
