@@ -8,7 +8,6 @@ email: info@example.com
 twitter-url: MVACommunity
 facebook-url: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
-=======
 email: craig.turner@mvacvs.org.uk
 twitter: MVACommunity
 facebook: www.facebook.com/MidlothianVoluntaryAction 
