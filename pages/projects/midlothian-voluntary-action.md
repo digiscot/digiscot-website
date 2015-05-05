@@ -4,15 +4,10 @@ title: Getting IT
 excerpt: This project will train voluntary and community organisations in Midlothian to help them to support their clients, service users or members to get online.
 lead: Midlothian Voluntary Action 
 website: http://www.mvacvs.org
-email: info@example.com
+email: craig.turner@mvacvs.org.uk
 twitter-url: MVACommunity
 facebook-url: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
-email: craig.turner@mvacvs.org.uk
-twitter: MVACommunity
-facebook: www.facebook.com/MidlothianVoluntaryAction 
-start: January 2015
->>>>>>> pr/79
 end: December 2015
 award: £10,000
 image:
