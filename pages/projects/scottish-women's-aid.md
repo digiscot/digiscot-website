@@ -10,7 +10,7 @@ facebook-url:
 start: August 2015
 end: March 2016
 award: £8950
-image:
+image: /images/projects/swa.jpg
 permalink: /projects/scottish-womens-aid/ 
 ---
 
