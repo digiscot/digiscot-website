@@ -5,7 +5,8 @@ excerpt: Supported digital access and improving IT skills.
 lead: Ormlie Community Association
 website: http://www.ormlie.org/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: January 2016
 award: £10,000
@@ -17,22 +18,20 @@ permalink: /projects/ormlie-community-association/
 
 ### Project description
 
-IT classes to help participants gain basic digital skills
+IT access to help those without IT knowledge or equipment access the internet and online services.  It also develops individuals' IT skills in order to help participants gain basic digital skills, and become independent in their use of IT.
 
 
-## Project milestones
+## Project milestones - Net Axs (Wick)
 
-### Phase 1 April - June 2015
+### Phase 1  Feb - April 2015
 
-Employ Staff (2 part-time) 
+We have employed two part-time members of staff to help individuals engaging with the project to access IT and to help them gain further IT skills.
 
-Marketing Materials developed and distributed 
+We opened on the 9th February, and have marketed the facility through the Job Centre, Skills Development Scotland, Highland Council etc. to advise that the facility is open from the Wick Citizens Advice Bureau on a Monday and Friday 10.00am - 2.00pm.  We have also ordered cards and leaflets promoting Net Axs in Wick
 
-Recording mechanisms in place 
+Those attending register with us and then each time they use the facility they sign in on our sign in sheets.  Our staff take a short note of why the individual has used the facility each day.
 
-Contact with Job Centre, SDS, HC etc to advice facility open
-
-### Phase 2 July 2015 - January 2016
+### Phase 2  May 2015 - July 2015
 
 Individuals gain IT access 
 
@@ -40,7 +39,19 @@ Individuals improve IT skills
 
 Review of milestones
 
-### Phase 3 January 2016
+### Phase 3  Aug 2015 - Oct 2015
+
+Individuals gain IT access
+
+Individuals improve IT skills
+
+Funding Opportunities explored to continue project
+
+### Phase 4  Nov 2015 - Jan 2016
+
+Individuals gain IT access
+
+Individuals improve IT skills
 
 End of project reporting to SCVO
 
