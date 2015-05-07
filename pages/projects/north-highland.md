@@ -18,10 +18,12 @@ permalink: /projects/north-highland/
 
 ### Project description
 
-To aid understanding and use for older residents of Tain and surrounding area. To work with Highlife Highland Library services and staff to provide basic online training for use of ipads and tablets, and smart phones. To provide basic instructions on applications they wish to use such as Facebook, Skype, Online books, Youtube etc . The sessions will run for 2 hours per week, over 10 weeks and hope to engage 30 learners.
+To aid understanding and use of the internet for residents of Tain and surrounding area. To work with Highlife Highland Library services and qualified experienced staff to provide basic online training for use of ipads and tablets, and smart phones. To provide basic instructions on applications they wish to use such as Facebook, Skype, Online books, Youtube etc .  We will also aim to show people how the internet can be used to access local services as well as make savings in their everyday lives.
+The sessions will run for 2 hours per week, over 10 weeks and hope to engage 30 learners.
 
 
 ## Project milestones
+
 
 
 
