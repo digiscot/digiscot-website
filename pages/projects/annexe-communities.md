@@ -5,7 +5,8 @@ excerpt: Digital skills training for older people
 lead: Annexe Communities
 website: http://www.annexecommunities.org.uk/
 email: info@annexecommunities.org.uk
-twitter-url: facebook-url: https://www.facebook.com/annexepartick
+twitter-url: 
+facebook-url: https://www.facebook.com/annexepartick
 start: January 2015
 end: December 2015
 award: £4520
@@ -31,6 +32,7 @@ Market and publicise digital skills training amongst the local community.
 ### Phase 2 - February to June
 
 Deliver 2 digital skills courses
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/825556907529077" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/825556907529077"><p>Our Digital Inclusion Workshops are going well, with folk learning how to book flights online and read the news!  It&#039;s...</p>Posted by <a href="https://www.facebook.com/annexepartick">Annexe Communities</a> on <a href="https://www.facebook.com/annexepartick/posts/825556907529077">Monday, April 27, 2015</a></blockquote></div></div>
 
 ### Phase 3 - July & August
 
