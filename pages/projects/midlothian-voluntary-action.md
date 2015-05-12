@@ -5,7 +5,7 @@ excerpt: This project will train voluntary and community organisations in Midlot
 lead: Midlothian Voluntary Action 
 website: http://www.mvacvs.org
 email: craig.turner@mvacvs.org.uk
-twitter-url: MVACommunity
+twitter-url: https://twitter.com/MVACommunity
 facebook-url: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
 end: December 2015
