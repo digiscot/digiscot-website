@@ -6,7 +6,7 @@ lead: Centre for Nordic Studies
 website: http://www.nordic.uhi.ac.uk
 email: cns@uhi.ac.uk
 twitter-url: https://twitter.com/NordicUHI 
-facebook-url: 
+facebook-url: https://www.facebook.com/CNSatUHI
 start: May 2015
 end: December 2015 
 award: £8091
