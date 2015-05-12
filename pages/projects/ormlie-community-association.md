@@ -31,6 +31,8 @@ We opened on the 9th February, and have marketed the facility through the Job Ce
 
 Those attending register with us and then each time they use the facility they sign in on our sign in sheets.  Our staff take a short note of why the individual has used the facility each day.
 
+In Phase 1 we said we would attract 10 individuals to the project - in fact we have attracted 15.  We didn't anticipate delivering computer training in this phase, however we have given computer help and tutoring to 7 individuals to help them improve their computing skills.    
+
 ### Phase 2  May 2015 - July 2015
 
 Individuals gain IT access 
