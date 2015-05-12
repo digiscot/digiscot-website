@@ -6,7 +6,7 @@ lead: Centre for Nordic Studies
 website: http://www.nordic.uhi.ac.uk
 email: cns@uhi.ac.uk
 twitter-url: https://twitter.com/NordicUHI 
-facebook-url: UHI Centre for Nordic Studies
+facebook-url: [UHI Centre for Nordic Studies](https://www.facebook.com/CNSatUHI)
 start: May 2015
 end: December 2015 
 award: £8091
@@ -37,6 +37,8 @@ Achievements:
 On April 18 Ragnhild Ljosland and Alex Sanmark gave a presentation to the Orkney Heritage Society. The members were delighted and were keen to be involved. A new meeting has been scheduled. 
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/BIsoxHs2dQILLN" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RagnhildLjosland/orkney-community-digital-heritage" title="Orkney community digital heritage" target="_blank">Orkney community digital heritage</a> </strong> from <strong><a href="//www.slideshare.net/RagnhildLjosland" target="_blank">Ragnhild Ljosland</a></strong> </div>
+
+During the first days of May Ragnhild Ljosland started the community visits to inform about the project. This time it was North Ronaldsay, the northernmost of the Orkney Islands. This is the [leaflet] she brought with her (https://twitter.com/NordicUHI/status/595520414723485697). 
 
 ## Evaluation
 
