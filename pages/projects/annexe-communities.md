@@ -35,6 +35,10 @@ Deliver 2 digital skills courses
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/825556907529077" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/825556907529077"><p>Our Digital Inclusion Workshops are going well, with folk learning how to book flights online and read the news!  It&#039;s...</p>Posted by <a href="https://www.facebook.com/annexepartick">Annexe Communities</a> on <a href="https://www.facebook.com/annexepartick/posts/825556907529077">Monday, April 27, 2015</a></blockquote></div></div>
 
+Digital Inclusion Classes at the Annexe being delivered by LUMA IT.  
+Skills increased, knowledge improved, awareness raised of new technologies!
+All going well
+
 ### Phase 3 - July & August
 
 Train peer volunteers
@@ -65,12 +69,12 @@ In terms of outcomes for the people and groups we care about, this project has P
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. One to one tuition
+2. Keeping the class all focused on the same piece of equipment
+3. Keeping the classes short - concentration time improved
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. Make the classes smaller
+2. Make one class per piece of equipment ie.specifically Ipads or E-mail
+
