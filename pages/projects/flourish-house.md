@@ -28,7 +28,8 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 - Recruit 5 peer mentors and volunteers to help support IT courses
 - Develop and deliver 4 week Mobile Smart Phone Course
 
-
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Finishing our smart phone course. <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/NlpX1ThQER">pic.twitter.com/NlpX1ThQER</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598114943448252416">May 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our popular smart phone course seems to have been a big success. Thanks to all who were involved. <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/GZIL1DOxJw">pic.twitter.com/GZIL1DOxJw</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598119164113506304">May 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ###June 2015
