@@ -29,6 +29,8 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 - Develop and deliver 4 week Mobile Smart Phone Course
 
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our popular smart phone course seems to have been a big success. Thanks to all who were involved. <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/GZIL1DOxJw">pic.twitter.com/GZIL1DOxJw</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598119164113506304">May 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ###June 2015
 -  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
 
