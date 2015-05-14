@@ -18,7 +18,7 @@ permalink: /projects/toryglen-community-base/
 
 ### Project description
 
-IT suite refurbishment to support the development of Toryglen Digital Base and its work teaching basic computer skills in the community. 
+IT suite refurbishment to support the development of Toryglen Digital Base and its work teaching basic and intermediate computer skills in the community. This will also be used as a drop in and job for local residents and people from the surrounding area.
 
 
 ## Project milestones
