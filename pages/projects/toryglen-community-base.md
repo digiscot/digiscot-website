@@ -35,14 +35,14 @@ Purchase and installation of equipment
 Marketing of service including recruitment of participants 
 
 
-Update: Basic and Intermediate IT classes have started and participants are enjoying using the new equipment as well as the new software which has been installed. 
+**Update:** Basic and Intermediate IT classes have started and participants are enjoying using the new equipment as well as the new software which has been installed. 
 
 ### Phase 3 February - July 2015
 
 Ongoing use of facility to support training, digital skills clubs, job clubs and community access 
 
 
-Update: Our job club who use the computer suite have remarked on the speed of the computers now and how this has helped with their job searches. 
+**Update:** Our job club who use the computer suite have remarked on the speed of the computers now and how this has helped with their job searches. 
 
 Our computer suite is also open to the public and they too are enjoying the benefits on the new computers. On average there are approximately over 50 members of our community who access the computer suite on a weekly basis.
 
