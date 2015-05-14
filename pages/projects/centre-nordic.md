@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Orkney Community Digital Heritage 
+title: Orkney and Shetland Community Digital Heritage 
 excerpt: Teaching older people how to use digital technology through the app Fieldwork GB
 lead: Centre for Nordic Studies
 website: http://www.nordic.uhi.ac.uk
