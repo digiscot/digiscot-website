@@ -27,17 +27,20 @@ IT suite refurbishment to support the development of Toryglen Digital Base and i
 
 Purchase and installation of equipment
 
+
 Update: 8 new computers purchased for our computer suite
 
 ### Phase 2 February 2015
 
 Marketing of service including recruitment of participants 
 
+
 Update: Basic and Intermediate IT classes have started and participants are enjoying using the new equipment as well as the new software which has been installed. 
 
 ### Phase 3 February - July 2015
 
 Ongoing use of facility to support training, digital skills clubs, job clubs and community access 
+
 
 Update: Our job club who use the computer suite have remarked on the speed of the computers now and how this has helped with their job searches. 
 
