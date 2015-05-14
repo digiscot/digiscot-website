@@ -28,7 +28,7 @@ IT suite refurbishment to support the development of Toryglen Digital Base and i
 Purchase and installation of equipment
 
 
-*Update:* 8 new computers purchased for our computer suite
+**Update:** 8 new computers purchased for our computer suite
 
 ### Phase 2 February 2015
 
