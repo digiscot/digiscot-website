@@ -5,7 +5,8 @@ excerpt: IT suite refurbishment to support various digital inclusion projects
 lead: Toryglen Community Base
 website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: January 2015
 end: July 2015
 award: £4,700
@@ -26,13 +27,21 @@ IT suite refurbishment to support the development of Toryglen Digital Base and i
 
 Purchase and installation of equipment
 
+Update: 8 new computers purchased for our computer suite
+
 ### Phase 2 February 2015
 
 Marketing of service including recruitment of participants 
 
+Update: Basic and Intermediate IT classes have started and participants are enjoying using the new equipment as well as the new software which has been installed. 
+
 ### Phase 3 February - July 2015
 
 Ongoing use of facility to support training, digital skills clubs, job clubs and community access 
+
+Update: Our job club who use the computer suite have remarked on the speed of the computers now and how this has helped with their job searches. 
+
+Our computer suite is also open to the public and they too are enjoying the benefits on the new computers. On average there are approximately over 50 members of our community who access the computer suite on a weekly basis.
 
 
 ## Evaluation
