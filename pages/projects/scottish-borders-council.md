@@ -5,7 +5,8 @@ excerpt: Introduction to IT and the internet
 lead: Scottish Borders Council
 website: http://www.scotborders.gov.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: May 2015
 end: March 2016
 award: £4163
@@ -22,7 +23,7 @@ permalink: /projects/scottish-borders-council/
 
 ## Project milestones
 
-
+Busy making plans for the start of Tea and Tablet after the summer :)
 
 ## Evaluation
 
