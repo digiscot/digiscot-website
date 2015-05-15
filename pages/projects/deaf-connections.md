@@ -5,7 +5,8 @@ excerpt:
 lead: Deaf Connections 
 website: http://www.deafconnections.co.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £9959
@@ -22,8 +23,9 @@ DEAFinitley Digital will support the Deaf Community to develop and advance their
 
 ## Project milestones
 
-### New paragragh
-Test paragraph.
+### Our New WAP is in providing improved internet access to our lounge and cafe.
+(https://www.facebook.com/Deafconnections/photos/a.177139525634541.47994.168607513154409/1062281897120295/?type=1)
+
 
 ## Evaluation
 
