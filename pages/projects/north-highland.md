@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Get to know the Internet
 excerpt: Basic digital and online skills training
@@ -11,7 +12,8 @@ start: May 2015
 end: September 2015
 award: £4050
 image:
-permalink: /projects/north-highland/ 
+permalink: /projects/north-highland/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

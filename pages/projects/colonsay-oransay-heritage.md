@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Colonsay Captured
 excerpt: Growing community resources with a website and the digitisation of historic archives
@@ -10,7 +11,8 @@ start: April 2015
 end: March 2016
 award: £4820
 image:
-permalink: /projects/colonsay-oransay-heritage/ 
+permalink: /projects/colonsay-oransay-heritage/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 

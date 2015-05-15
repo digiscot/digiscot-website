@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Tutorial Example
 excerpt: This is a Tutorial Example
@@ -11,7 +12,8 @@ start:
 end: 
 award: 
 image:
-permalink: /test/tutorial-example/ 
+permalink: /test/tutorial-example/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

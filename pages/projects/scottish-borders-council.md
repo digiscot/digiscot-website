@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Tea and Tablet
 excerpt: Introduction to IT and the internet 
@@ -11,7 +12,8 @@ start: May 2015
 end: March 2016
 award: £4163
 image:
-permalink: /projects/scottish-borders-council/ 
+permalink: /projects/scottish-borders-council/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

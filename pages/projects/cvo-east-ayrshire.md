@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: TransmIT 
 excerpt: TransmIT (Training in Social Media and IT).
@@ -11,7 +12,8 @@ start: February 2015
 end: TBC
 award: £9200
 image: 
-permalink: /projects/cvo-east-ayrshire/ 
+permalink: /projects/cvo-east-ayrshire/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Recounting Women
 excerpt: 
@@ -11,7 +12,8 @@ start: August 2015
 end: March 2016
 award: £8950
 image: /images/projects/SWA.jpg
-permalink: /projects/scottish-womens-aid/ 
+permalink: /projects/scottish-womens-aid/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

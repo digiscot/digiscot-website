@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Connected Communities
 excerpt: Online community portal
@@ -10,7 +11,8 @@ start: TBC
 end: TBC
 award: £10,000
 image:
-permalink: /projects/shmu/ 
+permalink: /projects/shmu/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

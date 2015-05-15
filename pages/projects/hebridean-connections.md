@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Hebridean History in the Digital Age
 excerpt: Digital skills training events across Lewis and Harris
@@ -11,7 +12,8 @@ start: April 2015
 end: March 2016
 award: £5400
 image:
-permalink: /projects/hebridean-connections/ 
+permalink: /projects/hebridean-connections/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

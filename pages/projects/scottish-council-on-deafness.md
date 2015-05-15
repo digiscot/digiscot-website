@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Connecting and Communicating
 excerpt: Improving the digital capability of SCoD to better support and communicate with members
@@ -11,7 +12,8 @@ start: February 2015
 end: June 2015
 award: £2000
 image:
-permalink: /projects/scottish-council-on-deafness/ 
+permalink: /projects/scottish-council-on-deafness/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Oasis
 excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse.
@@ -10,7 +11,8 @@ start: January 2015
 end: January 2016
 award: £9885.44
 image:
-permalink: /projects/bethany-christian-trust/ 
+permalink: /projects/bethany-christian-trust/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

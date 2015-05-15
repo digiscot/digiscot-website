@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Empowerment - Person Centred Services
 excerpt: Encouraging digital participation through action learning and knowledge exchange
@@ -10,7 +11,8 @@ start: February 2015
 end: TBC
 award: £15750
 image:
-permalink: /projects/mydex/ 
+permalink: /projects/mydex/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Computing For All
 excerpt: Teaching basic computing skills.
@@ -11,6 +12,7 @@ end: July 2015
 award: £4530
 image:
 permalink: /projects/old-torry-community-centre/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

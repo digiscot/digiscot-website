@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Linthouse Digital Learners
 excerpt: IT workshops
@@ -10,7 +11,8 @@ start: TBC
 end: TBC
 award: £1000
 image:
-permalink: /projects/linthouse-monday-club/ 
+permalink: /projects/linthouse-monday-club/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

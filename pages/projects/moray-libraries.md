@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Get Digital Clubs
 excerpt: ICT courses for the most digitally excluded
@@ -10,7 +11,8 @@ start: April 2015
 end: February 2016
 award: £9816
 image:
-permalink: /projects/moray-libraries/ 
+permalink: /projects/moray-libraries/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

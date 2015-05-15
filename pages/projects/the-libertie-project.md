@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Creative Club
 excerpt: Using creative digital activities to engage with hard to reach individuals.
@@ -10,7 +11,8 @@ start: January 2015
 end: November 2015
 award: £9,700
 image:
-permalink: /projects/the-libertie-project/ 
+permalink: /projects/the-libertie-project/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

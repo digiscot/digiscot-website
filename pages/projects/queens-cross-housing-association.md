@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Historical Connections @ Queens Cross
 excerpt: Using local history to teach older people how to use the internet 
@@ -10,7 +11,8 @@ start: January 2015
 end: January 2016
 award: £8430
 image:
-permalink: /projects/queens-cross-housing-association/ 
+permalink: /projects/queens-cross-housing-association/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Forres Online
 excerpt: Training programme for online learning and activity in Forres.
@@ -11,7 +12,8 @@ start: May 2015
 end: Dec 2015
 award: £6440
 image:
-permalink: /projects/fact/ 
+permalink: /projects/fact/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

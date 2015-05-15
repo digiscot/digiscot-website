@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digit All
 excerpt: Digital drop-in clubs
@@ -10,7 +11,8 @@ start: June 2015
 end: December 2015
 award: £9522
 image:
-permalink: /projects/argyll-voluntary-action/ 
+permalink: /projects/argyll-voluntary-action/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

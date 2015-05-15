@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Getting IT
 excerpt: This project will train voluntary and community organisations in Midlothian to help them to support their clients, service users or members to get online.
@@ -11,7 +12,8 @@ start: February 2015
 end: December 2015
 award: £10,000
 image:
-permalink: /projects/midlothian-voluntary-action/ 
+permalink: /projects/midlothian-voluntary-action/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

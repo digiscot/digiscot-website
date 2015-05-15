@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Thrive in the Digital World
 excerpt: Helping people to thrive in the digital world and reducing social isolation
@@ -10,7 +11,8 @@ start: May 2015
 end: September 2015
 award: £7000
 image:
-permalink: /projects/homestart-majik/ 
+permalink: /projects/homestart-majik/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

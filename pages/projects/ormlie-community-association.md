@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital access and IT skills
 excerpt: Supported digital access and improving IT skills.
@@ -11,7 +12,8 @@ start: April 2015
 end: January 2016
 award: £10,000
 image:
-permalink: /projects/ormlie-community-association/ 
+permalink: /projects/ormlie-community-association/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

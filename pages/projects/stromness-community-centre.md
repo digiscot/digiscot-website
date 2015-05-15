@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Bridging the Gap Getting Online
 excerpt: Beginner internet sessions delivered by young people for older people in the community
@@ -10,7 +11,8 @@ start: August 2015
 end: January 2016
 award: £2206
 image:
-permalink: /projects/stromness-community-centre/ 
+permalink: /projects/stromness-community-centre/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

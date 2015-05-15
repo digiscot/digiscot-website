@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Toryglen Digital Base
 excerpt: IT suite refurbishment to support various digital inclusion projects
@@ -11,7 +12,8 @@ start: January 2015
 end: July 2015
 award: £4,700
 image:
-permalink: /projects/toryglen-community-base/ 
+permalink: /projects/toryglen-community-base/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Me Help Me
 excerpt: Introducing digital technology to alleviate symptoms of isolation and stress and also promote self-care and good health
@@ -10,7 +11,8 @@ start: January 2015
 end: TBC
 award: £823.79
 image:
-permalink: /projects/homelands-trust/ 
+permalink: /projects/homelands-trust/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

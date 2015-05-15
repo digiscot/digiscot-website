@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: City & Guilds Training
 excerpt: IT & digital skills training working towards accredited qualifications
@@ -10,7 +11,8 @@ start: January 2015
 end: N/A
 award: £9156
 image:
-permalink: /projects/link-housing/ 
+permalink: /projects/link-housing/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

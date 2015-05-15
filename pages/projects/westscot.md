@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Inclusion Coordinator
 excerpt: Digital Inclusion Coordinator to teach digital skills 
@@ -10,7 +11,8 @@ start: April 2015
 end: April 2016
 award: £9901.36
 image:
-permalink: /projects/westscot/ 
+permalink: /projects/westscot/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

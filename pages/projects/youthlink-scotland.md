@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Coming Soon
 excerpt: 
@@ -10,7 +11,8 @@ start:
 end: 
 award: 
 image:
-permalink: /projects/youthlink-scotland/ 
+permalink: /projects/youthlink-scotland/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Volunteer with IT
 excerpt: IT sessions with peer mentoring
@@ -11,6 +12,7 @@ end: June 2015
 award: £3148.40
 image:
 permalink: /projects/volunteer-centre-dundee/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

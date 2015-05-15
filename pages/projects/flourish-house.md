@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Inclusion through Entrepreneurship 
 excerpt: Developing IT skills and boosting organisational online fundraising activity 
@@ -11,7 +12,8 @@ start: May 2015
 end: March 2016
 award: 
 image:
-permalink: /projects/flourish-house/ 
+permalink: /projects/flourish-house/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

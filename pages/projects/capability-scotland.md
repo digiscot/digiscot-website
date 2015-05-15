@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: ICT suite refurbishment 
 excerpt: Developing the ICT suite at Upper Springland residental and daycare service to enable wheelchair access. 
@@ -10,7 +11,8 @@ start: February 2015
 end: February 2016
 award: £6000
 image:
-permalink: /projects/capability-scotland/ 
+permalink: /projects/capability-scotland/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

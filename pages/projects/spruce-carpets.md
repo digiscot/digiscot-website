@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: The Spruce Hub
 excerpt: Accredited IT skills training.
@@ -12,6 +13,7 @@ end: June 2015
 award: £1,600
 image:
 permalink: /projects/spruce-carpets/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

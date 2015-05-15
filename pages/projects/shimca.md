@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: IT for total beginners
 excerpt: 
@@ -11,7 +12,8 @@ start: June 2015
 end: July 2015
 award: £3110 
 image: /images/projects/shimca.jpg
-permalink: /projects/shimca/ 
+permalink: /projects/shimca/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

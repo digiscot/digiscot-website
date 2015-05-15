@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Smart Communities Volunteer Digital Champions
 excerpt: Volunteer Digital Champions programme
@@ -11,7 +12,8 @@ start: March 2015
 end: March 2016
 award: £10,000
 image:
-permalink: /projects/thenue-housing/ 
+permalink: /projects/thenue-housing/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

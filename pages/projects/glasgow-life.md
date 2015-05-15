@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digitally Agile Staff CPD
 excerpt: Online learning resource for staff working with client groups least likely to have basic digital skills.
@@ -10,7 +11,8 @@ start: April 2015
 end: October 2015
 award: £7970.79
 image:
-permalink: /projects/glasgow-life/ 
+permalink: /projects/glasgow-life/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

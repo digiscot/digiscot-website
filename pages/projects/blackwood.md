@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Blackwood Connect
 excerpt: Basic digital skills training for tenants
@@ -10,7 +11,8 @@ start: April 2015
 end: March 2016
 award: £10,000
 image:
-permalink: /projects/blackwood/ 
+permalink: /projects/blackwood/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

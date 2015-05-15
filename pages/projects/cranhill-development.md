@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Works Club @ Ruchazie
 excerpt: Click and Connect Learning Centre in Ruchazie Parish Church
@@ -10,7 +11,8 @@ start: April 2015
 end: March 2016
 award: £8721.91
 image:
-permalink: /projects/cranhill-development/ 
+permalink: /projects/cranhill-development/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

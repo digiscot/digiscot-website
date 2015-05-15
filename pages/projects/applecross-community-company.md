@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Apples for Applecross
 excerpt: Digital skills lessons and tutoring
@@ -11,6 +12,7 @@ end: February 2016
 award: £6250
 image:
 permalink: /projects/applecross-community-company/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Video Volunteers
 excerpt: To encourage engagement with and confidence in digital technology
@@ -10,7 +11,8 @@ start: May 2015
 end: March 2016
 award: £5200
 image:
-permalink: /projects/partnerships-for-wellbeing/ 
+permalink: /projects/partnerships-for-wellbeing/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

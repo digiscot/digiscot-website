@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Take a Tablet
 excerpt: Tablet training for older people
@@ -11,7 +12,8 @@ start: April 2015
 end: March 2016
 award: £8659
 image:
-permalink: /projects/castle-douglas/ 
+permalink: /projects/castle-douglas/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

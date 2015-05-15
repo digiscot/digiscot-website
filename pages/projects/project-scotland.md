@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: LinkedIn workshops
 excerpt: Get on in life workshop programme - LinkedIn workshops.
@@ -10,7 +11,8 @@ start: January 2015
 end: March 2016
 award: £4019.59
 image:
-permalink: /projects/project-scotland/ 
+permalink: /projects/project-scotland/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

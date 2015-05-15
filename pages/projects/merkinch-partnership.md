@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Merkinch Gets Online
 excerpt: Supporting local people to access online services and resources
@@ -10,7 +11,8 @@ start: April
 end: October
 award: £8650
 image:
-permalink: /projects/merkinch-partnership/ 
+permalink: /projects/merkinch-partnership/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

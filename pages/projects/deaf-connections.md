@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: DEAFinitely Digital
 excerpt: 
@@ -11,7 +12,8 @@ start: April 2015
 end: March 2016
 award: £9959
 image:
-permalink: /projects/deaf-connections/ 
+permalink: /projects/deaf-connections/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

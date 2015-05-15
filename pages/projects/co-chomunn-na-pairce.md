@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Drop-In
 excerpt: Drop-in digital training sessions
@@ -10,7 +11,8 @@ start: May 2015
 end: December 2015
 award: £1350
 image:
-permalink: /projects/co-chomunn-na-pairce/ 
+permalink: /projects/co-chomunn-na-pairce/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

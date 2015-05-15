@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Connected Up
 excerpt: Digital skills training for older people
@@ -12,6 +13,7 @@ end: December 2015
 award: £4520
 image:
 permalink: /projects/annexe-communities/ 
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

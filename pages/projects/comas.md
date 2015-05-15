@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Dot Can
 excerpt: Digital skills sessions to help disadvantaged people use online services and access the support they need.
@@ -11,7 +12,8 @@ start: January 2015
 end: December 2015
 award: £9985
 image:
-permalink: /projects/comas/ 
+permalink: /projects/comas/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

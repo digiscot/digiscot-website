@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Orkney and Shetland Community Digital Heritage 
 excerpt: Teaching older people how to use digital technology through the app Fieldwork GB
@@ -11,7 +12,8 @@ start: May 2015
 end: December 2015 
 award: £8091
 image:
-permalink: /projects/centre-nordic/ 
+permalink: /projects/centre-nordic/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Move On IT Literacy Project
 excerpt: IT literacy skills for homeless people and care leavers in Glasgow
@@ -11,7 +12,8 @@ start: April 2015
 end: March 2016
 award: £6440
 image:
-permalink: /projects/move-on/ 
+permalink: /projects/move-on/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

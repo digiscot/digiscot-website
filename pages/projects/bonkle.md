@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Choice and use of Digital Computers
 excerpt: Introduction to computers, tablets and notebooks and how to use them
@@ -11,7 +12,8 @@ start: March 2015
 end: August 2015
 award: £900
 image:
-permalink: /projects/bonkle/ 
+permalink: /projects/bonkle/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

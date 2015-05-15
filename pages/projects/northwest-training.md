@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Our Stories Your Memories
 excerpt: Basic computer skills tuition for older people
@@ -11,7 +12,8 @@ start: April 2015
 end: March 2016
 award: £3910
 image:
-permalink: /projects/northwest-training/ 
+permalink: /projects/northwest-training/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

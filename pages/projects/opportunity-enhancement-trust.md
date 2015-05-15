@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital skills through football
 excerpt: Using football as a means to help people develop digital skills
@@ -11,6 +12,7 @@ end: November 2015
 award: £17500
 image:
 permalink: /projects/opportunity-enhancement-trust/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

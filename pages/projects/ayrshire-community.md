@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Skills Job Club
 excerpt: Twice weekly Digital Skills Job Club
@@ -10,7 +11,8 @@ start: April 2015
 end: March 2016
 award: £14,268 
 image:
-permalink: /projects/ayrshire-community/ 
+permalink: /projects/ayrshire-community/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

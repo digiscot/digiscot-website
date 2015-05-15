@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Our Digital Zone
 excerpt: Variety of digital participation activity across the Highlands
@@ -11,6 +12,7 @@ end: August 2015
 award: £15,000
 image:
 permalink: /projects/citizens-online/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

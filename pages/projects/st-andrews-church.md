@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Community Spirit Learning Zone
 excerpt: Teaching basic computer skills alongside job search support and literacy and numeracy support
@@ -11,7 +12,8 @@ start: April 2015
 end: February 2016
 award: £323
 image:
-permalink: /projects/st-andrews-church/ 
+permalink: /projects/st-andrews-church/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

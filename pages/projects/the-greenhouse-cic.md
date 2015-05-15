@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: The Greenhouse Digital Participation Programme
 excerpt: IT equipment and digital skills sessions for the community
@@ -11,7 +12,8 @@ start: January 2015
 end: August 2015
 award: £5636
 image:
-permalink: /projects/the-greenhouse-cic/ 
+permalink: /projects/the-greenhouse-cic/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

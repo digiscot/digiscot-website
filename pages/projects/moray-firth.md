@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Audio and Radio Production
 excerpt: Part time courses in digital and radio broadcasting production
@@ -11,7 +12,8 @@ start: April 2015
 end: October 2015
 award: £11,172
 image:
-permalink: /projects/moray-firth/ 
+permalink: /projects/moray-firth/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

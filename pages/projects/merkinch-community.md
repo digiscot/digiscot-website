@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: UR CIRCLE
 excerpt: Informal computer drop-in sessions to boost IT skills and reduce social isolation
@@ -10,7 +11,8 @@ start: April 2015
 end: March 2016
 award: £6985
 image:
-permalink: /projects/merkinch-community/ 
+permalink: /projects/merkinch-community/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

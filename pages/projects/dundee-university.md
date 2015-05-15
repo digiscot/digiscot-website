@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Tap and Talk
 excerpt: Support group to help adults with aphasia explore the benefits of technology 
@@ -10,7 +11,8 @@ start: May 2015
 end: November 2015
 award: £7250
 image:
-permalink: /projects/dundee-university/ 
+permalink: /projects/dundee-university/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan

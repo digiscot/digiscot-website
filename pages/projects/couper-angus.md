@@ -1,4 +1,5 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Strathmore Skills Centre
 excerpt: Basic digital skills lessons for local people
@@ -10,7 +11,8 @@ start: February 2015
 end: December 2015
 award: £860
 image:
-permalink: /projects/couper-angus/ 
+permalink: /projects/couper-angus/
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan
