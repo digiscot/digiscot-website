@@ -32,6 +32,11 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our popular smart phone course seems to have been a big success. Thanks to all who were involved. <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/GZIL1DOxJw">pic.twitter.com/GZIL1DOxJw</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598119164113506304">May 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Mark, one of our newest peer mentors in our digital inclusion courses <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/ysvwsGZdps">pic.twitter.com/ysvwsGZdps</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598870325825282048">May 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Shug, another one of our great peer mentors that helps us lead our digital inclusion courses <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/BfR1jhZUKS">pic.twitter.com/BfR1jhZUKS</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598871658062094336">May 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###June 2015
 -  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
 
