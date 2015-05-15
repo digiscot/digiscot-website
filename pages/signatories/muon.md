@@ -1,10 +1,10 @@
 ---
 layout: signatory
-title: Muon
+title: Muon Consulting
 excerpt: 
-website: 
+website: http://www.muon.co.uk
 twitter-url: 
-email: 
+email: info@muon.co.uk
 image: /images/signatories/muon.jpg
 permalink: /charter/muon/
 ---
