@@ -52,13 +52,15 @@ Phase one:
 
 We have established Digital Drop in Surgeries and staff slots within Comas projects on a weekly basis Mondays mornings for staff digital induction and this involves utilising Comas shared drive, intraweb, Email set up on computers and hand held devices. Setting up google calendar and using the web effectively.5 members of staff have already been through this with more on the way in May. 4 Volunteers have engaged in DI work including using Excel for report writing as part of their SVQ in community development, using the internet effectively for sourcing materials and images, creating reports on MS office packages, saving documents and group emailing. 
 
-Memory Box:has been a bit slower to start though we've now done 3 one to highlight how these can be used and shaped by individuals and groups - [Memory Box Stories](http://memoryboxstories.com/stories.php?id=0F5175KgA5)
-3 Community work staff involved in learning about digital inclusion and opportunities for more learning. with the idea to roll out to the community.
+Memory Box:has been a bit slower to start though we've now done 3 one to highlight how these can be used and shaped by individuals and groups - [Memory Box Stories](http://memoryboxstories.com/stories.php?id=0F5175KgA5).
+
+3 Community work staff involved in learning about digital inclusion and opportunities for more learning with the idea to roll out to the community.
+
 Community Drop ins at the Serenity have started and have 4 people in recovery now more skilled in using web based tools for messaging and social media. using tablets and smart phones in particular. 
 
-This has already led to staff enquiries about software packages for doing newsletters etc so going to run some short classes specifcally on linking MS office and other packages that are presently underused. Meanwhile providing people with templates and digital examples of reports that they can alter to their project needs. 
+This has already led to staff enquiries about software packages for doing newsletters etc. so going to run some short classes specifcally on linking MS office and other packages that are presently underused. Meanwhile providing people with templates and digital examples of reports that they can alter to their project needs. 
 
-Dumbiedykes are has a new computer linked into the shop with access for follk to do online forms and use it for emailing, skyping and shopping. Will be running classes and assisted support next week and have 3 people signed up to help them understand different aspects of using IT. 
+Dumbiedykes area has a new computer linked into the shop with access for folk to do online forms and use it for emailing, skyping and shopping. Will be running classes and assisted support next week and have 3 people signed up to help them understand different aspects of using IT. 
 
 ### Outputs and outcomes
 
