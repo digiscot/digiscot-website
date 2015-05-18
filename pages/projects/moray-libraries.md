@@ -23,7 +23,7 @@ Get DigITal Clubs will target older people, people with disabilities and job see
 To upskill those in the community to be able fully participate in the digital age.
 
 ## Progress
-We have made it to the front page of the Moray Council Internet pages http://www.moray.gov.uk and the local press has been very interested in our project and as a result have been filling up places very quickly.
+We have made it to the front page of the [Moray Council Internet pages](http://www.moray.gov.uk) and the local press has been very interested in our project and as a result have been filling up places very quickly.
 
 
 ## Evaluation
