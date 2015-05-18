@@ -6,7 +6,8 @@ excerpt: ICT courses for the most digitally excluded
 lead: Moray Libraries and Information Service
 website: http://www.moray.gov.uk/moray_standard/page_1472.html
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: February 2016
 award: £9816
@@ -19,8 +20,10 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 Get DigITal Clubs will target older people, people with disabilities and job seekers with little or no ICT experience. Participants will undertake a  4 week  (2 hours per week) basic ICT course run by one of our Learning Centre Advisers and then be supported ,to practice their new skills, by volunteers recruited from learners who have: completed one of our accredited courses; or who have declared an interest as a result of our advertising campaign
 
 ### Project description
+To upskill those in the community to be able fully participate in the digital age.
 
-
+## Progress
+We have made it to the front page of the Moray Council Internet pages http://www.moray.gov.uk and the local press has been very interested in our project and as a result have been filling up places very quickly.
 
 
 ## Evaluation
