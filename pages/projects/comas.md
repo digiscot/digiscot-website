@@ -65,12 +65,19 @@ Dumbiedykes area has a new computer linked into the shop with access for folk to
 ### Outputs and outcomes
 
 Outcomes
+
 1. An embedded approach to digital inclusion throughout Comas projects, in which all our community members are aware of online opportunities, services and resources which can enrich, empower and enable them to live happier, healthier lives and participate in society.
-2 A more digitally aware and skilled group of staff (many are community members in their first community work roles), who can sustain embedded digital empowerment in their work.
+
+2. A more digitally aware and skilled group of staff (many are community members in their first community work roles), who can sustain embedded digital empowerment in their work.
+
 Outputs
+
 3. Twenty community work staff will be more skilled in digital inclusion and confident to sustain digital participation.
-4 Twenty vulnerable older people in Craigmillar will develop skills through digitising family mementoes and creating an online memorybox to share with younger generations of their families.  Forty weekly Dot Can group sessions.
-5.	50 people recovering from addiction in Serenity Café will have email addresses, be able to use a Drop Box / OneDrive to store a CV and essential files, use Google Calendar to manage their appointments and volunteering, and feel confident to browse the internet. 50  1:1 surgery sessions and 12 monthly drop-in Q&A sessions.
+
+4. Twenty vulnerable older people in Craigmillar will develop skills through digitising family mementoes and creating an online memorybox to share with younger generations of their families.  Forty weekly Dot Can group sessions.
+
+5. 50 people recovering from addiction in Serenity Café will have email addresses, be able to use a Drop Box / OneDrive to store a CV and essential files, use Google Calendar to manage their appointments and volunteering, and feel confident to browse the internet. 50  1:1 surgery sessions and 12 monthly drop-in Q&A sessions.
+
 6. 	The Dumbiedykes community will have improved access to online resources through accessible PCs in their community and a full investigation of community broadband; 30 people with limited mobility will be supported to shop and access services online; 20 unemployed people will be able to use online job searches, an email address and DropBox/OneDrive for their CV.  A Dot Can development group of residents will meet weekly for 6 months to develop community solutions.
 
 
@@ -79,11 +86,11 @@ Outputs
 Things that worked well so far:
 
 1. Huge demand and need to be very flexible in responding as people at very diferent and often basic levles of comprehension about using IT very much afraid to utilise it through stories of machines crashing to viruses etc.
-2. working where people are at and at a speed that is suitable for them using ordinary language.
+2. Working where people are at and at a speed that is suitable for them using ordinary language.
 3. Text
 
 Things that we would do differently next time:
 
-1. get more resources to have more time to do it
-2. market it clearer from the start 
+1. Get more resources to have more time to do it
+2. Market it clearer from the start 
 3. Text
