@@ -33,7 +33,13 @@ DEAFinitley Digital will support the Deaf Community to develop and advance their
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+We have hit something of a snag! We have bought an HP server and 4 HP T410 thin clients, the idea being that buying from the one vendor will avoid any compatibility issues. The data sheet on the HP website says the T410 gives "PC-like performance" and the "highest quality multimedia performance" which sounded exactly what we needed.
+Installation of the server went very well, no great issues at all. The T410 thin client linked up seamlessly, but running a video, from either the iPlayer or Youtube, was a disaster.
+A bit of an issue for a Deaf organisation that uses a lot of BSL videos.
+We contacted HP and this was their official responce: "due to a hardware limitation and HP R&D can not provide any fix or improvement of the performance with t410 using application such as youtube, excel, Internet Explorer, MS office etc."
+In other words this client won't run anything!
+We are now looking at different thin clients and will post pictures when we have everything up and running.
+For now we're more than disappointed.
 
 ### Outputs and outcomes
 
