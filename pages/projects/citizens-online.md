@@ -58,8 +58,7 @@ The project has got off to a flying start: our crack team in the Highlands and I
 
 We have agreed our marketing with our ever patient and supportive funding partners - as well as the funds we receive from SCVO through the Challenge Fund, we are also incredibly lucky to receive further financial support from Highlands and Islands Enterprise as part of their wider digital participation agenda. We've been careful in creating our posters to use shared language around digital inclusion, working together with partners to promote activity in a way that is recognised not only to be effective but also that creates the positive and empowering message of participation. 
 
-Our newly branded PowerPoint slides got their first airing at the DigiScotFest in the Western Isles, where we travelled to meet a range of partners and discuss our plans for the coming months ahead, meeting with our Challenge Fund buddies, the fantastic Hebridean Connections. 
-http://www.hebrideanconnections.com/ 
+Our newly branded PowerPoint slides got their first airing at the DigiScotFest in the Western Isles, where we travelled to meet a range of partners and discuss our plans for the coming months ahead, meeting with our Challenge Fund buddies, the fantastic [Hebridean Connections](http://www.hebrideanconnections.com/)  
 
 But most importantly, we have our first sessions up and running! Classes and sessions started this month, and are detailed on HIE's website [here](http://www.hie.co.uk/about-hie/events/) 
 
