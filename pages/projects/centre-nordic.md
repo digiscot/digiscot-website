@@ -34,7 +34,7 @@ Milestone 3: Mid-way review. CNS assesses the progress of the project at its hal
 Milestone 4: Additional work on the website. Collecting and presentation of data captured by community agents and new project participants. Match funding: staff time, IT help and use of CNS accommodation. This work will make sure that the website contains all data captured so far and will give training to new participants or existing ones still in need of help. Expected completion date: 25/12/15
 
 
-***Achievements:*** 
+**Achievements:**
 
 On April 18 Ragnhild Ljosland and Alex Sanmark gave a presentation to the Orkney Heritage Society. The members were delighted and were keen to be involved. A new meeting has been scheduled. 
 
