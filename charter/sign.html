@@ -26,10 +26,10 @@
             text-decoration: none;
         }
 
-            .mtitle a {
-                color: white;
-                text-decoration: none;
-            }
+        .mtitle a {
+            color: white;
+            text-decoration: none;
+        }
 
         /*#OrganisationAssistance_lbl {
             left: 0px !important;
@@ -466,11 +466,14 @@
 
                                         </div>
                                         
-                                        <div class="form-group">
-                                            <label>
-                                                <label for="OrganisationAssistance">Please include a logo of your organisation:</label>
-                                            </label>
-                                            <input type="file" class="alert alert-info" id="logoFile" name="logoFile" accept="image/*">
+                                        <div class="form-group" id="logoFileBox">
+                                            <b>Please include a logo of your organisation:</b><br />
+                                            <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
+                                            <span class="text-danger field-validation-error" id="logoFileValidationError" style="display:none;">
+                                                <span id="LogoFile-error" class="">
+                                                    Logo is required
+                                                </span>
+                                            </span>
                                         </div>
 
                                         <div class="form-group">
@@ -500,6 +503,11 @@
 </form>
 
     <script type="text/javascript">
+
+        function logoFileChanged() {
+            $("#logoFileValidationError").hide();
+        }
+
         function validate() {
             $("#divProcessing").show();
             var message = "";
@@ -507,9 +515,9 @@
             //    message += "Job title is required\n";
             //}
 
-            if ($("#SectorId").val() == '') {
-                message += "Sector is required\n";
-            }
+            //if ($("#SectorId").val() == '') {
+            //    message += "Sector is required\n";
+            //}
 
             if (message != "") {
                 $("#divProcessing").hide();
@@ -584,7 +592,7 @@
 
             window.setTimeout(function () {
                 $(".alert").fadeTo(200, 0).slideUp(200, function () {
-                    $(this).remove();
+                    //$(this).remove();
                 });
             }, 5000);
             $('.alert .close').on("click", function (e) {
@@ -593,10 +601,11 @@
         }
 
         function OnErrorCall(error) {
+            $("#logoFileValidationError").show();
             $(".result").html('<div class="alert alert-danger"><button type="button" class="close">&times;</button>  <br />' + error + '</div>');
             window.setTimeout(function () {
                 $(".alert").fadeTo(500, 0).slideUp(500, function () {
-                    $(this).remove();
+                    //$(this).remove();
                 });
             }, 5000);
             $('.alert .close').on("click", function (e) {
