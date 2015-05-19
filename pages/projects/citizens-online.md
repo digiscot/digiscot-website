@@ -61,7 +61,7 @@ We have agreed our marketing with our ever patient and supportive funding partne
 Our newly branded PowerPoint slides got their first airing at the DigiScotFest in the Western Isles, where we travelled to meet a range of partners and discuss our plans for the coming months ahead, meeting with our Challenge Fund buddies, the fantastic Hebridean Connections. 
 http://www.hebrideanconnections.com/ 
 
-But most importantly, we have our first sessions up and running! Classes and sessions started this month, and are detailed on HIE's website here: http://www.hie.co.uk/about-hie/events/
+But most importantly, we have our first sessions up and running! Classes and sessions started this month, and are detailed on HIE's website [here](http://www.hie.co.uk/about-hie/events/) 
 
 Over the coming months, we hope to pull together some fab case studies and wee videos to share with you.
 
