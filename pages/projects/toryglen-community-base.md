@@ -32,6 +32,8 @@ Purchase and installation of equipment
 
 ### Phase 2 February 2015
 
+![Toryglen Poster](/images/projects/Toryglen Community Base 7.jpg)
+
 Marketing of service including recruitment of participants.  
 
 **Update**  With no local library and the levels of deprivation higher than the Glasgow average the marketing of the computer suite has been welcomed by many.  Advertising was done through the local housing newsletter, leaflets in shop windows, doctors/dentist surgeries, school gates, etc.  Moreover, a large network was reached by e-mail and facebook as well as attending networking events to promote this facility.
@@ -54,6 +56,12 @@ Our computer suite is also open to the public and they too are enjoying the bene
 
 **Update**  This number will increase as more specialised groups are interested in running IT specialised courses.  WSREC are discussing over 55's BME IT classes and a BME Job club from Toryglen Community Base.  A local "Reminiscence" group also utilises the IT suite when required.  Within the Base, Urban Roots an environmental project use the suite with their volunteers to undertake project work.  Other groups such as First Steps confidence building will use computers to undertake personality testing and Next Steps employability course will use the computers for CV creation and on-line programmes to identify skills and strenghts.
 
+![Toryglen Poster](/images/projects/Toryglen Community Base 1.jpg)
+![Toryglen Poster](/images/projects/Toryglen Community Base 2.jpg)
+![Toryglen Poster](/images/projects/Toryglen Community Base 3.jpg)
+![Toryglen Poster](/images/projects/Toryglen Community Base 4.jpg)
+![Toryglen Poster](/images/projects/Toryglen Community Base 5.jpg)
+![Toryglen Poster](/images/projects/Toryglen Community Base 6.jpg)
 
 ## Evaluation
 
