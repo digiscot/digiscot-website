@@ -32,6 +32,8 @@ Purchase and installation of equipment
 
 ### Phase 2 February 2015
 
+![Toryglen Poster](/images/Toryglen Community Base 7.jpg)
+
 Marketing of service including recruitment of participants.  
 
 **Update**  With no local library and the levels of deprivation higher than the Glasgow average the marketing of the computer suite has been welcomed by many.  Advertising was done through the local housing newsletter, leaflets in shop windows, doctors/dentist surgeries, school gates, etc.  Moreover, a large network was reached by e-mail and facebook as well as attending networking events to promote this facility.
