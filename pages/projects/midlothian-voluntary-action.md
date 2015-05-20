@@ -70,6 +70,8 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 * May 5th - gave training to 15 staff at The Orchard Centre (Health in Mind) in Bonnyrigg
  
+* May 19th - sent email to 445 organisations in Midlothian promoting the project: <a href="http://us6.campaign-archive2.com/?u=80f4363fd5fef419efb977c50&id=49e53e4c99&e=914299f722" target="_new">Online Version</a>
+ 
 <img src="https://lh3.googleusercontent.com/-OUY9nblSij0/VUi3UagmlQI/AAAAAAAAH7A/vKCyc5rK5-8/s912/WP_20150505_003.jpg" alt="Orchard Centre staff" width="500">
 
 ### Development Phase 2: July - September 2015
