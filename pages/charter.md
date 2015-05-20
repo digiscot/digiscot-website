@@ -56,7 +56,7 @@ Over a hundred partners have signed the Charter and pledged their support for di
 We need to know a little bit about your organisation to get you signed up to the Charter. Once we have this we will be in touch to confirm your support and discuss how we can work together. 
 If you need more information please [contact us](/contact/).
 
-<a class="btn btn-primary btn-lg" onclick="return windowpop('http://surveywithus.com/', 545, 433)">Sign the charter</a>
+<a class="btn btn-primary btn-lg" href="/charter/sign.html">Sign the charter</a>
 
 <script>
   function windowpop(url, width, height) {
