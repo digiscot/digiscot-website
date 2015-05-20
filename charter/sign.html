@@ -329,11 +329,11 @@
                                                 <label for="DigitalLiteracyScale">What percentage of paid employees within your organisation's workforce do you estimate to have the basic digital skills outlined above?</label>
                                                 <select id="DigitalLiteracyScale" name="DigitalLiteracyScale" class="form-control">
                                                     <option value="default">Please select</option>
-                                                    <option value="100% of paid employees">100% of paid employees</option>
-                                                    <option value="At least 75% of paid employees">At least 75% of paid employees</option>
-                                                    <option value="At least 50% of paid employees">At least 50% of paid employees</option>
-                                                    <option value="At least 25% of paid employees">At least 25% of paid employees</option>
-                                                    <option value="Less than 25% of paid employees">Less than 25% of paid employees</option>
+                                                    <option value="100% of staff">100% of paid employees</option>
+                                                    <option value="At least 75% of staff">At least 75% of paid employees</option>
+                                                    <option value="At least 50% of staff">At least 50% of paid employees</option>
+                                                    <option value="At least 25% of staff">At least 25% of paid employees</option>
+                                                    <option value="Less than 25% of staff">Less than 25% of paid employees</option>
                                                     <option value="Don't know">Don't know</option>
                                                 </select>
 
@@ -350,7 +350,7 @@
                                                     <option value="At least 50% of volunteers">At least 50% of volunteers</option>
                                                     <option value="At least 25% of volunteers">At least 25% of volunteers</option>
                                                     <option value="Less than 25% of volunteers">Less than 25% of volunteers</option>
-                                                    <option value="Don&#39;t know">Don&#39;t know</option>
+                                                    <option value="Don't know">Don't know</option>
                                                 </select>
 
                                             </div>
@@ -471,7 +471,7 @@
                                             <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
                                             <span class="text-danger field-validation-error" id="logoFileValidationError" style="display:none;">
                                                 <span id="LogoFile-error" class="">
-                                                    Logo is required
+                                                    Please include an image file (max 4 MB)
                                                 </span>
                                             </span>
                                         </div>
@@ -530,6 +530,8 @@
         }
         $(document).ready(function () {
 
+            OnSuccessCall();
+
             //$("[id$='OrganisationAssistance']").limit_textarea({ maxLength: 500, displayTextPosition: 'bottomleft' });
             //$("[id$='PotentialOffers']").limit_textarea({ maxLength: 500, displayTextPosition: 'bottomleft' });
 
@@ -555,7 +557,6 @@
                 success: function (response) {
                     if (response === '') {
                         OnSuccessCall();
-                        //$('#chatter-form').slideUp();
                     } else {
                         OnErrorCall('Problems reported while saving your data:  ' + response);
                     }
@@ -585,23 +586,13 @@
         });
 
         function OnSuccessCall() {
-            
-            //if (modalContainerId != null)
-
-            $(".result").html('<div class="alert alert-block alert-success "><button type="button" class="close">&times;</button>Successfully submitted your record!</div>');
-
-            window.setTimeout(function () {
-                $(".alert").fadeTo(200, 0).slideUp(200, function () {
-                    //$(this).remove();
-                });
-            }, 5000);
-            $('.alert .close').on("click", function (e) {
-                $(this).parent().fadeTo(200, 0).slideUp(200);
-            });
+            window.location.href = 'http://digital.scvo.org.uk/charter/ok.html';
         }
 
         function OnErrorCall(error) {
-            $("#logoFileValidationError").show();
+            if (!$("#logoFile").val()) {
+                $("#logoFileValidationError").show();
+            }
             $(".result").html('<div class="alert alert-danger"><button type="button" class="close">&times;</button>  <br />' + error + '</div>');
             window.setTimeout(function () {
                 $(".alert").fadeTo(500, 0).slideUp(500, function () {
