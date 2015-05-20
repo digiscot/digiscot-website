@@ -20,7 +20,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Dot Can will help disadvantaged people to use online resources, communicate online and access services and support they need. Dot Can will reduce isolation, empower people and reduce barriers to full participation in society. We will do so by using community development techniques.
+Dot Can will help disadvantaged people to use online resources, communicate online and access services and the support they need. Dot Can will reduce isolation, empower people and reduce barriers to full participation in society. We will do so by using community development techniques.
 
 
 
@@ -46,13 +46,13 @@ Conclude groups and handover to volunteers to sustain activity.
 
 ## Evaluation
 
-The project has kicked off in a way we didnt fully anticipate, the concept and the practical need was so readily understood and the demand so high that it has really taken off and skewed the phased approach we had initially planned. We now are having to temper it to provide manageable responses as demand outstrips our capacity on the projext as it takes time to develop quality volunteeering opportunities. 
+The project has started well, the concept and the practical need was so readily understood and the demand high, that it has really taken off. Demand already outstrips our capacity on the project. this is partly because it takes time to develop quality volunteers to help out. 
 
 Phase one: 
 
-We have established Digital Drop in Surgeries and staff slots within Comas projects on a weekly basis Mondays mornings for staff digital induction and this involves utilising Comas shared drive, intraweb, Email set up on computers and hand held devices. Setting up google calendar and using the web effectively.5 members of staff have already been through this with more on the way in May. 4 Volunteers have engaged in DI work including using Excel for report writing as part of their SVQ in community development, using the internet effectively for sourcing materials and images, creating reports on MS office packages, saving documents and group emailing. 
+We have established Digital Drop-in Surgeries and staff slots within Comas projects on a weekly basis.  Monday mornings for staff digital induction and this involves utilising Comas shared drive, intraweb, Email set up on computers and hand held devices. Setting up Google calendar accounts and using the web effectively.  5 members of staff have already been through this with more on the way in May. 4 Volunteers have engaged in Digital Inclusion work including using Excel for report writing as part of their SVQ in community development, using the internet effectively for sourcing materials and images, creating reports on MS office packages, saving documents and group emailing. 
 
-Memory Box:has been a bit slower to start though we've now done 3 one to highlight how these can be used and shaped by individuals and groups - [Memory Box Stories](http://memoryboxstories.com/stories.php?id=0F5175KgA5).
+Memory Box:has been a bit slower to start though we've now done 3,  one to highlight how these can be used and shaped by individuals and groups - [Memory Box Stories](http://memoryboxstories.com/stories.php?id=0F5175KgA5).
 
 3 Community work staff involved in learning about digital inclusion and opportunities for more learning with the idea to roll out to the community.
 
@@ -60,7 +60,7 @@ Community Drop ins at the Serenity have started and have 4 people in recovery no
 
 This has already led to staff enquiries about software packages for doing newsletters etc. so going to run some short classes specifcally on linking MS office and other packages that are presently underused. Meanwhile providing people with templates and digital examples of reports that they can alter to their project needs. 
 
-Dumbiedykes area has a new computer linked into the shop with access for folk to do online forms and use it for emailing, skyping and shopping. Will be running classes and assisted support next week and have 3 people signed up to help them understand different aspects of using IT. 
+Dumbiedykes area has a new computer linked into the shop with access for folk to do online forms and use it for emailing, skypeing and shopping. Will be running classes and assisted support next week and have 3 people signed up to help them understand different aspects of using IT. First session was helping a community activist to use a scanner and send info for a local area newsletter, taking viruses off machines and linking up hardware for staff, changing wi fi passwords and access for shop users. 
 
 ### Outputs and outcomes
 
@@ -85,12 +85,12 @@ Outputs
 
 Things that worked well so far:
 
-1. Huge demand and need to be very flexible in responding as people at very diferent and often basic levles of comprehension about using IT very much afraid to utilise it through stories of machines crashing to viruses etc.
-2. Working where people are at and at a speed that is suitable for them using ordinary language.
-3. Text
+1. Need to be very flexible in responding as people at very diferent and often basic levles of comprehension about using IT. Some very much afraid to utilise it because of hearing stories of machines crashing,  viruses being uploaded and the jargon people use has held them back from using IT before.
+2. Working where people are at, showing how useful it can be and going at a speed that is suitable for them using ordinary language seems to help a lot.
+3. 
 
 Things that we would do differently next time:
 
 1. Get more resources to have more time to do it
-2. Market it clearer from the start 
+2. Market it clearer from the start on what we can and cant do. i.e we're not going to do it all for them we're to help them do it themselves. 
 3. Text
