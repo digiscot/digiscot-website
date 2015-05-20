@@ -32,7 +32,7 @@ Purchase and installation of equipment
 
 ### Phase 2 February 2015
 
-![Toryglen Poster](/images/Toryglen Community Base 7.jpg)
+![Toryglen Poster](/images/projects/Toryglen Community Base 7.jpg)
 
 Marketing of service including recruitment of participants.  
 
