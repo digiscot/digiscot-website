@@ -5,36 +5,6 @@ excerpt: Here's your chance to help promote digital participation in Scotland.
 permalink: /charter/sign/
 ---
 
-<div class="navbar navbar-inverse navbar-static-top" role="navigation">
-    <div class="container">
-
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/"><i class="fa fa-home"></i> Home</a>
-        </div>
-        <div class="collapse navbar-collapse" id="navbar-collapse-1">
-
-            <ul class="nav navbar-nav">
-                <li><a href="/resources/">Resources</a></li>
-                <li><a href="/projects/">Projects</a></li>
-                <li class="active"><a href="/charter/">Charter</a></li>
-                <li><a href="/data/">Data</a></li>
-                <li><a href="/events/">Events</a></li>
-                <li><a href="/about/">About</a></li>
-                <li><a href="/contact/">Contact</a></li>
-            </ul>
-
-        </div>
-
-    </div>
-
-</div>
-
 <form action="http://scvovote.azurewebsites.net/Charter/Sign" id="frmManagedigitalContacts" method="post">
 
 	<input name="__RequestVerificationToken" type="hidden" 
@@ -477,52 +447,6 @@ permalink: /charter/sign/
 		</div>
 	</div>
 </form>
-
-
-
-
-
-
-<div class="footer">
-	<div class="container">
-
-		<div class="row">
-
-			<div class="col-md-2">
-				<p>
-					<small>
-						<i class="fa fa-fw fa-rocket text-muted"></i> <a href="/resources/">Resources</a><br />
-						<i class="fa fa-fw fa-star-o text-muted"></i> <a href="/projects/">Projects</a><br />
-						<i class="fa fa-fw fa-pencil text-muted"></i> <a href="/charter/">Charter</a><br />
-						<i class="fa fa-fw fa-flask text-muted"></i> <a href="/data/">Data</a><br />
-						<i class="fa fa-fw fa-comments text-muted"></i> <a href="/festival/">Festival</a>
-					</small>
-				</p>
-			</div>
-
-			<div class="col-md-5">
-				<p>
-					<small>
-						<i class="fa fa-fw fa-info-circle text-muted"></i> <a href="/about/">About</a><br />
-						<i class="fa fa-fw fa-bullhorn text-muted"></i> <a href="/contact/">Contact</a><br />
-						<i class="fa fa-fw fa-envelope text-muted"></i> <a href="/about/subscribe/">Join our mailing list</a>
-					</small>
-				</p>
-				<p class="smallprint"><small>The Scottish Council for Voluntary Organisations (SCVO) is a Scottish Charitable Incorporated Organisation, registration number SC003358.</small></p>
-			</div>
-
-			<div class="col-md-5">
-				<p class="text-right">
-					<a href="http://www.scvo.org.uk/"><img src="http://digital.scvo.org.uk/images/scvo.png" alt="SCVO" class="logo" /></a>
-					<a href="http://www.digitalscotland.org"><img src="http://digital.scvo.org.uk/images/digitalscotland.png" alt="Digital Scotland" class="logo" /></a>
-				</p>
-			</div>
-
-		</div>
-	</div>
-</div>
-
-
 
 
 <script type="text/javascript">
