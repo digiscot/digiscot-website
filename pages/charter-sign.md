@@ -5,6 +5,11 @@ excerpt: Here's your chance to help promote digital participation in Scotland.
 permalink: /charter/sign/
 ---
 
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+<script src="http://malsup.github.com/jquery.form.js"></script>
+
 <form action="http://scvovote.azurewebsites.net/Charter/Sign" id="frmManagedigitalContacts" method="post">
 
 	<input name="__RequestVerificationToken" type="hidden" 
@@ -533,7 +538,7 @@ permalink: /charter/sign/
 	});
 
 	function OnSuccessCall() {
-		window.location.href = 'http://digital.scvo.org.uk/charter/ok.html';
+		window.location.href = 'http://digital.scvo.org.uk/charter/ok/';
 	}
 
 	function OnErrorCall(error) {
