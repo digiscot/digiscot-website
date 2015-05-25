@@ -21,6 +21,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 ### Project description
 
 IT skills training for people in the community to European Computer Driving License (ECDL) accreditation. 
+
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/SpruceCarpets/posts/918092131587837" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/SpruceCarpets/posts/918092131587837"><p>Some of our volunteers using our new IT hub to do some E-Learning..thanks to Digital Participation Challenge</p>Posted by <a href="https://www.facebook.com/SpruceCarpets">Spruce Carpets</a> on <a href="https://www.facebook.com/SpruceCarpets/posts/918092131587837">Thursday, 14 May 2015</a></blockquote></div></div>
 
 
