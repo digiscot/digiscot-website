@@ -20,7 +20,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-CNS will work with elderly members of the Orkney Community to teach them how to use digital technology through the use of the app Fieldwork GB. People will be able to capture minor place-names and stories attached to specific places in the landscape. The data captured will be uploaded to a website, which will form a lasting legacy and which will also continuously be used to add more data. Participants will also be trained in scanning photographs and uploading other types of material to the project website.
+CNS will work with elderly members of the Orkney and Shetland Community to teach them how to use digital technology through the use of the app Fieldtrip GB. People will be able to capture minor place-names and stories attached to specific places in the landscape. The data captured will be uploaded to a website, which will form a lasting legacy and which will also continuously be used to add more data. Participants will also be trained in scanning photographs and uploading other types of material to the project website.
 
 
 ## Project milestones
