@@ -50,9 +50,9 @@ The project has started well, the concept and the practical need was so readily 
 
 Phase one: 
 
-We have established Digital Drop-in Surgeries and staff slots within Comas projects on a weekly basis.  Monday mornings for staff digital induction and this involves utilising Comas shared drive, intraweb, Email set up on computers and hand held devices. Setting up Google calendar accounts and using the web effectively.  5 members of staff have already been through this with more on the way in May. 4 Volunteers have engaged in Digital Inclusion work including using Excel for report writing as part of their SVQ in community development, using the internet effectively for sourcing materials and images, creating reports on MS office packages, saving documents and group emailing. http://youtu.be/YAkT9T6NydA 
+We have established Digital Drop-in Surgeries and staff slots within Comas projects on a weekly basis.  Monday mornings for staff digital induction and this involves utilising Comas shared drive, intraweb, Email set up on computers and hand held devices. Setting up Google calendar accounts and using the web effectively.  5 members of staff have already been through this with more on the way in May. 4 Volunteers have engaged in Digital Inclusion work including using Excel for report writing as part of their SVQ in community development, using the internet effectively for sourcing materials and images, creating reports on MS office packages, saving documents and group emailing. (http://youtu.be/YAkT9T6NydA) 
 
-Memory Box:has been a bit slower to start though we've now done 3, we produced one to highlight how these can be used and shaped by individuals and groups - [Memory Box Stories](http://memoryboxstories.com/stories.php?id=0F5175KgA5 this has led to community members now wanting to use similar packages to tell stories.
+Memory Box:has been a bit slower to start though we've now done 3, we produced one to highlight how these can be used and shaped by individuals and groups - [Memory Box Stories](http://memoryboxstories.com/stories.php?id=0F5175KgA5) this has led to community members now wanting to use similar packages to tell stories.
 
 3 Community work staff involved in learning about digital inclusion and opportunities for more learning with the idea to roll out to the community.
 
