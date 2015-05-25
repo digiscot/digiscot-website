@@ -30,10 +30,12 @@ IT skills training for people in the community to European Computer Driving Lice
 ### Phase 1
 
 Refit of existing area within warehouse and install 6 PCs and 2 printers.
-Paul and Alan of Luma IT kitting out our IT HUb
-https://www.facebook.com/SpruceCarpets/photos/a.422650351132020.103839.418819251515130/862296600500724/?type=1
+[Paul and Alan of Luma IT kitting out our IT Hub](https://www.facebook.com/SpruceCarpets/photos/a.422650351132020.103839.418819251515130/862296600500724/?type=1)
+
 ### Phase 2
+
 The Spruce Hub is a place our volunteers can learn at their on pace with the help of an IT trainer. Updating exsisting and learning new IT skills. 
+
 Engage with existing and new volunteers. Assess IT skills and introduce individual training plans. Commence IT training courses with participants reaching basic ECDL level. 
 
 
