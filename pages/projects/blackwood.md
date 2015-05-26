@@ -6,7 +6,8 @@ excerpt: Basic digital skills training for tenants
 lead: Blackwood
 website: http://www.blackwoodgroup.org.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £10,000
@@ -21,6 +22,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 Blackwood will be working with our tenants & communities to provide basic digital skills training. We will establish a network of digital champions who will work within our three regions to improve the level of digital skills amongst our tenants.
 
+test
 
 ## Project milestones
 
