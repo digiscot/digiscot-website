@@ -19,7 +19,7 @@ For more information please [contact us](/contact/).
 
 ## Call 2 (Spring 2015) 
 
-With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below:
+With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The successful applicants are listed below:
 
 * Stromness Community Centre
 * Leonard Cheshire
@@ -55,10 +55,38 @@ With 150 great applications received for Call 2, we are delighted to announce th
 * Co Chomunn na Pairce
 * Scottish Women's Aid
 
-You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/). 
+You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from partners that have signed [Scotland's Digital Participation Charter](/charter/). 
 
 
 
 ## Call 1 (Winter 2014)
 
-Over 70 applications were made to Call 1, and the [Digital Participation Leadership Group](/about/) made 25 direct offers of funding. You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/).
+Over 70 applications were made to Call 1, and the [Digital Participation Leadership Group](/about/) made 25 direct offers of funding. The successful applicants are listed below:
+
+* Spruce Carpets Ltd
+* Linthouse Monday Club
+* Toryglen Community Base
+* The Libertie Project
+* Old Torry Community Centre
+* The Greenhouse Shop CIC
+* Mydex CIC
+* Homestart Majik
+* Applecross Community Company
+* The Annex Healthy Living Centre
+* Station House Media Unit
+* Comas
+* Project Scotland
+* CVO East Ayrshire
+* Scottish Council on Deafness
+* Bethany Christian Trust
+*. Queens Cross Housing Association
+* Ormlie Community Association
+* Link Group Ltd
+* Homelands Trust Fife
+* Volunteer Centre Dundee
+* Opportunity Enhancement Trust
+* Capability Scotland
+* Midlothian Voluntary Action
+* Coupar Angus Regeneration Trust
+
+You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from partners that have signed [Scotland's Digital Participation Charter](/charter/).
