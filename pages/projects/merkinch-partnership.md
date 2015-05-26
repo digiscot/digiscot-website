@@ -5,8 +5,9 @@ title: Merkinch Gets Online
 excerpt: Supporting local people to access online services and resources
 lead: Merkinch Partnership
 website: 
-email: 
-twitter-url: facebook-url: 
+email: anne@merkinch.com
+twitter-url: 
+facebook-url: 
 start: April
 end: October
 award: £8650
@@ -23,8 +24,7 @@ We want to deliver a project in Merkinch which supports local people living in p
 
 ## Project milestones
 
-im at royal concert hall learning git hub
-
+Project milestones coming soon.
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
