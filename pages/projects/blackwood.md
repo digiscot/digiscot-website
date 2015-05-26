@@ -22,7 +22,6 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 Blackwood will be working with our tenants & communities to provide basic digital skills training. We will establish a network of digital champions who will work within our three regions to improve the level of digital skills amongst our tenants.
 
-test
 
 ## Project milestones
 
