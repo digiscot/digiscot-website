@@ -24,6 +24,8 @@ To upskill those in the community to be able fully participate in the digital ag
 
 ## Progress
 We have made it to the front page of the [Moray Council Internet pages](http://www.moray.gov.uk) and the local press has been very interested in our project and as a result have been filling up places very quickly.
+# Publicity
+Promotion is going well and our flyers and posters are being circulated around the community. Adverts will soon appear in the local press and our partners are promoting to their clients.
 
 
 ## Evaluation
