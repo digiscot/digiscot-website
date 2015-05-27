@@ -6,7 +6,8 @@ excerpt: Using local history to teach older people how to use the internet
 lead: Queens Cross Housing Association
 website: http://www.qcha.org.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: January 2015
 end: January 2016
 award: £8430
@@ -28,7 +29,7 @@ Getting older people enagaged and learning how to use the internet through resea
 
 Recruitment of Sessional Worker 
 
-Purchase of Equipment 
+Purchase of Equipment: We purchased 3 iPads to supplement our existing 'mobile kit' for use in sessions. Our learners are really enjoying playing with the new equipment.
 
 Advertising of activities
 
@@ -39,7 +40,7 @@ Advertising of activities
 
 Make up local history kits to be used in classes, use sample family trees, documents and photographs 
 
-Open days and events aimed at recruiting members to join the groups
+Open days and events aimed at recruiting members to join the groups: We recently attended our Supported Housing Focus Day at the Science Centre and had a chance to show a wide range of tenants some of the photos and stories we have seen and heard so far. More than 35 people signed up to take part in classes as a result of this day. We have also been attending events and open days held by other parts of the organisation to promote the project. 
 
 Marketing launched
 
