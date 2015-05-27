@@ -26,9 +26,12 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 ## Project milestones
 
 ###May 2015
-- Purchase of hardware - 2 x laptops and 1 x tablets
+- Purchase of hardware - 3 x laptops and 1 x tablet
 - Recruit 5 peer mentors and volunteers to help support IT courses
 - Develop and deliver 4 week Mobile Smart Phone Course
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">3 x laptops 1 x ipad, thanks Digital Participation Challenge! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digiscot15?src=hash">#digiscot15</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/RzONBLwnz5">pic.twitter.com/RzONBLwnz5</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/603496304753401856">May 27, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Finishing our smart phone course. <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/NlpX1ThQER">pic.twitter.com/NlpX1ThQER</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/598114943448252416">May 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
