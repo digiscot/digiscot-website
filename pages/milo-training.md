@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Milo Training Manuals
-excerpt: The training materials for Milo 2.
+excerpt: Links to the Milo 2 Training Materials.
 permalink: /data/milo-training/
 ---
 
