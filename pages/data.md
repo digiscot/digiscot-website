@@ -19,7 +19,7 @@ We are working hard to modernise the platform to better meet the needs of the pe
 
 We'll be posting regular updates about the project on this website, and answering frequently asked questions.
 
-<a href="/data/milo-news/" class="btn btn-primary btn-lg">Latest updates</a> <a href="/data/milo-faq/" class="btn btn-primary btn-lg">Milo FAQs</a> <a href="/data/milo-docs/" class="btn btn-primary btn-lg">Document library</a>
+<a href="/data/milo-news/" class="btn btn-primary btn-lg">Latest updates</a> <a href="/data/milo-faq/" class="btn btn-primary btn-lg">Milo FAQs</a> <a href="/data/milo-docs/" class="btn btn-primary btn-lg">Document library</a> <a href="/data/milo-training" class="btn btn-primary btn-lg">Training</a>
 
 
 
