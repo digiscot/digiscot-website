@@ -5,54 +5,64 @@ excerpt: The latest news and updates from the Milo team.
 permalink: /data/milo-news/
 ---
 
-## March 2015
+## June 2015
 
 Dear colleagues
 
 Welcome to the latest Milo update.
 
-### Milo user licences 
+I’m pleased to say that the migration from Milo 1 is complete and the new Salesforce system went live on schedule this Monday. All of the data entered to the following entities before 12 noon on Friday 22 May should be available in the system:
 
-The new version of Milo will be provided to TSIs by SCVO with an allocation of free user licenses. This will mean that all TSIs will continue to have free access to the Milo system. However, as Salesforce licences must be purchased by SCVO annually, the number of user licences available will be limited.
+* **Organisations**
+* **Contacts**
+* **Volunteer Registrations**
+* **Volunteer Opportunities**
+* **Membership records**
 
-We therefore need to know how many Milo user licenses you anticipate needing for your TSI. We have been able to start projections on licence allocation by looking at usage statistics by area over the past year, but it is important to get feedback from TSIs on anticipated demand.
+We’ve now set up the requested users for all TSIs who have returned their licence allocation list. 
 
-To do that, we will be contacting your local Milo lead today to ask them to complete a very brief SurveyMonkey form to provide us with your estimated requirements. We cannot guarantee that every TSI will be able to receive all the licences they request, but in the event that some TSIs require more than the standard allocation, they will have the option to purchase additional licenses. (For reference, the current cost of a standard Salesforce licence at non-profit rate is £36 pa plus VAT.)
+### Milo user and licences 
 
-Completed surveys should be submitted no later than **Friday 10 April**.
+We have received licence request forms back from 26 of the 32 TSIs, and have set up all users in those areas. Milo leads have been activated for the other 6 TSIs. As soon as the remaining 6 TSIs return their forms, we will set them up right away. 
 
-### Milo new system FAQ
+A number of TSIs have indicated that they will need to purchase additional licences beyond the ‘free’ allocation. We’ll be in touch with those TSIs later on today to get final numbers so that we can make a bulk order of additional licences from Salesforce. Additional licences currently cost £36+VAT per year at the non-profit rate.
 
-We have begun to collate the most frequently asked questions about the new system online. The FAQ provides up to date information on the background to the move, the Salesforce platform, what will be different about the new system, how web feeds will be maintained etc.
+### Training modules
 
-You can view the Milo FAQ by clicking on <a href="/data/milo-faq/" target="_blank">this link</a>.
+The initial training modules are available to download on the <a href="http://digital.scvo.org.uk/data/milo-training/">training page</a>, along with a short video introduction to the new system. The initial six documents and the Quick Start Guide are intended to cover the main aspects of day-to-day use (Organisations, Opportunities, Volunteer Registrations, Interactions, etc.) – we’ll be adding more modules on Reporting, using Chatter etc. soon. Additional online help and training about the platform as a whole is available in the <a href="https://help.salesforce.com/hthome?siteLang=en_US">Salesforce Community.</a>
 
-The FAQ is intended to be a living document. If you have questions that aren’t answered by the FAQ, or would like more detail in some areas, just email [gavin.bell@scvo.org.uk](mailto:gavin.bell@scvo.org.uk) 
+### Early issues and fixes
 
-### Interaction Management
+As you can imagine, the migration to a new platform is a hugely complex task and occasional teething issues are to be expected. We have implemented fixes for several issues so far and are resolving them according to priority. Over and above small tweaks to fields, we’ve also dealt with:
 
-As discussed at the user group and mentioned in the previous update, the approach to recording interactions on Milo will be changing.
+**Volunteer contacts change**
+To prevent other users from seeing the address details of volunteers, all personal data on volunteers is now held within the volunteer registration object. All users should now enter volunteers’ personal addresses, phone numbers and emails directly into the volunteer registration, as opposed to the contact record. The system now prevents users from saving a volunteer registration when the contact address fields are completed.
 
-In general, most of the existing Milo structures (organisations, contacts, volunteers, opportunities) and the way in which they interrelate will be replicated in the new system. **Interaction management** is the main exception to this. Because of the way Salesforce works, it will not be possible to replicate the existing structure of episodes and interactions, where an episode acts as a shell for one or more interactions. The new system will use interactions only, similar to the ‘case file’ approach already used by several TSIs including South Lanarkshire.
+**Historical deleted organisations** 
+You may have noticed some organisation records deleted from the old system have reappeared. These came across during migration and will be bulk-deleted from the new system tomorrow. You don’t need to do anything other than ignore these ‘ghost’ records for the moment! 
 
-This means that every interaction with an organisation can be categorised and reported on, and should make for a more consistent system across the network.
+### Neighbourhoods and interaction categories
 
-It does mean that in most cases, interactions will have to start afresh on the new system. We will be making sure historic interactions are copied from the old system, and will be made available to each TSI for reference. We are currently investigating if it will be possible to incorporate this ‘historical view’ of past interactions into the new system, but at a minimum you will be able to view interactions from previous years in a separate document.
+Local neighbourhoods and new interaction category fields have been configured for all TSIs who have submitted their requirements. If you need to add to or amend these, please log a call with [Milo support](mailto:milosupport@scvo.org.uk). A new Core Services Outcomes (SG) field is available in interactions to allow you to tag each case to one or more SG outcomes.
+
+### Annual Profiling Data
+
+The long-awaited **Annual Profiling Data** object is now available. This allows TSIs to capture data on their local sector’s financial, staffing and volunteering stats on an annual basis for the first time.
 
 ### Next steps
 
-* An extension with Sopra and Pulsant has been arranged so that the existing Milo system will be supported until **June 30th**
-* We are still planning on migration to the new system in **May** – following agreement by all partners, we should be identifying a firm date within the next week
-* Migration work will involve one week of downtime – this will only have to happen once, and all TSIs will be migrated at the same time
-* Advance testers from the User Group have been working on the test build, and we’ll be widening the pool of testers soon – if you would like to be involved, please let us know
-* We recently circulated the latest version of the Milo enhancements list with the User Group, outlining the key changes and immediate improvements we hope to see following go-live day. You can view the list online <a href="/data/milo-docs/" target="_blank">here</a>
+* Our contract extension with Sopra and Pulsant expires on **June 30th**  - the original Milo system will be available up until this date. After June 30th, you will **no longer be able to access Milo 1**
+* **Volunteer matching system** – we’ll be creating an interface to allow volunteers to be matched with opportunities in a more usable way than on the old system
+* **iFrames** – current iFrames are supported until the end of this month (still displaying data from Milo 1), but a new and improved version fed from Milo 2 will be available soon
+* **Volunteer Scotland** feed – Volunteer Scotland is currently testing the new feed from Milo 2 and expect this to be live at the end of this week
+* **Get Involved / ALISS** feed  – Get Involved and ALISS are currently still displaying data from Milo 1 but work is underway to pull the feed from the new system. In the interim, we’re updating any changes reported to both systems.
 
-The next meeting of the MUG will be held on Thursday 2nd April. Synovations, the new Milo technology partner, will be attending to answer questions about the build. If you would like to have any particular points discussed at the meeting, please forward them to [angus.lindsay@vaslan.org.uk](mailto:angus.lindsay@vaslan.org.uk)
-
-If you’d like to discuss anything about the new Milo in greater detail, please get in touch with. As always, you can drop an email to [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk) for any Milo issues with the current system.
-
+The next meeting of the MUG will be held on **Thursday 18th June** in Glasgow. If you would like to have any points or suggestions discussed at the meeting, please forward them to [angus.lindsay@vaslan.org.uk](mailto:angus.lindsay@vaslan.org.uk) 
+ 
+If you’d like to discuss anything about the new Milo in greater detail, please get in touch with. As always, you can drop an email to [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk) for any Milo issues with the current system. 
+ 
 All the best
-
+ 
 Gavin
 
 
@@ -61,4 +71,5 @@ Gavin
 
 We'll be archiving previous updates here.
 
+* [March 2015](files/Milo update March.pdf)
 * [February 2015](/files/miloupdate-feb15.pdf)
