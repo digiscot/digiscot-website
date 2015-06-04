@@ -33,6 +33,7 @@ we have got three new computers to replace old ones and we upgraded one of the o
 we can email, skype, facebook & tweet and are building confedence on social media on a weekly basis. we now comunicate in English and BSL.
 
 SCoD Conference 2014 
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Turn out for the <a href="https://twitter.com/hashtag/SCoD?src=hash">#SCoD</a> conference. <a href="https://twitter.com/hashtag/connectscod15?src=hash">#connectscod15</a> <a href="http://t.co/eUADYPDxfB">pic.twitter.com/eUADYPDxfB</a></p>&mdash; SCoD (@SCoDMedia) <a href="https://twitter.com/SCoDMedia/status/575969017229385729">March 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -45,6 +46,7 @@ we now have a network set up with no internal conflict due to compatibility of s
 
 ### Phase 3 June 2015
 Review impact of new equipment on organsiation
+
 we have improved our website and training on core digital skills, audted our hardware and software needs, developed our technical ability, revised our telecoms arrangments and inted to use cloud technology back up for our NAS drive  and supported with hardware and software improvments. 
 ## Evaluation
 
