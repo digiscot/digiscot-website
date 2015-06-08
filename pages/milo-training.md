@@ -21,4 +21,4 @@ permalink: /data/milo-training/
 
 ##### Video Walkthrough of Milo 2.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XJHL2feRFNQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
