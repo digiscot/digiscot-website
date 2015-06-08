@@ -23,10 +23,3 @@ permalink: /data/milo-training/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
-
-<object width="560" height="315">
-<param name="movie" value="https://youtu.be/n4i2qL54lZM;vq=hd720"></param>
-<param name="allowFullScreen" value="true"></param>
-<param name="allowscriptaccess" value="always"></param>
-<embed src="https://youtu.be/n4i2qL54lZM;vq=hd720" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
-</object>
