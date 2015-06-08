@@ -55,7 +55,7 @@ During the first days of May Ragnhild Ljosland started the community visits to i
 
 Our Orkney press release is out! Date of the first workshop set to June 6. [See it here](http://www.orkney.uhi.ac.uk/news/orkney-community-digital-heritage-project) 
 
-During  early May Andrew met Pat Christie of Shetland Heritage Association and began the process of meeting elderly peple in Shetland keen on preserving their heritage. Our Shetland press release is also out! [See it here] (http://www.shetland.uhi.ac.uk/news/heritage-to-be-explored-through-smart-technology) Our new Facebook group Shetland Digital Heritage Project is also up and running. Andrew was interviewed by BBC Radio Shetland on 04/06. 
+During  early May Andrew met Pat Christie of Shetland Heritage Association and began the process of meeting elderly peple in Shetland keen on preserving their heritage. Our Shetland press release is also out! [See it here](http://www.shetland.uhi.ac.uk/news/heritage-to-be-explored-through-smart-technology) Our new Facebook group Shetland Digital Heritage Project is also up and running. Andrew was interviewed by BBC Radio Shetland on 04/06. 
 The date of the workshop is also set for June 6. We are going to connect Orkney and Shetland with VC.
 
 ## Evaluation
