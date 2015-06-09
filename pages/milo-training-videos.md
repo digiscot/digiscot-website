@@ -27,7 +27,7 @@ Demonstrating how you can link social media (Facebook, Twitter, YouTube and Klou
 
 ##### How to create an Event in Milo 2
 
-A video showing how the new event feature work in Milo 2.
+A video showing how the new event feature works in Milo 2.
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/as-VwzSL3Is" frameborder="0" allowfullscreen></iframe>
 
