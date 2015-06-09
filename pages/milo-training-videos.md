@@ -17,22 +17,22 @@ permalink: /data/milo-training-videos/
 
 An overview of Milo 2, showing some of the more common features of Milo 2. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
 #### How to Link Social Media in Milo 2
 
 Demonstrating how you can link social media (Facebook, Twitter, YouTube and Klout) to Organisation and Contact pages of Milo 2. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8TAHCU-vwbg" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/8TAHCU-vwbg" frameborder="0" allowfullscreen></iframe>
 
 #### How to create an Event in Milo 2
 
 A video showing how the new event feature work in Milo 2.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/as-VwzSL3Is" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/as-VwzSL3Is" frameborder="0" allowfullscreen></iframe>
 
 #### How to create a Note and add a File in Milo 2
 
 Video demonstrating how to add files, as well as creating notes on pages. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdbFfs_UaL8" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/LdbFfs_UaL8" frameborder="0" allowfullscreen></iframe>
