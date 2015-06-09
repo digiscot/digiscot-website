@@ -22,6 +22,9 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 Moray Firth Media Trust will be working with prisoners at Inverness Prison. We are running six part time courses in digital audio and radio broadcasting production. In addition to improving confidence, motivation and core vocational skills, participants will learn basic digital skills and with the use of digital equipment such as portable recorders, Adobe Audition and other software, will learn how to digitally edit the sounds and to build their own show to a specific time frame. A certificate will be gained on completion of the course.
 
+Radioskills Summer School - This project is being made available for up to 12 participants, over 16 years of age and to anyone with an interest or aspiration to learn new digital skills. Radioskills Summer School candidates will learn how to create entertaining digital content that will connect and engage with audiences both at home and abroad. They will learn how to write and plan a digital radio programme as well as how to use industry standard digital recording and editing equipment. 
+It is likely that with the participants permission we would be able to showcase their broadcast on our Inverness based trainees radio station, Monster FM,  in September.
+
 
 ## Project milestones
 
