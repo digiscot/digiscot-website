@@ -23,7 +23,7 @@ permalink: /data/milo-training/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
-<!-- #### How to Link Social Media in Milo 2
+#### How to Link Social Media in Milo 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TAHCU-vwbg" frameborder="0" allowfullscreen></iframe>
 
@@ -33,4 +33,4 @@ permalink: /data/milo-training/
 
 #### How to create a Note and add a File in Milo 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdbFfs_UaL8" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdbFfs_UaL8" frameborder="0" allowfullscreen></iframe>
