@@ -36,3 +36,9 @@ A video showing how the new event feature works in Milo 2.
 Video demonstrating how to add files, as well as creating notes on pages. 
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/LdbFfs_UaL8" frameborder="0" allowfullscreen></iframe>
+
+##### How to reset your password
+
+This video will show you how you can reset your password in Milo 2.
+
+<iframe width="280" height="158 src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
