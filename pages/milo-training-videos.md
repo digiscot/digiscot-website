@@ -41,4 +41,4 @@ Video demonstrating how to add files, as well as creating notes on pages.
 
 This video will show you how you can reset your password in Milo 2.
 
-<iframe width="280" height="158 src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
