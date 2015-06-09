@@ -11,13 +11,13 @@ permalink: /data/milo-training-videos/
 
 An overview of Milo 2, showing some of the more common features of Milo 2. 
 
-#####  How to enter a volunteer’s contact details
+<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/7QeFcUh0el0" frameborder="0" allowfullscreen></iframe>
+#####  How to enter a volunteer’s contact details
 
 Volunteer contact data should be input to the Volunteer Registration in the new system, as opposed to using the fields for organisational or individual contacts. This video will show you how to do it correctly.
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/7QeFcUh0el0" frameborder="0" allowfullscreen></iframe>
 
 ##### How to Link Social Media in Milo 2
 
