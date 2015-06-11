@@ -7,7 +7,7 @@ permalink: /contact/
 
 Email: [digital@scvo.org.uk](mailto:digital@scvo.org.uk)
 
-Twitter: [@scvotweet](https://twitter.com/scvotweet)
+Twitter: [@digiscot](https://twitter.com/digiscot)
 
 ### Visiting us
 
