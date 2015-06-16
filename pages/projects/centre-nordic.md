@@ -75,7 +75,7 @@ Lesson learned: These were people in their 60s who were experienced users of dig
 Ragnhild Ljosland spent an hour and a half with a project participant: a 64-year-old who had never used a tablet before. The participant has grown up in Kirkwall and the time was spent walking around the centre of Kirkwall making records of memories and stories from the 1950s and 60s.
 
 Lesson learned: This participant had never used a tablet before, but found the project very enjoyable and reasonably easy, although she did have some trouble at first finding the right technique to touch the screen – not to short and not too long. We got a lot of recording done and the participant was getting the hang of using the tablet by the end. It shows that accompanying participants out in the field, one-to-one, is a worthwhile thing to do. You can see
-an image taken by the participant through the app (here)[https://twitter.com/NordicUHI/status/610834251693563904]
+an image taken by the participant through the app [here](https://twitter.com/NordicUHI/status/610834251693563904)
 
 
 ## Evaluation
