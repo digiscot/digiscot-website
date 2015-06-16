@@ -47,8 +47,14 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 
 ###June 2015
 -  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
--  
--  <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">First class of our IT skills course. Today&#39;s subject, making posters on a word doc. <a href="https://twitter.com/hashtag/digiscot15?src=hash">#digiscot15</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/twcWUYAZii">pic.twitter.com/twcWUYAZii</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/610804291272593408">June 16, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">First class of our IT skills course. Today&#39;s subject, making posters on a word doc. <a href="https://twitter.com/hashtag/digiscot15?src=hash">#digiscot15</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/twcWUYAZii">pic.twitter.com/twcWUYAZii</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/610804291272593408">June 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">For more information on the work of Flourish House and how you can support us, check out our website <a href="http://t.co/3N1zB3mPoY">http://t.co/3N1zB3mPoY</a> <a href="https://twitter.com/hashtag/mentalhealth?src=hash">#mentalhealth</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/610817102853865472">June 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">IT skills course proud of their work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="https://twitter.com/hashtag/digiscot15?src=hash">#digiscot15</a> <a href="http://t.co/NURrWqy9nw">pic.twitter.com/NURrWqy9nw</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/610828260520382464">June 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###July 2015
