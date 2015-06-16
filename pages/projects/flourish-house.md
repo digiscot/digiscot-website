@@ -47,6 +47,9 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 
 ###June 2015
 -  Develop and deliver beginners 7 week IT Skills Course (deliver in June and again in August)
+-  
+-  <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">First class of our IT skills course. Today&#39;s subject, making posters on a word doc. <a href="https://twitter.com/hashtag/digiscot15?src=hash">#digiscot15</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/twcWUYAZii">pic.twitter.com/twcWUYAZii</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/610804291272593408">June 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###July 2015
 - Develop and deliver EBay Training Module and support (delivered in July/August and repeated in January 2016)
