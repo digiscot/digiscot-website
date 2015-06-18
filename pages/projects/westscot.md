@@ -29,6 +29,8 @@ The Coordinator will also liaise with key partners and other local service users
 
 - April 2015 : Digital Inclusion Coordinator Job listed & open for application
 - May 2015   : 2x Lenovo Yoga 2 13.3" netbooks purhcased with first batch of funding
+- June 2015  : Interviews for the Digital Inclusion Coordinator post completed, and Neive Timulty has been hired
+- 6th July 2015 : Nieve will officially start in her post as Digital Inclusion Coordinator
 
 ## Evaluation
 
