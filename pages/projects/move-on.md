@@ -30,6 +30,12 @@ As you can see below, we now have a suite of new computers in our group work roo
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/MoveOnScotland/posts/891684154237985:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/MoveOnScotland/posts/891684154237985:0"><p>Our lovely new computers set up in our Glasgow group work room. Thanks to St Andrew&#039;s Secondary for their winning presentation through the Youth Philanthropy Initiative.</p>Posted by <a href="https://www.facebook.com/MoveOnScotland">Move On Scotland</a> on <a href="https://www.facebook.com/MoveOnScotland/posts/891684154237985:0">Wednesday, 17 June 2015</a></blockquote></div></div>
 
+###Six Book Challenge
+
+We are encouraging our learners to participate in the Six Book Challenge and to compose their reviews on our fabulous new computers!
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/MoveOnScotland/posts/892644997475234" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/MoveOnScotland/posts/892644997475234"><p>Our literacy tutors are keen to encourage young people to take part in the Reading Agency Six Books Challenge so we want...</p>Posted by <a href="https://www.facebook.com/MoveOnScotland">Move On Scotland</a> on <a href="https://www.facebook.com/MoveOnScotland/posts/892644997475234">Friday, 19 June 2015</a></blockquote></div></div>
+
 ## Project milestones
 
 ### Phase 1
