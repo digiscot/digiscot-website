@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2015 Training Module 00
-excerpt: Milo Training Module 00 - Quick Start Guide.
+excerpt: Milo Training Module 00 - Quick Start Guide. Version May 15.
 permalink: /data/milo-training-page-test/
 ---
 
