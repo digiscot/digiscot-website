@@ -74,6 +74,12 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
  
 <img src="https://lh3.googleusercontent.com/-OUY9nblSij0/VUi3UagmlQI/AAAAAAAAH7A/vKCyc5rK5-8/s912/WP_20150505_003.jpg" alt="Orchard Centre staff" width="500">
 
+* June 17th - Awareness raising with 12 members of the Federation of Community Councils in Midlothian
+
+<img src="https://lh3.googleusercontent.com/-qK4CaDV9izE/VYfatD8tqWI/AAAAAAAAIB0/Jfp2GvqAPDU/s912/WP_20150617_003.jpg" alt="Federation of Community Councils" width="500">
+
+* June 22nd - Awareness raising with 10 members of the Children and Young People's sub group of the Midlothian Voluntary Sector Forum. No photo sadly.
+
 ### Development Phase 2: July - September 2015
 
 * Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
