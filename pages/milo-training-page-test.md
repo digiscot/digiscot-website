@@ -8,39 +8,35 @@ permalink: /data/milo-training-page-test/
 
 #### Contents <a name="top"></a>
 
-1. <a href="#Introduction">Introduction</a>
-2. <a href="#Logging in">Logging in</a>
-3. First Steps and Features
-4. Search for, accessand edit an organisation
-5. Salesforce help and training
-6. Summary
+1. <a href="#introduction">Introduction</a>
+2. <a href="#logging in">Logging in</a>
+3. <a href="#first steps">First Steps and Features</a>
+4. <a href="#search for">Search for, accessand edit an organisation</a>
+5. <a href="#salesforce">Salesforce help and training</a>
+6. <a href="#sum">Summary</a>
 
 
 
 ## Introduction <a name="Introduction"></a>
 
-This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 
-
-* Test 01
-* Test 02
-* Test 03
-* Test 04
-* Test 05
-* Test 06
-* Test 07
-* Test 08
-* Test 09
-* Test 10
-
-This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 
-
 <a href="#top">Back to top</a>
-
 
 ## Logging in <a name="Logging in"></a>
 
-This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 This is just a test, I am only testing stuff. Please ignore me. THXBAI. <3 
+<a href="#top">Back to top</a>
 
-<img src="http://tnspullzone.tapnapsnap.netdna-cdn.com/wp-content/uploads/2015/05/52323ff71605fb0785000086.png"/>
+## First steps and features <a name="first steps"></a>
+
+<a href="#top">Back to top</a>
+
+## Search for, access and edit an organisation <a name="search for"></a>
+
+<a href="#top">Back to top</a>
+
+## Salesforce help and training <a name="salesforce"></a>
+
+<a href="#top">Back to top</a>
+
+## Summary <a name="sum"></a>
 
 <a href="#top">Back to top</a>
