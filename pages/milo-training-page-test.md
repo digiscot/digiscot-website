@@ -6,8 +6,8 @@ permalink: /data/milo-training-page-test/
 ---
 
 
-#### Contents
-<a name="top"></a>
+#### Contents <a name="top"></a>
+
 1. <a href="#Introduction">Introduction</a>
 2. Logging in
 3. First Steps and Features
@@ -20,4 +20,4 @@ permalink: /data/milo-training-page-test/
 ## Introduction
 <a name="Introduction"></a>
 
-<a href="#top>Back to top</a>
+<a href="#top">Back to top</a>
