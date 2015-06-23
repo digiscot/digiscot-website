@@ -186,8 +186,37 @@ Try clicking on the name of the organisation under ‘Recent Items’ to go back
 
 #### Salesforce help and training <a name="salesforce"></a>
 
+
+Salesforce provides an excellent online help and training directory. While the custom Milo functionality is covered in these training modules, Salesforce has a wealth of other features that could complement your work. If you are interested in exploring Salesforce in more detail.
+
+Click on the Help & Training link at the top right of every screen…
+
+![Help & Training](images/milo training/h&t_00.png)
+
+…to go to the Salesforce online training and help hub. You can take online training and access support from the worldwide Salesforce community.
+
+![Help and Training screen](images/milo training/h&t_2_00.png)
+
+You can usually find the answer to any question about Salesforce by typing your question into the Help search field.
+
+Remember, for Milo-specific questions (e.g. “how do I create a new interaction with an organisation?”), it’s best to refer to the training documentation or contact the Milo team on [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk) – but for questions about Salesforce itself, the online help and training is a fantastic resource.
+
+
 <a href="#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
+
+
+In the **Quick Start Guide**, we have covered:
+
+* Logging into the system
+* The Home screen, and important features like Create New and Recent Items
+* How to access Organisation, selecting a View, and opening a record
+* Editing an organisation record and associating a location
+* How to access Salesforce online help and training
+
+You can use the same techniques to navigate around Milo and Start to explore the other deatures Milo has to offer. 
+
+Remember - for more step by step advice, see the individual training modules. if you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 <a href="#top">Back to Top.</a>
