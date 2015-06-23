@@ -219,4 +219,12 @@ You can use the same techniques to navigate around Milo and Start to explore the
 
 Remember - for more step by step advice, see the individual training modules. if you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
+## Training Videos
+
+##### Video Walkthrough of Milo 2.
+
+An overview of Milo 2, showing some of the more common features of Milo 2. 
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+
 <a href="#top">Back to Top.</a>
