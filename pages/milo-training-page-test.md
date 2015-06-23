@@ -36,6 +36,7 @@ This module will allow you to get logged in and using the system.
 
 For the most part, Milo 2 uses the same data types (organisations, contacts, opportunities) as the original Milo system, so once you become accustomed to the new user interface, it should be fairly straightforward to navigate around the system as before.
 
+
 <a href="#top">Back to Top.</a>
 
 #### Logging in <a name="Logging in"></a>
@@ -53,15 +54,18 @@ To access Milo, go to <a href="https://login.salesforce.com/">https://login.sale
 
 #### First steps and features <a name="first steps"></a>
 
+
 **The home screen**
 
 On login, you will be taken to your home screen - this is where you can see an overview of recent activity, live tasks and events, and any dashboards you have set up. You will see that along the top left of the screen there are several tabs relating to different Milo entities (highlighted below): 
 
 ![Home Screen](/images/milo training/home_screen_00.png)
 
+
 **Important features**
 
 There are some helpful and time-saving features (numbered above) available for use throughout the system - it's important to be aware of them before you get started, as they **will** save you some time!
+
 
 **1. Search**
 
@@ -69,17 +73,20 @@ There are some helpful and time-saving features (numbered above) available for u
 
 One of the key differences in the new system is that there is now a global system-wide search. The search field is a bit like Googling within Milo – enter any organisation or contact name to find matching results and associations. If you want to use partial words, remember to add an asterisk [*] as a wildcard.
 
+
 **2. Create new**
 
 ![Create new](images/milo training/new_00.png)
 
 Create new allows you to create a new organisation, contact, opportunity, event or task without going anywhere else in the system (though of course, you should always make sure a record for a new contact etc. doesn’t exist yet!).
 
+
 **3. Recent items**
 
 ![Recent items](images/milo training/recent_00.png)
 
 This list will be blank the first time you log in. but as you investigate the system and open more records, your recent history will appear here – very useful for clicking back into a record you were working on earlier in the day without having to search.
+
 
 **4. Recycle bin**
 
@@ -91,6 +98,7 @@ Lastly, if you accidentally delete a record, fear not – there’s now a recycl
 <a href="#top">Back to Top.</a>
 
 #### Search for, access and edit an organisation <a name="search for"></a>
+
 
 **The Organisations tab**
 
@@ -106,6 +114,7 @@ The Recent Organisations list will be blank, as you haven’t accessed any recor
 
 To see some organisation records, you will need to select a view from the dropdown list (highlighted above).
 
+
 **Views**
 
 ![Views](images/milo training/views_00.png)
@@ -113,6 +122,7 @@ To see some organisation records, you will need to select a view from the dropdo
 Customisable views are one of the most powerful features of Salesforce. Using these you can create your own unique lists of organisations, contacts, etc. you want to use regularly. If you like, you can experiment by clicking on ‘Create new view’ and choosing which fields you want to filter on. See module 01 for more on views.
 
 In the meantime, we just want to access a record, so select the ‘All Organisations’ view from the dropdown menu and you will see an alphabetical list of every organisation on the database. Click into any record and you will be able to view the organisation page.
+
 
 **Organisation page**
 
@@ -126,6 +136,7 @@ You can expand or contract each section by clicking on the arrow next to the sec
 
 The fields are arranged in roughly the same order on Milo 1, so if you were familiar with the old layout, everything should be where you expect it to be.
 
+
 **Associated objects**
 
 Above the organisation details is a row (highlighted above) of clickable object titles: locations, contacts, opportunities etc.
@@ -138,7 +149,38 @@ You can also see a summary of all associated objects by scrolling to the bottom 
 
 ![Associated objects](images/milo training/objects_2_00.png)
 
+
 **Editing an organisation**
+
+If you want to amend or add data to a record, simply click on the Edit button above Organisation Detail:
+
+![Edit](images/milo training/edit_00.png)
+
+This will open the record in edit view (please note, ability to edit a record is dependent on user permissions):
+
+![Edit screen](images/milo training/edit_screen_00)
+
+You can now edit and update any information on the record. The red bars next to some fields denote mandatory fields – as on the old system, these need to be populated in order to save a record.
+
+Once you have made any changes you want to, click on the ‘Save’ button at the top of the screen (highlighted above) to return to the view organisation screen.
+
+
+**Associating a location**
+
+It’s the same process to associate any object with a record. To add a location, for example, hover over the ‘Locations’ link to see existing locations.
+
+![Location screen](images/milo training/location_00.png)
+
+Then Simply click on 'New location' to open up the edit screen for a new location. 
+
+![Location Edit screen](images/milo training/loc_edit_00.png)
+
+Complete the details you want for this location and click on the ‘Save’ button.
+
+You will now see the new location, which is associated with the organisation.
+
+Try clicking on the name of the organisation under ‘Recent Items’ to go back in to the record and check that the number of locations has increased by 1.
+
 
 <a href="#top">Back to Top.</a>
 
