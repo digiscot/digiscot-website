@@ -32,11 +32,11 @@ The quick start guide is intended for users who want to start working with Milo 
 * 09 Tasks and Events
 * 10 Reporting
 
-**Video Walkthrough of Milo 2.**
+<!-- **Video Walkthrough of Milo 2.**
 
 An overview of Milo 2, showing some of the more common features of Milo 2. 
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe> -->
 
 This module will allow you to get logged in and using the system.
 
