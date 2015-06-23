@@ -51,7 +51,7 @@ For the most part, Milo 2 uses the same data types (organisations, contacts, opp
 
 All Milo users require a named licence. If you do not have a licence, please contact your local milo lead to find out if one has already been assigned to you.
 
-When you are set up on the system as a user, you will reveive an automated e-mail with details of how to log in and a URL. You must create your own password on first-time login. DOn't worry - it is possible to reset passwords in the event you forget them. 
+When you are set up on the system as a user, you will reveive an automated e-mail with details of how to log in and a URL. You must create your own password on first-time login. Don't worry - it is possible to reset passwords in the event you forget them. 
 
 To access Milo, go to <a href="https://login.salesforce.com/">https://login.salesforce.com/</a> and enter your details.
 
