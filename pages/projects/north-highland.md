@@ -25,6 +25,14 @@ The sessions will run for 2 hours per week, over 10 weeks and hope to engage 30 
 
 
 ## Project milestones
+Advertisements have been published in the Northern Times and Ross-Shire newspapers
+Leaflets have been distributed locally
+Facebook pages have been shared among existing centre members
+Posters have been placed in local shops and services
+
+Start date is confirmed as 24th June
+Time 9.30-11.30
+Place ASDA cafe in Tain
 
 
 
