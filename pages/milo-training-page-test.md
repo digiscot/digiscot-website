@@ -47,7 +47,7 @@ When you are set up on the system as a user, you will reveive an automated e-mai
 
 To access Milo, go to <a href="https://login.salesforce.com/">https://login.salesforce.com/</a> and enter your details.
 
-(images/milo training/00_log_screen.PNG)
+![Log Screen](images/milo training/00_log_screen.PNG)
 
 
 <a href="#top">Back to Top.</a>
