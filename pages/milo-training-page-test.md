@@ -53,7 +53,7 @@ To access Milo, go to <a href="https://login.salesforce.com/">https://login.sale
 
 #### First steps and features <a name="first steps"></a>
 
-** The home screen **
+**The home screen**
 
 On login, you will be taken to your home screen - this is where you can see an overview of recent activity, live tasks and events, and any dashboards you have set up. You will see that along the top left of the screen there are several tabs relating to different Milo entities (highlighted below): 
 
@@ -63,25 +63,25 @@ On login, you will be taken to your home screen - this is where you can see an o
 
 There are some helpful and time-saving features (numbered above) available for use throughout the system - it's important to be aware of them before you get started, as they **will** save you some time!
 
-** 1. Search **
+**1. Search**
 
 ![Search](images/milo training/search_00.png)
 
 One of the key differences in the new system is that there is now a global system-wide search. The search field is a bit like Googling within Milo – enter any organisation or contact name to find matching results and associations. If you want to use partial words, remember to add an asterisk [*] as a wildcard.
 
-** 2. Create new **
+**2. Create new**
 
 ![Create new](images/milo training/new_00.png)
 
 Create new allows you to create a new organisation, contact, opportunity, event or task without going anywhere else in the system (though of course, you should always make sure a record for a new contact etc. doesn’t exist yet!).
 
-** 3. Recent items **
+**3. Recent items**
 
 ![Recent items](images/milo training/recent_00.png)
 
 This list will be blank the first time you log in. but as you investigate the system and open more records, your recent history will appear here – very useful for clicking back into a record you were working on earlier in the day without having to search.
 
-** 4. Recycle bin **
+**4. Recycle bin**
 
 ![Recycle bin](images/milo training/bin_00.png)
 
