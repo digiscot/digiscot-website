@@ -32,7 +32,8 @@ The quick start guide is intended for users who want to start working with Milo 
 * 09 Tasks and Events
 * 10 Reporting
 
-This module will allow you to get logged in and using the system
+This module will allow you to get logged in and using the system.
+
 For the most part, Milo 2 uses the same data types (organisations, contacts, opportunities) as the original Milo system, so once you become accustomed to the new user interface, it should be fairly straightforward to navigate around the system as before.
 
 <a href="#top">Back to Top.</a>
