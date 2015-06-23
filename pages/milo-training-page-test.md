@@ -19,6 +19,8 @@ permalink: /data/milo-training-page-test/
 
 #### Introduction <a name="Introduction"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here](/files/Milo 2015 Training Handbook 00 Quick Start Guide 0515.pdf)
+
 The quick start guide is intended for users who want to start working with Milo straight away. For a more in-depth, step-by-step guide, please see the individual modules for each section of the database:
 
 * 01 Getting Started
