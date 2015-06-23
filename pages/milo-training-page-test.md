@@ -92,6 +92,54 @@ Lastly, if you accidentally delete a record, fear not – there’s now a recycl
 
 #### Search for, access and edit an organisation <a name="search for"></a>
 
+**The Organisations tab**
+
+The steps used to access each area of Milo are the same, so once you get comfortable with organisations you should be able to access opportunities, contacts etc. with no problem.
+
+For the quick start example, we’re going to look at searching for, accessing and editing an organisation. You could look for a specific record by using the global search, of course, but this is what to do if you want to select from a list of organisations.
+
+The first thing to do is click on the Organisations tab at the top of the screen to get to the Organisations home screen:
+
+![Organisation tab](images/milo training/org_tab_00.png)
+
+The Recent Organisations list will be blank, as you haven’t accessed any records yet. Once you have spent some time on the system, the last 5 organisation records you accessed will display.
+
+To see some organisation records, you will need to select a view from the dropdown list (highlighted above).
+
+**Views**
+
+![Views](images/milo training/views_00.png)
+
+Customisable views are one of the most powerful features of Salesforce. Using these you can create your own unique lists of organisations, contacts, etc. you want to use regularly. If you like, you can experiment by clicking on ‘Create new view’ and choosing which fields you want to filter on. See module 01 for more on views.
+
+In the meantime, we just want to access a record, so select the ‘All Organisations’ view from the dropdown menu and you will see an alphabetical list of every organisation on the database. Click into any record and you will be able to view the organisation page.
+
+**Organisation page**
+
+![Organisation page](images/milo training/org_page_00.png)
+
+This page is a streamlined version of the organisation record from Milo, omitting the many unused fields on the original database.
+
+As in the old system, fields are grouped into different sections: Organisation Details, Basic Profiling, Aims & Objectives etc.
+
+You can expand or contract each section by clicking on the arrow next to the section title. The system will remember which sections you have hidden, so you don’t have to collapse them each time.
+
+The fields are arranged in roughly the same order on Milo 1, so if you were familiar with the old layout, everything should be where you expect it to be.
+
+**Associated objects**
+
+Above the organisation details is a row (highlighted above) of clickable object titles: locations, contacts, opportunities etc.
+
+![Associated objects](images/milo training/objects_00.png)
+
+This lets you see at a glance if the organisation has any of these objects associated with it – giving you the number of associations in brackets. If you hover the pointer over these titles, you will see a summary of the different locations, contacts, volunteer opportunities, interactions etc associated with this organisation.
+
+You can also see a summary of all associated objects by scrolling to the bottom of the organisation screen:
+
+![Associated objects](images/milo training/objects_2_00.png)
+
+**Editing an organisation**
+
 <a href="#top">Back to Top.</a>
 
 #### Salesforce help and training <a name="salesforce"></a>
