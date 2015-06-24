@@ -185,7 +185,7 @@ n.b. – you can also attach existing contacts to a volunteer registration direc
 
 <a href="#top">Back to Top.</a>
 
-#### Summary <a name="#sum"></a>
+#### Summary <a name="sum"></a>
 
 In the **Contacts** module, we have covered:
 
