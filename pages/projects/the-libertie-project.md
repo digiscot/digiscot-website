@@ -32,7 +32,7 @@ Plan delivery of digital creative club, establish links with stakeholders and ob
 
 We've been shopping for all our new digital equipment and have teamed up with Citizens Online to run a Digital Champions Course. Our first four week course starts next Tuesday and we're already oversubscribed. 
 
-# Update June 24 2015
+### Update June 24 2015
 
 Our first Digital Champions Course is done, we had 8 people through and everyone got something from it. One of our participants said "I've never used a tablet before....I thought it was just for gaming" and "this is amazing, how can I help others get online?" Famous words and phrases so far "Oh that's what that thingy button does" and "What? You can even do that on Google?"
 
