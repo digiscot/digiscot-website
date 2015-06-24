@@ -148,7 +148,7 @@ Now look at ‘Organization Affliations’ at the top of the record – you will
 n.b. – you can also affiliate existing contacts to an organisation direct from the organisation record (see module 02). Obviously, if the contact does not exist yet you will have to create them following the steps above before they can be affiliated with an organisation.
 
 
-<a href="'top">Back to Top.</a>
+<a href="#top">Back to Top.</a>
 
 **Adding a volunteer registration to a contact** <a name="addvol"></a>
 
