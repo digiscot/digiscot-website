@@ -21,7 +21,6 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 ### Project description
 
 To provide computer hardware, support and IT sessions for the local and wider community. 
-testing this
 
 
 ## Project milestones
@@ -33,6 +32,17 @@ Purchase of hardware and advertising the facility
 ### Phase 2 February 2015
 
 Engage sessional worker to teach Basic Digital Skills
+
+Phase 2 update:
+
+We are now approaching the end of our first month of providing use of the laptops/internet and sessional worker on Tuesdays.
+
+All is going according to the plan that we set out at the beginning.  The initial uptake has been a little slower than expected, it takes time for word to get out and we expect things to get busier over the next couple of weeks. Our colleague from the Highland council is getting word out to the various groups that she works with and this will likely result in an increased uptake of the service being offered. 
+
+Our questionnaires are set out and being used for everyone who uses the service to we can monitor who using the computers, what level of skills they have,, and how they have progressed during they're time using the service.  
+
+Our sessional worker who is here on Tuesdays is fantastic, he has made sure all the computers have security software installed and is  a real asset to the project in terms of his vast knowledge and his approach to teaching. 
+
 
 Start first sessions
 
