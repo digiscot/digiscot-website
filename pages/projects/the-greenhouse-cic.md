@@ -31,7 +31,7 @@ Purchase of hardware and advertising the facility
 
 ### Phase 2 February 2015
 
-Engage sessional worker to teach Basic Digital Skills
+Engage sessional worker to teach Basic Digital Skills. Start first sessions.
 
 Phase 2 update:
 
@@ -43,8 +43,6 @@ Our questionnaires are set out and being used for everyone who uses the service 
 
 Our sessional worker who is here on Tuesdays is fantastic, he has made sure all the computers have security software installed and is  a real asset to the project in terms of his vast knowledge and his approach to teaching. 
 
-
-Start first sessions
 
 ### Phase 3 March 2015
 
