@@ -2,7 +2,7 @@
 layout: page
 title: 2015 Training Module 00
 excerpt: Milo Training Module 00 - Quick Start Guide.
-permalink: /data/milo-training-page-test/
+permalink: /data/milo-training-quickstart/
 ---
 
 
@@ -223,9 +223,9 @@ In the **Quick Start Guide**, we have covered:
 * Editing an organisation record and associating a location
 * How to access Salesforce online help and training
 
-You can use the same techniques to navigate around Milo and Start to explore the other deatures Milo has to offer. 
+You can use the same techniques to navigate around Milo and start to explore the other features Milo has to offer.
 
-Remember - for more step by step advice, see the individual training modules. if you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
+Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
 <a href="#top">Back to Top.</a>
