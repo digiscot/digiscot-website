@@ -55,7 +55,7 @@ When you create your own views, these will be available from this dropdown.
 
 You can search for any record on the database using the Global Search box at the top of every screen.
 
-![Search](/image/milo training/02_search.PNG)
+![Search](/images/milo training/02_search.PNG)
 
 To search for an organisation, simply type the name or part of the name into the search box. You can use * as a wildcard. Try typing ‘Pet Fostering’. You will now see any contacts, interactions, organisations, volunteer opportunities or volunteer registrations associated with the search phrase.
 
@@ -84,7 +84,7 @@ Associated entities are displayed at the bottom of the screen. This is where you
 
 You can also see these entities at the top of the organisation record. Hover the pointer over one of them to see associations, e.g. locations:
 
-![Organisations View](/image/milo training/02_orgview.PNG)
+![Organisations View](/images/milo training/02_orgview.PNG)
 
 To make changes to an organisation, click on the **Edit** button at the top of the screen.
 
@@ -126,7 +126,7 @@ You will then see the view organisation screen as before:
 
 You can now begin associating locations, contacts, etc. with your new organisation. To add a new location hover over ‘Locations’ and click ‘New Location’.
 
-![Adding Location](/image/milo training/02_addloc.PNG)
+![Adding Location](/images/milo training/02_addloc.PNG)
 
 A new edit window opens up displaying the fields available for adding a new location to an organisation record. Complete the details of the location and click save.
 
