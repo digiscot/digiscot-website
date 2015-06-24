@@ -6,7 +6,8 @@ excerpt: Using creative digital activities to engage with hard to reach individu
 lead: The Libertie Project
 website: http://www.libertie.biz/ 
 email: 
-twitter-url: facebook-url: https://www.facebook.com/libertieproject 
+twitter-url: 
+facebook-url: https://www.facebook.com/libertieproject 
 start: January 2015
 end: November 2015
 award: £9,700
@@ -29,7 +30,15 @@ The Creative Digital Club (CDC) will be a project that uses creative digital act
 
 Plan delivery of digital creative club, establish links with stakeholders and obtain equipment.
 
-We've been shopping for all our new digital equipment and have teamed up with Citizens Online to run a Digital Champions Course. Our first four week course starts next Tuesday and we're already oversubscribed.
+We've been shopping for all our new digital equipment and have teamed up with Citizens Online to run a Digital Champions Course. Our first four week course starts next Tuesday and we're already oversubscribed. 
+
+# Update June 24 2015
+
+Our first Digital Champions Course is done, we had 8 people through and everyone got something from it. One of our participants said "I've never used a tablet before....I thought it was just for gaming" and "this is amazing, how can I help others get online?" Famous words and phrases so far "Oh that's what that thingy button does" and "What? You can even do that on Google?"
+
+We had such great feedback and an appetite from people for wanting to learn more and tell all their mates about it we decided to run a Digital Champions Train the Trainer course. That's just finished and we now have 3 Digital Champion Trainers available and oh my goodness, it's making such a difference already. We've identified that "Digital Life Skills" are essential but that for our client group, access to digital equipment to get online is as much of an issue.
+
+So, onto phase 2 we go. We've recruited 2 digital volunteers and we're just about to take on our own premises and set up a digital cafe. More information to follow so watch this space.
 
 ### Phase 2
 
