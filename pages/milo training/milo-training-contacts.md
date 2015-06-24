@@ -131,8 +131,69 @@ You can now affiliate an organisations with your contact, or alternatively attac
 
 <!-- ![text](images/milo training/03_text.PNG) -->
 
+A new edit window opens up displaying the fields available for adding a new organisation affiliation to a contact record.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+Click on the magnifying glass next to the Organisation field – you will see a list of recently viewed organisations, or you can use the search if the organisation you want is not on the list. When you see the organisation you want to associate the contact with, click on its name to select it and enter it into the Organisation field.
+
+Complete any other details required (especially whether or not the contact is the primary contact for this organisation), and click Save.
+
+Now look at ‘Organization Affliations’ at the top of the record – you will see it now says (1) after the title rather than (0), because you have now added an affiliation. Hover over to see a summary of the organisation, whether primary contact etc.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+n.b. – you can also affiliate existing contacts to an organisation direct from the organisation record (see module 02). Obviously, if the contact does not exist yet you will have to create them following the steps above before they can be affiliated with an organisation.
 
 
+<a href="'top">Back to Top.</a>
 
+**Adding a volunteer registration to a contact** <a name="addvol"></a>
+
+To make a contact a volunteer, you must attach a volunteer registration. This is very similar to the process of adding an organisation affiliation. First, go to the contact record and hover over ‘Volunteer Registrations’. Click ‘New Volunteer Registration’.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+A new edit window opens up displaying the fields available for adding a new volunteer registration to a contact record.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+The fields in a volunteer registration are the same as those on the old Milo system (see module 04 for more details).
+
+The main thing to remember is that address details for any volunteer should be saved in the registration, <u>not</u> the contact record. If you try to save a volunteer registration attached to a contact with a personal address or phone number, you get the following error:
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+Complete all relevant information on the volunteer, ensuring that all mandatory fields are filled out, and click Save.
+
+You will now see the view volunteer registration screen.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+Go to **Recent Items** at the side and click back into the contact record.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+Now look at ‘Volunteer Registrations’ at the top of the contact record – you will see it now says (1) after the title rather than (0), because you have now added a volunteer registration. Hover over to see a summary of the data in the registration.
+
+<!-- ![text](images/milo training/03_text.PNG) -->
+
+n.b. – you can also attach existing contacts to a volunteer registration direct from create new volunteer registration (see module 04). Once again, if the contact does not exist yet you will have to create them following the steps above before they can be attached to a volunteer registration.
+
+#### Summary <a name="#sum"></a>
+
+In the **Contacts** module, we have covered:
+
+* Navigavting to the Contacts home screen
+* Searching for a contact
+* View/edit contact records
+* Create a new contact
+* Adding an organisation affilation and volunteer registration to a contact
+
+These skills are transferrable across the other Milo objects (volunteer Opportunities, Registrations etc). You can use the same techniques to navigate around Milo and start to explore the other features Milo has to offer.
+
+Remember - for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
