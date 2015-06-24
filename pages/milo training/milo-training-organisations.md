@@ -40,7 +40,7 @@ Organisation records are the heart of the system. Most other parts of the system
 
 #### Managing Organisations in Milo <a name="orgmilo"></a>
 
-<!-- Image -->
+![Organisations](/images/milo training/02_manage1.PNG)
 
 **Navigate to Organisations - Home** <a name="nav"></a>
 
@@ -55,7 +55,7 @@ When you create your own views, these will be available from this dropdown.
 
 You can search for any record on the database using the Global Search box at the top of every screen.
 
-<!-- Image 2 -->
+![Search](/image/milo training/02_search.PNG)
 
 To search for an organisation, simply type the name or part of the name into the search box. You can use * as a wildcard. Try typing ‘Pet Fostering’. You will now see any contacts, interactions, organisations, volunteer opportunities or volunteer registrations associated with the search phrase.
 
@@ -76,25 +76,23 @@ When you click into an organisation record, you will see the organisation view s
 * Aims & Objectives
 * Policies and Quality Standards
 
-<!-- Image 3? -->
+![View](/images/milo training/02_view.PNG)
 
 Associated entities are displayed at the bottom of the screen. This is where you can view any **locations**, **contacts**, **volunteering** **opportunities**, **interactions** or **membership** records associated with the organisation record.
 
-<!-- Image 4, I think -->
+![Edit](/images/milo training/02_edit.PNG)
 
 You can also see these entities at the top of the organisation record. Hover the pointer over one of them to see associations, e.g. locations:
 
-<!-- Image 5! -->
-
-<!-- Image 6 lol -->
+![Organisations View](/image/milo training/02_orgview.PNG)
 
 To make changes to an organisation, click on the **Edit** button at the top of the screen.
 
-<!-- Image 7 ^^ -->
+![Edit Button](/images/milo training/02_editbutton.PNG)
 
 The page will open in edit view, allowing you to update and change any data on the organisation, if you have permission to do so.
 
-<!-- Image 8 -->
+![Edit View](/images/milo training/02_orgedit.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -103,15 +101,15 @@ The page will open in edit view, allowing you to update and change any data on t
 
 The easiest way to create any new record is to use the **Create New**… button on the left hand side of the page.
 
-<!-- Image 9 -->
+![Create New](/images/milo training/02_createnew.PNG)
 
 Click on **Create New**… and you will see the option to create a new Event, Task, Organisation, Contact, Volunteering Opportunity, or Volunteer Registration.
 
-<!-- Image 10 -->
+![Create New Tab](/images/milo training/02_createnewtab.PNG)
 
 Select **Organisation**, and a New Organisation input page will appear. This looks the same as the edit screen, but is blank to allow you to input a new organisation.
 
-<!-- Image 11 -->
+![Create New Org](/images/milo training/02_createneworg.PNG)
 
 As in the previous system, some fields in each record type are mandatory. These are signified by a red bar next to the mandatory fields. You cannot save until all of these fields have been completed.
 
@@ -119,7 +117,7 @@ Once you have added the mandatory fields plus any other information, click **Sav
 
 You will then see the view organisation screen as before:
 
-<!-- Image 12 -->
+![Org Screen](/images/milo training/02_orgscreen.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -128,7 +126,7 @@ You will then see the view organisation screen as before:
 
 You can now begin associating locations, contacts, etc. with your new organisation. To add a new location hover over ‘Locations’ and click ‘New Location’.
 
-<!-- Image 13 -->
+![Adding Location](/image/milo training/02_addloc.PNG)
 
 A new edit window opens up displaying the fields available for adding a new location to an organisation record. Complete the details of the location and click save.
 
@@ -136,11 +134,11 @@ You will now see the view location screen for the location you have just created
 
 Go to **Recent Items** at the side and click back into the organisation record.
 
-<!-- Image 14 -->
+![Recent Items](/images/milo training/02_recent.PNG)
 
 Now look at the Locations object at the top of the record – you will see it now says (1) after the title rather than (0), because you have now added a location. Hover over locations to see a summary of the address, postcode, phone number etc.
 
-<!-- Image 15 -->
+![Location Object](/images/milo training/02_locobject.PNG)
 
 
 <a href="#top">Back to Top.</a>
