@@ -34,6 +34,9 @@ Start date is confirmed as 24th June
 Time 9.30-11.30
 Place ASDA cafe in Tain
 
+Week 1
+Great opening to the 10 week sessions.  After a shaky start with signing in, our young assisstants helped everyone get online and get started, and our tutors were able to obtain information about which topics future sessions would cover.  This week we had 9 participants with different needs and aspirations but with a common goal - to gain confidence with using the internet.  
+
 
 
 
