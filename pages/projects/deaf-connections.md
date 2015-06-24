@@ -25,6 +25,29 @@ DEAFinitley Digital will support the Deaf Community to develop and advance their
 
 ## Project milestones
 
+### Phase 1
+
+Identify and purchase required hardware & software. Install setup/training server and clients.
+
+Phase 1 Project Update: 
+
+Our project has had an interesting time since it started. We have successfully installed our new Wireless Access Point, providing improved WiFi access to our lounge/café area and purchased a Microsoft Multipoint server which allows many users to connect to one machine using a common set of applications. This allowed the server administrator to control the desktop of each user and reduces licence costs. 
+
+For user connection we decided to use 4 x HP 410 Thin Clients, these are all in one units, which professed to offer excellent multi media performance. All went well for the server installation and the thin client seemed to work well right up until we tried to run a YouTube video at which point the picture stuttered and the sound became out of sync. YouTube and resources such as the BBC iPlayer are vital  to our work because they allow us to access BSL translated material on demand, they are crucial to the work we do digitally.
+
+I contacted HP support to see if I had done something wrong during the install that would impair performance and was surprised to get a response that said the 410 wouldn’t be able to cope with YouTube or the iPlayer, in fact it would struggle to run MS Office! Not exactly the excellent multi media performance we had been led to expect and a response that does beg the question “What can it run?”. 
+
+HP recommended moving to the next model up, the 510, our supplier was happy to do this but there would be a re-stock charge for the 410 units of £25 each. This seemed unfair given that the publicity for the 410 claimed it was built for exactly the kind of thing we hoped to use it for.
+
+It was then that we discovered HP have a feedback section on their website, they claim this is read by the UK CEO, so we outlined the whole sorry tale and fair play to them within an hour they had offered to buy back the 410s at no cost to us.
+However all of this has taken time and we are now behind in our schedule.
+
+During this time it was also decided that to relocate our classroom area to a bigger space, this area has recently had its cabling checked and is being decorated. The classroom area will be up and running in July.
+
+We have started to publicise this project and with the introduction of the new Next Generation Text Relay, which provides text relay from PC, mobile and tablet, we anticipate that we will be very busy from when we open.
+Fingers crossed our next three months run smoother than the past three.
+
+
 ### Our New WAP is in providing improved internet access to our lounge and cafe.
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/Deafconnections/posts/1062281897120295:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Deafconnections/posts/1062281897120295:0"><p>Our lovely new Wireless Access Point behind reception providing wireless internet to the cafe area.</p>Posted by <a href="https://www.facebook.com/Deafconnections">Deaf Connections</a> on <a href="https://www.facebook.com/Deafconnections/posts/1062281897120295:0">Thursday, May 7, 2015</a></blockquote></div></div>
