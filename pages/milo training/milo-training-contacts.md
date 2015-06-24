@@ -182,6 +182,9 @@ Now look at ‘Volunteer Registrations’ at the top of the contact record – y
 
 n.b. – you can also attach existing contacts to a volunteer registration direct from create new volunteer registration (see module 04). Once again, if the contact does not exist yet you will have to create them following the steps above before they can be attached to a volunteer registration.
 
+
+<a href="#top">Back to Top.</a>
+
 #### Summary <a name="#sum"></a>
 
 In the **Contacts** module, we have covered:
@@ -196,4 +199,6 @@ These skills are transferrable across the other Milo objects (volunteer Opportun
 
 Remember - for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
+
+<a href="#top">Back to Top.</a>
 
