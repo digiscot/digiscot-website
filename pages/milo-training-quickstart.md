@@ -47,7 +47,7 @@ For the most part, Milo 2 uses the same data types (organisations, contacts, opp
 
 <a href="#top">Back to Top.</a>
 
-#### Logging in <a name="Logging in"></a>
+#### Logging in <a name="logging in"></a>
 
 All Milo users require a named licence. If you do not have a licence, please contact your local milo lead to find out if one has already been assigned to you.
 
