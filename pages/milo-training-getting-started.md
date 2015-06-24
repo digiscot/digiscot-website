@@ -14,7 +14,7 @@ permalink: /data/milo-training-gettingstarted/
 4. <a href="#objects">Milo objects</a>
 5. <a href="#views">Views</a>
 6. <a href="#adding">Adding an object tab to your display</a>
-7. <a href="#"salesforce">Salesforce help and training</a>
+7. <a href="#salesforce">Salesforce help and training</a>
 8. <a href="#sum">Summary</a>
 
 
@@ -219,7 +219,7 @@ You can usually find the answer to any question about Salesforce by typing your 
 Remember, for Milo-specific questions (e.g. “how do I create a new interaction with an organisation?”), it’s best to refer to the training documentation or contact the Milo team on [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk) – but for questions about Salesforce itself, the online help and training is a fantastic resource.
 
 
-<a href=#top>Back to Top.</a>
+<a href="#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
