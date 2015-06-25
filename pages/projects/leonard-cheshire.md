@@ -20,6 +20,13 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
+
+
+## Project Milestones
+
+
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
