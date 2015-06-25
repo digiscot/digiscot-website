@@ -16,7 +16,7 @@ permalink: /data/milo-training-interactions/
 5. <a href="#view">View and edit an interaction</a>
 6. <a href="#create">Create a new interaction</a>
 7. <a href="#task">Assigning a task from an interaction</a>
-8. <a href="#sum>Summary</a>
+8. <a href="#sum">Summary</a>
 
 
 
