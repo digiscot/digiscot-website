@@ -6,7 +6,8 @@ excerpt: Growing community resources with a website and the digitisation of hist
 lead: Colonsay and Oransay Heritage Trust
 website: http://www.spanglefish.com/ColonsayandOransayHeritageTrust/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £4820
@@ -25,6 +26,9 @@ Growing our community resources via a website and the digitalisation of our hist
 
 ## Project milestones
 Project underway with the purchase of our new website: colonsaycaptured.com
+
+With distance support, via email and skype, from Gemma Webster from Aberdeen University we have been reviewing our heritage materials in order to establish our priorities for inclusion on our website. The website itself is currently being customised, after time spent reviewing the Hebridean Connections website on which ours is modelled, to meet the needs we have identified.n Once this is completed we will be in a position to begin our training on how to populate the website, using the format developed for us in consultation with Gemma.
+
 
 
 ## Evaluation
