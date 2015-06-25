@@ -124,7 +124,7 @@ You can select from recently-viewed organisations, or search for another organis
 
 Once you have added the mandatory fields plus any other information, click Save. You will then see the view volunteering opportunity screen as before:
 
-<!-- ![text](images/milo training/05_text.PNG) -->
+<!-- ![text](/images/milo training/05_text.PNG) -->
 
 n.b. – you can also attach existing a volunteering opportunity direct from an existing organisation record (see module 01).
 
@@ -136,6 +136,46 @@ n.b. – you can also attach existing a volunteering opportunity direct from an 
 A placement is the relationship created when a volunteer is placed with a relevant volunteering opportunity.
 
 To create a placement from a volunteering opportunity, hover over the Volunteer Placements link and click on ‘New Volunteer Placement’.
+
+<!-- ![text](/images/milo training/05_text.PNG) -->
+
+A new edit window opens up displaying the fields available for adding a new volunteer placement to a volunteer opportunity record. 
+
+<!-- ![text](/images/milo training/05_text.PNG) -->
+
+Note that the Volunteer Opportunity number is already filled in. 
+
+Click on the magnifying glass next to Volunteering Registration to show a list of registrations you have recently accessed, or alternatively search for anther volunteer registration. Click on the ref number to add the relevant volunteer registration to the placement.
+
+<!-- ![text](/images/milo training/05_text.PNG) -->
+
+Tip: it saves time to select from recent items, so it’s a good idea to go into both the volunteer registration and volunteering opportunity records you are working with before you make the placement.
+
+Complete the relevant fields in the placement and click Save.
+
+You will be returned to the volunteering opportunity view page. If you hover over the Volunteer Placements link now, you will see the details of the associated placement and opportunity.
+
+<!-- ![text](/images/milo training/05_text.PNG) -->
+
+n.b. you can also create a placement direct from a Volunteer Registration record – see module 04 for details.
+
+
+<a href="#top">Back to Top.</a>
+
+#### Summary <a name="sum"></a>
+
+In the **Volunteering Opportunity** module, we have covered:
+
+* Navigating to the Volunteering Opportunity home screen
+* Searching for a volunteering opportunity
+* View/edit volunteering opportunity records
+* Create a new volunteering opportunity
+* Creating a placement from volunteering opportunity
+
+These skills are transferrable across the other Milo objects (Organisations, Volunteering Registrations etc). You can use the same techniques to navigate around Milo and start to explore the other features Milo has to offer.
+
+Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at milosupport@scvo.org.uk
+
 
 
 
