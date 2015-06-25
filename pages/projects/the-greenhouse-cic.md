@@ -33,7 +33,7 @@ Purchase of hardware and advertising the facility
 
 Engage sessional worker to teach Basic Digital Skills. Start first sessions.
 
-Phase 2 update:
+Phases 1 & 2 update:
 
 We are now approaching the end of our first month of providing use of the laptops/internet and sessional worker on Tuesdays.
 
@@ -55,6 +55,18 @@ Sessions continue
 Marketing and publicity to encourage more people to sign up to groups
 
 Start encouraging volunteer/peer support
+
+Phases 3 & 4 update: 
+
+We have seen a steady increase in users as word gets out about the project. Many of the clients have not required teaching and have been utilizing the laptops and free wifi to: check emails, use social media, use the internet for study purposes, to do job searches, for internet shopping.
+
+Some clients have had specific technical issues that they have required help with so have only needed one or two visits with the sessional worker.
+We have only had two clients so far who have never used a laptop or the internet before. Over the time that the project has been running they have progressed to the point of being able to use the laptops to surf the internet with little or no assistance, but are unwilling or lack the confidence to teach others what they have learned. 
+
+Some of the regular clients have found coming in to use the service a good way of getting out of isolation at home.
+As some of the clients are coming in 3-4 times a week (outwith the paid sessional worker sessions) our staff are now available to offer support and guidance where required, thus allowing for continuity of the service for the community-  further utilizing the laptops. 
+
+We expect the numbers of users to increase further as time goes on and word gets out to more people who wold benefit from the project, we are happy to continue using the staff to help teach new clients as required or until we can encourage peer support. 
 
 ### Phase 5 August 2015
 
