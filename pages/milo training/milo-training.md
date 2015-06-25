@@ -18,4 +18,3 @@ permalink: /data/milo-training/
 
 
 <a href="/data/milo-training-videos/" class="btn btn-primary btn-lg">Training Videos</a>
-
