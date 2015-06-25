@@ -178,21 +178,5 @@ These skills are transferrable across the other Milo objects (Organisations, Vol
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top>Back to Top.</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="#top">Back to Top.</a>
 
