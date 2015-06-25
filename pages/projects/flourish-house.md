@@ -57,6 +57,12 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">IT skills course proud of their work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="https://twitter.com/hashtag/digiscot15?src=hash">#digiscot15</a> <a href="http://t.co/NURrWqy9nw">pic.twitter.com/NURrWqy9nw</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/610828260520382464">June 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">New guest wifi network is up and running, now all flourish members and staff have free Internet access! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/F7LwK8yxaQ">pic.twitter.com/F7LwK8yxaQ</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/611828022983925760">June 19, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now on our second eBay training course with Anna and James, keep up the good work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/5Ywdlw30M3">pic.twitter.com/5Ywdlw30M3</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/613644915692707840">June 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###July 2015
 - Develop and deliver EBay Training Module and support (delivered in July/August and repeated in January 2016)
  - Develop and deliver 4 week Internet Safety Course (deliver in July and again in September)
