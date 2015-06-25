@@ -10,7 +10,7 @@ permalink: /charter/sign/
 <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
 <script src="http://malsup.github.com/jquery.form.js"></script>
 
-<form action="http://scvovote.azurewebsites.net/Charter/Sign" id="frmManagedigitalContacts" method="post">
+<form action="http://scvoapi.azurewebsites.net/Charter/Sign" id="frmManagedigitalContacts" method="post">
 
 	<input name="__RequestVerificationToken" type="hidden" 
 		value="p2B1TwWKaIND707fr4Q5Ynp0W7JT0UaTNE2BIU_lKVhhio4xUi6G-j-jBPufq6JBqMQ8ANbOSx1ElRZ8y3rdoiTtCEMGZAKDFmEl_Ev6asQ1" />
