@@ -103,6 +103,16 @@ Images of participants on Whalsay [here](https://scontent.xx.fbcdn.net/hphotos-x
 
 Lesson learned: If people are convinced of the benefit of the technology for themselves, and can see how they can use it do something they want, they are keen to use it. 
 
+19/6/15:
+Kim Foden returned and invited Ragnhild out for a walk around Kirkwall to record more memories of Kirkwall in the 1950 and 60 and how the town has grown. We spent about two hours walking around and making recordings. Kim is now fully capable of using the tablet to make her own recordings, and was doing it herself, but felt it was better to have Ragnhild with her to avoid the awkwardness of speaking to herself.
+
+24/6/15: 
+Ragnhild Ljosland went out to Dyke End on Scapa Bay to visit Johnnie Meil (age: 91) who had spoken to another participant and was keen to get involved in the project. He had never used a tablet before. Although he preferred Ragnhild to work the technology for him, he did have a go at taking photos and using the voice recorder on the tablet. Johnnie was delighted to share memories and stories from World War 2 in Orkney, and we made 7 recordings regarding various aspects of wartime Orkney. We agreed that Ragnhild would come back another day to do more, as he has lots of stories he wishes to share. Lesson learned: One memory led to another for Johnnie, while Ragnhild was trying to separate them out in different records. We ended up saying “could you wait a minute while I store this bit first” a lot, and we also ended up with several records being made in the same GPS position which will make the dots appear over the top of one another on the map. From the technology’s point of view it is easier to move around to one place at a time, but from the participant’s point of view it feels more natural to speak about lots of different things in a string of associations without having to stop, save, and move. 
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Johnnie Meil (91 today) was delighted to share memories with the Digital Heritage project. He saw the Royal Oak sink! <a href="http://t.co/H1tzw6ND9y">pic.twitter.com/H1tzw6ND9y</a></p>&mdash; UHI Nordic Studies (@NordicUHI) <a href="https://twitter.com/NordicUHI/status/613668414817759232">June 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ## Evaluation
 
