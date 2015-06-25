@@ -30,7 +30,7 @@ Volunteering opportunities enable users to record the relevant data about a new 
 
 #### Managing Volunteering Opportunities in Milo <a name="manage"></a>
 
-**Navigate to Volunteering Opportunities - Home**
+**Navigate to Volunteering Opportunities - Home** <a name="nav"></a>
 
 Click on the Volunteering Opportunities tab at the top of the screen to go to the Volunteering Opportunities home page. By default, you will see a list of recent volunteering opportunities you have accessed. By clicking on the View dropdown above the list of recent volunteering opportunities, you can select ‘All’, which will provide an alphabetised list of every opportunity on the system you have permission to view.
 
@@ -98,7 +98,7 @@ The page will open in edit view, allowing you to update and change any data on t
 <!-- ![text](/images/milo training/05_text.PNG) -->
 
 
-<a href="'#top">Back to Top.</a>
+<a href="#top">Back to Top.</a>
 
 **Create a new volunteering opportunity** <a name="create"></a>
 
@@ -177,12 +177,4 @@ These skills are transferrable across the other Milo objects (Organisations, Vol
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at milosupport@scvo.org.uk
 
 
-
-
-
-
-
-
-
-
-
+<a href="#top">Back to Top.</a>
