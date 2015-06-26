@@ -3,7 +3,7 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Bringing out the Digital
 excerpt: 
-lead: Leonard Chesire
+lead: Leonard Chesire Disability
 website: https://www.leonardcheshire.org/
 email: 
 twitter-url: 
@@ -20,7 +20,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-testing
+
 
 ## Project Milestones
 
