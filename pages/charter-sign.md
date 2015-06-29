@@ -5,7 +5,7 @@ excerpt: Here's your chance to help promote digital participation in Scotland.
 permalink: /charter/sign/
 ---
 
-<form action="http://localhost:63931/Charter/Sign" id="frmManagedigitalContacts" method="post">
+<form action="http://scvoapi.azurewebsites.net/Charter/Sign" id="frmManagedigitalContacts" method="POST">
 
     <input name="__RequestVerificationToken" type="hidden" 
         value="p2B1TwWKaIND707fr4Q5Ynp0W7JT0UaTNE2BIU_lKVhhio4xUi6G-j-jBPufq6JBqMQ8ANbOSx1ElRZ8y3rdoiTtCEMGZAKDFmEl_Ev6asQ1" />
