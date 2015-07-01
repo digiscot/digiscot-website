@@ -38,7 +38,7 @@ The Challenge Fund is designed to support a broad range of exciting projects acr
     </ul>
   </li> 
   <li>Awards will range from £100 - £10,000.  Awards of over £10,000 will only be considered in exceptional circumstances</li>
-  <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a Tech Tracker (this is a very simple 11 question form) and you'll be asked to update us on the progress of the project via their <a href="/projects/">project page on this website</a></li>
+  <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a Tech Tracker (this is a very simple 11 question form) and you'll be asked to update us on the progress of the project via your project page, just like <a href="/projects/comas">Comas have done</a></li>
 </ul>
 
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can note your interest in this kind of support by ticking the box at the end of the application form.
