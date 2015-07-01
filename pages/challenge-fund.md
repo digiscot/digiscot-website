@@ -2,25 +2,104 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible. If you would like to see a list of successful Challenge Fund organisations please scroll down. 
+alert: We have secured funding for a third round of the Digital Challenge Fund and applications will be accepted from 27th July. For more information, see below
 permalink: /resources/challenge-fund/
 ---
+ 
+ 
+In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we awarded more than £200,000 to community digital participation projects across Scotland. These projects have enabled groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
+ 
+Now we want to do it all again!
 
+We are pleased to announce that the Challenge Fund Round 3 has also been kindly supported by BT.
 
-In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we will be awarding more than £200,000 to community digital participation projects across Scotland. This will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world. We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
+##Call 3 
 
-We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can apply for in-kind support as well as, or instead of, a financial award.
+Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of customers or its own staff then we look forward to reading your application.
 
-All successful applicants will have a [project page on this website](/projects/) where they can tell their story, so that others can see what works and learn from their experience.
+###Key Criteria
 
+The Challenge Fund is designed to support a broad range of exciting projects across Scotland however we do have some key criteria so please have a read before submitting an application.
+
+<ul>
+  <li>The project must be focussed on developing the <a href="http://www.go-on.co.uk/basic-digital-skills/">Basic Digital Skills</a> of the organisation's staff organisation the people they're supporting   </li>
+  <li>We have four key focus groups that will recieve a greater weighting in the assessment stage (please note that we are unlikely to fund projects that are aimed at children):
+    <ul>
+      <li>Older people</li>
+      <li>Disabled people</li>
+      <li>Ethnic minority groups</li>
+      <li>Remote and rural communities</li>
+    </ul>
+  </li> 
+  <li>Awards will range from £100 - £10,000.  Awards of over £10,000 will only be considered in exceptional circumstances</li>
+  <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a Tech Tracker (this is a very simple 11 question form) and you'll be asked to update us on the progress of the project via their <a href="/projects/">project page on this website</a></li>
+</ul>
+
+We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can note your interest in this kind of support by ticking the box at the end of the application form.
+  
 For more information please [contact us](/contact/).
+ 
+###Timeline
+ 
+<table class="table table-bordered">
+<thead>
+      <tr>
+        <th>Milestone</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="success col-md-6">Publish guidance notes for round 3</td>
+        <td class="success">20th July</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Application process open</td>
+        <td>27th July - 04th September</td>
+      </tr>
+                  <tr>
+      <td class="col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
+        <td>04th September - 16th September</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
+        <td>09th October</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">Sucessful applicants will be notified</td>
+        <td>12th October</td>
+      </tr>
+       <tr>
+        <td class="col-md-6">Contract document sent out</td>
+        <td>12th October - 16th October</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Finalise payment schedules and contracts returned</td>
+        <td>6th November</td>
+      </tr>
+                  <tr>
+      <td class="col-md-6">First payments made</td>
+        <td>16th November</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">Future monthly payments made</td>
+        <td>Once per month</td>
+      </tr>
+      </tbody>
+</table>
+ 
+<!-- <a href="/challenge-fund/apply/" class="btn btn-primary btn-lg">Apply Now</a> -->
 
-![ERDF](/images/erdf.jpg)
+####We will be accepting applications from the 27th July
 
-## Call 2 (Spring 2015) 
+<a href="/challenge-fund/guidance">Please read the application guidance notes before submitting your application</a>
 
-With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The successful applicants are listed below:
+##Previous Rounds
 
+###Call 2 (Spring 2015)
+ 
+With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below:
+ 
 * Stromness Community Centre
 * Leonard Cheshire
 * Argyll Voluntary Action
@@ -54,39 +133,14 @@ With 150 great applications received for Call 2, we are delighted to announce th
 * Dundee Augmentative and Alternative Communication (AAC) Research Group
 * Co Chomunn na Pairce
 * Scottish Women's Aid
-
-You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from partners that have signed [Scotland's Digital Participation Charter](/charter/). 
-
-
-
-## Call 1 (Winter 2014)
-
-Over 70 applications were made to Call 1, and the [Digital Participation Leadership Group](/about/) made 25 direct offers of funding. The successful applicants are listed below:
-
-* Spruce Carpets Ltd
-* Linthouse Monday Club
-* Toryglen Community Base
-* The Libertie Project
-* Old Torry Community Centre
-* The Greenhouse Shop CIC
-* Mydex CIC
-* Homestart Majik
-* Applecross Community Company
-* The Annex Healthy Living Centre
-* Station House Media Unit
-* Comas
-* Project Scotland
-* CVO East Ayrshire
-* Scottish Council on Deafness
-* Bethany Christian Trust
-*. Queens Cross Housing Association
-* Ormlie Community Association
-* Link Group Ltd
-* Homelands Trust Fife
-* Volunteer Centre Dundee
-* Opportunity Enhancement Trust
-* Capability Scotland
-* Midlothian Voluntary Action
-* Coupar Angus Regeneration Trust
-
-You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from partners that have signed [Scotland's Digital Participation Charter](/charter/).
+ 
+You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/).
+ 
+ 
+ 
+###Call 1 (Winter 2014)
+ 
+Over 70 applications were made to Call 1, and the [Digital Participation Leadership Group](/about/) made 25 direct offers of funding. You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/).
+ 
+ 
+![ERDF](/images/erdf.jpg)
