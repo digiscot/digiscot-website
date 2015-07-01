@@ -6,7 +6,8 @@ excerpt:
 lead: Youthlink Scotland
 website: http://www.youthlinkscotland.org/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: 
 end: 
 award: 
@@ -19,6 +20,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
+DevelopIng traInIng on the DIgItally AgIle NatIonal PrIncIples. 
 
 
 
