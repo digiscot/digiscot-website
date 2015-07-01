@@ -30,7 +30,9 @@ Enjoyed meeting Project Leaders & SCVO staff at Glasgow Royal Concert Hall 21 Ap
 
 Marketing drive in momentum.  Posters and leaflets looking good. Liaising with Taigh Ceilidh Day Care Centre today in Kinlochbervie and meeting some of the elderly clients to raise the project profile and inspire interest.  First client booked in for next Tuesday for support on using a tablet and a group session booked in for Wednesday 13 May.  Creative Writers also invited to join up for sessions on 18 May and 15 June at the Training Centre to learn more about digitising their work and inspiration for writing. 
 
+Project is gaining momentum with some fantastic work by our creative writers well on their way to creating their first publication for our project.  Elderly learners have also enjoyed afternoon sessions at the local Day Care Centre for basic ICT skills.  We take a break now for the summer holidays but are looking ahead to more digital learning in August.  Here is a picture of some our Creative Writers in action having just received their new USB sticks for saving their work!  
 
+<a href="https://www.flickr.com/photos/107623743@N02/19111799089" title="IMG_1032 by Jane Stevenson, on Flickr"><img src="https://c1.staticflickr.com/1/361/19111799089_c2766151dd_z.jpg" width="480" height="640" alt="IMG_1032"></a>
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
