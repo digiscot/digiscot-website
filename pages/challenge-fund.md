@@ -13,6 +13,8 @@ Now we want to do it all again!
 
 We are pleased to announce that the Challenge Fund Round 3 has also been kindly supported by BT.
 
+![BT](/images/signatories/bt.jpg)
+
 ##Call 3 
 
 Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of customers or its own staff then we look forward to reading your application.
