@@ -18,9 +18,10 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ## Project plan
 
+
 ### Project description
 
-
+We will employ a specialised Digital Advisor one day per week to deliver digital inclusion workshops and personalised one-to-one support.  The post-holder will be home-based and responsible for delivering the following activities over 9 months:  6 digital outreach community workshops and work with 40 disabled people learn basic online skills across the Highlands.  The project will: Build IT literacy capacity of people with disabilities through increased digital inclusion and specialised support; Digital inclusivity will lead to disabled people having the opportunity to maintain and cultivate relationships (both professionally and personally), promoting social inclusion and enhanced well-being; Increase disabled clients’ opportunities to access various online tools, such as, completing employment applications, internet banking, online shopping, email, and social networking; Increased self-esteem and confidence in people with disabilities, leading to more people with disabilities becoming digitally engaged and improving their quality of life.
 
 ## Project Milestones
 
