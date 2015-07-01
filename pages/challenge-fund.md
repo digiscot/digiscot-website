@@ -7,11 +7,11 @@ permalink: /resources/challenge-fund/
 ---
  
  
-In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we awarded more than £200,000 to community digital participation projects across Scotland. These projects have enabled groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
+In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we awarded more than £300,000 to community digital participation projects across Scotland. These projects have enabled groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
  
 Now we want to do it all again!
 
-We are pleased to announce that the Challenge Fund Round 3 has also been kindly supported by BT.
+In addition to being supported by Scottish Government, we're pleased to announce that the Challenge Fund Round 3 has also been kindly supported by BT.
 
 ![BT](/images/signatories/bt.jpg)
 
@@ -19,18 +19,22 @@ We are pleased to announce that the Challenge Fund Round 3 has also been kindly 
 
 Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of customers or its own staff then we look forward to reading your application.
 
+To see a list of the projects we've supported so far check out the <a href="/projects">Projects Page</a>
+
 ###Key Criteria
 
 The Challenge Fund is designed to support a broad range of exciting projects across Scotland however we do have some key criteria so please have a read before submitting an application.
 
 <ul>
-  <li>The project must be focussed on developing the <a href="http://www.go-on.co.uk/basic-digital-skills/">Basic Digital Skills</a> of the organisation's staff organisation the people they're supporting   </li>
+  <li>The project must be focussed on developing the <a href="http://www.go-on.co.uk/basic-digital-skills/">Basic Digital Skills</a> of the organisation's staff or the people they're supporting</li>
   <li>We have four key focus groups that will recieve a greater weighting in the assessment stage (please note that we are unlikely to fund projects that are aimed at children):
     <ul>
       <li>Older people</li>
       <li>Disabled people</li>
       <li>Ethnic minority groups</li>
       <li>Remote and rural communities</li>
+      <li>People seeking benefits</li>
+      <li>Glasgow focus</li>
     </ul>
   </li> 
   <li>Awards will range from £100 - £10,000.  Awards of over £10,000 will only be considered in exceptional circumstances</li>
@@ -53,7 +57,7 @@ For more information please [contact us](/contact/).
     <tbody>
       <tr>
         <td class="success col-md-6">Publish guidance notes for round 3</td>
-        <td class="success">20th July</td>
+        <td class="success">1st July</td>
       </tr>
       <tr>
       <td class="col-md-6">Application process open</td>
@@ -68,7 +72,7 @@ For more information please [contact us](/contact/).
         <td>09th October</td>
       </tr>
                                 <tr>
-      <td class="col-md-6">Sucessful applicants will be notified</td>
+      <td class="col-md-6">All applicants notified of the outcome of their application</td>
         <td>12th October</td>
       </tr>
        <tr>
