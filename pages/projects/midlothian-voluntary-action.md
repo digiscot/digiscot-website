@@ -56,9 +56,7 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 * April 7th - gave training to 8 staff at The Bridges Project in Musselburgh
 
-<img src="http://www.fionaodonnellmp.org/wp-content/uploads/2011/02/Bridges-Project-300x225.jpg" alt="The Bridges Project" width="500">
-
-(Some of their clients - proper photo to come)
+<img src="https://lh3.googleusercontent.com/-ghEhvZoUIX4/VZPqcGSonaI/AAAAAAAAIDw/PesrLBJaHwA/s640/The%252520Bridges%252520Project.jpg" alt="The Bridges Project" width="500">
 
 * April 22nd - gave training to 12 third sector workers on the capabilities and possibilities of smartphones
  
