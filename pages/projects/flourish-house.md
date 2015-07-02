@@ -63,6 +63,10 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now on our second eBay training course with Anna and James, keep up the good work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/5Ywdlw30M3">pic.twitter.com/5Ywdlw30M3</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/613644915692707840">June 24, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/scvotweet">@scvotweet</a> Our IT Skills course carrying out Product specs for the different devices we have in Flourish <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/k2kXYNP756">pic.twitter.com/k2kXYNP756</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/613365657581801472">June 23, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquoteclass="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now on our second eBay training course with Anna and James, keep up the good work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/5Ywdlw30M3">pic.twitter.com/5Ywdlw30M3</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/613644915692707840">June 24, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###July 2015
 - Develop and deliver EBay Training Module and support (delivered in July/August and repeated in January 2016)
  - Develop and deliver 4 week Internet Safety Course (deliver in July and again in September)
