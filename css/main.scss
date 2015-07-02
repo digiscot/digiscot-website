@@ -72,6 +72,15 @@ p, li {
   color:                          $h1-font-color;
 }
 
+blockquote {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  font-family: serif;
+  p {
+  font-size: 150%;
+  }
+}
+
 
 
 // Links and buttons
