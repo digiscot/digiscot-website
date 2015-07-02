@@ -43,6 +43,8 @@ We are encouraging our learners to participate in the Six Book Challenge and to 
 - Publicise service
 - IT literacy skills benchmarked
 
+href="https://www.dropbox.com/s/hukzd82od9bc5oa/Digital%20Scotland%20Outcomes%20qtr%201.jpg?dl=0"
+
 ### Phase 2
 
 - Set up secure online group
