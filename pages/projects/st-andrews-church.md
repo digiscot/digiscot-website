@@ -35,8 +35,11 @@ It is proposed to extend the existing services provided by the project to meet t
 Learning will take place on a one to one or small group basis depending on individual needs. A Job Club will also be run to support people undertaking job search on line, write CVs and apply for jobs. The Project will operate initially within the Drop – in hours, with participants wishing to use the Job Club coming in before Drop – in. It is anticipated that these hours will change as the Learning Zone becomes established
 
 
-## Project milestones
+## Project Update
 
+The project is currently supporting between 17 & 20 people per day. 3 or 4 individuals are using computers for the first time. A couple are using them to search for jobs and a couple are completing applications for college. 
+
+A lot of users experience chaotic lifestyles and do not feel comfortable or welcome in a library setting. This project provides them with the opportunity to use computers and learn basic digital skills in a place that is comfortable, and where they have plenty of support from tutors. 
 
 
 ## Evaluation
