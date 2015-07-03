@@ -7,11 +7,11 @@ permalink: /about/basic-digital-skills/
 
 We have adopted the [basic digital skills definition](http://www.go-on.co.uk/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
 
-1. Managing information
-2. Communicating
-3. Transacting
-4. Problem solving
-5. Creating
+1. [Managing information](#managing-information)
+2. [Communicating](#communicating)
+3. [Transacting](#transacting)
+4. [Problem solving](#problem-solving)
+5. [Creating](#creating)
 
 For each of these skills the definition gives examples of what they should enable people and organisations to do, and also covers staying safe online.
 
