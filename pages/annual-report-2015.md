@@ -4,11 +4,13 @@ layout: page
 
 title: Digital participation in action
 
-excerpt: Summer 2015
+excerpt: Our first annual report sets out the scale of the digital participation challenge in Scotland, what we're doing about it, and how you can get involved.
 
 permalink: /about/annual-report-2015/
 
 ---
+
+Summer 2015
 
 ### Contents
 
