@@ -20,14 +20,14 @@
   twitter: GavinDigital
   linkedin: https://www.linkedin.com/pub/gavin-bell/4a/583/168
 - name: Beverley Maclean
-  job: "Development Officer<br />Interns Highlands & Islands"
+  job: Development Officer
   image: beverley.jpg
   phone: 01463 251 723
   email: beverley.maclean@scvo.org.uk
   twitter: bevlington
   linkedin: https://www.linkedin.com/profile/view?id=119513998
 - name: Alastair Watson
-  job: "Development Officer<br />Interns Lowlands & Uplands"
+  job: Development Officer
   image: alastair.jpg
   phone: 0131 524 7288
   email: alastair.watson@scvo.org.uk
@@ -40,6 +40,13 @@
   email: rebecca.stafford@scvo.org.uk
   twitter: digibecca
   linkedin:
+- name: Gillian Munro
+  job: Admin Assistant
+  image: avatar-female.jpg
+  phone: 
+  email: gillian.munro@scvo.org.uk
+  twitter: 
+  linkedin: 
 - name: Andrew Watson
   job: Digital Assistant
   image: andrew.jpg
