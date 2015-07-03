@@ -10,6 +10,11 @@ It’s easy to take the internet for granted, but more than a million people in 
 We’re part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk), and are working with partners across the country to promote digital participation. Our work is generously supported by core funding from the [Scottish Government](http://www.gov.scot), and closely linked to the wider [Digital Scotland](http://www.digitalscotland.org/) agenda.
 
 
+## Publications
+
+* [Basic Digital Skills](/about/basic-digital-skills/) - A short overview of the skills people and organisations need to get things done online.
+
+
 
 ## Our blog
 
