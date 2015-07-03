@@ -225,3 +225,5 @@ And if you're in a position to contribute material support, then we'd love to he
 * **Public sector:** we can help you develop services that meet user needs, through partnerships to embed digital participation into digital public services
 
 Together, we can make a real and lasting difference.
+
+![infographic](/images/infographic-2015-white.png)
