@@ -22,7 +22,7 @@ permalink: /about/annual-report-2015/
 4. [Building a national movement](#building-a-national-movement)
 5. [Where we go from here](#where-we-go-from-here)
 
-[Get involved](#get-involved)
+[Get involved!](#get-involved)
 
 #### Related documents
 
