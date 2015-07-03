@@ -12,7 +12,9 @@ We’re part of the [Scottish Council for Voluntary Organisations](http://www.sc
 
 ## Publications
 
-* [Basic Digital Skills](/about/basic-digital-skills/) - A short overview of the skills people and organisations need to get things done online.
+### [Basic Digital Skills](/about/basic-digital-skills/)
+A short overview of the skills that people and organisations need to get things done online.
+
 
 
 
