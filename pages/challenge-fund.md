@@ -17,7 +17,7 @@ In addition to being supported by Scottish Government, we're pleased to announce
 
 ##Call 3 
 
-Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of customers or its own staff then we look forward to reading your application.
+Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of its customers or its own staff then we look forward to reading your application.
 
 To see a list of the projects we've supported so far check out the <a href="/projects">Projects Page</a>
 
@@ -27,7 +27,7 @@ The Challenge Fund is designed to support a broad range of exciting projects acr
 
 <ul>
   <li>The project must be focussed on developing the <a href="http://www.go-on.co.uk/basic-digital-skills/">Basic Digital Skills</a> of the organisation's staff or the people they're supporting</li>
-  <li>We have four key focus groups that will recieve a greater weighting in the assessment stage (please note that we are unlikely to fund projects that are aimed at children):
+  <li>We have six key focus groups that will recieve a greater weighting in the assessment stage (please note that we are unlikely to fund projects that are aimed at children):
     <ul>
       <li>Older people</li>
       <li>Disabled people</li>
