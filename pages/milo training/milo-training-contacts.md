@@ -47,7 +47,7 @@ Click on the Contacts tab at the top of the screen to go to the Contacts home pa
 
 When you create your own views, these will be available from this dropdown.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Views](/images/milo training/03_views.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -56,7 +56,7 @@ When you create your own views, these will be available from this dropdown.
 
 You can search for any record on the database using the Global Search box at the top of every screen.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Global Search](/images/milo training/03_global_search.PNG)
 
 To search for a contact, simply type the name or part of the name into the search box. You can use * as a wildcard. Try typing ‘Kevin Bradley’.
 
@@ -77,23 +77,23 @@ When you click into a contact record, you will see the contact view screen. As i
 * (Non-volunteer) Address information
 * (Non-volunteer) Contact details
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Contact Page](/images/milo training/03_contact_page.PNG)
 
 Associated entities are displayed at the bottom of the screen. This is where you can view any **volunteer registrations** or **organisation affiliations** associated with the contact record.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Contact Record](/images/milo training/03_contact_rec.PNG)
 
 You can also see these entities at the top of the contact record. Hover the pointer over one of them to see associations, e.g. locations:
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![associations](/images/milo training/03_associations.PNG)
 
 To make changes to a contact, click on the **Edit** button at the top of the screen.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Edit Button](/images/milo training/03_editbutton.PNG)
 
 The page will open in edit view, allowing you to update and change any data on the contact, if you have permission to do so.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Edit Contact](/images/milo training/03_editcontact.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -102,15 +102,15 @@ The page will open in edit view, allowing you to update and change any data on t
 
 The easiest way to create any new record is to use the **Create New**… button on the left hand side of the page.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Create New](/images/milo training/03_createnew.PNG)
 
 Click on **Create New**… and you will see the option to create a new Event, Task, Organisation, Contact, Volunteering Opportunity, or Volunteer Registration.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Create New Tab](/images/milo training/03_newtab.PNG)
 
 Select **Contact**, and a New Contact input page will appear. This looks the same as the edit screen, but is blank to allow you to input a new contact.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![New Contact](/images/milo training/03_newcontact.PNG)
 
 As in the previous system, some fields in each record type are mandatory. These are signified by a red bar next to the mandatory fields. You cannot save until all of these fields have been completed.
 
@@ -120,7 +120,7 @@ First select the category of contact: whether this will be a contact at an **org
 
 Once you have added the mandatory fields plus any other information, click **Save**. You will then see the view contact screen as before:
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![New Contacts Page](/images/milo training/03_completecontact.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -129,11 +129,11 @@ Once you have added the mandatory fields plus any other information, click **Sav
 
 You can now affiliate an organisations with your contact, or alternatively attach a volunteer registration. To add an organisation hover over ‘Organization Affiliations’ and click ‘New Affiliation’.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Adding Affiliations](/images/milo training/03_contaff.PNG)
 
 A new edit window opens up displaying the fields available for adding a new organisation affiliation to a contact record.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![New Affilation](/images/milo training/03_lookups.PNG)
 
 Click on the magnifying glass next to the Organisation field – you will see a list of recently viewed organisations, or you can use the search if the organisation you want is not on the list. When you see the organisation you want to associate the contact with, click on its name to select it and enter it into the Organisation field.
 
@@ -141,9 +141,9 @@ Complete any other details required (especially whether or not the contact is th
 
 Now look at ‘Organization Affliations’ at the top of the record – you will see it now says (1) after the title rather than (0), because you have now added an affiliation. Hover over to see a summary of the organisation, whether primary contact etc.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Assciations](/images/milo training/03_associations2.PNG)
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Objects](/images/milo training/03_objects.PNG)
 
 n.b. – you can also affiliate existing contacts to an organisation direct from the organisation record (see module 02). Obviously, if the contact does not exist yet you will have to create them following the steps above before they can be affiliated with an organisation.
 
@@ -154,31 +154,31 @@ n.b. – you can also affiliate existing contacts to an organisation direct from
 
 To make a contact a volunteer, you must attach a volunteer registration. This is very similar to the process of adding an organisation affiliation. First, go to the contact record and hover over ‘Volunteer Registrations’. Click ‘New Volunteer Registration’.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Volunteer Registration Object](/images/milo training/03_volregobj.PNG)
 
 A new edit window opens up displaying the fields available for adding a new volunteer registration to a contact record.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Volunteer Registration New](/images/milo training/03_volregnew.PNG)
 
 The fields in a volunteer registration are the same as those on the old Milo system (see module 04 for more details).
 
 The main thing to remember is that address details for any volunteer should be saved in the registration, <u>not</u> the contact record. If you try to save a volunteer registration attached to a contact with a personal address or phone number, you get the following error:
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Error](/images/milo training/03_error.PNG)
 
 Complete all relevant information on the volunteer, ensuring that all mandatory fields are filled out, and click Save.
 
 You will now see the view volunteer registration screen.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Volunteer Registration View](/images/milo training/03_volregview.PNG)
 
 Go to **Recent Items** at the side and click back into the contact record.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Recent Items](/images/milo training/03_recent.PNG)
 
 Now look at ‘Volunteer Registrations’ at the top of the contact record – you will see it now says (1) after the title rather than (0), because you have now added a volunteer registration. Hover over to see a summary of the data in the registration.
 
-<!-- ![text](images/milo training/03_text.PNG) -->
+![Volunteer Registration](/images/milo training/03_volregdata.PNG)
 
 n.b. – you can also attach existing contacts to a volunteer registration direct from create new volunteer registration (see module 04). Once again, if the contact does not exist yet you will have to create them following the steps above before they can be attached to a volunteer registration.
 
