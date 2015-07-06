@@ -12,6 +12,9 @@ We’re part of the [Scottish Council for Voluntary Organisations](http://www.sc
 
 ## Publications
 
+### [Digital Participation In Action](/about/annual-report-2015/)
+Our first annual report sets out the scale of the digital participation challenge in Scotland, what we're doing about it, and how you can get involved.
+
 ### [Basic Digital Skills](/about/basic-digital-skills/)
 A short overview of the skills that people and organisations need to get things done online.
 
