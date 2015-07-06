@@ -36,7 +36,7 @@ Click on the Volunteering Opportunities tab at the top of the screen to go to th
 
 When you create your own views, these will be available from this dropdown.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Volunteer Opportunities](/images/milo training/05_volopp.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -45,7 +45,7 @@ When you create your own views, these will be available from this dropdown.
 
 You can search for any record on the database using the Global Search box at the top of every screen.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Search](/images/milo training/05_search.PNG)
 
 To search for a volunteering opportunity, simply type the name or part of the name into the search box. You can use * as a wildcard. Try typing ‘driver’. 
 
@@ -57,7 +57,7 @@ Whichever method you use will return a list of volunteer opportunities. Click on
 
 **Important**: there are <u>two</u> clickable links on each record in the list results. The opportunity reference number (Ref) and the name of the organisation hosting the opportunity (Organisation). You access the volunteering opportunity by clicking on the **Ref** number (highlighted below). Clicking on Organisation will take you to the record of the organisation hosting the opportunity.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Recent](/images/milo training/05_recent.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -79,23 +79,23 @@ When you click into a volunteering opportunity record, you will see the voluntee
 * Training & Support
 * Application process
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Volunteer Opportunities](/images/milo training/05_volopppage.PNG)
 
 As usual, associated entities are displayed at the bottom of the screen. This is where you can view any **volunteer placements** associated with the volunteering opportunity record.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Volunteer Opportunities Placement](/images/milo training/05_voloppplace.PNG)
 
 You can also see these entities at the top of the volunteer opportunity record. Hover the pointer over to see details of placements:
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Objects](/images/milo training/05_objectsplace.PNG)
 
 To make changes to a volunteering opportunity, click on the **Edit** button at the top of the screen.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Edit](/images/milo training/05_edit.PNG)
 
 The page will open in edit view, allowing you to update and change any data on the volunteering opportunity, if you have permission to do so.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Volunteer Oppourtunity Edit](/images/milo training/05_voloppedit.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -104,27 +104,27 @@ The page will open in edit view, allowing you to update and change any data on t
 
 The easiest way to create any new record is to use the **Create New*... button on the left hand side of the page.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Create New](/images/milo training/05_createnew.PNG)
 
 Click on **Create New**… and you will see the option to create a new Event, Task, Organisation, Contact, Volunteering Opportunity, or Volunteer Registration.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![New Tab](/images/milo training/05_newtab.PNG)
 
 Select **Volunteering Opportunity**, and a New Volunteering Opportunity input page will appear. This looks the same as the edit screen, but is blank to allow you to input a new volunteering opportunity.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Edit](/images/milo training/05_voloppedit2.PNG)
 
 As in the previous system, some fields in each record type are mandatory. These are signified by a red bar next to the mandatory fields. You cannot save until all of these fields have been completed.
 
 An opportunity must be associated with an existing organisation. To select the organisation you wish to attach a volunteering opportunity to, click on the magnifying glass next to the Organisation field.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Lookup](/images/milo training/05_lookup.PNG)
 
 You can select from recently-viewed organisations, or search for another organisation record. Click on the name to add the organisation to the volunteering opportunity.
 
 Once you have added the mandatory fields plus any other information, click Save. You will then see the view volunteering opportunity screen as before:
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![New Volunteer Opportunity](/images/milo training/05_newpage.PNG)
 
 n.b. – you can also attach existing a volunteering opportunity direct from an existing organisation record (see module 01).
 
@@ -137,17 +137,17 @@ A placement is the relationship created when a volunteer is placed with a releva
 
 To create a placement from a volunteering opportunity, hover over the Volunteer Placements link and click on ‘New Volunteer Placement’.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Volunteer Placement](/images/milo training/05_volplace.PNG)
 
 A new edit window opens up displaying the fields available for adding a new volunteer placement to a volunteer opportunity record. 
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![New Placement](/images/milo training/05_newplace.PNG)
 
 Note that the Volunteer Opportunity number is already filled in. 
 
 Click on the magnifying glass next to Volunteering Registration to show a list of registrations you have recently accessed, or alternatively search for anther volunteer registration. Click on the ref number to add the relevant volunteer registration to the placement.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![Lookup](/images/milo training/05_lookup2.PNG)
 
 Tip: it saves time to select from recent items, so it’s a good idea to go into both the volunteer registration and volunteering opportunity records you are working with before you make the placement.
 
@@ -155,7 +155,7 @@ Complete the relevant fields in the placement and click Save.
 
 You will be returned to the volunteering opportunity view page. If you hover over the Volunteer Placements link now, you will see the details of the associated placement and opportunity.
 
-<!-- ![text](/images/milo training/05_text.PNG) -->
+![New Volunteer Placement](/images/milo training/05_fin.PNG)
 
 n.b. you can also create a placement direct from a Volunteer Registration record – see module 04 for details.
 
