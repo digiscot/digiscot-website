@@ -43,7 +43,7 @@ We are encouraging our learners to participate in the Six Book Challenge and to 
 - Publicise service
 - IT literacy skills benchmarked
 
-![Move on IT skills graph](/images/projects/move on - IT skills.jpeg)
+![Move on IT skills graph](/images/projects/move on - IT skills.jpg)
 
 ### Phase 2
 
