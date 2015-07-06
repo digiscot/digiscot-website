@@ -7,14 +7,14 @@ permalink: /challenge-fund/guidance/
  
 ##Challenge Fund guidance notes
  
-In this round of the Challenge Fun we will be distributing funds of up to £325,000 to third sector ordganisations from across Scotland; to date <a href="/projects">57 organisations</a> have been supported with awards ranging from £400 - £15,000.
+In this round of the Challenge Fun we will be distributing funds of up to £325,000 to third sector ordganisations from across Scotland; to date <a href="/projects">58 organisations</a> have been supported with awards ranging from £400 - £15,000.
 
 The application process consists of one online form that must be fully complete before your application will be assessed.
 
 If sucessful, then you will also have some key obligations as part of the the <a href="/files/Challenge-Fund-Contract.pdf">Contract</a>:
 <ul>
 	<li>Provide approved evidence of expenditure</li>
-	<li>Update your project page on the website</li>
+	<li>Provide feedback on your project's progress</li>
 	<li>Submit completed "Tech Tracker" documents</li>
 </ul>
  
@@ -39,7 +39,9 @@ There are several key target groups that we are specifically looking to target t
   <li>Older people</li>
   <li>Disabled people</li>
   <li>Ethnic minority groups</li>
+  <li>Those seeking benefits</li>
   <li>Remote and rural areas</li>
+  <li>Glasgow focus</li>	
 </ul>
 
 However, we will consider applications for projects that support other groups but these are our priorty targets.
