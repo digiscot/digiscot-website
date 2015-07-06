@@ -42,15 +42,15 @@ One difference of interaction to other objects on the system is you will normall
 
 Click on the Organisations tab and navigate to the organisation you are interested in, either by using the global search or a view. Click into the Organisation view. To see if there are any interactions, either scroll to the bottom of the page to view associated entities, or look at over the Interactions link at the top of the page. If the number in brackets is not 0, there are associated interactions.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Objects](/images/milo training/06_objects.PNG)
 
 Hover over the link to see the main details of the organisations interaction:
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Interaction Object](/images/milo training/06_intobject.PNG)
 
 **Important**: there are <u>two</u> clickable links on each record in the list results. The reference number (Ref) and the name of the contact at the organisation (Contact). You access the volunteer registration by clicking on the **Reg** number (Highlighted below). Clicking on the Contact will take you to the contact record itself. 
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Click](/images/milo training/06_click.PNG)
 
 So to view the interaction record, simply click on the reference number.
 
@@ -65,11 +65,11 @@ Click into the Contact view. To see if there are any interactions, either scroll
 
 n.b. whether you are looking for an interaction with an individual contact not representing an organisation or a volunteer, the interaction will always be with the contact record, not the volunteer registration. If you wish to view interactions with a volunteer, click on Contact Name within the volunteer registration to go to the contact record.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Object 2](/images/milo training/06_object2.PNG)
 
 Hover over the link to see the main details of the contact interaction:
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Interaction Tab](/images/milo training/06_inttab.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -82,17 +82,17 @@ When you click into an interaction record (remember to click on the ref number!)
 * Interaction category
 * Legacy interaction fields (for reference)
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Interaction Page](/images/milo training/06_interactionpage.PNG)
 
 Because an interaction can only ever be associated with a single contact or one organisation, the only associated entity displayed at the top and bottom of the screen is Notes and Attachments, in case you need to attach a document associated with this interaction.
 
 To make changes to an interaction, click on the **Edit** button at the top of the screen.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Edit](/images/milo training/06_edit.PNG)
 
 The page will open in edit view, allowing you to update and change any data on the interaction, if you have permission to do so.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Edit Page](/images/milo training/06_editpage.PNG)
 
 
 <a href="#top">Back to Top.</a>
@@ -105,13 +105,13 @@ Instead, click into an Organisation record (if you want to record a new interact
 
 To create a new interaction, hover over the Interactions link at the top. This time, click on New Interaction.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![New Interaction](/images/milo training/06_newinteraction.PNG)
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![New Interaction Button](/images/milo training/06_intbutton.PNG)
 
 A new interaction input page will appear. This looks the same as the edit screen, but is blank to allow you to input a new interaction.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Creating a new Interaction](/images/milo training/06_createnewint.PNG)
 
 As in the previous system, some fields in each record type are mandatory. These are signified by a red bar next to the mandatory fields. You cannot save until all of these fields have been completed. As you can see, a contact is always mandatory, but an organisation is optional, as not all interactions will be related to an organisation.
 
@@ -119,7 +119,7 @@ Because this interaction has been created from an organisation record, the organ
 
 To select a contact for the interaction, click on the magnifying glass next to the Contact field.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Lookup](/images/milo training/06_lookup.PNG)
 
 You can select from recently-viewed contacts, or search for another contact record. Click on the name to add the contact to the interaction.
 
@@ -127,7 +127,7 @@ Remember to select a value for the New Interaction Category specific to your TSI
 
 Once you have added the mandatory fields plus any other information, click Save. You will then see the view interaction screen as before:
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Interaction Page](/images/milo training/06_finint.PNG)
 
 To create a new interaction with a contact, repeat the steps above, but starting from a contact record rather than an organisation record.
 
@@ -138,13 +138,13 @@ To create a new interaction with a contact, repeat the steps above, but starting
 
 Tasks replace the old ‘Interaction Action’ function on the original Milo system. This is a built-in Salesforce feature, accessed via the **Create New…** button.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Create New](/images/milo training/06_createnew.PNG)
 
 While in the view page for an interaction, select ‘Task’ from the Create New… menu.
 
 This will open up a new task related with the interaction.
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![New Task](/images/milo training/06_newtask.PNG) -->
 
 Because you clicked to create from the interaction, the new task edit screen is pre-populated as related to that specific interaction, and assigned to you, the user. You can amend this to assign the task to another contact, as on the old system.
 
@@ -152,15 +152,13 @@ Complete the relevant details to assign a task to yourself or someone else relat
 
 The task will now appear on the assigned user’s home screen under My Tasks. To view the task, click on the Home tab and scroll down to see My Tasks:
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Task Page](/images/milo training/06_taskpage.PNG)
 
 You can use the dropdown on the right hand side of the screen to show all open tasks, or just those due in the next few days. If you have left the ‘Reminder’ option ticked, the user will get a reminder when you choose.
 
 To view an existing task, click on the action type under ‘Subject’ to open up the Task view:
 
-<!-- ![text](/images/milo training/06_text.PNG) -->
-
-<!-- ![text](/images/milo training/06_text.PNG) -->
+![Task View](/images/milo training/06_taskview.PNG)
 
 
 <a href="#top">Back to Top.</a>
