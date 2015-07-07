@@ -26,7 +26,7 @@ To see a list of the projects we've supported so far check out the <a href="/pro
 The Challenge Fund is designed to support a broad range of exciting projects across Scotland however we do have some key criteria so please have a read before submitting an application.
 
 <ul>
-  <li>The project must be focussed on developing the <a href="http://www.go-on.co.uk/basic-digital-skills/">Basic Digital Skills</a> of the organisation's staff or the people they're supporting</li>
+  <li>The project must be focussed on developing the <a href="/about/basic-digital-skills/">Basic Digital Skills</a> of the organisation's staff or the people they're supporting</li>
   <li>We have six key focus groups that will recieve a greater weighting in the assessment stage (please note that we are unlikely to fund projects that are aimed at children):
     <ul>
       <li>Older people</li>
@@ -38,7 +38,7 @@ The Challenge Fund is designed to support a broad range of exciting projects acr
     </ul>
   </li> 
   <li>Awards will range from £100 - £10,000.  Awards of over £10,000 will only be considered in exceptional circumstances</li>
-  <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a Tech Tracker (this is a very simple 11 question form) and you'll be asked to update us on the progress of the project via your project page, just like <a href="/projects/comas">Comas have done</a></li>
+  <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a short questionnaire on <a href="/about/basic-digital-skills/">Basic Digital Skills</a> and you'll be asked to update us on the progress of the project via your project page, just like <a href="/projects/comas">Comas have done</a></li>
 </ul>
 
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can note your interest in this kind of support by ticking the box at the end of the application form.
