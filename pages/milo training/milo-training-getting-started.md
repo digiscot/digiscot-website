@@ -20,7 +20,7 @@ permalink: /data/milo-training-gettingstarted/
 
 #### Introduction <a name="introduction"></a>
 
-This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 01 Getting Started 0515.pdf)
+This training moduel can also be downloaded in PDF form. <a href="/files/Milo 2015 Training Handbook 01 Getting Started 0515.pdf" download target="_blank">Click here to download</a>
 
 This module will allow you to access and start working on the new Milo system on Salesforce.
 
