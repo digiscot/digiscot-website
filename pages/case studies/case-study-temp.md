@@ -23,7 +23,7 @@ Key areas to be covered –
 
 5. Digital skills addressed -
 
-      **Managing information**
+      **Managing information** <input type="checkbox"><br>
 
       **Communicating**
 
