@@ -23,7 +23,7 @@ Key areas to be covered –
 
 5. Digital skills addressed - <u>add in a visual tick box, linked to framework</u>
 
-<input type="checkbox" name="vehicle" value="Bike"><strong>Managing information</strong><br>
+<input type="checkbox" name="vehicle" value="Bike"><strong> Managing information</strong><br>
 
 **Communicating**
 
