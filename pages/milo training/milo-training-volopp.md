@@ -23,6 +23,8 @@ permalink: /data/milo-training-volopp/
 
 #### Introduction <a name="intro"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 05 Volunteer Opportunities0515.pdf)
+
 Volunteering opportunities enable users to record the relevant data about a new opportunity. When a volunteering opportunity is created, it is possible to create a placement with a relevant volunteer registration.
 
 
