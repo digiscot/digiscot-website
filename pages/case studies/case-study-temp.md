@@ -38,7 +38,6 @@ Key areas to be covered –
 7. Links (new websites/Facebook/Twitter etc)
 
 8. Contact details for futher information
-9. 
 
 
 
