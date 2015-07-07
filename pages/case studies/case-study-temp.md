@@ -23,15 +23,15 @@ Key areas to be covered –
 
 5. Digital skills addressed -
 
-      **Managing information** <input type="checkbox"><br>
+      **Managing information**   <input type="checkbox"><br>
 
-      **Communicating**
+      **Communicating**          <input type="checkbox"><br>
 
-      **Transacting**
+      **Transacting**            <input type="checkbox"><br>
 
-      **Problem solving**
+      **Problem solving**        <input type="checkbox"><br>
 
-      **Creating**
+      **Creating**               <input type="checkbox"><br>
 
 6. Conclusions, lessons learned and next steps 
 
