@@ -7,7 +7,9 @@ permalink: /case-study-temp/
 
 ## Let's Get Digital Case Studies template 
 
+
 Key areas to be covered –  
+
 
 1. Organisation name, background  
 
