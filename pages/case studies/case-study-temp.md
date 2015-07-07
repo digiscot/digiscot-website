@@ -15,15 +15,15 @@ Key areas to be covered –
     * Sector
     * Main service users
     
-2. Scopr of project and context within operations
+2. Scope of project and context within operations
 
 3. Rationale and aims of internship project
 
 4. Digital resources and know-how used
 
-5. Digital skills addressed - <u>add in a visual tick box, linked to framework</u>
+5. Digital skills addressed -
 
-<input type="checkbox" name="vehicle" value="Bike"><strong> Managing information</strong><br>
+**Managing information**
 
 **Communicating**
 
@@ -32,5 +32,13 @@ Key areas to be covered –
 **Problem solving**
 
 **Creating**
+
+6. Conclusions, lessons learned and next steps 
+
+7. Links (new websites/Facebook/Twitter etc)
+
+8. Contact details for futher information
+9. 
+
 
 
