@@ -20,6 +20,8 @@ permalink: /data/milo-training-gettingstarted/
 
 #### Introduction <a name="introduction"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 01 Getting Started 0515.pdf)
+
 This module will allow you to access and start working on the new Milo system on Salesforce.
 
 For the most part, Milo 2 uses the same data types (organisations, contacts, opportunities) as the original Milo system, so once you become accustomed to the new user interface, it should be fairly straightforward to navigate around the system as before.
