@@ -22,6 +22,8 @@ permalink: /data/milo-training-contacts/
 
 #### Inroduction <a name="intro"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 03 Contacts0515.pdf)
+
 Data on individual people is recorded on Milo using the Contacts object. The type of contact will depend on how the record is associated with other objects on the system. Contacts on Milo can refer to:
 
 * A contact person affiliated with an organisation
