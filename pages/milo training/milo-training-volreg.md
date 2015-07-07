@@ -21,6 +21,8 @@ permalink: /data/milo-training-volreg/
 
 #### Introduction <a name="intro"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 04 Volunteer Registrations0515.pdf)
+
 Volunteer registrations enable users to record the relevant data about a volunteer. When a volunteer registration is created, it is possible to create a placement on a relevant volunteer opportunity.
 
 Volunteer registrations cannot be created without an associated contact record. Because volunteer registrations contain potentially sensitive data about individuals, they cannot be viewed by unauthorised users (e.g. staff from other TSIs).
