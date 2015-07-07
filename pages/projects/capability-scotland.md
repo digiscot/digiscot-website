@@ -32,6 +32,8 @@ New equipment is purchased and fitted within the ICT suite.
 
 [Here is a short film showing our new IT Suite at Upper Springland!](https://www.youtube.com/watch?v=a-oxk-_bzk4)
 
+[Greg is enjoying using the new IT Suite at Upper Springland. New equipment including height adjustable desks has made the IT area accessible to all our customers](https://www.flickr.com/photos/capabilityscotland/19269923496/in/dateposted-public/)
+
 ### Phase 2
 
 The fully accessible ICT suite is promoted externally to the wider community. 
