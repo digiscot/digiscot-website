@@ -22,6 +22,8 @@ permalink: /data/milo-training-interactions/
 
 #### Introduction <a name="intro"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 06 Interactions0515.pdf)
+
 Interactions enable users to record details of the work they do with local organisations and volunteers. Interaction categories are unique to each local TSI, meaning they can be used to report on the work of the TSI at regular intervals.
 
 Interactions in the new Milo system have been revamped to provide a more streamlined system than the old structure of Episodes and Interactions on the original system.
