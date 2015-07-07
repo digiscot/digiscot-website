@@ -240,3 +240,5 @@ Remember – if you have any problems or get stuck, you can contact the Milo tea
 
 
 <a href="#top">Back to Top.</a>
+
+<a href="/data/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>
