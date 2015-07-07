@@ -6,7 +6,8 @@ excerpt: Developing the ICT suite at Upper Springland residental and daycare ser
 lead: Capability Scotland
 website: http://www.capability-scotland.org.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: February 2015
 end: February 2016
 award: £6000
@@ -28,6 +29,8 @@ Development of the Information and Communication Technology suite at Upper Sprin
 ### Phase 1
 
 New equipment is purchased and fitted within the ICT suite. 
+
+[Here is a short film showing our new IT Suite at Upper Springland!](https://www.youtube.com/watch?v=a-oxk-_bzk4)
 
 ### Phase 2
 
