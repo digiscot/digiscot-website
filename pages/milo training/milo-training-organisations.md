@@ -21,7 +21,7 @@ permalink: /data/milo-training-orgs/
 
 #### Introduction <a name="intro"></a>
 
-This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 02 Organisations.pdf)
+This training module can also be downloaded in PDF form. <a href="/files/Milo 2015 Training Handbook 02 Organisations" download target="_blank">Click here to download</a>
 
 Milo holds information about all different types of organisations e.g.:
 
