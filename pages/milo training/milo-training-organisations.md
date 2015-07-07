@@ -21,6 +21,8 @@ permalink: /data/milo-training-orgs/
 
 #### Introduction <a name="intro"></a>
 
+This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 02 Organisations.pdf)
+
 Milo holds information about all different types of organisations e.g.:
 
 * Voluntary Organisations
