@@ -21,7 +21,7 @@ permalink: /data/milo-training-volreg/
 
 #### Introduction <a name="intro"></a>
 
-This training moduel can also be downloaded in PDF form. [Click Here.](/files/Milo 2015 Training Handbook 04 Volunteer Registrations0515.pdf)
+This training module can also be downloaded in PDF form. <a href="/files/Milo 2015 Training Handbook 04 Volunteer Registrations0515.pdf" download target="_blank">Click here to download</a>
 
 Volunteer registrations enable users to record the relevant data about a volunteer. When a volunteer registration is created, it is possible to create a placement on a relevant volunteer opportunity.
 
