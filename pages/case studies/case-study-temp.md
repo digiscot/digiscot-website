@@ -5,12 +5,12 @@ excerpt: Template for the Case Studies
 permalink: /case-study-temp/
 ---
 
-## Let's Get Digital Case Studies template 
+### Let's Get Digital Case Studies template 
 
 Key areas to be covered –  
 
 
-##### Organisation name, background
+#### Organisation name, background
 
 
 * Type of Organisation
@@ -18,19 +18,19 @@ Key areas to be covered –
 * Main service users
    
     
-##### Scope of project and context within operations
+#### Scope of project and context within operations
 
 
 
-##### Rationale and aims of internship project
+#### Rationale and aims of internship project
 
 
 
-##### Digital resources and know-how used
+#### Digital resources and know-how used
 
 
 
-##### Digital skills addressed
+#### Digital skills addressed
 
 
   * __Managing information__
@@ -44,15 +44,15 @@ Key areas to be covered –
   * __Creating__
 
 
-##### Conclusions, lessons learned and next steps 
+#### Conclusions, lessons learned and next steps 
 
 
 
-##### Links (new websites/Facebook/Twitter etc)
+#### Links (new websites/Facebook/Twitter etc)
 
 
 
-##### Contact details for futher information
+#### Contact details for futher information
 
 
 
