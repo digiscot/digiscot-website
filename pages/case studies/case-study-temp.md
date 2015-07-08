@@ -35,13 +35,13 @@ Key areas to be covered –
 
   * __Managing information__
 
-   **Communicating**
+  * __Communicating__
 
-   **Transacting**
+  * __Transacting__
 
-   **Problem solving**
+  * __Problem solving__
 
-   **Creating**
+  * __Creating__
 
 
 ##### Conclusions, lessons learned and next steps 
