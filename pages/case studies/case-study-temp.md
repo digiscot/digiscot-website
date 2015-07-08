@@ -31,15 +31,15 @@ Key areas to be covered –
 
 ##### Digital skills addressed
 
-**Managing information**
+   **Managing information**
 
-**Communicating**
+   **Communicating**
 
-**Transacting**
+   **Transacting**
 
-**Problem solving**
+   **Problem solving**
 
-**Creating**
+   **Creating**
 
 
 ##### Conclusions, lessons learned and next steps 
