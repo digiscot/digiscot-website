@@ -29,17 +29,18 @@ Key areas to be covered –
 ##### Digital resources and know-how used
 
 
+
 ##### Digital skills addressed
 
 
    **Managing information**
-      
+
    **Communicating**
-      
+
    **Transacting**
-      
+
    **Problem solving**
-      
+
    **Creating**
 
 
