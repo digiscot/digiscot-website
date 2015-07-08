@@ -4,7 +4,7 @@ layout: project
 title: Choice and use of Digital Computers
 excerpt: Introduction to computers, tablets and notebooks and how to use them
 lead: Bonkle Computer Club
-website: http://www.bonkle.org.uk/
+website: http://www.bonkleclub.plus.com/index.html 
 email: 
 twitter-url: 
 facebook-url: 
