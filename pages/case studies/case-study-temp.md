@@ -6,7 +6,7 @@ permalink: /case-study-temp/
 ---
 
 ## Let's Get Digital Case Studies template 
-
+d
 
 Key areas to be covered –  
 
