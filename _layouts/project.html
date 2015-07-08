@@ -42,9 +42,9 @@ layout: default
       
       <p>Challenge fund award: £{{ page.award }}</p>
       
-      <p>Tags: 
+      <p>
         {% for tag in sortedtags %}
-          <a href="#" class="btn btn-primary btn-xs">{{ tag }}</a>
+          <a href="/projects/tags/#{{ tag }}" class="btn btn-primary btn-xs">{{ tag }}</a>
         {% endfor %}
       </p>
       

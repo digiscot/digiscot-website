@@ -37,6 +37,7 @@ layout: default
       
       <h2>Our projects<br />
       <small>{{ count }} projects have received support</small></h2>
+
     </div>
   </div>
   
@@ -64,7 +65,7 @@ layout: default
             {{ page.title }}<br />
             <small>{{ page.excerpt }}</small><br /> 
               {% for tag in sortedtags %}
-                <a href="#" class="btn btn-primary btn-xs">{{ tag }}</a>
+                <a href="/projects/tags/#{{ tag }}" class="btn btn-primary btn-xs">{{ tag }}</a>
               {% endfor %}
             </p>
             
@@ -80,6 +81,40 @@ layout: default
   
     </div>
   
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12">
+    
+      <hr />
+          
+      {% capture tags %}
+        {% for page in site.pages %}
+          {% for tag in page.tags %}
+              {{ tag }}
+          {% endfor %}
+        {% endfor %}
+      {% endcapture %}
+
+      {% assign array = tags | split:' ' %}
+
+      {% assign tags = array[1] %}
+ 
+      {% for item in array %}
+          {% unless tags contains item %}
+              {% capture tags %}{{ tags }}|{{ item }}{% endcapture %}
+          {% endunless %}
+      {% endfor %}
+ 
+      {% assign sortedtags = tags | split:'|' | sort %}
+
+      <p><small><a href="/projects/tags/">Tags:<a/></small> 
+        {% for tag in sortedtags %}
+          <a href="/tags/#{{ tag }}" class="btn btn-primary btn-xs">{{ tag }}</a> 
+        {% endfor %}
+      </p>
+    
+    </div>
   </div>
   
 </div>
