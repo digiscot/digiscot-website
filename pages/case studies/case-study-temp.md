@@ -10,7 +10,7 @@ permalink: /case-study-temp/
 Key areas to be covered –  
 
 
-##### **Organisation name, background**
+##### Organisation name, background
 
 
 * Type of Organisation
