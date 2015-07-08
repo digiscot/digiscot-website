@@ -11,7 +11,9 @@ facebook-url: https://www.facebook.com/flourish.house.5
 start: May 2015
 end: March 2016
 award: 
+postcode: 
 image:
+tags: test
 permalink: /projects/flourish-house/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

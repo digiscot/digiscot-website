@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: May 2015
 end: March 2016
-award: £4163
+award: 4163
+postcode: 
 image:
+tags: test
 permalink: /projects/scottish-borders-council/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

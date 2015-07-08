@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/thegreenhousedingwall 
 start: January 2015
 end: August 2015
-award: £5636
+award: 5636
+postcode: 
 image:
+tags: test
 permalink: /projects/the-greenhouse-cic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

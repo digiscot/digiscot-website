@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/annexepartick
 start: January 2015
 end: December 2015
-award: £4520
+award: 4520
+postcode: 
 image:
+tags: older glasgow
 permalink: /projects/annexe-communities/ 
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

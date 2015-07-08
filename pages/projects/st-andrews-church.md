@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: February 2016
-award: £323
+award: 323
+postcode: 
 image:
+tags: test
 permalink: /projects/st-andrews-church/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

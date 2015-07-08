@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% capture tags %}
+  {% for tag in page.tags %}
+    {{ tag }}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sortedtags = tags | split:' ' | sort %}
+
 <div class="container">
   <div class="row">
     <div class="col-md-12">
@@ -32,7 +40,13 @@ layout: default
       
       <p>Runs from: {{ page.start }} to {{ page.end }}</p>
       
-      <p>Challenge fund award: {{ page.award }}</p>
+      <p>Challenge fund award: £{{ page.award }}</p>
+      
+      <p>Tags: 
+        {% for tag in sortedtags %}
+          <a href="#" class="btn btn-primary btn-xs">{{ tag }}</a>
+        {% endfor %}
+      </p>
       
       {% if page.image %}
       <hr />

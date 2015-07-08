@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: £4820
+award: 4820
+postcode: 
 image:
+tags: test
 permalink: /projects/colonsay-oransay-heritage/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

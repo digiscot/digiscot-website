@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: £3910
+award: 3910
+postcode: 
 image:
+tags: test
 permalink: /projects/northwest-training/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: March 2016
-award: £4019.59
+award: 4019.59
+postcode: 
 image:
+tags: test
 permalink: /projects/project-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

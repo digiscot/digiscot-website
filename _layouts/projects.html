@@ -26,13 +26,15 @@ layout: default
     <div class="col-md-12">
     
       {% assign count = 0 %}
+      {% assign awarded = 0 %}
 
       {% for page in site.pages %}
         {% if page.layout == 'project' %}
           {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+          {% capture awarded %}{{ awarded | plus: page.award }}{% endcapture %}
         {% endif %}
       {% endfor %}
-    
+      
       <h2>Our projects<br />
       <small>{{ count }} projects have received support</small></h2>
     </div>
@@ -50,9 +52,21 @@ layout: default
         {% for page in site.pages %}
           {% if page.layout == 'project' %}
           
-            <p class="p-index"><strong><a href="{{ page.url }}">{{ page.title }}</a></strong><br />
-            {{ page.lead }}<br/>
-            <small>{{ page.excerpt }}</small></p>
+          {% capture tags %}
+            {% for tag in page.tags %}
+              {{ tag }}
+            {% endfor %}
+          {% endcapture %}
+
+        {% assign sortedtags = tags | split:' ' | sort %}
+          
+            <p class="p-index"><strong><a href="{{ page.url }}">{{ page.lead }}</a></strong><br/>
+            {{ page.title }}<br />
+            <small>{{ page.excerpt }}</small><br /> 
+              {% for tag in sortedtags %}
+                <a href="#" class="btn btn-primary btn-xs">{{ tag }}</a>
+              {% endfor %}
+            </p>
             
             {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
             

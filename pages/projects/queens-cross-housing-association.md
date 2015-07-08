@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: January 2016
-award: £8430
+award: 8430
+postcode: 
 image:
+tags: test
 permalink: /projects/queens-cross-housing-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

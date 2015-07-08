@@ -6,11 +6,14 @@ excerpt: Beginner internet sessions delivered by young people for older people i
 lead: Stromness Community Centre
 website: http://www.orkney.gov.uk/Service-Directory/S/stromness-community-centre.htm
 email: 
-twitter-url: facebook-url: https://www.facebook.com/pages/Stromness-Community-Centre/264232613624581
+twitter-url: 
+facebook-url: https://www.facebook.com/pages/Stromness-Community-Centre/264232613624581
 start: August 2015
 end: January 2016
-award: £2206
+award: 2206
+postcode: 
 image:
+tags: test
 permalink: /projects/stromness-community-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

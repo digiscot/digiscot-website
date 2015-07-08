@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/libertieproject 
 start: January 2015
 end: November 2015
-award: £9,700
+award: 9,700
+postcode: 
 image:
+tags: test
 permalink: /projects/the-libertie-project/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: August 2015
 end: March 2016
-award: £8950
+award: 8950
+postcode: 
 image: /images/projects/SWA.jpg
+tags: test
 permalink: /projects/scottish-womens-aid/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

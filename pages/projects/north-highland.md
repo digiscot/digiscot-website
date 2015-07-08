@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: May 2015
 end: September 2015
-award: £4050
+award: 4050
+postcode: 
 image:
+tags: test
 permalink: /projects/north-highland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

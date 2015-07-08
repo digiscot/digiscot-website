@@ -11,7 +11,9 @@ facebook-url: https://www.facebook.com/LeonardCheshireDisability
 start: 
 end: 
 award: 
+postcode: 
 image:
+tags: test
 permalink: /projects/leonard-cheshire/ 
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: October 2015
-award: £11,172
+award: 11,172
+postcode: 
 image:
+tags: test
 permalink: /projects/moray-firth/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

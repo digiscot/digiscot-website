@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/hebrideanconnections
 start: April 2015
 end: March 2016
-award: £5400
+award: 5400
+postcode: 
 image:
+tags: test
 permalink: /projects/hebridean-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

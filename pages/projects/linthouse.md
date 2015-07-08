@@ -6,11 +6,14 @@ excerpt: IT workshops
 lead: Linthouse Monday club
 website: 
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: TBC
 end: TBC
-award: £1000
+award: 1000
+postcode: 
 image:
+tags: test
 permalink: /projects/linthouse-monday-club/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

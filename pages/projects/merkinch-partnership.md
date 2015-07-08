@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April
 end: October
-award: £8650
+award: 8650
+postcode: 
 image:
+tags: test
 permalink: /projects/merkinch-partnership/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

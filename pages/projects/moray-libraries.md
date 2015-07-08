@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: February 2016
-award: £9816
+award: 9816
+postcode: 
 image:
+tags: test
 permalink: /projects/moray-libraries/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

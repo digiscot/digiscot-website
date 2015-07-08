@@ -10,8 +10,10 @@ twitter-url: http://twitter.com/CDITCentre
 facebook-url: http://www.facebook.com/TheITCentre
 start: April 2015
 end: March 2016
-award: £8659
+award: 8659
+postcode: 
 image:
+tags: test
 permalink: /projects/castle-douglas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

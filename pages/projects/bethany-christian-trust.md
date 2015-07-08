@@ -6,11 +6,14 @@ excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse.
 lead: Bethany Christian Trust
 website: http://www.bethanychristiantrust.com/
 email: info@bethanychristiantrust.com
-twitter-url: facebook-url: https://www.facebook.com/BethanyChristianTrust1
+twitter-url: 
+facebook-url: https://www.facebook.com/BethanyChristianTrust1
 start: January 2015
 end: January 2016
-award: £9885.44
+award: 9885.44
+postcode: 
 image:
+tags: test
 permalink: /projects/bethany-christian-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

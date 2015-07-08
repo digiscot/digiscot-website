@@ -10,8 +10,10 @@ twitter-url: https://twitter.com/cvoea
 facebook-url: https://www.facebook.com/CVOEA
 start: February 2015
 end: TBC
-award: £9200
+award: 9200
+postcode: 
 image: 
+tags: test
 permalink: /projects/cvo-east-ayrshire/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

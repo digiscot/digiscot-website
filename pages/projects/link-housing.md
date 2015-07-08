@@ -6,11 +6,14 @@ excerpt: IT & digital skills training working towards accredited qualifications
 lead: Link Housing
 website: http://linkhousing.org.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: January 2015
 end: N/A
-award: £9156
+award: 9156
+postcode: 
 image:
+tags: test
 permalink: /projects/link-housing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

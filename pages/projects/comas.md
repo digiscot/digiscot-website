@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: December 2015
-award: £9985
+award: 9985
+postcode: 
 image:
+tags: test
 permalink: /projects/comas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

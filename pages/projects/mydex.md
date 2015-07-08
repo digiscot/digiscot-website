@@ -6,11 +6,14 @@ excerpt: Encouraging digital participation through action learning and knowledge
 lead: Mydex CIC
 website: https://mydex.org/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: February 2015
 end: TBC
-award: £15750
+award: 15750
+postcode: 
 image:
+tags: test
 permalink: /projects/mydex/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

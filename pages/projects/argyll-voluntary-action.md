@@ -6,11 +6,14 @@ excerpt: Digital drop-in clubs
 lead: Argyll Voluntary Action
 website: 
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: June 2015
 end: December 2015
-award: £9522
+award: 9522
+postcode: 
 image:
+tags: test
 permalink: /projects/argyll-voluntary-action/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

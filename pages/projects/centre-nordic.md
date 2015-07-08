@@ -10,8 +10,10 @@ twitter-url: https://twitter.com/NordicUHI
 facebook-url: https://www.facebook.com/CNSatUHI
 start: May 2015
 end: December 2015 
-award: £8091
+award: 8091
+postcode: 
 image:
+tags: test
 permalink: /projects/centre-nordic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -93,13 +95,16 @@ Andrew Jennings met Pat Christie the chairperson of the Shetland Heritage Associ
 Lesson learned: Pat was wary of the technology at first. She usually gets her family to set things up for her. However she was excited by the result and could quickly see the possible uses. She was recruited as a supporter of the project and went off to the Cunningsburgh History Group to encourage them to invite Andrew to attend their next meeting. It is a good idea to encourage a local person to tell others. They are likely to believe the project has merit and the technology is easy to use if one of their peers is a supporter. 
 
 Lesson learned: Advertising widely does not necessarily encourage large numbers to turn up. However, if the right person does turn up then the project can be taken directly into the outlying communities. Finding the right vector is important.
-Image of a couple of the participants at the workshop trying the Hudls can be seen [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/Kathy%20Coull%20and%20Marc/1433601846682.jpg) 
+postcode: 
+image of a couple of the participants at the workshop trying the Hudls can be seen [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/Kathy%20Coull%20and%20Marc/1433601846682.jpg) 
 
 16th June:
 Andrew Jennings visited the island of Whalsay to meet older people learning about genealogy at the Learning Centre in Symbister House, the local school. The meeting was organised by the local tutor. The participants were keen to practice with the Hudls and to go outside and take photographs. Whalsay has a very active local history association and the chair was present. She was very excited about the prospect of collecting stories about her island. She usually gets her grandson to set up her phone and computer and so was a little tentative at first, but quickly got the hang of the software and had it downloaded on to her phone. She is going to practice with the software and tell other people in the history association. Andrew will return to Whalsay soon to show them how to use the equipment. 
 Recording made by a participant while using the app [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/lairds%20toilet2/audio13.m4a) 
-Image taken by the participant while using the app [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/lairds%20toilet2/1434471810390.jpg) 
-Images of participants on Whalsay [here](https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11036701_10156128369965131_3195128701480086555_n.jpg?oh=cecf5b7d9af633cb3832839e43b2a64a&oe=562EED53) and [here](https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/1379499_10156128370120131_2689297474142341069_n.jpg?oh=865a985159470257159efbebb8ce6068&oe=55F144FF)
+postcode: 
+image taken by the participant while using the app [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/lairds%20toilet2/1434471810390.jpg) 
+postcode: 
+images of participants on Whalsay [here](https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11036701_10156128369965131_3195128701480086555_n.jpg?oh=cecf5b7d9af633cb3832839e43b2a64a&oe=562EED53) and [here](https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/1379499_10156128370120131_2689297474142341069_n.jpg?oh=865a985159470257159efbebb8ce6068&oe=55F144FF)
 
 Lesson learned: If people are convinced of the benefit of the technology for themselves, and can see how they can use it do something they want, they are keen to use it. 
 

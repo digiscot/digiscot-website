@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: February 2015
 end: February 2016
-award: £6000
+award: 6000
+postcode: 
 image:
+tags: test
 permalink: /projects/capability-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -10,8 +10,10 @@ twitter-url: https://twitter.com/Forres_Area
 facebook-url: https://www.facebook.com/forresarea
 start: May 2015
 end: Dec 2015
-award: £6440
+award: 6440
+postcode: 
 image:
+tags: test
 permalink: /projects/fact/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

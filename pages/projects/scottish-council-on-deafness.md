@@ -10,8 +10,10 @@ twitter-url: scodmedia
 facebook-url: https://www.facebook.com/pages/Scottish-Council-on-Deafness-SCoD/753972261325368?fref=ts
 start: February 2015
 end: June 2015
-award: £2000
+award: 2000
+postcode: 
 image:
+tags: test
 permalink: /projects/scottish-council-on-deafness/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

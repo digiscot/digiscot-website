@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: £10,000
+award: 10,000
+postcode: 
 image:
+tags: test
 permalink: /projects/blackwood/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

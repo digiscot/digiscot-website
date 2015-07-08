@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: June 2015
 end: July 2015
-award: £3110 
+award: 3110 
+postcode: 
 image: /images/projects/shimca.jpg
+tags: test
 permalink: /projects/shimca/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

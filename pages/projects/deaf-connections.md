@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: £9959
+award: 9959
+postcode: 
 image:
+tags: test
 permalink: /projects/deaf-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

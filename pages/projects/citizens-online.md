@@ -10,8 +10,10 @@ twitter-url: https://twitter.com/citizensonline1
 facebook-url: 
 start: May 2015
 end: August 2015
-award: £15,000
+award: 15,000
+postcode: 
 image:
+tags: test
 permalink: /projects/citizens-online/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

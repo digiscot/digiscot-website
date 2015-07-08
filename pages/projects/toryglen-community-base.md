@@ -9,8 +9,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: July 2015
-award: £4,700
+award: 4,700
+postcode: 
 image:
+tags: test
 permalink: /projects/toryglen-community-base/ 
 ---
 

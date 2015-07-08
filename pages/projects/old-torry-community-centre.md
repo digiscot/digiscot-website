@@ -6,11 +6,14 @@ excerpt: Teaching basic computing skills.
 lead: Old Torry Community Centre
 website: http://www.oldtorry.org.uk/
 email: 
-twitter-url: facebook-url: https://www.facebook.com/oldtorrycommunitycentre
+twitter-url: 
+facebook-url: https://www.facebook.com/oldtorrycommunitycentre
 start: January 2015
 end: July 2015
-award: £4530
+award: 4530
+postcode: 
 image:
+tags: test
 permalink: /projects/old-torry-community-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

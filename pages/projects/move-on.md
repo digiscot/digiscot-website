@@ -10,8 +10,10 @@ twitter-url: moveonscotland
 facebook-url: https://www.facebook.com/MoveOnScotland
 start: April 2015
 end: March 2016
-award: £6440
+award: 6440
+postcode: 
 image:
+tags: test
 permalink: /projects/move-on/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

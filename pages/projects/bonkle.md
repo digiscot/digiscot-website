@@ -10,8 +10,10 @@ twitter-url:
 facebook-url: 
 start: March 2015
 end: August 2015
-award: £900
+award: 900
+postcode: 
 image:
+tags: test
 permalink: /projects/bonkle/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

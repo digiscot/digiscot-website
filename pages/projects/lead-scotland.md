@@ -10,8 +10,10 @@ twitter-url: https://twitter.com/@leadscot_tweet
 facebook-url: https://www.facebook.com/likeleadscotland
 start: April 2015
 end: October 2015
-award: £4967
+award: 4967
+postcode: 
 image:
+tags: test
 permalink: /projects/lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
