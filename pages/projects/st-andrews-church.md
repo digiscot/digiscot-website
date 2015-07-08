@@ -13,7 +13,7 @@ end: February 2016
 award: 323
 postcode: DD11 1LE
 image:
-tags: disabled offenders Scotland
+tags: disabled offenders 
 permalink: /projects/st-andrews-church/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

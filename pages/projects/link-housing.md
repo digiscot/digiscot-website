@@ -13,7 +13,7 @@ end: N/A
 award: 9156
 postcode: EH14 1RL
 image:
-tags: older-people disabled benefits Scotland
+tags: older-people disabled benefits 
 permalink: /projects/link-housing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

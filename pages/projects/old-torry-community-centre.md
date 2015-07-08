@@ -13,7 +13,7 @@ end: July 2015
 award: 4530
 postcode: AB11 9QH
 image:
-tags: older-people disabled benefits Scotland
+tags: older-people disabled benefits 
 permalink: /projects/old-torry-community-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

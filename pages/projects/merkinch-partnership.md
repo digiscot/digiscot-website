@@ -13,7 +13,7 @@ end: October
 award: 13650
 postcode: IV3 8BL
 image:
-tags: unemployed Scotland
+tags: unemployed 
 permalink: /projects/merkinch-partnership/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -13,7 +13,7 @@ end: June 2015
 award: 3148
 postcode: DD1 1LL
 image:
-tags: disabled Scotland
+tags: disabled 
 permalink: /projects/volunteer-centre-dundee/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

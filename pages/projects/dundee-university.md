@@ -13,7 +13,7 @@ end: November 2015
 award: 7250
 postcode: DD1 4HN 
 image:
-tags: disabled Scotland
+tags: disabled 
 permalink: /projects/dundee-university/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
