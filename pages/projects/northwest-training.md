@@ -13,7 +13,7 @@ end: March 2016
 award: 7910
 postcode: IV27 4RG
 image:
-tags: older disabled remote/rural
+tags: older-people disabled remote-rural
 permalink: /projects/northwest-training/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

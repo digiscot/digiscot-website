@@ -13,7 +13,7 @@ end: February 2016
 award: 9816
 postcode: IV30 1HS
 image:
-tags: older disabled benefits remote/rural
+tags: older-people disabled benefits remote-rural
 permalink: /projects/moray-libraries/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

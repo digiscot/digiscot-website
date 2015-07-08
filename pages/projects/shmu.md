@@ -13,7 +13,7 @@ end: TBC
 award: 10000
 postcode: AB24 2WB
 image:
-tags: older disabled benefits Scotland 
+tags: older-people disabled benefits Scotland 
 permalink: /projects/shmu/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

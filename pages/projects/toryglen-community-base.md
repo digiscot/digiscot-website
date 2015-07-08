@@ -12,7 +12,7 @@ end: July 2015
 award: 4700
 postcode: G42 0LE
 image:
-tags: older benefits Glasgow
+tags: older-people benefits Glasgow
 permalink: /projects/toryglen-community-base/ 
 ---
 

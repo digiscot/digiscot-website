@@ -13,7 +13,7 @@ end: October 2015
 award: 19172
 postcode: IV3 8UJ
 image:
-tags: older disabled benefits unemployed remote/rural
+tags: older-people disabled benefits unemployed remote-rural
 permalink: /projects/moray-firth/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

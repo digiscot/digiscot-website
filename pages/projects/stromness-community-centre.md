@@ -13,7 +13,7 @@ end: January 2016
 award: 2206
 postcode: KW16 3BA
 image:
-tags: older remote/rural
+tags: older-people remote-rural
 permalink: /projects/stromness-community-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

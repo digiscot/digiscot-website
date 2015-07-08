@@ -13,7 +13,7 @@ end: December 2015
 award: 860
 postcode: PH13 9AE		
 image:
-tags: older remote/rural
+tags: older-people remote-rural
 permalink: /projects/couper-angus/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -13,7 +13,7 @@ end: June 2015
 award: 2000
 postcode: G2 6LD
 image:
-tags: disabled Glasgow remote/rural Scotland
+tags: disabled Glasgow remote-rural Scotland
 permalink: /projects/scottish-council-on-deafness/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

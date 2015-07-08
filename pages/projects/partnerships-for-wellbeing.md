@@ -13,7 +13,7 @@ end: March 2016
 award: 5200
 postcode: IV3 5JU
 image:
-tags: older disabled remote/rural
+tags: older-people disabled remote-rural
 permalink: /projects/partnerships-for-wellbeing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

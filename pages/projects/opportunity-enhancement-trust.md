@@ -13,7 +13,7 @@ end: November 2015
 award: 17500
 postcode: IV30 8LG
 image:
-tags: older benefits Glasgow remote/rural Scotland
+tags: older-people benefits Glasgow remote-rural Scotland
 permalink: /projects/opportunity-enhancement-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

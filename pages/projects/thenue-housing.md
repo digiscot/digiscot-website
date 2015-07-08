@@ -13,7 +13,7 @@ end: March 2016
 award: 10000
 postcode: G40 1AG
 image:
-tags: older benefits Glasgow
+tags: older-people benefits Glasgow
 permalink: /projects/thenue-housing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

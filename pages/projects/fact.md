@@ -13,7 +13,7 @@ end: Dec 2015
 award: 6440
 postcode: IV36 1SW
 image:
-tags: older benefits remote/rural
+tags: older-people benefits remote-rural
 permalink: /projects/fact/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -13,7 +13,7 @@ end: November 2015
 award: 9700
 postcode: IV2 6AE
 image:
-tags: benefits offenders remote/rural
+tags: benefits offenders remote-rural
 permalink: /projects/the-libertie-project/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

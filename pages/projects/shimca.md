@@ -13,7 +13,7 @@ end: July 2015
 award: 3110 
 postcode: 
 image: /images/projects/shimca.jpg
-tags: test
+tags: 
 permalink: /projects/shimca/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

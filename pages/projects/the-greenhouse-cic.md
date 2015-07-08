@@ -13,7 +13,7 @@ end: August 2015
 award: 5636
 postcode: IV15 9RU
 image:
-tags: older disabled benefits remote/rural
+tags: older-people disabled benefits remote-rural
 permalink: /projects/the-greenhouse-cic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

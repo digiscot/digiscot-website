@@ -13,7 +13,7 @@ end: March 2016
 award: 4019
 postcode: EH7 4GH
 image:
-tags: unemployed young-people Glasgow remote/rural Scotland
+tags: unemployed young-people Glasgow remote-rural Scotland
 permalink: /projects/project-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

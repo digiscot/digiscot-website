@@ -13,7 +13,7 @@ end: October 2015
 award: 4967
 postcode: 
 image:
-tags: test
+tags: 
 permalink: /projects/lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

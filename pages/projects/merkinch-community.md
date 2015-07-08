@@ -13,7 +13,7 @@ end: March 2016
 award: 6985
 postcode: IV3 8AD
 image:
-tags: older disabled benefits Scotland
+tags: older-people disabled benefits Scotland
 permalink: /projects/merkinch-community/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

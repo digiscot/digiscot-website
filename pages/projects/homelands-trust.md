@@ -13,7 +13,7 @@ end: TBC
 award: 823
 postcode: KY8 6HG
 image:
-tags: older disabled Glasgow remote/rural Scotland
+tags: older-people disabled Glasgow remote-rural Scotland
 permalink: /projects/homelands-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

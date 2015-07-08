@@ -13,7 +13,7 @@ end: August 2015
 award: 20,000
 postcode: GL5 4AQ
 image:
-tags: older disabled benefits remote/rural
+tags: older-people disabled benefits remote-rural
 permalink: /projects/citizens-online/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

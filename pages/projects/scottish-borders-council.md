@@ -13,7 +13,7 @@ end: March 2016
 award: 4163
 postcode: TD7 5BA
 image:
-tags: older disabled benefits remote/rural
+tags: older-people disabled benefits remote-rural
 permalink: /projects/scottish-borders-council/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

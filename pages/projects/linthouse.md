@@ -13,7 +13,7 @@ end: TBC
 award: 1000
 postcode: G51 4RB
 image:
-tags: older Glasgow
+tags: older-people Glasgow
 permalink: /projects/linthouse-monday-club/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

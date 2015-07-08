@@ -13,7 +13,7 @@ end: March 2016
 award: 8659
 postcode: DG7 1AJ
 image:
-tags: older remote/rural
+tags: older-people remote-rural
 permalink: /projects/castle-douglas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

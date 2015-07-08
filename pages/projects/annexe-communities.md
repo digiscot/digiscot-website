@@ -13,7 +13,7 @@ end: December 2015
 award: 4520
 postcode: G11 5PE
 image:
-tags: older Glasgow
+tags: older-people Glasgow
 permalink: /projects/annexe-communities/ 
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

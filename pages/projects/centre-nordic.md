@@ -13,7 +13,7 @@ end: December 2015
 award: 15091
 postcode: KW15 1QX
 image:
-tags: older remote/rural
+tags: older-people remote-rural
 permalink: /projects/centre-nordic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
