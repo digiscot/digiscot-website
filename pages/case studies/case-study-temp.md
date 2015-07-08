@@ -32,7 +32,7 @@ Key areas to be covered –
 ##### Digital skills addressed
 
 
-      <strong>Managing information</strong>
+      __Managing information__
       
       **Communicating**
       
