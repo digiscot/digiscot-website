@@ -10,48 +10,47 @@ permalink: /case-study-temp/
 Key areas to be covered –  
 
 
-#### Organisation name, background  
+##### Organisation name, background  
 
 
-    * Type of Organisation
-    * Sector
-    * Main service users
+* Type of Organisation
+* Sector
+* Main service users
    
     
-#### Scope of project and context within operations
+##### Scope of project and context within operations
 
 
 
-#### Rationale and aims of internship project
+##### Rationale and aims of internship project
 
 
 
-#### Digital resources and know-how used
+##### Digital resources and know-how used
 
 
-#### Digital skills addressed -
+##### Digital skills addressed
+
+**Managing information**
+
+**Communicating**
+
+**Transacting**
+
+**Problem solving**
+
+**Creating**
 
 
-      **Managing information**
-
-      **Communicating**
-
-      **Transacting**
-
-      **Problem solving**
-
-      **Creating**
-
-
-#### Conclusions, lessons learned and next steps 
-
-
-
-#### Links (new websites/Facebook/Twitter etc)
+##### Conclusions, lessons learned and next steps 
 
 
 
-#### Contact details for futher information
+##### Links (new websites/Facebook/Twitter etc)
+
+
+
+##### Contact details for futher information
 
 
 
