@@ -11,9 +11,9 @@ facebook-url:
 start: March 2015
 end: August 2015
 award: 900
-postcode: 
+postcode: ML2 9QJ
 image:
-tags: test
+tags: older disabled remote/rural
 permalink: /projects/bonkle/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

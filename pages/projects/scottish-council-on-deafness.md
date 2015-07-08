@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/pages/Scottish-Council-on-Deafness-SCoD/7
 start: February 2015
 end: June 2015
 award: 2000
-postcode: 
+postcode: G2 6LD
 image:
-tags: test
+tags: disabled Glasgow remote/rural Scotland
 permalink: /projects/scottish-council-on-deafness/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

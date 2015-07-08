@@ -11,9 +11,9 @@ facebook-url:
 start: May 2015
 end: November 2015
 award: 7250
-postcode: 
+postcode: DD1 4HN 
 image:
-tags: test
+tags: disabled Scotland
 permalink: /projects/dundee-university/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/libertieproject 
 start: January 2015
 end: November 2015
-award: 9,700
-postcode: 
+award: 9700
+postcode: IV2 6AE
 image:
-tags: test
+tags: benefits offenders remote/rural
 permalink: /projects/the-libertie-project/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

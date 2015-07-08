@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/CVOEA
 start: February 2015
 end: TBC
 award: 9200
-postcode: 
+postcode: KA1 3GZ
 image: 
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/cvo-east-ayrshire/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

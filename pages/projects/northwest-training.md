@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: 3910
-postcode: 
+award: 7910
+postcode: IV27 4RG
 image:
-tags: test
+tags: older disabled remote/rural
 permalink: /projects/northwest-training/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

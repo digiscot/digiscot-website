@@ -11,9 +11,9 @@ facebook-url: http://www.facebook.com/TheITCentre
 start: April 2015
 end: March 2016
 award: 8659
-postcode: 
+postcode: DG7 1AJ
 image:
-tags: test
+tags: older remote/rural
 permalink: /projects/castle-douglas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

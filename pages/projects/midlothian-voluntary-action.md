@@ -10,10 +10,10 @@ twitter-url: https://twitter.com/MVACommunity
 facebook-url: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
 end: December 2015
-award: 10,000
-postcode: 
+award: 10000
+postcode: EH22 1AE
 image:
-tags: test
+tags: disabled benefits remote/rural Scotland
 permalink: /projects/midlothian-voluntary-action/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

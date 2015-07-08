@@ -11,9 +11,9 @@ facebook-url:
 start: April 2015
 end: February 2016
 award: 323
-postcode: 
+postcode: DD11 1LE
 image:
-tags: test
+tags: disabled offenders Scotland
 permalink: /projects/st-andrews-church/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

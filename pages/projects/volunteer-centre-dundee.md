@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: March 2015
 end: June 2015
-award: 3148.40
-postcode: 
+award: 3148
+postcode: DD1 1LL
 image:
-tags: test
+tags: disabled Scotland
 permalink: /projects/volunteer-centre-dundee/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

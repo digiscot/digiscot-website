@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/opportunityenhancement
 start: April 2015
 end: November 2015
 award: 17500
-postcode: 
+postcode: IV30 8LG
 image:
-tags: test
+tags: older benefits Glasgow remote/rural Scotland
 permalink: /projects/opportunity-enhancement-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

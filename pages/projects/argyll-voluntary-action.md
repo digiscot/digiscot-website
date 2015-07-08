@@ -11,9 +11,9 @@ facebook-url:
 start: June 2015
 end: December 2015
 award: 9522
-postcode: 
+postcode: PA34 4BG
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/argyll-voluntary-action/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

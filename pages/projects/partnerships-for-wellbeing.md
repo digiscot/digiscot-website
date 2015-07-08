@@ -11,9 +11,9 @@ facebook-url:
 start: May 2015
 end: March 2016
 award: 5200
-postcode: 
+postcode: IV3 5JU
 image:
-tags: test
+tags: older disabled remote/rural
 permalink: /projects/partnerships-for-wellbeing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

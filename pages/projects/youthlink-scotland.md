@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Coming Soon
-excerpt: 
+excerpt: Coming soon
 lead: Youthlink Scotland
 website: http://www.youthlinkscotland.org/
 email: 
@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: 
 end: 
-award: 
-postcode: 
+award: 7260
+postcode: EH12 5EZ 
 image:
-tags: test
+tags: staff Glasgow 
 permalink: /projects/youthlink-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

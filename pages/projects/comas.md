@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: December 2015
-award: 9985
-postcode: 
+award: 9425
+postcode: EH8 8PJ
 image:
-tags: test
+tags: older disabled benefits Scotland
 permalink: /projects/comas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

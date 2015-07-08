@@ -11,9 +11,9 @@ facebook-url:
 start: February 2015
 end: TBC
 award: 15750
-postcode: 
+postcode: G2 4JR
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/mydex/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

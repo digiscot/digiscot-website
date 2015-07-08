@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/annexepartick
 start: January 2015
 end: December 2015
 award: 4520
-postcode: 
+postcode: G11 5PE
 image:
-tags: older glasgow
+tags: older Glasgow
 permalink: /projects/annexe-communities/ 
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

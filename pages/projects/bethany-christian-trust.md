@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/BethanyChristianTrust1
 start: January 2015
 end: January 2016
-award: 9885.44
-postcode: 
+award: 9885
+postcode: EH6 5JQ
 image:
-tags: test
+tags: older benefits disabled Glasgow
 permalink: /projects/bethany-christian-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

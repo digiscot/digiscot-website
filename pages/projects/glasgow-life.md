@@ -11,9 +11,9 @@ facebook-url:
 start: April 2015
 end: October 2015
 award: 7970.79
-postcode: 
+postcode: G4 0QW
 image:
-tags: test
+tags: staff Glasgow
 permalink: /projects/glasgow-life/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

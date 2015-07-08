@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: March 2016
-award: 4019.59
-postcode: 
+award: 4019
+postcode: EH7 4GH
 image:
-tags: test
+tags: unemployed young-people Glasgow remote/rural Scotland
 permalink: /projects/project-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

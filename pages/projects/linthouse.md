@@ -11,9 +11,9 @@ facebook-url:
 start: TBC
 end: TBC
 award: 1000
-postcode: 
+postcode: G51 4RB
 image:
-tags: test
+tags: older Glasgow
 permalink: /projects/linthouse-monday-club/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

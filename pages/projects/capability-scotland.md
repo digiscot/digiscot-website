@@ -11,9 +11,9 @@ facebook-url:
 start: February 2015
 end: February 2016
 award: 6000
-postcode: 
+postcode: EH12 6HY
 image:
-tags: test
+tags: disabled Scotland
 permalink: /projects/capability-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

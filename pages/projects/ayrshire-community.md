@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: 14,268 
-postcode: 
+award: 14268 
+postcode: KA22 8DQ
 image:
-tags: test
+tags: disabled benefits remote/rural
 permalink: /projects/ayrshire-community/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

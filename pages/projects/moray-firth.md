@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: October 2015
-award: 11,172
-postcode: 
+award: 19172
+postcode: IV3 8UJ
 image:
-tags: test
+tags: older disabled benefits unemployed remote/rural
 permalink: /projects/moray-firth/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -9,10 +9,10 @@ twitter-url:
 facebook-url: 
 start: January 2015
 end: July 2015
-award: 4,700
-postcode: 
+award: 4700
+postcode: G42 0LE
 image:
-tags: test
+tags: older benefits Glasgow
 permalink: /projects/toryglen-community-base/ 
 ---
 

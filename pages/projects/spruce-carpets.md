@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/SpruceCarpets
 start: February 2015
 end: June 2015
-award: 1,600
-postcode: 
+award: 1600
+postcode: G51 2JQ
 image:
-tags: test
+tags: benefits Glasgow 
 permalink: /projects/spruce-carpets/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

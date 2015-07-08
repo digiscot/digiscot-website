@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/forresarea
 start: May 2015
 end: Dec 2015
 award: 6440
-postcode: 
+postcode: IV36 1SW
 image:
-tags: test
+tags: older benefits remote/rural
 permalink: /projects/fact/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

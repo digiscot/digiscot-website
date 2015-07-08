@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/LeonardCheshireDisability
 start: 
 end: 
-award: 
-postcode: 
+award: 9966
+postcode: EH12 6DD
 image:
-tags: test
+tags: disabled remote/rural
 permalink: /projects/leonard-cheshire/ 
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -11,9 +11,9 @@ facebook-url:
 start: May 2015
 end: December 2015
 award: 1350
-postcode: 
+postcode: HS2 9QA
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/co-chomunn-na-pairce/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

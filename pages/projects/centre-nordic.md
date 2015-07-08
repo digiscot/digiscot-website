@@ -10,10 +10,10 @@ twitter-url: https://twitter.com/NordicUHI
 facebook-url: https://www.facebook.com/CNSatUHI
 start: May 2015
 end: December 2015 
-award: 8091
-postcode: 
+award: 15091
+postcode: KW15 1QX
 image:
-tags: test
+tags: older remote/rural
 permalink: /projects/centre-nordic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

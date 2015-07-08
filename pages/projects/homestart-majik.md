@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/Home.start.majik
 start: May 2015
 end: September 2015
 award: 7000
-postcode: 
+postcode: PA29 6UL
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/homestart-majik/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

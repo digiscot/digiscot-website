@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/hebrideanconnections
 start: April 2015
 end: March 2016
 award: 5400
-postcode: 
+postcode: HS2 9QA
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/hebridean-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: https://www.facebook.com/HomelandsTrust
 start: January 2015
 end: TBC
-award: 823.79
-postcode: 
+award: 823
+postcode: KY8 6HG
 image:
-tags: test
+tags: older disabled Glasgow remote/rural Scotland
 permalink: /projects/homelands-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

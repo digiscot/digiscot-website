@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/MoveOnScotland
 start: April 2015
 end: March 2016
 award: 6440
-postcode: 
+postcode: G1 1DN
 image:
-tags: test
+tags: benefits homeless Glasgow
 permalink: /projects/move-on/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

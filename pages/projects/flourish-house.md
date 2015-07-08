@@ -10,10 +10,10 @@ twitter-url: flourishhouse1
 facebook-url: https://www.facebook.com/flourish.house.5
 start: May 2015
 end: March 2016
-award: 
-postcode: 
+award: 6083
+postcode: G3 6DR
 image:
-tags: test
+tags: disabled Glasgow
 permalink: /projects/flourish-house/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

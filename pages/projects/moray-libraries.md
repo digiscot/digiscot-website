@@ -11,9 +11,9 @@ facebook-url:
 start: April 2015
 end: February 2016
 award: 9816
-postcode: 
+postcode: IV30 1HS
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/moray-libraries/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

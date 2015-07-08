@@ -11,9 +11,9 @@ facebook-url:
 start: February 2015
 end: December 2015
 award: 860
-postcode: 
+postcode: PH13 9AE		
 image:
-tags: test
+tags: older remote/rural
 permalink: /projects/couper-angus/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

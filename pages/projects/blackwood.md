@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: 10,000
-postcode: 
+award: 10000
+postcode: EH12 8XF
 image:
-tags: test
+tags: older disabled benefits Glasgow remote/rural Scotland
 permalink: /projects/blackwood/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -11,9 +11,9 @@ facebook-url:
 start: April 2015
 end: March 2016
 award: 9959
-postcode: 
+postcode: G5 9EJ
 image:
-tags: test
+tags: older disabled benefits Glasgow
 permalink: /projects/deaf-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

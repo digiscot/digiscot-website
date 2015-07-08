@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: January 2016
-award: 10,000
-postcode: 
+award: 10000
+postcode: KW14 7SW
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/ormlie-community-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

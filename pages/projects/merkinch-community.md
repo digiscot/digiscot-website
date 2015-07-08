@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/MerkinchCommunityCentre
 start: April 2015
 end: March 2016
 award: 6985
-postcode: 
+postcode: IV3 8AD
 image:
-tags: test
+tags: older disabled benefits Scotland
 permalink: /projects/merkinch-community/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

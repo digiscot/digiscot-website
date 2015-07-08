@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: 8721.91
-postcode: 
+award: 8721
+postcode: G33 3HE
 image:
-tags: test
+tags: benefits Glasgow
 permalink: /projects/cranhill-development/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

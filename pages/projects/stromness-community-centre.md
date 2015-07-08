@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/pages/Stromness-Community-Centre/26423261
 start: August 2015
 end: January 2016
 award: 2206
-postcode: 
+postcode: KW16 3BA
 image:
-tags: test
+tags: older remote/rural
 permalink: /projects/stromness-community-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

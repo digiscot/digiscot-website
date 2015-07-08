@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: March 2015
 end: March 2016
-award: 10,000
-postcode: 
+award: 10000
+postcode: G40 1AG
 image:
-tags: test
+tags: older benefits Glasgow
 permalink: /projects/thenue-housing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

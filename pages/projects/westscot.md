@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: April 2016
-award: 9901.36
-postcode: 
+award: 9901
+postcode: G21 1HG
 image:
-tags: test
+tags: older disabled benefits Glasgow remote/rural
 permalink: /projects/westscot/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -11,9 +11,9 @@ facebook-url:
 start: May 2015
 end: March 2016
 award: 4163
-postcode: 
+postcode: TD7 5BA
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/scottish-borders-council/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

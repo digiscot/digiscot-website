@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/thegreenhousedingwall
 start: January 2015
 end: August 2015
 award: 5636
-postcode: 
+postcode: IV15 9RU
 image:
-tags: test
+tags: older disabled benefits remote/rural
 permalink: /projects/the-greenhouse-cic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

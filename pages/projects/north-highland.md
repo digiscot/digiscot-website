@@ -11,9 +11,9 @@ facebook-url:
 start: May 2015
 end: September 2015
 award: 4050
-postcode: 
+postcode: IV19 1BP
 image:
-tags: test
+tags: older disabled remote/rural
 permalink: /projects/north-highland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

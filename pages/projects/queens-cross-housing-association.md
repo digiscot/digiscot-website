@@ -11,9 +11,9 @@ facebook-url:
 start: January 2015
 end: January 2016
 award: 8430
-postcode: 
+postcode: G20 7BE
 image:
-tags: test
+tags: older disabled benefits young-people Glasgow
 permalink: /projects/queens-cross-housing-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

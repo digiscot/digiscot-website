@@ -10,10 +10,10 @@ twitter-url:
 facebook-url: 
 start: April 2015
 end: March 2016
-award: 4820
-postcode: 
+award: 4850
+postcode: PA61 7YR
 image:
-tags: test
+tags: older remote/rural
 permalink: /projects/colonsay-oransay-heritage/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
