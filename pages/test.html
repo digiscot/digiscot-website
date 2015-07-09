@@ -28,7 +28,7 @@ permalink: /test/
       console.log(data);
       $.each(data.projects, function(i, field){
       
-        geocoder.geocode({'address': field.postcode}, function(result, statusCode){
+        geocoder.geocode({'address': field.postcode, 'region': 'uk'}, function(result, statusCode){
           if(statusCode == google.maps.GeocoderStatus.OK){
             var marker = new google.maps.Marker({
               map: map,
@@ -40,7 +40,7 @@ permalink: /test/
             google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
           }
           else {
-            alert('Error geocoding' + field.postcode);
+            alert('Error geocoding ' + field.postcode);
           }
         });
       
