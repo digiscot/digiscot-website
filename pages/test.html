@@ -39,6 +39,9 @@ permalink: /test/
             });
             google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
           }
+          else {
+            alert('error');
+          }
         });
       
         $("#foo").append(field.postcode + " ");
