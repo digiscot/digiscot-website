@@ -26,7 +26,22 @@ permalink: /test/
     
     $.getJSON("/json-projects.html", function(data){
       console.log(data);
-      $.each(data.projects, function(i, field){      
+      $.each(data.projects, function(i, field){
+      
+        geocoder.geocode({'address': field.postcode}, function(result, statusCode){
+          if(statusCode == google.maps.GeocoderStatus.OK){
+            var marker = new google.maps.Marker({
+              map:map,
+              position: result[0].geometry.location,
+              title: 'Foo'
+            });
+            var infoWindow = new google.maps.InfoWindow({
+              content: '<p>No Skull Kids here</p>'
+            });
+            google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
+          }
+        });
+      
         $("#foo").append(field.postcode + " ");
       });
     });
