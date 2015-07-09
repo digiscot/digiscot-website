@@ -1,15 +1,15 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
-title: Coming Soon
-excerpt: Coming soon
+title: Digitally Agile Training Course
+excerpt: Developing training for Community Learning and Development practitioners around the Digitally Agile National Principles with expert input from young people and the youth work sector
 lead: Youthlink Scotland
-website: http://www.youthlinkscotland.org/
-email: 
-twitter-url: 
+website: http://www.youthlinkscotland.org/ http://www.digitallyagilecld.org
+email: lgreen@youthlinkscotland.org
+twitter-url: @DigitallyAgile
 facebook-url: 
 start: 
-end: 
+end: March 2016
 award: 7260
 postcode: EH12 5EZ 
 image:
@@ -22,7 +22,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-DevelopIng traInIng on the DIgItally AgIle NatIonal PrIncIples. 
+
 
 
 
