@@ -11,7 +11,7 @@ facebook-url:
 start: 
 end: March 2016
 award: 7260
-postcode: EH12 5EZ 
+postcode: EH12 5EZ
 image:
 tags: staff Glasgow 
 permalink: /projects/youthlink-scotland/
