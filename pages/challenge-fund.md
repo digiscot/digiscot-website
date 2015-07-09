@@ -96,18 +96,18 @@ We are also working closely with organisations that have signed [Scotland's Digi
 
 ####We will be accepting applications from the 27th July
 
-<a href="/challenge-fund/guidance">Please read the application guidance notes before submitting your application</a>
+Please read the [application guidance notes](/resources/challenge-fund/guidance/) before submitting your application.
 
-Applications will be accepted via an online form that you will need to fill out; this form will become available on the 27th July on this page.  You will be asked to provide details on:
+Applications will be accepted via an online form that you will need to fill out; this form will become available on the 27th July on this page.
 
-  <ul>
-    <li>Your organisation</li>
-    <li>The proposed project</li>
-    <li>Your target audience</li>
-    <li>Costing / expenditure information</li>
-    <li>Any relevant match funding</li>
-    <li>The anticipated outcomes and benefits</li>
-  </ul> 
+You will be asked to provide details on:
+
+* Your organisation
+* The proposed project
+* Your target audience
+* Costing / expenditure information
+* Any relevant match funding
+* The anticipated outcomes and benefits
   
 For more information please [contact us](/contact/).
 
