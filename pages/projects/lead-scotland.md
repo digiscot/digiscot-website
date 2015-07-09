@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Getting Digital
-excerpt: 
+excerpt: Coming soon
 lead: Lead Scotland
 website: http://www.lead.org.uk/
 email: 
@@ -11,9 +11,9 @@ facebook-url: https://www.facebook.com/likeleadscotland
 start: August 2015
 end: October 2015
 award: 4967
-postcode: 
+postcode: EH2 4RG
 image:
-tags: 
+tags: coming-soon
 permalink: /projects/lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

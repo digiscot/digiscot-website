@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Recounting Women
-excerpt: 
+excerpt: To imporve the digital skills of the women involved
 lead: Scottish Women's Aid
 website: http://www.scottishwomensaid.org.uk/
 email: jo.ozga@scottishwomensaid.org.uk

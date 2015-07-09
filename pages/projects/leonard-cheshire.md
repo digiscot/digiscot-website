@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Bringing out the Digital
-excerpt: 
+excerpt: Digital inclusion workshops for disabled people
 lead: Leonard Chesire Disability
 website: https://www.leonardcheshire.org/
 email: 
