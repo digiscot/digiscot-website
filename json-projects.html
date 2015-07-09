@@ -1,0 +1,24 @@
+---
+layout: null
+---
+
+{% assign count = 0 %}
+
+{% for page in site.pages %}
+  {% if page.layout == 'project' %}
+    {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+{% assign marker = 0 %}
+
+{ "projects": [
+  {% for page in site.pages %}{% if page.layout == 'project' %}{ "title": "{{ page.title | xml_escape }}",
+    "excerpt": "{{ page.excerpt | xml_escape }}",
+    "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+    "postcode": "{{ page.postcode | xml_escape }}"
+  }
+  {% capture marker %}{{ marker | plus: 1 }}{% endcapture %}
+  {% if marker == count %}{% else %},{% endif %}
+  {% endif %}{% endfor %}
+] }
