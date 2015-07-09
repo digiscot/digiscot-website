@@ -1,6 +1,6 @@
 ---
 layout: tags
 title: Project tags
-excerpt: Explore our projects by the themes they're focusing on.
+excerpt: Explore our digital participation projects by what they're focusing on.
 permalink: /projects/tags/
 ---

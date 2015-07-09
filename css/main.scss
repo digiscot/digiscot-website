@@ -270,8 +270,21 @@ img.logo {
 
 // Experimental
 
-#map-canvas {
-  height: 500px;
-  margin: 0px;
-  padding: 0px;
+.wrapper {
+  width: 100%;
+  display: inline-block;
+  position: relative;
+}
+.wrapper:after {
+  padding-top: 50%;
+  display: block;
+  content: '';
+}
+.fixed-ratio {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: deepskyblue;
 }

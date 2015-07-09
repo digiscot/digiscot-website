@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Project map
-excerpt: Explore our projects by where in Scotland they are based.
+excerpt: Explore our digital participation projects by where they're based.
 permalink: /projects/map/
 ---
 
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
 
-<div id="map" style="height: 500px"></div>
+<div class="wrapper">
+  <div class="fixed-ratio" id="map"></div>
+</div>
 
 <script type="text/javascript">
 
   var infowindow = new google.maps.InfoWindow();
   var latlng = new google.maps.LatLng(56.490671, -4.202646);
   var mapOptions = {
-    zoom: 7,
+    zoom: 8,
     center: latlng,
     mapTypeId: google.maps.MapTypeId.ROADMAP
   }
