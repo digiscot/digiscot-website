@@ -40,11 +40,11 @@ permalink: /test/
             google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
           }
           else {
-            alert('Error geocoding ' + field.postcode);
+            $("#foo").append("Error geocoding " + field.postcode + "<br />");
           }
         });
       
-        $("#foo").append(field.postcode + " ");
+        
       });
     });
     
