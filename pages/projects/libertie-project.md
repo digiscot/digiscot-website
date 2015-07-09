@@ -3,7 +3,7 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Creative Club
 excerpt: Using creative digital activities to engage with hard to reach individuals.
-lead: The Libertie Project
+lead: Libertie Project
 website: http://www.libertie.biz/ 
 email: 
 twitter-url: 

@@ -3,7 +3,7 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digital Skills Job Club
 excerpt: Twice weekly Digital Skills Job Club
-lead: The Ayrshire Community Trust
+lead: Ayrshire Community Trust
 website: http://www.theayrshirecommunitytrust.co.uk/
 email: 
 twitter-url: 

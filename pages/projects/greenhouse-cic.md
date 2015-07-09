@@ -3,7 +3,7 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: The Greenhouse Digital Participation Programme
 excerpt: IT equipment and digital skills sessions for the community
-lead: The Greenhouse Shop CIC
+lead: Greenhouse Shop CIC
 website: 
 email: 
 twitter-url: 

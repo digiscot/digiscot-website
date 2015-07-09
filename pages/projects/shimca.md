@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: IT for total beginners
-excerpt: Coming soon
+excerpt: Project description coming soon
 lead: SHIMCA (Scottish Highlands & Islands and Moray Chinese Association)
 website: 
 email: shimca.org.uk@gmail.com 
