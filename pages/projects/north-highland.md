@@ -38,8 +38,13 @@ Place ASDA cafe in Tain
 
 Week 1
 Great opening to the 10 week sessions.  After a shaky start with signing in, our young assisstants helped everyone get online and get started, and our tutors were able to obtain information about which topics future sessions would cover.  This week we had 9 participants with different needs and aspirations but with a common goal - to gain confidence with using the internet.  
+Week 2
+A few new faces this week with more questions to answer.  Our tutors have been very busy andhave had great help from our young assisstants who have a great knowledge of many devices.
 
-
+Week 3
+Nice to see everyone again.  A few newcomers and some others off on their holidays.  So far we have given overviews on using Email, searching the internet and given a few tips on using Excel Spreadsheets.  We have also helped with a lady who was having problems understanding where her documents went when she saved them.
+Participants are bringing a mix of equipment - laptops and tablets.  
+We have helped with a variety of technical queries and are looking into some free online learning courses for some.
 
 
 ## Evaluation
