@@ -11,7 +11,7 @@ In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the 
  
 Now we want to do it all again!
 
-In addition to being supported by Scottish Government, we're pleased to announce that the Challenge Fund Round 3 has also been kindly supported by BT.
+In addition to being supported by Scottish Government, we're pleased to announce that the Challenge Fund Round 3 has also been kindly supported by BT Scotland.
 
 ![BT](/images/signatories/bt.jpg)
 
