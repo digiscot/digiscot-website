@@ -37,7 +37,7 @@ Summer School is in full flow and the trainees are busy working hard putting tog
 Summer school poster:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/133867571@N05/18418160858/in/datetaken/" title="ICA-Summer-School-Advert"><img src="https://farm1.staticflickr.com/436/18418160858_aa45029c2b_z.jpg" width="640" height="498" alt="ICA-Summer-School-Advert"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-http://we.tl/4gpkTlaK5m    -   A short video of some of the participants taking part in Summer School.
+[http://we.tl/4gpkTlaK5m](http://we.tl/4gpkTlaK5m)    -   A short video of some of the participants taking part in Summer School.
 
 ## Evaluation
 
