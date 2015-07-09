@@ -7,7 +7,7 @@ permalink: /challenge-fund/guidance/
  
 ##Challenge Fund guidance notes
  
-In this round of the Challenge Fun we will be distributing funds of up to £325,000 to third sector ordganisations from across Scotland; to date <a href="/projects">58 organisations</a> have been supported with awards ranging from £400 - £15,000.
+In this round of the Challenge Fun we will be distributing funds of up to £325,000 to third sector organisations from across Scotland; to date <a href="/projects">58 organisations</a> have been supported with awards ranging from £400 - £15,000.
 
 The application process consists of one online form that must be fully complete before your application will be assessed.
 
@@ -22,7 +22,7 @@ If sucessful, then you will also have some key obligations as part of the the <a
 
 ####When is the deadline?
 
-We will stop accepting application forms on the 4th September.  Due to the high number of applications we are anticipating we will not be able to accept applications after this deadline - please leave plenty of time to fill in the form as we'd hate you to miss out.
+We will stop accepting application forms on the **4th September**.  Due to the high number of applications we are anticipating we will not be able to accept applications after this deadline - please leave plenty of time to fill in the form as we'd hate you to miss out.
 
 ####Can I save my application?
 
