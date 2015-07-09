@@ -13,7 +13,7 @@ end: January 2016
 award: 10000
 postcode: KW14 7SW
 image:
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/ormlie-community-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

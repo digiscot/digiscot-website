@@ -13,7 +13,7 @@ end: March 2016
 award: 6083
 postcode: G3 6DR
 image:
-tags: disabled Glasgow
+tags: disabled-people Glasgow
 permalink: /projects/flourish-house/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

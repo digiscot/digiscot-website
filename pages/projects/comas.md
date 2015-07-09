@@ -13,7 +13,7 @@ end: December 2015
 award: 9425
 postcode: EH8 8PJ
 image:
-tags: older-people disabled benefits 
+tags: older-people disabled-people benefits 
 permalink: /projects/comas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -13,7 +13,7 @@ end: December 2015
 award: 1350
 postcode: HS2 9QA
 image:
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/co-chomunn-na-pairce/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

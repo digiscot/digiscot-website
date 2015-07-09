@@ -13,7 +13,7 @@ end: TBC
 award: 9200
 postcode: KA1 3GZ
 image: 
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/cvo-east-ayrshire/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

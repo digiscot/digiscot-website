@@ -13,7 +13,7 @@ end: August 2015
 award: 900
 postcode: ML2 9QJ
 image:
-tags: older-people disabled remote-rural
+tags: older-people disabled-people remote-rural
 permalink: /projects/bonkle/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

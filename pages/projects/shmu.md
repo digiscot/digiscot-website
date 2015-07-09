@@ -13,7 +13,7 @@ end: TBC
 award: 10000
 postcode: AB24 2WB
 image:
-tags: older-people disabled benefits 
+tags: older-people disabled-people benefits 
 permalink: /projects/shmu/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

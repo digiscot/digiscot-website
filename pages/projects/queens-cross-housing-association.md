@@ -13,7 +13,7 @@ end: January 2016
 award: 8430
 postcode: G20 7BE
 image:
-tags: older-people disabled benefits young-people Glasgow
+tags: older-people disabled-people benefits young-people Glasgow
 permalink: /projects/queens-cross-housing-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

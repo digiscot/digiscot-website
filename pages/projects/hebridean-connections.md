@@ -13,7 +13,7 @@ end: March 2016
 award: 5400
 postcode: HS2 9QA
 image:
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/hebridean-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

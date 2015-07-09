@@ -13,7 +13,7 @@ end: April 2016
 award: 9901
 postcode: G21 1HG
 image:
-tags: older-people disabled benefits Glasgow remote-rural
+tags: older-people disabled-people benefits Glasgow remote-rural
 permalink: /projects/westscot/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

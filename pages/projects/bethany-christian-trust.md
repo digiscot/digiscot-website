@@ -13,7 +13,7 @@ end: January 2016
 award: 9885
 postcode: EH6 5JQ
 image:
-tags: older-people benefits disabled Glasgow
+tags: older-people benefits disabled-people Glasgow
 permalink: /projects/bethany-christian-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

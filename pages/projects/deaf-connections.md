@@ -13,7 +13,7 @@ end: March 2016
 award: 9959
 postcode: G5 9EJ
 image:
-tags: older-people disabled benefits Glasgow
+tags: older-people disabled-people benefits Glasgow
 permalink: /projects/deaf-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -8,7 +8,7 @@ website: http://www.lead.org.uk/
 email: 
 twitter-url: https://twitter.com/@leadscot_tweet 
 facebook-url: https://www.facebook.com/likeleadscotland
-start: April 2015
+start: August 2015
 end: October 2015
 award: 4967
 postcode: 
@@ -18,6 +18,7 @@ permalink: /projects/lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
+This project will be starting in August so updates will follow accordingly 
 
 ## Project plan
 

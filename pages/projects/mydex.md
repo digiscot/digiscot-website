@@ -13,7 +13,7 @@ end: TBC
 award: 15750
 postcode: G2 4JR
 image:
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/mydex/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

@@ -13,7 +13,7 @@ end: December 2015
 award: 10000
 postcode: EH22 1AE
 image:
-tags: disabled benefits remote-rural 
+tags: disabled-people benefits remote-rural 
 permalink: /projects/midlothian-voluntary-action/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

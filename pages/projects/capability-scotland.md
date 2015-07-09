@@ -13,7 +13,7 @@ end: February 2016
 award: 6000
 postcode: EH12 6HY
 image:
-tags: disabled 
+tags: disabled-people
 permalink: /projects/capability-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

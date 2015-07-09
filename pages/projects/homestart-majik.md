@@ -13,7 +13,7 @@ end: September 2015
 award: 7000
 postcode: PA29 6UL
 image:
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/homestart-majik/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

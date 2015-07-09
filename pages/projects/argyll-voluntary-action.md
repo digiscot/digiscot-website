@@ -13,7 +13,7 @@ end: December 2015
 award: 9522
 postcode: PA34 4BG
 image:
-tags: older-people disabled benefits remote-rural
+tags: older-people disabled-people benefits remote-rural
 permalink: /projects/argyll-voluntary-action/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

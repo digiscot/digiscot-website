@@ -13,7 +13,7 @@ end: March 2016
 award: 14268 
 postcode: KA22 8DQ
 image:
-tags: disabled benefits remote-rural
+tags: disabled-people benefits remote-rural
 permalink: /projects/ayrshire-community/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

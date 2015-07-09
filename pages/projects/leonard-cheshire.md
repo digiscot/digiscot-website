@@ -13,7 +13,7 @@ end:
 award: 9966
 postcode: EH12 6DD
 image:
-tags: disabled remote-rural
+tags: disabled-people remote-rural
 permalink: /projects/leonard-cheshire/ 
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---

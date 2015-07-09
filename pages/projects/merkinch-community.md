@@ -13,7 +13,7 @@ end: March 2016
 award: 6985
 postcode: IV3 8AD
 image:
-tags: older-people disabled benefits 
+tags: older-people disabled-people benefits 
 permalink: /projects/merkinch-community/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
