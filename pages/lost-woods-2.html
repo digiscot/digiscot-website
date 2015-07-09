@@ -5,10 +5,12 @@ permalink: /lostwoods2/
 ---
 <p> SCVO office locations </p>
 <div id="map-canvas"></div>
+<div id="foo"></div>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBczbNIYsrrbOLxudm2oZq9t1xzLLpA2cg"></script>
 
 <script type="text/javascript">
+  
   var orgName = 'Scottish Council for Voluntary Organisations';
   var addresses = [
   'Mansfield Traquair Centre, 15 Mansfield Place, Edinburgh, EH3 6BB, UK',
@@ -32,11 +34,10 @@ permalink: /lostwoods2/
     geocoder = new google.maps.Geocoder();
     
     
-    
     $.getJSON("/projects.html", function(data){
       $.each(data.projects, function(i, field){
 
-        geocoder.geocode({'address': field.postcode}, function(result, statusCode){
+        geocoder.geocode({'address': field.postcode, 'region': 'uk'}, function(result, statusCode){
           if(statusCode == google.maps.GeocoderStatus.OK){
             var marker = new google.maps.Marker({
               map:map,
