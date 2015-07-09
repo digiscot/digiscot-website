@@ -48,7 +48,7 @@ All attendees take City & Guilds exam.
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+HELLO!   This is where the project lead will share information about what was achieved and what was learned.
 
 ### Outputs and outcomes
 
