@@ -5,30 +5,29 @@ excerpt: None
 permalink: /test/
 ---
 
-<div id="foo"></div>
+<div id="map-canvas"></div>
 
-<div id="map-canvas" style="width: 600px, height: 400px"></div>
+<div id="foo"></div>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBczbNIYsrrbOLxudm2oZq9t1xzLLpA2cg"></script>
 
-
 <script type="text/javascript">
-
+  
   function main(){
     var geocoder, map, i;
+    
     var mapOptions = {
       center: {lat: 56.490671, lng: -4.202646},
       zoom: 7,
     };
+    
     map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
     geocoder = new google.maps.Geocoder();
-    geocoder.setBaseCountryCode('uk');
     
-    
-    
-    $.getJSON("/json-projects.html", function(result){
-      $.each(result.projects, function(i, field){
-
+    $.getJSON("/json-projects.html", function(data){
+      console.log(data);
+      $.each(data.projects, function(i, field){
+      
         geocoder.geocode({'address': field.postcode}, function(result, statusCode){
           if(statusCode == google.maps.GeocoderStatus.OK){
             var marker = new google.maps.Marker({
@@ -37,19 +36,21 @@ permalink: /test/
               title: 'Foo'
             });
             var infoWindow = new google.maps.InfoWindow({
-              content: '<p>No Skull Kids here ' + '\u2620' + '</p>'
+              content: '<p>No Skull Kids here</p>'
             });
             google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
           }
         });
       
-        $("#foo").append(field.postcode + ", ");
-
+        $("#foo").append(field.postcode + " ");
       });
     });
-  
+    
+    
+  }
   
   google.maps.event.addDomListener(window, 'load', main);
   
- </script>
 
+  
+ </script>
