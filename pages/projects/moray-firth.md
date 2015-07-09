@@ -29,11 +29,11 @@ It is likely that with the participants permission we would be able to showcase 
 
 
 ## Project milestones
-
+The course is running really well in Inverness Prison with 10 participants regulalrly taking part in the weekly digital media sessions. They have been creating features for the production of their own show and producing the voice links which will then need to be digitally edited in the weeks ahead. Due to the nature of the prison and the varying length of stays it was decided to run the course on a rolling basis for 36 weeks allowing any number of participants, up to a maximum of 10 per week, to take part. It is expected that over a 36 week period we will have seen more than 36 trainees for an average of 8 weeks each. They are using portable digital recorders and managing digital media files on the computer systems, digital editing software and enhancing skills previously learnt. 
 Radio skills course poster: 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/133867571@N05/18419966329/in/datetaken/" title="Prison-A4-Poster-Final"><img src="https://farm1.staticflickr.com/302/18419966329_6bce87efe7_k.jpg" width="1448" height="2048" alt="Prison-A4-Poster-Final"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-
+Summer School is in full flow and the trainees are busy working hard putting together their own shows to be showcased on Monster FM in September. They have had lectures on radio presenting, practicals on digital desk driving, portable digital recorders and the transfer of data. They have been planning digital content, writing and interviewing and then digitally editing using the relevant software and entering the voice links for their music. All of this digital content is being planned to a precise show time schedule. The plan had originally been for them to record an hour long show but it seems they're all keen and may each be able to produce up to 4 hours of show.
 Summer school poster:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/133867571@N05/18418160858/in/datetaken/" title="ICA-Summer-School-Advert"><img src="https://farm1.staticflickr.com/436/18418160858_aa45029c2b_z.jpg" width="640" height="498" alt="ICA-Summer-School-Advert"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
