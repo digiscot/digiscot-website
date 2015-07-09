@@ -6,7 +6,7 @@ excerpt: Developing training for Community Learning and Development practitioner
 lead: Youthlink Scotland
 website: http://www.youthlinkscotland.org/
 email: lgreen@youthlinkscotland.org
-twitter-url: @DigitallyAgile
+twitter-url: https://twitter.com/DigitallyAgile
 facebook-url: 
 start: 
 end: 
