@@ -31,12 +31,11 @@ permalink: /test/
         geocoder.geocode({'address': field.postcode}, function(result, statusCode){
           if(statusCode == google.maps.GeocoderStatus.OK){
             var marker = new google.maps.Marker({
-              map:map,
-              position: result[0].geometry.location,
-              title: 'Foo'
+              map: map,
+              position: result[0].geometry.location
             });
             var infoWindow = new google.maps.InfoWindow({
-              content: '<p>No Skull Kids here</p>'
+              content: field.title + '<br />' + field.postcode
             });
             google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
           }
