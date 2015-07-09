@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Getting Digital
-excerpt: Coming soon
+excerpt: Project description coming soon.
 lead: Lead Scotland
 website: http://www.lead.org.uk/
 email: 
