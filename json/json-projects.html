@@ -17,7 +17,9 @@ layout: null
     "title": "{{ page.title | xml_escape }}",
     "excerpt": "{{ page.excerpt | xml_escape }}",
     "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-    "postcode": "{{ page.postcode | xml_escape }}"
+    "postcode": "{{ page.postcode | xml_escape }}",
+    "lat": "{% for item in site.data.geocodes %}{% if item.postcode == page.postcode %}{{ item.lat }}{% endif %}{% endfor %}",
+    "lng": "{% for item in site.data.geocodes %}{% if item.postcode == page.postcode %}{{ item.lng }}{% endif %}{% endfor %}"
   }
   {% capture marker %}{{ marker | plus: 1 }}{% endcapture %}
   {% if marker == count %}{% else %},{% endif %}

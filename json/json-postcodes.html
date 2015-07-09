@@ -1,0 +1,22 @@
+---
+layout: null
+---
+
+{% assign count = 0 %}
+
+{% for page in site.pages %}
+  {% if page.layout == 'project' %}
+    {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+{% assign marker = 0 %}
+
+{ "projects": [
+  {% for page in site.pages %}{% if page.layout == 'project' %}{ "lead": "{{ page.lead | xml_escape }}",
+    "postcode": "{{ page.postcode | xml_escape }}"
+  }
+  {% capture marker %}{{ marker | plus: 1 }}{% endcapture %}
+  {% if marker == count %}{% else %},{% endif %}
+  {% endif %}{% endfor %}
+] }

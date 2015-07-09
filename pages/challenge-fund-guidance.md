@@ -2,7 +2,7 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-permalink: /challenge-fund/guidance/
+permalink: /resources/challenge-fund/guidance/
 ---
  
 ##Challenge Fund guidance notes

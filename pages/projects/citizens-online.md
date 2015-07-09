@@ -11,7 +11,7 @@ facebook-url:
 start: May 2015
 end: August 2015
 award: 20,000
-postcode: GL5 4AQ
+postcode: 
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/citizens-online/
