@@ -30,7 +30,14 @@ It is likely that with the participants permission we would be able to showcase 
 
 ## Project milestones
 
+Radio skills course poster: 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/133867571@N05/18419966329/in/datetaken/" title="Prison-A4-Poster-Final"><img src="https://farm1.staticflickr.com/302/18419966329_6bce87efe7_k.jpg" width="1448" height="2048" alt="Prison-A4-Poster-Final"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+
+Summer school poster:
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/133867571@N05/18418160858/in/datetaken/" title="ICA-Summer-School-Advert"><img src="https://farm1.staticflickr.com/436/18418160858_aa45029c2b_z.jpg" width="640" height="498" alt="ICA-Summer-School-Advert"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ## Evaluation
 
