@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digitally Agile Training Course
-excerpt: Developing training for Community Learning and Development practitioners around the Digitally Agile National Principles with expert input from young people and the youth work sector
+excerpt: Developing training for CLD around the Digitally Agile National Principles
 lead: Youthlink Scotland
 website: http://www.youthlinkscotland.org/
 email: lgreen@youthlinkscotland.org
