@@ -13,7 +13,8 @@ layout: null
 {% assign marker = 0 %}
 
 { "projects": [
-  {% for page in site.pages %}{% if page.layout == 'project' %}{ "title": "{{ page.title | xml_escape }}",
+  {% for page in site.pages %}{% if page.layout == 'project' %}{ "lead": "{{ page.lead | xml_escape }}",
+    "title": "{{ page.title | xml_escape }}",
     "excerpt": "{{ page.excerpt | xml_escape }}",
     "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
     "postcode": "{{ page.postcode | xml_escape }}"

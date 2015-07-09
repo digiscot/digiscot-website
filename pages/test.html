@@ -35,12 +35,12 @@ permalink: /test/
               position: result[0].geometry.location
             });
             var infoWindow = new google.maps.InfoWindow({
-              content: field.title + '<br />' + field.postcode
+              content: field.lead + '<br />' + field.title + '<br />' + field.postcode
             });
             google.maps.event.addListener(marker, 'click', function(){infoWindow.open(map,marker);});
           }
           else {
-            alert('error');
+            alert('Error geocoding' + field.postcode);
           }
         });
       
