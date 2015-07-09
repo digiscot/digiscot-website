@@ -9,7 +9,7 @@ email: lgreen@youthlinkscotland.org
 twitter-url: @DigitallyAgile
 facebook-url: 
 start: 
-end: March 2016
+end: 
 award: 7260
 postcode: EH12 5EZ
 image:
