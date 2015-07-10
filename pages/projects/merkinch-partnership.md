@@ -27,6 +27,11 @@ We want to deliver a project in Merkinch which supports local people living in p
 ## Project milestones
 
 At the beginning of April we circulated information about the project to the local community and to our partner agencies and stakeholders, recruited our sessional worker and booked the venue for the workshops.
+The first workshop session was held on 20th April and workshops have continued each week since then.
+So far a total of 40 people have taken part in at least one workshop, with about 20 people taking part in multiple workshop sessions, ranging in age from 20 to 65 years of age. 
+
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
