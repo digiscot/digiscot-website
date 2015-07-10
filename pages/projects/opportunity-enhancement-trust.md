@@ -39,7 +39,7 @@ Delivering DSTF alongside (or training up) club community staff
 
 DTSF courses delivered
 
-- Courses delivered at Hibs and Montrose FC.
+Courses delivered at Hibs and Montrose FC 
 
 ### Phase 3 October 2015
 
