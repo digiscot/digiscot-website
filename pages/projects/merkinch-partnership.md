@@ -26,8 +26,7 @@ We want to deliver a project in Merkinch which supports local people living in p
 
 ## Project milestones
 
-Project milestones coming soon.
-
+At the beginning of April we circulated information about the project to the local community and to our partner agencies and stakeholders, recruited our sessional worker and booked the venue for the workshops.
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
