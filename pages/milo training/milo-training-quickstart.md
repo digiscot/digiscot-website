@@ -40,11 +40,7 @@ The quick start guide is intended for users who want to start working with Milo 
 * 09 Tasks and Events
 * 10 Reporting
 
-<!-- **Video Walkthrough of Milo 2.**
 
-An overview of Milo 2, showing some of the more common features of Milo 2. 
-
-<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe> -->
 
 This module will allow you to get logged in and using the system.
 
@@ -62,6 +58,7 @@ When you are set up on the system as a user, you will reveive an automated e-mai
 To access Milo, go to <a href="https://login.salesforce.com/">https://login.salesforce.com/</a> and enter your details.
 
 ![Log Screen](/images/milo training/00_log_screen.PNG)
+
 
 
 <a href="#top">Back to Top.</a>
