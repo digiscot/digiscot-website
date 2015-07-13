@@ -16,6 +16,12 @@ permalink: /data/milo-training-gettingstarted/
 6. <a href="#adding">Adding an object tab to your display</a>
 7. <a href="#salesforce">Salesforce help and training</a>
 8. <a href="#sum">Summary</a>
+ 
+#### Video Walkthrough of Milo 2.
+
+An overview of Milo 2, showing some of the more common features of Milo 2. 
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
 
 #### Introduction <a name="introduction"></a>
