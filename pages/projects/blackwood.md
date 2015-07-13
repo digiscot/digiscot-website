@@ -27,9 +27,11 @@ Blackwood will be working with our tenants & communities to provide basic digita
 
 ## Project milestones
 
-A Digital Skills Trainer has been appointed and the first training sessions have been delivered to 10 people in Stirling, with a further 14 people due to join the course. Further training sessions are being developed and our volunteer programme is being planned. 
+Update July 2015:
 
-Training sessions will start in Dundee in September/October with 20 people due to be supported. 
+A Digital Skills Trainer has been appointed and the first training sessions have been delivered to 10 people in Stirling, with a further 14 people due to join the course. 
+
+Further training sessions are being developed and our volunteer programme is being planned. Training sessions will start in Dundee in September/October with 20 people due to be supported. 
 
 
 ## Evaluation
