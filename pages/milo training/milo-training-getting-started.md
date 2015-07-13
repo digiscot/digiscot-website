@@ -21,7 +21,7 @@ permalink: /data/milo-training-gettingstarted/
 
 An overview of Milo 2, showing some of the more common features of Milo 2. 
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="316" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
 
 #### Introduction <a name="introduction"></a>
