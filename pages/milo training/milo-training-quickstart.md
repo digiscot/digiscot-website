@@ -16,6 +16,12 @@ permalink: /data/milo-training-quickstart/
 6. <a href="#sum">Summary</a>
 
 
+#### Video Walkthrough of Milo 2.
+
+An overview of Milo 2, showing some of the more common features of Milo 2. 
+
+<iframe width="560" height="316" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+
 
 #### Introduction <a name="Introduction"></a>
 
