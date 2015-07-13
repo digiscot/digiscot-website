@@ -59,6 +59,9 @@ To access Milo, go to <a href="https://login.salesforce.com/">https://login.sale
 
 ![Log Screen](/images/milo training/00_log_screen.PNG)
 
+This video will show you how you can reset your password within Milo 2.
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
 
 
 <a href="#top">Back to Top.</a>
