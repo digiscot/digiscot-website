@@ -117,6 +117,11 @@ Ragnhild Ljosland went out to Dyke End on Scapa Bay to visit Johnnie Meil (age: 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Johnnie Meil (91 today) was delighted to share memories with the Digital Heritage project. He saw the Royal Oak sink! <a href="http://t.co/H1tzw6ND9y">pic.twitter.com/H1tzw6ND9y</a></p>&mdash; UHI Nordic Studies (@NordicUHI) <a href="https://twitter.com/NordicUHI/status/613668414817759232">June 24, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+4-5/7: Ragnhild spent a weekend in Flotta gathering stories and memories. The lesson learned this time was that there are many stories which are deemed unfit to be out in public, as part of this project on a freely available website, because they are controversial or involve trouble such as inheritance and money trouble, or family conflicts of one sort or another, or would bring shame in one way or another to living relatives in the community. But these are often the most exciting stories and interesting portrayals of island life. In Flotta, which had a large camp for soldiers in World War Two, I heard marvellous stories about how the locals managed to make a bit of extra money out of the situation, but these were deemed unfit for the public ear! So although we got a lot recorded, there was just as much again which I was not allowed to record. One of the devices was left behind in Flotta and is going to spend the next few weeks there. Hopefully more people will use it.
+
+9/7/15
+Ragnhild spent a lovely evening in Firth with Neil Leask who shared some good stories. I have now at last figured out how to get around the problem that the GPS times out before getting a position.   
+
 
 
 ## Evaluation
