@@ -154,6 +154,10 @@ n.b. – you can also affiliate existing contacts to an organisation direct from
 
 **Adding a volunteer registration to a contact** <a name="addvol"></a>
 
+Volunteer contact data should be input to the Volunteer Registration in the new system, as opposed to using the fields for organisational or individual contacts. This video will show you how to do it correctly.
+
+<iframe width="560" height="316" src="https://www.youtube.com/embed/7QeFcUh0el0" frameborder="0" allowfullscreen></iframe>
+
 To make a contact a volunteer, you must attach a volunteer registration. This is very similar to the process of adding an organisation affiliation. First, go to the contact record and hover over ‘Volunteer Registrations’. Click ‘New Volunteer Registration’.
 
 ![Volunteer Registration Object](/images/milo training/03_volregobj.PNG)
