@@ -29,6 +29,9 @@ We have made it to the front page of the [Moray Council Internet pages](http://w
 # Publicity
 Promotion is going well and our flyers and posters are being circulated around the community. Adverts will soon appear in the local press and our partners are promoting to their clients.
 
+Update June 2015:
+
+So far 45 beginners are signed up to clubs and 6 volunteers have been recruited. 
 
 ## Evaluation
 
