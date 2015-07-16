@@ -33,9 +33,9 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 #### Digital skills addressed
 
 
-  * __Managing information__
-
-  * __Communicating__
+  <input type="checkbox" name="vehicle" value="Bike">* __Managing information__<br>
+ 
+ * __Communicating__
 
   * __Transacting__
 
