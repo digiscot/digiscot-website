@@ -5,7 +5,7 @@ excerpt: We're inviting organisations across Scotland to join a national movemen
 permalink: /charter/
 ---
 
-Our shared ambition is for Scotland to be a world-leading digital nation by 2020. Central to achieving this, and maximising the benefits from Scotland's investment in digital infrastructure, is ensuring that everyone has the access, motivation and [basic digital skills](/basic-digital-skills/) required to participate fully in our digital world.
+Our shared ambition is for Scotland to be a world-leading digital nation by 2020. Central to achieving this, and maximising the benefits from Scotland's investment in digital infrastructure, is ensuring that everyone has the access, motivation and [basic digital skills](http://digital.scvo.org.uk/about/basic-digital-skills/) required to participate fully in our digital world.
 
 Efforts to scale up and accelerate activity in Scotland are coordinated through a [Digital Participation Programme](/) led by the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk), with a [Leadership Group](/about/#leadership-group) drawn from the public, private and third sectors.
 
