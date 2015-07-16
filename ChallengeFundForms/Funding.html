@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+    <script src="http://malsup.github.com/jquery.form.js"></script>
+    <script src="../Scripts/ChallengeFund.js"></script>
+    <script src="../Scripts/ChallengeFundForm.js"></script>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="../Content/main.css" />
+
+    <script src="http://lightswitch05.github.io/table-to-json/javascripts/jquery.tabletojson.min.js"></script>
+
+    <title></title>
+</head>
+<body>
+
+    <div class="container">
+
+        <br />
+        <h1> Funding Details </h1>
+        <br />
+
+        <!-- This is a template table (row) -->
+        <table style="display: none;">
+            <tr id="DefaultFundingRow">
+                <td class="count">
+                    ?
+                </td>
+                <td>
+                    <input type="text" class="description form-control" name="FundingDescription_XXX" value="@Description" />
+                </td>
+                <td onchange="calculateTotals();">
+                    <input type="text" class="amount form-control" onkeypress="return isDecimal(event);" name="FundingAmount_XXX" value="@Amount" />
+                </td>
+                <td>
+                    <input type="checkbox" class="form-control" onchange="cbChanged(this, null);">
+                    <input type="hidden" name="FundingSecured_XXX" value="@Number" />
+                </td>
+                <td style="display:none;">
+                    <input type="hidden" name="FundingId_XXX" value="" />
+                    <input type="hidden" name="FundingTableIds" value="XXX" />
+                </td>
+            </tr>
+        </table>
+
+        <div id="ResultSection" class="result"></div>
+        
+        <form action="/ChallengeFund/Funding" id="ChallengeFundForm" method="POST">
+
+
+            <input type="button" class="btn btn-primary btn-lg" id="AddFundingRow"
+                   onclick="addRowToTable('#FundingTable', '#DefaultFundingRow', null, 0);" value="Add funding item" />
+
+            <table id="FundingTable" class="table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Source</th>
+                        <th>Amount</th>
+                        <th>Secured?</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="totalRow">
+                        <td style="visibility:hidden;"></td>
+                        <td></td>
+                        <td id="FundingAmountTotal" class="sum">0</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Budgeting.html';">Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Save & Next</button>
+
+        </form>
+    </div>
+
+    <script language="JavaScript">
+
+        $(document).ready(function () {
+            //addRowToTable('#FundingTable', '#DefaultFundingRow', 0);
+        });
+
+        function loadData(data) {
+            var securedValues = $('input[name^="FundingSecured_"]');
+            for (var i = 0; i < securedValues.length; i++) {
+                if (securedValues[i].value == "1") {
+                    var checkbox = $(securedValues[i]).prev();
+                    checkbox.attr("checked", true);
+                }
+            }
+
+            ensureTableHasOneEmptyRow("Funding", 0);
+            calculateTotals();
+        }
+
+        function calculateTotals() {
+            
+            var sum = getTotalsForClass("amount");
+            $('#FundingAmountTotal').html(sum);
+
+        }
+
+        function OnSuccessCall() {
+            window.location.href = 'Delivering.html';
+        }
+
+    </script>
+</body>
+</html>

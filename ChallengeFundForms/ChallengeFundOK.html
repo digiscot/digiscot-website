@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="../Scripts/ChallengeFund.js"></script>
+    <link rel="stylesheet" href="../Content/main.css" />
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div class="container">
+
+        <div id="SubmitLayer">
+            <div class="row form-group" id="DigitalCharterInterestRow" style="margin-top:30px">
+                <div class="col-md-8 form-group">
+                    <label style="margin-top:10px">
+                        All the data has been validated. You are welcome to go back and review the form, if you wish to do so.
+                        Otherwise, please click on Submit to finalize your application.
+                    </label>
+                </div>
+            </div>
+            <button type="button" class="btn btn-primary btn-lg" id="btnSubmit" onclick="submit();">
+                Submit
+            </button>
+        </div>
+
+        <div class="row form-group" id="CompleteLayer" style="display:none;">
+            <br />
+            <h1> Thank you! </h1>
+            <br />
+            <div class="col-md-6 form-group">
+                <label for="a">
+                    Application was submitted successfully.<br />
+                    We have also sent you an email confirmation to the address you provided,
+                    with the link to the application you have completed.
+                </label>
+            </div>
+        </div>
+    </div>
+    <script>
+
+        function OnSuccessCall() {
+            $("#SubmitLayer").show();
+            $("#CompleteLayer").show();
+        }
+
+        function submit() {
+
+            $.ajax({
+                type: "GET",
+                url: "/ChallengeFund/Submit",
+                success: function () {
+                    deauthenticate();
+                    window.location.href = 'ChallengeFundOK.html';
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("Status: " + textStatus, errorThrown);
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>
