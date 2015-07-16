@@ -24,6 +24,7 @@
 
         <br />
         <h1> Your Project Plan and Budgeting </h1>
+        <h4> In this section we would like to understand exactly what the project that you're proposing actually is so please don't be shy on the detail.</h4>
         <br />
 
         <!-- This is a template table (row) -->
@@ -82,22 +83,26 @@
 
 
             <div class="form-group">
-                <label for="ProjectDetails">Project Details – Please give us a detailed explanation of the project that you are proposing.</label>
+                <label for="ProjectDetails">Project Detail</label>
+                <p>We'd like to get an understanding of your project so please explain what it is that you're proposing. Think about things such as (but not limited to); where will the project take place, who are you supporting, who will be running the project, what devices will be used (if any) and how is your project innovative.</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Project Details field is required." id="ProjectDetails" name="ProjectDetails" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="ProjectDetails" data-valmsg-replace="true"></span>
             </div>
 
             <div class="form-group">
                 <label for="ProjectManagement">Project Management</label>
+                <p>Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress.</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Project Management field is required." id="ProjectManagement" name="ProjectManagement" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="ProjectManagement" data-valmsg-replace="true"></span>
             </div>
 
-
-            <input type="button" class="btn btn-primary btn-lg" id="AddBudgetingRow"
-                   onclick="addRowToTable('#BudgetingTable', '#DefaultBudgetingRow', null, 5);" value="Add project plan item" />
-
             <table id="BudgetingTable" class="table">
+                <label for="BudgetingTable">Project Plan</label>
+                <p>In the table below we would like you to outline the key milestones of the project.  You are allowed to add up to 5 milestones.
+                    <li>Milestone - Briefly explain what the key achievment will be.</li>
+                    <li>Date - When will you aim to achieve this objective by?</li>
+                    <li>Number of people supported - how many people will have been supported by this milestone?  Remember this is a cumilative total so make sure the figure at the bottom represents the total number of people you're aiming to support.</li>
+                    <li  style="padding-bottom: 15px;">Funding needed - How much money do you need to achieve this milestone.  The first amount will be paid on your project start date and each subsequent payment will be made on the completion of the milestone prior.</li>
                 <thead>
                     <tr>
                         <th></th>
@@ -118,16 +123,14 @@
                 </tbody>
             </table>
 
+            <input type="button" class="btn btn-primary btn-lg" id="AddBudgetingRow"
+                   onclick="addRowToTable('#BudgetingTable', '#DefaultBudgetingRow', null, 5);" value="Add project plan item" />
 
+            <div class="form-group" style="padding-top: 20px;">
 
-            <div class="form-group">
-                <input type="button" class="btn btn-primary btn-lg" id="AddSpendingRow"
-                       onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Add item" />
-
-                <label for="SpendingMoneyLabel" style="margin-left:50px">Please outline how you intend to spend the money</label>
+                <label for="SpendingMoneyLabel">Please outline how you intend to spend the money</label>
+                <p>This should be an itemised list of what you intend to spend the money on</p>
             </div>
-
-
 
             <table id="SpendingTable" class="table">
                 <thead>
@@ -145,7 +148,9 @@
                     </tr>
                 </tbody>
             </table>
-
+               <input type="button" class="btn btn-primary btn-lg" id="AddSpendingRow"
+                       onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Add item" />
+            <br> </br>
             <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Project.html';">Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Save & Next</button>
 
