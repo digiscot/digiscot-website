@@ -46,7 +46,7 @@ The directory supports the Scottish Government's [Let's Get On](http://www.letsg
 
 ### Add your centre
 
-If you help people to get online and learn [basic digital skills](/basic-digital-skills/) then you can add your centre or organisation to the directory.
+If you help people to get online and learn [basic digital skills](http://digital.scvo.org.uk/about/basic-digital-skills/) then you can add your centre or organisation to the directory.
 
 <a href="http://letsgeton.digitalscotland.org/SignUp/create" class="btn btn-primary btn-lg">Get started</a>
 
