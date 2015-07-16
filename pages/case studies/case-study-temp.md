@@ -33,15 +33,15 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 #### Digital skills addressed
 
 
-  <input type="checkbox" name="vehicle" value="Bike">* __Managing information__<br>
+   <input type="checkbox" name="skill" value="Managing information"> __Managing information__ <br>
  
- * __Communicating__
+   <input type="checkbox" name="skill" value="Communicating"> __Communicating__ <br>
 
-  * __Transacting__
+   <input type="checkbox" name="skill" value="Transacting"> __Transacting__ <br>
 
-  * __Problem solving__
+   <input type="checkbox" name="skill" value="Problem solving"> __Problem solving__ <br>
 
-  * __Creating__
+   <input type="checkbox" name="skill" value="Creating"> __Creating__ <br>
 
 
 #### Conclusions, lessons learned and next steps 
