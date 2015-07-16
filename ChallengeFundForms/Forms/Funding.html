@@ -23,7 +23,8 @@
     <div class="container">
 
         <br />
-        <h1> Funding Details </h1>
+        <h1> Match Funding Details </h1>
+        <h4> If the project is also relying on funding from another source then we'd like to know </h4>
         <br />
 
         <!-- This is a template table (row) -->
@@ -50,13 +51,10 @@
         </table>
 
         <div id="ResultSection" class="result"></div>
-        
         <form action="/ChallengeFund/Funding" id="ChallengeFundForm" method="POST">
 
-
-            <input type="button" class="btn btn-primary btn-lg" id="AddFundingRow"
-                   onclick="addRowToTable('#FundingTable', '#DefaultFundingRow', null, 0);" value="Add funding item" />
-
+            <label for="FundingTable">Details of match funding</label>
+            <p>Please add details of each source of match funding that the project is also relying on and indicate if you have already secured this additional amount.  If the project will be solely funded throught the Challenge Fund, then you can skip this section.</p>
             <table id="FundingTable" class="table">
                 <thead>
                     <tr>
@@ -76,6 +74,9 @@
                 </tbody>
             </table>
 
+            <input type="button" class="btn btn-primary btn-lg" id="AddFundingRow"
+                   onclick="addRowToTable('#FundingTable', '#DefaultFundingRow', null, 0);" value="Add funding item" />
+            <br></br>
             <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Budgeting.html';">Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Save & Next</button>
 
