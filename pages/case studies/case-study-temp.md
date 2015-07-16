@@ -33,15 +33,15 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 #### Digital skills addressed
 
 <form action="demo_form.asp" method="get">
-   <input type="checkbox" name="skill" value="Managing information"> __Managing information__ <br>
+   <input type="checkbox" name="skill" value="Managing information"> Managing information <br>
  
-   <input type="checkbox" name="skill" value="Communicating"> __Communicating__ <br>
+   <input type="checkbox" name="skill" value="Communicating"> Communicating <br>
 
-   <input type="checkbox" name="skill" value="Transacting"> __Transacting__ <br>
+   <input type="checkbox" name="skill" value="Transacting"> Transacting <br>
 
-   <input type="checkbox" name="skill" value="Problem solving"> __Problem solving__ <br>
+   <input type="checkbox" name="skill" value="Problem solving"> Problem solving <br>
 
-   <input type="checkbox" name="skill" value="Creating"> __Creating__ <br>
+   <input type="checkbox" name="skill" value="Creating"> Creating <br>
 </form>
 
 #### Conclusions, lessons learned and next steps 
