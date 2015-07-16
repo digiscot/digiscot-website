@@ -44,8 +44,6 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
    <input type="checkbox" name="skill" value="Creating"> Creating <br>
    
-   <input type="submit" value="Submit">
-
 </form>
 
 #### Conclusions, lessons learned and next steps 
