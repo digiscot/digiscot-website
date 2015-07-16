@@ -24,6 +24,7 @@
 
         <br />
         <h1> Delivering benefits </h1>
+        <h4> We'd like to hear about the difference that your project is going to make to your target group </h4>
         <br />
 
         <!-- This is a template table (row) -->
@@ -47,17 +48,16 @@
         <form action="/ChallengeFund/Delivering" id="ChallengeFundForm" method="POST">
 
             <div class="form-group">
-                <input type="button" class="btn btn-primary btn-lg" id="AddDeliveringRow"
-                       onclick="addRowToTable('#DeliveringTable', '#DefaultDeliveringRow', null, 4);" value="Add outcome item" />
 
-                <label for="SpendMoneyLabel" style="margin-left:50px">Please outline a maximum of 4 key project outcomes that will be delivered</label>
+                <label for="SpendMoneyLabel">Project outcomes</label>
+                <p> Please explain the main outcomes they you believe will be achieved as part of this project up to a maximum of 4 outcomes</p>
             </div>
 
             <table id="DeliveringTable" class="table">
                 <thead>
                     <tr>
                         <th></th>
-                        <th>Description</th>
+                        <th>Outcome description</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -67,16 +67,19 @@
                     </tr>
                 </tbody>
             </table>
-
+                <input type="button" class="btn btn-primary btn-lg" id="AddDeliveringRow"
+                       onclick="addRowToTable('#DeliveringTable', '#DefaultDeliveringRow', null, 4);" value="Add project outcome" />
 
             <div class="form-group">
-                <label for="Evaluation">Evaluation – Please explain how you will be evaluating your project</label>
+                <label for="Evaluation" style="padding-top: 20px;">Evaluation</label>
+                <p>Please explain the approach that you will take to evaluating your project.  As part of the project, you will be asked to get the individuals you're supporting to fill in the short, Digiskill Check form,    so this could make up part of your evaluation process.</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Evaluation field is required." id="Evaluation" name="Evaluation" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="Evaluation" data-valmsg-replace="true"></span>
             </div>
 
             <div class="form-group">
-                <label for="FutureProjectDevelopment">Future Project Development - Please tell us about any key networks and relationships you have with other organisations </label>
+                <label for="FutureProjectDevelopment" style="padding-top: 20px">Future Project Development</label>
+                <p>Please tell us about any key networks and or relationships you have with other organisations that could help to develop your project in the future.</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Future Project Development field is required." id="FutureProjectDevelopment" name="FutureProjectDevelopment" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="FutureProjectDevelopment" data-valmsg-replace="true"></span>
             </div>

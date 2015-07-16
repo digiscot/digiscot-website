@@ -27,6 +27,7 @@
     <div class="container">
         <br />
         <h1> About your project </h1>
+        <h4> We're looking for a broad overview of your project in this section</h4>
         <br />
 
         <div id="ResultSection" class="result"></div>
@@ -36,11 +37,13 @@
             <div class="row form-group">
                 <div class="col-md-6 form-group">
                     <label for="ProjectName">Project Name</label>
+                    <p>A short, snappy title for your project</p>
                     <input class="form-control" data-val="true" data-val-required="Project Name is required." id="ProjectName" name="ProjectName" type="text" value="" />
                     <span class="field-validation-valid text-danger" data-valmsg-for="ProjectName" data-valmsg-replace="true"></span>
                 </div>
                 <div class="col-md-6 form-group">
                     <label for="StartAndEndDate">Start and End Date</label>
+                    <p>If successul, the start date will be your first payment date.</p>
                     <div class="input-daterange input-group" id="StartAndEndDate">
                         <input type="text" class="input-sm form-control" data-val="true" data-val-required="Start Date is required." id="StartDate" name="StartDate" />
                         <span class="field-validation-valid text-danger" data-valmsg-for="StartDate" data-valmsg-replace="true"></span>
@@ -52,7 +55,8 @@
             </div>
 
             <div class="form-group">
-                <label for="Area">What area do you operate in?</label>
+                <label for="Area">What area/s will your project operate in?</label>
+                <p>Please indicate in which Local Authority Area your project will be focussed in or if if will be Scotland wide.</p>     
                 <select class="form-control " id="Area" name="Area[]" multiple>
                     <option value="Scotland-Wide">Scotland-Wide</option>
                     <option value="Aberdeen City Council">Aberdeen City Council</option>
@@ -152,13 +156,15 @@
             </div>
 
             <div class="form-group">
-                <label for="TargetGroupsDetails">Please explain in more detail who your target group is</label>
+                <label for="TargetGroupsDetails" style="padding-top: 20px">Target group detail</label>
+                <p>Tell us more about the project's target group</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Target Groups Details field is required." id="TargetGroupsDetails" name="TargetGroupsDetails" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="TargetGroupsDetails" data-valmsg-replace="true"></span>
             </div>
 
             <div class="form-group">
-                <label for="Engagement">How will you engage with these groups?</label>
+                <label for="Engagement" style="padding-top: 20px">How will you engage with these groups?</label>
+                <p>We'd like to know how you plan to engage with the target group.  Are they existing service users or will you be targetting them specifically for this project?</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Engagement field is required." id="Engagement" name="Engagement" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="Engagement" data-valmsg-replace="true"></span>
             </div>
