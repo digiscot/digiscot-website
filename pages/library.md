@@ -42,7 +42,7 @@ Oxford Internet Surveys
 
 - [Scotland's Digital Future blog](http://blogs.scotland.gov.uk/digital/)
 
-
+- [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
 
 Further reading available from Go ON UK's comprehensive [list](http://www.go-on.co.uk/opportunity/reports/) of digital skills and inclusion reports. 
 
