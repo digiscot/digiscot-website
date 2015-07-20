@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Resource page
+title: Digital Participation Library
 excerpt: hyuhuihi
 permalink: /about/library/
 ---
 
+Resources and reports relating to digital participation in Scotland
 
 **Essential reading:** 
 
