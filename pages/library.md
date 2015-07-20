@@ -15,10 +15,11 @@ Royal Society of Edinburgh
 
 Scottish Government
 
-- [Digital Participation: A National Framework for Local Action](http://www.gov.scot/Publications/2014/04/6821/downloads)
+- [Scotland's Digital Future: A Strategy for Scotland](http://www.gov.scot/Publications/2011/03/04162416/12)
 
 - [Scotland's people annual report: Results from 2013 Scottish Household Survey](http://www.gov.scot/Resource/0045/00457570.pdf)
 
+- [Digital Participation: A National Framework for Local Action](http://www.gov.scot/Publications/2014/04/6821/downloads)
 
 
 Carnegie UK
