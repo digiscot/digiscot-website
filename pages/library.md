@@ -18,6 +18,10 @@ Scottish Government
 
 - [Digital Participation: A National Framework for Local Action](http://www.gov.scot/Publications/2014/04/6821/downloads)
 
+Scottish Government
+
+- [Scotland's people annual report: Results from 2013 Scottish Household Survey](http://www.gov.scot/Resource/0045/00457570.pdf)
+
 Carnegie UK
 
 - [Across the Divide](http://www.carnegieuktrust.org.uk/publications/2013/across-the-divide---full-report)
@@ -26,12 +30,8 @@ Oxford Internet Surveys
 
 - [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf) 
 
-Booz&Co
 
-- [This is for Everyone:The Case for Universal Digitisation](http://www.go-on.co.uk/wp-content/uploads/2013/12/The-Booz-Report-Nov2012.pdf)
-
-
-
+Further reading 
 
 
 **Just for fun**
