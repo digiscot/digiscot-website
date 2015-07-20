@@ -26,8 +26,6 @@ Carnegie UK
 
 - [Across the Divide](http://www.carnegieuktrust.org.uk/publications/2013/across-the-divide---full-report)
 
-Carnegie UK
-
 - [Digital Participation in Dumfries and Kirkcaldy](http://www.carnegieuktrust.org.uk/publications/2015/digital-participation-in-dumfries-and-kirkcaldy)
 
 Oxford Internet Surveys
@@ -44,7 +42,7 @@ Oxford Internet Surveys
 
 - [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
 
-Further reading available from Go ON UK's comprehensive [list](http://www.go-on.co.uk/opportunity/reports/) of digital skills and inclusion reports. 
+Further reading available from [Go ON UK's](http://www.go-on.co.uk/) comprehensive [list](http://www.go-on.co.uk/opportunity/reports/) of digital skills and inclusion reports. 
 
 
 
