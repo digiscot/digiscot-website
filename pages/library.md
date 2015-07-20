@@ -23,3 +23,11 @@ Carnegie UK
 - [Across the Divide](http://www.carnegieuktrust.org.uk/publications/2013/across-the-divide---full-report)
 
 
+
+
+**Just for fun**
+
+- [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/) 
+
+
+
