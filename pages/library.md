@@ -31,14 +31,13 @@ Oxford Internet Surveys
 - [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf) 
 
 
-Further reading 
-
 
 **Just for fun**
 
 - [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/) 
 
 
+Further reading available from Go ON UK's comprehensive [list](http://www.go-on.co.uk/opportunity/reports/) of digital skills and inclusion reports. 
 
 
 
