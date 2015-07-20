@@ -6,7 +6,7 @@ permalink: /about/library/
 ---
 
 
-Essential reading: 
+**Essential reading:** 
 
 
 Royal Society of Edinburgh
