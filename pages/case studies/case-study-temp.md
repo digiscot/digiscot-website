@@ -33,17 +33,17 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 #### Digital skills addressed
 
 <form action="#" method="post">
-
-   <input type="radio" name="checkbox" value="Managing information"> Managing information <br>
+   <strong>
+      <input type="radio" name="checkbox" value="Managing information"> Managing information <br>
  
-   <input type="radio" name="checkbox" value="Communicating"> Communicating <br>
+      <input type="radio" name="checkbox" value="Communicating"> Communicating <br>
 
-   <input type="radio" name="checkbox" value="Transacting"> Transacting <br>
+      <input type="radio" name="checkbox" value="Transacting"> Transacting <br>
 
-   <input type="radio" name="checkbox" value="Problem solving"> Problem solving <br>
+      <input type="radio" name="checkbox" value="Problem solving"> Problem solving <br>
 
-   <input type="radio" name="checkbox" value="Creating"> Creating <br>
-   
+      <input type="radio" name="checkbox" value="Creating"> Creating <br>
+   </strong>
 </form>
 
 #### Conclusions, lessons learned and next steps 
