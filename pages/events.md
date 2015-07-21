@@ -15,7 +15,6 @@ We host regular, free events for people interested in digital participation in S
 
 New events coming soon!
 
---
 
 **The Herald Scottish Digital Business Awards**
 
