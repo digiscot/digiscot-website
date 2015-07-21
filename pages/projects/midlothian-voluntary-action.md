@@ -80,6 +80,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 * June 22nd - Awareness raising with 10 members of the Children and Young People's sub group of the Midlothian Voluntary Sector Forum. No photo sadly.
 
+* July 20th - Digital Inclusion training with 8 staff members from Intowork
+ 
+<img src="https://lh3.googleusercontent.com/-3pKfxRb146Q/Va4DBBW_mKI/AAAAAAAAIG0/HVdbgTk_mXw/s1152-Ic42/WP_20150720_004.jpg" alt="Intowork" Width="500">
+
 ### Development Phase 2: July - September 2015
 
 * Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
