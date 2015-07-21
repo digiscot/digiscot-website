@@ -32,17 +32,17 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
 #### Digital skills addressed
 
-<form action="demo_form.asp" method="get">
+<form action="test" method="post">
 
-   <input type="checkbox" name="skill" value="Managing information"> Managing information <br>
+   <input type="radio" name="skill" value="Managing information"> Managing information <br>
  
-   <input type="checkbox" name="skill" value="Communicating"> Communicating <br>
+   <input type="radio" name="skill" value="Communicating"> Communicating <br>
 
-   <input type="checkbox" name="skill" value="Transacting"> Transacting <br>
+   <input type="radio" name="skill" value="Transacting"> Transacting <br>
 
-   <input type="checkbox" name="skill" value="Problem solving"> Problem solving <br>
+   <input type="radio" name="skill" value="Problem solving"> Problem solving <br>
 
-   <input type="checkbox" name="skill" value="Creating"> Creating <br>
+   <input type="radio" name="skill" value="Creating"> Creating <br>
    
 </form>
 
