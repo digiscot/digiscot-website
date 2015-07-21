@@ -51,6 +51,15 @@ Deloittes
 
 - [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
 
+McKinsey&Company
+
+- [Offline and falling behind: Barriers to Internet adoption](http://www.go-on.co.uk/wp-content/uploads/2014/10/McKinsey-Company-Offline-and-falling-behind-Barriers-to-Internet-adoption-article.pdf) 
+
+Ofcom
+
+- [Adults' media use and attitudes report 2015](http://stakeholders.ofcom.org.uk/market-data-research/other/research-publications/adults/media-lit-10years/)
+
+
 **Just for fun:**
 
 - [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/) 
