@@ -5,7 +5,7 @@ title: Getting Digital
 excerpt: Project description coming soon.
 lead: Lead Scotland
 website: http://www.lead.org.uk/
-email: 
+email: enquiries@lead.org.uk
 twitter-url: https://twitter.com/@leadscot_tweet 
 facebook-url: https://www.facebook.com/likeleadscotland
 start: August 2015
