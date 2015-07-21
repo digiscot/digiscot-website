@@ -32,7 +32,7 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
 #### Digital skills addressed
 
-<form action="test" method="post">
+<form action="#" method="post">
 
    <input type="radio" name="checkbox" value="Managing information"> Managing information <br>
  
