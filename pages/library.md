@@ -33,7 +33,23 @@ Oxford Internet Surveys
 
 - [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf) 
 
+BBC
 
+- [BBC Basic Online Skills May 2014 research](http://downloads.bbc.co.uk/aboutthebbc/insidethebbc/whatwedo/learning/audienceresearch/basic-online-skills-nov-2014.pdf)
+
+- [Media Literacy: Understanding Digital Capabilities](http://downloads.bbc.co.uk/aboutthebbc/insidethebbc/whatwedo/learning/audienceresearch/bbc-understanding-digital-capabilities-nov-2014.pdf)
+
+BT
+
+- [Valuing Digital Inclusion](http://www.btplc.com/Betterfuture/ConnectedSociety/Creatingpossibilities/Valueofdigitalinclusion/Valuing-Digital-Inclusion.pdf)
+
+Lloyds Bank
+
+- [UK Business Digital Index](http://resources.lloydsbank.com/insight/uk-business-digital-index/)
+
+Deloittes
+
+- [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
 
 **Just for fun:**
 
@@ -41,7 +57,6 @@ Oxford Internet Surveys
 
 - [Scotland's Digital Future blog](http://blogs.scotland.gov.uk/digital/)
 
-- [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
 
 Further reading available from [Go ON UK's](http://www.go-on.co.uk/) comprehensive [list](http://www.go-on.co.uk/opportunity/reports/) of digital skills and inclusion reports. 
 
