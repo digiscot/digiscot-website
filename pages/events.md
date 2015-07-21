@@ -15,6 +15,8 @@ We host regular, free events for people interested in digital participation in S
 
 New events coming soon!
 
+--
+
 **The Herald Scottish Digital Business Awards**
 
 This year SCVO are sponsoring a category for charities and social enterprises and it's free to enter. For more info click [here](http://www.scvo.org.uk/blog/charities-enter-the-herald-scottish-digital-business-awards-2015/) 
