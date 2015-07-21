@@ -2,8 +2,10 @@
 layout: page
 title: Digital Participation Library
 excerpt: Resources and reports relating to digital participation in Scotland
+alert: Applications will be accepted for round 3 of the Challenge Fund
 permalink: /about/library/
 ---
+
 
 
 
