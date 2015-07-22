@@ -35,6 +35,8 @@ Arranging courses schedule; meeting with clubs and agreeing dates for DSTF cours
 
 DSTF delivered at Deveronvale FC - 3 students started course, 2 completed with 1 progressing to Stage 3 of Employability Pipeline (Work experience).
 
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/opportunityenhancement/photos/a.951296964905295.1073741828.838979202803739/1025744634127194/?type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/opportunityenhancement/photos/a.951296964905295.1073741828.838979202803739/1025744634127194/?type=1">Posted by <a href="https://www.facebook.com/opportunityenhancement">Opportunity Enhancement Trust</a> on&nbsp;<a href="https://www.facebook.com/opportunityenhancement/photos/a.951296964905295.1073741828.838979202803739/1025744634127194/?type=1">Wednesday, June 3, 2015</a></blockquote></div></div> 
+
 ### Phase 2 June - September 2015
 
 Delivering DSTF alongside (or training up) club community staff.
