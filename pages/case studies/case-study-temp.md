@@ -32,21 +32,6 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
 #### Digital skills addressed
 
-<!-- <form action="#" autocomplete="off" method="get">
-   <strong>
-      <input type="checkbox" name="skill" value="Managing information"> Managing information <br>
- 
-      <input type="checkbox" name="skill" value="Communicating"> Communicating <br>
-
-      <input type="checkbox" name="skill" value="Transacting"> Transacting <br>
-
-      <input type="checkbox" name="skill" value="Problem solving"> Problem solving <br>
-
-      <input type="checkbox" name="skill" value="Creating"> Creating <br>
-   </strong>
-
-</form> -->
-
 **Managing Information**
 
 **Communicating**
