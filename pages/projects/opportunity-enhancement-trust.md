@@ -29,25 +29,30 @@ It provides the opportunity to gain a certificate at SCQF levels 2, 3, or 4 and 
 
 ## Project milestones
 
-### Phase 1 April 2015
+### Phase 1 April - May 2015
 
-Arranging courses schedule; meeting with clubs and agreeing dates for DSTF courses
+Arranging courses schedule; meeting with clubs and agreeing dates for DSTF courses.
 
-### Phase 2 June 2015
+DSTF delivered at Deveronvale FC - 3 students started course, 2 completed with 1 progressing to Stage 3 of Employability Pipeline (Work experience).
 
-Delivering DSTF alongside (or training up) club community staff
+### Phase 2 June - September 2015
 
-DTSF courses delivered
+Delivering DSTF alongside (or training up) club community staff.
 
-Courses delivered at Hibs and Montrose FC 
+Inverness Caley Thistle community staff trained to deliver DTSF course.
+ICT delivering DSTF course with 12 over 60-year-olds, first half completed in July. Second half commences in August.
 
-### Phase 3 October 2015
+Visited Hibs and Montrose FC, postive meetings with both clubs. Awaiting response to arrange training of community staff at both clubs.  
+
+A further six clubs contacted to arrange meetings, will follow up in July.
+
+### Phase 3 October 2015 - December 2015
 
 Delivering DSTF alongside, (or training up) club community staff
 
 DTSF courses delivered 
 
-### Phase 4 November 2015
+### Phase 4 January 2016 - March 2016
 
 Follow up and assist DSTF students with moving into further training or employment
 
