@@ -27,11 +27,19 @@ Blackwood will be working with our tenants & communities to provide basic digita
 
 ## Project milestones
 
-Update July 2015:
+Stage One:
 
-A Digital Skills Trainer has been appointed and the first training sessions have been delivered to 10 people in Stirling, with a further 14 people due to join the course. 
+A Digital Skills Trainer has been appointed and the first training sessions have been designed and delivered to the majority of staff in our Stirling service. Further training sessions are being developed and we are implementing the early phases of recruiting volunteer digital chmapions to assist with the delivery and evaluation of learning and development packages.
 
-Further training sessions are being developed and our volunteer programme is being planned. Training sessions will start in Dundee in September/October with 20 people due to be supported. 
+We started training week commencing 6th July 2015 with our residents on using the SMARTlife system and will be making the beginnings of rolling out our digital inclusion programme with those of our customers who are seeking to develop their level of digital literacy skills. We are currently making initial plans of capturing the learning journey of those participating in the project through creative means such as reflective diaries and frequent catch-up sessions.
+
+Stage Two:
+
+Training sessions will start in Dundee in September/October with 20 people due to be supported. We will further develop training packages delivered in our Stirling service, inputting feedback and received evaluation from our first training sessions. We will also be using our expanded digital skills team and communicate with our digital champion volunteers on the progress of the project at Stirling.
+
+Stage Three:
+
+Our final trial site will be within our Ayr service and we will be commencing training, development and installation toward the Winter period.
 
 
 ## Evaluation
