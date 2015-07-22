@@ -9,6 +9,9 @@ permalink: /about/library/
 
 **Essential reading:** 
 
+SCVO
+
+- [Digital participation in action](http://digital.scvo.org.uk/about/annual-report-2015/) 
 
 Royal Society of Edinburgh
 
