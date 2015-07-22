@@ -32,7 +32,7 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
 #### Digital skills addressed
 
-<form action="#" autocomplete="off" method="get">
+<!-- <form action="#" autocomplete="off" method="get">
    <strong>
       <input type="checkbox" name="skill" value="Managing information"> Managing information <br>
  
@@ -45,9 +45,9 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
       <input type="checkbox" name="skill" value="Creating"> Creating <br>
    </strong>
 
-</form>
+</form> -->
 
-<!-- **Managing Information**
+**Managing Information**
 
 **Communicating**
 
@@ -55,7 +55,7 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
 **Problem Solving**
 
-**Creating** -->
+**Creating**
 
 #### Conclusions, lessons learned and next steps 
 
