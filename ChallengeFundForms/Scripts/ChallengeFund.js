@@ -1,6 +1,6 @@
-﻿var domain = '';
+﻿var domain = 'http://scvoapi.azurewebsites.net'; //TODO for testing on localhost, use extractDomain()
 $(document).ready(function () {
-    domain = extractDomain(); //TODO won't work with digital.scvo.org.uk => hardcode to scvoapi.azurewebsites.net
+    //domain = extractDomain(); //TODO won't work with digital.scvo.org.uk => hardcode to scvoapi.azurewebsites.net
     console.log(domain);
 });
 
