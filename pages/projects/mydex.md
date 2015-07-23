@@ -29,17 +29,26 @@ STRiVE in East Lothian to register and create personal data stores (PDS) for ini
 
 ### Phase 1
 
-TBC
+Mydex CIC meet STRiVE team members
+Introductions with key participants
+Mydex CIC prepare and send Salesforce Connection to Mydex platform documentation
 
 ### Phase 2
 
-TBC
+Meet STRiVE staff in Musselburgh and STRiVE prepare inputs to Connection Plan
+Define what transactions are going to exchange data between a PDS and the Salesforce system
+Define customers (citizens/staff etc.)
 
 ### Phase 3
 
-TBC
+Connection from Salesforce to Mydex platform on sandbox
+STRiVE test with team on sandbox and change Salesforce as necessary to enable digital participation by citizens and STRiVE team
+STRiVE enable East Lothian residents and STRiVE users to create a Mydex account using Activation
+STRiVE recruit users and data exchange between STRiVE Salesforce and citizens’ PDS via the Mydex platform
 
+Update July 2015:
 
+There has been a delay in getting the connection up and running. Hopeful that things will start moving forward again next month. 
 
 ## Evaluation
 
