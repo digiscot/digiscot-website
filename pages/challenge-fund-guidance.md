@@ -37,7 +37,7 @@ You'll be asked to answer the following questions.
   <li>What is the postal address of the organisation?</li>
   <li>What sector do you operate in?</li>
   <li>OSCR Registration number (leave blank if you don't have one).</li>
-  <li>Companies House Regstration number (leave blank if you don't have one).</li>
+  <li>Companies House Registration number (leave blank if you don't have one).</li>
   <li>How old is your organisation?</li>
   <li>Have you been externally funded in the last three years?</li>
   <li>Who by?</li>
