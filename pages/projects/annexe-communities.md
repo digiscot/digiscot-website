@@ -46,6 +46,7 @@ All going well
 ### Phase 3 - July & August
 
 Train peer volunteers
+The next group of classes start on 6th August.
 
 ### Phase 4 - September & October
 
