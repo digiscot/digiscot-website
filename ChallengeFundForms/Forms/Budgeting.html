@@ -24,24 +24,10 @@
     <div class="container">
 
         <br />
-        <span class="navigator">
-            <a href="Welcome.html">Welcome</a> > 
-            <a href="Basic.html">Basic Information</a> >
-            <a href="Project.html">Project Overview</a> >
-        </span>
-        <span class="heading"> Project Plan </span>
-        <span class="navigator">
-            > <a href="Funding.html">Funding Details</a>
-            > <a href="Delivering.html">Delivering Benefits</a>
-        </span>
-        <br />
-
-
-        <br />
         <h1> Your Project Plan and Budgeting </h1>
         <h4> In this section we'd like to understand in more depth the project that you're proposing so please don't be shy on the detail.</h4>
         <br />
-        <div class="alert alert-warning">All sections of this page must be complete before the data can be saved.</div>
+        <div class="alert alert-warning">All sections of this page must be complete before the data can be saved.  Please do not use your browser's 'Back' button as you will lose your data.</div>
         
         <!-- This is a template table (row) -->
         <table style="display: none;">
@@ -123,11 +109,11 @@
 
             <label for="BudgetingTable">Project Plan</label>
             <p>
-                In the table below we would like you to outline the key milestones of the project.  You are allowed to add up to 5 milestones.
+                In the table below we would like you to outline the key milestones of the project.  You are allowed to add up to <strong>5 milestones</strong>.
                 <li>Milestone - Briefly explain what the key achievment will be.</li>
                 <li>Date - When will you aim to achieve this objective by?</li>
-                <li>Number of people supported - how many people will have been supported by this milestone?  Remember this is a cumilative total so make sure the figure at the bottom represents the total number of people you're aiming to support.</li>
-                <li style="padding-bottom: 15px;">Funding needed - How much money do you need to achieve this milestone.  The first amount will be paid on your project start date and each subsequent payment will be made on the completion of the milestone prior.</li>
+                <li>Number of people supported - Tell us how many people you will be supporting at each stage.  If you are helping a group of 30 people in total but spread over several milestones, you only need to enter 30 once.  If you're supporting a new group at each milestone then enter 30 at each one.</li>
+                <li style="padding-bottom: 15px;">Funding needed - How much money <strong>from the Challenge Fund</strong> do you need to achieve this milestone.  The first amount will be paid on your project start date and each subsequent payment will be made on the completion of the milestone prior.</li>
             </p>
 
             <table id="BudgetingTable" class="borderless-table" cellpadding="10" cellspacing="10">
@@ -152,7 +138,7 @@
             </table>
 
             <input type="button" class="btn btn-primary btn-lg" id="AddBudgetingRow"
-                   onclick="addRowToTable('#BudgetingTable', '#DefaultBudgetingRow', null, 5);" value="Add project plan item" />
+                   onclick="addRowToTable('#BudgetingTable', '#DefaultBudgetingRow', null, 5);" value="Click here to add project plan item" />
 
             <div class="form-group" style="padding-top: 20px;">
 
@@ -177,7 +163,7 @@
                 </tbody>
             </table>
             <input type="button" class="btn btn-primary btn-lg" id="AddSpendingRow"
-                   onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Add item" />
+                   onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Click here to add item" />
             <br> </br>
             <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Project.html';">« Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
