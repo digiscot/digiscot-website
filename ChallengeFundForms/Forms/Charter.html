@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="../Scripts/ChallengeFund.js"></script>
+    <link rel="stylesheet" href="../Content/main.css" />
+    <meta name="viewport" content="width=device-width" />
+
+    <script src="../Scripts/ChallengeFund.js"></script>
+
+    <title></title>
+</head>
+<body>
+    <div class="container">
+
+        <br />
+        <h1> Digital Participation Charter </h1>
+        <h4> We're inviting organisations across Scotland to join a national movement to promote digital participation and basic digital skills</h4>
+        <br />
+        <div class="alert alert-warning">Please do not use your browser's 'Back' button as you will lose your data.</div>
+
+        <h4>What is the Charter?</h4>
+
+        <p>Our shared ambition is for Scotland to be a world-leading digital nation by 2020. Central to achieving this, and maximising the benefits from Scotland’s investment in digital infrastructure, is ensuring that everyone has the access, motivation and basic digital skills required to participate fully in our digital world.</p>
+
+        <p>Efforts to scale up and accelerate activity in Scotland are coordinated through a Digital Participation Programme led by the Scottish Council for Voluntary Organisations, with a Leadership Group drawn from the public, private and third sectors.</p>
+
+        <p>This charter establishes a framework for organisations in Scotland to support the Digital Participation Programme and to pursue our shared ambition. Signatories to the Charter commit to working together in a spirit of partnership to promote digital participation in Scotland.</p>
+
+        <h4>What does this mean for you?</h4>
+
+        <p>As part of the their offer to the Charter, organisations are asked to make an 'offer'; this could be anything from free space that could be used by a local organisation, employee time, specialist advice or a device or two.  Regardless of if you're successful or not in your application for funding through the Challenge Fund, there could be additional support available via this route.</p>
+
+        <p>Please indicate if you would be interested in potential support from a Charter signatory by ticking the box below</p>
+
+        <div class="row form-group" id="DigitalCharterInterestRow" style="margin-top:30px">
+            <div class="col-md-8 form-group">
+                <label style="margin-top:10px">Would you be interested in the support through Digital Participation Charter?</label> &nbsp;
+                <input name="cbDigitalCharterInterest" id="cbDigitalCharterInterest" type="checkbox" onchange="cbChanged(this, null);">
+                <input type="hidden" id="DigitalCharterInterest" name="DigitalCharterInterest" value="false" />
+            </div>
+        </div>
+
+        <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Delivering.html';">« Previous</button>
+        <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
+
+
+    <script language="JavaScript">
+
+        $(document).ready(function () {
+            blockUI();
+            authenticate();
+
+        function OnSuccessCall() {
+            window.location.href = 'ChallengeFundOK.html';
+        }
+
+
+    </script>
+</body>
+
+
+
+</html>
