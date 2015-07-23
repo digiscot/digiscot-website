@@ -1,19 +1,21 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
+
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
     <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
-    <script src="http://malsup.github.com/jquery.form.js"></script> 
+    <script src="http://malsup.github.com/jquery.form.js"></script>
     <script src="../Scripts/ChallengeFund.js"></script>
-    <script src="../Scripts/ChallengeFundForm.js"></script>
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="../Content/main.css" />
+
+    <script src="http://lightswitch05.github.io/table-to-json/javascripts/jquery.tabletojson.min.js"></script>
+
     <title></title>
-    <permalink>
 </head>
 <body>
     <div class="container">
@@ -34,26 +36,26 @@
     <br></br>
     <div class="container">
         <p> This is the application form for the Challenge Fund round 3, you can have a look through the application form without needing to input any information using the navigation links above; there are 5 sections that you will need to complete. Please read the FAQ's below before starting your application.</p>
-        <h3> FAQ's</h3>  
+        <h3> FAQ's</h3>
         <h4>1. Do I have to fill the form out in one go?</h4>
         <p>No.  We use cookies to store the latest version of your application form each time you hit the "Save" or "Next" button at the bottom of the page.  If you continue to use the same computer to fill in the form then your information will always be there (unless you clear your browsing history).</p>
         <h4>2.  What if I want to work on the form at home as well?</h4>
-        <p>That's no problem.  Just type the email address you entered into the form at the bottom of this page and an automated email will be sent with a link to the latest saved version of your form.</p>     
+        <p>That's no problem.  Just type the email address you entered into the form at the bottom of this page and an automated email will be sent with a link to the latest saved version of your form.</p>
         <h4>3. Can I edit my form after I've saved it?</h4>
         <p>Yes, of course.  Even once you have saved a section of the form, you can still revisit it and make changes.  Once you're happy with it all then press "Submit".  Once you've submitted your form you will no longer be able to edit it.</p>
         <h4>4. When do I need to complete the form by?</h4>
-        <p>The closing date for applications is the 4th September.  The link to this form will be removed from our website at 5pm on the 4th so please make sure you leave yourself plenty of time to submit your application.  
-        <h4>5. I have a question about the the form, how do I get in touch?</h4>
-        <p>In the first instance, please send an email explaining what the issue is to the <a href="mailto:digital@scvo.org.uk">Digital Team at SCVO</a> 
-        <br></br>
+        <p>
+            The closing date for applications is the 4th September.  The link to this form will be removed from our website at 5pm on the 4th so please make sure you leave yourself plenty of time to submit your application.
+            <h4>5. I have a question about the the form, how do I get in touch?</h4>
+        <p>
+            In the first instance, please send an email explaining what the issue is to the <a href="mailto:digital@scvo.org.uk">Digital Team at SCVO</a>
+            <br>
+            <br />
 
-    <br>
-    </br>
-    
-    <button type="button" class="btn btn-primary btn-lg" style="padding-left: 30px; padding-right: 30px;" id="btnStart" onclick="window.location.href = 'Basic.html';">Start</button>
+            <button type="button" class="btn btn-primary btn-lg" id="btnStart" onclick="window.location.href = 'Basic.html';">Start</button>
 
-        <br />
-        <br />
+            
+            <br />
         <p>
             Enter your email here and hit "Send" to receive the link to your form:<br />
             <input type="text" style="width:500px" value="" id="ActivationEmail" />
@@ -65,6 +67,9 @@
             </span> <span id="result" class="result"> </span>
 
         </p>
+
+
+
 
     </div>
 
@@ -96,8 +101,6 @@
         }
 
     </script>
-
-
 
 </body>
 </html>

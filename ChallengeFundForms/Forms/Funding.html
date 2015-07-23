@@ -9,6 +9,7 @@
     <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
     <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
     <script src="http://malsup.github.com/jquery.form.js"></script>
+    <script src="http://malsup.github.io/jquery.blockUI.js"></script>
     <script src="../Scripts/ChallengeFund.js"></script>
     <script src="../Scripts/ChallengeFundForm.js"></script>
     <meta name="viewport" content="width=device-width" />
@@ -19,13 +20,15 @@
     <title></title>
 </head>
 <body>
+
     <div class="container">
+
         <br />
         <span class="navigator">
-            > <a href="Welcome.html">Welcome</a>
-            > <a href="Basic.html">Basic Information</a>
-            > <a href="Project.html">Project Overview</a>
-            > <a href="Budgeting.html">Project Plan</a>
+            <a href="Welcome.html">Welcome</a> >
+            <a href="Basic.html">Basic Information</a> >
+            <a href="Project.html">Project Overview</a> >
+            <a href="Budgeting.html">Project Plan</a> >
         </span>
         <span class="heading"> Funding Details </span>
         <span class="navigator">
@@ -33,6 +36,9 @@
         </span>
         <br />
 
+
+
+        <br />
         <h1> Match Funding Details </h1>
         <h4> If the project is also relying on funding from another source then we'd like to know </h4>
         <br />
@@ -46,10 +52,11 @@
                 <td>
                     <input type="text" class="description form-control" name="FundingDescription_XXX" value="@Description" />
                 </td>
-                <td onchange="calculateTotals();">
-                    <input type="text" class="amount form-control" onkeypress="return isDecimal(event);" name="FundingAmount_XXX" value="@Amount" />
+                <td onchange="calculateTotals();" width="200px">
+                    <input type="text" class="amount form-control" onkeypress="return isDecimal(event);" 
+                           name="FundingAmount_XXX" value="@Amount" />
                 </td>
-                <td>
+                <td width="100px">
                     <input type="checkbox" class="form-control" onchange="cbChanged(this, null);">
                     <input type="hidden" name="FundingSecured_XXX" value="@Number" />
                 </td>
@@ -64,8 +71,8 @@
         <form action="/ChallengeFund/Funding" id="ChallengeFundForm" method="POST">
 
             <label for="FundingTable">Details of match funding</label>
-            <p>Please add details of each source of match funding that the project is also relying on, and indicate if you have already secured this additional amount.  If the project will be solely funded through the Challenge Fund, then you can skip this section.</p>
-            <table id="FundingTable" class="table">
+            <p>Please add details of each source of match funding that the project is also relying on and indicate if you have already secured this additional amount.  If the project will be solely funded throught the Challenge Fund, then you can skip this section.</p>
+            <table id="FundingTable" class="borderless-table">
                 <thead>
                     <tr>
                         <th></th>
@@ -87,8 +94,9 @@
             <input type="button" class="btn btn-primary btn-lg" id="AddFundingRow"
                    onclick="addRowToTable('#FundingTable', '#DefaultFundingRow', null, 0);" value="Add funding item" />
             <br></br>
-            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Budgeting.html';">Previous</button>
-            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Save & Next</button>
+            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Budgeting.html';">« Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnSave">Save Progress</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
         </form>
     </div>
@@ -97,6 +105,8 @@
 
         $(document).ready(function () {
             //addRowToTable('#FundingTable', '#DefaultFundingRow', 0);
+            blockUI();
+            authenticate();
         });
 
         function loadData(data) {
@@ -110,6 +120,7 @@
 
             ensureTableHasOneEmptyRow("Funding", 0);
             calculateTotals();
+            unblockUI();
         }
 
         function calculateTotals() {

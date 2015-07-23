@@ -8,6 +8,7 @@
     <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
     <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
     <script src="http://malsup.github.com/jquery.form.js"></script>
+    <script src="http://malsup.github.io/jquery.blockUI.js"></script>
     <script src="../Scripts/ChallengeFund.js"></script>
     <script src="../Scripts/ChallengeFundForm.js"></script>
     <meta name="viewport" content="width=device-width" />
@@ -20,13 +21,16 @@
     <script src="http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/js/locales/bootstrap-datepicker.en-GB.js"></script>
 
     <script src="http://www.virtuosoft.eu/code/bootstrap-duallistbox/bootstrap-duallistbox/v3.0.2/jquery.bootstrap-duallistbox.js"></script>
+
+    <title></title>
 </head>
 <body>
     <div class="container">
+
         <br />
         <span class="navigator">
-            > <a href="Welcome.html">Welcome</a>
-            > <a href="Basic.html">Basic Information</a>
+            <a href="Welcome.html">Welcome</a> >
+            <a href="Basic.html">Basic Information</a> >
         </span>
         <span class="heading"> Project Overview </span>
         <span class="navigator">
@@ -35,7 +39,8 @@
             > <a href="Delivering.html">Delivering Benefits</a>
         </span>
         <br />
-        
+
+        <br />
         <h1> About your project </h1>
         <h4> We're looking for a broad overview of your project in this section</h4>
         <br />
@@ -55,18 +60,18 @@
                     <label for="StartAndEndDate">Start and End Date</label>
                     <p>If successul, the start date will be your first payment date.</p>
                     <div class="input-daterange input-group" id="StartAndEndDate">
-                        <input type="text" class="input-sm form-control" data-val="true" data-val-required="Start Date is required." id="StartDate" name="StartDate" />
-                        <span class="field-validation-valid text-danger" data-valmsg-for="StartDate" data-valmsg-replace="true"></span>
-                        <span class="input-group-addon">to</span>
-                        <input type="text" class="input-sm form-control" data-val="true" data-val-required="End Date is required." id="EndDate" name="EndDate" />
-                        <span class="field-validation-valid text-danger" data-valmsg-for="EndDate" data-valmsg-replace="true"></span>
+                        <input type="text" class="input-sm form-control" data-val="true" style="max-width:258px" data-val-required="Start Date is required." id="StartDate" name="StartDate" />
+                        <div class="field-validation-valid text-danger" data-valmsg-for="StartDate" data-valmsg-replace="true"></div>
+                        <div class="input-group-addon">to</div>
+                        <input type="text" class="input-sm form-control" data-val="true" style="max-width:258px" data-val-required="&nbsp;End Date is required." id="EndDate" name="EndDate" />
+                        <div class="field-validation-valid text-danger" data-valmsg-for="EndDate" data-valmsg-replace="true"></div>
                     </div>
                 </div>
             </div>
 
             <div class="form-group">
                 <label for="Area">What area/s will your project operate in?</label>
-                <p>Please indicate which Local Authority Area your project will be focussed in or if it will be Scotland wide.</p>     
+                <p>Please indicate in which Local Authority Area your project will be focussed in or if if will be Scotland wide.</p>     
                 <select class="form-control " id="Area" name="Area[]" multiple>
                     <option value="Scotland-Wide">Scotland-Wide</option>
                     <option value="Aberdeen City Council">Aberdeen City Council</option>
@@ -181,8 +186,9 @@
 
 
 
-            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Basic.html';">Previous</button>
-            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Save & Next</button>
+            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Basic.html';">« Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnSave">Save Progress</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
         </form>
 
@@ -190,6 +196,8 @@
     <script language="JavaScript">
 
         $(document).ready(function () {
+            blockUI();
+            authenticate();
 
             $('#StartAndEndDate').datepicker({
                 language: "en-GB"
@@ -211,6 +219,14 @@
                 var endDate = new Date(parseInt(data.EndDate.replace("/Date(", "").replace(")/", ""), 10));
                 $("#EndDate").datepicker("update", endDate);
             }
+            
+            if (data.TargetGroups) {
+                var targetGroups = data.TargetGroups.split(",");
+                for (var i = 0; i < targetGroups.length; i++) {
+                    var key = targetGroups[i].replace(/ /g, '');
+                    $("#" + key).prop('checked', true);
+                }                
+            }
 
             var areaHtml = $("#Area").html();
             if (data.Area) {
@@ -223,6 +239,8 @@
             }
             $("#Area").html(areaHtml);
             $("#Area").bootstrapDualListbox('refresh');
+
+            unblockUI();
         }
 
         function OnSuccessCall() {

@@ -9,6 +9,7 @@
     <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
     <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
     <script src="http://malsup.github.com/jquery.form.js"></script>
+    <script src="http://malsup.github.io/jquery.blockUI.js"></script>
     <script src="../Scripts/ChallengeFund.js"></script>
     <script src="../Scripts/ChallengeFundForm.js"></script>
     <meta name="viewport" content="width=device-width" />
@@ -21,11 +22,12 @@
 <body>
     
     <div class="container">
+
         <br />
         <span class="navigator">
-            > <a href="Welcome.html">Welcome</a>
-            > <a href="Basic.html">Basic Information</a>
-            > <a href="Project.html">Project Overview</a>
+            <a href="Welcome.html">Welcome</a> > 
+            <a href="Basic.html">Basic Information</a> >
+            <a href="Project.html">Project Overview</a> >
         </span>
         <span class="heading"> Project Plan </span>
         <span class="navigator">
@@ -34,31 +36,42 @@
         </span>
         <br />
 
+
+        <br />
         <h1> Your Project Plan and Budgeting </h1>
-        <h4> In this section we'd like to understand in more depth the project that you're proposing, so please don't be shy on the detail.</h4>
+        <h4> In this section we'd like to understand in more depth the project that you're proposing so please don't be shy on the detail.</h4>
         <br />
 
         <!-- This is a template table (row) -->
         <table style="display: none;">
-            <tr id="DefaultBudgetingRow">
+            <tr id="DefaultBudgetingRow" >
                 <td class="count">
                     ?
                 </td>
-                <td width="200px">
+                <td width="180px" style="padding-left:5px;">
                     <select class="month form-control" name="BudgetingMonth_XXX">
                         <option value="">Please select</option>
                         <option value="01/11/2015">November 2015</option>
                         <option value="01/12/2015">December 2015</option>
                         <option value="01/01/2016">January 2016</option>
+                        <option value="01/02/2016">February 2016</option>
+                        <option value="01/03/2016">March 2016</option>
+                        <option value="01/04/2016">April 2016</option>
+                        <option value="01/05/2016">June 2016</option>
+                        <option value="01/06/2016">July 2016</option>
+                        <option value="01/07/2016">July 2016</option>
+                        <option value="01/08/2016">August 2016</option>
+                        <option value="01/09/2016">September 2016</option>
+                        <option value="01/10/2016">October 2016</option>
                     </select>
                 </td>
                 <td>
                     <input type="text" class="description form-control" name="BudgetingDescription_XXX" value="@Description" />
                 </td>
-                <td onchange="calculateTotals();" width="200px">
+                <td onchange="calculateTotals();" width="90px">
                     <input type="text" class="people form-control" onkeypress="return isInteger(event)" name="BudgetingPeople_XXX" value="@Number" />
                 </td>
-                <td onchange="calculateTotals();" width="200px">
+                <td onchange="calculateTotals();" width="130px">
                     <input type="text" class="amount form-control" onkeypress="return isDecimal(event)" name="BudgetingAmount_XXX" value="@Amount" />
                 </td>
                 <td style="display:none;">
@@ -75,7 +88,7 @@
                 <td class="count">
                     ?
                 </td>
-                <td>
+                <td width="70%">
                     <input type="text" class="description form-control" name="SpendingDescription_XXX" value="@Description" />
                 </td>
                 <td onchange="calculateTotals();">
@@ -95,7 +108,7 @@
 
             <div class="form-group">
                 <label for="ProjectDetails">Project Detail</label>
-                <p>We'd like to get an understanding of your project so please explain what it is that you're proposing. Think about things such as (but not limited to): where will the project take place, who are you supporting, who will be running the project, what devices will be used (if any), and how is your project innovative?</p>
+                <p>We'd like to get an understanding of your project so please explain what it is that you're proposing. Think about things such as (but not limited to); where will the project take place, who are you supporting, who will be running the project, what devices will be used (if any) and how is your project innovative.</p>
                 <textarea class="form-control" cols="25" data-val="true" data-val-required="The Project Details field is required." id="ProjectDetails" name="ProjectDetails" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="ProjectDetails" data-valmsg-replace="true"></span>
             </div>
@@ -107,13 +120,16 @@
                 <span class="field-validation-valid text-danger" data-valmsg-for="ProjectManagement" data-valmsg-replace="true"></span>
             </div>
 
-            <table id="BudgetingTable" class="table">
-                <label for="BudgetingTable">Project Plan</label>
-                <p>In the table below we would like you to outline the key milestones of the project.  You are allowed to add up to 5 milestones.
-                    <li>Milestone - Briefly explain what the key achievment will be.</li>
-                    <li>Date - When will you aim to achieve this objective by?</li>
-                    <li>Number of people supported - how many people will have been supported by this milestone?  Remember this is a cumulative total so make sure the figure at the bottom represents the total number of people you're aiming to support.</li>
-                    <li  style="padding-bottom: 15px;">Funding needed - How much money do you need to achieve this milestone?  The first amount will be paid on your project start date and each subsequent payment will be made on the completion of the previous milestone.</li>
+            <label for="BudgetingTable">Project Plan</label>
+            <p>
+                In the table below we would like you to outline the key milestones of the project.  You are allowed to add up to 5 milestones.
+                <li>Milestone - Briefly explain what the key achievment will be.</li>
+                <li>Date - When will you aim to achieve this objective by?</li>
+                <li>Number of people supported - how many people will have been supported by this milestone?  Remember this is a cumilative total so make sure the figure at the bottom represents the total number of people you're aiming to support.</li>
+                <li style="padding-bottom: 15px;">Funding needed - How much money do you need to achieve this milestone.  The first amount will be paid on your project start date and each subsequent payment will be made on the completion of the milestone prior.</li>
+            </p>
+
+            <table id="BudgetingTable" class="borderless-table" cellpadding="10" cellspacing="10">
                 <thead>
                     <tr>
                         <th></th>
@@ -140,10 +156,10 @@
             <div class="form-group" style="padding-top: 20px;">
 
                 <label for="SpendingMoneyLabel">Please outline how you intend to spend the money</label>
-                <p>This should be an itemised list of what you intend to spend the money on.  Make sure that the total figure matches the total amount of Funding Needed in the table above.</p>
+                <p>This should be an itemised list of what you intend to spend the money on.  Make sure that the total figure matches the table above.</p>
             </div>
 
-            <table id="SpendingTable" class="table">
+            <table id="SpendingTable" class="borderless-table">
                 <thead>
                     <tr>
                         <th></th>
@@ -159,11 +175,12 @@
                     </tr>
                 </tbody>
             </table>
-               <input type="button" class="btn btn-primary btn-lg" id="AddSpendingRow"
-                       onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Add item" />
+            <input type="button" class="btn btn-primary btn-lg" id="AddSpendingRow"
+                   onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Add item" />
             <br> </br>
-            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Project.html';">Previous</button>
-            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Save & Next</button>
+            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Project.html';">« Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnSave">Save Progress</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
         </form>
     </div>
@@ -171,14 +188,15 @@
     <script language="JavaScript">
 
         $(document).ready(function () {
-            
-       
+            blockUI();
+            authenticate();
         });
 
         function loadData(data) {
             ensureTableHasOneEmptyRow("Budgeting", 5);
             ensureTableHasOneEmptyRow("Spending", 0);
             calculateTotals();
+            unblockUI();
         }
 
         function calculateTotals() {

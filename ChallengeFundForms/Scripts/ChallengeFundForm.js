@@ -1,15 +1,31 @@
 ﻿$(document).ready(function () {
+    setServiceUrl(domain);
+    configureForm();
+});
 
-    authenticate();
-    
+function setServiceUrl(domain) {
+    var action = $("#ChallengeFundForm").attr("action");
+    var url = domain + action;
+    console.log("Service URL: ", url);
+    $("#ChallengeFundForm").attr("action", url);
+}
+
+var submitType = '';
+var domain = '';
+
+function configureForm() {
+
     var options = {
-        beforeSubmit: function () {
+        beforeSubmit: function (obj, more, a) {
+            //console.log(b);
             $(".required-field").removeClass("required-field");
             $('#ProcessingPanel').show();
         },
         success: function (response) {
             if (response === "") {
-                OnSuccessCall();
+                //console.log(submitType);
+                if (submitType == 'save') OnOkCall();
+                else if (submitType === 'next') OnSuccessCall();
             } else {
                 OnErrorCall('Problems reported while saving your data:  ' + response);
             }
@@ -24,29 +40,40 @@
     };
 
     // bind to the form's submit event
-    $('#ChallengeFundForm').submit(function () {
+    $('#ChallengeFundForm').submit(function (obj, a) {
         // inside event callbacks 'this' is the DOM element so we first
         // wrap it in a jQuery object and then invoke ajaxSubmit
-        $(this).ajaxSubmit(options);
+        $(this).ajaxSubmit(options);        
         return false; //prevent standard browser submit and page navigation
     });
 
-});
+    $('#btnSave').click(function (obj, a) {
+        submitType = 'save';
+    });
+
+    $('#btnNext').click(function (obj, a) {
+        submitType = 'next';
+    });
+}
 
 function authenticate() {
     var key = getCookie("ChallengeFundApplicationKey");
+    if (!key) key = get("key"); //if no cookie found, then try to get the key from the URL request variable
+
     $.ajax({
         type: 'GET',
         dataType: "json",
         url: '/ChallengeFund/Get?key=' + key,
         success: function (data) {
             createCookie("ChallengeFundApplicationKey", data.AuthenticationKey, 60);
-            //console.log("LOAD", data);
+            
+            console.log(data);
+
             for (key in data) {
-
+                
                 $("#" + key).val(data[key]); //inputboxes, textareas & comboboxes
-
                 $('#cb' + key).prop('checked', data[key]); //checkboxes
+
                 $('#cb' + key).trigger("change");
 
                 if (key === "Items") {
@@ -61,13 +88,8 @@ function authenticate() {
         },
         error: function (data) {
             console.log("ERROR", data);
-            //window.location.href = "Register.html";
         }
     });
-}
-
-function deauthenticate() {
-    eraseCookie("ChallengeFundApplicationKey");
 }
 
 function appendCheckBoxesToObject(objPrefix, arr) {
@@ -157,26 +179,6 @@ function getTotalsForClass(className) {
         i++;
     });
     return sum;
-}
-
-function OnErrorCall(error) {
-    window.scrollTo(0, 0); //scroll to the top of the screen to show the error message
-
-    //TODO - is logo mandatory?
-    //if (!$("#logoFile").val()) {
-    //    $("#logoFileValidationError").show();
-    //}
-
-    $("#ResultSection").html('<div class="alert alert-danger"><button type="button" class="close">&times;</button><br />' +
-                               error + '</div>');
-    window.setTimeout(function () {
-        $(".alert").fadeTo(500, 0).slideUp(500, function () {
-            //$(this).remove();
-        });
-    }, 5000);
-    $('.alert .close').on("click", function (e) {
-        $(this).parent().fadeTo(500, 0).slideUp(500);
-    });
 }
 
 function cbChanged(checkbox, prefixOfControlToToggle) {

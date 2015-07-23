@@ -8,20 +8,29 @@
     <script src="../Scripts/ChallengeFund.js"></script>
     <link rel="stylesheet" href="../Content/main.css" />
     <meta name="viewport" content="width=device-width" />
+
+    <script src="../Scripts/ChallengeFund.js"></script>
+
     <title></title>
 </head>
 <body>
     <div class="container">
 
+        <div id="ResultSection" class="result"></div>
+
         <div id="SubmitLayer">
             <div class="row form-group" id="DigitalCharterInterestRow" style="margin-top:30px">
                 <div class="col-md-8 form-group">
                     <label style="margin-top:10px">
-                        You've reached the end of the application form.  At this point, you can still edit the information you've entered by clicking back to the relevant page.  Once you click "Submit", you will no longer be able to make any changes so please make sure you're happy with your application before you do so.
-                        When you're ready, please click on Submit to finalise your application.  It may take a moment to complete the submission.
+                        All the data has been validated. You are welcome to go back and review the form, if you wish to do so.
+                        Otherwise, please click on Submit to finalize your application.
                     </label>
                 </div>
             </div>
+            <button type="button" class="btn btn-primary btn-lg" id="btnBack" onclick="window.location.href = 'Delivering.html';">
+                <!--onclick="OnSuccessCall();">-->
+                « Back
+            </button>
             <button type="button" class="btn btn-primary btn-lg" id="btnSubmit" onclick="submit();">
                 Submit
             </button>
@@ -29,40 +38,53 @@
 
         <div class="row form-group" id="CompleteLayer" style="display:none;">
             <br />
-            <h1> Thank you! </h1>
+            <h1> &nbsp;Thank you! </h1>
             <br />
             <div class="col-md-6 form-group">
                 <label for="a">
-                    Your application was submitted successfully.<br />
-                    We have also sent you an email confirmation to the address you provided,
-                    with the link to the application you have completed.<br />
-                    We will be in touch after the closing date on the 4th September to let you know if you have been sucessful.
+                    Application was submitted successfully.
+                    <!--<br />We have also sent you an email confirmation to the address you provided,
+                    with the link to the application you have completed.-->
                 </label>
             </div>
         </div>
+
+        <span id="ProcessingPanel" class="alert" style="display: none;">
+            Processing, please wait . . .
+            <img src="http://www.geniosity.co.za/genwp/wp-content/uploads/2007/01/ajax-loader-animated-2.gif" alt="ajax-loader">
+        </span>
     </div>
     <script>
 
         function OnSuccessCall() {
-            $("#SubmitLayer").show();
+            $("#SubmitLayer").hide();
+            $("#ProcessingPanel").hide();
             $("#CompleteLayer").show();
+            deauthenticate();
+            //window.location.href = 'ThankYou.html';
         }
 
         function submit() {
+            $('#ProcessingPanel').show();
 
             $.ajax({
                 type: "GET",
-                url: "/ChallengeFund/Submit",
+                url: domain + "/ChallengeFund/Submit",
                 success: function () {
-                    deauthenticate();
-                    window.location.href = 'ChallengeFundOK.html';
+                    if (response === "") {
+                        OnSuccessCall();
+                    } else {
+                        OnErrorCall('Problems reported: ' + response);
+                    }
                 },
                 error: function (XMLHttpRequest, textStatus, errorThrown) {
-                    console.log("Status: " + textStatus, errorThrown);
+                    //console.log("Status: " + textStatus, errorThrown);
+                    OnErrorCall("Technical error");
                 }
             });
         }
 
     </script>
 </body>
+
 </html>
