@@ -34,7 +34,7 @@ Every compelling man triumphs above a mailbox. Your science dies on top of a sto
 
 **Managing Information**
 
-**Communicating**
+<mark>**Communicating**</mark>
 
 **Transacting**
 
