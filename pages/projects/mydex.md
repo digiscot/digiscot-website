@@ -46,7 +46,7 @@ STRiVE test with team on sandbox and change Salesforce as necessary to enable di
 STRiVE enable East Lothian residents and STRiVE users to create a Mydex account using Activation
 STRiVE recruit users and data exchange between STRiVE Salesforce and citizens’ PDS via the Mydex platform
 
-Update July 2015:
+**Update July 2015:**
 
 There has been a delay in getting the connection up and running. Hopeful that things will start moving forward again next month. 
 
