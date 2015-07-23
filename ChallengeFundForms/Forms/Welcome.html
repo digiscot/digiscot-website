@@ -43,5 +43,60 @@
         <br></br>
     </div>
 
+    <br>
+    </br>
+    
+    <button type="button" class="btn btn-primary btn-lg" id="btnStart" onclick="window.location.href = 'Basic.html';">Start</button>
+
+        <br />
+        <br />
+        <p>
+            Enter your email here and hit "Send" to receive the link to your form:<br />
+            <input type="text" style="width:500px" value="" id="ActivationEmail" />
+            <button type="button" class="btn btn-primary btn-lg" id="btnActivate" onclick="sendActivationLink();">Send</button>
+
+            <span id="ProcessingPanel" class="alert" style="display: none;">
+                Processing, please wait . . .
+                <img src="http://www.geniosity.co.za/genwp/wp-content/uploads/2007/01/ajax-loader-animated-2.gif" alt="ajax-loader">
+            </span> <span id="result" class="result"> </span>
+
+        </p>
+
+
+
+
+    </div>
+
+    <script>
+
+        function sendActivationLink() {
+            $("#ProcessingPanel").show();
+            var email = $("#ActivationEmail").val();
+            $.ajax({
+                type: 'GET',
+                url: domain + '/ChallengeFund/Activate?email=' + email,
+                success: function (data) {
+                    if (data === "") {
+                        OnOkCall("Thank you. If you have provided a correct email address, " +
+                                  "then you should receive an email in your inbox shortly.");
+                    } else {
+                        OnErrorCall('Problems reported: ' + data);
+                    }
+                    $("#ProcessingPanel").hide();
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("Status: " + textStatus, errorThrown);
+                    OnErrorCall("Error occurred! Please ensure you have entered a valid email address!");
+                    $("#ProcessingPanel").hide();
+                }
+
+
+            });
+        }
+
+    </script>
+
+
+
 </body>
 </html>
