@@ -74,6 +74,16 @@ In this section we'd like to understand in more depth the project that you're pr
   <li>Please outline how you intend to spend the money.</li>
 </ul>
 
+#####Delivering Benefits
+
+We'd like to hear about the difference that your project is going to make to your target group.
+<ul>
+  <li>Project outcomes: Please explain the main outcomes that you believe will be achieved as part of this project. You can enter up to a maximum of 4 outcomes.</li>
+  <li>Evaluation: Please explain the approach that you will take to evaluating your project.</li>
+  <li>Future Project Development: Please tell us about any key networks and / or relationships you have with other organisations that could help to develop your project in the future.</li>
+  <li>Would you be interested in support through the Digital Participation Charter?</li> 
+</ul>
+
 #####Match Funding Details
 
 If the project is also relying on funding from another source then we'd like to know. If you have no match funding this section is not compulsory.
