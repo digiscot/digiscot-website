@@ -63,7 +63,7 @@ function authenticate() {
     $.ajax({
         type: 'GET',
         dataType: "json",
-        url: '/ChallengeFund/Get?key=' + key,
+        url: domain + '/ChallengeFund/Get?key=' + key,
         success: function (data) {
             createCookie("ChallengeFundApplicationKey", data.AuthenticationKey, 60);
             
