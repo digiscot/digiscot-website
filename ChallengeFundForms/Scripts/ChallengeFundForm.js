@@ -5,7 +5,9 @@
 
 function setServiceUrl(domain) {
     var action = $("#ChallengeFundForm").attr("action");
-    var url = domain + action + "?key=test";
+    var key = getCookie("ChallengeFundApplicationKey");
+    if (!key) key = get("key"); //if no cookie found, then try to get the key from the URL request variable
+    var url = domain + action + "?key=" + key;
     console.log("Service URL: ", url);
     $("#ChallengeFundForm").attr("action", url);
 }
