@@ -36,7 +36,7 @@ function configureForm() {
             OnErrorCall('Technical error');
             $('#ProcessingPanel').hide();
         },
-        url: this.action,
+        url: this.action + "?key=test",
         type: this.method
     };
 
