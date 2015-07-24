@@ -14,6 +14,7 @@
     <title></title>
 </head>
 <body>
+
     <div class="container">
 
         <br />
@@ -36,23 +37,41 @@
 
         <p>Please indicate if you would be interested in potential support from a Charter signatory by ticking the box below</p>
 
-        <div class="row form-group" id="DigitalCharterInterestRow" style="margin-top:30px">
-            <div class="col-md-8 form-group">
-                <label style="margin-top:10px">Would you be interested in the support through Digital Participation Charter?</label> &nbsp;
-                <input name="cbDigitalCharterInterest" id="cbDigitalCharterInterest" type="checkbox" onchange="cbChanged(this, null);">
-                <input type="hidden" id="DigitalCharterInterest" name="DigitalCharterInterest" value="false" />
+        <div id="ResultSection" class="result"></div>
+
+        <form action="/ChallengeFund/CharterInterest" id="ChallengeFundForm" method="POST">
+
+            <div class="row form-group" id="DigitalCharterInterestRow" style="margin-top:30px">
+                <div class="col-md-8 form-group">
+                    <label style="margin-top:10px">Would you be interested in the support through Digital Participation Charter?</label> &nbsp;
+                    <input name="cbDigitalCharterInterest" id="cbDigitalCharterInterest" type="checkbox" onchange="cbChanged(this, null);">
+                    <input type="hidden" id="DigitalCharterInterest" name="DigitalCharterInterest" value="false" />
+                </div>
             </div>
-        </div>
 
-        <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Delivering.html';">« Previous</button>
-        <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
-
+            <button type="submit" class="btn btn-primary btn-lg" id="btnPrevious">« Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
+        </form>
+    </div>
 
     <script language="JavaScript">
 
         $(document).ready(function () {
             blockUI();
             authenticate();
+        });
+
+        function loadData(data) {
+            unblockUI();
+        }
+
+        function calculateTotals() {
+
+        }
+
+        function OnPreviousCall() {
+            window.location.href = 'Delivering.html';
+        }
 
         function OnSuccessCall() {
             window.location.href = 'ChallengeFundOK.html';
@@ -60,8 +79,6 @@
 
 
     </script>
+
 </body>
-
-
-
 </html>
