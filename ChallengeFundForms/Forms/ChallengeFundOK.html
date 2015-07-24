@@ -27,7 +27,7 @@
                     </label>
                 </div>
             </div>
-            <button type="button" class="btn btn-primary btn-lg" id="btnBack" onclick="window.location.href = 'Delivering.html';">
+            <button type="button" class="btn btn-primary btn-lg" id="btnBack" onclick="window.location.href = 'CharterInterest.html';">
                 <!--onclick="OnSuccessCall();">-->
                 « Back
             </button>
@@ -43,8 +43,7 @@
             <div class="col-md-6 form-group">
                 <label for="a">
                     Application was submitted successfully.
-                    <!--<br />We have also sent you an email confirmation to the address you provided,
-                    with the link to the application you have completed.-->
+                    <br />We have also sent you an email confirmation to the address you provided.
                 </label>
             </div>
         </div>
@@ -70,7 +69,7 @@
             $.ajax({
                 type: "GET",
                 url: domain + "/ChallengeFund/Submit",
-                success: function () {
+                success: function (response) {
                     if (response === "") {
                         OnSuccessCall();
                     } else {

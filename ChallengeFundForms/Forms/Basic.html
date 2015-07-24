@@ -34,13 +34,13 @@
                 <div class="col-md-6 form-group">
                     <label for="OrganisationName">Organisation Name</label>
                     <p>Please enter the name of your organisation</p>
-                    <input class="form-control" data-val="true" data-val-required="Organisation Name is required." id="OrganisationName" name="OrganisationName" type="text" value="" />
+                    <input class="form-control" data-val="true" maxlength="100" data-val-required="Organisation Name is required." id="OrganisationName" name="OrganisationName" type="text" value="" />
                     <span class="field-validation-valid text-danger" data-valmsg-for="OrganisationName" data-valmsg-replace="true"></span>
                 </div>
                 <div class="col-md-6 form-group">
                     <label for="LeadContact">Lead Contact</label>
                     <p>Who is the lead contact for the purpose of this application?</p>
-                    <input class="form-control" data-val="true" data-val-required="Lead Contact field is required." id="LeadContact" name="LeadContact" type="text" value="" />
+                    <input class="form-control" maxlength="100" data-val="true" data-val-required="Lead Contact field is required." id="LeadContact" name="LeadContact" type="text" value="" />
                     <span class="field-validation-valid text-danger" data-valmsg-for="LeadContact" data-valmsg-replace="true"></span>
                 </div>
 
@@ -50,7 +50,7 @@
                 <div class="form-group">
                     <label for="Email">Email</label>
                     <p>Please enter the email address of the lead contact</p>
-                    <input class="form-control" data-val="true" data-val-required="Email is required." id="Email" name="Email" type="text" value="" />
+                    <input class="form-control" data-val="true" maxlength="254" data-val-required="Email is required." id="Email" name="Email" type="text" value="" />
                     <span class="field-validation-valid text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
                 </div>
             </div>
@@ -59,7 +59,7 @@
             <div class="form-group">
                 <label for="OrganisationAddress">Organisation Address</label>
                 <p>What is the postal address of the organisation?</p>
-                <textarea class="form-control" cols="25" data-val="true" data-val-required="Organisation Address is required." id="OrganisationAddress" name="OrganisationAddress" rows="5"> </textarea>
+                <textarea class="form-control" cols="25" data-val="true" maxlength="1000" data-val-required="Organisation Address is required." id="OrganisationAddress" name="OrganisationAddress" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="OrganisationAddress" data-valmsg-replace="true"></span>
 
             </div>
@@ -74,10 +74,10 @@
 
             <div class="row form-group" id="RegisteredWithOscrRow" style="margin-top:30px">
                 <!--<div class="col-md-8 form-group">
-                    <label style="margin-top:10px">Are you registered with OSCR?</label> &nbsp;
-                    <input name="cbRegisteredWithOscr" id="cbRegisteredWithOscr" type="checkbox" onchange="cbChanged(this, 'OscrRegNo');" value="">
-                    <input type="hidden" id="RegisteredWithOscr" name="RegisteredWithOscr" value="false" />
-                </div>-->
+                <label style="margin-top:10px">Are you registered with OSCR?</label> &nbsp;
+                <input name="cbRegisteredWithOscr" id="cbRegisteredWithOscr" type="checkbox" onchange="cbChanged(this, 'OscrRegNo');" value="">
+                <input type="hidden" id="RegisteredWithOscr" name="RegisteredWithOscr" value="false" />
+            </div>-->
                 <div class="col-md-6 form-group" id="OscrRegNoLayer">
                     <label id="OscrRegNoLabel">OSCR Registration number:</label>
                     <p>Leave blank if you're not OSCR registered</p>
@@ -92,17 +92,17 @@
 
 
             <!--<div class="row form-group" id="RegisteredWithCompaniesHouseRow">
-                <div class="col-md-8 form-group">
-                    <label style="margin-top:10px">Are you registered with Companies House?</label> &nbsp;
-                    <input name="cbRegisteredWithCompaniesHouse" id="cbRegisteredWithCompaniesHouse" type="checkbox" onchange="cbChanged(this, 'CompaniesHouseRegNo');" value="">
-                    <input type="hidden" id="RegisteredWithCompaniesHouse" name="RegisteredWithCompaniesHouse" value="false" />
-                    <label style="margin-top:10px; margin-left:50px;" id="CompaniesHouseRegNoLabel">Companies House Registration number:</label>
-                </div>
-                <div class="col-md-4 form-group" id="CompaniesHouseRegNoLayer" style="display:none;">
-                    <input class="form-control" data-val="true" data-val-required="Companies House Registration Number field is required." id="CompaniesHouseRegNo" name="CompaniesHouseRegNo" type="text" value="" />
-                    <span class="field-validation-valid text-danger" data-valmsg-for="CompaniesHouseRegNo" data-valmsg-replace="true"></span>
-                </div>
-            </div>-->
+            <div class="col-md-8 form-group">
+                <label style="margin-top:10px">Are you registered with Companies House?</label> &nbsp;
+                <input name="cbRegisteredWithCompaniesHouse" id="cbRegisteredWithCompaniesHouse" type="checkbox" onchange="cbChanged(this, 'CompaniesHouseRegNo');" value="">
+                <input type="hidden" id="RegisteredWithCompaniesHouse" name="RegisteredWithCompaniesHouse" value="false" />
+                <label style="margin-top:10px; margin-left:50px;" id="CompaniesHouseRegNoLabel">Companies House Registration number:</label>
+            </div>
+            <div class="col-md-4 form-group" id="CompaniesHouseRegNoLayer" style="display:none;">
+                <input class="form-control" data-val="true" data-val-required="Companies House Registration Number field is required." id="CompaniesHouseRegNo" name="CompaniesHouseRegNo" type="text" value="" />
+                <span class="field-validation-valid text-danger" data-valmsg-for="CompaniesHouseRegNo" data-valmsg-replace="true"></span>
+            </div>
+        </div>-->
 
 
             <div class="form-group">
@@ -122,14 +122,20 @@
                     <label style="margin-top:10px; margin-left:200px;" id="ExternalFunderLabel">Funded by:</label>
                 </div>
                 <div class="col-md-4 form-group" id="ExternalFunderLayer" style="display:none;">
-                    <input class="form-control" data-val="true" data-val-required="External Funder field is required." id="ExternalFunder" name="ExternalFunder" type="text" value="" />
+                    <input class="form-control" data-val="true" data-val-required="External Funder field is required." id="ExternalFunder" name="ExternalFunder" type="text" value="" maxlength="100" />
                     <span class="field-validation-valid text-danger" data-valmsg-for="External Funder" data-valmsg-replace="true"></span>
                 </div>
             </div>
 
             <div class="form-group" id="logoFileBox">
-                <b>Please include a logo of your organisation:</b><br />
-                <p>Make sure this is a high resolution version of your logo as it will be used on our website</p>
+                <div id="LogoFileLabel">
+                    <b>Please include a logo of your organisation:</b><br />
+                    <p>Make sure this is a high resolution version of your logo as it will be used on our website</p>
+                </div>
+                <div id="LoadedLogoFileLabel" style="display:none;">
+                    <b>You have included a logo file: <span id="LoadedLogoFileNameLabel"></span></b><br />
+                    <p>If you wish to change the logo, please use the file picker below:</p>
+                </div>
                 <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
                 <span class="text-danger field-validation-error" id="logoFileValidationError" style="display:none;">
                     <span id="LogoFile-error" class="">
@@ -138,7 +144,9 @@
                 </span>
             </div>
 
+            <button type="submit" class="btn btn-primary btn-lg" id="btnPrevious">« Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
+
             <span id="ProcessingPanel" class="alert" style="display: none;">
                 Processing, please wait . . .
                 <img src="http://www.geniosity.co.za/genwp/wp-content/uploads/2007/01/ajax-loader-animated-2.gif" alt="ajax-loader">
@@ -182,7 +190,17 @@
 
         function loadData(data) {
             $("#OrganisationName").val(data.OrganisationName);
+            if (data && data.LogoFileName) {
+                $("#LogoFileLabel").hide();
+                $("#LoadedLogoFileNameLabel").html(data.LogoFileName);
+                $("#LoadedLogoFileLabel").show();
+            }
+            //$("#LogoFileName").text(data.LogoFileName);
             unblockUI();
+        }
+
+        function OnPreviousCall() {
+            window.location.href = 'Welcome.html';
         }
 
         function OnSuccessCall() {

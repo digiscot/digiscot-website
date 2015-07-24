@@ -20,21 +20,14 @@
 <body>
     <div class="container">
         <br />
-        <span class="heading"> Welcome </span>
-        <span class="navigator">
-            > <a href="Basic.html">Basic Information</a>
-            > <a href="Project.html">Project Overview</a>
-            > <a href="Budgeting.html">Project Plan</a>
-            > <a href="Funding.html">Funding Details</a>
-            > <a href="Delivering.html">Delivering Benefits</a>
-        </span>
-        <br />
 
         <h1> Challenge Fund round 3 application </h1>
         <h4> This form uses cookies to save your progress. By continuing you agree to the use of cookies for this purpose.</h4>
-    </div>
-    <br></br>
-    <div class="container">
+    
+        <br></br>
+
+        <div id="ResultSection" class="result"></div>
+
         <p> This is the application form for the Challenge Fund round 3, you can have a look through the application form without needing to input any information using the navigation links above; there are 5 sections that you will need to complete. Please read the FAQ's below before starting your application.</p>
         <h3> FAQ's</h3>
         <h4>1. Do I have to fill the form out in one go?</h4>
@@ -83,8 +76,7 @@
                 url: domain + '/ChallengeFund/Activate?email=' + email,
                 success: function (data) {
                     if (data === "") {
-                        OnOkCall("Thank you. If you have provided a correct email address, " +
-                                  "then you should receive an email in your inbox shortly.");
+                        OnOkCall("Thank you. You should receive an email in your inbox shortly.");
                     } else {
                         OnErrorCall('Problems reported: ' + data);
                     }
@@ -95,8 +87,6 @@
                     OnErrorCall("Error occurred! Please ensure you have entered a valid email address!");
                     $("#ProcessingPanel").hide();
                 }
-
-
             });
         }
 

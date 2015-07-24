@@ -23,6 +23,7 @@
     
     <div class="container">
 
+        <br />     
         <br />
         <h1> Your Project Plan and Budgeting </h1>
         <h4> In this section we'd like to understand in more depth the project that you're proposing so please don't be shy on the detail.</h4>
@@ -53,13 +54,13 @@
                     </select>
                 </td>
                 <td>
-                    <input type="text" class="description form-control" name="BudgetingDescription_XXX" value="@Description" />
+                    <input type="text" maxlength="500" class="description form-control" name="BudgetingDescription_XXX" value="@Description" />
                 </td>
                 <td onchange="calculateTotals();" width="90px">
-                    <input type="text" class="people form-control" onkeypress="return isInteger(event)" name="BudgetingPeople_XXX" value="@Number" />
+                    <input type="text" class="people form-control" maxlength="3" onkeypress="return isInteger(event)" name="BudgetingPeople_XXX" value="@Number" />
                 </td>
                 <td onchange="calculateTotals();" width="130px">
-                    <input type="text" class="amount form-control" onkeypress="return isDecimal(event)" name="BudgetingAmount_XXX" value="@Amount" />
+                    <input type="text" class="amount form-control" maxlength="7" onkeypress="return isDecimal(event)" name="BudgetingAmount_XXX" value="@Amount" />
                 </td>
                 <td style="display:none;">
                     <input type="hidden" name="BudgetingId_XXX" value="" />
@@ -76,10 +77,10 @@
                     ?
                 </td>
                 <td width="70%">
-                    <input type="text" class="description form-control" name="SpendingDescription_XXX" value="@Description" />
+                    <input type="text" maxlength="500" class="description form-control" name="SpendingDescription_XXX" value="@Description" />
                 </td>
                 <td onchange="calculateTotals();">
-                    <input type="text" class="spendamount form-control" onkeypress="return isDecimal(event)" name="SpendingAmount_XXX" value="@Amount" />
+                    <input type="text" class="spendamount form-control" maxlength="7" onkeypress="return isDecimal(event)" name="SpendingAmount_XXX" value="@Amount" />
                 </td>
                 <td style="display:none;">
                     <input type="hidden" name="SpendingId_XXX" value="" />
@@ -96,14 +97,14 @@
             <div class="form-group">
                 <label for="ProjectDetails">Project Detail</label>
                 <p>We'd like to get an understanding of your project so please explain what it is that you're proposing. Think about things such as (but not limited to); where will the project take place, who are you supporting, who will be running the project, what devices will be used (if any) and how is your project innovative.</p>
-                <textarea class="form-control" cols="25" data-val="true" data-val-required="The Project Details field is required." id="ProjectDetails" name="ProjectDetails" rows="5"> </textarea>
+                <textarea class="form-control" cols="25" data-val="true" maxlength="1000" data-val-required="The Project Details field is required." id="ProjectDetails" name="ProjectDetails" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="ProjectDetails" data-valmsg-replace="true"></span>
             </div>
 
             <div class="form-group">
                 <label for="ProjectManagement">Project Management</label>
                 <p>Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress.</p>
-                <textarea class="form-control" cols="25" data-val="true" data-val-required="The Project Management field is required." id="ProjectManagement" name="ProjectManagement" rows="5"> </textarea>
+                <textarea class="form-control" cols="25" data-val="true" maxlength="1000" data-val-required="The Project Management field is required." id="ProjectManagement" name="ProjectManagement" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="ProjectManagement" data-valmsg-replace="true"></span>
             </div>
 
@@ -169,7 +170,8 @@
             <input type="button" class="btn btn-primary btn-lg" id="AddSpendingRow"
                    onclick="addRowToTable('#SpendingTable', '#DefaultSpendingRow', null, 0);" value="Click here to add item" />
             <br> </br>
-            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Project.html';">« Previous</button>
+
+            <button type="submit" class="btn btn-primary btn-lg" id="btnPrevious">« Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
         </form>
@@ -198,6 +200,10 @@
 
             sum = getTotalsForClass("spendamount");
             $('#SpendingAmountTotal').html(sum);
+        }
+
+        function OnPreviousCall() {
+            window.location.href = 'Project.html';
         }
 
         function OnSuccessCall() {

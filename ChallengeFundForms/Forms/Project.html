@@ -48,10 +48,10 @@
                     <label for="StartAndEndDate">Start and End Date</label>
                     <p>If successful, the start date will be your first payment date.</p>
                     <div class="input-daterange input-group" id="StartAndEndDate">
-                        <input type="text" class="input-sm form-control" data-val="true" style="max-width:258px" data-val-required="Start Date is required." id="StartDate" name="StartDate" />
+                        <input type="text" class="input-sm form-control" data-val="true" onkeydown="return false" style="max-width:258px" data-val-required="Start Date is required." id="StartDate" name="StartDate" />
                         <div class="field-validation-valid text-danger" data-valmsg-for="StartDate" data-valmsg-replace="true"></div>
                         <div class="input-group-addon">to</div>
-                        <input type="text" class="input-sm form-control" data-val="true" style="max-width:258px" data-val-required="&nbsp;End Date is required." id="EndDate" name="EndDate" />
+                        <input type="text" class="input-sm form-control" data-val="true" onkeydown="return false" style="max-width:258px" data-val-required="&nbsp;End Date is required." id="EndDate" name="EndDate" />
                         <div class="field-validation-valid text-danger" data-valmsg-for="EndDate" data-valmsg-replace="true"></div>
                     </div>
                 </div>
@@ -110,13 +110,13 @@
             <div class="row form-group">
                 <div class="checkbox col-md-4 col-xs-6">
                     <label class="col">
-                        <input name="TargetGroups[]" id="Elderly" type="checkbox" value="Elderly">
+                        <input name="TargetGroups[]" id="Olderpeople" type="checkbox" value="Older people">
                         Elderly
                     </label>
                 </div>
                 <div class="checkbox col-md-4 col-xs-6">
                     <label class="col">
-                        <input name="TargetGroups[]" id="Disabled" type="checkbox" value="Disabled">
+                        <input name="TargetGroups[]" id="Disabledpeople" type="checkbox" value="Disabled people">
                         Disabled
                     </label>
                 </div>
@@ -124,12 +124,6 @@
                     <label class="col">
                         <input name="TargetGroups[]" id="Ethnicminoritygroup" type="checkbox" value="Ethnic minority group">
                         Ethnic minority group
-                    </label>
-                </div>
-                <div class="checkbox col-md-4 col-xs-6">
-                    <label class="col">
-                        <input name="TargetGroups[]" id="Culturalminoritygroup" type="checkbox" value="Cultural minority group">
-                        Cultural minority group
                     </label>
                 </div>
                 <div class="checkbox col-md-4 col-xs-6">
@@ -146,12 +140,6 @@
                 </div>
                 <div class="checkbox col-md-4 col-xs-6">
                     <label class="col">
-                        <input name="TargetGroups[]" id="Offenders" type="checkbox" value="Offenders">
-                        Offenders
-                    </label>
-                </div>
-                <div class="checkbox col-md-4 col-xs-6">
-                    <label class="col">
                         <input name="TargetGroups[]" id="Other" type="checkbox" value="Other">
                         Other
                     </label>
@@ -161,20 +149,18 @@
             <div class="form-group">
                 <label for="TargetGroupsDetails" style="padding-top: 20px">Target group detail</label>
                 <p>Tell us more about the project's target group</p>
-                <textarea class="form-control" cols="25" data-val="true" data-val-required="The Target Groups Details field is required." id="TargetGroupsDetails" name="TargetGroupsDetails" rows="5"> </textarea>
+                <textarea class="form-control" cols="25" maxlength="1000" data-val="true" data-val-required="The Target Groups Details field is required." id="TargetGroupsDetails" name="TargetGroupsDetails" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="TargetGroupsDetails" data-valmsg-replace="true"></span>
             </div>
 
             <div class="form-group">
                 <label for="Engagement" style="padding-top: 20px">How will you engage with these groups?</label>
                 <p>We'd like to know how you plan to engage with the target group.  Are they existing service users or will you be targetting them specifically for this project?</p>
-                <textarea class="form-control" cols="25" data-val="true" data-val-required="The Engagement field is required." id="Engagement" name="Engagement" rows="5"> </textarea>
+                <textarea class="form-control" cols="25" data-val="true" maxlength="1000" data-val-required="The Engagement field is required." id="Engagement" name="Engagement" rows="5"> </textarea>
                 <span class="field-validation-valid text-danger" data-valmsg-for="Engagement" data-valmsg-replace="true"></span>
             </div>
 
-
-
-            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Basic.html';">« Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnPrevious">« Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
         </form>
@@ -187,10 +173,25 @@
             authenticate();
 
             $('#StartAndEndDate').datepicker({
-                language: "en-GB"
+                language: "en-GB",
+                startDate: '11/01/2015',
+                endDate: '10/30/2016'
             });
 
-            $("#Area").bootstrapDualListbox();
+            $('#StartAndEndDate').on('change', function () {
+                $('.datepicker').hide(); //close the datepicker popup
+            });
+
+
+            $("#Area").bootstrapDualListbox({
+                showFilterInputs: false, //no filters
+                removeSelectedLabel: 'aaa',
+                removeAllLabel: 'eeee',
+                nonSelectedListLabel: 'Click to add',
+                selectedListLabel: 'Click to remove'
+            });
+            $(".btn-group").remove();
+            $(".info").remove();
    
         });
 
@@ -228,6 +229,10 @@
             $("#Area").bootstrapDualListbox('refresh');
 
             unblockUI();
+        }
+
+        function OnPreviousCall() {
+            window.location.href = 'Basic.html';
         }
 
         function OnSuccessCall() {

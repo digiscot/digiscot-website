@@ -36,10 +36,10 @@
                     ?
                 </td>
                 <td>
-                    <input type="text" class="description form-control" name="FundingDescription_XXX" value="@Description" />
+                    <input type="text" maxlength="1000" class="description form-control" name="FundingDescription_XXX" value="@Description" />
                 </td>
                 <td onchange="calculateTotals();" width="200px">
-                    <input type="text" class="amount form-control" onkeypress="return isDecimal(event);" 
+                    <input type="text" maxlength="7" class="amount form-control" onkeypress="return isDecimal(event);" 
                            name="FundingAmount_XXX" value="@Amount" />
                 </td>
                 <td width="100px">
@@ -80,7 +80,8 @@
             <input type="button" class="btn btn-primary btn-lg" id="AddFundingRow"
                    onclick="addRowToTable('#FundingTable', '#DefaultFundingRow', null, 0);" value="Add funding item" />
             <br></br>
-            <button type="button" class="btn btn-primary btn-lg" id="btnPrevious" onclick="window.location.href = 'Budgeting.html';">« Previous</button>
+
+            <button type="submit" class="btn btn-primary btn-lg" id="btnPrevious">« Previous</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
         </form>
@@ -113,6 +114,10 @@
             var sum = getTotalsForClass("amount");
             $('#FundingAmountTotal').html(sum);
 
+        }
+
+        function OnPreviousCall() {
+            window.location.href = 'Budgeting.html';
         }
 
         function OnSuccessCall() {
