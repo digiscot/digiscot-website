@@ -24,7 +24,8 @@ function configureForm() {
         success: function (response) {
             if (response === "") {
                 //console.log(submitType);
-                if (submitType == 'save') OnOkCall();
+                if (submitType == 'previous') OnPreviousCall();
+                else if (submitType == 'save') OnOkCall();
                 else if (submitType === 'next') OnSuccessCall();
             } else {
                 OnErrorCall('Problems reported while saving your data:  ' + response);
@@ -47,6 +48,10 @@ function configureForm() {
         return false; //prevent standard browser submit and page navigation
     });
 
+    $('#btnPrevious').click(function (obj, a) {
+        submitType = 'previous';
+    });
+
     $('#btnSave').click(function (obj, a) {
         submitType = 'save';
     });
@@ -63,7 +68,7 @@ function authenticate() {
     $.ajax({
         type: 'GET',
         dataType: "json",
-        url: domain + '/ChallengeFund/Get?key=' + key,
+        url: '/ChallengeFund/Get?key=' + key,
         success: function (data) {
             createCookie("ChallengeFundApplicationKey", data.AuthenticationKey, 60);
             

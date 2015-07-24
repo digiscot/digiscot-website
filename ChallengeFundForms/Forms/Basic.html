@@ -136,7 +136,7 @@
                     <b>You have included a logo file: <span id="LoadedLogoFileNameLabel"></span></b><br />
                     <p>If you wish to change the logo, please use the file picker below:</p>
                 </div>
-                <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
+                <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged();" name="logoFile" accept="image/*">
                 <span class="text-danger field-validation-error" id="logoFileValidationError" style="display:none;">
                     <span id="LogoFile-error" class="">
                         Please include an image file (max 4 MB)
@@ -145,6 +145,7 @@
             </div>
 
             <button type="submit" class="btn btn-primary btn-lg" id="btnPrevious">« Previous</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnSave">Save</button>
             <button type="submit" class="btn btn-primary btn-lg" id="btnNext">Next »</button>
 
             <span id="ProcessingPanel" class="alert" style="display: none;">
