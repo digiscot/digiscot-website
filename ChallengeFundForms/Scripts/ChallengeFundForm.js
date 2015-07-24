@@ -5,7 +5,7 @@
 
 function setServiceUrl(domain) {
     var action = $("#ChallengeFundForm").attr("action");
-    var url = domain + action;
+    var url = domain + action + "?key=test";
     console.log("Service URL: ", url);
     $("#ChallengeFundForm").attr("action", url);
 }
@@ -36,7 +36,7 @@ function configureForm() {
             OnErrorCall('Technical error');
             $('#ProcessingPanel').hide();
         },
-        url: this.action + "?key=test",
+        url: this.action,
         type: this.method
     };
 
