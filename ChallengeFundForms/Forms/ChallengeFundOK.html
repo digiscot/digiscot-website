@@ -71,7 +71,7 @@
 
             $.ajax({
                 type: 'GET',
-                url: domain + "/ChallengeFund/Submit?key=' + key",
+                url: domain + "/ChallengeFund/Submit?key=" + key,
                 success: function (response) {
                     if (response === "") {
                         OnSuccessCall();
