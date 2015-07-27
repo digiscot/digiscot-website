@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-    setServiceUrl(domain);
+    //setServiceUrl(domain);
     configureForm();
 });
 
@@ -69,6 +69,7 @@ function getKey() {
         if (urlKey) {
             if (urlKey.trim().length > 36) { //if key contains a GUID
                 key = urlKey.trim();
+                createCookie("ChallengeFundApplicationKey", key, 60);
             }
         }
     }
@@ -83,6 +84,7 @@ function authenticate() {
         url: domain + '/ChallengeFund/Get?key=' + key,
         success: function (data) {
             createCookie("ChallengeFundApplicationKey", data.AuthenticationKey, 60);
+            setServiceUrl(domain);
 
             console.log(data);
 
