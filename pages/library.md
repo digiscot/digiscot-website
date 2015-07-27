@@ -62,15 +62,28 @@ Ofcom
 
 - [Adults' media use and attitudes report 2015](http://stakeholders.ofcom.org.uk/market-data-research/other/research-publications/adults/media-lit-10years/)
 
+Tinder Foundation
+
+[Doing Digital Inclusion: Social housing handbook](http://www.tinderfoundation.org/our-thinking/research-publications/doing-digital-inclusion-social-housing-handbook)
+
+[Doing Digital Inclusion: Rural handbook](http://www.tinderfoundation.org/our-thinking/research-publications/doing-digital-inclusion-rural-handbook)
+
+[Mobile: Helping to close the digital divide?](http://www.tinderfoundation.org/our-thinking/research-publications/mobile-helping-close-digital-divide)
+
+[Supporting Small Businesses with Digital: A pilot project](http://www.tinderfoundation.org/our-thinking/research-publications/supporting-small-businesses-digital-pilot-project)
+
+
 
 **Just for fun:**
 
 - [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/) 
 
+- [Community How To: Doing more with digital](http://www.communityhowto.com/)
+
 - [Scotland's Digital Future blog](http://blogs.scotland.gov.uk/digital/)
 
 
-Further reading available from [Go ON UK's](http://www.go-on.co.uk/) comprehensive [list](http://www.go-on.co.uk/opportunity/reports/) of digital skills and inclusion reports. 
+ 
 
 
 
