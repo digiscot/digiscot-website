@@ -90,7 +90,7 @@ If the project is also relying on funding from another source then we'd like to 
 
 ####Can I save my application?
 
-Absolutely, you will be asked to create a user account when you start your application form and you can then save your progress and come back to it at a later date if its too much for one sitting.
+Once you start your application you should fill out all of the questions in one go, so make sure you have everything prepared before starting.  There's a downloadable .pdf on the start page that will be useful.
  
 ####Who is eligible to apply?
   
