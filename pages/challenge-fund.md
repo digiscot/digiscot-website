@@ -92,7 +92,7 @@ We are also working closely with organisations that have signed [Scotland's Digi
       </tbody>
 </table>
  
-<!-- <a href="/challenge-fund/apply/" class="btn btn-primary btn-lg">Apply Now</a> -->
+<!-- <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a> -->
 
 ####We will be accepting applications from the 27th July
 
