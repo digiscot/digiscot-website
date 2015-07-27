@@ -2,7 +2,7 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: Applications will be accepted for round 3 of the Challenge Fund from 27th July. An "Apply Now" button will appear below on the day. For more information, see below
+alert: Applications are now being accepted for round 3 of the Challenge Fund. After reading the information below and the guidance notes, use the "Apply Now" button to get to the application form.
 permalink: /resources/challenge-fund/
 ---
  
@@ -92,7 +92,7 @@ We are also working closely with organisations that have signed [Scotland's Digi
       </tbody>
 </table>
  
-<!-- <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a> -->
+<a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a>
 
 ####We will be accepting applications from the 27th July
 
