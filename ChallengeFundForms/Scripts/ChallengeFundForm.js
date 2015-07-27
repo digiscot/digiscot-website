@@ -46,7 +46,7 @@ function configureForm() {
     $('#ChallengeFundForm').submit(function (obj, a) {
         // inside event callbacks 'this' is the DOM element so we first
         // wrap it in a jQuery object and then invoke ajaxSubmit
-        $(this).ajaxSubmit(options);        
+        $(this).ajaxSubmit(options);
         return false; //prevent standard browser submit and page navigation
     });
 
@@ -65,7 +65,12 @@ function configureForm() {
 
 function authenticate() {
     var key = getCookie("ChallengeFundApplicationKey");
-    if (!key) key = get("key"); //if no cookie found, then try to get the key from the URL request variable
+    if (!key) {
+        var urlKey = get("key"); //if no cookie found, then try to get the key from the URL request variable
+        if (urlKey.trim().length > 36) { //if key contains a GUID
+            key = urlKey.trim();
+        }
+    }
 
     $.ajax({
         type: 'GET',
