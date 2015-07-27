@@ -28,19 +28,24 @@ Job searches and keeps their Job Seekers Agreement and account updated in order 
 In conjunction with this we wish to provide basic training on how to use Microsoft Office, particularity Word so they feel confident to create CV's and covering letters and know how to save and edit them for future use. We will also provide training on how best to use the internet in order to research employers and to save money. We will do this by employing a part time
 worker (10 hrs per week) and recruiting a team of volunteers to provide the training and one to one support.
 
-•	200 people will report an increase in their digital skills.
-•	70 people will complete a 10 week digital training programme linked to their job search.
-•	50 people will progress to further learning opportunities.
-•	40 people will take up volunteering opportunities.
-•	30 people will be referred / signposted to external organistions for further support such as Credit
-•	Unions or Citizens Advice.
-•	120 people will report and increase in their confidence, self esteem and mental wellbeing.
-•	People will report a decrease in benefit sanctions
-•	People will report feeling more in control of their finances
-
 
 ## Project milestones
 
+•	200 people will report an increase in their digital skills
+
+•	70 people will complete a 10 week digital training programme linked to their job search
+
+•	50 people will progress to further learning opportunities
+
+•	40 people will take up volunteering opportunities
+
+•	30 people will be referred / signposted to external organistions for further support such as Credit Unions or Citizens Advice
+
+•	120 people will report and increase in their confidence, self esteem and mental wellbeing
+
+•	People will report a decrease in benefit sanctions
+
+•	People will report feeling more in control of their finances
 
 
 ## Evaluation
