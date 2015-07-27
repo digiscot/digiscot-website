@@ -40,16 +40,20 @@ SCoD Conference 2014
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Phase 2 April 2015
-Improve server arrangement. Purchase and install NAS drive 
 
-we now have a network set up with no internal conflict due to compatibility of software. we have access for remote working offering flexibility for stuff.Remote access would allow SCoD stuff to work outside the office yet have access folders and files.
+Improve server arrangement. Purchase and install NAS drive.
+
+We now have a network set up with no internal conflict due to compatibility of software. We have access for remote working offering flexibility for staff. Remote access allows SCoD staff to work outside the office yet have access to folders and files.
 
 
 
 ### Phase 3 June 2015
-Review impact of new equipment on organsiation
 
-we have improved our website and training on core digital skills, audted our hardware and software needs, developed our technical ability, revised our telecoms arrangments and inted to use cloud technology back up for our NAS drive  and supported with hardware and software improvments. 
+Review impact of new equipment on organsiation: 
+
+We have improved our website and training on core digital skills, audited our hardware and software needs, developed our technical ability, revised our telecoms arrangments and inted to use cloud technology back up for our NAS drive and supported with hardware and software improvments. 
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
