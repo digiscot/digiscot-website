@@ -70,6 +70,7 @@ Tinder Foundation
 [Mobile: Helping to close the digital divide?](http://www.tinderfoundation.org/our-thinking/research-publications/mobile-helping-close-digital-divide)
 
 [Supporting Small Businesses with Digital: A pilot project](http://www.tinderfoundation.org/our-thinking/research-publications/supporting-small-businesses-digital-pilot-project)
+
 Youthlink 
 
 [Digitally Agile National Principles](http://www.digitallyagilecld.org/) 
