@@ -5,8 +5,7 @@
 
 function setServiceUrl(domain) {
     var action = $("#ChallengeFundForm").attr("action");
-    var key = getCookie("ChallengeFundApplicationKey");
-    if (!key) key = get("key"); //if no cookie found, then try to get the key from the URL request variable
+    var key = getKey();
     var url = domain + action + "?key=" + key;
     console.log("Service URL: ", url);
     $("#ChallengeFundForm").attr("action", url);
@@ -63,7 +62,7 @@ function configureForm() {
     });
 }
 
-function authenticate() {
+function getKey() {
     var key = getCookie("ChallengeFundApplicationKey");
     if (!key) {
         var urlKey = get("key"); //if no cookie found, then try to get the key from the URL request variable
@@ -73,14 +72,18 @@ function authenticate() {
             }
         }
     }
+    return key;
+}
 
+function authenticate() {
+    var key = getKey();
     $.ajax({
         type: 'GET',
         dataType: "json",
         url: domain + '/ChallengeFund/Get?key=' + key,
         success: function (data) {
             createCookie("ChallengeFundApplicationKey", data.AuthenticationKey, 60);
-            
+
             console.log(data);
 
             for (key in data) {
