@@ -66,9 +66,12 @@
         function submit() {
             $('#ProcessingPanel').show();
 
+            var key = getCookie("ChallengeFundApplicationKey");
+            if (!key) key = get("key"); //if no cookie found, then try to get the key from the URL request variable
+
             $.ajax({
-                type: "GET",
-                url: domain + "/ChallengeFund/Submit",
+                type: 'GET',
+                url: domain + "/ChallengeFund/Submit?key=' + key",
                 success: function (response) {
                     if (response === "") {
                         OnSuccessCall();
