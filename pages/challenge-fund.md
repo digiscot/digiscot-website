@@ -17,7 +17,7 @@ In addition to being supported by Scottish Government, we're pleased to announce
 
 ##Call 3 
 
-Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of its customers or its own staff then we look forward to reading your application.
+Applications are now being accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of its customers or its own staff then we look forward to reading your application.
 
 To see a list of the projects we've supported so far check out the <a href="/projects">Projects Page</a>
 
@@ -94,13 +94,10 @@ We are also working closely with organisations that have signed [Scotland's Digi
  
 <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a>
 
-####We will be accepting applications from the 27th July
 
 Please read the [application guidance notes](/resources/challenge-fund/guidance/) before submitting your application.
 
-Applications will be accepted via an online form that you will need to fill out; this form will become available on the 27th July on this page.
-
-You will be asked to provide details on:
+You need to provide details on:
 
 * Your organisation
 * The proposed project
