@@ -33,8 +33,6 @@ Recruit tutors and plan basic content and training schedule.
 
 Market and publicise digital skills training amongst the local community.
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/829892933762141:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/829892933762141:0"><p>We&#039;re still taking names for some Digital Inclusion classes folks!  We&#039;ve got a 4 week block starting on the 25th...</p>Posted by <a href="https://www.facebook.com/annexepartick">Annexe Communities</a> on&nbsp;<a href="https://www.facebook.com/annexepartick/posts/829892933762141:0">Thursday, May 7, 2015</a></blockquote></div></div>
-
 ### Phase 2 - February to June
 
 Deliver 2 digital skills courses
