@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: DEAFinitely Digital
-excerpt: Supporting the dead community to develop and advance their digital skills
+excerpt: Supporting the deaf community to develop and advance their digital skills
 lead: Deaf Connections 
 website: http://www.deafconnections.co.uk/
 email: 
