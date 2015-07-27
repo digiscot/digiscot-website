@@ -30,9 +30,12 @@ The Coordinator will also liaise with key partners and other local service users
 ## Project milestones
 
 - April 2015 : Digital Inclusion Coordinator Job listed & open for application
-- May 2015   : 2x Lenovo Yoga 2 13.3" netbooks purhcased with first batch of funding
-- June 2015  : Interviews for the Digital Inclusion Coordinator post completed, and Neive Timulty has been hired
-- 6th July 2015 : Nieve will officially start in her post as Digital Inclusion Coordinator
+- May 2015   : 2x Lenovo Yoga 2 13.3" netbooks purhcased with first batch of funding. The Lenovo notebooks were selected due to their flexibility - they can act as Laptops or fold into flat Tablets, giving a range of training options for different user-bases.
+- June 2015  : Interviews for the Digital Inclusion Coordinator post completed, and Niamh Timulty has been hired
+- 7th July 2015 : Niamh officially started in her post as Digital Inclusion Coordinator
+- 7th July 2015 : Niamh was introduced to the G31 Centre Staff and given a full induction to the G31 Learning Centre computer suite.
+- 15th July 2015 : Niamh visited Denmilne Gardens Sheltered Complex with Alison Cameron (WSHA's Older Persons Coordinator) to touch base with some of the residents, and to attempt to identifiy avenues through which to engage with Older People. Niamh will attend Denmilne Gardens at the end of a current Arts & Crafts project to introduce some of the community to digital communication.
+- 23rd July 2015 : Niamh and Marco visited Dawn McManus from Thenue Housing to learn about how they utilise digital technology to facilitate Community Engagement and Employability programme.
 
 ## Evaluation
 
