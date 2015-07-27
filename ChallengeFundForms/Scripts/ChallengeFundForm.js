@@ -67,8 +67,10 @@ function authenticate() {
     var key = getCookie("ChallengeFundApplicationKey");
     if (!key) {
         var urlKey = get("key"); //if no cookie found, then try to get the key from the URL request variable
-        if (urlKey.trim().length > 36) { //if key contains a GUID
-            key = urlKey.trim();
+        if (urlKey) {
+            if (urlKey.trim().length > 36) { //if key contains a GUID
+                key = urlKey.trim();
+            }
         }
     }
 
