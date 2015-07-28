@@ -11,12 +11,13 @@ In this round of the Challenge Fund we will be distributing funds of up to £325
 
 The application process consists of one online form that must be fully complete before your application will be assessed.
 
-If sucessful, then you will also have some key obligations as part of the the <a href="/files/Challenge Fund Contract.pdf">Contract</a>:
+If sucessful, then you will also have some key obligations as part of the the Contract.
 <ul>
 	<li>Provide approved evidence of expenditure</li>
 	<li>Provide feedback on your project's progress</li>
 	<li>Get each individual you're supporting to complete a basic questionnaire on their digital skills</li>
 </ul>
+You can <a href="/files/Challenge Fund Contract.pdf">download a copy of the Contract</a> to ensure you can comply.
 
 ###Timeline
  
