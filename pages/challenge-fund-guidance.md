@@ -5,7 +5,7 @@ excerpt: Additional guidance notes for applying to the third round of the Digita
 permalink: /resources/challenge-fund/guidance/
 ---
  
-##Challenge Fund guidance notes
+##Intro
  
 In this round of the Challenge Fund we will be distributing funds of up to £325,000 to third sector organisations from across Scotland; to date <a href="/projects">58 organisations</a> have been supported with awards ranging from £400 - £15,000.
 
