@@ -53,7 +53,7 @@
                     </select>
                 </td>
                 <td>
-                    <input type="text" maxlength="500" class="description form-control" name="BudgetingDescription_XXX" value="@Description" />
+                    <textarea class="description form-control textarea-in-table" maxlength="1000" name="BudgetingDescription_XXX" rows="1">@Description</textarea>
                 </td>
                 <td onchange="calculateTotals();" width="90px">
                     <input type="text" class="people form-control" maxlength="3" onkeypress="return isInteger(event)" name="BudgetingPeople_XXX" value="@Number" />
@@ -76,7 +76,7 @@
                     ?
                 </td>
                 <td width="70%">
-                    <input type="text" maxlength="500" class="description form-control" name="SpendingDescription_XXX" value="@Description" />
+                    <textarea class="description form-control textarea-in-table" maxlength="1000" name="SpendingDescription_XXX" rows="1">@Description</textarea>
                 </td>
                 <td onchange="calculateTotals();">
                     <input type="text" class="spendamount form-control" maxlength="7" onkeypress="return isDecimal(event)" name="SpendingAmount_XXX" value="@Amount" />
