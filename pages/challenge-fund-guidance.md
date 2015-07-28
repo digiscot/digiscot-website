@@ -81,62 +81,79 @@ You'll be asked to answer the following questions.
 #####Basic Information
 
 <ul>
-  <li>Please enter the name of your organisation</li>	
-  <li>Who is the lead contact for the purpose of this application?</li>
-  <li>Please enter the email address of the lead contact</li>
-  <li>What is the postal address of the organisation?</li>
+  <li>Organisation Name - Please enter the name of your organisation</li>	
+  <li>Lead Contact - Who is the lead contact for the purpose of this application?</li>
+  <li>Email - Please enter the email address of the lead contact</li>
+  <li>Organisation - What is the postal address of the organisation?</li>
   <li>What sector do you operate in?</li>
-  <li>OSCR Registration number (leave blank if you don't have one)</li>
-  <li>Companies House Registration number (leave blank if you don't have one)</li>
+  <li>OSCR Registration number (leave blank if you're not OSCR registered)</li>
+  <li>Companies House Registration number (leave blank if you're not registered with Companies House)</li>
   <li>How old is your organisation?</li>
   <li>Have you been externally funded in the last three years?</li>
-  <li>Who by?</li>
-  <li>Please include a logo of your organisation</li>
+  <li>Funded by</li>
+  <li>Please include a logo of your organisation. Make sure this is a high resolution version of your logo as it will be used on our website</li>
 </ul>
 
-#####Project Overview
+#####About your project
 
 We're looking for a broad overview of your project in this section.
 <ul>
-  <li>Project Name</li>
-  <li>Start and end date</li>
-  <li>What Local Authority Areas will your project operate in?</li>
+  <li>Project Name - A short, snappy title for your project</li>
+  <li>Start and End Date - If successful, the start date will be your first payment date</li>
+  <li>What area/s will your project operate in? Please indicate which Local Authority Area your project will be focussed in or if it will be Scotland wide</li>
   <li>Do you consider your delivery area to be remote / rural?</li>
-  <li>Who are your key target groups?</li>
-  <li>Tell us more about the project's target groups</li>
-  <li>How will you engage with these groups? Are they existing service users or will you be targetting them specifically for this project?</li>
+  <li>Who are your key target groups? Elderly / Disabled / English not as their first language / Ethnic minority group / People seeking benefits / Other</li>
+  <li>Target group detail - Tell us more about the project's target group (N.B. There is a 3000 character limit for this answer)</li>
+  <li>How will you engage with these groups? We'd like to know how you plan to engage with the target group. Are they existing service users or will you be targetting them specifically for this project? (N.B. There is a 3000 character limit for this answer)</li>
 </ul>
 
 #####Your Project Plan and Budgeting
 
 In this section we'd like to understand in more depth the project that you're proposing so please don't be shy on the detail.
 <ul>
-  <li>Project Detail: We'd like to get an understanding of your project so please explain what it is that you're proposing</li>	
-  <li>Project Management: Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress</li>
-  <li>Project Plan: Please outline up to five key milestones of the project. For each milestone, we'll need to know 
+  <li>Project Detail - We'd like to get an understanding of your project so please explain what it is that you're proposing. Think about things such as (but not limited to); where will the project take place, who are you supporting, who will be running the project, what devices will be used (if any) and how is your project innovative (N.B. There is a 3000 character limit for this answer)</li>	
+  <li>Project Management - Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress (N.B. There is a 3000 character limit for this answer)</li>
+  <li>Project Plan - In the table below we would like you to outline the key milestones of the project. You are allowed to add up to <b>5 milestones</b>.
   	<ul>
-  		<li>what the key achievement will be</li>
-  		<li>the date of the milestone</li>
-  		<li>the number of people supported, and</li>
-  		<li>the funding needed</li>
+  		<li>Date - When will you aim to achieve this objective by?</li>
+  		<li>Milestone - Briefly explain what the key achievement will be (N.B. There is a 1000 character limit for this answer)</li>
+  		<li>Number of people supported - Tell us how many people you will be supporting at each milestone being careful not to double count. Either way, make sure the bold number at the bottom represents the <b>total</b> number of people that will be supported by your project. See the examples below:</li>
+  			<ul>
+  			    <li>If you're supporting the same 30 people across all of your milestones, you only need to enter this number the first time they are supported.</li>
+  			    <li>If you're supporting 30 people split into smaller groups across your milestones, then enter the number helped at each point.</li>
+  			</ul>
+  		<li>Funding needed - How much money <b>from the Challenge Fund</b> do you need to achieve this milestone. The first amount will be paid on your project start date and each subsequent payment will be made on the completeion of the milstone prior.</li>
   	</ul>
   </li>
-  <li>Please outline how you intend to spend the money</li>
+  <li>Please outline how you intend to spend the money. This should be an itemised list of what you intend to spend the money on. Make sure that the total figure matches the table above.
+  	<ul>
+  	   <li>Description (N.B. There is a 1000 character limit on this answer)</li>
+  	   <li>Amount</li>
+  	</ul>
+  </li>
 </ul>
 
 #####Delivering Benefits
 
 We'd like to hear about the difference that your project is going to make to your target group.
 <ul>
-  <li>Project outcomes: Please explain the main outcomes that you believe will be achieved as part of this project. You can enter up to a maximum of 4 outcomes</li>
-  <li>Evaluation: Please explain the approach that you will take to evaluating your project</li>
-  <li>Future Project Development: Please tell us about any key networks and / or relationships you have with other organisations that could help to develop your project in the future</li>
-  <li>Would you be interested in support through the Digital Participation Charter?</li> 
+  <li>Project outcomes: Please explain the main outcomes that you believe will be achieved as part of this project. You can enter up to a maximum of 4 outcomes (N.B. There is a 2000 character limit on this answer)</li>
+  <li>Evaluation: Please explain the approach that you will take to evaluating your project. As part of the project, you will be asked to get the individuals you're supporting to fill in the short, Digiskill Check form, so this could make up part of your evaluation process (N.B. There is a 3000 character limit on this answer)</li>
+  <li>Future Project Development: Please tell us about any key networks and / or relationships you have with other organisations that could help to develop your project in the future (N.B. There is a 3000 character limit on this answer)</li>
+</ul>
+
+#####Digital Participation Charter
+We're inviting organisations across Scotland to join a national movement to promote digital participation and basic digital skills.
+<ul>
+  <li>Would you be interested in support through the <a href="http://digital.scvo.org.uk/charter/">Digital Participation Charter</a>?</li> 
 </ul>
 
 #####Match Funding Details
 
 If the project is also relying on funding from another source then we'd like to know. If you have no match funding this section is not compulsory.
+<ul>
+  <li>Details of match funding - Please add details of each source of match funding that the project is also relying on and indicate if you have already secured this additional amount. If the project will be solely funded through the Challenge Fund, then you can skip this section.</li>
+</ul>
 
 ####Can I save my application?
 
