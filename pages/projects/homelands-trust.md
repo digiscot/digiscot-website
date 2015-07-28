@@ -33,11 +33,16 @@ Partnership, marketing and recruitment
 
 Establish a digital partner via SCVO and Digital Scotland. Advertise the supported digital advancement rolling programme. Create a list of learners.
 
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/HomelandsTrust/posts/897082917018573:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/HomelandsTrust/posts/897082917018573:0"><p>Do you want to learn how to use the Internet, send emails, social media and use computers or ipad? &#064;homelandstrust...</p>Posted by <a href="https://www.facebook.com/HomelandsTrust">Homelands Trust Fife</a> on&nbsp;<a href="https://www.facebook.com/HomelandsTrust/posts/897082917018573:0">Wednesday, July 8, 2015</a></blockquote></div></div>
+
+
 ### Phase 2 March/April 2015
 
 Assess competencies and deficiencies of individual, tailor and agree an individual plan
 
 ### Phase 3
+
+"Let's Get On" digital skills classes have started, including learning the basics of how to use computers and tablets and navigate the internet. Setting up and sending emails, internet shopping and social media also covered. 
 
 Work through agreed plan 
 
