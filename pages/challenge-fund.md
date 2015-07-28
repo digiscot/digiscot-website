@@ -6,7 +6,7 @@ permalink: /resources/challenge-fund/
 ---
  
 
-We're pleased to announce that we have £300,000, topped up to £325,000 through the kind support of BT Scotland, to support a third round of community digital participation projects across Scotland through the Digital Particiaption Challenge Fund. 
+We're pleased to announce that we have £300,000, topped up to £325,000 through the kind support of BT Scotland, to support a third round of community digital participation projects across Scotland through the Digital Participation Challenge Fund. 
 
 The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
 
