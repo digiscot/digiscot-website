@@ -15,7 +15,7 @@ If sucessful, then you will also have some key obligations as part of the the <a
 <ul>
 	<li>Provide approved evidence of expenditure</li>
 	<li>Provide feedback on your project's progress</li>
-	<li>Submit completed "Tech Tracker" documents</li>
+	<li>Get each individual you're supporting to complete a basic questionnaire on their digital skills</li>
 </ul>
 
 ###Timeline
