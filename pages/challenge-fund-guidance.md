@@ -80,7 +80,7 @@ You'll be asked to answer the following questions.
 #####Basic Information
 
 <ul>
-  <li>Please enter the name of your organisation.</li>	
+  <li>Please enter the name of your organisation</li>	
   <li>Who is the lead contact for the purpose of this application?</li>
   <li>Please enter the email address of the lead contact</li>
   <li>What is the postal address of the organisation?</li>
