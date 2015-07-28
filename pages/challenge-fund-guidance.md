@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Challenge Fund
-excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
+title: Challenge Fund guidance notes
+excerpt: Additional guidance notes for applying to the third round of the Digital Participation Challenge Fund which is supporting digital inclusion projects across Scotland.
 permalink: /resources/challenge-fund/guidance/
 ---
  
@@ -17,6 +17,55 @@ If sucessful, then you will also have some key obligations as part of the the <a
 	<li>Provide feedback on your project's progress</li>
 	<li>Submit completed "Tech Tracker" documents</li>
 </ul>
+
+###Timeline
+ 
+<table class="table table-bordered">
+<thead>
+      <tr>
+        <th>Milestone</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="success col-md-6">Publish guidance notes for round 3</td>
+        <td>1st July</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Application process open</td>
+        <td class="success">27th July - 04th September</td>
+      </tr>
+                  <tr>
+      <td class="col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
+        <td>04th September - 16th September</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
+        <td>09th October</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">All applicants notified of the outcome of their application</td>
+        <td>12th October</td>
+      </tr>
+       <tr>
+        <td class="col-md-6">Contract document sent out</td>
+        <td>12th October - 16th October</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Finalise payment schedules and contracts returned</td>
+        <td>6th November</td>
+      </tr>
+                  <tr>
+      <td class="col-md-6">First payments made</td>
+        <td>16th November</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">Future monthly payments made</td>
+        <td>Once per month</td>
+      </tr>
+      </tbody>
+</table>
  
 ###FAQ's
 
@@ -33,27 +82,27 @@ You'll be asked to answer the following questions.
 <ul>
   <li>Please enter the name of your organisation.</li>	
   <li>Who is the lead contact for the purpose of this application?</li>
-  <li>Please enter the email address of the lead contact.</li>
+  <li>Please enter the email address of the lead contact</li>
   <li>What is the postal address of the organisation?</li>
   <li>What sector do you operate in?</li>
-  <li>OSCR Registration number (leave blank if you don't have one).</li>
-  <li>Companies House Registration number (leave blank if you don't have one).</li>
+  <li>OSCR Registration number (leave blank if you don't have one)</li>
+  <li>Companies House Registration number (leave blank if you don't have one)</li>
   <li>How old is your organisation?</li>
   <li>Have you been externally funded in the last three years?</li>
   <li>Who by?</li>
-  <li>Please include a logo of your organisation.</li>
+  <li>Please include a logo of your organisation</li>
 </ul>
 
 #####Project Overview
 
 We're looking for a broad overview of your project in this section.
 <ul>
-  <li>Project Name.</li>
-  <li>Start and end date.</li>
+  <li>Project Name</li>
+  <li>Start and end date</li>
   <li>What Local Authority Areas will your project operate in?</li>
   <li>Do you consider your delivery area to be remote / rural?</li>
   <li>Who are your key target groups?</li>
-  <li>Tell us more about the project's target groups.</li>
+  <li>Tell us more about the project's target groups</li>
   <li>How will you engage with these groups? Are they existing service users or will you be targetting them specifically for this project?</li>
 </ul>
 
@@ -61,26 +110,26 @@ We're looking for a broad overview of your project in this section.
 
 In this section we'd like to understand in more depth the project that you're proposing so please don't be shy on the detail.
 <ul>
-  <li>Project Detail: We'd like to get an understanding of your project so please explain what it is that you're proposing.</li>	
-  <li>Project Management: Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress.</li>
+  <li>Project Detail: We'd like to get an understanding of your project so please explain what it is that you're proposing</li>	
+  <li>Project Management: Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress</li>
   <li>Project Plan: Please outline up to five key milestones of the project. For each milestone, we'll need to know 
   	<ul>
-  		<li>what the key achievement will be,</li>
-  		<li>the date of the milestone,</li>
+  		<li>what the key achievement will be</li>
+  		<li>the date of the milestone</li>
   		<li>the number of people supported, and</li>
-  		<li>the funding needed.</li>
+  		<li>the funding needed</li>
   	</ul>
   </li>
-  <li>Please outline how you intend to spend the money.</li>
+  <li>Please outline how you intend to spend the money</li>
 </ul>
 
 #####Delivering Benefits
 
 We'd like to hear about the difference that your project is going to make to your target group.
 <ul>
-  <li>Project outcomes: Please explain the main outcomes that you believe will be achieved as part of this project. You can enter up to a maximum of 4 outcomes.</li>
-  <li>Evaluation: Please explain the approach that you will take to evaluating your project.</li>
-  <li>Future Project Development: Please tell us about any key networks and / or relationships you have with other organisations that could help to develop your project in the future.</li>
+  <li>Project outcomes: Please explain the main outcomes that you believe will be achieved as part of this project. You can enter up to a maximum of 4 outcomes</li>
+  <li>Evaluation: Please explain the approach that you will take to evaluating your project</li>
+  <li>Future Project Development: Please tell us about any key networks and / or relationships you have with other organisations that could help to develop your project in the future</li>
   <li>Would you be interested in support through the Digital Participation Charter?</li> 
 </ul>
 
