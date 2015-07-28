@@ -27,6 +27,21 @@ People who are isolated and not connected to their community will 'drop in' to U
 
 ## Project milestones
 
+These are the milestones we have achieved at the end of July.
+
+a)	We have recruited our co-ordinator and have connected with all our partners to ask for referrals
+
+b)	Attended some networking events to promote UR CIRCLE
+
+c)	Put up posters in the locality
+
+d)	Invited other people who attend the centre groups
+
+e)	The group has been running since beginning of May
+
+f)	Numbers have been slow but have had ten different people attending over the period
+
+g)	People who attend are lonely, isolated and have little or no knowledge of IT.  They have enjoyed the sessions using laptops or hudls
 
 
 ## Evaluation
