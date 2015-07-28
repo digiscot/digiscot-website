@@ -84,6 +84,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
  
 <img src="https://lh3.googleusercontent.com/-3pKfxRb146Q/Va4DBBW_mKI/AAAAAAAAIG0/HVdbgTk_mXw/s1152-Ic42/WP_20150720_004.jpg" alt="Intowork" Width="500">
 
+* July 28th - Digital Inclusion training with 3 staff members from Midlothian Libraries
+
+<img src="https://lh3.googleusercontent.com/-CR57GqUjdEM/VbfBHGolphI/AAAAAAAAIIQ/YIV1dwxwhu4/s1152-Ic42/WP_20150728_001.jpg" alt="Midlothian Libraries 1" Width="500">
+
 ### Development Phase 2: July - September 2015
 
 * Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
