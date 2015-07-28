@@ -22,7 +22,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Using the teaching resources available at [Let's Get On](http://www.letsgeton.scot/help-others-get-online/) we will introduce classes to help people learn basic digital skills including surfing the internet and using email. This will the first step in our long term goal to teach people how to research their conditions, disabilities and associated factors (ie isolation, stress, benefit, travel restrictions, accessibility etc etc). We want to introduce to digital technology helping to alleviate symptoms of isolation, stress etc and also promote self-care and well health.
+Using the teaching resources available at [Let's Get On](http://www.letsgeton.scot/help-others-get-online/) we will introduce classes to help people learn basic digital skills including surfing the internet and using email. This will be the first step in our long term goal to teach people how to research their conditions, disabilities and associated factors (ie isolation, stress, benefit, travel restrictions, accessibility etc etc). We want to introduce to digital technology helping to alleviate symptoms of isolation, stress etc and also promote self-care and well health.
 
 
 ## Project milestones
