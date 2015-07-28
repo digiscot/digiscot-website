@@ -36,7 +36,7 @@
                     ?
                 </td>
                 <td>
-                    <input type="text" maxlength="1000" class="description form-control" name="FundingDescription_XXX" value="@Description" />
+                    <textarea class="description form-control textarea-in-table" maxlength="1000" name="FundingDescription_XXX" rows="1">@Description</textarea>
                 </td>
                 <td onchange="calculateTotals();" width="200px">
                     <input type="text" maxlength="7" class="amount form-control" onkeypress="return isDecimal(event);" 
