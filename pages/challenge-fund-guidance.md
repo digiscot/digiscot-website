@@ -29,11 +29,11 @@ If sucessful, then you will also have some key obligations as part of the the <a
     </thead>
     <tbody>
       <tr>
-        <td class="success col-md-6">Publish guidance notes for round 3</td>
+        <td class="col-md-6">Publish guidance notes for round 3</td>
         <td>1st July</td>
       </tr>
       <tr>
-      <td class="col-md-6">Application process open</td>
+      <td class="success col-md-6">Application process open</td>
         <td class="success">27th July - 04th September</td>
       </tr>
                   <tr>
