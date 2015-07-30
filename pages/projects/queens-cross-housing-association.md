@@ -29,9 +29,9 @@ Getting older people enagaged and learning how to use the internet through resea
 
 ### Phase 1 January - February 2015
 
-Recruitment of Sessional Worker 
+Recruitment of Sessional Worker  - William Harvie has joined us as out Historical Connections Worker. William is an experience member of the Community Development Team having worked with us on placement in 2013. He is passionate about Local History and has already proven to be a great asset to the team!
 
-Purchase of Equipment: We purchased 3 iPads to supplement our existing 'mobile kit' for use in sessions. Our learners are really enjoying playing with the new equipment.
+Purchase of Equipment: We purchased 3 iPads to supplement our existing 'mobile kit' for use in sessions. Our learners are really enjoying playing with the new equipment. Our new printers arrived recently as well, we've been scanning and printing photographs 
 
 Advertising of activities
 
@@ -51,9 +51,9 @@ Marketing launched
 
 Begin sessions. 
 
-Primary focus on familiarizing members with devices, basic internet awareness, internet safety etc. 
+Primary focus on familiarizing members with devices, basic internet awareness, internet safety etc. We have now started four Historical Connections groups with a second wave of three new groups starting the first week in September.
 
-Establish blog and write sample content to inspire learners, establish plan for blogging and content with Communications Team.
+Establish blog and write sample content to inspire learners, establish plan for blogging and content with Communications Team. Our blog has been created and new content is being added weekly, this will soon be ready to share.
 
 ### Phase 4 April to September 2015
 
