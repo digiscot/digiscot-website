@@ -57,6 +57,8 @@ Scottish Government
 
 - [Digital Participation: A National Framework for Local Action](http://www.gov.scot/Publications/2014/04/6821/downloads)
 
+- [Digital Inclusion Outcomes Framework](https://www.digitalskills.com/digital-inclusion-outcomes) 
+
 SCVO
 
 - [Digital participation in action](http://digital.scvo.org.uk/about/annual-report-2015/) 
