@@ -12,15 +12,16 @@ In this round of the Challenge Fund we will be distributing funds of up to £325
 The application process consists of one online form that must be fully complete before your application will be assessed.
 
 If sucessful, then you will also have some key obligations as part of the the Contract.
-<ul>
-	<li>Provide approved evidence of expenditure</li>
-	<li>Provide feedback on your project's progress</li>
-	<li>Get each individual you're supporting to complete a basic questionnaire on their digital skills</li>
-</ul>
-You can <a href="/files/Challenge Fund Contract.pdf">download a copy of the Contract</a> to ensure you can comply.
+  <ul>
+  	<li>Provide approved evidence of expenditure</li>
+  	<li>Provide feedback on your project's progress</li>
+  	<li>Get each individual you're supporting to complete a <a href="/files/BDS-assessment.pdf" target="_blank">questionnaire on their Basic Digital Skills</a></li>
+  </ul>
 
-###Timeline
- 
+You can also <a href="/files/Challenge Fund Contract.pdf" target="_blank">download a copy of the Contract</a> to ensure you can comply.
+
+##Timeline
+
 <table class="table table-bordered">
 <thead>
       <tr>
@@ -68,7 +69,7 @@ You can <a href="/files/Challenge Fund Contract.pdf">download a copy of the Cont
       </tbody>
 </table>
  
-###FAQ's
+##FAQ's
 
 ####When is the deadline?
 
