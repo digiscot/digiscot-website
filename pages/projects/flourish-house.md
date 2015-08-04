@@ -79,6 +79,12 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 
 ###August 2015
 - Deliver 2nd 7 week IT Skills Course 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">IT skills and online shopping course underway! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/f2Mq1RnCX7">pic.twitter.com/f2Mq1RnCX7</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/628571086091853825">August 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Online safety quiz from our IT skills and online shopping course <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/2pKgoTWJe8">pic.twitter.com/2pKgoTWJe8</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/628572121489383425">August 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ###September 2015
 - Deliver 2nd 4 week Internet Safety Course
