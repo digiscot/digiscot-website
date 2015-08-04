@@ -6,7 +6,7 @@ website: http://www.staybrightdigital.com/
 twitter-url: 
 email: martin@staybrightdigital.com
 image: /images/signatories/staybright.jpg
-permalink: /charter/aberlour/staybrightdigital.md/ 
+permalink: /charter/staybrightdigital/ 
 ---
 
 
