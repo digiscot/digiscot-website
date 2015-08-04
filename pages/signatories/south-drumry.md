@@ -5,7 +5,7 @@ excerpt:
 website: http://onslowroadhall.org.uk/
 twitter-url: 
 email: 
-image: /images/signatories/south-drumry.jpg
+image: /images/signatories/south-drumry.png
 permalink: /charter/south-drumry/
 ---
 
