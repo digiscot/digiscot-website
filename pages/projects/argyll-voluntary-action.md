@@ -25,9 +25,15 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 We will provide informal monthly drop-in Digital clubs at the 6 main settlements of Argyll & Bute. The clubs will support and advise people to use eg email accounts, social media, skype, webchat, web browsing safely. An online resource will replicate this to reach remote areas. We expect to provide learning opportunities as a gateway to developing skills, reduce isolation and help build social capital. People will have a support network and become more confident as a result.
 
 
-## Project milestones
+## Project updates
 
+Techy Clinics are in place in Helensburgh, with IT skills classes in Dunoon. All groups have been very successful with between 10 & 16 people in attendance each session. The clinics in Helensburgh are now being delivered weekly and being supported by sessional staff as well as young volunteers, many of whom are keen to pass on their skills and interact with older people. 
 
+In Campbeltown a smaller group of around 10 has been facilitated, and this has been coupled with one to one support, responding to demand and need, and to date we have engaged with 37 older people in that area. 
+
+Classes in Dunoon have proved extremely popular with local people, gaining skills for the first time and starting to connect with each other and with distant families through skype and social media. For some this has proved to be a lifeline, and the co-ordinator has noted how many sessions in all these areas have brought laughter alongside learning. 
+
+Plans to deliver across the Highland region are in place and include Dornoch, Fort William, Beauly, and Ullapool to give a mix of rural and centres of population. These will be longer drop-in sessions enabling a greater number of participants to engage and will be followed up with online and digital support. 
 
 ## Evaluation
 
