@@ -22,15 +22,15 @@ Creative digital resources and programs for both children and adults.
 
 [Digital Fife](http://learning.digitalfife.com/Index.asp?MainID=6356) 
 
-Easy to follow online courses
+Easy to follow online courses.
 
 [Digital Unite](http://digitalunite.com/guides) 
 
-Guides and courses to improve digital skills and confidence in using computers
+Guides and courses to improve digital skills and confidence in using computers.
 
 [Get Safe Online](https://www.getsafeonline.org/) 
 
-The internet is a wonderful resource but it's important to know how to make the most of it safely, Get Safe Online offers lots of practical advice
+The internet is a wonderful resource but it's important to know how to make the most of it safely. Get Safe Online offers lots of practical advice.
 
 
 
