@@ -18,5 +18,8 @@ We're excited to be a part of this digital world and we want everyone to get inv
 
 [Digital Unite](http://digitalunite.com/guides) - guides and courses to improve digital skills and confidence in using computers
 
+[Get Safe Online](https://www.getsafeonline.org/) - the internet is a wonderful resource but it's important to know how to make the most of it safely, Get Safe Online offers lots of practical advice
+
+
 
 
