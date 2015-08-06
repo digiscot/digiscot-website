@@ -41,6 +41,8 @@ Ofcom
 
 - [Adults' media use and attitudes report 2015](http://stakeholders.ofcom.org.uk/market-data-research/other/research-publications/adults/media-lit-10years/)
 
+- [Communications Market Report: Scotland](http://stakeholders.ofcom.org.uk/binaries/research/cmr/cmr15/2015_Scotland_CMR.pdf)
+
 Oxford Internet Surveys
 
 - [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf) 
