@@ -34,8 +34,11 @@ Since the start of the project 27 training sessions in digital skills have been 
 These sessions can be broken down into 4 different levels:
 
 Level 1 - aimed at those who have never used a computer before 
+
 Level 2 - own or have used a computer/device but need speciic advice such as how to set it up
+
 Level 3 - Basic Digital Skills training as per definition
+
 Level 4 - More advanced IT skills training often on particular software such as Excel or Photoshop
 
 There have been 4 sessions delivered at Level 1, 1 at Level 2, 19 at Level 3 and 3 at Level 4. Going forward the focus will be on Level 3 sessions as this is where most of the interest lies. Ongoing work will continue to be done at Level 1 as these sessions can develop an interest in using a computer and learning digital skills. 
