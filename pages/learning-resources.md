@@ -16,6 +16,10 @@ Created by [Tinder Foundation](http://www.tinderfoundation.org/), Learn My Way i
 
 Let's Get On is there to support people who are helping friends and family take that first step to getting online, as well as those who wish to develop their own online skills. The site also features a [directory](http://www.letsgeton.scot/learning-directory/) where you can search for centres offering classes in online and digital skills across Scotland.  
 
+[Living It Up](https://portal.livingitup.org.uk/connect)
+
+Connect from Living It Up provides useful tips and guides to help you connect with others online, and make the most of what the internet has to offer. 
+
 [BBC Make It Digital](http://www.bbc.co.uk/makeitdigital) 
 
 Creative digital resources and programs for both children and adults.
