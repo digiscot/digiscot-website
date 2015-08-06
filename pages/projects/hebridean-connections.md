@@ -35,7 +35,7 @@ These sessions can be broken down into 4 different levels:
 
 Level 1 - aimed at those who have never used a computer before 
 
-Level 2 - own or have used a computer/device but need speciic advice such as how to set it up
+Level 2 - own or have used a computer/device but need specific advice on things such as set up
 
 Level 3 - Basic Digital Skills training as per definition
 
