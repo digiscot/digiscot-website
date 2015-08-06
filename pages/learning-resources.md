@@ -14,7 +14,7 @@ Created by [Tinder Foundation](http://www.tinderfoundation.org/), Learn My Way i
 
 [Let's Get On](http://www.letsgeton.scot/)
 
-Let's Get On is there to support people who are helping friends and family take that first step to getting online, as well as those who wish to develop their own online skills. There is also a [directory](http://www.letsgeton.scot/learning-directory/) where you can search for centres offering classes in online and digital skills across Scotland.  
+Let's Get On is there to support people who are helping friends and family take that first step to getting online, as well as those who wish to develop their own online skills. The site also features a [directory](http://www.letsgeton.scot/learning-directory/) where you can search for centres offering classes in online and digital skills across Scotland.  
 
 [BBC Make It Digital](http://www.bbc.co.uk/makeitdigital) 
 
