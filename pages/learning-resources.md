@@ -10,7 +10,7 @@ We're excited to be a part of this digital world and we want everyone to get inv
 
 [Learn My Way](http://scotland.learnmyway.com/#) 
 
-Created by [Tinder Foundation](http://www.tinderfoundation.org/), Learn My Way is packed full of resources to help people learn to use a computer, mouse and navigate the internet for the first time. There is also loads of free support available to those who teaching others how to get online, as well as links to other resources.
+Created by [Tinder Foundation](http://www.tinderfoundation.org/), Learn My Way is packed full of resources to help people learn to use a computer, mouse and navigate the internet for the first time. There is also loads of free support available for those who are teaching others how to get online, as well as links to other resources.
 
 [Let's Get On](http://www.letsgeton.scot/)
 
