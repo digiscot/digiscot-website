@@ -5,7 +5,7 @@ excerpt: Resources and reports relating to digital participation in Scotland
 permalink: /about/library/
 ---
 
-SCVO's [Team Digital](http://digital.scvo.org.uk/about/team/) are passionate about digital participation, and we spend lots of our time reading about exciting digital inclusion activity across the country. This year we've even put together our own [report](http://digital.scvo.org.uk/about/annual-report-2015/)! As we come across so many excellent articles, reports and resources we want to share these with you, so check out the list below. (Oh and if anything isn't there which you think should be, please don't hesitate to [get in touch](digital@scvo.org.uk))
+SCVO's [Team Digital](http://digital.scvo.org.uk/about/team/) are passionate about digital participation, and we spend lots of our time reading about exciting digital inclusion activity across the country. This year we've even put together our own [report](http://digital.scvo.org.uk/about/annual-report-2015/)! As we come across so many excellent articles, reports and resources we want to share these with you, so check out the list below. (Oh and if anything isn't there which you think should be, please don't hesitate to get in touch via digital@scvo.org.uk)
 
 **Essential reading:** 
 
