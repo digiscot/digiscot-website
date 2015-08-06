@@ -2,7 +2,6 @@
 layout: page
 title: Digital Participation Library
 excerpt: Resources and reports relating to digital participation in Scotland
-alert: Page in progress! If you have any suggestions as to reports and publications you would like added to this list please get in touch.
 permalink: /about/library/
 ---
 
