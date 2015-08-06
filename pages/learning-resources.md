@@ -6,7 +6,7 @@ alert: Page in progress! Please get in touch with us if there are any resources 
 permalink: /about/learning-resources/
 ---
 
-We're excited to be a part of this digital world and we want everyone to get involved. If you would like to brush up on your digital skills, or need support to help others to, then check out this list of fantastic free resources to help get people online. 
+We're excited to be a part of this digital world and we want everyone to get involved. If you would like to brush up on your digital skills, or need support to help others to, then check out this list of fantastic free learning resources.
 
 [Learn My Way](http://scotland.learnmyway.com/#) - created by [Tinder Foundation](http://www.tinderfoundation.org/), Learn My Way is packed full of resources to help people learn to use a computer, mouse and navigate the internet for the first time. There is also loads of free support available to those who teaching others how to get online, as well as links to other resources.
 
