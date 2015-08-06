@@ -78,13 +78,19 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###August 2015
-- Deliver 2nd 7 week IT Skills Course 
+- Deliver 2nd 7 week IT Skills Course and begin to partner with Glasgow Kelvin College in delivering a 12 week course on IT skills on one of their campuses. 
+- 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">IT skills and online shopping course underway! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/f2Mq1RnCX7">pic.twitter.com/f2Mq1RnCX7</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/628571086091853825">August 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Online safety quiz from our IT skills and online shopping course <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/2pKgoTWJe8">pic.twitter.com/2pKgoTWJe8</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/628572121489383425">August 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">James, one of our talented peer mentors, teaching EBay skills to Jean. <a href="https://twitter.com/hashtag/scvotweets?src=hash">#scvotweets</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/05Cx7EWh66">pic.twitter.com/05Cx7EWh66</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/629279473658163200">August 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Excited about a new 12 week IT course we&#39;ll be doing with <a href="https://twitter.com/GKCollege">@GKcollege</a> starting soon <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> inclusion <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/3pqjg3m2yS">pic.twitter.com/3pqjg3m2yS</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/629286667547901952">August 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###September 2015
 - Deliver 2nd 4 week Internet Safety Course
