@@ -28,6 +28,10 @@ Easy to follow online courses.
 
 Guides and courses to improve digital skills and confidence in using computers.
 
+[Get IT together](http://www.bt.com/includingyou/getting-online.html)
+
+Tailor made guides from BT for helpers and beginners.
+
 [Get Safe Online](https://www.getsafeonline.org/) 
 
 The internet is a wonderful resource but it's important to know how to make the most of it safely. Get Safe Online offers lots of practical advice.
