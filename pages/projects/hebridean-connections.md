@@ -32,8 +32,9 @@ August 2015
 Since the start of the project 27 training sessions in digital skills have been delivered to a total of 74 people. These 74 are people who have not engaged with Hebridean Connections before. Of these sessions 10 were delivered in Uist & Barra reaching 30 people, and 17 in Uist & Harris reaching 44 people.
 
 These sessions can be broken down into 4 different levels:
+
 Level 1 - aimed at those who have never used a computer before 
-Level 2 - have or have used a computer/device but need speciic advice such as how to set it up
+Level 2 - own or have used a computer/device but need speciic advice such as how to set it up
 Level 3 - Basic Digital Skills training as per definition
 Level 4 - More advanced IT skills training often on particular software such as Excel or Photoshop
 
