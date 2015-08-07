@@ -26,10 +26,11 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 Growing our community resources via a website and the digitalisation of our historical archives; In doing so, we will develop digital skills and promote our community locally and to a broad global network. We will:- - Use digitisation as a method for actively engaging community members in developing digital skills through the production of a heritage website and digital archives. - Develop the necessary skill base within the community to maintain and sustain a lasting digital resource. - Use skill exchange and training between community members to engage the community with the archive and share skills. - Use the process as a learning experience which promotes the participation of members and the wider community. - Increase our audiences steadily and set ambitious targets for future growth. - Increase audience engagement with the resources and programmes online
 
 
-## Project milestones
+## Project Updates
+
 Project underway with the purchase of our new website: colonsaycaptured.com
 
-With distance support, via email and skype, from Gemma Webster from Aberdeen University we have been reviewing our heritage materials in order to establish our priorities for inclusion on our website. The website itself is currently being customised, after time spent reviewing the Hebridean Connections website on which ours is modelled, to meet the needs we have identified.n Once this is completed we will be in a position to begin our training on how to populate the website, using the format developed for us in consultation with Gemma.
+With distance support, via email and skype, from Gemma Webster from Aberdeen University we have been reviewing our heritage materials in order to establish our priorities for inclusion on our website. The website itself is currently being customised, after time spent reviewing the Hebridean Connections website on which ours is modelled, to meet the needs we have identified. Once this is completed we will be in a position to begin our training on how to populate the website, using the format developed for us in consultation with Gemma.
 
 
 
