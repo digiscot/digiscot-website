@@ -7,7 +7,7 @@ permalink: /about/library/
 
 We're passionate about digital participation, and we spend lots of our time reading about exciting digital inclusion activity across the country. This year we've even put together our own [report](http://digital.scvo.org.uk/about/annual-report-2015/)! As we come across so many excellent articles, reports and resources we want to share these with you, so check out the list below. (Oh and if anything isn't there which you think should be, please don't hesitate to [get in touch](/contact/)).
 
-### Essential reading
+## Essential reading
 
 #### BBC
 
@@ -18,7 +18,7 @@ We're passionate about digital participation, and we spend lots of our time read
 
 * [Valuing Digital Inclusion](http://www.btplc.com/Betterfuture/ConnectedSociety/Creatingpossibilities/Valueofdigitalinclusion/Valuing-Digital-Inclusion.pdf)
 
-### Carnegie UK Trust
+#### Carnegie UK Trust
 
 * [Across the Divide](http://www.carnegieuktrust.org.uk/publications/2013/across-the-divide---full-report)
 * [Digital Participation in Dumfries and Kirkcaldy](http://www.carnegieuktrust.org.uk/publications/2015/digital-participation-in-dumfries-and-kirkcaldy)
@@ -71,18 +71,8 @@ We're passionate about digital participation, and we spend lots of our time read
 * [Digitally Agile National Principles](http://www.digitallyagilecld.org/) 
 * [Digitally Agile Community Learning and Development 2012 report](http://media.wix.com/ugd/c5ab51_8080bedb43954cb19ae0a6a357297ed2.pdf)
 
-### Just for fun
+## Just for fun
 
 * [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/) 
 * [Community How To: Doing more with digital](http://www.communityhowto.com/)
 * [Scotland's Digital Future blog](http://blogs.scotland.gov.uk/digital/)
-
-
- 
-
-
-
-
-
-
-
