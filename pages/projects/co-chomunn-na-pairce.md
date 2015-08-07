@@ -31,13 +31,13 @@ Building on our role as a community hub we will offer drop-in training sessions.
 
 Pre-training participant research.
 
-August
+**August**
 
 Deliver training and recieving and recording feedback from participants.
 
 Mid-way review. 
 
-December
+**December**
 
 Training completed, overall feedback will be reviewed. Information on any additional training needs will be compiled with a view to linking participants to other services, to help them continue their training if desired.
 
