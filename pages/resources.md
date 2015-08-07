@@ -72,6 +72,42 @@ We've partnered with [Storm ID](/charter/storm-id/) to offer a special discount 
 
 ## Useful links
 
-There are lots of websites that charities and community groups will find useful. Here are a few of our favourites.
+We’re excited to be a part of this digital world and we want everyone to get involved. If you would like to brush up on your digital skills, or need support to help others to, then here are a few of our favourite free learning resources:
 
-<a href="" class="btn btn-primary btn-lg disabled">Coming soon</a>
+BBC Make it Digital
+
+Creative digital resources and programs for both children and adults.
+
+Digital Fife
+
+Easy to follow online courses.
+
+Digital Unite
+
+Guides and courses to improve digital skills and confidence in using computers.
+
+Get IT together
+
+Tailor made guides from BT for helpers and beginners.
+
+Get Safe Online
+
+The internet is a wonderful resource but it’s important to know how to make the most of it safely. Get Safe Online offers lots of practical advice.
+
+Learn My Way
+
+Created by Tinder Foundation, Learn My Way is packed full of resources to help people learn to use a computer, mouse and navigate the internet for the first time. There is also loads of free support available for those who are teaching others how to get online, as well as links to other resources.
+
+Let’s Get On
+
+Let’s Get On is there to support people who are helping friends and family take that first step to getting online, as well as those who wish to develop their own online skills. The site also features a directory where you can search for centres offering classes in online and digital skills across Scotland.
+
+Living It Up
+
+Connect from Living It Up provides useful tips and guides to help you connect with others online, and make the most of what the internet has to offer.
+
+
+
+
+
+
