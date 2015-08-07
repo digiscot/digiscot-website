@@ -23,7 +23,7 @@ We're passionate about digital participation, and we spend lots of our time read
 * [Across the Divide](http://www.carnegieuktrust.org.uk/publications/2013/across-the-divide---full-report)
 * [Digital Participation in Dumfries and Kirkcaldy](http://www.carnegieuktrust.org.uk/publications/2015/digital-participation-in-dumfries-and-kirkcaldy)
 
-####Deloittes
+#### Deloitte
 
 * [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
 
@@ -31,7 +31,7 @@ We're passionate about digital participation, and we spend lots of our time read
 
 * [UK Business Digital Index](http://resources.lloydsbank.com/insight/uk-business-digital-index/)
 
-#### McKinsey&Company
+#### McKinsey & Company
 
 * [Offline and falling behind: Barriers to Internet adoption](http://www.go-on.co.uk/wp-content/uploads/2014/10/McKinsey-Company-Offline-and-falling-behind-Barriers-to-Internet-adoption-article.pdf) 
 
