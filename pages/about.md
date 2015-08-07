@@ -18,7 +18,8 @@ Our first annual report sets out the scale of the digital participation challeng
 ### [Basic Digital Skills](/about/basic-digital-skills/)
 A short overview of the skills that people and organisations need to get things done online.
 
-For reading around digital participation across the UK please see our [library](http://digital.scvo.org.uk/about/library/)
+
+For further reading around digital participation in the UK please see our [library](http://digital.scvo.org.uk/about/library/)
 
 
 ## Our blog
