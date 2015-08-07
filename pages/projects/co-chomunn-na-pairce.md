@@ -27,7 +27,7 @@ Building on our role as a community hub we will offer drop-in training sessions.
 
 ## Project milestones
 
-May
+**May**
 
 Pre-training participant research.
 
