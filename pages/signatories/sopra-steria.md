@@ -13,6 +13,8 @@ Sopra Steria signed the Digital Participation Charter to pledge our support to a
 
 Find about more about Sopra Steria – European leader in digital transformation at  www.soprasteria.co.uk
 
-Twitter - https://twitter.com/soprasteria_uk
-LinkedIn - https://www.linkedin.com/company/soprasteria
-Facebook - https://www.facebook.com/soprasteria
+Twitter - [https://twitter.com/soprasteria_uk](https://twitter.com/soprasteria_uk)
+
+LinkedIn - [https://www.linkedin.com/company/soprasteria](https://www.linkedin.com/company/soprasteria)
+
+Facebook - [https://www.facebook.com/soprasteria](https://www.facebook.com/soprasteria)
