@@ -46,6 +46,13 @@ Nice to see everyone again.  A few newcomers and some others off on their holida
 Participants are bringing a mix of equipment - laptops and tablets.  
 We have helped with a variety of technical queries and are looking into some free online learning courses for some.
 
+Week 6 - Reasons for the sessions success
+One of the participants wanted some help finding out about a family event back in 1910; I made a few suggestions for sources of information and immediately she very confidently open her search engine and starting typing. I commented on her speed and she told me that because of the classes she is no longer apprehensive about using her computer and is therefore using it lots more. 
+
+Amongst the group we have a couple who are going through change as the husband has just been diagnosed with Dementia. In the first few weeks they didn't know how to use the tablet they had been given. Last week we helped them find their Diamond wedding photos, taken on the tablet but lost to them. They were thrilled to see them again. They are over 80 and don't always keep in good health but the class is a reason for them to come to Tain and socialise.
+
+Similar to the above, a lady from out of town with a sick husband, looks forward every week to her opportunity to get out and learn something new. Unfortunately one week she couldn't come because of the doctor's house call. On his way out the doctor  reminded her to have time for herself, she retorted with "you could help by not visiting on a Wednesday morning as I should be at my computer class now, it's the highlight of my week!" We are helping her learn Excel.
+
 
 ## Evaluation
 
