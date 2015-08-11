@@ -22,7 +22,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-We will provide informal monthly drop-in Digital clubs at the 6 main settlements of Argyll & Bute. The clubs will support and advise people to use email accounts, social media, skype, webchat, web browsing safely. An online resource will replicate this to reach remote areas. We expect to provide learning opportunities as a gateway to developing skills, reduce isolation and help build social capital. People will have a support network and become more confident as a result.
+We will provide informal monthly drop-in Digital clubs at the 6 main settlements of Argyll & Bute. The clubs will support and advise people to use email accounts, social media, Skype, webchat, and to browse the safely. An online resource will replicate this to reach remote areas. We expect to provide learning opportunities as a gateway to developing skills, reduce isolation and help build social capital. People will have a support network and become more confident as a result.
 
 
 ## Project updates
