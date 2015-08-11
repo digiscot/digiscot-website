@@ -50,13 +50,16 @@ Attendees take City & Guilds exam.
 
 Starting on 21st January 2015, Link initiated a 13 week course which covered financial capability, employability, computer skills and getting online.  This was delivered on behalf of Link by Be Inspired Consultancy Ltd. and part funded by the SCVO Challenge Fund.
 
-Areas covered by the traning were;
+Areas covered by the training were:
+
 Financial Capability
+
 •	Bank Account, or Credit Union Account
 •	Comparing prices, APR explanation, managing energy bills
 •	Paying bills online 
 
 Digital Inclusion
+
 •	Basic skills needed to use a computer, access for work, benefits & budgeting
 •	An email account generated where necessary
 •	Training materials to review and practice following each session
@@ -67,6 +70,7 @@ Digital Inclusion
 •	Gain qualification (City & Guilds ICT Online Basics)
 
 Employability
+
 •	Interviewing techniques and role play
 •	Covering letter for CV
 •	A CV generated and uploaded to universal job matching site
@@ -78,7 +82,7 @@ For those who completed the course and attained the qualification an award cerem
 
 Over 80% of those applying for the C&G course have been identified as tenants with no previous contact with Link advice services.  This provides an opportunity to develop a relationship, engaging with these individuals and, in addition to existing needs, give further assistance in the main areas covered by the C&G course; digital inclusion, employability, and financial capability.
 
-Of tenants who have applied 70% are of working age and 30% over the age of 65 giving a good coverage of ages from 25 upwards.  Gender of those applying is split 50%-50%.  For those who responded 3% have a disability, 34% were unemployed, 3% working part time, and 39% retired.  24% are unfit for work and in receipt of appropriate benefits.  
+Of tenants who have applied 70% are of working age and 30% over the age of 65 giving a good coverage of ages from 25 upwards. Gender of those applying is split 50%-50%.  For those who responded 3% have a disability, 34% were unemployed, 3% working part time, and 39% retired.  24% are unfit for work and in receipt of appropriate benefits.  
 
 The areas identified where this training scheme covered includes neighbourhoods scoring between 0%-5% and 15%-20% on the Scottish Index of Multiple Deprivation.  Link has housing stock in these low scoring areas and therefore direct information on tenants who would benefit from a training scheme which would provide both a qualification and a device.
 
