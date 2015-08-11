@@ -29,9 +29,9 @@ We will provide informal monthly drop-in Digital clubs at the 6 main settlements
 
 **August 2015:**
 
-Techy Clinics are in place in Helensburgh, with IT skills classes in Dunoon. All groups have been very successful with between 10 & 16 people in attendance each session. The clinics in Helensburgh are now being delivered weekly and being supported by sessional staff as well as young volunteers, many of whom are keen to pass on their skills and interact with older people. 
+Techy Clinics are in place in Helensburgh, with IT skills classes in Dunoon. All groups have been very successful with between **10 & 16** people in attendance **each session**. The clinics in Helensburgh are now being delivered weekly and being supported by sessional staff as well as young volunteers, many of whom are keen to pass on their skills and interact with older people. 
 
-In Campbeltown a smaller group of around 10 has been facilitated, and this has been coupled with one to one support, responding to demand and need, and to date we have engaged with 37 older people in that area. 
+In Campbeltown a smaller group of around 10 has been facilitated, and this has been coupled with one to one support, responding to demand and need, and to date we have engaged with **37** older people in that area. 
 
 Classes in Dunoon have proved extremely popular with local people, gaining skills for the first time and starting to connect with each other and with distant families through skype and social media. For some this has proved to be a lifeline, and the co-ordinator has noted how many sessions in all these areas have brought laughter alongside learning. 
 
