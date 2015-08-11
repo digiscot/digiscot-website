@@ -72,8 +72,9 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 - Develop and deliver EBay Training Module and support (delivered in July/August and repeated in January 2016)
  - Develop and deliver 4 week Internet Safety Course (deliver in July and again in September)
  
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now on our second eBay training course with Anna and James, keep up the good work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/5Ywdlw30M3">pic.twitter.com/5Ywdlw30M3</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/613644915692707840">June 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquoteclass="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now on our second eBay training course with Anna and James, keep up the good work <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/5Ywdlw30M3">pic.twitter.com/5Ywdlw30M3</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/613644915692707840">June 24, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/scvotweet">@scvotweet</a> Another great IT skills course - this time looking at Internet Research <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/research?src=hash">#research</a> <a href="https://twitter.com/hashtag/community?src=hash">#community</a> <a href="http://t.co/kAtg1anxK2">pic.twitter.com/kAtg1anxK2</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/618411957855649793">July 7, 2015</a></blockquote>
