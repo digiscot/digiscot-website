@@ -52,13 +52,15 @@ Starting on 21st January 2015, Link initiated a 13 week course which covered fin
 
 Areas covered by the training were:
 
-Financial Capability
+**Financial Capability**
 
 •	Bank Account, or Credit Union Account
+
 •	Comparing prices, APR explanation, managing energy bills
+
 •	Paying bills online 
 
-Digital Inclusion
+**Digital Inclusion**
 
 •	Basic skills needed to use a computer, access for work, benefits & budgeting
 •	An email account generated where necessary
@@ -69,7 +71,7 @@ Digital Inclusion
 •	Access to low cost computing
 •	Gain qualification (City & Guilds ICT Online Basics)
 
-Employability
+**Employability**
 
 •	Interviewing techniques and role play
 •	Covering letter for CV
