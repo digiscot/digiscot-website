@@ -110,25 +110,28 @@ Qualification – the successful attainment of a City & Guilds ICT Online Basics
 78% report an improvement in their online skills
 33% say their overall wellbeing has improved
 
-There were several lessons learned from the running of this course which will assist Link in the development and design of future courses .
+There were several lessons learned from the running of this course which will assist Link in the development and design of future courses:
 
-End point
+**End point**
 
 There is improved interest from tenants during the recruitment process when there is an end product which has value.  In this case there were two products which were of value; a laptop and a qualification.  In future, where possible and practicable, a qualification should be the end-point of the course.  This provides a meaningful termination to the course giving the tenant a mark from where they can measure their skills, abilities and achievements.
 
-Length of course
+**Length of course**
 
 This course was 13 weeks in length.  Those who completed the course made a considerable commitment in undertaking a course of such a length.  Even with the attraction of taking possession of a laptop and gaining a recognised qualification, 18 tenants cancelled or disengaged.  A shorter course length would increase the possibility of tenants completing the course.
 
-Course structure
+**Course structure**
+
 Initially it was felt important that there should be no barriers to any tenants who wished to take part in the course.  As a result, there were a wide range of ages and abilities of tenants starting the course.  It has become clear that the different age ranges and different circumstances of the tenants meant that they had different goals in mind; for some it was to assist in looking for work, for others it was to assist in saving money and online shopping.  The course range was very broad, covering financial, social, and employability skills.  This could be considered to be too wide a scope for a single course, attempting to be a single course to suit all.
 The design of future courses should have a narrower scope, concentrating on particular groups; unemployed, retired, absolute beginners etc.
 
-Evidence of need
+**Evidence of need**
+
 There was considerable interest in both North Lanarkshire and West Lothian during the recruitment process.  This included the two partner organisations, Almond Housing and Barony Housing, both of whom had reserve lists which indicated that this type of course generated interest within their client groups.
 There is evidence that computer courses which have the attraction of an end product of worth, generate significant interest in areas which are targeted.  As a result of the interest indicating a clear evidence of need Link has funded a further City & Guilds Course in North Lanarkshire.
 
-Summary
+**Summary**
+
 The lessons learned in the running of this course have been invaluable and should be applied in the design of future courses including;
 •	An easy recruitment process
 •	A reasonable course length
