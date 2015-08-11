@@ -63,20 +63,31 @@ Areas covered by the training were:
 **Digital Inclusion**
 
 •	Basic skills needed to use a computer, access for work, benefits & budgeting
+
 •	An email account generated where necessary
+
 •	Training materials to review and practice following each session
+
 •	Online shopping
+
 •	Skype Account 
+
 •	Identify Digital Champions
+
 •	Access to low cost computing
+
 •	Gain qualification (City & Guilds ICT Online Basics)
 
 **Employability**
 
 •	Interviewing techniques and role play
+
 •	Covering letter for CV
+
 •	A CV generated and uploaded to universal job matching site
+
 •	Advice on setting up a business
+
 
 At the conclusion of the 13 weeks those tenants who had completed the course took possession of the laptop on which they trained and had the option of taking the City & Guilds ICT Basic Online (level3) exam.  Because there was an option of this qualification at the end of the course, we chose to call the full 13 weeks the “City & Guilds Course”, although this qualification was only part of the full course.
 
