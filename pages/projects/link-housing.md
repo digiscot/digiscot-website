@@ -113,9 +113,11 @@ Qualification – the successful attainment of a City & Guilds ICT Online Basics
 There were several lessons learned from the running of this course which will assist Link in the development and design of future courses .
 
 End point
+
 There is improved interest from tenants during the recruitment process when there is an end product which has value.  In this case there were two products which were of value; a laptop and a qualification.  In future, where possible and practicable, a qualification should be the end-point of the course.  This provides a meaningful termination to the course giving the tenant a mark from where they can measure their skills, abilities and achievements.
 
 Length of course
+
 This course was 13 weeks in length.  Those who completed the course made a considerable commitment in undertaking a course of such a length.  Even with the attraction of taking possession of a laptop and gaining a recognised qualification, 18 tenants cancelled or disengaged.  A shorter course length would increase the possibility of tenants completing the course.
 
 Course structure
