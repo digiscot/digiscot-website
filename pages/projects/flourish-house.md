@@ -95,8 +95,14 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Excited about a new 12 week IT course we&#39;ll be doing with <a href="https://twitter.com/GKCollege">@GKcollege</a> starting soon <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> inclusion <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="http://t.co/3pqjg3m2yS">pic.twitter.com/3pqjg3m2yS</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/629286667547901952">August 6, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hot off the Press! The latest edition of the Flourish Times is now available for download <a href="http://t.co/PnCnufxmFP">http://t.co/PnCnufxmFP</a> <a href="https://twitter.com/hashtag/newsletter?src=hash">#newsletter</a> <a href="https://twitter.com/hashtag/mentalhealth?src=hash">#mentalhealth</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/631100461513330688">August 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our IT course successfully did our online tesco shop, well done! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitscot?src=hash">#digitscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/nClzlYbaJE">pic.twitter.com/nClzlYbaJE</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/631117930927902720">August 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###September 2015
-- Deliver 2nd 4 week Internet Safety Course
+- Deliver 2nd 3 week Smart Phone Course and begin partner IT Skills Course with Glasgow Kelvin College
 
 ###November 2015
 - Recruit more peer mentors and volunteers from past participants of courses
