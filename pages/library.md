@@ -23,6 +23,10 @@ We're passionate about digital participation, and we spend lots of our time read
 * [Across the Divide](http://www.carnegieuktrust.org.uk/publications/2013/across-the-divide---full-report)
 * [Digital Participation in Dumfries and Kirkcaldy](http://www.carnegieuktrust.org.uk/publications/2015/digital-participation-in-dumfries-and-kirkcaldy)
 
+#### Citizens Advice Scotland
+
+* [Internet access in Glasgow's deprived areas](http://www.cas.org.uk/system/files/publications/internet_access_in_glasgow_2015_final_-_aug_15.pdf) 
+
 #### Deloitte
 
 * [The Ascent of Digital](http://www2.deloitte.com/uk/en/pages/public-sector/articles/the-ascent-of-digital.html)
