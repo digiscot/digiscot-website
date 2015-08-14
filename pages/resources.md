@@ -78,8 +78,6 @@ We’re excited to be a part of this digital world and we want everyone to get i
 
 Creative digital resources and programs for both children and adults.
 
-[Citizens Advice Scotland: Internet access in Glasgow's deprived areas](http://www.cas.org.uk/system/files/publications/internet_access_in_glasgow_2015_final_-_aug_15.pdf) 
-
 [Digital Fife](http://www.digitalfife.com/)
 
 Easy to follow online courses and resources. 
