@@ -39,8 +39,8 @@ Deliver 20 Take a Tablet courses, 10 using iPads and 10 using Android devices, a
 
 We started our first android tablet classes in Castle Douglas on Tuesday 7th July at the IT Centre. The classes ran for four weeks until Tuesday 28th July from 10.00am – 12 noon.   All five people who attended enjoyed trying out their new tablets and learning the basics first which then allowed them to move onto surfing the net, emailing, shopping online and learning how to contact friends and family on Skype.
 
-<img src="http://a.disquscdn.com/uploads/mediaupload/tmp/52bb8a4ecea33b4dec9ba653f19b18ae43cacfa8a7f0bae33f710bda/original.jpg?w=128&h=128"
-alt="Class 1" width="150">
+<img src="http://new.theitcentre.org.uk/uploads/images/July%20-%20august%20Hudl/IMG_0080.JPG"
+alt="Class 1" width="450">
 
 Session 1 – We went over all the buttons and controls of the Hudl 2 tablets as well as showed them how to use the stand. We then set each of the members up with a Google account and password which provided them each with an email Address for Google mail. We showed each of them the basic controls and gestures which could use with a Hudl 2 so once they took them home they could get the best out of them. Finally we explained how to connect to Wi-Fi in other locations and at  local hotspots so they could try it out without being here. 
 
@@ -52,8 +52,7 @@ Session 4 – On the final week, we did a back-up of each Hudl so if the client 
 The final thing we did was go over how they could compare broadband prices and explained how they would go about buying it. We then said if they bought their own Hudl, we would happily set it up for them for free. 
 Two out of the five have now purchased android devices which we have helped to set up.
 
-<img src="http://a.disquscdn.com/uploads/mediaupload/tmp/2aad7844aa050bb1ebc5c7a149c30e3a37864e4e1f45fdcbdd77a582/original.jpg?w=128&h=128"
-alt="Presentation" width="150">
+<img src="http://new.theitcentre.org.uk/uploads/images/July%20-%20august%20Hudl/IMG_0085.JPG" alt="Presentation2" width="450">
 
 Our second batch of classes using iPads also started on Tuesday 7th July at The IT Centre in Castle Douglas and ran from 1.30 – 3.30, for four weeks until Tuesday 28th July.  We had four participants for the afternoon classes who all enjoyed trying out their new devices.  Participants were shown the basics and then moved on to a variety of different things which included searching the internet for the news and weather, emailing friends and family and talking to them on Skype.  Some participants were interested in finding out about catch up tv, listening to music and playing solitaire.
 
