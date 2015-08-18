@@ -68,7 +68,11 @@ We've partnered with [Storm ID](/charter/storm-id/) to offer a special discount 
 
 <a href="/twibbon/" class="btn btn-primary btn-lg">Get started</a>
 
+## Digital Outreach
 
+[Digital Outreach activities](https://www.ruralnetwork.scot/digital-outreach-activities-scotsectorlink) from [ScotSectorlink](http://www.scotsectorlink.org.uk/).  
+
+Activities for young people moving into adulthood and society, to support movement into paid employment and to reduce vulnerability by enabling self-management. 
 
 ## Useful links
 
