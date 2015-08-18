@@ -70,7 +70,9 @@ We've partnered with [Storm ID](/charter/storm-id/) to offer a special discount 
 
 ## Digital Outreach
 
-[Digital Outreach activities](https://www.ruralnetwork.scot/digital-outreach-activities-scotsectorlink) from [ScotSectorlink](http://www.scotsectorlink.org.uk/). These activities have been designed for young people moving into adulthood and society, to support movement into paid employment and to reduce vulnerability by enabling self-management. 
+**[Digital Outreach activities](https://www.ruralnetwork.scot/digital-outreach-activities-scotsectorlink) from [ScotSectorlink](http://www.scotsectorlink.org.uk/).**
+
+These activities have been designed for young people moving into adulthood and society, to support movement into paid employment and to reduce vulnerability by enabling self-management. 
 
 ScotSectorlink is a cross-discipline initiative for empowering economies, urban and rural. ScotSectorlink is based in Nairn and can be contacted via email at enquiry@scotsectorlink.org.uk. 
 
