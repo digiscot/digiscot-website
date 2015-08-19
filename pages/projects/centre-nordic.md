@@ -96,7 +96,7 @@ Lesson learned: Pat was wary of the technology at first. She usually gets her fa
 
 Lesson learned: Advertising widely does not necessarily encourage large numbers to turn up. However, if the right person does turn up then the project can be taken directly into the outlying communities. Finding the right vector is important.
 postcode: 
-image of a couple of the participants at the workshop trying the Hudls can be seen [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/Kathy%20Coull%20and%20Marc/1433601846682.jpg) 
+image of a couple of the participants at the workshop trying the Hudls can be seen   [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/hIJ8LD81xYwEREhg/Kathy%20Coull%20and%20Marc/1433601846682.jpg) 
 
 16th June:
 Andrew Jennings visited the island of Whalsay to meet older people learning about genealogy at the Learning Centre in Symbister House, the local school. The meeting was organised by the local tutor. The participants were keen to practice with the Hudls and to go outside and take photographs. Whalsay has a very active local history association and the chair was present. She was very excited about the prospect of collecting stories about her island. She usually gets her grandson to set up her phone and computer and so was a little tentative at first, but quickly got the hang of the software and had it downloaded on to her phone. She is going to practice with the software and tell other people in the history association. Andrew will return to Whalsay soon to show them how to use the equipment. 
@@ -127,7 +127,7 @@ Andrew's trip to The Skerries had to be postponed until later in August as the w
 
 Lesson learned: Frances was very keen to learn how to use the equipment and to encourage others. However, despite her best efforts, most people she contacted were too busy doing other things. To counteract this she decided to borrow the Hudl and show it round the island. 
 
-Image of Frances at the Fetlar Heritage Centre trying the Hudl[here](https://www.facebook.com/photo.php?fbid=10156252906960131&set=a.10152398278230131.953204.829870130&type=1&theater) 
+Image of Frances at the Fetlar Heritage Centre trying the Hudl [here](https://www.facebook.com/photo.php?fbid=10156252906960131&set=a.10152398278230131.953204.829870130&type=1&theater) 
 Image of Jeemsie Laurenson's Ditty Box [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/YgvzFbsRVmwoBWjc/box%20from%20G)
 
 ## Evaluation
