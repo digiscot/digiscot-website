@@ -122,7 +122,13 @@ Ragnhild Ljosland went out to Dyke End on Scapa Bay to visit Johnnie Meil (age: 
 9/7/15
 Ragnhild spent a lovely evening in Firth with Neil Leask who shared some good stories. I have now at last figured out how to get around the problem that the GPS times out before getting a position.   
 
+16/7/15 
+Andrew's trip to The Skerries had to be postponed until later in August as the weather made a flight impossible. That is one of the problems with involving Scotland's most isolated islands in a project of this type. Sometimes nature is against you! However, in July a different isolated island was reached, the beautiful, little inhabited island of Fetlar. Andrew Jennings visited the island by ferry and spent the day at the Heritage Centre with Frances who was very keen to learn how to use the equipment and to encourage others on the island to use it. She practised taking pictures of the unusual items in the heritage centre, like Jeemsie Laurenson's ditty box. Frances had told many islanders about Andrew's arrival. However, despite being keen to find out more, only a couple of people turned up. Frances decided to borrow one of the Hudls and show it to the community after Andrew had left. She also wanted to put it into practice by interviewing one of the oldest islanders and recording some of her stories
 
+Lesson learned: Frances was very keen to learn how to use the equipment and to encourage others. However, despite her best efforts, most people she contacted were too busy doing other things. To counteract this she decided to borrow the Hudl and show it round the island. 
+
+Image of Frances at the Fetlar Heritage Centre trying the Hudl[here](https://www.facebook.com/photo.php?fbid=10156252906960131&set=a.10152398278230131.953204.829870130&type=1&theater) 
+Image of Jeemsie Laurenson's Ditty Box [here](http://fieldtripgb.edina.ac.uk/1.3/pcapi/records/dropbox/YgvzFbsRVmwoBWjc/box%20from%20G)
 
 ## Evaluation
 
