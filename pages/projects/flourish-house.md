@@ -110,6 +110,9 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our peer mentor Mark working with Elizabeth on word docs and formatting <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/HSHXrF5su9">pic.twitter.com/HSHXrF5su9</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/634287767867011072">August 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brian, the twitter king! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/XmtyXbjlON">pic.twitter.com/XmtyXbjlON</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/633604805563428864">August 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###September 2015
 - Deliver 2nd 3 week Smart Phone Course and begin partner IT Skills Course with Glasgow Kelvin College
 
