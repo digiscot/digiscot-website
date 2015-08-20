@@ -101,6 +101,16 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our IT course successfully did our online tesco shop, well done! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitscot?src=hash">#digitscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/nClzlYbaJE">pic.twitter.com/nClzlYbaJE</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/631117930927902720">August 11, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">A nice photo of James working on eBay 😐 <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitscot?src=hash">#digitscot</a> <a href="http://t.co/ZfcP0AWzx4">pic.twitter.com/ZfcP0AWzx4</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/633599587639558144">August 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our ebay team is working very hard <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/QWP1TAPMmH">pic.twitter.com/QWP1TAPMmH</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/633603851459919872">August 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The above tweets were done by Brian (seen below). This was the first time Brian had ever used twitter or edited a photos in his life. 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brian, the twitter king! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/XmtyXbjlON">pic.twitter.com/XmtyXbjlON</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/633604805563428864">August 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###September 2015
 - Deliver 2nd 3 week Smart Phone Course and begin partner IT Skills Course with Glasgow Kelvin College
 
