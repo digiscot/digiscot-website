@@ -2,7 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Getting Digital
-excerpt: Project description coming soon.
+excerpt: Supporting older disabled people to learn relevant digital skills within a community housing environment.
 lead: Lead Scotland
 website: http://www.lead.org.uk/
 email: enquiries@lead.org.uk
@@ -18,7 +18,7 @@ permalink: /projects/lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
-This project will be starting in August so updates will follow accordingly 
+This project started in late August - take a look at LEAD Scotland's <a href="http://www.getconnectedandlead.org.uk/show.php?contentid=179">project page.</a>
 
 ## Project plan
 
