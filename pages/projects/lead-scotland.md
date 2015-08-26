@@ -18,7 +18,7 @@ permalink: /projects/lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
-This project started in late August - take a look at LEAD Scotland's <a href="http://www.getconnectedandlead.org.uk/show.php?contentid=179">project page.</a>
+This project started in late August - take a look at LEAD Scotland's <a href="http://www.getconnectedandlead.org.uk/show.php?contentid=179">project page</a>.
 
 ## Project plan
 
