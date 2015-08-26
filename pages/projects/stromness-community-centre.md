@@ -24,8 +24,15 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 The Youth Achievement and Dynamic Youth Awards group will provide 2 x 10 sessions (20) of beginner internet training and light touch support for older people in their area. They will provide equipment for learners to use. The sessions will be held both in the local community centre and by visiting older peoples homes. 
 
+The Bridging the Gap project is being led by Gemma Gunn and Janette Mackie.
 
 ## Project milestones
+ 
+So far the group have had 8 training sessions on learning how to use/teach others to use ipads etc.
+
+We had our 1st outreach session at St Peters (residential home) on Tues 11th August. 
+
+We have 3 more planning/preparation sessions, starting 20 August, before we start the sessions open to the public in the Community Centre. 
 
 
 
