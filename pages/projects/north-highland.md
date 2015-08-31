@@ -67,8 +67,8 @@ I have gained more confidence in the use of my laptop.  The instructors have bee
 
 Here are some videos of our learners experiences 
 
-Learner Feedback 1[https://youtu.be/G_JKjO1bKyc]
-Learner Feedback 2[https://youtu.be/s2oPBXZOJ0M]
+[Learner Feedback 1](https://youtu.be/G_JKjO1bKyc)
+[Learner Feedback 2](https://youtu.be/s2oPBXZOJ0M)
 
 
 
