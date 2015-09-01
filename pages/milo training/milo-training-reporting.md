@@ -39,7 +39,7 @@ Reporting helps you to extract the specific information that you require from th
 
 Click on the Reports tab at the top of the screen to go to the Reports home page. By default, you will see a list of recent Reports you have accessed. By clicking on the View dropdown above the list of recent Reports, you can select ‘All Reports’, which will provide an alphabetised list of every Report on the system. To the left of the screen you will see your list of available Folders.
 
-![Views](/images/milo training/a01_navigate.png )
+![Navigate](/images/milo training/a01_navigate.png )
 
 <a href="#top">Back to Top.</a>
 
@@ -47,7 +47,7 @@ Click on the Reports tab at the top of the screen to go to the Reports home page
 
 You can search for any report on the database using the Report Search box at the top of every screen.
 
-![Global Search](/images/milo training/a02_search.png )
+![Search](/images/milo training/a02_search.png )
 
 To search for a Report, simply type the name or part of the name into the search box. Try typing ‘Postcode’. You will now see any Reports with ‘Postcode’ in the title.
 
