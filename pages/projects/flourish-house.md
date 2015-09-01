@@ -119,6 +119,9 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 ###September 2015
 - Deliver 2nd 3 week Smart Phone Course and begin partner IT Skills Course with Glasgow Kelvin College
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Smart phone club is great. <a href="https://twitter.com/hashtag/definitelywilbeback?src=hash">#definitelywilbeback</a>. Learned how to add contact and turn off roaming <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/xCB9jkLweV">pic.twitter.com/xCB9jkLweV</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/638715149365456896">September 1, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###November 2015
 - Recruit more peer mentors and volunteers from past participants of courses
 
