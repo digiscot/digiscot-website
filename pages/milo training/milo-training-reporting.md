@@ -39,7 +39,7 @@ Reporting helps you to extract the specific information that you require from th
 
 Click on the Reports tab at the top of the screen to go to the Reports home page. By default, you will see a list of recent Reports you have accessed. By clicking on the View dropdown above the list of recent Reports, you can select ‘All Reports’, which will provide an alphabetised list of every Report on the system. To the left of the screen you will see your list of available Folders.
 
-![Views](/images/milo training/03_views.PNG)
+![Views](/images/milo training/a01_navigate.png )
 
 <a href="#top">Back to Top.</a>
 
