@@ -47,7 +47,7 @@ Click on the Reports tab at the top of the screen to go to the Reports home page
 
 You can search for any report on the database using the Report Search box at the top of every screen.
 
-![Global Search](/images/milo training/03_global_search.PNG)
+![Global Search](/images/milo training/a02_search.png )
 
 To search for a Report, simply type the name or part of the name into the search box. Try typing ‘Postcode’. You will now see any Reports with ‘Postcode’ in the title.
 
