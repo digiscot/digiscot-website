@@ -64,6 +64,10 @@ Establish individual learning plans and record baseline of skills. Deliver digit
 
 Offender's Club: Deliver digital creative club for offenders.
 
+### Update September 2015
+
+We've moved into our new premises and are getting ready to start our digital creative club for offenders. Next week we're starting a free digital cafe for offenders as a first port of call on the day they're released from prison. We'll be helping them with digital life skills like getting an email and accessing services as well as providing better off advice on things like electric metered supply comparison sites. We'll also be offering free internet access for our tech savvy service users who wouldn't be able to afford to access the internet otherwise. One of our digital champions has been fervently researching good websites, links and nuggets of digital gold to come up with a resource pack for our digicafe.
+
 Establish individual learning plans and record baseline of skills.Deliver digital radioskills training to create virtual radio programme. Establish whether Ofcom will grant temporary or restricted internet radio license. Establish budget for running internet radio station beyond the timescale of the digital creative club.
 
 
