@@ -55,6 +55,7 @@ For more information please [contact us](/contact/).
 
 <a href="/resources/challenge-fund/guidance/" class="btn btn-primary btn-lg">Read the guidance notes</a> <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a>
 
+**Please note that the deadline for Challenge Fund applications is Friday 4th September at 5pm** 
 
 ##Previous Rounds
 
