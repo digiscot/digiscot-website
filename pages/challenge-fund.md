@@ -40,7 +40,7 @@ We are also working closely with organisations that have signed [Scotland's Digi
 
 ##Apply
 
-Please read the [application guidance notes](/resources/challenge-fund/guidance/) before submitting your application.
+Please read the **[application guidance notes](/resources/challenge-fund/guidance/)** before submitting your application.
 
 You need to provide details on:
 
