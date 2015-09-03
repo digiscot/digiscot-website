@@ -56,3 +56,5 @@ All you have to do now is add relevant headers to your new columns, e.g. Main Ac
 ![Create 2](/images/milo training/b08_Tips.png )
 
 <a href="#top">Back to Top.</a>
+
+<a href="/data/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>
