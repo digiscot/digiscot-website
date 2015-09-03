@@ -16,7 +16,7 @@ This Reporting tips training module has been designed to provide you with severa
 
 <a href="#top">Back to Top.</a>
 
-**Separating delineated lists into separate cells** <a name="#separate">Separating delineated lists into separate cells</a>
+**Separating delineated lists into separate cells** <a href="#separate">Separating delineated lists into separate cells</a>
 
 This reporting tip training can also be downloaded in PDF form. <a href="/files/Milo 2015 Training Reporting Tips 01.pdf" download target="_blank">Click here to download</a>
 
