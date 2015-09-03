@@ -19,7 +19,7 @@ permalink: /data/milo-training-reporting/
 
 #### Inroduction <a name="intro"></a>
 
-This training module can also be downloaded in PDF form. <a href="/files/Milo 2015 Training Handbook 03 Contacts 0515.pdf" download target="_blank">Click here to download</a>
+This training module can also be downloaded in PDF form. <a href="/files/Milo 2015 Training Handbook 07 Reports.pdf" download target="_blank">Click here to download</a>
 
 Milo holds a vast amount of different types of information e.g.:
 
