@@ -47,6 +47,10 @@ We have found that people tend to want specific advice on particular things, and
 
 Of the 27 sessions 8 of them were delivered either completely or partly in gaelic. Some of the older people are more comfortable interacting in gaelic - there are still some senior citizens groups which are held entirely in gaelic. It's important to have this provision as those who prefer to speak in gaelic might be put off from learning digital skills if the sessions were only delivered in English. 
 
+Here's a picture of a local man speaking to his granddaughter for the first time on Skype during one of our training sessions:
+
+https://www.flickr.com/photos/135441892@N05/shares/U87565
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
