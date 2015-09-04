@@ -6,11 +6,9 @@ permalink: /resources/challenge-fund/
 ---
  
 
-We're pleased to announce that we have £300,000, topped up to £325,000 through the kind support of BT Scotland, to support a third round of community digital participation projects across Scotland through the Digital Participation Challenge Fund. 
+We announced back in July that we had an additional £300,000, topped up to £325,000 through the kind support of BT Scotland, to support a third round of community digital participation projects across Scotland through the Digital Participation Challenge Fund.  The application process for this round has now closed and we're currently assessing the applications. 
 
 The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
-
-Applications are now being accepted, so if you work for or know an organisation that's helping to develop the basic digital skills of its customers or its own staff then we look forward to reading your application.
 
 ![BT](/images/signatories/bt.jpg)
 
@@ -38,7 +36,7 @@ The Challenge Fund is designed to support a broad range of exciting projects acr
 
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can note your interest in this kind of support by ticking the box at the end of the application form.
 
-##Apply
+<!-- ##Apply
 
 Please read the **[application guidance notes](/resources/challenge-fund/guidance/)** before submitting your application.
 
@@ -55,7 +53,7 @@ For more information please [contact us](/contact/).
 
 <a href="/resources/challenge-fund/guidance/" class="btn btn-primary btn-lg">Read the guidance notes</a> <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a>
 
-**Please note that the deadline for Challenge Fund applications is Friday 4th September at 5pm** 
+**Please note that the deadline for Challenge Fund applications is Friday 4th September at 5pm** -->
 
 ##Previous Rounds
 

@@ -35,12 +35,12 @@ You can also <a href="/files/Challenge Fund Contract.pdf" target="_blank">downlo
         <td>1st July</td>
       </tr>
       <tr>
-      <td class="success col-md-6">Application process open</td>
-        <td class="success">27th July - 04th September</td>
+      <td class="col-md-6">Application process open</td>
+        <td>27th July - 04th September</td>
       </tr>
                   <tr>
-      <td class="col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
-        <td>04th September - 16th September</td>
+      <td class="success col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
+        <td class="success">04th September - 16th September</td>
       </tr>
                                 <tr>
       <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
@@ -189,4 +189,4 @@ Yes, we will accept more than one application form where several discrete suppor
 
 After the deadline has passed, all applications will be allocated to a member of the assessing group made up of members of the SCVO team; a random group of these will then be selected for peer review.  We will then hold a meeting where all of the projects / applications deemed suitable will be discussed and a final set of recommended projects will be agreed upon.  The team's recommendations are then sent to the [SCVO Leadership Group](http://digital.scvo.org.uk/about/board/) where they will either approve them or ask for further clarifications or considerations to be given.  We aim to announce our final decisions on **12th October 2015**.
 
-<a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a>
+<!-- <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a> -->
