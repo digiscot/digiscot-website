@@ -49,7 +49,7 @@ Of the 27 sessions 8 of them were delivered either completely or partly in Gaeli
 
 Here's a picture of a local man speaking to his granddaughter for the first time on Skype during one of our training sessions:
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/135441892@N05/21121801232/in/shares-U87565/" title="P1010071"><img src="https://farm1.staticflickr.com/771/21121801232_8313257b46_q.jpg" width="150" height="150" alt="P1010071"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/135441892@N05/21121801232/in/shares-U87565/" title="P1010071"><img src="https://farm1.staticflickr.com/771/21121801232_8313257b46_n.jpg" width="320" height="240" alt="P1010071"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Evaluation
 
