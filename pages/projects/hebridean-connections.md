@@ -51,6 +51,10 @@ Here's a picture of a local man speaking to his granddaughter for the first time
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135441892@N05/21121801232/in/shares-U87565/" title="P1010071"><img src="https://farm1.staticflickr.com/771/21121801232_8313257b46_n.jpg" width="320" height="240" alt="P1010071"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+And here's a lady who works at a local community centre being shown how to back up documents in the cloud. For people who already make some use of technology, possible loss of information can be a major worry.
+
+https://www.flickr.com/photos/135441892@N05/shares/8c85Du
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
