@@ -53,7 +53,7 @@ Here's a picture of a local man speaking to his granddaughter for the first time
 
 And here's a lady who works at a local community centre being shown how to back up documents in the cloud. For people who already make some use of technology, possible loss of information can be a major worry.
 
-https://www.flickr.com/photos/135441892@N05/shares/8c85Du
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/135441892@N05/20591546743/in/datetaken/" title="P1010144"><img src="https://farm1.staticflickr.com/721/20591546743_7bbd5995de_n.jpg" width="320" height="180" alt="P1010144"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Evaluation
 
