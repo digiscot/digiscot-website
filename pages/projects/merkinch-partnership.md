@@ -29,6 +29,11 @@ We want to deliver a project in Merkinch which supports local people living in p
 At the beginning of April we circulated information about the project to the local community and to our partner agencies and stakeholders, recruited our sessional worker and booked the venue for the workshops.
 The first workshop session was held on 20th April and workshops have continued each week since then.
 So far a total of 40 people have taken part in at least one workshop, with about 20 people taking part in multiple workshop sessions, ranging in age from 20 to 65 years of age. 
+Since our last update we have continued to deliver workshop sessions on basic keyboard skills, using job search websites effectively, navigating a tablet, basic typing skills, using e-mail, social networking online and online shopping. The workshops have been well attended and people have been very positive in their feedback. Most people taking part have attended more than one workshop session and we are happy for people to come to as many sessions as they need to. A lot of our servce users are in the older age groups and feel that they take a bit longer to learn and retain new information!
+The sessional worker delivering the workshops is very patient and has excellent interpersonal skills which has made a big difference to the project. Up until the date of this update on 9th September a total of 70 people have taken part in the project since it started in April. Most of the participants have no or very few digital skills so the learning activities need to start from the very basics. Lack of confidence is also a big issue for the participants as well as low levels of literacy, in particular spelling and grammar.Some of these barriers are harder to overcome than others but we do see people increase in confidence and express the desire to learn more and improve their skills. All of this makes the project challenging but very rewarding for both staff and participants.    
+
+
+
 
 
 
