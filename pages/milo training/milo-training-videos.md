@@ -17,7 +17,7 @@ An overview of Milo 2, showing some of the more common features of Milo 2.
 
 This video will show you how you can reset your password in Milo 2.
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
+<iframe width="350" height="200" src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
 
 ##### Building a basic Report and Dashboard 
 
