@@ -11,7 +11,7 @@ permalink: /data/milo-training-videos/
 
 An overview of Milo 2, showing some of the more common features of Milo 2. 
 
-<iframe width="300" height="180" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="360" src="https://www.youtube.com/embed/n4i2qL54lZM" frameborder="0" allowfullscreen></iframe>
 
 ##### How to reset your password
 
