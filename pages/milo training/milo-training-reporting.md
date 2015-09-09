@@ -31,7 +31,7 @@ Milo holds a vast amount of different types of information e.g.:
 
 Reporting helps you to extract the specific information that you require from the data held on Milo e.g. how many organisations are active within your TSI. This Reporting training module has been designed to provide you with the basic knowledge and understanding needed to search, view, edit and create reports, and of the basic features of reporting.
 
-Below are two videos on Reporting, they take you through the basic steps of creating a report. 
+Below are two videos on Reporting, they take you through the basic steps of creating a report. All of which is covered in this document. Addional reporting videos are also avilible <a href="http://digital.scvo.org.uk/data/milo-training-videos/" target="_blank">here.</a> 
 
 ##### Building a basic Report   
 
