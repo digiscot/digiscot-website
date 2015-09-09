@@ -31,6 +31,16 @@ Milo holds a vast amount of different types of information e.g.:
 
 Reporting helps you to extract the specific information that you require from the data held on Milo e.g. how many organisations are active within your TSI. This Reporting training module has been designed to provide you with the basic knowledge and understanding needed to search, view, edit and create reports, and of the basic features of reporting.
 
+Below are two videos on Reporting, they take you through the basic steps of creating a report. 
+
+##### Building a basic Report   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHIT3uyWQGc" frameborder="0" allowfullscreen></iframe>
+
+##### Creating a mailing list in Milo 2 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mL2YZ1eRjcY" frameborder="0" allowfullscreen></iframe>
+
 <a href="#top">Back to Top.</a>
 
 #### Managing Reports in Milo <a name="orgmilo"></a>
