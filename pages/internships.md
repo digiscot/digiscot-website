@@ -2,7 +2,7 @@
 layout: page
 title: Business Growth Internships
 excerpt: We're supporting charities and voluntary organisations to make the most of new digital opportunities.
-alert: We are currently accepting applications from host organisations in the Highlands and Islands.
+alert: Please note  we are no longer accepting applications for internships. 
 permalink: /resources/internships/
 ---
 
@@ -47,7 +47,6 @@ Once your application has been submitted, our assessment team will review the ap
 
 Some [extra guidance notes](/resources/internships-guidance/) are available to help you complete your application.
 
-<a href="http://www.scvo.org.uk/jobs-employability/apply-to-host-a-business-growth-graduate-internship/" class="btn btn-primary btn-lg">Find out more and apply</a>
 
 
 
