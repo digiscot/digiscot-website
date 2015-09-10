@@ -159,14 +159,18 @@ Minnie and Rhoda try the Hudls:
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10156456852960131&amp;set=a.10152398278230131.953204.829870130&amp;type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/photo.php?fbid=10156456852960131&amp;set=p.10156456852960131&amp;type=1"><p>Minnie and Rhoda try the Hudls</p>Posted by <a href="https://www.facebook.com/scotgene">Andrew Jennings</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=10156456852960131&amp;set=p.10156456852960131&amp;type=1">Thursday, 27 August 2015</a></blockquote></div></div>
 
 One of the sites visited on Unst:
+
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10156456846420131&amp;set=a.10152398278230131.953204.829870130&amp;type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/photo.php?fbid=10156456846420131&amp;set=p.10156456846420131&amp;type=1"><p>Tour of Yell and Unst</p>Posted by <a href="https://www.facebook.com/scotgene">Andrew Jennings</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=10156456846420131&amp;set=p.10156456846420131&amp;type=1">Thursday, 27 August 2015</a></blockquote></div></div>
+
 
 On the 2nd of September Andrew visited Scalloway Museum. There he met Bill, who he’d had an earlier chat about the project while walking dogs on the hill. Bill was very interested in the concept and tried out the Hudls and downloaded the app on to his phone. He had never done that before. He was keen to try out the equipment around Scalloway at a later date. 
 
 On the 3rd Andrew headed off to opposite end of Shetland from Unst, Sumburgh the Sooth End. There he met the eight custodians of the Quendale Mill Heritage Centre. This proved to be an excellent session. Some custodians used the Hudls others downloaded the app on their smartphones. There was a good deal of discussion about how Fieldtrip GB could be used to help collect stories, genealogy and map unusual things in the landscape. They suggested Andrew keep in touch and help them organise something in the future. 
 
-Photo of Quendale Mill custodians
+Photo of Quendale Mill custodians:
+
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10156483722520131&amp;set=a.10150747217635131.720785.829870130&amp;type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/photo.php?fbid=10156483722520131&amp;set=a.10150747217635131.720785.829870130&amp;type=1">Posted by <a href="https://www.facebook.com/scotgene">Andrew Jennings</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=10156483722520131&amp;set=a.10150747217635131.720785.829870130&amp;type=1">Thursday, 3 September 2015</a></blockquote></div></div> 
+
 
 Using the software:
 
