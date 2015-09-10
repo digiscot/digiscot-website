@@ -14,6 +14,55 @@ The projects that we're supporting will enable groups and organisations to digit
 
 To see a list of the projects we've supported so far check out the <a href="/projects">Projects Page</a>.
 
+##Timeline
+
+<table class="table table-bordered">
+<thead>
+      <tr>
+        <th>Milestone</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-md-6">Publish guidance notes for round 3</td>
+        <td>1st July</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Application process open</td>
+        <td>27th July - 04th September</td>
+      </tr>
+                  <tr>
+      <td class="success col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
+        <td class="success">04th September - 16th September</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
+        <td>09th October</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">All applicants notified of the outcome of their application</td>
+        <td>12th October</td>
+      </tr>
+       <tr>
+        <td class="col-md-6">Contract document sent out</td>
+        <td>12th October - 16th October</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Finalise payment schedules and contracts returned</td>
+        <td>6th November</td>
+      </tr>
+                  <tr>
+      <td class="col-md-6">First payments made</td>
+        <td>16th November</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">Future monthly payments made</td>
+        <td>Once per month</td>
+      </tr>
+      </tbody>
+</table>
+
 ###Key Criteria
 
 The Challenge Fund is designed to support a broad range of exciting projects across Scotland however we do have some key criteria so please have a read before submitting an application.
@@ -33,6 +82,8 @@ The Challenge Fund is designed to support a broad range of exciting projects acr
   <li>Awards will range from £100 - £10,000.  Awards of over £10,000 will only be considered in exceptional circumstances</li>
   <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a short questionnaire on <a href="/about/basic-digital-skills/">Basic Digital Skills</a> and you'll be asked to update us on the progress of the project via your project page, just like <a href="/projects/comas">Comas have done</a></li>
 </ul>
+
+You can also <a href="/files/Challenge Fund Contract.pdf" target="_blank">download a copy of the Contract</a> to ensure you can comply.
 
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can note your interest in this kind of support by ticking the box at the end of the application form.
 
