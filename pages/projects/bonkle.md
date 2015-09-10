@@ -62,3 +62,6 @@ Things that we would do differently next time:
 1. Modification of the survey form
 2. Recruit some of the more experienced club members to help with "one-to one" tuition.
 3. Text
+
+NEXT STAGE
+The lessons leaarned about presentation on the previous courses have now been applied and wider publication has taken place. The introductory course is offered on a two week cycle on a separate day (Wednesday) from the main groups. This cycle will continue to the end of October when a further report will be produced.
