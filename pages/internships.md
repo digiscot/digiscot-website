@@ -45,7 +45,6 @@ If your application is successful then we will support your organisation by:
 
 Once your application has been submitted, our assessment team will review the application and either give you the green light or support you through any revisions required. Once this is done we can start the process to find an intern and mentor.
 
-Some [extra guidance notes](/resources/internships-guidance/) are available to help you complete your application.
 
 
 
