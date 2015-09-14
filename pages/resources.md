@@ -80,40 +80,34 @@ ScotSectorlink is a cross-discipline initiative for empowering economies, urban 
 
 We’re excited to be a part of this digital world and we want everyone to get involved. If you would like to brush up on your digital skills, or need support to help others to, then here are a few of our favourite free learning resources:
 
-[BBC Make it Digital](http://www.bbc.co.uk/makeitdigital)
+### [BBC Make it Digital](http://www.bbc.co.uk/makeitdigital)
 
 Creative digital resources and programs for both children and adults.
 
-[Digital Fife](http://www.digitalfife.com/)
+### [Digital Fife](http://www.digitalfife.com/)
 
 Easy to follow online courses and resources. 
 
-[Digital Unite](http://digitalunite.com/) 
+### [Digital Unite](http://digitalunite.com/) 
 
 Guides and courses to improve digital skills and confidence in using computers.
 
-[Get IT together](http://www.bt.com/includingyou/getting-online.html)
+### [Get IT together](http://www.bt.com/includingyou/getting-online.html)
 
 Tailor made guides from BT for helpers and beginners.
 
-[Get Safe Online](https://www.getsafeonline.org/)
+### [Get Safe Online](https://www.getsafeonline.org/)
 
 The internet is a wonderful resource but it’s important to know how to make the most of it safely. Get Safe Online offers lots of practical advice.
 
-[Learn My Way](http://scotland.learnmyway.com/)
+### [Learn My Way](http://scotland.learnmyway.com/)
 
 Created by Tinder Foundation, Learn My Way is packed full of resources to help people learn to use a computer, mouse and navigate the internet for the first time. There is also loads of free support available for those who are teaching others how to get online, as well as links to other resources.
 
-[Let’s Get On](http://www.letsgeton.scot/)
+### [Let’s Get On](http://www.letsgeton.scot/)
 
 Let’s Get On is there to support people who are helping friends and family take that first step to getting online, as well as those who wish to develop their own online skills. The site also features a directory where you can search for centres offering classes in online and digital skills across Scotland.
 
-[Living It Up](https://portal.livingitup.org.uk/)
+### [Living It Up](https://portal.livingitup.org.uk/)
 
 Connect from Living It Up provides useful tips and guides to help you connect with others online, and make the most of what the internet has to offer.
-
-
-
-
-
-
