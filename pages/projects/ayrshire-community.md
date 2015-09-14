@@ -72,16 +72,27 @@ We are now looking to increase the awareness sessions and have started to identi
 
 We are looking at the next block of IT Training and inviting participants to attend this.
 
+## Phase 5 - September 2015
+
+We have now started our next block of IT Training and our Work Club Sessions are extremely successful. Pictures from some of our sessions are below:
+
+
 ### Outputs and outcomes
 
 Overall this project has delivered the following:
 
 • Number of visits to Work Clubs = 109
+
 • Number of people reporting an increase in their Digital Skills = 
+
 • Number of people completing IT Training Programme = 5
+
 • Number of people moving into further learning opportunities =
+
 • Number of people moving into voluntary work = 
+
 • Number of people referred or signposted to other providers = 8
+
 • Number of people who have reported an increase in confidence, self esteem and mental wellbeing = 
 
 In terms of outputs we delivered A, B and C.
