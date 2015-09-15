@@ -33,6 +33,13 @@ Update June 2015:
 
 So far 45 beginners are signed up to clubs and 6 volunteers have been recruited. 
 
+ Update September 2015:
+ 
+ Another 3 people have expressed an interest in volunteering for the project bringing our total number of volunteers to 9. The take up of the free courses and drop ins is now escalating due to the publicity and promotion that has been done over the last few week. We have now had 83 people come along to do the free 4 week course with 35 on the waiting list starting soon. The drop ins are also going well with a total 21 individuals coming along to get assistance with their Laptops, IPads and Tablets. As word gets around and more people attend we are now seeing peer support developing which is great.
+
+Thanks to Frank (one of our volunteers) We now have a Get DigITal in Moray blog and will be working with learners to populate this over the winter months. We are busy taking photos for the site.
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
