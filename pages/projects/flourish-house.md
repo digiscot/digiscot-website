@@ -113,8 +113,17 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brian, the twitter king! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/XmtyXbjlON">pic.twitter.com/XmtyXbjlON</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/633604805563428864">August 18, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our amazing members went to the first day of an IT skills course at Glasgow Kelvin College, so proud! <a href="https://twitter.com/hashtag/GKCollege?src=hash">#GKCollege</a> <a href="http://t.co/ldNUASOvHe">pic.twitter.com/ldNUASOvHe</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/638346923997560832">August 31, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###September 2015
 - Deliver 2nd 3 week Smart Phone Course and begin partner IT Skills Course with Glasgow Kelvin College
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Smart phone club is great. <a href="https://twitter.com/hashtag/definitelywilbeback?src=hash">#definitelywilbeback</a>. Learned how to add contact and turn off roaming <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/xCB9jkLweV">pic.twitter.com/xCB9jkLweV</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/638715149365456896">September 1, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We received this wonderful photo tent as a gift yesterday! <a href="https://twitter.com/hashtag/professional?src=hash">#professional</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/aEVXQ4sqbE">pic.twitter.com/aEVXQ4sqbE</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/641184804504006656">September 8, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###November 2015
 - Recruit more peer mentors and volunteers from past participants of courses

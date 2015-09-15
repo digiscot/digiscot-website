@@ -56,23 +56,39 @@ Similar to the above, a lady from out of town with a sick husband, looks forward
 
 ## Evaluation
 
-Evaluation will be a complilation of learner made videos to demonstrate personal achievements throughout the project, linked to project aims.
+Our 10 week project has proved very sucessful with an average of approximately 10 learners per week. 
+Here is a selection of the feedback comments
+
+The course has been very helpful.  I now have more confidence and I use the computer more regularly.  The instruction is first class.
+
+I am now more likely to search the internet and more confident to look for new sites.
+
+I have gained more confidence in the use of my laptop.  The instructors have been very helpful.  
+
+Here are some videos of our learners experiences 
+
+[Learner Feedback 1](https://youtu.be/G_JKjO1bKyc)
+[Learner Feedback 2](https://youtu.be/s2oPBXZOJ0M)
+
+
+
+
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project has allowed people to develop their confidence of using the internet.  It has also enabled people to find information on their own need and interests and learn from experienced instructors.
 
-In terms of outputs we delivered A, B and C.
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+In terms of outcomes for local community, we have encouraged a group of participants to meet on a weekly basis and share learning and social experineces together in a friendly environment.  
+The local ASDA cafe has provided a great venue.  It is easily accessible, has reliable wifi, has great car parking and is a good place to come and meet with friends. 
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Venue
+2. Young tutor assistants from local school
+3. Experienced tutors with knowledge of technical and social aspects of the internet. 
 
 Things that we would do differently next time:
 

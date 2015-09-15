@@ -6,15 +6,62 @@ permalink: /resources/challenge-fund/
 ---
  
 
-We're pleased to announce that we have £300,000, topped up to £325,000 through the kind support of BT Scotland, to support a third round of community digital participation projects across Scotland through the Digital Participation Challenge Fund. 
+We announced back in July that we had an additional £300,000, topped up to £325,000 through the kind support of BT Scotland, to support a third round of community digital participation projects across Scotland through the Digital Participation Challenge Fund.  The application process for this round has now closed and we're currently assessing the applications. 
 
 The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
-
-Applications are now being accepted, so if you work for or know an organisation that's helping to develop the basic digital skills of its customers or its own staff then we look forward to reading your application.
 
 ![BT](/images/signatories/bt.jpg)
 
 To see a list of the projects we've supported so far check out the <a href="/projects">Projects Page</a>.
+
+##Timeline
+
+<table class="table table-bordered">
+<thead>
+      <tr>
+        <th>Milestone</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-md-6">Publish guidance notes for round 3</td>
+        <td>1st July</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Application process open</td>
+        <td>27th July - 04th September</td>
+      </tr>
+                  <tr>
+      <td class="success col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
+        <td class="success">04th September - 16th September</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
+        <td>09th October</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">All applicants notified of the outcome of their application</td>
+        <td>12th October</td>
+      </tr>
+       <tr>
+        <td class="col-md-6">Contract document sent out</td>
+        <td>12th October - 16th October</td>
+      </tr>
+      <tr>
+      <td class="col-md-6">Finalise payment schedules and contracts returned</td>
+        <td>6th November</td>
+      </tr>
+                  <tr>
+      <td class="col-md-6">First payments made</td>
+        <td>16th November</td>
+      </tr>
+                                <tr>
+      <td class="col-md-6">Future monthly payments made</td>
+        <td>Once per month</td>
+      </tr>
+      </tbody>
+</table>
 
 ###Key Criteria
 
@@ -36,11 +83,13 @@ The Challenge Fund is designed to support a broad range of exciting projects acr
   <li>To help us paint more of a picture of skills across Scotland, sucessful projects will be required to ask the individuals they're supporting to fill out a short questionnaire on <a href="/about/basic-digital-skills/">Basic Digital Skills</a> and you'll be asked to update us on the progress of the project via your project page, just like <a href="/projects/comas">Comas have done</a></li>
 </ul>
 
+You can also <a href="/files/Challenge Fund Contract.pdf" target="_blank">download a copy of the Contract</a> to ensure you can comply.
+
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can note your interest in this kind of support by ticking the box at the end of the application form.
 
-##Apply
+<!-- ##Apply
 
-Please read the [application guidance notes](/resources/challenge-fund/guidance/) before submitting your application.
+Please read the **[application guidance notes](/resources/challenge-fund/guidance/)** before submitting your application.
 
 You need to provide details on:
 
@@ -55,6 +104,7 @@ For more information please [contact us](/contact/).
 
 <a href="/resources/challenge-fund/guidance/" class="btn btn-primary btn-lg">Read the guidance notes</a> <a href="/ChallengeFundForms/Forms/Welcome.html" class="btn btn-primary btn-lg">Apply Now</a>
 
+**Please note that the deadline for Challenge Fund applications is Friday 4th September at 5pm** -->
 
 ##Previous Rounds
 

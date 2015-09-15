@@ -44,6 +44,10 @@ We're passionate about digital participation, and we spend lots of our time read
 * [Adults' media use and attitudes report 2015](http://stakeholders.ofcom.org.uk/market-data-research/other/research-publications/adults/media-lit-10years/)
 * [Communications Market Report: Scotland](http://stakeholders.ofcom.org.uk/binaries/research/cmr/cmr15/2015_Scotland_CMR.pdf)
 
+#### Outside the Box
+
+* [Hints & Tips: Digital Inclusion & Mental Health](http://otbds.org/assets/uploaded_files/project/Digitalinclusionmentalhealthhintsandtips__-2.pdf)
+
 #### Oxford Internet Surveys
 
 * [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf) 
