@@ -5,7 +5,7 @@ excerpt:
 website: http://www.calmac.co.uk/
 twitter-url: 
 email: Elaine.Dyer@calmac.co.uk
-image: /images/signatories/calmac.png
+image: /images/signatories/calmac.jpg
 permalink: /charter/calmac-ferries/
 ---
 
