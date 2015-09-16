@@ -65,7 +65,10 @@ What can be done on the internet	            1	                                 
 We have arranged to run a workshop on 8th September and will begin with basics such as turning computer on/off and accessing the internet.
 We have spoken to Cantraybridge College and have carried out a similar process where have asked for preferences and we will begin with them on 15th September.
 
+8th September 2015
+We delivered a workshop at Cheshire House to 5 clients of varying capabilities and after completing an initial assessment form and a permission to use their images we discussed their individual requirements re the workshop and we began with a basic session in how to turn on the computer.  This was followed by information on the different parts of the computer and what they all do.  After starting the computer we looked at the desktop and how to navigate to different places.  The general input was that although several of the clients were able to access programmes such as social network sites they had to be set up by a third party.  We looked at how to access the internet and how to use a search engine and every one, some with assistance was able to access a website of their choice.  The general feedback was that the session had been useful and the clients had benefitted from it.  The session was delivered in a light-hearted manner and this aproach seems to work with this particular client group. We made a decision on our session for the following week and we will be exlaining how to use email.
 
+Had a discussion with Alison at Cantraybridge College to prepare for our first workshop on the 15th September.  We checked all the resources were in place and looked at the room in which we will be delivering the session which contains a smart board and several laptops although some of the students will use their own.  We will be following the programme from Cheshire House but will change any aspects as we progress.
 
 
  
