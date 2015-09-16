@@ -70,6 +70,22 @@ We delivered a workshop at Cheshire House to 5 clients of varying capabilities a
 
 Had a discussion with Alison at Cantraybridge College to prepare for our first workshop on the 15th September.  We checked all the resources were in place and looked at the room in which we will be delivering the session which contains a smart board and several laptops although some of the students will use their own.  We will be following the programme from Cheshire House but will change any aspects as we progress.
 
+September 15th 2015
+
+We will be receiving a DIT kit to enable us to operate in a more mobile fashion and it will comprise of the following:
+•	 1x High spec laptop (I5 4210 1TB 16GB with Windows 7 and MS Office)
+•	2x Standard laptops (I3 4100 500GB 4GB with Windows 7 and MS Office)
+•	1 x Kensington rollerball mouse
+•	1 x Optima Joystick mouse
+•	1 x Large key keyboard
+•	2 x Jellybean switch (for use with Joystick mouse and Grid 2)
+•	1 x Joy Cable
+•	1 x text Help Read & Write
+•	1 x Dragon Naturally Speaking 
+•	1 x Inspiration
+This will be a useful addition to our resources.
+ Delivered the second workshop at Cheshire House.  Started with a Q & A on the previous week and all information had been successfully retained.  We looked at email and I set up a new email address for all the clients and showed them how to write and send emails.  We sent a number back and forth between the clients and a colleague & me making it a successful session. The clients are now confident in the use of email and we then touched on social networking, which will be our session for next week.  I had 5 clients and the feedback from Lisa Oliver suggests that they are gaining some knowledge and experience from the sessions.
+Delivered the first workshop at Cantraybridge College to 5 and later 6 students.  All Initial Assessments and permission slips were completed and after an initial hiccup, which was soon ironed out, we then had a successful session.  The clients are slightly more advanced than the group at Cheshire House so we started a little farther along the road.  I ensured however that no one was not at the same place and we had a discussion about internet safety to which I gave several tips and ideas that the clients took on board.  The group indicated that they would like more information on email and writing a cv which will be the basis of our next session.
 
  
 ## Evaluation
