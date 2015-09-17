@@ -80,6 +80,12 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 * June 22nd - Awareness raising with 10 members of the Children and Young People's sub group of the Midlothian Voluntary Sector Forum. No photo sadly.
 
+
+### Development Phase 2: July - September 2015
+
+* Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
+* Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group
+
 * July 20th - Digital Inclusion training with 8 staff members from Intowork
  
 <img src="https://lh3.googleusercontent.com/-3pKfxRb146Q/Va4DBBW_mKI/AAAAAAAAIG0/HVdbgTk_mXw/s1152-Ic42/WP_20150720_004.jpg" alt="Intowork" Width="500">
@@ -88,10 +94,9 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 <img src="https://lh3.googleusercontent.com/-CR57GqUjdEM/VbfBHGolphI/AAAAAAAAIIQ/YIV1dwxwhu4/s1152-Ic42/WP_20150728_001.jpg" alt="Midlothian Libraries 1" Width="500">
 
-### Development Phase 2: July - September 2015
+* July 29th - Digital Inclusion training with 4 staff members from Midlothian Libraries. Training was featured in Midlothian's council's magazine:
 
-* Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
-* Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group
+<img src="https://lh3.googleusercontent.com/-a_j1tBygmQ4/VfqHPbBWLwI/AAAAAAAAIOg/LliuKeimwYc/s512-Ic42/Midlothian.png" alt="Midlothian Libraries Article" Width="500">
 
 ### Concluding Phase: October - December 2015
 
