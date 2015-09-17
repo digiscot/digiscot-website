@@ -53,14 +53,14 @@ Topic	                                                                          
 How to use a computer (turn on/off)	          1	                                                     5
 How to use the internet	                      2	                                                     5
 Technology (how items plug in and work)	      -	                                                     5
-How to search/find things on the internet   	2	                                                     5
+How to search/find things on the internet   	 2	                                                     5
 How to edit settings to ease use              -	                                                     5
-Email & Attachments                         	2	                                                     5
-Using skype/social media	                    3	                                                     5
+Email & Attachments                         	 2	                                                     5
+Using skype/social media	                     3	                                                     5
 Online shopping	                              1	                                                     5
 Where to find educational games	              -	                                                     5
 Internet Safety	                              3	                                                     5
-What can be done on the internet	            1	                                                     5
+What can be done on the internet	             1	                                                     5
 
 We have arranged to run a workshop on 8th September and will begin with basics such as turning computer on/off and accessing the internet.
 We have spoken to Cantraybridge College and have carried out a similar process where have asked for preferences and we will begin with them on 15th September.
@@ -73,7 +73,7 @@ Had a discussion with Alison at Cantraybridge College to prepare for our first w
 September 15th 2015
 
 We will be receiving a DIT kit to enable us to operate in a more mobile fashion and it will comprise of the following:
-•	 1x High spec laptop (I5 4210 1TB 16GB with Windows 7 and MS Office)
+•	1x High spec laptop (I5 4210 1TB 16GB with Windows 7 and MS Office)
 •	2x Standard laptops (I3 4100 500GB 4GB with Windows 7 and MS Office)
 •	1 x Kensington rollerball mouse
 •	1 x Optima Joystick mouse
