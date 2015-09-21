@@ -29,6 +29,8 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 Busy making plans for the start of Tea and Tablet after the summer :)
 
+After some unfortunate delays over the summer, we have started our Intro to IT classes again :) At the moment we are still using laptops but it wont be long until we introduce people to tablets and using them in our IT classes :) We will keep this page update on when this will happen!  
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
