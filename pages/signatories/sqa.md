@@ -11,9 +11,9 @@ permalink: /charter/sqa/
 
 Use this space to tell people why your organisation signed the Digital Participation Charter and which projects you are supporting.
 
-Project in partnership with the Wheatley Group. 
+##Project in partnership with the Wheatley Group## 
 
-Project background:
+###Project background:###
 
 Earlier this year we carried out a survey to establish staff's digital skills levels and any areas they felt they needed more support or training.  We also asked for staff members with more advanced digital skills who wished to help others through volunteering opportunities as part of our Corporate Social Responsibility programme, Hands Up.  Around 35 people across our two sites in Glasgow and Edinburgh expressed an interest in helping as a digital volunteer.
 
