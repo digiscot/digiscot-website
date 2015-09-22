@@ -11,7 +11,7 @@ permalink: /charter/sqa/
 
 Use this space to tell people why your organisation signed the Digital Participation Charter and which projects you are supporting.
 
-###Project in partnership with the Wheatley Group.###
+###Project in partnership with the [Wheatley Group](http://digital.scvo.org.uk/charter/wheatley-group/).###
 
 ###Project background:###
 
