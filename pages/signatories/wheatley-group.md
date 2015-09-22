@@ -11,4 +11,6 @@ permalink: /charter/wheatley-group/
 
 Use this space to tell people why your organisation signed the Digital Participation Charter and which projects you are supporting.
 
-Wheatley Group are working in partnership with [SQA](http://digital.scvo.org.uk/charter/sqa/) to deliver an innovative project which will see Wheatley community janitors who are keen to improve their digital skills, paired with SQA staff who have advanced digital skills.   
+###Project in partnership with [SQA](http://digital.scvo.org.uk/charter/sqa/)###
+
+Wheatley Group are working in partnership with the Scottish Qualifications Authority (SQA) to deliver an innovative project which will see Wheatley community janitors who are keen to improve their digital skills, paired with SQA staff who have advanced digital skills.   
