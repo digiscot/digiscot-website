@@ -185,6 +185,23 @@ Using the software:
 
 With Sumburgh and the Haraldswick in Unst having been visited, Andrew has covered nearly the 100 miles of Shetland’s length in two weeks talking to heritage people. What has become obvious is that everyone with an interest in heritage is keen to learn about the equipment and can see the value of it, but folk are reticent to go off and use it. They clearly want return visits. The first visit encourages people to think about the idea, but follow up visits are necessary to help them overcome their fears.
 
+On 18 September Silke Reeploeg of The Centre for Nordic Studies in Shetland held a project workshop at the North Mainland Learning Centre in Brae. Our novice tablet users had an extremely steep learning curve, but coped very well - even if Siri kept wanting to talk to our iPad user, who got a fright and the giggles every time!  After lots of laughter we explored all the many and varied apps on our Android Hudls, and had a first go at downloading the FieldTripGB app.  Participants found the app very easy to use, and went away to practice and gain some more confidence using their own devices.  Hopefully next week we will be able to add some content!  
+Tea and tablets in Brae: 
+
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Tea and tablets (no not that kind) at the North Mainland Learning Centre this week 😊 <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/DigHer?src=hash">#DigHer</a> <a href="https://twitter.com/NordicUHI">@NordicUHI</a> <a href="http://t.co/EOZZokntZG">pic.twitter.com/EOZZokntZG</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/644860405186187264">September 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+Sunday 20 September: the Shetland team travelled to the north of the Shetland mainland again, to join the 'Gie it a Go' Day in Mossbank.  This community event took place at the neighbouring Mossbank Primary School and Mossbank Hall and offered families and older people the opportunities to try out various activities - from drumming, crafts and sports to adult learning and digital skills.  The aim of the event was to bring together community groups, individuals and education/care providers, raise awareness of learning and social activities, and give people a chance to develop their skills.  We learned that joining existing community events is an ideal way to share our project and interact with a wide range of people, with family members of different ages enjoying the Fieldtrip GB app together.  A wobbly wifi connection and a few technical hitches meant we had to improvise with the app functionality a bit, but participants found both the tablets easy to use, and the maps fascinating and enjoyed looking at what people had added.   And then there was homemade cake from the Mossbank Hall committee, yay!
+
+Image from Mossbank 'Gie it a Go' Day:
+
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/NordicUHI">@NordicUHI</a> had great fun with tablets and cake (yay) at the &#39;Gie it a Go&#39; Day in Mossbank last Sun! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digher?src=hash">#digher</a> <a href="http://t.co/77benGORLg">pic.twitter.com/77benGORLg</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/646319717892943872">September 22, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 ## Evaluation
