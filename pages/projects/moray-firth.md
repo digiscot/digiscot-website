@@ -43,6 +43,8 @@ Summer school poster:
 
 ###**Inverness Prison Project**
 
+### Overview
+
 Our aim was to provide ongoing weekly digital skills training to inmates at Inverness Prison to teach digital skills that could assist them with securing employment upon their release and create an interesting, creative and beneficial educational opportunity during their incarceration
 
 ### Outputs and outcomes
@@ -61,7 +63,6 @@ team work and communication and the experience resulting in ‘not being so nerv
 
 We had hoped to use the shows produced by the inmates for broadcast on our RSL Monster FM however we were informed by the prison months into the course that unfortunately these shows could only be broadcast within the prison itself. This was extremely disappointing as a lot of the material produced by the prisoners was exceptionally professional sounding and emotive
 
-
 ### Lessons learned
 
 Things that worked well:
@@ -69,3 +70,28 @@ Things that worked well:
 1. Setting weekly deadlines for completion of tasks worked well to keep the training moving at a good pace.
 2. Asking inmates to carry out tasks between Tuesdays kept them occupied and motivated to attend the following week.
 
+
+###**Summer School**
+
+### Overview
+
+Our aim was to provide intensive digital training to school leavers and those in between college/university courses during the summer holidays. We hoped this would enable those who were unable to attend courses during the day at other times of the year to gain much-needed digital skills. 
+
+### Outputs and Outcomes
+
+In terms of outputs we delivered digital training to five course participants over five days. This was followed on by the opportunity to use the studio equipment the following week under supervision. They learned various digital skills including learning to drive a working radio desk involving use of Dalet – a digital play-out system responsible for playing all the music, jingles, promos and features required during a radio broadcast.
+
+The participants were required to use MS Office for writing and planning their shows and interviews using laptops.
+
+Attendees were shown how to record audio for interviews using portable digital recorders and microphones.
+
+They were also taught how to upload the audio to computers and how to edit the audio using the editing computer software Adobe Audition on the laptops.  
+
+This project provided the participants with a varied range of digital skills which can be taken on to many different areas of their personal, academic and working lives. We know this has been incredibly successful because they were able to independently create their own completed recorded radio shows using their new digital skills which are currently airing on Monster FM 106.1.
+
+### Lessons Learned
+
+Things that worked well:
+
+1. The intensive training and practise period of five days followed by a week recording shows helped the participants retain the skills they learned. 
+2. The incentive of recording their own shows using their new skills during the second week was motivating. 
