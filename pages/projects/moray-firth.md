@@ -41,26 +41,31 @@ Summer school poster:
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+###**Inverness Prison Project**
+
+Our aim was to provide ongoing weekly digital skills training to inmates at Inverness Prison to teach digital skills that could assist them with securing employment upon their release and create an interesting, creative and beneficial educational opportunity during their incarceration
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+In terms of outputs we delivered digital skills training in a few different forms:
+The participants were required to use MS Office for writing and planning their shows and interviews using laptops.
 
-In terms of outputs we delivered A, B and C.
+Attendees were shown how to record audio for interviews using portable digital recorders and microphones. These recorders were left available to the inmates during the week in order for them to continue recording material for their shows and features. 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+They were also taught how to upload the audio to computers and how to edit the audio using the editing computer software Adobe Audition on the laptops.  
+
+In terms of outcomes for the people and groups we care about, this project has exceeded all our expectations. We know this because we have had very positive feedback from the prison. The Head of Offender Outcomes at the prison, Peter Rawlinson, said, ’HMP Inverness is constantly looking for new and inventive ways to engage prisoners in purposeful activity. We are aiming to promote citizenship, develop learning and employability skills and motivate those in our care to transform their lives and become responsible members of society. This project, run in partnership with colleagues from Fife College, Highland CJSW and tutors from Radioskills (Moray Firth Media Trust) has been enormously successful in developing communication skills, self-confidence and computing ability amongst the group of prisoners involved.’
+
+The feeling amongst the participants themselves is also positive with feedback ranging from finding it an interesting course and enjoying doing ‘something constructive’ to learning the value of 
+team work and communication and the experience resulting in ‘not being so nervous in groups anymore.’  
+
+We had hoped to use the shows produced by the inmates for broadcast on our RSL Monster FM however we were informed by the prison months into the course that unfortunately these shows could only be broadcast within the prison itself. This was extremely disappointing as a lot of the material produced by the prisoners was exceptionally professional sounding and emotive
+
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Setting weekly deadlines for completion of tasks worked well to keep the training moving at a good pace.
+2. Asking inmates to carry out tasks between Tuesdays kept them occupied and motivated to attend the following week.
 
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
