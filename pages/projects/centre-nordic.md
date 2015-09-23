@@ -199,9 +199,8 @@ Sunday 20 September: the Shetland team travelled to the north of the Shetland ma
 Image from Mossbank 'Gie it a Go' Day:
 
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/NordicUHI">@NordicUHI</a> had great fun with tablets and cake (yay) at the &#39;Gie it a Go&#39; Day in Mossbank last Sun! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digher?src=hash">#digher</a> <a href="http://t.co/77benGORLg">pic.twitter.com/77benGORLg</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/646319717892943872">September 22, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/NordicUHI">@NordicUHI</a> had great fun with tablets and cake (yay) at the &#39;Gie it a Go&#39; Day in Mossbank last Sun! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digher?src=hash">#digher</a> <a href="http://t.co/77benGORLg">pic.twitter.com/77benGORLg</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/646319717892943872">September 22, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 ## Evaluation
