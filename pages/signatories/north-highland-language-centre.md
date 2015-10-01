@@ -9,4 +9,5 @@ image: /images/signatories/north-highland-language-centre.jpg
 permalink: /charter/north-highland-language-centre/
 ---
 
-Use this space to tell people why your organisation signed the Digital Participation Charter and which projects you are supporting.
+We signed the charter because we know that people sometimes need extra confidence to access the internet, and that a friendly support network as well as experienced and qualified tutors is vital. 
+We offer FREE 'Get to know the Interenet session' in Tain, as well as a centre with WiFi, where local individuals and organisations can come to get help and support.   
