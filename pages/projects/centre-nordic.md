@@ -202,6 +202,14 @@ Image from Mossbank 'Gie it a Go' Day:
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/NordicUHI">@NordicUHI</a> had great fun with tablets and cake (yay) at the &#39;Gie it a Go&#39; Day in Mossbank last Sun! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digher?src=hash">#digher</a> <a href="http://t.co/77benGORLg">pic.twitter.com/77benGORLg</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/646319717892943872">September 22, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Silke Reeploeg has also introduced the project to members of the Bressay History Group.  Much fun was had getting to grips with using the tablets, with three novice users and one more experienced tablet user installing the app on her own device.  We managed to document a recent addition to the Bressay Heritage's collection, a traditional wooden 'mail boat' called the "Bressay Lass".  We learned that new users were easily introduced to the app, but would actually like more time to experiment with the tablet. Participants asked if they could borrow the Hudls in future, and perhaps create their own maps. There is definitely interest in developing the use of tablets to collect more information in future projects.
+
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">some coastal boat heritage <a href="https://twitter.com/NordicUHI">@NordicUHI</a> this week with a  visit to the Bressay History Group! <a href="https://twitter.com/digiscot">@digiscot</a> <a href="https://twitter.com/scvotweet">@scvotweet</a> <a href="http://t.co/MWFEYEB0la">pic.twitter.com/MWFEYEB0la</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/648210904933343232">September 27, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 
 ## Evaluation
 
