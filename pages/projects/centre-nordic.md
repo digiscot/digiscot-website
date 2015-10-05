@@ -208,7 +208,7 @@ Silke Reeploeg has also introduced the project to members of the Bressay History
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">some coastal boat heritage <a href="https://twitter.com/NordicUHI">@NordicUHI</a> this week with a  visit to the Bressay History Group! <a href="https://twitter.com/digiscot">@digiscot</a> <a href="https://twitter.com/scvotweet">@scvotweet</a> <a href="http://t.co/MWFEYEB0la">pic.twitter.com/MWFEYEB0la</a></p>&mdash; silke reeploeg (@SilkeReeploeg) <a href="https://twitter.com/SilkeReeploeg/status/648210904933343232">September 27, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+Our website is up and running! This is where we have collected all the records captured by our lovely project participants. The page still needs some tweaking and there are also some records still to be uploaded. But as a work in progress, we are very pleased. See it [here](http://digital.norseworld.com/)    
 
 
 ## Evaluation
