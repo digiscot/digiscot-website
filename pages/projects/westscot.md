@@ -22,7 +22,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-This project will employ a part-time Digital Inclusion Communications Coordinator at our Learning Centre at the G31 Centre, a community center in the heart of Camlachie, Glasgow. The G31 Learning Centre is part of the wider John Wheatley Learning Networn, and is run in partnership with Glasgow Kelvin College.
+This project will employ a part-time Digital Inclusion Communications Coordinator at our Learning Centre at the G31 Centre, a community center in the heart of Camlachie, Glasgow. The G31 Learning Centre is part of the wider John Wheatley Learning Network, and is run in partnership with Glasgow Kelvin College.
 
 The Coordinator role will include facilitating the Learning Centre’s operation, registering new users and assisting service users in getting the most out of equipment and software. The Coordinator will work alongside the Regeneration Department at WSHA in the creation and continual evaluation of a timetable of activities at the G31 Learning Centre to ensure that the community's needs are being addressed.
 
@@ -58,8 +58,7 @@ The Coordinator will also liaise with key partners and other local service users
 - 5th August 2015 : Niamh attended the weekly Tea Dance at the G31 Centre. This event, organised in collaboration with Thriving Places, attracts a range of attendees from across Glasgow, including Older People and some John Orr Day Care service users who experience learning difficulties. The Tea Dance was cited as an excellent opportunity to meet with some Older People, and local service users with Disabilities. 
 - 5th August 2015 : Niamh was introduced to Mhairi from Axis (North Glasgow Healthy Living Commmunity) and a volunteer from the Camlachie Communtiy who have exptressed interest in further involvement in the G31 Learning Centre in collaboration with the John Orr Day Care service offered by Care UK.
 - 6th August 2015 : On Dawn McManus' suggestionNiamh and Marco visited the Thenue Housing Association weekly drop-in aimed at giving IT support to Older People in the Bridgeton and Calton areas. This was useful to touch base with similar services and avoid service duplication.
-- 
-- EDIT TEST 30/09/2015
+
 
 ## Evaluation
 
