@@ -216,36 +216,57 @@ Our website is up and running! This is where we have collected all the records c
 The project will be continuously evaluated. Participants will complete a questionnaire at the start and end of the project. 10% of the participants will also be interviewed. In this way CNS will establish the success of the project from the start. The amount of data captured and uploaded will also be continuously monitored. 
 
 
-Outputs and outcomes
+## Outputs and outcomes
 Overall this project has been a great success and we are delighted with the outcomes. We have all very much enjoyed working with the different community groups and are keen to continue with this work in the future. 
 
 From the very start of the project, we made great efforts to maximise the impact of the project and gain interest from elderly people in the local community. We therefore sent in press releases and advertised in the local papers (The Orcadian and Shetland Times) and were interviewed by BBC Radio Orkney and BBC Radio Shetland. We also designed an information leaflet and a PowerPoint presentation, which we used at our different meetings.
 In terms of outputs we delivered a number of workshops aimed at elderly people in Orkney and Shetland. We managed to cover a large number of different islands and places, which can be summarised as follows:  
 
 Orkney: 
-•	Presentation to the Orkney Heritage Society in Kirkwall. 
+•	Presentation to the Orkney Heritage Society in Kirkwall.
+
 •	Meeting with elderly people on the island of North Ronaldsay. 
+
 •	Workshop held at Orkney College in Kirkwall.
+
 •	Workshop with the Orkney branch of the University of the Third Age (U3A) at the Orkney Library in Kirkwall.
+
 •	Workshop with the Afternoon Club on the island of Sanday.
+
 •	One to one session with an elderly person in Kirkwall. This was repeated a second time.   
+
 •	Session with two members of the public who came the Centre for Nordic Studies to learn about the project.
+
 •	One to one session with a 91-year old at Dyke End on Scapa Bay, Orkney Mainland. 
+
 •	Weekend in the island of Flotta gathering stories and memories from elderly people on the community. 
-•	Data gathering in Firth, Orkney Mainland. 
+
+•	Data gathering in Firth, Orkney Mainland.
+
 •	Weekend in the island of Papa Westray. 
 
+
 Shetland: 
-•	Meeting with the chairperson of the Shetland Heritage Association, Shetland Mainland.  
-•	Workshop with elderly people learning about genealogy at the Learning Centre in Symbister House on the island of   Whalsay
+•	Meeting with the chairperson of the Shetland Heritage Association, Shetland Mainland. 
+
+•	Workshop with elderly people learning about genealogy at the Learning Centre in Symbister House on the island of   Whalsay.
+
 •	Workshop held at Shetland College in Lerwick.
+
 •	Workshop the Heritage Centre on the island of Fetlar.
+
 •	Workshop at the Old Haa Heritage Centre at Burravoe on the island of Yell. 
+
 •	Workshop at the Heritage Centre and Boat Haven in Haraldswick on the island of Unst.
+
 •	Visit to the Scalloway Museum on the Shetland Mainland.
+
 •	Workshop with the eight custodians of the Quendale Mill Heritage Centre, Sumburgh on the Shetland Mainland.
+
 •	Workshop at the North Mainland Learning Centre in Brae on the Shetland Mainland. 
-•	‘Gie it a Go’ Day in Mossbank, Shetland Mainland 
+
+•	‘Gie it a Go’ Day in Mossbank, Shetland Mainland.
+
 •	Workshop with the Bressay History Group, the island of Bressay.
 
 
@@ -268,10 +289,11 @@ It is clear that the large majority of the project participants were new to this
 
 In terms of general feedback on the project (Question 3), people were enthusiastic, with comments such as ‘Fascinating project!’, ‘This seems an easy way to record history’ and ’worthwhile project’. One participant said: ‘I was a bit afraid of the tablet, but once I had been given friendly instruction I would be happy to do more on my own’. An added benefit was the recording function of the app, which was commented on by a Shetland participant, who enjoyed being able to record history in their own dialect, which of course is much more difficult in writing. Another participant said: ‘Being able to relate to a specific subject makes this use of a tablet real’.  
 
-Lessons learned
+### Lessons learned
 
 Things that worked well:
 1. Organising workshops via already existing local groups, such as the University of the 3rd Age and Sanday Afternoon Club. Since these groups were already meeting regularly we were able to join their meetings to present the project. This worked better than the open workshops we held in Kirkwall, Papa Westray and Lerwick where people had to use their own initiative to come. Coming along independently can be difficult for older people and the open workshops were not as well attended as we had hoped. So contact with existing community groups targeted at older people was definitely a good idea.
+
 Also, attending community events such as the ‘Gie it a Go’ day in Shetland worked really well, as both the target group (older people) and family members could participate within an informal setting. In this way, family members could encourage and help their elderly relatives to overcome their initial resistance to using digital technology. 
 
 2. The one-to-one sessions worked well once the initial hurdle of making contact and setting up a date, time and meeting place was overcome. Assisting the participants in using the Hudl tablet on a one-to-one basis felt more comfortable for the participants and we gathered more material this way.
@@ -281,6 +303,7 @@ Also, attending community events such as the ‘Gie it a Go’ day in Shetland w
 4. The choice of app (Fieldtrip GB) was commented on positively by many participants, who thought that was a really good use of tablet technology and expanded their knowledge of what you could do with IT and the internet. Overall the app was much admired and the users could really see how this would impact on their research making it easier to do. There was definite interest from those wanting to collect stories from older members of the community.
 
 Things that we would do differently next time:
+
 1. The ‘community agent’ approach didn’t work very well. These were meant to be dedicated participants who would help older people in their acquaintance use the technology, and for example drive them to places they have memories about. We found it difficult to recruit people who had enough determination to actually go out and do these things without us being there with them. We had some people from the Orkney Heritage Society, and other community members, who expressed great enthusiasm and who were trained by us in using the technology and borrowed Hudls, but then failed to do any data gathering with new participants. 
 
 2. Leaving Hudls with members of the island communities did not gather as much material as we had hoped. We found that people enjoyed sharing memories and stories while we were there to assist them, but the leap required to do it on their own (even with the detailed visual instruction booklet and us a phone call away) was too great for most participants. In a future project we would arrange a series of visits to the same group in order to help people learn to master the technology and gather even more data.  We found that participants often needed more than one session to simply learn how to use the tablet and all its features, before getting to grips with the app itself. 
