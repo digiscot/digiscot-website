@@ -216,24 +216,76 @@ Our website is up and running! This is where we have collected all the records c
 The project will be continuously evaluated. Participants will complete a questionnaire at the start and end of the project. 10% of the participants will also be interviewed. In this way CNS will establish the success of the project from the start. The amount of data captured and uploaded will also be continuously monitored. 
 
 
-### Outputs and outcomes
+Outputs and outcomes
+Overall this project has been a great success and we are delighted with the outcomes. We have all very much enjoyed working with the different community groups and are keen to continue with this work in the future. 
 
-Overall this project X, Y, Z.
+From the very start of the project, we made great efforts to maximise the impact of the project and gain interest from elderly people in the local community. We therefore sent in press releases and advertised in the local papers (The Orcadian and Shetland Times) and were interviewed by BBC Radio Orkney and BBC Radio Shetland. We also designed an information leaflet and a PowerPoint presentation, which we used at our different meetings.
+In terms of outputs we delivered a number of workshops aimed at elderly people in Orkney and Shetland. We managed to cover a large number of different islands and places, which can be summarised as follows:  
 
-In terms of outputs we delivered A, B and C.
+Orkney: 
+•	Presentation to the Orkney Heritage Society in Kirkwall. 
+•	Meeting with elderly people on the island of North Ronaldsay. 
+•	Workshop held at Orkney College in Kirkwall.
+•	Workshop with the Orkney branch of the University of the Third Age (U3A) at the Orkney Library in Kirkwall.
+•	Workshop with the Afternoon Club on the island of Sanday.
+•	One to one session with an elderly person in Kirkwall. This was repeated a second time.   
+•	Session with two members of the public who came the Centre for Nordic Studies to learn about the project.
+•	One to one session with a 91-year old at Dyke End on Scapa Bay, Orkney Mainland. 
+•	Weekend in the island of Flotta gathering stories and memories from elderly people on the community. 
+•	Data gathering in Firth, Orkney Mainland. 
+•	Weekend in the island of Papa Westray. 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+Shetland: 
+•	Meeting with the chairperson of the Shetland Heritage Association, Shetland Mainland.  
+•	Workshop with elderly people learning about genealogy at the Learning Centre in Symbister House on the island of   Whalsay
+•	Workshop held at Shetland College in Lerwick.
+•	Workshop the Heritage Centre on the island of Fetlar.
+•	Workshop at the Old Haa Heritage Centre at Burravoe on the island of Yell. 
+•	Workshop at the Heritage Centre and Boat Haven in Haraldswick on the island of Unst.
+•	Visit to the Scalloway Museum on the Shetland Mainland.
+•	Workshop with the eight custodians of the Quendale Mill Heritage Centre, Sumburgh on the Shetland Mainland.
+•	Workshop at the North Mainland Learning Centre in Brae on the Shetland Mainland. 
+•	‘Gie it a Go’ Day in Mossbank, Shetland Mainland 
+•	Workshop with the Bressay History Group, the island of Bressay.
 
-### Lessons learned
+
+At every meeting we asked participants to fill out our questionnaire in order to establish their level of knowledge and experience of digital technology and smart phones/tablets before taking part in the project. In-depth interviews were also carried out with select groups, after the project had been completed. This allowed us to collect a great deal of information about the success of the project and what should be done differently in the future.    
+
+The following questions were asked in our initial questionnaire:  
+
+•	Did you have experience with using a ‘tablet’ (hand-held computer) before? (Had never used one before / Have had a go, but not a lot of experience / I have prior experience using a tablet) 
+
+•	Do you think that trying a ‘tablet’ for the Digital Heritage project would inspire you to use a “tablet” again for other things if you get the chance in the future?
+
+•	What feedback would you give the Centre for Nordic Studies about the Digital Heritage project?
+
+A website (based on Drupal) has been set up for the purposes of the project [(see it here)](http://digital.norseworld.com/), to which all the data captured by our project participants will be uploaded. To date, most records have been added to the site, but due to technical problems, some remain to be added. Another problem encountered has been the loss of information when the information is sent from the device to the website. Most of these errors have now been rectified, but we are still in the process of checking all the individual records. The project funding has paid for this site to be maintained for the next 10 years, which will enable us to continue using the website for further work on the Digital Heritage project. We can also use it later and extend it for other, similar, community projects.  
+
+In terms of outcomes for the people and groups we care about, this project has certainly achieved its aims. We have reached a large number of elderly people with no or little knowledge of digital technology and taught them how to use tablets and/or smart phones. At the same time we also gathered a lot of information about Orkney and Shetland, data which is now available on our website. 
+
+From our close work with these community members, the completed questionnaires and our in-depth interviews we know that people enjoyed taking part, have overcome their apprehension of smart phones, tablets and digital technology, and feel ready to try again. Many people did actually have smart phones and tablets and through our workshops we showed them what additional uses these devices have. In particular, many people were delighted when discovering the GPS function, and commented that this was a feature they were likely to use again, independent of the Fieldtrip GB app. 
+It is clear that the large majority of the project participants were new to this type of technology. In fact, only 20% of participants ticked the box saying that they had ‘prior experience using a tablet’, while 26% said that they had ‘had a go, but not a lot of experience’, which means that over half (54%) had never used a table before. Overall, the project participants found the workshops inspiring and useful. In reply to the second question on our questionnaire, only 6.7% replied that they did not feel inspired to using a tablet or smart phone again, while 15% said that they would most likely try again. The remainder of the participants were all very keen to continue using digital technology. 
+
+In terms of general feedback on the project (Question 3), people were enthusiastic, with comments such as ‘Fascinating project!’, ‘This seems an easy way to record history’ and ’worthwhile project’. One participant said: ‘I was a bit afraid of the tablet, but once I had been given friendly instruction I would be happy to do more on my own’. An added benefit was the recording function of the app, which was commented on by a Shetland participant, who enjoyed being able to record history in their own dialect, which of course is much more difficult in writing. Another participant said: ‘Being able to relate to a specific subject makes this use of a tablet real’.  
+
+Lessons learned
 
 Things that worked well:
+1. Organising workshops via already existing local groups, such as the University of the 3rd Age and Sanday Afternoon Club. Since these groups were already meeting regularly we were able to join their meetings to present the project. This worked better than the open workshops we held in Kirkwall, Papa Westray and Lerwick where people had to use their own initiative to come. Coming along independently can be difficult for older people and the open workshops were not as well attended as we had hoped. So contact with existing community groups targeted at older people was definitely a good idea.
+Also, attending community events such as the ‘Gie it a Go’ day in Shetland worked really well, as both the target group (older people) and family members could participate within an informal setting. In this way, family members could encourage and help their elderly relatives to overcome their initial resistance to using digital technology. 
 
-1. Text
-2. Text
-3. Text
+2. The one-to-one sessions worked well once the initial hurdle of making contact and setting up a date, time and meeting place was overcome. Assisting the participants in using the Hudl tablet on a one-to-one basis felt more comfortable for the participants and we gathered more material this way.
+
+3. The island visits, such as the visit to Papa Westray where we did ‘snowball recruiting’ in the community were also very successful. We started with people we already knew, who introduced us to their neighbours, who in turn had further tips on people to contact. Also being bold and knocking on doors and contacting people while at the island shop and pub worked well. 
+
+4. The choice of app (Fieldtrip GB) was commented on positively by many participants, who thought that was a really good use of tablet technology and expanded their knowledge of what you could do with IT and the internet. Overall the app was much admired and the users could really see how this would impact on their research making it easier to do. There was definite interest from those wanting to collect stories from older members of the community.
 
 Things that we would do differently next time:
+1. The ‘community agent’ approach didn’t work very well. These were meant to be dedicated participants who would help older people in their acquaintance use the technology, and for example drive them to places they have memories about. We found it difficult to recruit people who had enough determination to actually go out and do these things without us being there with them. We had some people from the Orkney Heritage Society, and other community members, who expressed great enthusiasm and who were trained by us in using the technology and borrowed Hudls, but then failed to do any data gathering with new participants. 
 
-1. Text
-2. Text
-3. Text
+2. Leaving Hudls with members of the island communities did not gather as much material as we had hoped. We found that people enjoyed sharing memories and stories while we were there to assist them, but the leap required to do it on their own (even with the detailed visual instruction booklet and us a phone call away) was too great for most participants. In a future project we would arrange a series of visits to the same group in order to help people learn to master the technology and gather even more data.  We found that participants often needed more than one session to simply learn how to use the tablet and all its features, before getting to grips with the app itself. 
+
+3. The project period was too short. Ideally we would have wanted to run it until Christmas, but this was not possible due funding regulations. When we were planning the project, we thought summer would be the best time for data gathering in terms of weather, but we in actual fact it would have been better to run this later in the year as many people, especially farmers, tend to be very busy during the summer. This summer was particularly difficult due to the rainy weather, which meant that the farming season ran for longer than usual. We were in contact with additional community groups and organisations, such as the Westray Heritage Centre (on the island of Westray), the Shapinsay ranger (on the island of Shapinsay), the Friends of St Ninian’s in Deerness (Orkney mainland) and the Stromness museum (Orkney mainland), all of which expressed interest in the project and wanted us to do workshops with them, but were unable to find a time at this time of year that would suit them. 
+
+In addition, many people have been in touch wanting to learn how to use the equipment recently. People clearly take a long time to think about using new technology and it needs multiple adverts, phone calls and interviews for them to make the decision to get involved. Long lead in times are needed.
+
