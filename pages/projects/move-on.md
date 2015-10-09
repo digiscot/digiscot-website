@@ -43,6 +43,7 @@ We are encouraging our learners to participate in the Six Book Challenge and to 
 ### Phase 1
 
 - Publicise service
+  - Our new [website](www.moveon.org.uk/literacy] is now live and printed leaflets are available
 - IT literacy skills benchmarked
 
 ![Move on IT skills graph](/images/projects/move on - IT skills.jpg)
