@@ -40,23 +40,50 @@ We have added some photos from our recent workshop sessions.
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+There has been a demand for the project with 84 people taking part in workshop sessions during the period
+April to September 2015. 64% of participants were male, with 53% of participants being over 50 years old.
+Only 3 young people aged 16 to 24 years took part in the project. Participants stated that they have grown in confidence and motivation in accessing digital services and going on-line but still need quite a high level of support and guidance and will continue to do so after they have taken part in the project. This support is not readily available at other locations where digital access is available.
+The activities most in demand were basic keyboard skills, navigating digital devices, using Universal
+Jobmatch, basic typing skills, CVs, using e-mail, online shopping, navigating the internet and interview
+skills.
+The activities least in demand were basic grammar and spelling, budgeting and financial products.
+90% of participants stated that they have learned new skills and 60% of these participants stated that they
+have increased confidence in putting these skills into practice. However 40% of participants stated that
+they need additional learning activities to reinforce their new skills and that they will need on-going support
+to help them put their skills into practice. The participants who stated this were mainly those in the 50+
+years age group.
+During the period April to September 2015 a total of 17 participants in the project moved from DWP
+benefits into employment.
 
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+In terms of outcomes for the people and groups we care about, the project activities were developed in response to recognised community needs and statistical evidence. Activities and duration of workshops were flexible in order to respond effectively to the needs of the participants. The project was designed to address the issues of poverty and lack of skills and most of the participants were experiencing these inequalities. 90% of participants in the project were unemployed, claiming benefits
+and had low skills levels. The project provided an opportunity for local people to address the issue of lack of skills and gave them the motivation and confidence to continue with their learning, access additional opportunities for personal
+development and to improve their economic situation. This is backed up by feedback from the participants which was captured through using Survey Monkey questionnaires and through informal feedback. We will share the Survey Monkey evaluation later.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+Partnership working with Job Centre Plus was particularly successful with work coaches making a large number of referrals to the project and circulating information about the project to their service users.
+Throughout the project we promoted learning as our main priority and encouraged the participants to
+continue with their learning and to access further resources to improve their skills.
+The flexible and informal way in which the project was delivered made it easy for people to engage with the
+activity.
+Learning activities were tailored to suit the needs of the individual participants, which encouraged them to
+take part in more workshop sessions.
+Workshop groups were small, no more than 3 to 4 people, which encouraged people with low levels of
+confidence to take part.
+Participants did not have to sign up to a weekly commitment to attend the activity, attendance was flexible
+and not limited to the amount of workshops a person could attend.
+We will continue to deliver the project over the next six months, looking at the issues of:
+Consultation with young people aged between 16 and 24 years
+Addressing with our partners the issue of the requirement for support for people going online at other
+locations e.g the local library or community centre
+Signposting participants to additional learning activities to reinforce the new skills they have achieved and
+to increase levels of confidence in using these skills.
 
 Things that we would do differently next time:
 
