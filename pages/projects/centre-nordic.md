@@ -222,7 +222,10 @@ Overall this project has been a great success and we are delighted with the outc
 From the very start of the project, we made great efforts to maximise the impact of the project and gain interest from elderly people in the local community. We therefore sent in press releases and advertised in the local papers (The Orcadian and Shetland Times) and were interviewed by BBC Radio Orkney and BBC Radio Shetland. We also designed an information leaflet and a PowerPoint presentation, which we used at our different meetings.
 In terms of outputs we delivered a number of workshops aimed at elderly people in Orkney and Shetland. We managed to cover a large number of different islands and places, which can be summarised as follows:  
 
+
+
 Orkney: 
+
 •	Presentation to the Orkney Heritage Society in Kirkwall.
 
 •	Meeting with elderly people on the island of North Ronaldsay. 
@@ -246,7 +249,9 @@ Orkney:
 •	Weekend in the island of Papa Westray. 
 
 
+
 Shetland: 
+
 •	Meeting with the chairperson of the Shetland Heritage Association, Shetland Mainland. 
 
 •	Workshop with elderly people learning about genealogy at the Learning Centre in Symbister House on the island of   Whalsay.
@@ -292,9 +297,8 @@ In terms of general feedback on the project (Question 3), people were enthusiast
 ### Lessons learned
 
 Things that worked well:
-1. Organising workshops via already existing local groups, such as the University of the 3rd Age and Sanday Afternoon Club. Since these groups were already meeting regularly we were able to join their meetings to present the project. This worked better than the open workshops we held in Kirkwall, Papa Westray and Lerwick where people had to use their own initiative to come. Coming along independently can be difficult for older people and the open workshops were not as well attended as we had hoped. So contact with existing community groups targeted at older people was definitely a good idea.
 
-Also, attending community events such as the ‘Gie it a Go’ day in Shetland worked really well, as both the target group (older people) and family members could participate within an informal setting. In this way, family members could encourage and help their elderly relatives to overcome their initial resistance to using digital technology. 
+1. Organising workshops via already existing local groups, such as the University of the 3rd Age and Sanday Afternoon Club. Since these groups were already meeting regularly we were able to join their meetings to present the project. This worked better than the open workshops we held in Kirkwall, Papa Westray and Lerwick where people had to use their own initiative to come. Coming along independently can be difficult for older people and the open workshops were not as well attended as we had hoped. So contact with existing community groups targeted at older people was definitely a good idea. Also, attending community events such as the ‘Gie it a Go’ day in Shetland worked really well, as both the target group (older people) and family members could participate within an informal setting. In this way, family members could encourage and help their elderly relatives to overcome their initial resistance to using digital technology. 
 
 2. The one-to-one sessions worked well once the initial hurdle of making contact and setting up a date, time and meeting place was overcome. Assisting the participants in using the Hudl tablet on a one-to-one basis felt more comfortable for the participants and we gathered more material this way.
 
@@ -308,7 +312,5 @@ Things that we would do differently next time:
 
 2. Leaving Hudls with members of the island communities did not gather as much material as we had hoped. We found that people enjoyed sharing memories and stories while we were there to assist them, but the leap required to do it on their own (even with the detailed visual instruction booklet and us a phone call away) was too great for most participants. In a future project we would arrange a series of visits to the same group in order to help people learn to master the technology and gather even more data.  We found that participants often needed more than one session to simply learn how to use the tablet and all its features, before getting to grips with the app itself. 
 
-3. The project period was too short. Ideally we would have wanted to run it until Christmas, but this was not possible due funding regulations. When we were planning the project, we thought summer would be the best time for data gathering in terms of weather, but we in actual fact it would have been better to run this later in the year as many people, especially farmers, tend to be very busy during the summer. This summer was particularly difficult due to the rainy weather, which meant that the farming season ran for longer than usual. We were in contact with additional community groups and organisations, such as the Westray Heritage Centre (on the island of Westray), the Shapinsay ranger (on the island of Shapinsay), the Friends of St Ninian’s in Deerness (Orkney mainland) and the Stromness museum (Orkney mainland), all of which expressed interest in the project and wanted us to do workshops with them, but were unable to find a time at this time of year that would suit them. 
-
-In addition, many people have been in touch wanting to learn how to use the equipment recently. People clearly take a long time to think about using new technology and it needs multiple adverts, phone calls and interviews for them to make the decision to get involved. Long lead in times are needed.
+3. The project period was too short. Ideally we would have wanted to run it until Christmas, but this was not possible due funding regulations. When we were planning the project, we thought summer would be the best time for data gathering in terms of weather, but we in actual fact it would have been better to run this later in the year as many people, especially farmers, tend to be very busy during the summer. This summer was particularly difficult due to the rainy weather, which meant that the farming season ran for longer than usual. We were in contact with additional community groups and organisations, such as the Westray Heritage Centre (on the island of Westray), the Shapinsay ranger (on the island of Shapinsay), the Friends of St Ninian’s in Deerness (Orkney mainland) and the Stromness museum (Orkney mainland), all of which expressed interest in the project and wanted us to do workshops with them, but were unable to find a time at this time of year that would suit them. In addition, many people have been in touch wanting to learn how to use the equipment recently. People clearly take a long time to think about using new technology and it needs multiple adverts, phone calls and interviews for them to make the decision to get involved. Long lead in times are needed.
 
