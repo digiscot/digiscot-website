@@ -90,8 +90,4 @@ Things that worked well:
 2. Young tutor assistants from local school
 3. Experienced tutors with knowledge of technical and social aspects of the internet. 
 
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
+[Blog post](http://www.scvo.org.uk/blog/get-to-know-the-internet/) on the Get to Know the Internet project
