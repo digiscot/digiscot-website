@@ -33,12 +33,12 @@ To see a list of the projects we've supported so far check out the <a href="/pro
         <td>27th July - 04th September</td>
       </tr>
                   <tr>
-      <td class="success col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
-        <td class="success">04th September - 16th September</td>
+      <td class="col-md-6">Applications are assessed by the Digital team & recommendations are made</td>
+        <td>04th September - 16th September</td>
       </tr>
                                 <tr>
-      <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
-        <td>09th October</td>
+      <td class="success col-md-6">The Leadership Group will approve the final portfolio</td>
+        <td class="success">09th October</td>
       </tr>
                                 <tr>
       <td class="col-md-6">All applicants notified of the outcome of their application</td>
