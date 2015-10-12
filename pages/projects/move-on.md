@@ -26,6 +26,12 @@ Move On will provide IT Literacy skills to service users in Glasgow who have exp
 
 The project will also include setting up and moderating a secure online group for current and past service users to practise their skills and to facilitate monitoring their ongoing use of IT and the overall impact their increased skills and knowledge has on their lives.
 
+###Website blog
+
+We are encouraging our service users to write blogs for our new website. Here's the first one!
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/MoveOnScotland/posts/952859344787132:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/MoveOnScotland/posts/952859344787132:0"><p>See Morgan and Sarah&#039;s blog on our new website, about their experiences on our Youth and Community Skills programme. http://www.moveon.org.uk/blog/my-move-on-experience-morgan-and-sarah.  Thank you ladies!</p>Posted by <a href="https://www.facebook.com/MoveOnScotland">Move On Scotland</a> on&nbsp;<a href="https://www.facebook.com/MoveOnScotland/posts/952859344787132:0">Friday, 9 October 2015</a></blockquote></div></div>
+
 ###New computer suite
 
 As you can see below, we now have a suite of new computers in our group work room which will mean that our literacy tutors can offer far more wide ranging IT support.
