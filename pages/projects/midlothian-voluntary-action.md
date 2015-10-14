@@ -100,7 +100,9 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 ### Concluding Phase: October - December 2015
 
-TBC
+* October 13th - Stall at Penicuik Library promoting internet access for <a href="https://twitter.com/search?q=%23GOLW15&src=typd">Get Online Week</a>
+
+<img src="https://lh3.googleusercontent.com/-EFO_Ij19LR0/Vh1FlbLLjaI/AAAAAAAAIRs/7hS3L15o000/s1280-Ic42/WP_20151013_14_36_38_Pro.jpg" alt="Get Online Week Stall at Penicuik Library" Width="500">
 
 
 
