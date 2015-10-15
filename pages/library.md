@@ -26,6 +26,7 @@ We're passionate about digital participation, and we spend lots of our time read
 #### Citizens Advice Scotland
 
 * [Internet access in Glasgow's deprived areas](http://www.cas.org.uk/system/files/publications/internet_access_in_glasgow_2015_final_-_aug_15.pdf) 
+* [Offline and left behind: Digital exclusion amongst Scotland's CAB clients](http://www.cas.org.uk/system/files/publications/OFFLINE%20AND%20LEFT%20BEHIND%20INDESIGN.pdf)
 
 #### Deloitte
 
