@@ -86,6 +86,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 * Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
 * Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group
 
+#### RESULTS
+
+* July 2nd - sent email to 434 organisations in Midlothian promoting the project: <a href="http://us6.campaign-archive2.com/?u=80f4363fd5fef419efb977c50&id=cae87e9db2" target="_new">Online Version</a>
+
 * July 20th - Digital Inclusion training with 8 staff members from Intowork
  
 <img src="https://lh3.googleusercontent.com/-3pKfxRb146Q/Va4DBBW_mKI/AAAAAAAAIG0/HVdbgTk_mXw/s1152-Ic42/WP_20150720_004.jpg" alt="Intowork" Width="500">
@@ -98,7 +102,11 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 <img src="https://lh3.googleusercontent.com/-a_j1tBygmQ4/VfqHPbBWLwI/AAAAAAAAIOg/LliuKeimwYc/s512-Ic42/Midlothian.png" alt="Midlothian Libraries Article" Width="500">
 
+* September 15th - sent email to 433 organisations in Midlothian promoting the project: <a href="http://us6.campaign-archive1.com/?u=80f4363fd5fef419efb977c50&id=faf312b602" target="_new">Online Version</a>
+
 ### Concluding Phase: October - December 2015
+
+* October 8th - sent email to 421 organisations in Midlothian promoting the project: <a href="http://us6.campaign-archive1.com/?u=80f4363fd5fef419efb977c50&id=8ee6742e78" target="_new">Online Version</a>
 
 * October 13th - Stall at Penicuik Library promoting the benefits of internet access for <a href="https://twitter.com/search?q=%23GOLW15&src=typd">Get Online Week</a>
 
