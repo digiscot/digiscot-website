@@ -48,6 +48,7 @@ We're passionate about digital participation, and we spend lots of our time read
 #### Outside the Box
 
 * [Hints & Tips: Digital Inclusion & Mental Health](http://otbds.org/assets/uploaded_files/project/Digitalinclusionmentalhealthhintsandtips__-2.pdf)
+* [Digital Inclusion and Older People: Hints & Tips](http://otbds.org/assets/uploaded_files/project/Digitalinclusionoldrepeoplehintsandtips__.pdf)
 
 #### Oxford Internet Surveys
 
