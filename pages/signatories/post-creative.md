@@ -1,12 +1,12 @@
 ---
 layout: signatory
-title: Fluent Digital CIC
+title: Post Creative CIC
 excerpt: 
 website: 
 twitter-url: 
-email: scott@fluent.org.uk
+email: scott@post-creative.org.uk
 image: 
-permalink: /charter/fluent-digital/
+permalink: /charter/post-creative/
 ---
 
 Use this space to tell people why your organisation signed the Digital Participation Charter and which projects you are supporting.
