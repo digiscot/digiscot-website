@@ -112,6 +112,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 <img src="https://lh3.googleusercontent.com/-EFO_Ij19LR0/Vh1FlbLLjaI/AAAAAAAAIRs/7hS3L15o000/s1280-Ic42/WP_20151013_14_36_38_Pro.jpg" alt="Get Online Week Stall at Penicuik Library" Width="500">
 
+* October 15th - Stall at Newtongrange Library promoting the benefits of internet access for <a href="https://twitter.com/search?q=%23GOLW15&src=typd">Get Online Week</a>
+
+<img src="https://lh3.googleusercontent.com/-Q-0KNPdH_TY/ViCvVkMDKAI/AAAAAAAAISc/ng6Fu0q3ewg/s1152-Ic42/WP_20151015_15_28_11_Pro.jpg" alt="Get Online Week Stall at Newtongrange Library" Width="500">
+
 
 
 ## Evaluation
