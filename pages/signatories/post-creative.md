@@ -4,7 +4,7 @@ title: Post Creative CIC
 excerpt: 
 website: 
 twitter-url: 
-email: scott@post-creative.org.uk
+email: scott@postcreative.org.uk
 image: 
 permalink: /charter/post-creative/
 ---
