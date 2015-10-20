@@ -8,8 +8,8 @@ website: http://forresarea.org/
 email: info@forresarea.org
 twitter-url: https://twitter.com/Forres_Area
 facebook-url: https://www.facebook.com/forresarea
-start: May 2015
-end: Dec 2015
+start: August 2015
+end: March 2015
 award: 6440
 postcode: IV36 1SW
 image:
@@ -18,26 +18,26 @@ permalink: /projects/fact/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
-## Project plan
+## Project Plan
+Over a six month period Forres Area Community Trust (FACT) will develop a digital project called Forres Online, aiming to make being online easy and accessible for those living in the local area.  The project will primarily focus on reaching older members of the community and those seeking employment, helping these individuals get on in life by being online.
 
-### Project description
+In partnership with local organisations, FACT will develop a programme of training for online learning and activity in Forres.  Volunteer tutors will be recuited, trained, and supported to provide sessions for the public during drop in daytime hours and evening sessions.  FACT will provide a fully equipped training room with free WiFi access, laptops, and tablets so that members of the public and volunteers will have a functional space to learn in.
 
-FACT, in partnership with others, will develop a programme of training for online learning and activity in Forres. We will recruit, train and support volunteer tutors to provide sessions for individuals to develop and use digital skills by learning about, safe and easy use of digital technology. FACT will provide a fully equipped training room with free Wifi access various laptops and tablets and will run a programme of events, drop-in clinics and one to one help. 
-More Forres older people will connect with friends and family, access online shopping and banking which will reduce isolation, access new services and stimulate interest in topics of individual interest.
-Forres volunteers will develop tutoring skills to enhance their existing digital skills, and will increase their contribution to the community.
-Forres job seekers and benefit claimants will become better informed by improved access to online information.
+Forres Online will help older membbers of the community connect with friends and family online, do internet shopping and banking, and access topics of interest and advice where needed reducing isolation and promoting independent living.  Local job seekers and benefit claimants will become better informed about the services they can access via online information and have increased job opportunities from gaining digital skills and submitting acurate online job applications.  Volunteer tutuors will develop tutoring skills to enhance their existing skill set contributing to their personal development and wider development of an engaged community.
 
 
+### Project Description
 
-## Project milestones
 
+
+## Project Milestones
+
+August 28th: 25 local people attend Forres Online launch event 
 
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
-
-### Outputs and outcomes
+### Outputs and Outcomes
 
 Overall this project X, Y, Z.
 
@@ -45,16 +45,16 @@ In terms of outputs we delivered A, B and C.
 
 In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
-### Lessons learned
+### Lessons Learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Local partnerships with ReBoot and Living It Up 
+2. 
+3. 
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. 
+2. 
+3. 
