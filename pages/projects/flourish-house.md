@@ -9,7 +9,7 @@ email: info@flourishhouse.org.uk
 twitter-url: flourishhouse1 
 facebook-url: https://www.facebook.com/flourish.house.5
 start: May 2015
-end: March 2016
+end: October 2015
 award: 6083
 postcode: G3 6DR
 image:
@@ -125,18 +125,14 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We received this wonderful photo tent as a gift yesterday! <a href="https://twitter.com/hashtag/professional?src=hash">#professional</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/aEVXQ4sqbE">pic.twitter.com/aEVXQ4sqbE</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/641184804504006656">September 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-###November 2015
-- Recruit more peer mentors and volunteers from past participants of courses
+###October 2015
+- continue with Glasgow Kelvin College course, Ebay training and CV/Skills workshop. This month we will try to get 19 members to type their CVs.
 
-###December 2015
-TBA
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Getting ready to learn some IT Skills at <a href="https://twitter.com/GKCollege">@GKCollege</a>!!! <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="https://twitter.com/hashtag/digiscot2015?src=hash">#digiscot2015</a> <a href="https://t.co/kX1aE6iKm3">pic.twitter.com/kX1aE6iKm3</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/656460695656120320">October 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-###January 2015
-- Deliver Ebay Training Module and support. 
-
-###February 2015
-
-###March 2015
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Getting student ID cards at <a href="https://twitter.com/GKCollege">@GKCollege</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="https://twitter.com/hashtag/digiscot2015?src=hash">#digiscot2015</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/656461117015904256">October 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Evaluation
