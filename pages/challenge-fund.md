@@ -37,8 +37,8 @@ To see a list of the projects we've supported so far check out the <a href="/pro
         <td>04th September - 16th September</td>
       </tr>
                                 <tr>
-      <td class="success col-md-6">The Leadership Group will approve the final portfolio</td>
-        <td class="success">09th October</td>
+      <td class="col-md-6">The Leadership Group will approve the final portfolio</td>
+        <td class>09th October</td>
       </tr>
                                 <tr>
       <td class="col-md-6">All applicants notified of the outcome of their application</td>
@@ -49,10 +49,10 @@ To see a list of the projects we've supported so far check out the <a href="/pro
         <td>12th October - 16th October</td>
       </tr>
       <tr>
-      <td class="col-md-6">Finalise payment schedules and contracts returned</td>
-        <td>6th November</td>
+      <td class="success col-md-6">Finalise payment schedules and contracts returned</td>
+        <td class="success">6th November</td>
       </tr>
-                  <tr>
+       <tr>
       <td class="col-md-6">First payments made</td>
         <td>16th November</td>
       </tr>
