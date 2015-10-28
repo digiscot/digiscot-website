@@ -116,6 +116,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 <img src="https://lh3.googleusercontent.com/-Q-0KNPdH_TY/ViCvVkMDKAI/AAAAAAAAISc/ng6Fu0q3ewg/s1152-Ic42/WP_20151015_15_28_11_Pro.jpg" alt="Get Online Week Stall at Newtongrange Library" Width="500">
 
+* October 27th - Digital Inclusion training with 4 staff members from Midlothian Libraries (one of whom left before I took the photo)
+
+<img src="https://lh3.googleusercontent.com/-vTWmPL-T6v8/VjChFmehG-I/AAAAAAAAIUc/tb42ob2XuMI/s912-Ic42/WP_20151027_15_53_30_Pro.jpg" alt="Digital Inclusion Training at Gorebridge Library" Width="500">
+
 
 
 ## Evaluation
