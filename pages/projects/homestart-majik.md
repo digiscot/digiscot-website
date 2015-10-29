@@ -30,7 +30,7 @@ Digital skills training for people who are socially isolated
 
 Base line questionnaire  
 
-Initial staff/vol training planning and networking  
+Initial staff/vol training planning and networking - nearly complete as at October 2015
 
 Basic how to guides developed
 
@@ -40,15 +40,23 @@ Advertising and promotion design and raising awareness
 
 ### Phase 3
 
-Increase awareness  & skills events  
-
 Training in homes 
+
+Increase awareness  & skills events - these are in place and the dates scheduled are
+
+16th November Cowal and Kintyre
+
+17th November Mid Argyll
+
+20th November  Bute
+
+20th November Islay and Jura
 
 ### Phase 4
 
 Develop and advertise
 
-Collate info for feedback
+Collate info for feedback - still aiming to have evaluations and feedback complete by mid- to end of December.
 
 
 ## Evaluation
