@@ -53,6 +53,14 @@ Amongst the group we have a couple who are going through change as the husband h
 
 Similar to the above, a lady from out of town with a sick husband, looks forward every week to her opportunity to get out and learn something new. Unfortunately one week she couldn't come because of the doctor's house call. On his way out the doctor  reminded her to have time for herself, she retorted with "you could help by not visiting on a Wednesday morning as I should be at my computer class now, it's the highlight of my week!" We are helping her learn Excel.
 
+Update for October
+
+This month has been varied as always and also involved helping a number of the participants with booking train tickets.  A group of ladies who come each week have decided to take a trip to Thurso on the train. They planned the journey while at the session.  One gentleman was trying to arrange his train travel to Perth at home on Wednesday morning and as he got confused he remembered that the class was on.  He was thrilled when One f the young helpers managed to help him sort the booking out.  hE then had a good time showing me on Google Maps and Google Earth where his family live in that area.
+
+One of the helpers and learners have set up a bond.  She was a new user and seeing the same tutor each week has helped her develop her skills.  Another tutor was working with a learner, who has mastered ordering his repeat prescriptions via the Doctors' Surgery website.  His wife can't attend every week due to an art class but after I told them about the possibility of using TouchNote to create cards, she arrived with some water colour paintings to use. 
+
+
+
 
 ## Evaluation
 
