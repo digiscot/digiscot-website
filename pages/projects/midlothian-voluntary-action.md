@@ -120,7 +120,9 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 <img src="https://lh3.googleusercontent.com/-vTWmPL-T6v8/VjChFmehG-I/AAAAAAAAIUc/tb42ob2XuMI/s912-Ic42/WP_20151027_15_53_30_Pro.jpg" alt="Digital Inclusion Training at Gorebridge Library" Width="500">
 
+* October 29th - Digital Inclusion training with 11 staff members and volunteers from Health in Mind's Midlothian Befriending programme. One person had to leave before I took the photo
 
+<img src="https://lh3.googleusercontent.com/-hQ5bzaGM1QA/VjKQuFj36RI/AAAAAAAAIVA/Mm4PTyHIkUE/s912-Ic42/PA291065.JPG" alt="Digital Inclusion Training with Health in Mind" Width="500">
 
 ## Evaluation
 
