@@ -29,7 +29,9 @@ To support 6 volunteer workshops introducing the social media tool LinkedIn as a
 
 ### Software Development: Ongoing
 
-Have identified [Intercall](http://www.intercall.com/) software to use to deliver webinars and are currently working with the company and our LinkedIn trainer [Jackie Cameron](http://www.consultcameron.com/) to develop her exisiting LinkedIn workshop for webinar format.
+Have identified Webex software to use to deliver webinars and are currently working with the company and our LinkedIn trainer [Jackie Cameron](http://www.consultcameron.com/) to develop her exisiting LinkedIn workshop for webinar format.
+
+We have had to change software providers due to initial communication problems, and delivery issues, however now we are confident with the provider and have completed the 'induction' process.
 
 ### Delivery: Workshop 1, February 2015
 
@@ -56,27 +58,35 @@ Have identified [Intercall](http://www.intercall.com/) software to use to delive
 
 <blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">Great Linkedin workshop today with <a href="https://twitter.com/jackiecameron1">@jackiecameron1</a>! Thanks to <a href="https://twitter.com/PwC_Scotland">@PwC_Scotland</a> &amp; <a href="https://twitter.com/scvotweet">@scvotweet</a>&#39;s Digital Challenge Fund <a href="http://t.co/6y6KT0wS8k">pic.twitter.com/6y6KT0wS8k</a></p>&mdash; ProjectScotland (@ProjectScotland) <a href="https://twitter.com/ProjectScotland/status/590903766620200961">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Delivery: Webinar/workshop 3, August 2015
+### Delivery: Webinar/workshop 3, tbc 2015
 
 1st Webinar to be delivered in Edinburgh at ProjectScotland office.  Having adapted the existing LinkedIn workshops, the webinar will run for c. 40 minutes and be delivered to a maximum of 10 young people (remote) to enable us to test the delivery and engagement of participants, to trouble-shoot problems.
 
 Post webinar, we will reveiew with the trainer and note any changes to make for subsequent webinars.  We will collect feedback from volunteers.  Pending any significant changes being required to delivery this webinar will then be made available to current and past ProjectScotland volutneers.
 
-### Delivery: Workshop 4, September 2015 
+### Delivery: Workshop 4, 8th October 2015 - Dundee
 
-LinkedIn workshop to be delivered outwith the central belt- Dundee/Aberdeen TBC. 
+This workshop took place in the Prince's Trust offices in Dundee on 8th October. We secured 16 sign ups (target attendance of 15) however on the day attendance was low, at 3. This was really disappointing given the efforts put into organising. Within Dundee the young people we work with are further from work, and have multiple barriers and chaotic circumstances surrounding their current situation. This can affect attendance to both their voluntary placements and the development opportunities. 
 
-### Delivery: Workshop 5, October 2015
+Saying that, all attendees found that the workshop was relevant to their individual goals and that the content was well delivered. They also all agreed that they now better understood the qualities that employers were looking for and have greater understanding about how Linkedin can help them do that. We are learning that Linkedin has not been a tool that young people either engage with, or understand, in terms of how it can affect future employment. The volunteers attending this workshop certainly echoed that and left feeling that they now knew how best to engage with Linkedin, and use the tool for their own journey.
 
-LinkedIn workshop in Glasgow
+### Delivery: Workshop 5, 21st October 2015
 
-### Delivery: Workshop 6, November 2015
+LinkedIn workshop in Glasgow hosted by PWC
 
-LinkedIn workshop in Edinburgh
+<blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">There&#39;s still time to sign up for our latest workshop! Why not harness the power of social media and <a href="https://twitter.com/hashtag/GetOnInLife?src=hash">#GetOnInLife</a>? <a href="http://t.co/pp2MJWblZd">http://t.co/pp2MJWblZd</a></p>&mdash; ProjectScotland (@ProjectScotland) <a href="https://twitter.com/ProjectScotland/status/656098277364994049">October 19, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+"One of the real successes was that at the start the participants were asked what they wanted to get from the workshop. This provided clear objectives for the session that were tailored to our needs. The trainer (Jackie) was then able to focus on the issues that were important to us. Jackie was incredibly knowledgeable on how to create a fantastic  LinkedIn profiles and also ways to link this with other social media platforms. She also encouraged us to “connect” with her if we had any questions in the future." Phil Stephenson, ProjectScotland volunteer and attendee
+
+After this workshop we have noticed a need to tweak the content so that it is continually refreshed and encompasses our learnings of Linkedin workshops thus far.
+
+### Delivery: Workshop 6, Early 2016
+
+LinkedIn workshop in Edinburgh hosted by PWC. We will be meeting the trainer in mid November 2015 to go through content for this workshop as we feel it requires a refresh given what we have learnt so far.
 
 ### Webinar & Website development: Ongoing
 
-Potential to develop additional webinars in other employability skills areas.  ProjectScotland website development of 'learning bank' for yougn people to access the webinars and other related linkns and information- a permanent online resource to be accessed by all ProjectScotland volunteers and other young people.
+ProjectScotland website development of 'learning bank' for yougn people to access the webinars and other related links and information- a permanent online resource to be accessed by all ProjectScotland volunteers and other young people.
 
 ## Evaluation
 
