@@ -20,10 +20,15 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ## Project plan
 The aims of the project are that:
+
 •	women involved in the project will improve their basic digital skills
+
 •	women will have a better understanding of factors that can affect their safety online and in using social media 
+
 •	women will have more confidence to voice their experiences of the impact of welfare reform on their lives
+
 •	we will have a better understanding of the impact of welfare reform on women who have experienced domestic abuse
+
 
 
 ## Project description
