@@ -27,7 +27,9 @@ The aims of the project are that:
 
 
 ## Project description
-The Recounting Women Project is a partnership between Scottish Women’s Aid, Glasgow East and Perthshire Women’s Aid [here is the link](http://www.perthwomensaid.org.uk/). The project is designed to support women to develop their digital skills to be able to use creative approaches, such as photo-voice and digital story-telling, to gather and disseminate evidence about the impact of welfare reform on their lives. The project will develop women’s confidence in using digital technology, build women’s basic digital skills and their use of cameras and video/audio equipment to tell their stories. These methods allow women to anonymously and creatively share information about their experiences helping to raise public awareness and to influence policy decision makers
+The Recounting Women Project is a partnership between [Scottish Women’s Aid](http://www.scottishwomensaid.org.uk/), [Glasgow East Women's Aid](http://www.gewa.org.uk/) and [Perthshire Women’s Aid](http://www.perthwomensaid.org.uk/). The project is designed to support women to develop their digital skills to be able to use creative approaches, such as photo-voice and digital story-telling, to gather and disseminate evidence about the impact of welfare reform on their lives. 
+
+The project will develop womens confidence in using digital technology, build womens basic digital skills and their use of cameras and video/audio equipment to tell their stories. These methods allow women to anonymously and creatively share information about their experiences helping to raise public awareness and to influence policy decision makers
 
 
 
