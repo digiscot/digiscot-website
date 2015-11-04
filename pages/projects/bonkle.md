@@ -28,25 +28,25 @@ Initially present members, who are mainly elderly, and either do not have a comp
 W already have notebook computers running Windows10 Preview.The grant has allowed the purchase of sufficient Ipads and Android tablet computers allowing us to start demonstration/tuition on these. This will be carried out during June with existing members. A survey will then be taken before further recruitment. The holiday period will, however, delay this.
 
 ## Project milestones
-This concludes the first round of tuition. Futher recruitment will now take place on a wider basis.
+The course has now run its allocated time but tuition will continue at the normal club times.
 
 ## Evaluation
 
-The initial evaluation was carried out via a "Tick box" survey form.
+The final evaluation was carried out via a "Tick box" survey form, the results being added to the initial survey.
 
 ### Outputs and outcomes
-The comments on the method of delivery of the project were very positive, an average of 9.6/10 being given for the guidance on the choice of computer and 9.8/10 for operating system choice.
-16% favoured a desktop computer, 50% laptop/notebook and 33% a tablet computer.
-70% preferred Windows 10 and 30% windows 7 on PCs. 57% preferred the Android operating system, 53% the Apple IOS for Tablets.
-100% of the initial participants wished to continue with further study.
-When asked to place in order the most important things to consider when purchasing a computer the top five were:-
-1) Reliability  2) Manufacturer 3) Screen quality 4) Operating System 5) Cost.
+The comments on the method of delivery of the project were very positive, an average of 9.4/10 being given for the guidance on the choice of computer and 9.4/10 for operating system choice.
+8% favoured a desktop computer, 52% laptop/notebook and 40% a tablet computer.
+80% preferred Windows 10 and 20% windows 7 on PCs. 59% preferred the Android operating system, 41% the Apple IOS for Tablets.
+85% of the initial participants wished to continue with further study.
+When asked to place in order the most important things to consider when purchasing a computer the top six were:-
+1) Reliability  2) Manufacturer 3) Screen quality 4) Operating System 5) Cost 6) Speed
 
 Overall this project provided a satisfactory introduction to the choice of a computer type and operating system suitable for their personal use
 
-In terms of outputs we delivered suitable tuition on the choice and use of different types of computer and operating system
+In terms of outputs we delivered suitable tuition on the choice and use of different types of computer and operating system and some have gone on to buy a computer suitable for their use. The club computers will still be available for the use of others.
 
-In terms of outcomes for the people and groups we care about, this project has helped them to choose a suitable compouter for their use and introduced them to the use of such a unit.
+In terms of outcomes for the people and groups we care about, this project has helped them to choose a suitable computer for their use and introduced them to the use of such a unit.
 
 ### Lessons learned. 
 As the course was designed as an initial introduction to the choice of a computer and its use, further tuition will be required to develop their skills in the use of that particular computer. This is available as the Computer Club itself is firmly established on an ongoing basis.
@@ -57,11 +57,4 @@ Things that worked well:
 2. "Hands on" use of the various types of computer.
 3. Individual tuition where required
 
-Things that we would do differently next time:
-
-1. Modification of the survey form
-2. Recruit some of the more experienced club members to help with "one-to one" tuition.
-3. Text
-
-NEXT STAGE
-The lessons leaarned about presentation on the previous courses have now been applied and wider publication has taken place. The introductory course is offered on a two week cycle on a separate day (Wednesday) from the main groups. This cycle will continue to the end of October when a further report will be produced.
+Please remember that almost all of our candidates are elderly (up to age 90) and some have disabilities including eye problems (MD and other visual impairments), arthritis, dementia and Leukaemia. Others act as carers for other members of the family. A survey on younger people may give different results.
