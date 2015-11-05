@@ -126,6 +126,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 Feedback on this training: "I wanted to thank you so much for coming along to our Fireside tonight.  9 volunteers is the most we have had at a Fireside all year so they must have been very interested the topic and feedback afterwards was very good - so thank you again!"
 
+* November 3rd - Digital Inclusion training with 5 staff from Midlothian Libraries
+
+<img src="https://lh3.googleusercontent.com/--c-_yaZaQWI/Vjj69FjYDDI/AAAAAAAAIVk/dOmNvskWR24/s1152-Ic42/WP_20151103_15_34_35_Pro__highres.jpg" alt="Digital Inclusion Training with Midlothian Libraries" Width="500">
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
