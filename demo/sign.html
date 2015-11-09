@@ -62,11 +62,49 @@
       <div class="row">
         <div class="col-md-12">
           <h1>Sign the Charter</h1>
-          <p>Form here</p>
+          <p>To sign up to Scotland's Digital Participation Charter, please fill in the short form below.  The team will then check your details and send you a login, then you're all set to help get Scotland online.</p>
+          <form role="form">
+            <div class="form-group">
+              <label for="name">Name:</label>
+              <input type="text" class="form-control" id="name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email address:</label>
+              <input type="email" class="form-control" id="email">
+            </div>
+            <div class="form-group">
+              <label for="org">Organisation name:</label>
+              <input type="text" class="form-control" id="org">
+            </div>
+            <div class="form-group">
+              <label for="position">Position in the organisation:</label>
+              <input type="text" class="form-control" id="position">
+            </div>
+            <div class="form-group">
+              <label for="postcode">Post code:</label>
+              <input type="text" class="form-control" id="postcode">
+            </div>
+            <div class="form-group">
+               <label for="sector">Which sector do you operate in:</label>
+               <select class="form-control" id="sector">
+                <option>Please Select</option>
+                <option>Third Sector</option>
+                <option>Public Sector</option>
+                <option>Private Sector</option>
+               </select>
+            </div>
+            <div class="form-group">
+              <label for="employees">Roughly how many people does your organisation employ (please include volunteers):</label>
+              <input type="number" class="form-control" id="employees">
+            </div>
+            <div class="form-group">
+              <label for="logo">Please attach a high resolution version of your organisation's logo that can be used on our website:</label>
+              <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
+            </div>
+            <button type="submit" class="btn btn-default">Sign the Charter</button>
+          </form>
         </div>
       </div>
-      
-      
 
       <div class="row">
         <div class="col-md-12">

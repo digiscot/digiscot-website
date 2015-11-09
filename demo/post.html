@@ -62,7 +62,88 @@
       <div class="row">
         <div class="col-md-12">
           <h1>Post an offer / want</h1>
-          <p>Form here</p>
+          <form role="form">
+            <div class="form-group">
+               <label for="sector">Are you posting an Offer or a Want:</label>
+               <select class="form-control" id="sector">
+                <option>Please Select</option>
+                <option>OFFER</option>
+                <option>WANT</option>
+               </select>
+            </div>
+            <div class="form-group">
+               <label for="sector">What is it:</label>
+               <select class="form-control" id="sector">
+                <option>Please Select</option>
+                <option>Devices / hardware</option>
+                <option>Space / venue</option>
+                <option>Volunteer time</option>
+                <option>Expertise / advice</option>
+                <option>Money</option>
+               </select>
+            </div>
+            <div class="form-group">
+              <label for="headline">Headline: please write a short title for your offer / want (50 characters max)</label>
+              <input type="text" class="form-control" id="headline">
+            </div>
+            <div class="form-group">
+              <label for="description">Description: please give us some more details about your offer / want (250 words max)</label>
+              <input type="text" class="form-control" id="description">
+            </div>
+            <div class="form-group">
+               <label for="area">Is the offer / want specific to a Local Authority area, or Scotland-wide:</label>
+               <select class="form-control" id="area">
+                <option value="PLease select">Please Select</option>
+                <option value="Scotland-wide">Scotland-wide</option>
+                <option value="Aberdeen City Council">Aberdeen City Council</option>
+                <option value="Aberdeenshire Council">Aberdeenshire Council</option>
+                <option value="Angus Council">Angus Council</option>
+                <option value="Argyll and Bute Council">Argyll and Bute Council</option>
+                <option value="City of Edinburgh Council">City of Edinburgh Council</option>
+                <option value="Clackmannanshire Council">Clackmannanshire Council</option>
+                <option value="Comhairle nan Eilean Siar">Comhairle nan Eilean Siar</option>
+                <option value="Dumfries and Galloway Council">Dumfries and Galloway Council</option>
+                <option value="Dundee City Council">Dundee City Council</option>
+                <option value="East Ayrshire Council">East Ayrshire Council</option>
+                <option value="East Dunbartonshire Council">East Dunbartonshire Council</option>
+                <option value="East Lothian Council">East Lothian Council</option>
+                <option value="East Renfrewshire Council">East Renfrewshire Council</option>
+                <option value="Falkirk Council">Falkirk Council</option>
+                <option value="Fife Council">Fife Council</option>
+                <option value="Glasgow City Council">Glasgow City Council</option>
+                <option value="Highland Council">Highland Council</option>
+                <option value="Inverclyde Council">Inverclyde Council</option>
+                <option value="Midlothian Council">Midlothian Council</option>
+                <option value="Moray Council">Moray Council</option>
+                <option value="North Ayrshire Council">North Ayrshire Council</option>
+                <option value="North Lanarkshire Council">North Lanarkshire Council</option>
+                <option value="Orkney Islands Council">Orkney Islands Council</option>
+                <option value="Perth and Kinross Council">Perth and Kinross Council</option>
+                <option value="Renfrewshire Council">Renfrewshire Council</option>
+                <option value="Scottish Borders Council">Scottish Borders Council</option>
+                <option value="Shetland Islands Council">Shetland Islands Council</option>
+                <option value="South Ayrshire Council">South Ayrshire Council</option>
+                <option value="South Lanarkshire Council">South Lanarkshire Council</option>
+                <option value="Stirling Council">Stirling Council</option>
+                <option value="West Dunbartonshire Council">West Dunbartonshire Council</option>
+                <option value="West Lothian Council">West Lothian Council</option>
+               </select>
+            </div>
+            <div class="form-group">
+              <label for="logo">If you have an image that you'd like to display with this offer / want, then please attach it.  If not, we'll use your organisation's logo:</label>
+              <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
+            </div>
+            <div class="form-group">
+              <h3>Contact info</h3>
+              <label for="email">Contact email address:</label>
+              <input type="email" class="form-control" id="email">
+            </div>
+            <div class="form-group">
+              <label for="phone">Contact phone number:</label>
+              <input type="phone" class="form-control" id="phone">
+            </div>
+            <button type="submit" class="btn btn-default">Submit your offer / want</button>
+          </form>
         </div>
       </div>
 
