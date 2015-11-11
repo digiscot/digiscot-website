@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Connected Up
 excerpt: Digital skills training for older people
 lead: Annexe Communities
