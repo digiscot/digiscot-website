@@ -63,7 +63,16 @@ layout: default
           
             <p class="p-index"><strong><a href="{{ page.url }}">{{ page.lead }}</a></strong><br/>
             {{ page.title }}<br />
-            <small>{{ page.excerpt }}</small><br /> 
+            <small>{{ page.excerpt }}</small><br />
+            
+              {% if page.call == 1 %}
+                <a href="/projects/tags/#call1" class="btn btn-default btn-xs">Winter 2014</a>
+              {% elsif page.call == 2 %}
+                <a href="/projects/tags/#call2" class="btn btn-default btn-xs">Spring 2015</a>
+              {% elsif page.call == 3 %}
+                <a href="/projects/tags/#call3" class="btn btn-default btn-xs">Winter 2015</a>
+              {% endif %}
+
               {% for tag in sortedtags %}
                 <a href="/projects/tags/#{{ tag }}" class="btn btn-primary btn-xs">{{ tag }}</a>
               {% endfor %}

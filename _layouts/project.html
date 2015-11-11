@@ -40,7 +40,7 @@ layout: default
       
       <p>Runs from: {{ page.start }} to {{ page.end }}</p>
       
-      <p>Challenge fund award: £{{ page.award }}</p>
+      <p>Challenge fund award: £{{ page.award }}{% if page.call == 1 %} from Call 1 (Winter 2014){% elsif page.call == 2 %} from Call 2 (Spring 2015){% elsif page.call == 3 %} from Call 3 (Winter 2015){% endif %}</p>
       
       <p>
         {% for tag in sortedtags %}

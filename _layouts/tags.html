@@ -71,3 +71,51 @@ layout: default
     </div>
   </div>
 </div>
+
+<div class="container">
+
+  <div class="row">
+  
+    <div class="col-md-12">
+      <h2>Projects by date funded</h2>
+    </div>
+  
+  </div>
+
+  <div class="row">
+  
+    <div class="col-md-4">
+      <h3 id="call1">Call 1 (Winter 2014)</h3>
+      <ul>
+        {% for page in site.pages %}
+          {% if page.call == 1 %}
+            <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    
+    <div class="col-md-4">
+      <h3 id="call2">Call 2 (Spring 2015)</h3>
+      <ul>
+        {% for page in site.pages %}
+          {% if page.call == 2 %}
+            <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    
+    <div class="col-md-4">
+      <h3 id="call3">Call 3 (Winter 2015)</h3>
+      <ul>
+        {% for page in site.pages %}
+          {% if page.call == 3 %}
+            <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    
+  </div>
+</div>
