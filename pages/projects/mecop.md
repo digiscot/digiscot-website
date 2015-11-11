@@ -14,7 +14,7 @@ award: 9940
 postcode: EH6 5EA
 image: /images/projects/mecopp.jpg
 tags: older-people remote-rural
-permalink: /projects/beith/
+permalink: /projects/mecopp/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

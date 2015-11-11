@@ -14,7 +14,7 @@ award: 9865
 postcode: PA15 1UL
 image: /images/projects/inverclyde1.jpg
 tags: older-people remote-rural
-permalink: /projects/inverclyde
+permalink: /projects/inverclyde/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

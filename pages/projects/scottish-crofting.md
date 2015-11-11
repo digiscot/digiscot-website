@@ -14,7 +14,7 @@ award: 12600
 postcode: KA15 1BY		
 image: /images/projects/crofting.jpg
 tags: other
-permalink: /projects/beith/
+permalink: /projects/crofting/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
