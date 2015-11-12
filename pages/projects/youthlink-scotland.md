@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digitally Agile Training Course
 excerpt: Developing training for CLD around the Digitally Agile National Principles
 lead: Youthlink Scotland

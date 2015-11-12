@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digital Audio and Radio Production
 excerpt: Part time courses in digital and radio broadcasting production
 lead: Moray Firth Media Trust

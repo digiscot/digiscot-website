@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Crookston Community WWW Club
 excerpt: 
 lead: Crookston Community Group

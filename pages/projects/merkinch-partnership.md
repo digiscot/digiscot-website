@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Merkinch Gets Online
 excerpt: Supporting local people to access online services and resources
 lead: Merkinch Partnership

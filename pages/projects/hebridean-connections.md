@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Hebridean History in the Digital Age
 excerpt: Digital skills training events across Lewis and Harris
 lead: Hebridean Connections 

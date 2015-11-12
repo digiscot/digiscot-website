@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Digital Creative Club
 excerpt: Using creative digital activities to engage with hard to reach individuals.
 lead: Libertie Project

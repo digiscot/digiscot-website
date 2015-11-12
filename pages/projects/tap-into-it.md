@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Lynedoch Shopper Service
 excerpt: 
 lead: Tap into IT Where You Are

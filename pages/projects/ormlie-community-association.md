@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Digital access and IT skills
 excerpt: Supported digital access and improving IT skills.
 lead: Ormlie Community Association

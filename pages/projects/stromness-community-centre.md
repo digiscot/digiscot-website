@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Bridging the Gap Getting Online
 excerpt: Beginner internet sessions delivered by young people for older people in the community
 lead: Stromness Community Centre

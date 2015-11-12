@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Getting Digital
 excerpt: Supporting older disabled people to learn relevant digital skills within a community housing environment.
 lead: Lead Scotland

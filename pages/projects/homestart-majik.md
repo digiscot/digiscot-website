@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Thrive in the Digital World
 excerpt: Helping people to thrive in the digital world and reducing social isolation
 lead: Homestart Majik

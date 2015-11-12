@@ -1,5 +1,6 @@
 ---
 layout: project
+call: 1
 title: Toryglen Digital Base
 excerpt: IT suite refurbishment to support various digital inclusion projects
 lead: Toryglen Community Base

@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: The Greenhouse Digital Participation Programme
 excerpt: IT equipment and digital skills sessions for the community
 lead: Greenhouse Shop CIC

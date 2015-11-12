@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Digital skills through football
 excerpt: Using football as a means to help people develop digital skills
 lead: Opportunity Enhancement Trust

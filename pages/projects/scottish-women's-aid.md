@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Recounting Women
 excerpt: To imporve the digital skills of the women involved
 lead: Scottish Women's Aid

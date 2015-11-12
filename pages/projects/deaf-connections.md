@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: DEAFinitely Digital
 excerpt: Supporting the deaf community to develop and advance their digital skills
 lead: Deaf Connections 

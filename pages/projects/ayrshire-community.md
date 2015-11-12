@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digital Skills Job Club
 excerpt: Twice weekly Digital Skills Job Club
 lead: Ayrshire Community Trust

@@ -2,6 +2,7 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 title: Digitally Agile Staff CPD
+call: 2
 excerpt: Online learning resource for staff working with client groups least likely to have basic digital skills.
 lead: Glasgow Life
 website: http://www.glasgowlife.org.uk/Pages/default.aspx

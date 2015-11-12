@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Digital Oasis
 excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse.
 lead: Bethany Christian Trust

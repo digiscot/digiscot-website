@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Dynamic Individuals Gaining Internet Training And Lots...more, we are DIGITAL
 excerpt: 
 lead: The Meeting Place

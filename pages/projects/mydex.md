@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Digital Empowerment - Person Centred Services
 excerpt: Encouraging digital participation through action learning and knowledge exchange
 lead: Mydex CIC

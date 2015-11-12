@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: The Spruce Hub
 excerpt: Accredited IT skills training.
 lead: Spruce Carpets

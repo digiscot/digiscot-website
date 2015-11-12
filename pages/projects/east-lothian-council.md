@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Digital Inclusion for the Visually Impaired
 excerpt: 
 lead: East Lothian Council - Wallyford Library

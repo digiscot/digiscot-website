@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Smart Communities Volunteer Digital Champions
 excerpt: Volunteer Digital Champions programme
 lead: Thenue Housing Association

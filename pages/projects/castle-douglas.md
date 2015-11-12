@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Take a Tablet
 excerpt: Tablet training for older people
 lead: Castle Douglas Community IT Centre

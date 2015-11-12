@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: IT for total beginners
 excerpt: Introduction to IT sessions for beginners
 lead: SHIMCA (Scottish Highlands & Islands and Moray Chinese Association)

@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Connecting and Communicating
 excerpt: Improving the digital capability of SCoD to better support and communicate with members
 lead: Scottish Council on Deafness

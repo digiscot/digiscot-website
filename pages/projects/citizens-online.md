@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Our Digital Zone
 excerpt: Variety of digital participation activity across the Highlands
 lead: Citizens Online

@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: TransmIT 
 excerpt: TransmIT (Training in Social Media and IT).
 lead: CVO East Ayrshire 

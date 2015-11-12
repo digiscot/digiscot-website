@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digit All
 excerpt: Digital drop-in clubs
 lead: Argyll Voluntary Action

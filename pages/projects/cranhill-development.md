@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digital Works Club @ Ruchazie
 excerpt: Click and Connect Learning Centre in Ruchazie Parish Church
 lead: Cranhill Development Trust

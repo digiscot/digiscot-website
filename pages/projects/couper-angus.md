@@ -1,9 +1,10 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Strathmore Skills Centre
 excerpt: Basic digital skills lessons for local people
-lead: Couper Angus Regeneration Trust
+lead: Coupar Angus Regeneration Trust
 website: http://www.coupar-angus.org/
 email: 
 twitter-url: 

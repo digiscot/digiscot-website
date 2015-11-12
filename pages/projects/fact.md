@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Forres Online
 excerpt: Training programme for online learning and activity in Forres.
 lead: Forres Area Community Trust

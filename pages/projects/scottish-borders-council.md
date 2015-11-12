@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Tea and Tablet
 excerpt: Introduction to IT and the internet 
 lead: Scottish Borders Council

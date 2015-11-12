@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Video Volunteers
 excerpt: To encourage engagement with and confidence in digital technology
 lead: Partnerships for Wellbeing

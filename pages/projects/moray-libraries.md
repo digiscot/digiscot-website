@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Get Digital Clubs
 excerpt: ICT courses for the most digitally excluded
 lead: Moray Libraries and Information Service

@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digital Inclusion through Entrepreneurship 
 excerpt: Developing IT skills and boosting organisational online fundraising activity 
 lead: Flourish House

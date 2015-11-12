@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Blackwood Connect
 excerpt: Basic digital skills training for tenants
 lead: Blackwood

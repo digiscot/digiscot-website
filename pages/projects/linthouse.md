@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Linthouse Digital Learners
 excerpt: IT workshops
 lead: Linthouse Monday club

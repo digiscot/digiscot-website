@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Computing For All
 excerpt: Teaching basic computing skills.
 lead: Old Torry Community Centre

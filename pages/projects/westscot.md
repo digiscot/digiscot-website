@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digital Inclusion Coordinator
 excerpt: Digital Inclusion Coordinator to teach digital skills 
 lead: West of Scotland Housing Association 

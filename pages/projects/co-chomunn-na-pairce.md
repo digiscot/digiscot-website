@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Digital Drop-In
 excerpt: Drop-in digital training sessions
 lead: Co Chomunn na Pairce

@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Maryhill and Milton Digital Inclusion Programme
 excerpt: 
 lead: Community Safety Glasgow

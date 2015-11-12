@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Colonsay Captured
 excerpt: Growing community resources with a website and the digitisation of historic archives
 lead: Colonsay and Oransay Heritage Trust

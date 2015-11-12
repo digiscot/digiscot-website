@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Historical Connections @ Queens Cross
 excerpt: Using local history to teach older people how to use the internet 
 lead: Queens Cross Housing Association

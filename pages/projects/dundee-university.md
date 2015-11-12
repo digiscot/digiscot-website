@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Tap and Talk
 excerpt: Support group to help adults with aphasia explore the benefits of technology 
 lead: Dundee Augmentative and Alternative Communication (AAC) Research Group, University of Dundee

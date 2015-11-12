@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Orkney and Shetland Community Digital Heritage 
 excerpt: Teaching older people how to use digital technology through the app Fieldtrip GB
 lead: Centre for Nordic Studies

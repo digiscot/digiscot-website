@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Choice and use of Digital Computers
 excerpt: Introduction to computers, tablets and notebooks and how to use them
 lead: Bonkle Computer Club

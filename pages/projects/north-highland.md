@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Get to know the Internet
 excerpt: Basic digital and online skills training
 lead: North Highland Language Centre

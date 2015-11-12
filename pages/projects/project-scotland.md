@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: LinkedIn workshops
 excerpt: Get on in life workshop programme - LinkedIn workshops.
 lead: Project Scotland

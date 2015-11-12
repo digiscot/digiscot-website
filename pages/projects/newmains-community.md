@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Connecting Newmains
 excerpt: 
 lead: Newmains Community Trust

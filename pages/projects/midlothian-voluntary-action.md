@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Getting IT
 excerpt: This project will train voluntary and community organisations in Midlothian to help them to support their clients, service users or members to get online.
 lead: Midlothian Voluntary Action 

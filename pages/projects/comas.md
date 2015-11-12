@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Dot Can
 excerpt: Digital skills sessions to help disadvantaged people use online services and access the support they need.
 lead: Comas

@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Move On IT Literacy Project
 excerpt: IT literacy skills for homeless people and care leavers in Glasgow
 lead: Move On

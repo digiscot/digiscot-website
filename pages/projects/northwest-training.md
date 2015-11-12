@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Our Stories Your Memories
 excerpt: Basic computer skills tuition for older people
 lead: Northwest Training Centre Association

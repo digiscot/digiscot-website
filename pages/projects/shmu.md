@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: Connected Communities
 excerpt: Online community portal
 lead: Station House Media Unit (shmu)

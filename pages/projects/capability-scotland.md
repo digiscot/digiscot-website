@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 1
 title: ICT suite refurbishment 
 excerpt: Developing the ICT suite at Upper Springland residental and daycare service to enable wheelchair access. 
 lead: Capability Scotland

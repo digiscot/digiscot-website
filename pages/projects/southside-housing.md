@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 3
 title: Southside Connections
 excerpt: 
 lead: Southside Housing Association

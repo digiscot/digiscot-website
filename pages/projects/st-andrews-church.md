@@ -1,6 +1,7 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
+call: 2
 title: Community Spirit Learning Zone
 excerpt: Teaching basic computer skills alongside job search support and literacy and numeracy support
 lead: St Andrews Church (Havilah Project)
