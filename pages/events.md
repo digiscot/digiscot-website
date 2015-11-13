@@ -13,18 +13,30 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
-New events coming soon!
+### Scotland's Digital Future
+Edinburgh, 16 November 2015
 
-**The Herald Scottish Digital Business Awards**
+Join us for an evening of celebration for the digital participation movement, in partnership with [Digital Leaders](http://digitalleaders.co.uk/) and [Sopra Steria](http://www.soprasteria.co.uk/en). [Find out more and book](http://digitalleaders.co.uk/dl-local/scotland/).
 
-This year SCVO are sponsoring a category for charities and social enterprises and it's free to enter. For more info click [here](http://www.scvo.org.uk/blog/charities-enter-the-herald-scottish-digital-business-awards-2015/) 
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Does your charity use digital projects for social good? <a href="http://t.co/tqfzjOg75D">http://t.co/tqfzjOg75D</a> <a href="http://t.co/0kn8bCtLvv">pic.twitter.com/0kn8bCtLvv</a></p>&mdash; Rebecca Stafford (@digibecca) <a href="https://twitter.com/digibecca/status/623437273841930240">July 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Past events
 
-### Google for Non-Profits launch
+
+### [Scottish Digital Business Awards 2015](http://herald-events.com/digitalawards/2015-shortlist/)  
+Glasgow, 22 October 2015
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We did it! Euan&#39;s Guide have won the Charity and Social Enterprise Award at <a href="https://twitter.com/HSDigitalAwards">@HSDigitalAwards</a> <a href="https://twitter.com/hashtag/digibiz15?src=hash">#digibiz15</a>!</p>&mdash; Euan&#39;s Guide (@EuansGuide) <a href="https://twitter.com/EuansGuide/status/657302311379816448">October 22, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ClickGo?src=hash">#ClickGo</a> won judges&#39; commendation C&amp;SE Category. Find out more about our award winning tool here! &gt; <a href="https://t.co/PQtvG1Q8hF">https://t.co/PQtvG1Q8hF</a> <a href="https://twitter.com/hashtag/digibiz15?src=hash">#digibiz15</a></p>&mdash; Carr Gomm (@CG_CarrGomm) <a href="https://twitter.com/CG_CarrGomm/status/662585469884960768">November 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### [Google for Non-Profits](https://www.google.com/nonprofits/) Scotland launch
 Edinburgh, 23 June 2015
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">A room like this full of Scottish charities talking <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> makes me optimistic about the future <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/G4NP?src=hash">#G4NP</a> <a href="http://t.co/OiiIqVe1gk">pic.twitter.com/OiiIqVe1gk</a></p>&mdash; Chris Yiu (@clry2) <a href="https://twitter.com/clry2/status/613273857999392768">June 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Digital Scotland Festival at the Scottish Charity Awards
 Edinburgh, 4 June 2015

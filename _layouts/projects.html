@@ -117,7 +117,7 @@ layout: default
  
       {% assign sortedtags = tags | split:'|' | sort %}
 
-      <p><small><a href="/projects/tags/">Tags:<a/></small> 
+      <p class="p-tags"><small><a href="/projects/tags/">Tags:<a/></small> 
         {% for tag in sortedtags %}
           <a href="/projects/tags/#{{ tag }}" class="btn btn-primary btn-xs">{{ tag }}</a> 
         {% endfor %}

@@ -56,25 +56,29 @@ If you help people to get online and learn [basic digital skills](http://digital
 
 ![Learn My Way](/images/learnmyway.jpg)
 
-We've partnered with [Tinder Foundation](http://www.tinderfoundation.org) to develop extra learning resources for people and organisations in Scotland. [Learn My Way](http://scotland.learnmyway.com) is a free online resource designed to help people learn basic digital skills. If your organisation helps people to learn then you can apply for a free centre code, for your learners to use when they register on the Learn My Way website. This will help you to keep count of all your learners and see how they are getting on.
+[Learn My Way](http://scotland.learnmyway.com) is a free online resource to help people learn basic digital skills. It's provided by [Tinder Foundation](http://www.tinderfoundation.org), a not-for-profit social enterprise that makes good things happen with digital technology.
 
-You can apply for a Learn My Way code when you add your centre or organisation to the directory.
-
-<a href="http://letsgeton.digitalscotland.org/SignUp/create" class="btn btn-primary btn-lg">Get started</a>
+<a href="http://scotland.learnmyway.com" class="btn btn-primary btn-lg">Get started</a>
 
 ![Twibbon](/images/twibbon.png)
 
-We've partnered with [Storm ID](/charter/storm-id/) to offer a special discount for Scottish charities.
+[Twibbon](/twibbon/) is an online tool to help run campaigns on social media. We've partnered with [Storm ID](/charter/storm-id/) to offer a special discount for Scottish charities.
 
 <a href="/twibbon/" class="btn btn-primary btn-lg">Get started</a>
 
-## Digital Outreach
+![Browsealoud](/images/browsealoud.png)
 
-**[Digital Outreach activities](https://www.ruralnetwork.scot/digital-outreach-activities-scotsectorlink) from [ScotSectorlink](http://www.scotsectorlink.org.uk/).**
+The text-to-speech, translation, magnification and other accessibility tools on this site are provided by Browsealoud from [Texthelp](https://www.texthelp.com/en-gb). If you are interested in making these features available on your website then please contact us for a referral.
 
-These activities have been designed for young people moving into adulthood and society, to support movement into paid employment and to reduce vulnerability by enabling self-management. 
+<a href="mailto:digital@scvo.org.uk" class="btn btn-primary btn-lg">Get started</a>
 
-ScotSectorlink is a cross-discipline initiative for empowering economies, urban and rural. ScotSectorlink is based in Nairn and can be contacted via email at enquiry@scotsectorlink.org.uk. 
+
+
+### Digital Outreach
+
+A range of [digital outreach activities](https://www.ruralnetwork.scot/digital-outreach-activities-scotsectorlink) have been designed by [ScotSectorlink](http://www.scotsectorlink.org.uk/) to support young people moving into adulthood, society and employment, and to reduce vulnerability by enabling self-management. SScotSectorlink is based in Nairn and can be contacted via [enquiry@scotsectorlink.org.uk](mailto:enquiry@scotsectorlink.org.uk). 
+
+
 
 ## Useful links
 

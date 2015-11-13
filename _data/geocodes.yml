@@ -7,6 +7,9 @@
 - postcode: KA22 8DQ
   lat: 55.639106
   lng: -4.812139399999978
+- postcode: KA15 1BY
+  lat: 55.7490538
+  lng: -4.641204700000003
 - postcode: EH6 5JQ
   lat: 55.9714768
   lng: -3.1769557000000077
@@ -16,6 +19,9 @@
 - postcode: ML2 9QJ
   lat: 55.7908535
   lng: -3.85674019999999
+- postcode: PH21 1EH
+  lat: 57.07897
+  lng: -4.051977299999976
 - postcode: EH12 6HY
   lat: 55.9466568
   lng: -3.247491200000013
@@ -25,9 +31,6 @@
 - postcode: KW15 1QX
   lat: 58.98444430000001
   lng: -2.9628746999999294
-- postcode: GL5 4AQ
-  lat: 51.748258
-  lng: -2.2259765000000016
 - postcode: HS2 9QA
   lat: 58.0892298
   lng: -6.514715499999966
@@ -37,30 +40,57 @@
 - postcode: EH8 8PJ
   lat: 55.9509659
   lng: -3.1775983999999653
+- postcode: G40 3AQ
+  lat: 55.8494895
+  lng: -4.222188299999971
 - postcode: PH13 9AE
   lat: 56.54604860000001
   lng: -3.2667661000000408
 - postcode: G33 3HE
   lat: 55.86625069999999
   lng: -4.167797800000017
+- postcode: EH16 4BB
+  lat: 55.9353118
+  lng: -3.139536700000008
+- postcode: G53 5TF
+  lat: 55.8329141
+  lng: -4.3602714999999534
 - postcode: KA1 3GZ
-  lat: 55.5759659
-  lng: -4.485003099999972
+  lat: 55.6027257
+  lng: -4.492832200000066
 - postcode: G5 9EJ
   lat: 55.85247320000001
   lng: -4.255766799999947
 - postcode: DD1 4HN
   lat: 56.4572091
   lng: -2.978476199999932
+- postcode: EH39 5BG
+  lat: 55.98733859999999
+  lng: -2.744268599999941
 - postcode: IV36 1SW
   lat: 57.6097613
   lng: -3.61453240000003
+- postcode: FK2 9EE
+  lat: 56.0054587
+  lng: -3.7538700000000063
+- postcode: FK2 9EE
+  lat: 56.0054587
+  lng: -3.7538700000000063
+- postcode: KY1 1EH
+  lat: 56.1118068
+  lng: -3.158256499999993
 - postcode: G3 6DR
   lat: 55.86935010000001
   lng: -4.272937500000012
 - postcode: G4 0QW
   lat: 55.8602734
   lng: -4.239904900000056
+- postcode: G66 1NL
+  lat: 55.9376102
+  lng: -4.1544265
+- postcode: IV15 9RU
+  lat: 57.5953169
+  lng: -4.428513000000066
 - postcode: HS2 9QA
   lat: 58.0892298
   lng: -6.514715499999966
@@ -70,18 +100,33 @@
 - postcode: PA29 6UL
   lat: 55.86298499999999
   lng: -5.414694800000007
+- postcode: PA15 1NB
+  lat: 55.9472116
+  lng: -4.7572999999999865
+- postcode: PA15 1UL
+  lat: 55.94994459999999
+  lng: -4.761691599999949
+- postcode: ML1 2HR
+  lat: 55.77861309999999
+  lng: -3.9665339000000586
 - postcode: EH2 4RG
   lat: 55.9497051
   lng: -3.208515000000034
 - postcode: EH12 6DD
   lat: 55.9457141
   lng: -3.2385100000000193
+- postcode: IV2 6AE
+  lat: 57.436875
+  lng: -4.219701600000008
 - postcode: EH14 1RL
   lat: 55.9272826
   lng: -3.249397300000055
 - postcode: G51 4RB
   lat: 55.8646314
   lng: -4.328696100000002
+- postcode: EH6 5EA
+  lat: 55.9675802
+  lng: -3.1747546000000284
 - postcode: IV3 8AD
   lat: 57.4880116
   lng: -4.238972800000056
@@ -103,6 +148,9 @@
 - postcode: G2 4JR
   lat: 55.8654895
   lng: -4.26882820000003
+- postcode: ML2 9AX
+  lat: 55.7831859
+  lng: -3.878749599999992
 - postcode: IV19 1BP
   lat: 57.80927999999999
   lng: -4.051992700000028
@@ -124,21 +172,39 @@
 - postcode: EH7 4GH
   lat: 55.9624265
   lng: -3.1865327000000434
+- postcode: PA11 3SX
+  lat: 55.8672648
+  lng: -4.616649800000005
 - postcode: G20 7BE
   lat: 55.8800259
   lng: -4.270092100000056
+- postcode: G42 8JL
+  lat: 55.83599899999999
+  lng: -4.258709299999964
+- postcode: G21 2NU
+  lat: 55.8691474
+  lng: -4.229001499999981
 - postcode: TD7 5BA
   lat: 55.5495998
   lng: -2.8573370000000295
 - postcode: G2 6LD
   lat: 55.86048539999999
   lng: -4.259443400000009
+- postcode: KA15 1BY
+  lat: 55.7490538
+  lng: -4.641204700000003
 - postcode: EH2 3JD
   lat: 55.9518742
   lng: -3.201712300000054
 - postcode: AB24 2WB
   lat: 57.1724009
   lng: -2.130811499999936
+- postcode: HS1 2DU
+  lat: 58.21225309999999
+  lng: -6.387648600000034
+- postcode: G51 4EB
+  lat: 55.8543824
+  lng: -4.348710799999935
 - postcode: G51 2JQ
   lat: 55.8555821
   lng: -4.311952099999985
@@ -148,21 +214,30 @@
 - postcode: KW16 3BA
   lat: 58.9625301
   lng: -3.29990250000003
-- postcode: IV15 9RU
-  lat: 57.5953169
-  lng: -4.428513000000066
-- postcode: IV2 6AE
-  lat: 57.436875
-  lng: -4.219701600000008
+- postcode: EH11 1JX
+  lat: 55.9376344
+  lng: -3.2188651000000164
+- postcode: IV2 7LL
+  lat: 57.48741619999999
+  lng: -4.142398100000037
 - postcode: G40 1AG
   lat: 55.85172859999999
   lng: -4.233036500000026
 - postcode: G42 0LE
   lat: 55.8303638
   lng: -4.23757599999999
+- postcode: G84 8TR
+  lat: 56.0056616
+  lng: -4.732812299999978
+- postcode: EH7 6AE
+  lat: 55.955697
+  lng: -3.1523882000000185
 - postcode: DD1 1LL
   lat: 56.4623043
   lng: -2.9749233000000004
+- postcode: G2 6LU
+  lat: 55.86131839999999
+  lng: -4.25910829999998
 - postcode: G21 1HG
   lat: 55.8787518
   lng: -4.241542999999979
