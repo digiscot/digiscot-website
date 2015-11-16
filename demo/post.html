@@ -26,6 +26,8 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+        <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   </head>
 
   <body>
@@ -63,40 +65,45 @@
         <div class="col-md-12">
           <h1>Post an offer / want</h1>
           <p>The Charter is all about getting organisations across Scotland to support each other to achieve the goal of ensuring that every citizen has the Basic Digital Skills needed today.</p>  
-          <p>By posting an OFFER, you'll be making other organisations in Scotland aware of valuable free resources that you are willing to contribute to the Charter.</p>
-          <p>Likewise, by posting a WANT, other Charter signatories can see what resources you need to support your great work and can help out where possible.  There are no guarantees here, but let's start the ball rolling.</p>
+          <p>By posting an OFFER, you'll be making other organisations in Scotland aware of valuable resources that you're willing to contribute to the Charter.</p>
+          <p>Likewise, by posting a WANT, other Charter signatories can see what resources you need to support your great work and hopefully help you out.</p>
           <form role="form">
+            <div>
+              <label for="sector">Are you posting an Offer or a Want:</label>
             <div class="form-group">
-               <label for="sector">Are you posting an Offer or a Want:</label>
-               <select class="form-control" id="sector">
-                <option>Please Select</option>
-                <option>OFFER</option>
-                <option>WANT</option>
-               </select>
+                <i class="fa fa-upload fa-3x"></i>  
+            <div class="checkbox">
+              <label><input type="checkbox" value="">OFFER</label>
+            </div> <!-- checkbox-inline will make these on the same line -->
+                <i class="fa fa-download fa-3x"></i>  
+            <div class="checkbox">
+              <label><input type="checkbox" value="">WANT</label>
             </div>
+          </div>
             <div class="form-group">
                <label for="sector">What is it:</label>
                <select class="form-control" id="sector">
                 <option>Please Select</option>
-                <option>Devices / hardware</option>
-                <option>Space / venue</option>
-                <option>Volunteer time</option>
-                <option>Expertise / advice</option>
+                <option>Dektops / Laptops</option>
+                <option>Tablets</option>
+                <option>Mobile devices</option>
+                <option>Space available for use</option>
+                <option>Volunteer time from your workforce </option>
+                <option>Specific project work such as website re-design</option>
                </select>
             </div>
             <div class="form-group">
-              <label for="headline">Headline: please write a short title for your offer / want (50 characters max)</label>
+              <label for="headline">Headline: please write a short title (50 characters max)</label>
               <input type="text" class="form-control" id="headline">
             </div>
             <div class="form-group">
-              <label for="description">Description: please give us some more details about your offer / want (250 words max)</label>
-              <input type="text" class="form-control" id="description">
+              <label for="comment">Description: please give us some more details (250 words max):</label>
+              <textarea class="form-control" rows="5" id="comment"></textarea>
             </div>
             <div class="form-group">
-               <label for="area">Is the offer / want specific to a Local Authority area, or Scotland-wide:</label>
+               <label for="area">Is this specific to a particular area?:</label>
                <select class="form-control" id="area">
-                <option value="PLease select">Please Select</option>
-                <option value="Scotland-wide">Scotland-wide</option>
+                <option value="Scotland-wide">Anywhere in Scotland</option>
                 <option value="Aberdeen City Council">Aberdeen City Council</option>
                 <option value="Aberdeenshire Council">Aberdeenshire Council</option>
                 <option value="Angus Council">Angus Council</option>
@@ -136,13 +143,13 @@
               <input type="file" class="btn btn-lg btn-info" id="logoFile" onchange="logoFileChanged()" name="logoFile" accept="image/*">
             </div>
             <div class="form-group">
-              <h3>Contact info</h3>
+              <h3>Contact info</h3>  <!-- PLease can we auto-complete this with the contact info they used to sign up with -->
               <label for="email">Contact email address:</label>
-              <input type="email" class="form-control" id="email">
+              <input type="email" class="form-control" placeholder="We will use the email address used to sign the Charter if you leave this blank" id="email">
             </div>
             <div class="form-group">
               <label for="phone">Contact phone number:</label>
-              <input type="phone" class="form-control" id="phone">
+              <input type="phone" class="form-control" placeholder="This is not compulsory" id="phone">
             </div>
             <button type="submit" class="btn btn-default">Submit your offer / want</button>
           </form>
