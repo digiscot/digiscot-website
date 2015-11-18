@@ -12,7 +12,6 @@ Efforts to scale up and accelerate activity in Scotland are coordinated through 
 This charter establishes a framework for organisations in Scotland to support the Digital Participation Programme and to pursue our shared ambition. Signatories to the Charter commit to working together in a spirit of partnership to promote digital participation in Scotland.
 
 
-
 ## Commitments
 
 <div class="panel panel-default">
@@ -39,7 +38,7 @@ This charter establishes a framework for organisations in Scotland to support th
 
 </div>
 
-
+As a first step, why not ask some of your volunteers, customers or workforce to fill in the <a href="/files/BDS-assessment.pdf">Basic Digital Skills Assessment Questionnaire</a> 
 
 ## Signatories
 
