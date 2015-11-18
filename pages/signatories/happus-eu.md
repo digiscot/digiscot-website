@@ -3,9 +3,9 @@ layout: signatory
 title: Happus.eu
 excerpt: 
 website: http://www.happus.eu/
-twitter-url: 
-email: 
-image: 
+twitter-url: https://twitter.com/happus_eu
+email: dave@happus.eu
+image: /images/signatories/happus.jpg
 permalink: /charter/happus-eu/
 ---
 
