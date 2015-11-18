@@ -38,7 +38,7 @@ This charter establishes a framework for organisations in Scotland to support th
 
 </div>
 
-As a first step, why not ask some of your volunteers, customers or workforce to fill in the <a href="/files/BDS-assessment.pdf">Basic Digital Skills Assessment Questionnaire</a> 
+As a first step, why not ask some of your volunteers, customers or workforce to fill in the <a href="/files/BDS-assessment.pdf">Basic Digital Skills Assessment Questionnaire</a> to help us paint a picture of the situation across Scotland 
 
 ## Signatories
 
