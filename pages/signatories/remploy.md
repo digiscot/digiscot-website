@@ -5,7 +5,7 @@ excerpt:
 website: http://www.remploy.co.uk/
 twitter-url: https://twitter.com/remploy
 email: matthew.lancashire@remploy.co.uk
-image: /images/signatories/remploy.jpg
+image: /images/signatories/Remploy.jpg
 permalink: /charter/remploy/
 ---
 
