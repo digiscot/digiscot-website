@@ -19,8 +19,6 @@ permalink: /projects/bethany-christian-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
-https://mail.google.com/mail/u/0/?ui=2&ik=ef0f570813&view=fimg&th=150b41fddeb540cf&attid=0.1&disp=inline&safe=1&attbid=ANGjdJ8RU6C8WnK892eZ5bFDKL66QzT6yQmM_dFgB0Sd7Cjx8I1gNUfLimWvPDK6L4ksrN_XS54Ndcx4DHZl_DTet46iPNhy9jHN3aaxi--gnY5So4kAHezq-20uJks&ats=1446131051070&rm=150b41fddeb540cf&zw&sz=w1342-h503
-
 ## Project plan
 
 ### Project description
