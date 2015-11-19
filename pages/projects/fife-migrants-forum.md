@@ -14,7 +14,7 @@ end: 31st May 2016
 award: 10879
 postcode: KY1 1EH	
 image: /images/projects/fife.jpg
-tags: older-people remote-rural
+tags: older-people remote-rural ethnic-minorities
 permalink: /projects/fife-migrants-forum/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
