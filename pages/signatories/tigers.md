@@ -5,7 +5,7 @@ excerpt:
 website: http://www.tigersltd.co.uk/
 twitter-url: https://twitter.com/TIGERS_UK
 email: briancarmichael@tigersltd.co.uk
-image: /images/signatories/tigers.jpg
+image: /images/signatories/Tigers.jpg
 permalink: /charter/tigers/
 ---
 
