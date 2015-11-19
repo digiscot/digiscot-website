@@ -131,6 +131,11 @@ Feedback on this training: "I wanted to thank you so much for coming along to ou
 
 <img src="https://lh3.googleusercontent.com/--c-_yaZaQWI/Vjj69FjYDDI/AAAAAAAAIVk/dOmNvskWR24/s1152-Ic42/WP_20151103_15_34_35_Pro__highres.jpg" alt="Digital Inclusion Training with Midlothian Libraries" Width="500">
 
+* November 3rd - Digital Inclusion training with 11 staff from Loanhead After School Club
+
+<img src="https://lh3.googleusercontent.com/-jLt36lSyxtI/Vkny9HIR86I/AAAAAAAAIX0/ayIjzyFynTg/s1152-Ic42/WP_20151116_13_57_14_Pro_LI.jpg" alt="Digital Inclusion Training with Loanhead After School Club" Width="500">
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
