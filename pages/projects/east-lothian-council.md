@@ -26,7 +26,7 @@ The project will aim to increase digital inclusion within the visually impaired 
 The classes will be held in Wallyford Library when it is closed so Jane can give her full attention to her students. Wallyford has very good transport links to the rest of the county with a train station and frequent bus service. The 6 mini IPads bought from a previous bid will be used or if the student prefers they will use their own device. Jane has led a few classes previously and from experience knows that 2 people per class is sufficient and necessary for the most to be gained by participants. 
 
 It is envisaged that classes will take place weekly and a session will last for 3 hours. Each student will receive 6 sessions in total or less dependent on need.
-
+<blockquoteclass="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">Congratulations to WallyfordLibrary, <a href="https://twitter.com/eastlothianlibs">@eastlothianlibs</a>, success in funding their Digital Inclusion Project <a href="https://t.co/Ei8NKP1QjW">https://t.co/Ei8NKP1QjW</a></p>&mdash; SLIC (@SLIC1991) <a href="https://twitter.com/SLIC1991/status/667634682759106560">November 20, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ### Planned project milestones
 
 * Advertise for students - in libraries via posters and social media. Also contact residents known to the equalities officer and via the Messenger newspaper: December 2015
