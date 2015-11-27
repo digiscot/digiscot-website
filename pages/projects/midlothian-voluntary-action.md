@@ -135,6 +135,22 @@ Feedback on this training: "I wanted to thank you so much for coming along to ou
 
 <img src="https://lh3.googleusercontent.com/-jLt36lSyxtI/Vkny9HIR86I/AAAAAAAAIX0/ayIjzyFynTg/s1152-Ic42/WP_20151116_13_57_14_Pro_LI.jpg" alt="Digital Inclusion Training with Loanhead After School Club" Width="500">
 
+* November 17th - Digital Inclusion training for 3 people at MVA
+
+<img src="https://lh3.googleusercontent.com/-O7qAtQ8nxD0/VlRTC9EAG6I/AAAAAAAAIZk/r-y1PykedJM/s912-Ic42/WP_20151124_09_51_58_Pro_LI.jpg" alt="Digital Inclusion training for 3 people at MVA" Width="500">
+
+Some good feedback on the training:
+
+<img src="https://lh3.googleusercontent.com/-nx4ON35zyAI/VlRTC8WIgrI/AAAAAAAAIZU/hdCxUNsS_PE/s912-Ic42/WP_20151124_09_53_23_Pro_LI.jpg" alt="Good feedback" Width="500">
+
+* November 24th - Digital Inclusion training for 11 staff from Midlothian Sure Start
+
+<img src="https://lh3.googleusercontent.com/-E3X69dhSVR8/VlRTCxuIVSI/AAAAAAAAIZc/II-Y9rDdHRg/s912-Ic42/WP_20151124_11_43_06_Pro_LI.jpg" alt="Digital Inclusion training for 11 staff from Midlothian Sure Start" Width="500">
+
+Sure Start were tweeting about the training:
+<p>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Thank you Craig for training our staff in how to support clients online <a href="https://twitter.com/MVACommunity">@MVACommunity</a> <a href="https://t.co/vuoqFzobu8">pic.twitter.com/vuoqFzobu8</a></p>&mdash; Midlothian SureStart (@MidSureStart) <a href="https://twitter.com/MidSureStart/status/669119474608553985">November 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Evaluation
 
