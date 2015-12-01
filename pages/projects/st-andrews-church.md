@@ -6,7 +6,7 @@ title: Community Spirit Learning Zone
 excerpt: Teaching basic computer skills alongside job search support and literacy and numeracy support
 lead: St Andrews Church (Havilah Project)
 website: http://www.arbroathstandrews.org.uk/index.php/what-we-do/serve/locally/havilah/
-email: 
+email: helensmithwallace@aol.com
 twitter-url: 
 facebook-url: 
 start: April 2015
