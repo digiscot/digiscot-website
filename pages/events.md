@@ -13,15 +13,17 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
-### Scotland's Digital Future
-Edinburgh, 16 November 2015
+Digital Participation Charter launch 
 
-Join us for an evening of celebration for the digital participation movement, in partnership with [Digital Leaders](http://digitalleaders.co.uk/) and [Sopra Steria](http://www.soprasteria.co.uk/en). [Find out more and book](http://digitalleaders.co.uk/dl-local/scotland/).
-
+4th February 2016
 
 
 ## Past events
 
+### Scotland's Digital Future
+Edinburgh, 16 November 2015
+
+Join us for an evening of celebration for the digital participation movement, in partnership with [Digital Leaders](http://digitalleaders.co.uk/) and [Sopra Steria](http://www.soprasteria.co.uk/en). [Find out more and book](http://digitalleaders.co.uk/dl-local/scotland/).
 
 ### [Scottish Digital Business Awards 2015](http://herald-events.com/digitalawards/2015-shortlist/)  
 Glasgow, 22 October 2015
