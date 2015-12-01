@@ -13,7 +13,7 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
-Digital Participation Charter launch 
+Digital Participation Charter platform launch 
 
 4th February 2016
 
