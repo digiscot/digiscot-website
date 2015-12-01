@@ -41,7 +41,9 @@ Claire, another volunteer, has also helped out at a Drop-In session based in Tur
 We also have a number of local people who are interested in becoming Digital Champion volunteers and an existing Digital Champion to help support our new volunteers. These volunteers will help us to provide new and additional services to the communities we work in.
 
 Some photos from our Castlemilk CoderDojo:
+
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.972264392807207.1073741831.725046737528975&amp;type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.972264392807207.1073741831.725046737528975&amp;type=1"><p>Photos from our CoderDojo in Castlemilk!</p>Posted by <a href="https://www.facebook.com/yourcommunityyourlife">Your Community Your Life</a> on <a href="https://www.facebook.com/media/set/?set=a.972264392807207.1073741831.725046737528975&amp;type=1">Wednesday, 13 May 2015</a></blockquote></div></div>
+
 
 ## Evaluation
 
