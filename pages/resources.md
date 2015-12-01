@@ -88,6 +88,10 @@ We’re excited to be a part of this digital world and we want everyone to get i
 
 Creative digital resources and programs for both children and adults.
 
+#### [Cheeky Munkey (IT support)](http://cheekymunkey.co.uk/using-the-internet-for-seniors-beginners-guide/)
+
+Using the internet for seniors - beginners guide
+
 #### [Digital Fife](http://www.digitalfife.com/)
 
 Easy to follow online courses and resources. 
