@@ -4,7 +4,7 @@ title: Pulsion Technology
 excerpt: 
 website: http://www.pulsion.co.uk/
 twitter-url: https://twitter.com/Pulsion_Tech
-email: keri.houston@pulsion.co.uk
+email: Stephanie.Drake@pulsion.co.uk
 image: /images/signatories/pulsion.jpg
 permalink: /charter/pulsion-technology/
 ---
