@@ -72,7 +72,12 @@ We are specifically looking for peer volunteers to come forward, so at the momen
 
 ### Phase 5 - November & December
 
-Deliver final digital skills courses 
+Deliver final digital skills courses.  
+Again another successful block within the digital course.  A mixture of absolute beginners and more experienced learners.  We have had the emergence of a peer volunteer within the group who is working well with all others to maintain their learning.  We can see that the peer volunteer is a great benefit to the group as they have experience and knowledge and have "been there" when learning the new skills.
+This final block is at full capacity every week.  As with most things, once people get used to the classes being there, everyone wants to come along, but of course numbers are kept small and this is the final block! 
+As with most blocks, they have beeen over-subscribed with a few people on the waiting list for each block incase of cancellations.
+This final block is a mixed group with some absolute beginners and some more experienced learners.  The one-to-one element has certainly worked well throughout the whole project, but particularly in this block.  Giving people individual attention seems to be a great learning tool.  People feel more comfortable if they see others asking what they see to be "silly" questions.  This lets the group know that there is no such thing as a "silly question" as everything is new and fresh and needs to be understood to use the equipment properly.  
+
 
 ## Evaluation
 
@@ -96,6 +101,6 @@ Things that worked well:
 
 Things that we would do differently next time:
 
-1. Make the classes smaller
-2. Make one class per piece of equipment ie.specifically Ipads or E-mail
+1. Make the classes smaller from day 1
+2. Make one class per piece of equipment ie.specifically Ipads or E-mail if at all possible.
 
