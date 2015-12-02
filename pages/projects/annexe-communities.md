@@ -78,6 +78,9 @@ This final block is at full capacity every week.  As with most things, once peop
 As with most blocks, they have beeen over-subscribed with a few people on the waiting list for each block incase of cancellations.
 This final block is a mixed group with some absolute beginners and some more experienced learners.  The one-to-one element has certainly worked well throughout the whole project, but particularly in this block.  Giving people individual attention seems to be a great learning tool.  People feel more comfortable if they see others asking what they see to be "silly" questions.  This lets the group know that there is no such thing as a "silly question" as everything is new and fresh and needs to be understood to use the equipment properly.  
 
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/929360840482016" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/929360840482016"><p>With the final block of our Digital Inclusion classes well underway, it only leaves us to say thanks to SCVO for funding...</p>Posted by <a href="https://www.facebook.com/annexepartick/">Annexe Communities</a> on&nbsp;<a href="https://www.facebook.com/annexepartick/posts/929360840482016">Wednesday, December 2, 2015</a></blockquote></div></div>
+
+
 
 ## Evaluation
 
