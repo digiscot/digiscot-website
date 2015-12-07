@@ -38,7 +38,10 @@ This charter establishes a framework for organisations in Scotland to support th
 
 </div>
 
-As a first step, why not ask some of your volunteers, customers or workforce to fill in the <a href="/files/BDS-assessment.pdf">Basic Digital Skills Assessment Questionnaire</a> to help us paint a picture of the situation across Scotland 
+As a first step, why not ask some of your volunteers, customers or workforce to fill in the <a href="/files/BDS-assessment.pdf">Basic Digital Skills Assessment Questionnaire</a> to help us paint a picture of the situation across Scotland.  
+<div id="form">
+  Alternatively, you can use <a href="/files/charter submission form.docx" target="_blank">this short form</a> to submit an offer to the Charter in preparation for the new sharing platform's launch in February
+</div>
 
 ## Signatories
 
