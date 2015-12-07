@@ -13,7 +13,7 @@ start: January 2015
 end: January 2016
 award: 9885
 postcode: EH6 5JQ
-image:
+image: /images/projects/OASIS - logo.png
 tags: older-people benefits disabled-people Glasgow
 permalink: /projects/bethany-christian-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
@@ -41,10 +41,8 @@ Promotion of drop-in sessions
 
 Preparing learning plans and finalising preparation of equipment
 
-https://mail.google.com/mail/u/0/?ui=2&ik=ef0f570813&view=fimg&th=150b33645feb3561&attid=0.1&disp=inline&safe=1&attbid=ANGjdJ9X9s6Ep6uYRcKWnzJsFANu0jaiVwmbgu63EKpUQHzeMF5rwRHRTaZvAn5ssndFlMP66TbYU60nHNZ6FInkK4SFDTTs-h5Gb7HZF2Y9YftdZQjhCBnKuvieX2I&ats=1446126978996&rm=150b33645feb3561&zw&sz=w1342-h547
-
-https://mail.google.com/mail/u/0/?ui=2&ik=ef0f570813&view=fimg&th=150b33645feb3561&attid=0.3&disp=inline&safe=1&attbid=ANGjdJ-A5dVI99r62C5viBWnv95VUOcjDHW-2AUQwGcNU98zutBg0Fa9rgxMm96yLhE4nrPPIF-CCFfSKoeFLSc1kD1sWNYs1MW4mzSRDxZQgbZ23mRrRSa-fNo-L80&ats=1446126978996&rm=150b33645feb3561&zw&sz=w1342-h547
-
+<img src="/images/projects/unnamed.jpg">
+<img src="/images/projects/unnamed (1).jpg">
 
 ### Phase 2 June - October 2015 
 
@@ -56,8 +54,7 @@ Mid-way point review of project with feedback from participants
 
 Between these months in Parkhead, we started to get asylum seekers attending the digital class. Most of them have been focusing on learning english better and adapting their computer skills. 
 
-https://mail.google.com/mail/u/0/?ui=2&ik=ef0f570813&view=fimg&th=150b32cd8f50f5b6&attid=0.1&disp=inline&safe=1&attbid=ANGjdJ84f0uVUoUDw3haFM1TMMBX9Ty9Z2qTGg53ysvmDbxDqx3JQfsN7QtH51aIiOrPIfbt7kCTaZZ3PMalFpAULPgQDJCoaAUdJUH0nA0tbpFv3ceIUlP0dRVimyU&ats=1446123968982&rm=150b32cd8f50f5b6&zw&sz=w1342-h503
-
+<img src="/images/projects/unnamed (2).jpg">
 
 ### Phase 3 November 2015
 
