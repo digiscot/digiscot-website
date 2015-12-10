@@ -39,8 +39,7 @@ We are also working closely with organisations that have signed [Scotland's Digi
 
 ### Call 3 (Winter 2015)
 
-An annoucement about Call 3 will be posted in November 2015.
-
+We recieved funding applications totalling over £700,000 for the third round of the Digital Challenge fund with fantastic project ideas coming in from across the country; we're excited to announce that, out of these applications,[19 have been supported with grants from the fund.](/projects/tags/#call3) and a further 7 have been supported with money pledged by BT Scotland.  To read more about the successful projects check out their [project pages.](/projects)
 
 
 ### Call 2 (Spring 2015)
