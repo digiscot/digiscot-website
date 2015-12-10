@@ -30,7 +30,7 @@ To encourage walkers in Step It Up Highland walking groups to engage with digita
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RL6YEjscZVc" frameborder="0" allowfullscreen></iframe>
 
-[This is our first attempt at recording a walk in Fortrose](https://www.youtube.com/watch?v=-DL-L1MrYEU&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-DL-L1MrYEU" frameborder="0" allowfullscreen></iframe>
 
 
 ## Evaluation
