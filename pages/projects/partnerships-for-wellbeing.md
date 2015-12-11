@@ -32,7 +32,7 @@ To encourage walkers in Step It Up Highland walking groups to engage with digita
 Walk leader Lotty talks about downloading a fitness app
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-DL-L1MrYEU" frameborder="0" allowfullscreen></iframe>
-
+Our first attempt at videoing a walk
 
 ## Evaluation
 
