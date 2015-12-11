@@ -28,9 +28,10 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ## Project milestones
 
-Busy making plans for the start of Tea and Tablet after the summer :)
+After some difficulties in starting Tea and Tablet, the equipment has been purchased and the programme is now up and running. 
+On Monday afternoons, a group of six adults have been meeting to learn the basics of using a laptop as well as a tablet.  The motivation for the individuals in the group to learn about IT and how to use a laptop/tablet, is staying in touch with family and friends and being able to access a wide range of information inclduing whats on locally.  Many had never used a computer before and although some have tablets they are not confident about using them.   The 14th is the last session with this group then we will evaluate with them to find out what their learning has been and what impact this learning will have on their day to day lives.
 
-After some unfortunate delays over the summer, we have started our Intro to IT classes again :) At the moment we are still using laptops but it wont be long until we introduce people to tablets and using them in our IT classes :) We will keep this page update on when this will happen!  
+The next Tea and Tablet group will start in February 2016.
 
 ## Evaluation
 
