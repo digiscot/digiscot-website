@@ -17,7 +17,7 @@ Website: [http://www.stuc.org.uk/](http://www.stuc.org.uk/)
 
 Twitter: [https://twitter.com/ScottishTUC](https://twitter.com/ScottishTUC)
 
-Email: [info@stuc.org.uk](mailto:info@stuc.org.uk)
+Email: [cgarvie@stuc.org.uk](mailto:cgarvie@stuc.org.uk)
 
 #### Contact details - Scottish Union Learning
 
@@ -25,4 +25,4 @@ Website: [http://www.scottishunionlearning.com/](http://www.scottishunionlearnin
 
 Twitter: [https://twitter.com/unionlearning](https://twitter.com/unionlearning)
 
-Email: [wburton@stuc.org.uk](mailto:wburton@stuc.org.uk)
+Email: [cgarvie@stuc.org.uk](mailto:cgarvie@stuc.org.uk)
