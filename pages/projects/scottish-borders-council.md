@@ -31,6 +31,13 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 After some difficulties in starting Tea and Tablet, the equipment has been purchased and the programme is now up and running. 
 On Monday afternoons, a group of six adults have been meeting to learn the basics of using a laptop as well as a tablet.  The motivation for the individuals in the group to learn about IT and how to use a laptop/tablet, is staying in touch with family and friends and being able to access a wide range of information inclduing whats on locally.  Many had never used a computer before and although some have tablets they are not confident about using them.   The 14th is the last session with this group then we will evaluate with them to find out what their learning has been and what impact this learning will have on their day to day lives.
 
+Here are some of the group participants trying out our tablets for the first time.  The learners really enjoyed using the tablets and learning about the different settings.  They have all said they feel more confident about using the internet and would like to continue using the internet at home.
+
+<img src="/images/projects/tea and tablet 1.jpg">		<img src="/images/projects/tea and tablet 2.jpg">
+<img src="/images/projects/tea and tablet 4.jpg">		<img src="/images/projects/tea and tablet 5.jpg">
+<img src="/images/projects/tea and tablet 6.jpg">		<img src="/images/projects/tea and tablet 3.jpg">
+
+
 The next Tea and Tablet group will start in February 2016.
 
 ## Evaluation
