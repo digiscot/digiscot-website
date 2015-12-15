@@ -33,9 +33,9 @@ On Monday afternoons, a group of six adults have been meeting to learn the basic
 
 Here are some of the group participants trying out our tablets for the first time.  The learners really enjoyed using the tablets and learning about the different settings.  They have all said they feel more confident about using the internet and would like to continue using the internet at home.
 
-<img src="/images/projects/tea and tablet 1.jpg">		<img src="/images/projects/tea and tablet 2.jpg">
-<img src="/images/projects/tea and tablet 4.jpg">		<img src="/images/projects/tea and tablet 5.jpg">
-<img src="/images/projects/tea and tablet 6.jpg">		<img src="/images/projects/tea and tablet 3.jpg">
+<img src="/images/projects/tea and tablet 1.JPG">		<img src="/images/projects/tea and tablet 2.JPG">
+<img src="/images/projects/tea and tablet 4.JPG">		<img src="/images/projects/tea and tablet 5.JPG">
+<img src="/images/projects/tea and tablet 6.JPG">		<img src="/images/projects/tea and tablet 3.JPG">
 
 
 The next Tea and Tablet group will start in February 2016.
