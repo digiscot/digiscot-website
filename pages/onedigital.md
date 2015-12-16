@@ -46,7 +46,7 @@ If you are interested in working with us to deliver training or to facilitate th
 
 <strong>Responses required by 12pm on 8 January 2016:</strong>
 
-<a class="btn btn-primary btn-lg" href="/files/tenderforfacilitator.pdf">Tender for Facilitator</a> <a class="btn btn-primary btn-lg" href="/files/tenderfortrainer.pdf">Tender for Trainer</a> 
+<a class="btn btn-primary btn-lg" href="/files/tender-for-facilitator.pdf">Tender for Facilitator</a> <a class="btn btn-primary btn-lg" href="/files/tender-for-trainer.pdf">Tender for Trainer</a> 
 
 
 If you have any questions please tweet us at: 
