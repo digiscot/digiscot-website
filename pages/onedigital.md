@@ -34,7 +34,10 @@ Over the last 2 months our One Digital team has been taking shape. Development O
 
 ## Tender Opportunity
 
-If you are interested in working with us to deliver training or to facilitate the action learning sets, then please review these two tender documents. <strong>Responses required by 12pm on 8 January 2016:</strong>
+If you are interested in working with us to deliver training or to facilitate the action learning sets, then please review the two below tender documents. <strong>Responses required by 12pm on 8 January 2016:</strong>
+
+<a class="btn btn-primary btn-lg" href="/files/tender for facilitator.pdf">Tender for Facilitator</a> 
+
 
 If you have any questions please tweet us at: 
  
