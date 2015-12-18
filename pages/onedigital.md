@@ -5,7 +5,7 @@ excerpt: Building digital skills in the charity and voluntary sector.
 permalink: /onedigital/
 ---
 
-![One Digital](/images/one digital.jpg)		![Big Lottery Fund](/images/big lottery fund.jpg)
+![One Digital](/images/OneDigital_badge.jpg)		![Big Lottery Fund](/images/big lottery fund.jpg)
 
 We at the One Digital team we have been awarded £500k from the Big Lottery Fund in an effort to better understand how to make a significant and sustainable improvement in the [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/) of the people most in need.
 
