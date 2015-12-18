@@ -6,6 +6,6 @@ alert:
 permalink: /projects/
 ---
 
-We're supporting a wide range of digital participation projects in communities across Scotland. Many of these are benefiting from financial support from our [challenge fund](/resources/challenge-fund/), whilst others are receiving in-kind support from organisations that have signed our [digital participation charter](/charter/).Each of them has a page on this site to tell their story in their own words.
+We're supporting a wide range of digital participation projects in communities across Scotland. Many of these are benefiting from financial support from our [challenge fund](/resources/challenge-fund/), whilst others are receiving in-kind support from organisations that have signed our [digital participation charter](/charter/).
 
-You can also [explore the projects by tag](/projects/tags/) or [by date funded](/projects/tag/#call1), or [see an interactive map](/projects/map/) of where things are happening.
+As each project gets underway we'll be setting up a page on this site for them to tell their story. Follow the links below to find out more, or explore them [by tag](/projects/tags/) or [on a map](/projects/map/).
