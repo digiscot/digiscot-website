@@ -7,7 +7,7 @@ permalink: /onedigital/
 
 ![One Digital](/images/OneDigital_badge.jpg)		![Big Lottery Fund](/images/big lottery fund.jpg)
 
-We at the One Digital team we have been awarded £500k from the Big Lottery Fund in an effort to better understand how to make a significant and sustainable improvement in the [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/) of the people most in need.
+The One Digital project has been awarded £500k from the Big Lottery Fund in an effort to better understand how to make a significant and sustainable improvement in the [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/) of the people most in need.
 
 This activity is part of a wider £2 million digital skills programme [One Digital](https://www.biglotteryfund.org.uk/global-content/press-releases/uk-wide/090915_uk_digital-skills/), which has been developed by a consortium of organisations including SCVO, [Digital Unite](http://digitalunite.com/), [Age UK](http://www.ageuk.org.uk/) and [Citizens Online](http://www.citizensonline.org.uk/). Our projects will benefit people with disabilities and accessibility needs, young adults seeking work, over 65s and charities and the people they support, so that they are able to access essential online services, search and apply for jobs and stay in touch with friends and family.
 
