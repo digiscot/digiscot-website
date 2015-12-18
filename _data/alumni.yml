@@ -1,3 +1,10 @@
+- name: Beverley Maclean
+  job: 
+  image: beverley.jpg
+  phone: 
+  email: 
+  twitter: bevlington
+  linkedin:
 - name: Lynne Swann
   job: 
   image: lynne.jpg
@@ -12,3 +19,25 @@
   email: 
   twitter: marysinclair5
   linkedin: 
+- name: Kevin Bradley
+  job: 
+  image: kevin.jpg
+  phone: 
+  email: 
+  twitter: TheAceofKs
+  linkedin: 
+- name: Andrew Watson
+  job: 
+  image: andrew.jpg
+  phone: 
+  email: 
+  twitter: 
+  linkedin: 
+- name: Rikki Dobson
+  job: 
+  image: rikki.jpg
+  phone: 
+  email: 
+  twitter: 
+  linkedin: 
+  
