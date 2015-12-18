@@ -15,9 +15,9 @@ If you're coming to see us then you'll find us in one of these places.
 
 #### Edinburgh
 
-Mansfield Traquair Centre  
-15 Mansfield Place  
-Edinburgh EH3 6BB
+Hayweight House  
+23 Lauriston Street  
+Edinburgh EH3 9DQ
 
 #### Glasgow
 
