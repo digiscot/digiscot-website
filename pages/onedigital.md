@@ -16,7 +16,7 @@ Each of the partners will run a project which will equip trusted intermediaries 
 <strong>2015/16 Timeline</strong> 
 ![One Digital Timeline](/images/timeline.JPG)
 
-In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three different approaches:
+In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three approaches:
 
 <strong>Stream One:</strong>
 With the help of an ‘anchor’ organisation we will identify 10 organisations in each local authority area to participate in face-to-face and online training. This will aim to improve the Basic Digital Skills of the staff and volunteers in the organisation. These participants will form a network of ‘Digital Champions’ and receive support from our Development officers to identify areas for improvement and delivering changes in their organisation.  
@@ -25,7 +25,7 @@ For example, someone who volunteers with a befriending project might decide to s
  
 
 <strong>Stream Two:</strong>
-With the help of an ‘anchor’ organisation we will identify staff/volunteers with good digital skills from 10 different organisations in each local authority area. These participants will be supported through face-to-face and online training, to pass their skills on to the people they are already working with. These participants will also join the ‘Digital Champions’ network and receive support to help their organisation pass on basic digital skills to their end users. 
+With the help of an ‘anchor’ organisation we will identify staff/volunteers with good digital skills from 10 different organisations in each local authority area. These participants will be supported through face-to-face and online training, to then pass their skills on to the people they are already working with. These participants will also join the ‘Digital Champion’ network and receive support to help their organisation pass on basic digital skills to their end users. 
 
 For example, an employment support worker might decide to routinely support clients to set up a LinkedIn profile.     
  
@@ -38,7 +38,7 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 ## New Developments- December 2015
 
-Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our One Digital Project and has got us up and running. A blog from Beth is shortly to follow...
+Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. A blog from Beth is shortly to follow...
 
 ## Tender Opportunity
 
