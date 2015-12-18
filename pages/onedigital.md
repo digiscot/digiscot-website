@@ -14,7 +14,7 @@ This activity is part of a wider £2 million digital skills programme [One Digit
 Each of the partners will run a project which will equip trusted intermediaries to act as ‘Digital Champions’, able to support a wide range of people to develop their Basic Digital Skills.  The Digital Champions will, for example, demonstrate the use of Skype to an older person to help them stay in touch with grandchildren and family or provide a young person with the skills to search for work and complete an online CV.
 
 <strong>2015/16 Timeline</strong> 
-![One Digital Timeline](/images/one digital timeline.JPG)
+![One Digital Timeline](/images/timeline.JPG)
 
 In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three different approaches:
 
