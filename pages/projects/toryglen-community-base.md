@@ -66,6 +66,12 @@ Our computer suite is also open to the public and they too are enjoying the bene
 ![Toryglen Poster](/images/projects/Toryglen Community Base 5.jpg)
 ![Toryglen Poster](/images/projects/Toryglen Community Base 6.jpg)
 
+### Our Digital Photography Achievers
+
+![Toryglen Poster](/images/projects/toryglen1.jpg)
+![Toryglen Poster](/images/projects/toryglen2.jpg)
+![Toryglen Poster](/images/projects/toryglen3.jpg)
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
