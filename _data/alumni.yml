@@ -1,3 +1,10 @@
+- name: Aron Seemel
+  job: 
+  image: 
+  phone: 
+  email: 
+  twitter: 
+  linkedin: 
 - name: Beverley Maclean
   job: 
   image: beverley.jpg
@@ -5,19 +12,19 @@
   email: 
   twitter: bevlington
   linkedin:
-- name: Lynne Swann
-  job: 
-  image: lynne.jpg
-  phone: 
-  email: 
-  twitter: LAS3158
-  linkedin: 
 - name: Mary Sinclair
   job: 
   image: mary.jpg
   phone: 
   email: 
   twitter: marysinclair5
+  linkedin: 
+- name: Lynne Swann
+  job: 
+  image: lynne.jpg
+  phone: 
+  email: 
+  twitter: LAS3158
   linkedin: 
 - name: Kevin Bradley
   job: 
@@ -40,4 +47,3 @@
   email: 
   twitter: 
   linkedin: 
-  
