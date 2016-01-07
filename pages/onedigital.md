@@ -48,6 +48,7 @@ If you are interested in working with us to deliver training or to facilitate th
 
 <a class="btn btn-primary btn-lg" href="/files/tender-for-facilitator.pdf">Tender for Facilitator</a> <a class="btn btn-primary btn-lg" href="/files/tender-for-trainer.pdf">Tender for Trainer</a> 
 
+For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <a class="btn btn-primary btn-lg" href="/files/anchorfaqs.pdf">FAQs</a> 
 
 If you have any questions please tweet us at: 
  
