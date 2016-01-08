@@ -38,15 +38,13 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 ## New Developments- December 2015
 
-Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. You can follow Beth's new blog [here](http://www.scvo.org.uk/blog/gearing-up-for-one-digital/) 
+Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. You can [follow Beth's new blog here](http://www.scvo.org.uk/blog/gearing-up-for-one-digital/) 
 
 ## Tender Opportunity
 
-If you are interested in working with us to deliver training or to facilitate the action learning sets, then please review the two below tender documents. 
+The deadline for submitting a response to the tender has now passed. Shortlisting will start on 12th January and all applicants will be informed of their progress soon after. Thank you for your interest.
 
-<strong>Responses required by 12pm on 8 January 2016:</strong>
-
-<a class="btn btn-primary btn-lg" href="/files/tender-for-facilitator.pdf">Tender for Facilitator</a> <a class="btn btn-primary btn-lg" href="/files/tender-for-trainer.pdf">Tender for Trainer</a> 
+## Anchor Organisations
 
 For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <a class="btn btn-primary btn-lg" href="/files/anchorfaqs.pdf">FAQs</a> 
 
