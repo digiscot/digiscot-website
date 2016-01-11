@@ -43,21 +43,23 @@ Advertising and promotion design and raising awareness
 
 Training in homes 
 
-Increase awareness  & skills events - these are in place and the dates scheduled are
+Increase awareness  & skills events - these were completed in all planned areas:
 
-16th November Cowal and Kintyre
+16th November Kintyre - 20 participants
 
-17th November Mid Argyll
+17th November Islay - 17 participants
 
-20th November  Bute
+20th November Bute - 25 participants and have been asked to do another one specifically for a group of adult learners
 
-20th November Islay and Jura
+30th November Mid Argyll - 18 participants
+
+2nd December  Cowal - numbers tbc - asked to do another one specifically for senior citizens
 
 ### Phase 4
 
 Develop and advertise
 
-Collate info for feedback - still aiming to have evaluations and feedback complete by mid- to end of December.
+Collate info for feedback - aiming to have evaluations and feedback complete by end of January 2016
 
 
 ## Evaluation
