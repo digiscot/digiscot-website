@@ -2,8 +2,7 @@
 layout: page
 permalink: /gathering/
 ---
-<html>
-<head>
+
     <script type='text/javascript' src='http://www.google.com/jsapi'></script>
     <script type='text/javascript'>
         google.load('visualization', '1', {'packages':['corechart','table']});
@@ -83,20 +82,13 @@ permalink: /gathering/
       // }
 
     </script>
-</head>
 
-<body>
     <h1 class="text-center">Basic Digital Skills - live results</h1>
 
-    <div class="container" style="margin: 10px;">
-        <div class="row">
-            <div class="col-sm-12">
                 <div id='chart_div1' style="height: 600px; width: 1200px;"></div>
-            </div>
-        </div>
-    </div>
+   
 
-    <div class="container" style="margin: 10px">
+   
         <div class="row">
             <div class="col-lg-8">
                 <div id='chart_div2'></div>
@@ -117,6 +109,3 @@ permalink: /gathering/
                 </div>
             </div>
         </div>
-    </div>
-</body>
-</html>
