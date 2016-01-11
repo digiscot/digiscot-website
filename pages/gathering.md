@@ -85,27 +85,25 @@ permalink: /gathering/
 
 <h1 class="text-center">Basic Digital Skills - live results</h1>
 
-            <div id='chart_div1' style="height: 600px; width: 1200px;"></div>
+<div id='chart_div1' style="height: 600px; width: 100%;"></div>
 
-
-
-    <div class="row">
-        <div class="col-lg-8">
-            <div id='chart_div2'></div>
-        </div>
-        <div class="col-lg-3">
-            <div class="panel panel-success">
-                <div class="panel-heading">
-                    <div class="row">
-                        <div class="col-xs-5">
-                            <i class="fa fa-check fa-5x"></i>
-                        </div>
-                        <div class="col-xs-5 text-right">
-                            <p id="total" class="announcement-heading"></p>
-                            <p class="announcement-text">Respondents</p>
-                        </div>
+<div class="row">
+    <div class="col-lg-8">
+        <div id='chart_div2'></div>
+    </div>
+    <div class="col-lg-3">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-5">
+                        <i class="fa fa-check fa-5x"></i>
+                    </div>
+                    <div class="col-xs-5 text-right">
+                        <p id="total" class="announcement-heading"></p>
+                        <p class="announcement-text">Respondents</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
