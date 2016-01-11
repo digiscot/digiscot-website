@@ -13,7 +13,7 @@ We know that by embracing digital, charities are more likely to see an increase 
 There are often a number of complex reasons why charities struggle to become more digital, including time, motivation, resourcing and access to training and support.  
 
 
-The One Digital project will bring together a group of senior third sector leaders who are keen to tackle this issue. Using [action learning methodology](https://en.wikipedia.org/wiki/Action_learning/) the group will be supported to work together to find solutions to the problems that they are facing.
+The One Digital project will bring together a group of senior third sector leaders who are keen to tackle this issue. Using [action learning methodology](https://en.wikipedia.org/wiki/Action_learning) the group will be supported to work together to find solutions to the problems that they are facing.
 
 ## Action learning sets
 
@@ -31,7 +31,7 @@ We will ask you to audit the level of digital skills in your organisation at the
 
 ## Who should apply? 
 
-We are looking for leaders who represent a cross section of Scotland’s third sector in Scotland. You don’t need to be digitally savvy as an individual as it’s your passion and knowledge about creating a more digital third sector we’re looking to engage. We are seeking leaders who can demonstrate: 
+We are looking for leaders who represent a cross section of Scotland’s third sector in Scotland. You don’t need to be digitally savvy as an individual as it’s your passion and knowledge about creating a more digital third sector we’re looking to engage.
 
 <div class="panel panel-default">
 
@@ -59,11 +59,11 @@ We are looking for leaders who represent a cross section of Scotland’s third s
 
 ## What sorts of challenges? 
 
-A key principle of action learning is that the members will seek solutions to challenges which are real and current. For this reason the below table lists potential challenges
+A key principle of action learning is that the members will seek solutions to challenges which are real and current. For this reason the below table lists potential challenges.
 
 <div class="panel panel-default">
 
-  <div class="panel-heading"><strong>Groups might choose to explore:</strong></div>
+  <div class="panel-heading"><strong>Leaders might choose to explore:</strong></div>
 
   <div class="list-group">
     <span class="list-group-item">
@@ -92,10 +92,29 @@ A key principle of action learning is that the members will seek solutions to ch
 
 To help us select a representative sample of leaders please complete an [application form](/files/als.docx) and send to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by midday on <strong>Friday 29th January</strong>. 
 
-We expect to make a decision on your application by Friday 5th February and will be in contact with you in due course.  
-If you would like to discuss this opportunity or your application further please contact Beth Murphy - One Digital Project Manager. [beth.murphy@scvo.org.uk](mailto:beth.murphy@scvo.org.uk) or 07581623028
+We expect to make a decision on your application by Friday 5th February and will contact you in due course.
 
-If you have any questions please tweet us at: 
+If you would like to discuss this opportunity or your application further please contact:
+
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/team/avatar.png" alt="" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Beth Murphy</strong><br />
+        Project Manager, One Digital<br />
+        0131 524 7288<br />
+        <a href="mailto:beth.murphy@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/Betty_Murphy"><i class="fa fa-fw fa-twitter"></i></a> 
+        
+        </p>
+      </div>
+      
+      
+        </div>
+
+If you have any questions please tweet us at:
  
 [@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
 [@starkmadeline](https://twitter.com/StarkMadelaine) [Development Officer South]   
