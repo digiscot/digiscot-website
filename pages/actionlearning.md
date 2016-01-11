@@ -8,7 +8,7 @@ permalink: /actionlearning/
 As part of the new One Digital programme we are seeking applications from senior leaders who want to transform their organisation’s approach to going digital.  
 
 
-We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) lack basic digital skills-please [see here](href="\images\infographic-2015-white.png")
+We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) lack basic digital skills-please [see here](/images/infographic-2015-white.png)
 
 There are often a number of complex reasons why charities struggle to become more digital, including time, motivation, resourcing and access to training and support.  
 
@@ -59,11 +59,11 @@ We are looking for leaders who represent a cross section of Scotland’s third s
 
 ## What sorts of challenges? 
 
-A key principle of action learning is that the members will seek solutions to challenges which are real and current.
+A key principle of action learning is that the members will seek solutions to challenges which are real and current. For this reason the below table lists potential challenges
 
 <div class="panel panel-default">
 
-  <div class="panel-heading"><strong>This list is therefore only provided to illustrate the type of issue that the group might explore:</strong></div>
+  <div class="panel-heading"><strong>Groups might choose to explore:</strong></div>
 
   <div class="list-group">
     <span class="list-group-item">
