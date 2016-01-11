@@ -38,11 +38,11 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 ## New Developments- December 2015
 
-Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. You can [follow Beth's new blog here](http://www.scvo.org.uk/blog/gearing-up-for-one-digital/) 
+Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's new blog</a>
 
-## Tender Opportunity
+## Stream three- Senior Leadership Action Learning
 
-The deadline for submitting a response to the tender has now passed. Shortlisting will start on 12th January and all applicants will be informed of their progress soon after. Thank you for your interest.
+We are now looking for enthusiastic senior leaders and trustees to help their organisations go digital. You don’t need to be digitally savvy– it’s your passion and knowledge that we’re looking to engage! [Find out more](http://digital.scvo.org.uk/actionlearning/) and submit your applications to us by midday on <strong>Friday 29th January</strong>. 
 
 ## Anchor Organisations
 
