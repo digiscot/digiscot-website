@@ -8,7 +8,7 @@ permalink: /actionlearning/
 As part of the new One Digital programme we are seeking applications from senior leaders who want to transform their organisation’s approach to going digital.  
 
 
-We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) [lack basic digital skills.](http://digital.scvo.org.uk/about/annual-report-2015/)
+We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) lack basic digital skills- please see our first annual rep(http://digital.scvo.org.uk/about/annual-report-2015/)
 
 There are often a number of complex reasons why charities struggle to become more digital, including time, motivation, resourcing and access to training and support.  
 
@@ -90,7 +90,9 @@ A key principle of action learning is that the members will seek solutions to ch
 
 ## How to apply? 
 
-To help us select a representative sample of leaders please complete the <a class="btn btn-primary btn-lg" href="/files/als.docx">application form</a> and send to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by midday on Friday 29th January.  
+To help us select a representative sample of leaders please click on the button below to complete an application form and send to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by midday on Friday 29th January. 
+
+<a class="btn btn-primary btn-lg" href="/files/als/">Apply</a> 
 
 We expect to make a decision on your application by Friday 5th February and will be in contact with you in due course.  
 If you would like to discuss this opportunity or your application further please contact Beth Murphy - One Digital Project Manager. [beth.murphy@scvo.org.uk](mailto:beth.murphy@scvo.org.uk) or 07581623028
