@@ -8,7 +8,7 @@ permalink: /actionlearning/
 As part of the new One Digital programme we are seeking applications from senior leaders who want to transform their organisation’s approach to going digital.  
 
 
-We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) lack basic digital skills-please [see here](/images/infographic-2015-white.png)
+We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) [lack basic digital skills](/images/infographic-2015-white.png).
 
 There are often a number of complex reasons why charities struggle to become more digital, including time, motivation, resourcing and access to training and support.  
 
@@ -90,33 +90,119 @@ A key principle of action learning is that the members will seek solutions to ch
 
 ## How to apply? 
 
-To help us select a representative sample of leaders please complete an [application form](/files/als.docx) and send to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by midday on <strong>Friday 29th January</strong>. 
+To help us select a representative sample of leaders please complete an [application form](/files/als.docx) and send to the [One Digital team](mailto:onedigital@scvo.org.uk) by midday on <strong>Friday 29th January</strong>. 
 
-We expect to make a decision on your application by Friday 5th February and will contact you in due course.
+We expect to make a decision on your application by <strong>Friday 5th February</strong> but if you would like to discuss this opportunity or your application further please contact Beth Murphy:
 
-If you would like to discuss this opportunity or your application further please contact:
+<html>
 
+  <head>
+  
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <title>SCVO | Digital Participation &raquo; Meet the team</title>
+  <meta name="description" content="Who's who in the digital participation team at SCVO.">
+  
+  <!-- Twitter Card data -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@digiscot" />
+<meta name="twitter:creator" content="@digiscot" />
+
+<!-- Open Graph data -->    
+<meta property="og:title" content="SCVO | Digital Participation &raquo; Meet the team" />
+<meta property="og:description" content="Who's who in the digital participation team at SCVO." />        
+<meta property="og:url" content="http://digital.scvo.org.uk/about/team/" />    
+<meta property="og:image" content="http://digital.scvo.org.uk/images/image.jpg" /> 
+<meta property="og:site_name" content="SCVO | Digital Participation" />       
+<meta property="og:type" content="website" /> 
+<meta property="fb:admins" content="509241123" />
+
+   
+  <link rel="icon" href="http://digital.scvo.org.uk/images/favicon.ico" />
+  <link rel="image_src" href="http://digital.scvo.org.uk/images/image.jpg" />
+  <link rel="apple-touch-icon" href="http://digital.scvo.org.uk/images/image.jpg" />
+
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="/css/main.css" />
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  <script src="/js/main.js"></script>
+  
+  <script type="text/javascript" src="//www.browsealoud.com/plus/scripts/ba.js"></script>
+  
+  <link rel="canonical" href="http://digital.scvo.org.uk/about/team/">
+
+  <link rel="alternate" type="application/rss+xml" title="SCVO | Digital Participation" href="/feed.xml" />
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-3467930-7', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</head>
+
+  <body>
+
+    
+      </button>
+      
+      </ul>        
+
+    </div>
+    
+  </div>
+</div>
+
+    
+    <div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+    
+
+      
+      
+      
+
+      
+
+      
+    </div>
+  </div>
+  
+    
+    
+      
+      
+        <div class="row">
+      
+      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="" class="img-circle avatar" />
+        <img src="/images/team/avatar.png" alt="Chris Yiu" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Beth Murphy</strong><br />
-        Project Manager, One Digital<br />
-        0131 524 7288<br />
+        One Digital Project Manager<br />
+        07581623028<br />
         <a href="mailto:beth.murphy@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/Betty_Murphy"><i class="fa fa-fw fa-twitter"></i></a> 
-        
+        <a href="http://www.linkedin.com/in/beth-murphy-88544623"><i class="fa fa-fw fa-linkedin"></i></a>
         </p>
       </div>
-      
-      
-        </div>
 
-If you have any questions please tweet us at:
- 
-[@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
-[@starkmadeline](https://twitter.com/StarkMadelaine) [Development Officer South]   
-[@littleeilidh](https://twitter.com/LittleEilidh) [Development Officer North]  
-[@jomalo6](https://twitter.com/jomalo6) [Project Administrator]
+
