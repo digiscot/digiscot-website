@@ -8,7 +8,7 @@ permalink: /actionlearning/
 As part of the new One Digital programme we are seeking applications from senior leaders who want to transform their organisation’s approach to going digital.  
 
 
-We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) lack basic digital skills- [please see here](http://digital.scvo.org.uk/about/annual-report-2015/)
+We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) lack basic digital skills-please [see here](href="\images\infographic-2015-white.png")
 
 There are often a number of complex reasons why charities struggle to become more digital, including time, motivation, resourcing and access to training and support.  
 
