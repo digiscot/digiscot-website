@@ -39,7 +39,7 @@ permalink: /gathering/
             //'legend':'none',
             'isStacked':'percent',              
             'colors': ['#9BC53D','#FF9F1C','#E71D36'],             
-            'chartArea':{left:200,top:0,width:'100%',height:'80%'}         
+            'chartArea':{left:0,top:0,width:'100%',height:'80%'}         
             }
         chart1.draw(data1, options);       
         }
@@ -55,7 +55,7 @@ permalink: /gathering/
             'colors':['#FF9F1C','#9BC53D'],
             'height': '350',
             'bar': {groupWidth: '100%'},
-            'chartArea':{left:200,top:0,width:'100%',height:'80%'}
+            'chartArea':{left:0,top:0,width:'100%',height:'80%'}
         }
         chart2.draw(data2, options);
        }
