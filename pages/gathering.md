@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Gathering
 permalink: /gathering/
 ---
 <html>
