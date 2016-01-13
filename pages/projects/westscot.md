@@ -80,6 +80,19 @@ Month #6
 Month #7
 
  - 1st October: Niamh visited more WSHA sheltered housing on Witch Road in Kilmarnock, with Alison & Michelle the Volunteer Coordinator. There was a coffee afternoon held in the common room, to encourage tenants to give us their ideas for a weekly social activity. Attendance was poor; however Niamh identified one tenant who was in need of IT support. This tenant had additional needs due to him having a stroke 3 years before. Niamh is looking into signposting him to an AAC (Augmentative & Alternative communication) service in Ayrshire. 
+ - 21st October: Niamh attends the first Health Issue In the Community (HIIC) session, to provide IT support for the participants, in conjunction with Healthy North Glasgow and Thenue HA. This session takes place for the next 7 weeks. During these 7 weeks, participants write an essay on their chosen health issue and prepare a PowerPoint presentation, to be delivered in front of an audience. 
+
+
+Month #8
+
+ - 12th November: Niamh visits sheltered housing complex at Witch Road in Kilmarnock. Identifies 2 gentlemen who would like to learn basic IT skills and who need help with operating their personal tablet. 
+ - 26th November: Niamh begins another IT drop-in session at the G31 Centre. Flyering for this was done previously, around the Camlachie area as well in the Bridgeton area (Job Centre, library and Citizens Advice). Nobody turns up on Day 1. 
+ 
+
+Month #9
+
+ - 8th December: Niamh and Marco visit Witch Road to help a tenant set up his tablet, and to deliver sign-up forms for a local IT skills class.
+
 
 
 
