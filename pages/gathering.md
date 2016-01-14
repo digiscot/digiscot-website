@@ -1,6 +1,5 @@
 ---
 layout: gathering
-permalink: /gathering/
 ---
 
 <script type='text/javascript' src='http://www.google.com/jsapi'></script>
@@ -37,8 +36,10 @@ permalink: /gathering/
         //'title':'none',              
         //'legend':'none',
         'isStacked':'percent',              
-        'colors': ['#27C478','#FFBE0B','#E71D36'],             
-        'chartArea':{left:100,top:0,width:'100%',height:'80%'}         
+        'colors': ['#27C478','#FFBE0B','#E71D36'],
+        'vAxis': {textStyle:{color: '#0042A3', fontSize: '20', bold: 'True'}}, 
+        'hAxis': {textStyle:{color: '#0042A3', fontSize: '20', bold: 'True'}},            
+        'chartArea':{left:100,top:0,width:'100%',height:'95%'}         
         }
     chart1.draw(data1, options);       
     }
@@ -54,7 +55,8 @@ permalink: /gathering/
         'colors':['#27C478','#E71D36'],
         'height': '350',
         'bar': {groupWidth: '100%'},
-        'chartArea':{left:0,top:0,width:'100%',height:'80%'}
+        'pieSliceTextStyle': {color: '#0042A3', fontSize: '20', bold: 'True'}, 
+        'chartArea':{left:0,top:0,width:'100%',height:'90%'}
     }
     chart2.draw(data2, options);
    }
@@ -85,11 +87,11 @@ permalink: /gathering/
 
 <h1 class="text-center">Basic Digital Skills - live results</h1>
 
-<div id='chart_div1' style="height: 600px; width: 100%;"></div>
+<div id='chart_div1' style="height: 400px; width: 100%;"></div>
 
 <div class="row">
     <div class="col-lg-8">
-        <div id='chart_div2'></div>
+        <div id='chart_div2' style="height: 250px; width: 100%; margin-bottom: 70px;"></div>
     </div>
     <div class="col-lg-3">
         <div class="panel">
