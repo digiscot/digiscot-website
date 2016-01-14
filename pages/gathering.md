@@ -92,7 +92,7 @@ permalink: /gathering/
         <div id='chart_div2'></div>
     </div>
     <div class="col-lg-3">
-        <div class="panel panel-success">
+        <div class="panel">
             <div class="panel-heading">
                 <div class="row">
                     <div class="col-xs-5">
