@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gathering
 permalink: /gathering/
 ---
 
