@@ -1,5 +1,6 @@
 ---
 layout: gathering
+permalink: /gathering
 ---
 
 <script type='text/javascript' src='http://www.google.com/jsapi'></script>
