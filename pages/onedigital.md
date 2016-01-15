@@ -38,7 +38,7 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 ## New Developments- December 2015
 
-Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's new blog</a>
+Over the last two months our One Digital team has been taking shape. Development Officers: Maddie and Eilidh have begun making contact with Third Sector Interfaces (TSIs) across Scotland to discuss local needs and challenges, as well as learning about the digital work already taking place. Our Project manager Beth has only recently arrived but is busy at the helm of our project and has got us up and running. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's new blog</a> <a href="http://www.scvo.org.uk/blog/help-your-organisation-go-digital/" class="btn btn-primary btn-lg">Jo's new blog</a>
 
 ## Stream three- Senior Leadership Action Learning
 
