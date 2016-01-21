@@ -120,4 +120,6 @@ Let’s Get On is there to support people who are helping friends and family tak
 
 Connect from Living It Up provides useful tips and guides to help you connect with others online, and make the most of what the internet has to offer.
 
-#### [Safe, Secure and Prosperous: A Cyber Resilence Strategy for Scotland](http://www.gov.scot/Publications/2015/11/2023/downloads)  
+#### [Safe, Secure and Prosperous: A Cyber Resilence Strategy for Scotland](http://www.gov.scot/Publications/2015/11/2023/downloads) 
+
+The Scottish Government's Cyber Resilence Strategy.
