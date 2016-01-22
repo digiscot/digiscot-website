@@ -48,6 +48,10 @@ We are now looking for enthusiastic senior leaders and trustees to help their or
 
 For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <a class="btn btn-primary btn-lg" href="/files/anchorfaqs.pdf">FAQs</a> 
 
+## Participants
+
+Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our <a class="btn btn-primary btn-lg" href="/files/infoforparticipants.pdf">Participant FAQs</a>
+
 If you have any questions please tweet us at: 
  
 [@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
