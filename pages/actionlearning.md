@@ -7,6 +7,7 @@ permalink: /actionlearning/
 
 As part of the new One Digital programme we are seeking applications from senior leaders who want to transform their organisation’s approach to going digital.  
 
+Organisations in the third sector have much to gain from the shift to digital, but many are in danger of being left behind. If we can put the third sector on the front foot when it comes to digital then we can make a real impact on social justice, public service delivery and economic growth. 
 
 We know that by embracing digital, charities are more likely to see an increase in their funding, and can work more efficiently. However, currently half of all Scottish charities (20,000 organisations) [lack basic digital skills](/images/infographic-2015-white.png).
 
@@ -15,11 +16,17 @@ There are often a number of complex reasons why charities struggle to become mor
 
 The One Digital project will bring together a group of senior third sector leaders who are keen to tackle this issue. Using [action learning methodology](https://en.wikipedia.org/wiki/Action_learning) the group will be supported to work together to find solutions to the problems that they are facing.
 
+Digital transformation is a major undertaking for any organisation, and unless the people at the very top have a sound understanding of the opportunity and a vision for grasping it then change will only ever be incremental. 
+
 ## Action learning sets
 
 The leaders will meet monthly to tackle real problems or issues. The action learning process promotes curiosity, inquiry, and reflection. There is a requirement that talk be converted into action and, ultimately, a solution. Those taking part in the process should be committed and open to learning. 
 
-The sets will be facilitated by an independent expert, and the space provided will be confidential.  
+The sets will be facilitated by an independent expert, Ross McCulloch from Third Sector Lab.  We will create a safe space within each cohort to allow a positive culture of challenge and support to flourish. 
+
+Along the way we expect to cover many of the topics that leaders increasingly encounter: language and methodologies, collaborating with developers, innovation, IP and so on. We will link all these back to the big picture, so that participants will see digital as a tool for advancing their organisation's mission and don't get side-tracked into thinking about digital as an end in itself.  
+
+As well as enhancing networking within the sector by identifying groups of like-minded people facing similar challenges, we also want to make connections between third sector leaders and their peers in other domains. We will invite strong speakers from a range of different sectors, selected because of the story they can tell about using digital to accelerate the impact of their organisation, so that we can create stretch in terms of knowledge, understanding and ambition.  
 
 ## What commitment is needed? 
 
@@ -27,11 +34,14 @@ We plan to support two action learning sets, one for CEOs and Directors, and the
 
 If you are interested in taking part there will be no charge and your expenses will be met by the project. In return we require you to commit your time to attend seven sets between February and August, four full days with a residential option, and three half days. 
 
+The first half day session will take place on with other sessions to be organised once the participants have been selected.   
+
 We will ask you to audit the level of digital skills in your organisation at the start and end of the programme, and to share anonymised information about the impact of the learning set. 
 
 ## Who should apply? 
 
-We are looking for leaders who represent a cross section of Scotland’s third sector in Scotland. You don’t need to be digitally savvy as an individual as it’s your passion and knowledge about creating a more digital third sector we’re looking to engage.
+We are looking for leaders who represent a cross section of Scotland’s third sector in Scotland. You don’t need to be digitally savvy as an individual as it’s your passion and knowledge about transforming your organisation that we’re looking to engage. 
+
 
 <div class="panel panel-default">
 
