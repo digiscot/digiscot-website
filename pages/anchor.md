@@ -1,27 +1,40 @@
 ---
 layout: page
-title: One digital 
-excerpt: Building digital skills in the charity and voluntary sector.
+title: One Digital Project Anchor Organisations 
+excerpt: What you need to know!
 permalink: /onedigital/
 ---
 
 ![One Digital](/images/OneDigital_badge.jpg)		![Big Lottery Fund](/images/big lottery fund.jpg)
 
-The One Digital team at SCVO have been awarded £500k from the Big Lottery Fund in an effort to better understand how to make a significant and sustainable improvement in the [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/) of the people most in need.
+We’re delighted that you’re considering becoming or have already committed to being a One Digital Project anchor organisation.  It’s a vital role to help us to deliver and improve Basic Digital Skills across Scotland’s third sector.  Below are some frequently asked questions and answers to help inform your decision and to deliver your role. 
 
-This activity is part of a wider two million pound [One Digital](https://www.biglotteryfund.org.uk/global-content/press-releases/uk-wide/090915_uk_digital-skills/) programme, which has been developed by a consortium of organisations including SCVO, [Digital Unite](http://digitalunite.com/), [Age UK](http://www.ageuk.org.uk/) and [Citizens Online](http://www.citizensonline.org.uk/). Our projects will benefit people with disabilities and accessibility needs, young adults seeking work, over 65s and charities and the people they support, so that they are able to access essential online services, search and apply for jobs and stay in touch with friends and family.
+<strong>What does the Project aim to do?</strong>
+One Digital is aiming to develop the Basic Digital Skills of third sector organisations through Digital Champions.  We are a 'test and learn' initiative, and are offering two types of training and support: 
 
-Each of the partners will run a project which will equip trusted intermediaries to act as ‘Digital Champions’, able to support a wide range of people to develop their Basic Digital Skills.  The Digital Champions will, for example, demonstrate the use of Skype to an older person to help them stay in touch with grandchildren and family or provide a young person with the skills to search for work and complete an online CV.
+<div class="panel panel-default">
 
-<strong>2015/16 Timeline</strong> 
-![One Digital Timeline](/images/timeline.jpg)
+  <div class="panel-heading"><strong>Charter signatories commit to:</strong></div>
 
-In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three approaches:
+  <div class="list-group">
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>1.</strong> Ensuring that all of our staff and volunteers have an opportunity to learn basic digital skills, and that they take advantage of this opportunity.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>2.</strong> Encouraging and supporting our staff and volunteers to help other people learn basic digital skills, and help other organisations to embrace digital tools.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>3.</strong> Contributing resources and practical support for digital participation initiatives in Scotland in whatever ways we can.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>4.</strong> Channelling our efforts through the Digital Participation Programme, so that our activities can be coordinated for maximum impact and measured consistently.</p>
+    </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text"><strong>5.</strong> Using common language based on digital participation and basic digital skills, to make our thinking and actions as clear as possible.</p>
+    </span>
+  </div>
 
-<strong>Stream One:</strong>
-With the help of an ‘anchor’ organisation we will identify 10 organisations in each local authority area to participate in face-to-face and online training. This will aim to improve the Basic Digital Skills of the staff and volunteers in the organisation. These participants will form a network of ‘Digital Champions’ and receive support from our Development officers to identify areas for improvement and delivering changes in their organisation.  
-
-For example, someone who volunteers with a befriending project might decide to set up a Facebook group to offer peer support to the other volunteer befrienders.  
+</div> 
  
 
 <strong>Stream Two:</strong>
