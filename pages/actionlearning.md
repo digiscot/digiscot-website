@@ -17,7 +17,7 @@ Digital transformation is a major undertaking for any organisation, and unless t
 
 The leaders will meet monthly to tackle real problems or issues. The action learning process promotes curiosity, inquiry, and reflection. There is a requirement that talk be converted into action and, ultimately, a solution. Those taking part in the process should be committed and open to learning. 
 
-The sets will be facilitated by an independent expert, [Ross McCulloch](https://twitter.com/ThirdSectorLab) from [Third Sector Lab](http://thirdsectorlab.co.uk/).  We will create a safe space within each cohort to allow a positive culture of challenge and support to flourish. 
+The sets will be facilitated by an independent expert, [Ross McCulloch](https://twitter.com/ThirdSectorLab) from [Third Sector Lab](http://thirdsectorlab.co.uk/) and [Be Good Be Social](http://begoodbesocial.org.uk/).  We will create a safe space within each cohort to allow a positive culture of challenge and support to flourish. 
 
 Along the way we expect to cover many of the topics that leaders increasingly encounter: language and methodologies, collaborating with developers, innovation, IP and so on. We will link all these back to the big picture, so that participants will see digital as a tool for advancing their organisation's mission and don't get side-tracked into thinking about digital as an end in itself.  
 

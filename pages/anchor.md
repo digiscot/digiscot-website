@@ -2,7 +2,7 @@
 layout: page
 title: One Digital Project Anchor Organisations 
 excerpt: What you need to know!
-permalink: /onedigital/
+permalink: /anchor/
 ---
 
 ![One Digital](/images/OneDigital_badge.jpg)		![Big Lottery Fund](/images/big lottery fund.jpg)
