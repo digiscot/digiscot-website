@@ -44,6 +44,23 @@ The devices used will be laptops in Strathspey and either laptops or PCs in Bade
 * Combating loneliness and depression by holding fun, relaxed sessions in a safe environment where people can meet new people and strengthen their social network.
 * Building skills for empowerment of individuals and communities
 
+### Project Updates
+
+* December 2015
+
+We have been working hard with our tutor Evan to create course materials, finding common tasks (such as shopping online or making updates for your computer) and developing fun ways for students to learn how to perform these safely and with confidence. Our course will be very flexible, the first session will cover an number of important topics including: 
+   * Creating secure passwords
+   * Setting up a secure email
+   * An introduction to anti-virus software
+For the remaining four weeks the students will be able to select from different topics so that the course suits their needs & they can discover how to do the things they want to do at home, without be held back by safety or security concerns. 
+This month we have also purchased two laptops which can be used who cannot bring their own to the classes
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/clponline/posts/720440964758882:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/clponline/posts/720440964758882:0"><p>Our fab laptops which will help our students learn how to be safer online</p>Posted by <a href="https://www.facebook.com/clponline/">Cairngorms Learning Partnership</a> on&nbsp;<a href="https://www.facebook.com/clponline/posts/720440964758882:0">Monday, 25 January 2016</a></blockquote></div></div>
+
+
+* January 2016
+
+Our courses were announced in our January newsletter and within a week and a half they were both fully booked! We are holding two sessions, one in Kingussie and one in Grantown. 
 
 ### Evaluation
 
