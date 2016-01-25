@@ -31,7 +31,7 @@ We plan to support two action learning sets:
 
 <strong> 2. For Chairs and Conveners of Trustee boards</strong>
 
-If you are interested in taking part there will be no charge and your expenses will be met by the project. In return we require you to commit your time to attend seven sets between February and August, four full days with a residential option, and three half days. The first half day session will shortly be announced with other sessions to be organised once the participants have been selected.   
+If you are interested in taking part there will be no charge and your expenses will be met by the project. In return we require you to commit your time to attend seven sets between February and August, four full days with a residential option, and three half days. The first half day session will be held on Thursday 25th February with other sessions to be organised once the participants have been selected.   
 
 We will ask you to audit the level of digital skills in your organisation at the start and end of the programme, and to share anonymised information about the impact of the learning set. 
 
