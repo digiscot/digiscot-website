@@ -152,6 +152,10 @@ Sure Start were tweeting about the training:
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Thank you Craig for training our staff in how to support clients online <a href="https://twitter.com/MVACommunity">@MVACommunity</a> <a href="https://t.co/vuoqFzobu8">pic.twitter.com/vuoqFzobu8</a></p>&mdash; Midlothian SureStart (@MidSureStart) <a href="https://twitter.com/MidSureStart/status/669119474608553985">November 24, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* January 20th - Social Media training day for 14 staff from various third sector organisations across Midlothian
+ 
+<img src="https://lh3.googleusercontent.com/-xcV15rOP1ug/VqYHS7EPm7I/AAAAAAAAIjg/6ixcgtQxFqc/s912-Ic42/WP_20160120_14_02_20_Pro.jpg" alt="Social Media training day for 14 staff from various third sector organisations across Midlothian" Width="500">
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
