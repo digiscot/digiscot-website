@@ -14,7 +14,7 @@ We host regular, free events for people interested in digital participation in S
 ## Upcoming events
 
 ### Digital Participation Charter platform launch 
-Edinburgh, 4 February 2016
+Edinburgh, 4 February 2016 - Reserve your space via the <a href="http://www.scvo.org.uk/events/digiscot-fest-spring-2016/">booking page</a> 
 
 
 ## Past events
