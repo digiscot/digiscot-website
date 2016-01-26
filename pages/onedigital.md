@@ -1,6 +1,6 @@
 ---
 layout: page
-title: One digital 
+title: One digital
 excerpt: Building digital skills in the charity and voluntary sector.
 permalink: /onedigital/
 ---
@@ -42,7 +42,7 @@ Our One Digital team has taken shape and is growing still as the project gains g
 
 ## Stream three- Senior Leadership Action Learning
 
-We are now looking for enthusiastic senior leaders and trustees to help their organisations go digital. You don’t need to be digitally savvy– it’s your passion and knowledge that we’re looking to engage! [Find out more](http://digital.scvo.org.uk/onedigital/actionlearning/) and submit your applications to us by midday on <strong>Friday 29th January</strong>. 
+We are now looking for enthusiastic senior leaders and trustees to help their organisations go digital. You don’t need to be digitally savvy– it’s your passion and knowledge that we’re looking to engage! [Find out more](/onedigital/actionlearning/) and submit your applications to us by midday on <strong>Friday 29th January</strong>. 
 
 ## Anchor Organisations
 
