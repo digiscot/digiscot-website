@@ -46,7 +46,7 @@ We are now looking for enthusiastic senior leaders and trustees to help their or
 
 ## Anchor Organisations
 
-For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <a class="btn btn-primary btn-lg" href="/files/anchorfaqs.pdf">Anchor FAQs</a> 
+For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <a class="btn btn-primary btn-lg" href="/onedigital/anchor/">Anchor page</a> 
 
 ## Participants
 
