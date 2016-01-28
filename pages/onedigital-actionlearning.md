@@ -96,7 +96,7 @@ A key principle of action learning is that the members will seek solutions to ch
 
 ## How to apply? 
 
-To help us select a representative sample of leaders please complete an [application form](/files/als.docx) and send to the [One Digital team](mailto:onedigital@scvo.org.uk) by midday on <strong>Friday 29th January</strong>. 
+To help us select a representative sample of leaders please complete an [application form](/files/als.docx) and send to the [One Digital team](mailto:onedigital@scvo.org.uk) by midnight on <strong>Monday 1st February</strong>. 
 
 We expect to make a decision on your application by <strong>Friday 5th February</strong> but if you would like to discuss this opportunity or your application further please contact Beth Murphy:
 
