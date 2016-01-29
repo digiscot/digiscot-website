@@ -21,7 +21,7 @@ In Scotland we want to use the project to understand the most effective way to i
 <strong>Stream One:</strong>
 With the help of an ‘anchor’ organisation we will identify 10 organisations in each local authority area to participate in face-to-face and online training. This will aim to improve the Basic Digital Skills of the staff and volunteers in the organisation. These participants will form a network of ‘Digital Champions’ and receive support from our Development officers to identify areas for improvement and delivering changes in their organisation.  
 
-For example, someone who volunteers with a befriending project might decide to set up a Facebook group to offer peer support to the other volunteer befrienders.  
+For example, a project manager from a community allotment project decides to set up a Facebook group to collect photos of volunteers' horticultural achievements.  
  
 
 <strong>Stream Two:</strong>
