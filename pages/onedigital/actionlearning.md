@@ -2,7 +2,7 @@
 layout: page
 title: One digital- Senior Leadership Action Learning 
 excerpt: National Movement to close the digital skills gap
-permalink: /onedigital-actionlearning/
+permalink: /onedigital/actionlearning/
 ---
 
 As part of the new One Digital programme we are seeking applications from senior leaders who want to <strong>transform their organisation’s approach to digital.</strong>  
