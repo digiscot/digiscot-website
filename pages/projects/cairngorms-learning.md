@@ -46,8 +46,13 @@ The devices used will be laptops in Strathspey and either laptops or PCs in Bade
 
 ### Project Updates
 
-* December 2015
+* November 2015
+The local paper, the Badenoch & Strathspey Herold features an articule about our upcoming courses 
 
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/clponline/photos/a.720440954758883.1073741833.435969833205998/723497171119928/?type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/clponline/photos/a.720440954758883.1073741833.435969833205998/723497171119928/?type=3">Posted by <a href="https://www.facebook.com/clponline/">Cairngorms Learning Partnership</a> on&nbsp;<a href="https://www.facebook.com/clponline/photos/a.720440954758883.1073741833.435969833205998/723497171119928/?type=3">Monday, 1 February 2016</a></blockquote></div></div>
+
+
+* December 2015
 We have been working hard with our tutor Evan to create course materials, finding common tasks (such as shopping online or making updates for your computer) and developing fun ways for students to learn how to perform these safely and with confidence. Our course will be very flexible, the first session will cover an number of important topics including: 
    * Creating secure passwords
    * Setting up a secure email
