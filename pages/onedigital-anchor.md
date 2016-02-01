@@ -115,7 +115,10 @@ If the group is part of the third sector, could benefit from the training and su
 
 ## Are there any communication templates to help us generate interest? 
 
-These are currently in development and will be shared with our anchor organisations as soon as possible. We can support you in the meantime to utilise your own communication tools and to provide interim templates where appropriate.   
+Yes, we now have a fantastic collection of communications tools at your disposal. This includes a rough guide on issuing key messages for use in e.g. social media and newsletters. The pack also includes One Digital posters/leaflets, an information sheet for participants, an email header and twitter cards. 
+
+#### To download your own One Digital comms tools please click on this button: 
+<a class="btn btn-primary btn-lg" href="/files/anchorcommspack.zip">Anchor Comms Pack</a>  
 
 If you have any questions please tweet us at: 
  
