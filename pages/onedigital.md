@@ -42,7 +42,7 @@ Our One Digital team has taken shape and is growing still as the project gains g
 
 ## Stream three- Senior Leadership Action Learning
 
-We are now looking for enthusiastic senior leaders and trustees to help their organisations go digital. You don’t need to be digitally savvy– it’s your passion and knowledge that we’re looking to engage! [Find out more](/onedigital/actionlearning/) and submit your applications to us by midnight on <strong>Monday 1st February</strong>. 
+The deadline for applications has now closed. If you'd still like to find out more about ALS please check our <a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
 
 ## Anchor Organisations
 
