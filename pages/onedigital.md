@@ -18,19 +18,19 @@ Each of the partners will run a project which will equip trusted intermediaries 
 
 In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three approaches:
 
-<strong>Stream One:</strong>
+<strong>Making Digital Work (Stream One):</strong>
 With the help of an ‘anchor’ organisation we will identify 10 organisations in each local authority area to participate in face-to-face and online training. This will aim to improve the Basic Digital Skills of the staff and volunteers in the organisation. These participants will form a network of ‘Digital Champions’ and receive support from our Development officers to identify areas for improvement and delivering changes in their organisation.  
 
 For example, a project manager from a community allotment project decides to set up a Facebook group to collect photos of volunteers' horticultural achievements.  
  
 
-<strong>Stream Two:</strong>
+<strong>Making Digital Everyday (Stream Two):</strong>
 With the help of an ‘anchor’ organisation we will identify staff/volunteers with good digital skills from 10 different organisations in each local authority area. These participants will be supported through face-to-face and online training, to then pass their skills on to the people they are already working with. These participants will also join the ‘Digital Champion’ network and receive support to help their organisation pass on basic digital skills to their end users. 
 
 For example, an employment support worker might decide to routinely support clients to set up a LinkedIn profile.     
  
 
-<strong>Stream Three:</strong> 
+<strong>Senior Leadership Action Learning (Stream Three):</strong> 
 This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund two action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
 
 
@@ -40,7 +40,7 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 Our One Digital team has taken shape and is growing still as the project gains ground. Development Officers: Maddie and Eilidh are busy signing up Third Sector Interfaces (TSIs) across Scotland and we are happy to announce that we have recently appointed our trainers and facilitators. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a> <a href="http://www.scvo.org.uk/blog/help-your-organisation-go-digital/" class="btn btn-primary btn-lg">Jo's new blog</a>
 
-## Stream three- Senior Leadership Action Learning
+## Senior Leadership Action Learning (Stream Three)
 
 The deadline for applications has now closed. If you'd still like to find out more about ALS please check our <a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
 
