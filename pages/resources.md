@@ -92,8 +92,6 @@ Creative digital resources and programs for both children and adults.
 
 Using the internet for seniors - beginners guide
 
-#### [Cloud Services and the Government Security Classifications Policy](whitepaper on the GSCP) 
-
 #### [Digital Fife](http://www.digitalfife.com/)
 
 Easy to follow online courses and resources. 
