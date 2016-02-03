@@ -53,7 +53,7 @@ permalink: /gathering/
         //'legend': {position: 'top', maxLines: 3},
         'legend':'none', 
         //'isStacked':'percent',
-        'colors':['#E71D36','#27C478'],
+        'colors':['#9B7EDE','#B72D87'],
         'height': '350',
         'bar': {groupWidth: '100%'},
         'pieSliceTextStyle': {color: '#0042A3', fontSize: '20', bold: 'True'}, 
