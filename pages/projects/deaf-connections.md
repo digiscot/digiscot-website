@@ -56,6 +56,15 @@ Fingers crossed our next three months run smoother than the past three.
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/Deafconnections/posts/1062281897120295:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Deafconnections/posts/1062281897120295:0"><p>Our lovely new Wireless Access Point behind reception providing wireless internet to the cafe area.</p>Posted by <a href="https://www.facebook.com/Deafconnections">Deaf Connections</a> on <a href="https://www.facebook.com/Deafconnections/posts/1062281897120295:0">Thursday, May 7, 2015</a></blockquote></div></div>
 
 
+### February 2016
+
+Since our last update we have had considerable interest from the Deaf community. Our project worker Derek has been working with a number of individual Deaf people, some of whom simply want help with how to operate their nwe phone, other want a try of a tablet to see if it would suit their needs and one woman has come in asking for a course on how to use Excel!
+
+Derek has also been working with our Glasgow Group, a group of women who visit Glasgow landmarks, such as the peoples palace and then make a short film and blog about what they discovered. Derek has been assisting them with the multimedia element of that, the video camera, how to use the video clips they have made and then showing them how to upload to the their blog.
+
+Our new WAP is proving very popular, most of the regular visitors to the building make good use of it and our new multipoint server in the learning room, after some hideous teething troubles, is being well used.
+
+So far so good.
 
 ## Evaluation
 
