@@ -51,7 +51,7 @@ permalink: /gathering/
     var options = {
         //'title':'Download/save a photo you found online', 
         //'legend': {position: 'top', maxLines: 3},
-        'legend': fontSize: '20', 
+        // 'legend': fontSize: '20', 
         //'isStacked':'percent',
         'colors':['#9B7EDE','#B72D87'],
         'height': '350',
