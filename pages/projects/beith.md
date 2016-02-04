@@ -23,6 +23,8 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 This is our project description:
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited for the <a href="https://twitter.com/digiscot">@digiscot</a> <a href="https://twitter.com/hashtag/digiscotfest?src=hash">#digiscotfest</a> to kick off later this morning</p>&mdash; Alastair Watson (@Digit_aly) <a href="https://twitter.com/Digit_aly/status/695178239644430337">February 4, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 IT for U will operate from our High St shopfront, it will be run by existing Astro Work staff and is aimed at customers who want to use IT to improve their employment prospects and local people who want to gain practical skills and knowledge of the IT skills that which are necessary to be IT competent in the digital age. The project will use desktop machines, laptops, tablets and phones to demonstrate how the effective use of digital media can improve quality of life and increase employability prospects.
 
 For customers or residents who are already in employment, but whose role doesn’t involve IT skills we will concentrate on upskilling on basic internet use, safety and privacy and utilizing access to the internet to add quality to their lives, eg how to search for and access wi-fi areas when out and about, facebook pages to keep up with friends and family, taking, storing and sharing pictures and videos, online shopping, skype accounts, genealogy accounts etc. The content of the course will be participant led.
