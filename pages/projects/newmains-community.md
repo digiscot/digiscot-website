@@ -5,7 +5,7 @@ call: 3
 title: Connecting Newmains
 excerpt: 
 lead: Newmains Community Trust
-website: http://newmainscommunitytrust.co.uk/
+website: http://nctcentre.co.uk/
 email: sandy@newmainscommunitytrust.co.uk
 twitter-url: 
 facebook-url: 
@@ -45,9 +45,16 @@ The greatest benefit that this project will bring is in making available locally
 
 ### Planned project milestones
 
-* Provision of all IT equipment and ppreparation for running of programmes (VAT not included as this will be recovered by the Trust): December 2015
+* Provision of all IT equipment and preparation for running of programmes: December 2015
+
+"Classroom in a Box" has been set up with secure storage/charing cabinet and 12 laptop computers available for participant learning, online nettwork printer and associate equipment available. Laptops are running with Windows 7 and Microdoft Office 2010.  Equipment set up and ready for commencement of first programme of sessions in January 2016 
 
 * Promotion oan recruitment for first Digital Inclusion programme: December 2015
+
+Partnership delivery for sessions agreed with the following partners for the fist programme of sessions:
+North Lanarkshire Council Community Learning and Development working with Seniors With Energetic Life Styles (SWELS) elders group
+Routes to Work working with those seeking employment and
+New College Lanarkshire for adults looking to improve their digital participation skills for seeking benefits
 
 * Completion of delivery of first series of programmes 1 x Elders PC, 1 x Elders Tablet, 1 x Adults seeking employent and 1 x adullts general/benefits in partnership with North Lanarkshire Council community Learning and Development and New College Lanarkhire: March 2016
 
