@@ -369,4 +369,71 @@ Below are our current anchor organisations by local authority area. If you're ke
         <a href="mailto:reception@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
+
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Midlothian</strong><br />
+        Midlothian Voluntary Action<br />
+        0131 663 9471<br />
+        <a href="mailto:info@mvacvs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>West Dunbartonshire</strong><br />
+        West Dunbartonshire CVS<br />
+        0141 941 0886<br />
+        <a href="mailto:"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/WDCVS"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>West Lothian</strong><br />
+        Voluntary Sector Gateway West Lothian<br />
+        01506 650111<br />
+        <a href="mailto:vsg@vsgwl.org "><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
  
