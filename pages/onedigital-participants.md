@@ -228,7 +228,7 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Chris Yiu" class="img-circle avatar" />
+        <img src="/images/iconnectnortheast.png" alt="i connect" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Aberdeen city</strong><br />
