@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Hello</title>
+
+    <link rel="stylesheet" href="/css/twitterwalljs.css" />
+
+    <script type="text/javascript" src="/js/jquery-1.8.2.js"></script>
+    <script type="text/javascript" src="/js/moment.min.js"></script>
+    <script type="text/javascript" src="/js/moment.lang.all.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/twitterwalljs.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="http://documentcloud.github.com/underscore/underscore-min.js"></script>
+
+    
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("#onedigital").twitterWall("digiscot", { refresh: true, refreshTimeout: 200 });
+        });
+
+    </script>
+
+    <style>
+
+    </style>
+
+</head>
+<body>
+
+    <div id="twitterWall" class="tweetContainer">
+        <div class="loader">
+            <div></div>
+            <span>Loading Tweets</span>
+        </div>
+    </div>
+
+</body>
+</html>
