@@ -134,13 +134,14 @@
         <div class="button"></div>
     </div>
 
-    <script class="source" type="text/javascript">
-        $('.example1 .tweet').twittie({
-            dateFormat: '%b. %d, %Y',
-            template: '{{tweet}} <div class="date">{{date}}</div>',
-            count: 1,
-            loadingText: 'Loading!'
-        });
-    </script>
+<script>
+
+    $('.tweet').twittie({
+    'count': 1,
+    'hideReplies': true
+}, function() {
+    alert('loaded!');
+});
+</script>
 </body>
 </html>
