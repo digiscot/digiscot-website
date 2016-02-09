@@ -1,0 +1,26 @@
+{
+    "name": "tweetie",
+    "version": "2.4.3",
+    "title": "Tweetie - Simple Twitter Feed Plugin",
+    "description": "Simple yet powerful plugin to show your Tweets on your site.",
+    "keywords": [
+        "twitter",
+        "tweet"
+    ],
+    "author": {
+        "name": "Sonny T.",
+        "url": "https://sonnyt.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://ionden.com/a/licence-en.html"
+        }
+    ],
+    "homepage": "http://sonnyt.com/tweetie-plugin/",
+    "docs": "https://github.com/sonnyt/Tweetie#tweetie",
+    "demo": "http://sonnyt.com/Tweetie",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
