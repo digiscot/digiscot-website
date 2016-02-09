@@ -8,7 +8,7 @@
             firstLoadResults: 100,
             language: 'en',
             detectLanguage: true,
-            apiUrl: 'http://search.twitter.com/search.json?callback=?&result_type=recent&q=' + search
+            apiUrl: 'https://api.twitter.com/1.1/search/tweets.json?q=%40digiscot&src=typd'
         };
         var config = $.extend(defaults, options),
             container = $(this);
