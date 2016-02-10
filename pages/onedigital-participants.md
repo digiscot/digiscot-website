@@ -1,6 +1,6 @@
 ---
 layout: page
-title: One Digital- Information for Participants 
+title: One Digital- Information for Participants
 excerpt: What you need to know!
 permalink: /onedigital/participants/
 --- 
@@ -11,7 +11,7 @@ permalink: /onedigital/participants/
 
 We’re delighted that you’re thinking of joining the One Digital Programme. There's lots of digital participation work taking place across Scotland and your organisation may already have benefited from this... <strong>so how is One Digital different?</strong>
 
-One Digital is aiming to develop the [Basic Digital Skills](https://goon-uk-prod.s3-eu-west-1.amazonaws.com/uploads/Basic-Digital-Skills-Framework-FINAL.pdf) of third sector organisations by training <strong>Digital Champions</strong>. There are two types of support available, which we'll entail below, and you can choose which is most relevant to you.
+One Digital is aiming to develop the [Basic Digital Skills](https://goon-uk-prod.s3-eu-west-1.amazonaws.com/uploads/Basic-Digital-Skills-Framework-FINAL.pdf) of third sector organisations by training <strong>Digital Champions</strong>. There are two types of support available and you can choose which is most relevant to you.
 
 One Digital aims to create a model of continuous Basic Digital Skills sharing that will reach far and wide across the sector, which will be driven from within and will help to improve your services in the long-term. 
 
@@ -126,8 +126,7 @@ We'll be rolling out our face-to-face and online training courses between Februa
 
 ## Who do we contact if we are interested in participating? 
 
-Below are our current anchor organisations by local authority area. If you're keen to get involved please find the appropriate organisation in your area and contact them. This list is being added to on a daily basis so do please keep checking.
-
+Below are our current anchor organisations by local authority. If you're keen to get involved please find the appropriate organisation in your area and contact them. This list is added to on a daily basis so do please keep checking.
 
 <html>
 
@@ -228,7 +227,7 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/iconnectnortheast.png" alt="i connect" class="img-circle avatar" />
+        <img src="/images/iconnectnortheast.png" alt="iconnect" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Aberdeen city</strong><br />
@@ -249,7 +248,7 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/AVA.jpg" alt="Iconnect" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Aberdeenshire</strong><br />
@@ -270,14 +269,14 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/angus.png" alt="Argyll VA" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>Argyll & Bute</strong><br />
-        Argyll Voluntary Action<br />
-        01631 564839<br />
-        <a href="mailto:rebecca.stafford@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/digibecca"><i class="fa fa-fw fa-twitter"></i></a> 
+        <p class="text-center"><strong>Angus</strong><br />
+        Voluntary Action Angus<br />
+        01307 466113<br />
+        <a href="mailto:info@voluntaryactionangus.org.uk"><i class="fa fa-fw fa-envelope"></i></a> 
+        <a href="https://twitter.com/volactionangus"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -295,7 +294,7 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/D&G.jpg" alt="Sally Dyson" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Dumfries and Galloway</strong><br />
@@ -315,13 +314,13 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/vaeastrenfrew.png" alt="Sally Dyson" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>Dundee</strong><br />
-        Voluntary Gateway Dundee<br />
-        01382 305705<br />
-        <a href="mailto:dundeetsi@number10.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <p class="text-center"><strong>East Renfrewshire</strong><br />
+        UnderCOVER<br />
+        0141 876 9555<br />
+        <a href="mailto:reception@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
       
@@ -335,14 +334,14 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/highlandtsi.png" alt="Sally Dyson" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>East Lothian</strong><br />
-        STRiVE<br />
-        0131 665 3300<br />
-        <a href="mailto:info@strive.me.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/STRiVEWellbeing"><i class="fa fa-fw fa-twitter"></i></a> 
+        <p class="text-center"><strong>Highland</strong><br />
+        Highland Third Sector Partnership<br />
+        01349 864289<br />
+        <a href="mailto:info@highlandtsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -360,13 +359,100 @@ Below are our current anchor organisations by local authority area. If you're ke
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/avatar.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/mva.png" alt="Sally Dyson" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>East Renfrewshire</strong><br />
-        UnderCOVER<br />
-        0141 876 9555<br />
-        <a href="mailto:reception@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
+        <p class="text-center"><strong>Midlothian</strong><br />
+        Midlothian Voluntary Action<br />
+        0131 663 9471<br />
+        <a href="mailto:info@midlothiantsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
- 
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vaorkney.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Orkney</strong><br />
+        Voluntary Action Orkney<br />
+        01856 872897<br />
+        <a href="mailto:enquiries@vaorkney.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vashetland.jpg" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Shetland</strong><br />
+        Voluntary Action Shetland<br />
+        01595 743900<br />
+        <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
+        </p>
+      </div>
+      
+      
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/WDCVS.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>West Dunbartonshire</strong><br />
+        West Dunbartonshire CVS<br />
+        0141 941 0886<br />
+        <a href="mailto:selina@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/wdcvs"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/VSGWL.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>West Lothian</strong><br />
+        Voluntary Sector Gateway West Lothian<br />
+        01506 650111<br />
+        <a href="mailto:vsg@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div> 
