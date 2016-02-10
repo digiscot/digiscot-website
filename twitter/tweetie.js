@@ -12,7 +12,7 @@
 
         // Default settings
         var settings = $.extend({
-            'username': null,
+            'username': 'digiscot',
             'list': null,
             'hashtag': null,
             'count': 10,
