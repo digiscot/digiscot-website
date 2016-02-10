@@ -253,7 +253,10 @@ Below are our current anchor organisations by local authority. If you're keen to
         </p>
         <p class="text-center"><strong>Aberdeenshire</strong><br />
         Aberdeenshire Voluntary Action<br />
-        01467 629072<br />
+        Inverurie: 01467 629072<br />
+        Banchory: 01330 825027<br />
+        Stonehaven: 01569 668055<br />
+        Mintlaw: 01771 624787<br />
         <a href="mailto:mail@avashire.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/AVAshire"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -274,7 +277,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         </p>
         <p class="text-center"><strong>Angus</strong><br />
         Voluntary Action Angus<br />
-        01307 466113<br />
+        Arbroath: 01241 875525<br />
+        Forfar: 01307 466113<br />
         <a href="mailto:info@voluntaryactionangus.org.uk"><i class="fa fa-fw fa-envelope"></i></a> 
         <a href="https://twitter.com/volactionangus"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
