@@ -8,7 +8,7 @@ lead: Crookston Community Group
 website: http://www.myccg.co.uk/
 email:  info@myccg.co.uk
 twitter-url: 
-facebook-url: 
+facebook-url: https://www.facebook.com/CrookstonCommunityGroup
 start: 17th November 2015
 end: 15th November 2015 
 award: 7744
@@ -33,8 +33,8 @@ Through the project our aim is not only to provide and develop Digital skills an
 
 ### Planned project milestones
 
-* Complete the first 6 months worth of IT training: April 2016
-* Complete the second 6 months worth of IT training: October 2016
+* Programme is planned and advertised. January 2016
+* Class starts in Febuary 2016
 
 ### Planned outputs and outcomes
 
