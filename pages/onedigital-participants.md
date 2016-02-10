@@ -298,13 +298,14 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/D&G.jpg" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/a&b.png" alt="Argyll & Bute" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>Dumfries and Galloway</strong><br />
-        Third Sector Dumgal<br />
-        0300 303 8558<br />
-        <a href="mailto:info@thirdsectordumgal.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <p class="text-center"><strong>Argyll & Bute</strong><br />
+        Argyll & Bute TSI<br />
+        01631 564839<br />
+        <a href="mailto:glenn@argyllvoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -313,6 +314,52 @@ Below are our current anchor organisations by local authority. If you're keen to
     
     
       
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/D&G.jpg" alt="Dumfries and Galloway" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Dumfries and Galloway</strong><br />
+        Third Sector Dumgal<br />
+        0300 303 8558<br />
+        <a href="mailto:info@thirdsectordumgal.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        </p>
+      </div>
+
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/STRiVE.png" alt="East Lothian" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>East Lothian</strong><br />
+        STRiVE<br />
+        0131 665 3300<br />
+        <a href="mailto:info@strive.me.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/STRiVEWellbeing"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -327,12 +374,59 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:reception@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
+
       
       
       
     
     
       
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/evoc.png" alt="EVOC" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Edinburgh</strong><br />
+        Edinburgh Voluntary Organisations’ Council<br />
+        0131 555 9100<br />
+        <a href="mailto:info@evoc.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/evoc_edinburgh"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/falkirk.png" alt="Falkirk" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Falkirk</strong><br />
+        Falkirk CVS<br />
+        01324 692000<br />
+        <a href="mailto:info@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
+        <a href="https://twitter.com/CVSFalkirk"><i class="fa fa-fw fa-twitter"></i></a>
+        </p>
+      </div>
+      
+      
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -348,16 +442,13 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      
-      
-        </div>
+
+
       
       
     
     
       
-      
-        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -394,6 +485,29 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
+
+      
+      
+    
+    
+      
+      
+        <div class="row">
+      
+      
+       <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vashetland.jpg" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Shetland</strong><br />
+        Voluntary Action Shetland<br />
+        01595 743900<br />
+        <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
+        </p>
+      </div>
+
       
       
       
@@ -405,13 +519,34 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vashetland.jpg" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/sve.png" alt="Stirlingshire Voluntary Enterprise Ltd" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>Shetland</strong><br />
-        Voluntary Action Shetland<br />
-        01595 743900<br />
-        <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <p class="text-center"><strong>Stirlingshire</strong><br />
+        Stirlingshire Voluntary Enterprise Ltd<br />
+        01786 430000<br />
+        <a href="mailto:support@sventerprise.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/WDCVS.png" alt="Sally Dyson" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>West Dunbartonshire</strong><br />
+        West Dunbartonshire CVS<br />
+        0141 941 0886<br />
+        <a href="mailto:selina@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/wdcvs"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -429,16 +564,17 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/WDCVS.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/VSGWL.png" alt="West Lothian" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>West Dunbartonshire</strong><br />
-        West Dunbartonshire CVS<br />
-        0141 941 0886<br />
-        <a href="mailto:selina@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/wdcvs"><i class="fa fa-fw fa-twitter"></i></a> 
+        <p class="text-center"><strong>West Lothian</strong><br />
+        Voluntary Sector Gateway West Lothian<br />
+        01506 650111<br />
+        <a href="mailto:vsg@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
+
 
       
       
@@ -450,13 +586,13 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/VSGWL.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/engage.png" alt="West Renfrewshire" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>West Lothian</strong><br />
-        Voluntary Sector Gateway West Lothian<br />
-        01506 650111<br />
-        <a href="mailto:vsg@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
+        <p class="text-center"><strong>West Refrewshire</strong><br />
+        Engage Renfrewshire<br />
+        0141 887 7707<br />
+        <a href="mailto:info@engagerenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div> 
