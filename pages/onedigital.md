@@ -49,7 +49,7 @@ For those who have committed to becoming an anchor organisation or are in the pr
 
 ## Participants
 
-Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our <a class="btn btn-primary btn-lg" href="/files/infoforparticipants.pdf">Participant FAQs</a>
+Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our <a class="btn btn-primary btn-lg" href="/onedigital/participants">Participant page</a>
 
 If you have any questions please tweet us at: 
  
