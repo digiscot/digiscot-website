@@ -27,7 +27,9 @@ The classes will be held in Wallyford Library when it is closed so Jane can give
 
 It is envisaged that classes will take place weekly and a session will last for 3 hours. Each student will receive 6 sessions in total or less dependent on need.
 
+
 <blockquoteclass="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">Congratulations to WallyfordLibrary, <a href="https://twitter.com/eastlothianlibs">@eastlothianlibs</a>, success in funding their Digital Inclusion Project <a href="https://t.co/Ei8NKP1QjW">https://t.co/Ei8NKP1QjW</a></p>&mdash; SLIC (@SLIC1991) <a href="https://twitter.com/SLIC1991/status/667634682759106560">November 20, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Planned project milestones
 
