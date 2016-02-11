@@ -30,6 +30,7 @@ It is envisaged that classes will take place weekly and a session will last for 
 ### Planned project milestones
 
 * Advertise for students - in libraries via posters and social media. Also contact residents known to the equalities officer and via the Messenger newspaper: December 2015
+* <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504"><p>Do you or someone you know have a visual impairment and would like to learn how to use a computer tablet? We will be...</p>Posted by <a href="https://www.facebook.com/East-Lothian-Library-Services-203903979634504/">East Lothian Library Services</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504">Friday, January 15, 2016</a></blockquote></div></div>
 * Classes will begin with the first 2 students: January 2016
 * Classes completed for group 3: May 2016
 * Classes are completed for group 7: October 2016
