@@ -27,11 +27,10 @@ The classes will be held in Wallyford Library when it is closed so Jane can give
 
 It is envisaged that classes will take place weekly and a session will last for 3 hours. Each student will receive 6 sessions in total or less dependent on need.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Congratulations to Wallyford Library, <a href="https://twitter.com/eastlothianlibs">@eastlothianlibs</a>, success in funding their Digital Inclusion Project <a href="https://t.co/Ei8NKP1QjW">https://t.co/Ei8NKP1QjW</a></p>&mdash; SLIC (@SLIC1991) <a href="https://twitter.com/SLIC1991/status/667634682759106560">November 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquoteclass="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">Congratulations to WallyfordLibrary, <a href="https://twitter.com/eastlothianlibs">@eastlothianlibs</a>, success in funding their Digital Inclusion Project <a href="https://t.co/Ei8NKP1QjW">https://t.co/Ei8NKP1QjW</a></p>&mdash; SLIC (@SLIC1991) <a href="https://twitter.com/SLIC1991/status/667634682759106560">November 20, 2015</a></blockquote> <script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-### Planned project milestones
+### Our planned project milestones
 
 * Advertise for students - in libraries via posters and social media. Also contact residents known to the equalities officer and via the Messenger newspaper: December 2015
 * <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504"><p>Do you or someone you know have a visual impairment and would like to learn how to use a computer tablet? We will be...</p>Posted by <a href="https://www.facebook.com/East-Lothian-Library-Services-203903979634504/">East Lothian Library Services</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504">Friday, January 15, 2016</a></blockquote></div></div>
