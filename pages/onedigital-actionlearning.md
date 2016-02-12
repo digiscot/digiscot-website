@@ -94,7 +94,7 @@ A key principle of action learning is that the members will seek solutions to ch
 
 </div>
 
-## Application Process 
+## Applications 
 
 After a fantastic response, we have now selected a representative sample of leaders! 
 
