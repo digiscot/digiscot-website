@@ -13,7 +13,12 @@ This activity is part of a wider two million pound [One Digital](https://www.big
 
 Each of the partners will run a project which will equip trusted intermediaries to act as ‘Digital Champions’, able to support a wide range of people to develop their Basic Digital Skills.  The Digital Champions will, for example, demonstrate the use of Skype to an older person to help them stay in touch with grandchildren and family or provide a young person with the skills to search for work and complete an online CV.
 
-![One Digital Timeline](/images/timeline1.jpg)
+### SCVO and One Digital
+
+<iframe src="https://player.vimeo.com/video/153124565" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/153124565">SCVO and the One Digital Programme</a> from <a href="https://vimeo.com/onedigitalprogramme">One Digital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## How One Digital is different
 
 In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three approaches:
 
@@ -32,14 +37,13 @@ For example, an employment support worker might decide to routinely support clie
 <strong>Senior Leadership Action Learning (Stream Three):</strong> 
 This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund two action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
 
+![One Digital Timeline](/images/timeline1.jpg)
 
+### New Developments- February 2016
 
+Our One Digital team has taken shape and is growing still as the project gains ground. Development Officers: Maddie and Eilidh are busy signing up Third Sector Interfaces (TSIs) across Scotland and we are happy to announce that we have recently appointed our trainers and facilitators. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a>
 
-## New Developments- January 2016
-
-Our One Digital team has taken shape and is growing still as the project gains ground. Development Officers: Maddie and Eilidh are busy signing up Third Sector Interfaces (TSIs) across Scotland and we are happy to announce that we have recently appointed our trainers and facilitators. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a> <a href="http://www.scvo.org.uk/blog/help-your-organisation-go-digital/" class="btn btn-primary btn-lg">Jo's blog</a>
-
-## Senior Leadership Action Learning (Stream Three)
+## Senior Leadership Action Learning
 
 The deadline for applications has now closed. If you'd still like to find out more about ALS please check our <a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
 
