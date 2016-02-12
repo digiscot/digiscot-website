@@ -96,9 +96,9 @@ A key principle of action learning is that the members will seek solutions to ch
 
 ## Application Process 
 
-After a fantastic response, the selection of a representative sample of leaders is now under way! 
+After a fantastic response, we have now selected a representative sample of leaders! 
 
-Owing to the huge response, we expect to have made a decision on ALS participants by <strong>wc 8th February</strong> but if you would like to discuss your application further please contact Beth Murphy:
+Leadership action learning will kick start on <strong>wc 25th February</strong> but if you would like to discuss this further please contact Beth Murphy:
 
 <html>
 
