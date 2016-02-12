@@ -13,7 +13,7 @@ This activity is part of a wider two million pound [One Digital](https://www.big
 
 Each of the partners will run a project which will equip trusted intermediaries to act as ‘Digital Champions’, able to support a wide range of people to develop their Basic Digital Skills.  The Digital Champions will, for example, demonstrate the use of Skype to an older person to help them stay in touch with grandchildren and family or provide a young person with the skills to search for work and complete an online CV.
 
-![One Digital Timeline](/images/timeline1.jpg)
+<iframe width="560" height="315" src="https://vimeo.com/153124565" frameborder="0" allowfullscreen></iframe>
 
 In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three approaches:
 
@@ -32,8 +32,7 @@ For example, an employment support worker might decide to routinely support clie
 <strong>Senior Leadership Action Learning (Stream Three):</strong> 
 This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund two action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
 
-
-
+![One Digital Timeline](/images/timeline1.jpg)
 
 ## New Developments- January 2016
 
