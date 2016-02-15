@@ -432,7 +432,29 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/highlandtsi.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/tsh.png" alt="Hebrides" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>The Hebrides</strong><br />
+        Third Sector Hebrides<br />
+        01851 702632<br />
+        <a href="mailto:enquiries@tshebrides.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+
+
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/highlandtsi.png" alt="Highland" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Highland</strong><br />
@@ -454,7 +476,7 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/mva.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/mva.png" alt="Midlothian" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Midlothian</strong><br />
@@ -464,18 +486,45 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
+       
       
+        </div>
       
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vaorkney.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/moray.jpeg" alt="Moray" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Moray</strong><br />
+        tsiMORAY<br />
+        01343 541713<br />
+        <a href="mailto:info@tsimoray.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/tsiMORAY"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+
+      
+      
+    
+    
+      
+      
+
+      
+
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vaorkney.png" alt="Orkney" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Orkney</strong><br />
@@ -492,13 +541,13 @@ Below are our current anchor organisations by local authority. If you're keen to
     
       
       
-        <div class="row">
+
       
       
        <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vashetland.jpg" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/vashetland.jpg" alt="Shetland" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Shetland</strong><br />
@@ -507,13 +556,16 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
-
+       
       
+        </div>
       
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -539,7 +591,7 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/WDCVS.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/WDCVS.png" alt="WDCVS" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>West Dunbartonshire</strong><br />
@@ -551,14 +603,14 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
       
       
-        </div>
+
       
       
     
     
       
       
-        <div class="row">
+
       
       
       <div class="col-sm-4 col-front">
@@ -574,13 +626,16 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-
-
+       
+      
+        </div>
       
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">

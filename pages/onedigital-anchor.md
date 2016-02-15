@@ -123,6 +123,6 @@ Yes, we now have a fantastic collection of communications tools at your disposal
 If you have any questions please tweet us at: 
  
 [@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
-[@starkmadeline](https://twitter.com/StarkMadelaine) [Development Officer South]   
+[@starkmadelaine](https://twitter.com/StarkMadelaine) [Development Officer South]   
 [@littleeilidh](https://twitter.com/LittleEilidh) [Development Officer North]  
 [@jomalo6](https://twitter.com/jomalo6) [Project Administrator]

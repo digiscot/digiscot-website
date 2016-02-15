@@ -37,23 +37,31 @@ For example, an employment support worker might decide to routinely support clie
 <strong>Senior Leadership Action Learning (Stream Three):</strong> 
 This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund two action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
 
-![One Digital Timeline](/images/timeline1.jpg)
+![One Digital Timeline](/images/timeline.png)
 
-### New Developments- February 2016
+## New Developments- February 2016
 
-Our One Digital team has taken shape and is growing still as the project gains ground. Development Officers: Maddie and Eilidh are busy signing up Third Sector Interfaces (TSIs) across Scotland and we are happy to announce that we have recently appointed our trainers and facilitators. You can follow the progress of Team One Digital with: <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a>
+Our One Digital team has taken shape and is growing still as the project gains ground. Development Officers: Maddie and Eilidh are busy signing up Third Sector Interfaces (TSIs) across Scotland and we are happy to announce that we have recently appointed our trainers and facilitators. 
+
+<bold>You can follow the progress of Team One Digital by reading:</bold> <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a>
 
 ## Senior Leadership Action Learning
 
-The deadline for applications has now closed. If you'd still like to find out more about ALS please check our <a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
+The deadline for applications has now closed. If you'd still like to find out more about ALS please check our: 
+
+<a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
 
 ## Anchor Organisations
 
-For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <a class="btn btn-primary btn-lg" href="/onedigital/anchor/">Anchor page</a> 
+For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our: 
+
+<a class="btn btn-primary btn-lg" href="/onedigital/anchor/">Anchor page</a> 
 
 ## Participants
 
-Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our <a class="btn btn-primary btn-lg" href="/onedigital/participants">Participant page</a>
+Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our:
+
+<a class="btn btn-primary btn-lg" href="/onedigital/participants">Participant page</a>
 
 If you have any questions please tweet us at: 
  
