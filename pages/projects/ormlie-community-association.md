@@ -40,27 +40,26 @@ In Phase 1 we said we would attract 10 individuals to the project - in fact we h
 
 ### Phase 2  May 2015 - July 2015
 
-Individuals gain IT access 
+During this phase we enrolled a further 11 new individuals to the project.  
 
-Individuals improve IT skills 
+We helped an additional 8 people improve their IT skills, mainly showing them how to conduct their own job searches, send and receive emails, and use the internet.  
 
-Review of milestones
+At this stage we estimated we would have enrolled 23 individuals - we have enrolled 26.  Those enrolling either do not have the IT skills needed to use a PC or have access to the internet at home.  We have also identified the need for some provision of Adult Basic Education / ESOL and are speaking to one of our partners, Highlife Highland, to see if we can meet this need.  
 
 ### Phase 3  Aug 2015 - Oct 2015
 
-Individuals gain IT access
+A further 15 individuals enrolled to use the facilitiy.  An increasing number are now being referred to us by JobCentre Plus to make JSA or Universal Credit Applications.  A number of individuals are also needing access to basic equipment such as a telephone to make these applications, which must be made online but updates and appointments are sent by text.  
 
-Individuals improve IT skills
+In this phase we helped 6 new individuals improve their IT skills.  We also managed to get Adult Basic Education, one day per week, to attend to help on a drop-in basis.  One individual is also using this provision as an ESOL session.  This ABE classes are open to all, not just those attending our project, though we have made several referrals.  
 
-Funding Opportunities explored to continue project
+During this period we applied for, and won partial funding from the Caithness and North Sutherland Fund to continue the project beyond January.  Demand for the service has increased each quarter, particularly from those needing access to IT equipment meet the needs of their Claimant Contracts for JSA or Universal Credit.
 
 ### Phase 4  Nov 2015 - Jan 2016
 
-Individuals gain IT access
+In this phase we enrolled a further 11 individuals, bringing our total enrolments for the project to 52.  We estimated we would have enrolled 50 indviduals by the end of the project. We have a number of "regulars", but are still enrolling new individuals.
 
-Individuals improve IT skills
+Also during this phase we helped a further 8 individuals improve their IT skills for whatever purpose they wished to use a computer, mainly showing them how to use emails, job search and apply for jobs, but also book travel documents, complete online forms and use social media.
 
-End of project reporting to SCVO
 
 
 ## Evaluation
@@ -69,22 +68,23 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project enrolled 52 individuals to use computers, and helped 29 of those become more independent in their use of IT.  For some we also provided access to adult basic education and ESOL sessions on a drop-in basis.  We provided IT equipment to all attending, and someone who could help them undertake tasks on a PC.  These ranged from Job Seeking, completing online proforma and learning how to use a PC to checking emails, typing CVs and providing access to a telephone.
 
-In terms of outputs we delivered A, B and C.
+We delivered a two day a week service for individuals on a drop-in basis, surpassing the numbers we said we would deliver to in our application.  Our project has been a lifeline for many - whether claiming online benefits or using social media.
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+In terms of outcomes for the people and groups we care about, this project has reduced the stress felt by those who cannot use technology or who cannot afford to have the technology we all take for granted in their own homes.  They know we are a regular and dependable service who will help them undertake IT tasks, or show them how to use technology and how the skills they learn can make them more independent.  Those learning to use a PC can now access PCs in the local library / community centre / youth club / friends, which they couldn't before because they didn't have the necessary skills.   We know this because they tell us.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+We already had a similar project running in another town, so we knew what people were looking for.  As well as ensuring those helping people in the project had good IT and people skills, we needed knew we needed individuals who had previous experience of working with the unemployed, the benefits system, older adults, single parents etc.  The individuals appointed were key to the success of the project so that indvidiuals using the facilities felt at ease and confident in the help they were bein given.
+
+Locating the project in the local CAB office, meant that we had expertise on hand where we needed it, e.g. if someone was making and online benefits appeal, or had complex issues, e.g. unemployment, debt, housing issues.  We were able to better help when completing online proforma or looking up information for individuals.  With the addition of Adult Basic Education and ESOL drop-in sessions run by Highlife Highland, we were able to help those who's first barrier to using IT, was a lack of other skills.
+
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+We would market the project more often and more widely.  Although we met our targets, apart from an initial marketing "campaign" we relied on word of mouth thereafter to attract participants.  
+
+
