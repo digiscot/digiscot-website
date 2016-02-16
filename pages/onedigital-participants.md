@@ -429,28 +429,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         <div class="row">
       
       
-      <div class="col-sm-4 col-front">
-        <p class="text-center">
-        
-        <img src="/images/tsh.png" alt="Hebrides" class="img-circle avatar" />
-        
-        </p>
-        <p class="text-center"><strong>The Hebrides</strong><br />
-        Third Sector Hebrides<br />
-        01851 702632<br />
-        <a href="mailto:enquiries@tshebrides.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a> 
-        </p>
-      </div>
 
-
-      
-      
-    
-    
-      
-      
-      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -488,14 +467,14 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
        
       
-        </div>
+ 
       
       
     
     
       
       
-        <div class="row">
+
       
       
       <div class="col-sm-4 col-front">
@@ -511,14 +490,16 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/tsiMORAY"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-
+       
+      
+        </div>
       
       
     
     
       
       
-
+        <div class="row">
       
 
       <div class="col-sm-4 col-front">
@@ -558,14 +539,14 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
        
       
-        </div>
+
       
       
     
     
       
       
-        <div class="row">
+
       
       
       <div class="col-sm-4 col-front">
@@ -580,14 +561,18 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:support@sventerprise.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
+       
       
+        </div>
       
       
     
     
       
       
+        <div class="row">
       
+              
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -613,9 +598,33 @@ Below are our current anchor organisations by local authority. If you're keen to
 
       
       
-      <div class="col-sm-4 col-front">
+            <div class="col-sm-4 col-front">
         <p class="text-center">
         
+        <img src="/images/tsh.png" alt="Hebrides" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>The Western Isles</strong><br />
+        Third Sector Hebrides<br />
+        01851 702632<br />
+        <a href="mailto:enquiries@tshebrides.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+      
+      
+
+      
+      
+    
+    
+      
+      
+
+      
+      
         <img src="/images/VSGWL.png" alt="West Lothian" class="img-circle avatar" />
         
         </p>
