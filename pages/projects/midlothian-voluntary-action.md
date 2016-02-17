@@ -156,6 +156,12 @@ Sure Start were tweeting about the training:
  
 <img src="https://lh3.googleusercontent.com/-xcV15rOP1ug/VqYHS7EPm7I/AAAAAAAAIjg/6ixcgtQxFqc/s912-Ic42/WP_20160120_14_02_20_Pro.jpg" alt="Social Media training day for 14 staff from various third sector organisations across Midlothian" Width="500">
 
+* February 2nd - One to One Consultation with advocacy service CAPS on using digital tools to help their clients
+
+<img src="https://lh3.googleusercontent.com/-WlK1ynMNQGU/VrDaMfXzC4I/AAAAAAAAIlk/drEqlhVJRBw/s912-Ic42/IMG_20160202_161334.jpg" alt="Digital consultancy for CAPS" Width="500">
+
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
