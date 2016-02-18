@@ -75,7 +75,7 @@ Each organisation must select either <strong>Making Digital Work</strong> or <st
 <strong>2. Making Digital Everyday participants must:</strong>
 
 - have an existing level of Basic Digital Skills.
-- have a rike as staff and/or volunteers who come into regular contact with clients/end-users.  
+- have a role as staff and/or volunteers who come into regular contact with clients/end-users.  
 
 <strong>ALL participants must:</strong>
 
