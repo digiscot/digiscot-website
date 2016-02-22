@@ -253,11 +253,10 @@ Below are our current anchor organisations by local authority. If you're keen to
         </p>
         <p class="text-center"><strong>Aberdeenshire</strong><br />
         Aberdeenshire Voluntary Action<br />
-        Inverurie: 01467 629072<br />
-        Banchory: 01330 825027<br />
-        Stonehaven: 01569 668055<br />
-        Mintlaw: 01771 624787<br />
-        <a href="mailto:mail@avashire.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        Shirley Leask, Training Coordinator<br />
+        01771 624 589<br />
+        Mintlaw office: 01771 624787<br />
+        <a href="mailto:training@avashire.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/AVAshire"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
