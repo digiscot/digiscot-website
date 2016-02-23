@@ -248,7 +248,7 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/AVA.jpg" alt="Iconnect" class="img-circle avatar" />
+        <img src="/images/AVA.jpg" alt="AVA" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Aberdeenshire</strong><br />
@@ -364,7 +364,7 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vaeastrenfrew.png" alt="Sally Dyson" class="img-circle avatar" />
+        <img src="/images/vaeastrenfrew.png" alt="East Renfrew" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>East Renfrewshire</strong><br />
@@ -504,7 +504,7 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vaorkney.png" alt="Orkney" class="img-circle avatar" />
+        <img src="/images/vao.jpg" alt="Orkney" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Orkney</strong><br />
@@ -512,6 +512,28 @@ Below are our current anchor organisations by local authority. If you're keen to
         01856 872897<br />
         <a href="mailto:enquiries@vaorkney.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+
+      
+      
+    
+    
+      
+      
+
+      
+      
+       <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/PKAVS.jpg" alt="Perth & Kinross" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Perth & Kinross</strong><br />
+        Perth & Kinross Association of Voluntary Services<br />
+        01738 567076<br />
+        <a href="mailto:admin@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
 
@@ -538,16 +560,16 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
        
       
-
+        </div>
       
       
     
     
       
       
+        <div class="row">
+      
 
-      
-      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -560,18 +582,16 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:support@sventerprise.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
-       
-      
-        </div>
+
       
       
     
     
       
       
-        <div class="row">
+
       
-              
+         
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -610,30 +630,6 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      <div class="col-sm-4 col-front">
-        <p class="text-center">
-      
-      
-
-      
-      
-    
-    
-      
-      
-
-      
-      
-        <img src="/images/VSGWL.png" alt="West Lothian" class="img-circle avatar" />
-        
-        </p>
-        <p class="text-center"><strong>West Lothian</strong><br />
-        Voluntary Sector Gateway West Lothian<br />
-        01506 650111<br />
-        <a href="mailto:vsg@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
-        </p>
-      </div>
        
       
         </div>
@@ -644,6 +640,31 @@ Below are our current anchor organisations by local authority. If you're keen to
       
       
         <div class="row">
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/VSGWL.png" alt="West Lothian" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>West Lothian</strong><br />
+        Voluntary Sector Gateway West Lothian<br />
+        01506 650111<br />
+        <a href="mailto:vsg@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+     
+      
+
+      
+      
+    
+    
+      
+      
+
       
       
       <div class="col-sm-4 col-front">
