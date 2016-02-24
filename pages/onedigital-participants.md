@@ -527,13 +527,15 @@ Below are our current anchor organisations by local authority. If you're keen to
        <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/PKAVS.jpg" alt="Perth & Kinross" class="img-circle avatar" />
+        <img src="/images/scvo.png" alt="Perth & Kinross" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Perth & Kinross</strong><br />
-        Perth & Kinross Association of Voluntary Services<br />
-        01738 567076<br />
-        <a href="mailto:admin@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        Please contact Eilidh Little<br />
+        One Digital Development Officer<br />
+        Office: 0146 325 1735<br />
+        Mobile: 07771 666 429<br />
+        <a href="mailto:onedigital@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
 
