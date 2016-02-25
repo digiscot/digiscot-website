@@ -1,54 +1,63 @@
 body, * {
-    font-family: "Open Sans", sans-serif;
-    font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
 }
 
 .row {
-    width: 100%;
-    padding: 15px;
-    clear: both;
+  width: 100%;
+  padding: 15px;
+  clear: both;
 }
 
 h1 {
-    font-size: 3em;
-    vertical-align: left;
-    line-height: 100px;
+  font-size: 3em;
+  vertical-align: left;
+  line-height: 100px;
 }
 h1 img {
-    vertical-align: left;
+  vertical-align: left;
 }
 
 .red {
-    color: #F00;
+  color: #F00;
+}
+.error {
+  border-color: #dca7a7;
+  background-image: linear-gradient(to bottom,#f2dede 0,#e7c3c3 100%);
+  color: #a94442;
+  background-color: #f2dede;
+}
+label.error {
+  display: none !important;
 }
 
 hr {
-    margin-top: 50px;
-    width: 100%;
+  margin-top: 50px;
+  width: 100%;
 }
 
 .row.blue {
-background-color: #022B57;
+  background-color: #022B57;
 }
 
 .row.pink {
-    background-color: #ea1aa2;
+  background-color: #ea1aa2;
 }
 
 .label-top {
-    padding-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 .row.white {
-    padding-left: 0px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+  padding-left: 0px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
 
 .container {
-    padding-left: 0px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+  padding-left: 0px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
