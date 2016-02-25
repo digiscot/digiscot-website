@@ -82,6 +82,13 @@ Each organisation must select either <strong>Making Digital Work</strong> or <st
 - Have their organisation's permission to take part.
 - Have their organisation's support e.g. allowing time to undertake all training and support them effecting their action plan.
  
+## Can my organisation participate in both opportunities?
+
+No, unfortunately organisations cannot participate in both Making Digital Work and Making Digital Everyday.  As this is a ‘test and learn’ initiative we need to monitor the progress and effectiveness of each individual opportunity.  An organisation participating in both opportunities would result in difficulty to monitor or measure which approach is having an impact for their organisation.  
+
+If you're struggling to decide which opportunity is best for your organisation then please get in touch with us to discuss. 
+
+We hope that the ongoing work resulting from this initial ‘test and learn’ will enable more training opportunities to be offered so you can continue to progress your digital skills further.
 
 ## How many participants from each organisation can take part?
 
