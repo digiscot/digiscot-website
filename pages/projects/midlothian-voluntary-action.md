@@ -168,6 +168,8 @@ Sure Start were tweeting about the training:
 
 <img src="https://lh3.googleusercontent.com/-O7kPsKUQqX0/VrmtQqGdetI/AAAAAAAAIo4/RMrFgsUV_Vg/s800-Ic42/IMG_20160208_114210.jpg" alt="Digital consultancy with PASDA" Width="500">
 
+
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
