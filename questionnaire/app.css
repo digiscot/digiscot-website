@@ -8,7 +8,8 @@ body, * {
   padding: 0 15px;
   clear: both;
 }
-.row.pink {
+.row.pink,
+.row.blue {
   margin-bottom: 15px;
 }
 
