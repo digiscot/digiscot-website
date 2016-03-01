@@ -160,7 +160,13 @@ Sure Start were tweeting about the training:
 
 <img src="https://lh3.googleusercontent.com/-WlK1ynMNQGU/VrDaMfXzC4I/AAAAAAAAIlk/drEqlhVJRBw/s912-Ic42/IMG_20160202_161334.jpg" alt="Digital consultancy for CAPS" Width="500">
 
+* February 4th - Digital inclusion training with 10 volunteers from Health in Mind
 
+<img src="https://lh3.googleusercontent.com/-GCSXwZCLLVU/VrOrF6KbzaI/AAAAAAAAIns/iGiv05ESDmg/s800-Ic42/IMG_20160204_191149.jpg" alt="Digital inclusion with Health in Mind" Width="500">
+
+* February 8th - Digital consultancy with 1 staff and 1 board member from PASDA (Parents of Autism Spectrum Disorder Adults)
+
+<img src="https://lh3.googleusercontent.com/-O7kPsKUQqX0/VrmtQqGdetI/AAAAAAAAIo4/RMrFgsUV_Vg/s800-Ic42/IMG_20160208_114210.jpg" alt="Digital consultancy with PASDA" Width="500">
 
 ## Evaluation
 
@@ -187,3 +193,7 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
+
+
+### Numbers:
+159 people trained from 62 different organisations
