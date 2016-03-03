@@ -71,7 +71,7 @@ Offender's Club: Deliver digital creative club for offenders.
 
 We've moved into our new premises and are getting ready to start our digital creative club for offenders. Next week we're starting a free digital cafe for offenders as a first port of call on the day they're released from prison. We'll be helping them with digital life skills like getting an email and accessing services as well as providing better off advice on things like electric metered supply comparison sites. We'll also be offering free internet access for our tech savvy service users who wouldn't be able to afford to access the internet otherwise. One of our digital champions has been fervently researching good websites, links and nuggets of digital gold to come up with a resource pack for our digicafe.
 
-Establish individual learning plans and record baseline of skills.Deliver digital radioskills training to create virtual radio programme. Establish whether Ofcom will grant temporary or restricted internet radio license. Establish budget for running internet radio station beyond the timescale of the digital creative club.
+Establish individual learning plans and record baseline of skills. Deliver digital radioskills training to create virtual radio programme. Establish whether Ofcom will grant temporary or restricted internet radio license. Establish budget for running internet radio station beyond the timescale of the digital creative club.
 
 ### Update January 2016
 
@@ -85,19 +85,19 @@ We've achieved and surpassed the majority of the outcomes we set out to deliver 
 
 In terms of outputs we have:
  
-Trained 3 digital champion trainers 
-Recruited 5 digital champion volunteers 
-Facilitated 35 digital cafe sessions 
-We've become a UK Online learning centre and signed up 28 learners 
-We've helped 25 learners gain digital life skills and 3 learners achieve a City and Guilds Online Basics qualification
-We've helped 1 learner to set up their own online shop
+- Trained 3 digital champion trainers 
+- Recruited 5 digital champion volunteers 
+- Facilitated 35 digital cafe sessions 
+- We've become a UK Online learning centre and signed up 28 learners 
+- We've helped 25 learners gain digital life skills and 3 learners achieve a City and Guilds Online Basics qualification
+- We've helped 1 learner to set up their own online shop
 
 In terms of outcomes for the people and groups we care about, this project has achieved:
 
-Engagement with hard to reach individuals (we know this because we have worked with people who would not normally access digital support or have access to the internet)
-Increased confidence in online basics skills (we know this because over 80% of the people we've supported have successfully sompleted an online basics course or award and are now using the internet independently)
-Increased employability skills (we know this because 92% of employers require their employees to have online basics skills and it is a key requirment to put on a CV)
-Increased independence and resilience (we know this because 74% of the people we have supported are now able to access services online that they could not before, have their own email address and have learned how to use a tablet or ipad device for more than gaming)
+- Engagement with hard to reach individuals (we know this because we have worked with people who would not normally access digital support or have access to the internet)
+- Increased confidence in online basics skills (we know this because over 80% of the people we've supported have successfully completed an online basics course or award and are now using the internet independently)
+- Increased employability skills (we know this because 92% of employers require their employees to have online basics skills and it is a key requirment to put on a CV)
+- Increased independence and resilience (we know this because 74% of the people we have supported are now able to access services online that they could not before, have their own email address and have learned how to use a tablet or ipad device for more than gaming)
 
 ### Lessons learned
 
