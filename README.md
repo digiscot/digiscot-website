@@ -76,4 +76,4 @@ When you are finished adding images, click `Commit to master` and then `Sync` to
 
 ### Contact
 
-Enquiries to [@clry2](https://github.com/clry2).
+Enquiries to [@calummacuisdean](https://github.com/calummacuisdean).
