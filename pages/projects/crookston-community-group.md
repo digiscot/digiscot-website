@@ -10,7 +10,7 @@ email:  info@myccg.co.uk
 twitter-url: 
 facebook-url: https://www.facebook.com/CrookstonCommunityGroup
 start: 17th November 2015
-end: 15th November 2015 
+end: 15th November 2016 
 award: 7744
 postcode: G53 5TF
 image: /images/projects/crookston.jpg
@@ -33,7 +33,8 @@ Through the project our aim is not only to provide and develop Digital skills an
 
 ### Planned project milestones
 
-* Programme is planned and advertised. January 2016
+* Programme is planned and advertised. January 2016 
+* <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140196745@N07/24936319075/in/dateposted-public/" title="WWWiFi"><img src="https://farm2.staticflickr.com/1568/24936319075_dd41f69b39.jpg" width="386" height="500" alt="WWWiFi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 * Class starts in Febuary 2016
 
 ### Planned outputs and outcomes
