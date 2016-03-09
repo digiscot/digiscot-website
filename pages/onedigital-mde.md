@@ -7,8 +7,14 @@ permalink: /onedigital/participants/mde
 
 ![One Digital logostrip](/images/One-Digital-Logostrip.png)
 
-#### To download your Making Digital Everyday resource pack please click on this button: 
-<a class="btn btn-primary btn-lg" href="/files/MDE.zip">Resource Pack</a>
+#### To download your Making Digital Everyday resource pack contents please click on each of the below buttons: 
+<a class="btn btn-primary btn-lg" href="/files/Making Digital Everyday Resource Pack.pdf">Making Digital Everyday Resources</a>
+
+<a class="btn btn-primary btn-lg" href="/files/Making Digital Everyday Scenarios.pdf">Making Digital Everyday scenarios</a>
+
+<a class="btn btn-primary btn-lg" href="/files/Making Digital Everyday Slides.pdf">Face-to-face training slides</a>
+
+<a class="btn btn-primary btn-lg" href="/files/Registering- MDE.pdf">E-module registration guidance</a>
 
 If you have any questions please tweet us at: 
  
