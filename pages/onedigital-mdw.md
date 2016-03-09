@@ -7,8 +7,14 @@ permalink: /onedigital/participants/mdw
 
 ![One Digital logostrip](/images/One-Digital-Logostrip.png)
 
-#### To download your Making Digital Work resource pack please click on this button: 
-<a class="btn btn-primary btn-lg" href="/files/MDW.zip">Resource Pack</a>
+#### To download your Making Digital Work resource pack contents please click on each of the below buttons: 
+<a class="btn btn-primary btn-lg" href="/files/Making Digital Work Resource Pack.pdf">Making Digital Work Resources</a>
+
+<a class="btn btn-primary btn-lg" href="/files/Making Digital Work Scenarios.pdf">Making Digital Work scenarios</a>
+
+<a class="btn btn-primary btn-lg" href="/files/Making Digital Work Slides.pdf">Face-to-face training slides</a>
+
+<a class="btn btn-primary btn-lg" href="/files/Registering- MDW.pdf">E-module registration guidance</a>
 
 If you have any questions please tweet us at: 
  
