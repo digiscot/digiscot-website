@@ -168,34 +168,37 @@ Sure Start were tweeting about the training:
 
 <img src="https://lh3.googleusercontent.com/-O7kPsKUQqX0/VrmtQqGdetI/AAAAAAAAIo4/RMrFgsUV_Vg/s800-Ic42/IMG_20160208_114210.jpg" alt="Digital consultancy with PASDA" Width="500">
 
-
-
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+### Outputs and outcomes 
 
-### Outputs and outcomes
+####Overall this project:
+Achieved its aims. We trained 159 people from 62 organisations after planning to train 43 organisations. 
 
-Overall this project X, Y, Z.
+####In terms of outputs we delivered:
 
-In terms of outputs we delivered A, B and C.
+A non-time intensive training session and learner’s guide to Basic Digital Skills that allowed front line staff and volunteers to upskill their clients and service users.
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+Upskilling of staff’s own Basic Digital Skills.
 
-### Lessons learned
+####In terms of outcomes for the people and groups we care about, this project has:
 
-Things that worked well:
+Given frontline staff and volunteers the skills and resources they need to give their clients basic digital skills.
+We know this from feedback from the organisations:
 
-1. Text
-2. Text
-3. Text
+"There were items that I did not know about using the email etc that I now use in my life. I currently do not have a match so cannot comment on clients."
 
-Things that we would do differently next time:
+"Got me thinking about the possibilities of the Internet."
 
-1. Text
-2. Text
-3. Text
+"We are a kind of third party in this case, we do not have clients of our own, but are trainers and assessors of social care qualifications. It was certainly useful to us personally and our intention is to advise staff we train and assess."
 
+"It was a really useful training session. The volunteers fed back that they were much more confident about introducing their clients to technology and the internet. It was delivered at exactly the right pace and all the questions were answered well and with assurance."
 
-### Numbers:
-159 people trained from 62 different organisations
+### Lessons learned 
+####Things that worked well: 
+
+Short (40 minute) training sessions delivered after staff or volunteer meetings
+Getting staff to change their own online usage. Explaining the cloud was a major hook for staff and volunteers, feedback was many of them started using it themselves.
+
+####Things that we would do differently next time: 
+Improve the promotion – the concept of upskilling was difficult to explain
