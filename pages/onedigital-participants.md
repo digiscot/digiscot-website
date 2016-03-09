@@ -309,7 +309,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         </p>
         <p class="text-center"><strong>Argyll & Bute</strong><br />
         Argyll & Bute TSI<br />
-        01631 564839<br />
+        Dunoon Office- 01369 700100<br />
         <a href="mailto:glenn@argyllvoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
