@@ -47,14 +47,17 @@ The greatest benefit that this project will bring is in making available locally
 
 * Provision of all IT equipment and preparation for running of programmes: December 2015
 
-"Classroom in a Box" has been set up with secure storage/charing cabinet and 12 laptop computers available for participant learning, online nettwork printer and associate equipment available. Laptops are running with Windows 7 and Microdoft Office 2010.  Equipment set up and ready for commencement of first programme of sessions in January 2016 
+"Classroom in a Box" has been set up with secure storage/charing cabinet and 12 laptop computers available for participant learning, online nettwork printer and associate equipment available. Laptops are running with Windows 7 and Microdoft Office 2010.  Equipment set up and ready for commencement of first programme of sessions in January 2016.  After some initial teething problems, including fingers, everything seems to be working fine.
 
-* Promotion oan recruitment for first Digital Inclusion programme: December 2015
+* Promotion and recruitment for first Digital Inclusion programme: December 2015
 
 Partnership delivery for sessions agreed with the following partners for the fist programme of sessions:
-North Lanarkshire Council Community Learning and Development working with Seniors With Energetic Life Styles (SWELS) elders group
-Routes to Work working with those seeking employment and
-New College Lanarkshire for adults looking to improve their digital participation skills for seeking benefits
+
+North Lanarkshire Council Community Learning and Development working with Seniors With Energetic Life Styles (SWELS) elders group - this group has been rubning successfully with numbers now standing at 9 participants, the Tutor has brought in some interesting local information for producing documets and working with photographs that has gone down well with the group. 
+
+Routes to Work working with those seeking employment, unfortunately this has been a bit of a slow starter with only 4 participants.  A new promotion of the programme within the local area, Routes to Work and Job Centre has some potential to increase the number of particpants.
+
+New College Lanarkshire for adults looking to improve their digital participation skills for seeking benefits.  This has been a delayed start due to availability of Tutor and programmed to commence on Thursday 10th March with 9 participants all from the local area.  
 
 * Completion of delivery of first series of programmes 1 x Elders PC, 1 x Elders Tablet, 1 x Adults seeking employent and 1 x adullts general/benefits in partnership with North Lanarkshire Council community Learning and Development and New College Lanarkhire: March 2016
 
