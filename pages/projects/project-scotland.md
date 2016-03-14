@@ -59,19 +59,19 @@ We have had to change software providers due to initial communication problems, 
 
 <blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">Great Linkedin workshop today with <a href="https://twitter.com/jackiecameron1">@jackiecameron1</a>! Thanks to <a href="https://twitter.com/PwC_Scotland">@PwC_Scotland</a> &amp; <a href="https://twitter.com/scvotweet">@scvotweet</a>&#39;s Digital Challenge Fund <a href="http://t.co/6y6KT0wS8k">pic.twitter.com/6y6KT0wS8k</a></p>&mdash; ProjectScotland (@ProjectScotland) <a href="https://twitter.com/ProjectScotland/status/590903766620200961">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Delivery: Webinar/workshop 3, tbc 2015
+### Delivery: Webinar Development, throughout 2015
 
-1st Webinar to be delivered in Edinburgh at ProjectScotland office.  Having adapted the existing LinkedIn workshops, the webinar will run for c. 40 minutes and be delivered to a maximum of 10 young people (remote) to enable us to test the delivery and engagement of participants, to trouble-shoot problems.
+1st Webinar to be delivered in Edinburgh at ProjectScotland office.  Having adapted the existing LinkedIn workshops, the webinar will run for c. 40 minutes and be delivered to a maximum of 10 young people (remote) to enable us to test the delivery and engagement of participants, to trouble-shoot problems. Development of the software and practical considerations took place throughout the latter half of 2015 with the first webinar aiming for delivery beginning of 2016
 
-Post webinar, we will reveiew with the trainer and note any changes to make for subsequent webinars.  We will collect feedback from volunteers.  Pending any significant changes being required to delivery this webinar will then be made available to current and past ProjectScotland volutneers.
+Post webinar, we will reveiew with the trainer and note any changes to make for subsequent webinars.  We will collect feedback from volunteers.  Pending any significant changes being required to delivery this webinar will then be made available to current and past ProjectScotland volunteers.
 
-### Delivery: Workshop 4, 8th October 2015 - Dundee
+### Delivery: Workshop 3, 8th October 2015 - Dundee
 
 This workshop took place in the Prince's Trust offices in Dundee on 8th October. We secured 16 sign ups (target attendance of 15) however on the day attendance was low, at 3. This was really disappointing given the efforts put into organising. Within Dundee the young people we work with are further from work, and have multiple barriers and chaotic circumstances surrounding their current situation. This can affect attendance to both their voluntary placements and the development opportunities. 
 
 Saying that, all attendees found that the workshop was relevant to their individual goals and that the content was well delivered. They also all agreed that they now better understood the qualities that employers were looking for and have greater understanding about how Linkedin can help them do that. We are learning that Linkedin has not been a tool that young people either engage with, or understand, in terms of how it can affect future employment. The volunteers attending this workshop certainly echoed that and left feeling that they now knew how best to engage with Linkedin, and use the tool for their own journey.
 
-### Delivery: Workshop 5, 21st October 2015
+### Delivery: Workshop 4, 21st October 2015
 
 LinkedIn workshop in Glasgow hosted by PWC
 
@@ -81,9 +81,25 @@ LinkedIn workshop in Glasgow hosted by PWC
 
 After this workshop we have noticed a need to tweak the content so that it is continually refreshed and encompasses our learnings of Linkedin workshops thus far.
 
-### Delivery: Workshop 6, Early 2016
+### Delivery: Workshop 5, 1st pilot webinar, 21 January 2016
 
-LinkedIn workshop in Edinburgh hosted by PWC. We will be meeting the trainer in mid November 2015 to go through content for this workshop as we feel it requires a refresh given what we have learnt so far.
+Key Learnings with regards to delivery:
+1. Quite technical to deliver a webinar therefore we have encouraged our trainer to research and watch more webinars to develop the techniques in time for the next webinar
+2. The platform doesn't allow participants to engage with each other and thus see any questions that participants may have asked. It would be useful if all participants could engage in the 'chat' tool during the webinar and allow all to see feedback
+3. Turnout was far better than workshops in person. 11 confirmed, 10 attended. This shows that for the young people we work with webinars are definitely the preferred option
+
+
+### Delivery: Workshop 6, 23rd February 2016
+
+Social Media and Job Hunting  - Creating your own success; hosted by our charity partners Young Enterprise Scotland, Glasgow
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/ProjectScotland/photos/a.380196498707518.85044.374455492614952/1016126925114469/?type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ProjectScotland/posts/1016126925114469:0"><p>Job hunting? Stand out from the crowd with top tips on CVs and interviews, at our upcoming workshop in Edinburgh. Can&#039;...</p>Posted by <a href="https://www.facebook.com/ProjectScotland/">ProjectScotland</a> on&nbsp;<a href="https://www.facebook.com/ProjectScotland/posts/1016126925114469:0">Thursday, 11 February 2016</a></blockquote></div></div> 
+
+9 young people signed up to this workshop but only 5 attended. This cements our learnings that whilst young people are keen to develop their online skills, sometimes the barriers to attendance prevent this. All attendees stated that they learnt something news with comments such as 'I learnt how to present myself better on Linkedin for job opportunities' and 'The importance of Linkedin in finding new jobs.' And our trainer, Jackie Cameron, was even described as fabulous!
+
+100% agreed that the content was relevant to their goal of finding employment
+80% of attendees stated that they had improved their skills in applying for jobs/development opportunities
+And all attendees agreed that the content was well delivered and useful.
 
 ### Webinar & Website development: Ongoing
 
