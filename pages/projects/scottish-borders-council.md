@@ -39,7 +39,7 @@ Here are some of the group participants trying out our tablets for the first tim
 
 
 The next Tea and Tablet group will start in February 2016.
-
+Another group have nearly finished the Tea and Tablet course.  They have really enjoyed learning how to get online using a tablet.  We are now talking with one of the local libraries to discuss how we can support learners to access the next level of IT suppport once they have completed the Tea and Tablet programme.
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
