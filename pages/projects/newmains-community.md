@@ -57,7 +57,7 @@ North Lanarkshire Council Community Learning and Development working with Senior
 
 Routes to Work working with those seeking employment, unfortunately this has been a bit of a slow starter with only 4 participants.  A new promotion of the programme within the local area, Routes to Work and Job Centre has some potential to increase the number of particpants.
 
-New College Lanarkshire for adults looking to improve their digital participation skills for seeking benefits.  This has been a delayed start due to availability of Tutor and programmed to commence on Thursday 10th March with 9 participants all from the local area.  
+New College Lanarkshire for adults looking to improve their digital participation skills for seeking benefits.  After a delay this has now started with 9 participnts from a very mixed background. This course is running for tw hours per session each week through until mid April.
 
 * Completion of delivery of first series of programmes 1 x Elders PC, 1 x Elders Tablet, 1 x Adults seeking employent and 1 x adullts general/benefits in partnership with North Lanarkshire Council community Learning and Development and New College Lanarkhire: March 2016
 
@@ -81,5 +81,7 @@ New College Lanarkshire for adults looking to improve their digital participatio
 
 ### Lessons learned
 
+Originally we had planned to use new laptop computers from a local well known national outlet.  A decision was mad to use reconditioned laptops from Happus (http://www.happus.eu/) which has allowed us to increase the number of laptops available for participants.  They also cam with appropriate Microsoft software allowing a savings on software.
 
+From a previous position I knew of a supplier of software for charity organisations at a much reduced cost.  I have been able to use this for this project and would recommend if you are a registered charity to look at tt-exchange (https://www.tt-exchange.org/) for your software requirements.
 
