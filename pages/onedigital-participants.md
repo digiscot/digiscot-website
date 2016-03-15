@@ -102,12 +102,6 @@ The One Digital training opportunity is <strong>FREE</strong>!
 
 We'll provide a training venue, refreshments and ongoing resources for free. All we ask in return is your commitment to fully participate- attending training, joining the One Digital network, sharing details of the changes you are effecting with our team over the course of 2016.
 
-## Where and when will training take place?
-
-The training will take place in a venue within your Local Authority area; a central location with good transport links. We'll confirm the exact location of the training venue to all participants as soon as possible.
-
-We'll be rolling out our face-to-face and online training courses between February and May 2016 with ongoing support to follow. The exact dates for training will be announced shortly.
-
 ## What are the benefits to taking part?
 
 <div class="panel panel-default">
@@ -130,6 +124,79 @@ We'll be rolling out our face-to-face and online training courses between Februa
   </div>
 
 </div>
+
+## Where and when will training take place?
+
+Future One Digital training dates have been scheduled for the following areas. If you are interested in taking part please look up your local authority anchor organisation at the bottom of this page.
+
+<strong>Aberdeen:<strong/>
+
+- Making Digital Work (Tuesday 26th April)
+- Making Digital Everyday (Wednesday 27th April)  
+
+<strong>Borders:<strong/>
+
+- Making Digital Everyday (Wednesday 23rd March)
+
+<strong>Clackmannanshire:<strong/>
+
+- Making Digital Work (Wednesday 20th April)
+- Making Digital Everyday (Thursday 21st April)
+
+<strong>Edinburgh:<strong/>
+
+- Making Digital Everyday (Thursday 17th March) 
+- Making Digital Work (Friday 18th March) 
+
+<strong>Falkirk:<strong/>
+
+- Making Digital Work (Thursday 5th May)
+- Making Digital Everyday (Friday 6th May)
+
+<strong>Fife:<strong/>
+
+- Making Digital Work (Tuesday 22nd March)  
+
+<strong>Glasgow:<strong/>
+
+- Making Digital Everyday (Tuesday 26th April) 
+- Making Digital Work (Friday 6th May) 
+
+<strong>Moray:<strong/>
+
+- Making Digital Work (Friday 22nd April)  
+- Making Digital Everyday (Monday 25th April)
+
+<strong>North Ayrshire:<strong/>
+
+- Making Digital Work (Monday 18th April)
+- Making Digital Everyday (Tuesday 19th April)
+
+<strong>Orkney:<strong/>
+
+- Making Digital Work (Tuesday 3rd May)
+- Making Digital Everyday (Wednesday 4th May)
+
+<strong>Renfrewshire:<strong/>
+
+- Making Digital Everyday (Tuesday 22nd March)
+- Making Digital Work (Tuesday 12th April)
+
+<strong>Shetland:<strong/>
+
+- Making Digital Everyday (Friday 6th May)
+- Making Digital Work (Saturday 7th May)
+
+<strong>South Ayrshire:<strong/>
+
+- Making Digital Work (Tuesday 15th March) 
+- Making Digital Everyday (Wednesday 16th March)
+
+<strong>South Lanarkshire:<strong/>
+
+- Making Digital Everyday (Tuesday 12th April)  
+
+
 
 ## Who do we contact if we are interested in participating? 
 
@@ -240,6 +307,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Aberdeen city</strong><br />
         i-connect North East<br />
         01224 583939<br />
+        Making Digital Work (Tuesday 26th April)<br />
+        Making Digital Everyday (Wednesday 27th April)<br />
         <a href="mailto:info@i-connectnortheast.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/icneAberdeen"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -689,3 +758,4 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div> 
+

@@ -13,6 +13,8 @@ This activity is part of a wider two million pound [One Digital](https://www.big
 
 Each of the partners will run a project which will equip trusted intermediaries to act as ‘Digital Champions’, able to support a wide range of people to develop their Basic Digital Skills.  The Digital Champions will, for example, demonstrate the use of Skype to an older person to help them stay in touch with grandchildren and family or provide a young person with the skills to search for work and complete an online CV.
 
+<strong>If you or your organisation are interested in participating in the training and receiving the ongoing support that One Digital offers, please take a look at our [participants page](/onedigital/participants) for dates and contact details.</strong> 
+
 ### SCVO and One Digital
 
 <iframe src="https://player.vimeo.com/video/153124565" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
