@@ -9,8 +9,8 @@ $(function() {
   
   console.log(window.location);
 
-  if (window.location == '') {
-
+  if (window.location.href == 'http://digital.scvo.org.uk/charter/') {
+    window.location.href = 'http://charter.scvo.org.uk/';
   }
     
 });
