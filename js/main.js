@@ -6,5 +6,11 @@ $(function() {
       scrollTop: $( $.attr(this, 'href') ).offset().top
       }, 500);  
     });
+  
+  console.log(window.location);
+
+  if (window.location == '') {
+
+  }
     
 });
