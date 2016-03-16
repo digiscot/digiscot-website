@@ -394,6 +394,52 @@ Below are our current anchor organisations by local authority. If you're keen to
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
+        <img src="/images/vcborders.jpg" alt="VC Borders" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Borders</strong><br />
+        VC Borders<br />
+        0845 602 3921 <br />
+        <a href="mailto:b.hitchcock@vcborders.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VCBORDERS"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/CTSI.png" alt="CTSi" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Clackmannanshire</strong><br />
+        Clackmannanshire TSI<br />
+        01259 213840<br />
+        <a href="mailto:julie.McGrath@ctsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+         
+        </p>
+      </div>
+      
+      
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
         <img src="/images/D&G.jpg" alt="Dumfries and Galloway" class="img-circle avatar" />
         
         </p>
@@ -403,7 +449,27 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:info@thirdsectordumgal.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
-
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/cvoea.png" alt="East Ayrshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>East Ayrshire</strong><br />
+        CVO East Ayrshire<br />
+        01563 574000 <br />
+        <a href="mailto:gillian.anderson@cvoea.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/CVOEA"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
       
       
       
@@ -494,17 +560,54 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
       
       
-        </div>
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vaf.png" alt="VAF" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Fife</strong><br />
+        Fife Voluntary Action<br />
+        01592 645300<br />
+        <a href="mailto:Helen@fifevoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/FifeVolAction"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
       
       
     
     
       
       
-        <div class="row">
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/volgla.png" alt="volgla" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Glasgow</strong><br />
+        Volunteer Glasgow<br />
+        0141 226 3431<br />
+        <a href="mailto:billy.mcfarlane@volunteerglasgow.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/volunteerglasgo"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
       
       
-
+      
+    
+    
+      
+      
+      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -518,8 +621,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-
-
+      
       
       
     
@@ -542,14 +644,10 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
        
       
- 
-      
       
     
     
       
-      
-
       
       
       <div class="col-sm-4 col-front">
@@ -567,16 +665,33 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
        
       
-        </div>
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/act.png" alt="North Ayrshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>North Ayrshire</strong><br />
+        Ayrshire Community Trust<br />
+        01294 443044<br />
+        <a href="mailto:Kayleigh@TheAyrshireCommunityTrust.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/TAyrshireCT"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
       
       
     
     
       
       
-        <div class="row">
       
-
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -590,14 +705,12 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-
+      
       
       
     
     
       
-      
-
       
       
        <div class="col-sm-4 col-front">
@@ -614,17 +727,40 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:onedigital@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
-
+      
       
       
     
     
       
       
-
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/rc.jpg" alt="Renfrewshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Renfrewshire</strong><br />
+        Renfrewshire Council<br />
+        0300 300 0300<br />
+        <a href="mailto:diane.webb@renfrewshire.gov.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/dianeeva"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
       
       
-       <div class="col-sm-4 col-front">
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
+      
+      
+     <div class="col-sm-4 col-front">
         <p class="text-center">
         
         <img src="/images/vashetland.jpg" alt="Shetland" class="img-circle avatar" />
@@ -636,7 +772,48 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
-       
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vasa.jpg" alt="South Ayrshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>South Ayrshire</strong><br />
+        Voluntary Action South Ayrshire<br />
+        01292 432661 <br />
+        <a href="mailto:marie@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/vaslan.png" alt="South Lanarkshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>South Lanarkshire</strong><br />
+        Voluntary Action South Lanarkshire<br />
+        01698 300390 <br />
+        <a href="mailto:angus.lindsay@vaslan.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VA_SLAN"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
       
         </div>
       
@@ -647,7 +824,7 @@ Below are our current anchor organisations by local authority. If you're keen to
       
         <div class="row">
       
-
+      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -660,16 +837,14 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="mailto:support@sventerprise.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
-
+      
       
       
     
     
       
       
-
       
-         
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -685,17 +860,13 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
       
       
-
-      
       
     
     
       
       
-
       
-      
-            <div class="col-sm-4 col-front">
+     <div class="col-sm-4 col-front">
         <p class="text-center">
         
         <img src="/images/tsh.png" alt="Hebrides" class="img-circle avatar" />
@@ -717,7 +888,7 @@ Below are our current anchor organisations by local authority. If you're keen to
     
       
       
-        <div class="row">
+      <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -733,16 +904,12 @@ Below are our current anchor organisations by local authority. If you're keen to
         <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-     
       
-
       
       
     
     
       
-      
-
       
       
       <div class="col-sm-4 col-front">
@@ -751,7 +918,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         <img src="/images/engage.png" alt="West Renfrewshire" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>West Refrewshire</strong><br />
+        <p class="text-center"><strong>West Renfrewshire</strong><br />
         Engage Renfrewshire<br />
         0141 887 7707<br />
         <a href="mailto:info@engagerenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
