@@ -127,80 +127,7 @@ We'll provide a training venue, refreshments and ongoing resources for free. All
 
 ## Where and when will training take place?
 
-Future One Digital training dates have been scheduled for the following areas. If you are interested in taking part please look up your local authority anchor organisation at the bottom of this page.
-
-<strong>Aberdeen:<strong/>
-
-- Making Digital Work (Tuesday 26th April)
-- Making Digital Everyday (Wednesday 27th April)  
-
-<strong>Borders:<strong/>
-
-- Making Digital Everyday (Wednesday 23rd March)
-
-<strong>Clackmannanshire:<strong/>
-
-- Making Digital Work (Wednesday 20th April)
-- Making Digital Everyday (Thursday 21st April)
-
-<strong>Edinburgh:<strong/>
-
-- Making Digital Everyday (Thursday 17th March) 
-- Making Digital Work (Friday 18th March) 
-
-<strong>Falkirk:<strong/>
-
-- Making Digital Work (Thursday 5th May)
-- Making Digital Everyday (Friday 6th May)
-
-<strong>Fife:<strong/>
-
-- Making Digital Work (Tuesday 22nd March)  
-
-<strong>Glasgow:<strong/>
-
-- Making Digital Everyday (Tuesday 26th April) 
-- Making Digital Work (Friday 6th May) 
-
-<strong>Moray:<strong/>
-
-- Making Digital Work (Friday 22nd April)  
-- Making Digital Everyday (Monday 25th April)
-
-<strong>North Ayrshire:<strong/>
-
-- Making Digital Work (Monday 18th April)
-- Making Digital Everyday (Tuesday 19th April)
-
-<strong>Orkney:<strong/>
-
-- Making Digital Work (Tuesday 3rd May)
-- Making Digital Everyday (Wednesday 4th May)
-
-<strong>Renfrewshire:<strong/>
-
-- Making Digital Everyday (Tuesday 22nd March)
-- Making Digital Work (Tuesday 12th April)
-
-<strong>Shetland:<strong/>
-
-- Making Digital Everyday (Friday 6th May)
-- Making Digital Work (Saturday 7th May)
-
-<strong>South Ayrshire:<strong/>
-
-- Making Digital Work (Tuesday 15th March) 
-- Making Digital Everyday (Wednesday 16th March)
-
-<strong>South Lanarkshire:<strong/>
-
-- Making Digital Everyday (Tuesday 12th April)  
-
-
-
-## Who do we contact if we are interested in participating? 
-
-Below are our current anchor organisations by local authority. If you're keen to get involved please find the appropriate organisation in your area and contact them. This list is added to on a daily basis so do please keep checking.
+If you or your organisation are interested in participating in our training, please take a look at your local anchor below and contact them asap for further details. Training sessions are arranged on a daily basis so please be aware that this list will be regularly updated. 
 
 <html>
 
@@ -307,8 +234,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Aberdeen city</strong><br />
         i-connect North East<br />
         01224 583939<br />
-        Making Digital Work (Tuesday 26th April)<br />
-        Making Digital Everyday (Wednesday 27th April)<br />
+        <strong>Making Digital Work (Tues 26th April)</strong><br />
+        <strong>Making Digital Everyday (Wed 27th April)</strong><br />
         <a href="mailto:info@i-connectnortheast.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/icneAberdeen"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -400,6 +327,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Borders</strong><br />
         VC Borders<br />
         0845 602 3921 <br />
+        <strong>Making Digital Everyday (Wed 23rd March)</strong><br />
         <a href="mailto:b.hitchcock@vcborders.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VCBORDERS"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -421,6 +349,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Clackmannanshire</strong><br />
         Clackmannanshire TSI<br />
         01259 213840<br />
+        <strong>Making Digital Work (Wed 20th April)<br />
+        Making Digital Everyday (Thurs 21st April)</strong><br />
         <a href="mailto:julie.McGrath@ctsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
          
         </p>
@@ -533,6 +463,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Edinburgh</strong><br />
         Edinburgh Voluntary Organisations’ Council<br />
         0131 555 9100<br />
+        <strong>Making Digital Everyday (Thurs 17th March)<br />
+        Making Digital Work (Fri 18th March)</strong><br />
         <a href="mailto:info@evoc.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/evoc_edinburgh"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -554,16 +486,22 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Falkirk</strong><br />
         Falkirk CVS<br />
         01324 692000<br />
+        <strong>Making Digital Work (Thurs 5th May)<br />
+        Making Digital Everyday (Fri 6th May)</strong><br />
         <a href="mailto:info@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
         <a href="https://twitter.com/CVSFalkirk"><i class="fa fa-fw fa-twitter"></i></a>
         </p>
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -575,6 +513,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Fife</strong><br />
         Fife Voluntary Action<br />
         01592 645300<br />
+        <strong>Making Digital Work (Tues 22nd March)</strong><br />
         <a href="mailto:Helen@fifevoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/FifeVolAction"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -596,6 +535,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Glasgow</strong><br />
         Volunteer Glasgow<br />
         0141 226 3431<br />
+        <strong>Making Digital Everyday (Tues 26th April)<br />
+        Making Digital Work (Fri 6th May)</strong><br />
         <a href="mailto:billy.mcfarlane@volunteerglasgow.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/volunteerglasgo"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -623,10 +564,14 @@ Below are our current anchor organisations by local authority. If you're keen to
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -659,6 +604,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Moray</strong><br />
         tsiMORAY<br />
         01343 541713<br />
+        <strong>Making Digital Work (Friday 22nd April)<br />
+        Making Digital Everyday (Monday 25th April)</strong><br />
         <a href="mailto:info@tsimoray.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/tsiMORAY"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -680,16 +627,22 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>North Ayrshire</strong><br />
         Ayrshire Community Trust<br />
         01294 443044<br />
+        <strong>Making Digital Work (Mon 18th April)<br />
+        Making Digital Everyday (Tues 19th April)</strong><br />
         <a href="mailto:Kayleigh@TheAyrshireCommunityTrust.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/TAyrshireCT"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -701,6 +654,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Orkney</strong><br />
         Voluntary Action Orkney<br />
         01856 872897<br />
+        <strong>Making Digital Work (Tues 3rd May)<br />
+        Making Digital Everyday (Wed 4th May)</strong><br />
         <a href="mailto:enquiries@vaorkney.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -744,6 +699,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Renfrewshire</strong><br />
         Renfrewshire Council<br />
         0300 300 0300<br />
+        <strong>Making Digital Everyday (Tues 22nd March)<br />
+        Making Digital Work (Tuesday 12th April)</strong><br />
         <a href="mailto:diane.webb@renfrewshire.gov.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/dianeeva"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -769,6 +726,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>Shetland</strong><br />
         Voluntary Action Shetland<br />
         01595 743900<br />
+        <strong>Making Digital Everyday (Fri 6th May)<br />
+        Making Digital Work (Sat 7th May)</strong><br />
         <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
@@ -789,6 +748,8 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>South Ayrshire</strong><br />
         Voluntary Action South Ayrshire<br />
         01292 432661 <br />
+        <strong>Making Digital Work (Tues 15th March)<br />
+        Making Digital Everyday (Wed 16th March)</strong><br />
         <a href="mailto:marie@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
         </p>
       </div>
@@ -809,6 +770,7 @@ Below are our current anchor organisations by local authority. If you're keen to
         <p class="text-center"><strong>South Lanarkshire</strong><br />
         Voluntary Action South Lanarkshire<br />
         01698 300390 <br />
+        <strong>Making Digital Everyday (Tues 12th April)</strong><br />
         <a href="mailto:angus.lindsay@vaslan.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VA_SLAN"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
