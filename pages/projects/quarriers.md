@@ -2,8 +2,8 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Stories from the Digital Divide
-excerpt: 
+title: Quarriers Go4IT Project
+excerpt: Stories from the Digital Divide
 lead: Quarriers
 website: https://quarriers.org.uk/
 email: norrie.murray@quarriers.org.uk
@@ -14,7 +14,7 @@ end: 15th October 2016
 award: 8536
 postcode: PA11 3SX
 image: /images/projects/quarriers.jpg
-tags: disabled-people
+tags: disabled-people older-people benefits
 permalink: /projects/quarriers/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
