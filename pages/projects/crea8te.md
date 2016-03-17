@@ -41,12 +41,10 @@ Individual assessments will take place at the start of each course to enable an 
 * As this is a partnership project, we started the project by developing a project plan to make sure that both partners understood their role and their contribution to reaching the project milestones. 
 * We recruited for our first group of learners in December by holding assessments to make sure the class was the right thing for them. They started their training in January. The women have varying levels of English which has meant that we have had to develop our existing learning materials so that they were suitable for ESOL learners.  We have also developed additional learning material to meet their needs.
 * The project has been a steep learning curve for everyone concerned but extremely rewarding. There will be lots to report in 'Lessons leared' by the time the project has finished. The learners are very motivated, coming in early to get extra practice and not stopping for a break.  We recruited 6 learners initially with a further 4 in the process of recruitment at the moment. 3 learners have now passed their Microsoft Basic Digital Literacy certificates and are now ready to continue at a different class to improve their Microsoft Word skills.  The other learners need slightly more time due to the language barrier but we expect them to be up to speed soon. 
-* 
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="eCZgPYB"><a href="//imgur.com/eCZgPYB">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
 
-
-* http://imgur.com/eCZgPYB
-*Our first recruits
+Our first recruits ^
 
 * Recruit and train 2 volunteers to support the delivery of further training: January 2016
 * We recruited 1 volunteer from Saheliya clients and a second volunteer who had already been helping with Digital Skills Academy's Use IT courses, but had experience of teaching ESOL.  Her experience is extremely useful and has allowed us to give 1-1 support to those who were finding learning more of a challenge.
