@@ -228,7 +228,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/iconnectnortheast.png" alt="iconnect" class="img-circle avatar" />
+        <img src="/images/anchor/iconnectnortheast.png" alt="iconnect" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Aberdeen city</strong><br />
@@ -251,7 +251,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/AVA.jpg" alt="AVA" class="img-circle avatar" />
+        <img src="/images/anchor/AVA.jpg" alt="AVA" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Aberdeenshire</strong><br />
@@ -274,7 +274,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/angus.png" alt="Argyll VA" class="img-circle avatar" />
+        <img src="/images/anchor/angus.png" alt="Argyll VA" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Angus</strong><br />
@@ -300,7 +300,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/a&b.png" alt="Argyll & Bute" class="img-circle avatar" />
+        <img src="/images/anchor/a&b.png" alt="Argyll & Bute" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Argyll & Bute</strong><br />
@@ -321,7 +321,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
          
-        <img src="/images/vcborders.jpg" alt="VC Borders" class="img-circle avatar" />
+        <img src="/images/anchor/vcborders.jpg" alt="VC Borders" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Borders</strong><br />
@@ -343,7 +343,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/CTSI.png" alt="CTSi" class="img-circle avatar" />
+        <img src="/images/anchor/CTSI.png" alt="CTSi" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Clackmannanshire</strong><br />
@@ -369,7 +369,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/D&G.jpg" alt="Dumfries and Galloway" class="img-circle avatar" />
+        <img src="/images/anchor/D&G.jpg" alt="Dumfries and Galloway" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Dumfries and Galloway</strong><br />
@@ -389,7 +389,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/dundee.png" alt="Dundee" class="img-circle avatar" />
+        <img src="/images/anchor/dundee.png" alt="Dundee" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Dundee</strong><br />
@@ -412,7 +412,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/cvoea.png" alt="East Ayrshire" class="img-circle avatar" />
+        <img src="/images/anchor/cvoea.png" alt="East Ayrshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>East Ayrshire</strong><br />
@@ -437,7 +437,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
 
-        <img src="/images/STRiVE.png" alt="VAF" class="img-circle avatar" />
+        <img src="/images/anchor/STRiVE.png" alt="VAF" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>East Lothian</strong><br />
@@ -458,7 +458,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vaeastrenfrew.png" alt="East Renfrew" class="img-circle avatar" />
+        <img src="/images/anchor/vaeastrenfrew.png" alt="East Renfrew" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>East Renfrewshire</strong><br />
@@ -479,7 +479,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/evoc.png" alt="EVOC" class="img-circle avatar" />
+        <img src="/images/anchor/evoc.png" alt="EVOC" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Edinburgh</strong><br />
@@ -506,7 +506,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
 
-        <img src="/images/falkirk.png" alt="Falkirk" class="img-circle avatar" />
+        <img src="/images/anchor/falkirk.png" alt="Falkirk" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Falkirk</strong><br />
@@ -529,7 +529,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vaf.png" alt="VAF" class="img-circle avatar" />
+        <img src="/images/anchor/vaf.png" alt="VAF" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Fife</strong><br />
@@ -551,7 +551,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/volgla.png" alt="volgla" class="img-circle avatar" />
+        <img src="/images/anchor/volgla.png" alt="volgla" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Glasgow</strong><br />
@@ -578,7 +578,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/highlandtsi.png" alt="Highland" class="img-circle avatar" />
+        <img src="/images/anchor/highlandtsi.png" alt="Highland" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Highland</strong><br />
@@ -599,7 +599,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/mva.png" alt="Midlothian" class="img-circle avatar" />
+        <img src="/images/anchor/mva.png" alt="Midlothian" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Midlothian</strong><br />
@@ -620,7 +620,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/moray.jpeg" alt="Moray" class="img-circle avatar" />
+        <img src="/images/anchor/moray.jpeg" alt="Moray" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Moray</strong><br />
@@ -647,7 +647,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
          
-        <img src="/images/act.png" alt="North Ayrshire" class="img-circle avatar" />
+        <img src="/images/anchor/act.png" alt="North Ayrshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>North Ayrshire</strong><br />
@@ -670,7 +670,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vao.jpg" alt="Orkney" class="img-circle avatar" />
+        <img src="/images/anchor/vao.jpg" alt="Orkney" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Orkney</strong><br />
@@ -693,7 +693,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/scvo.png" alt="Perth & Kinross" class="img-circle avatar" />
+        <img src="/images/anchor/scvo.png" alt="Perth & Kinross" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Perth & Kinross</strong><br />
@@ -719,7 +719,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/rc.jpg" alt="Renfrewshire" class="img-circle avatar" />
+        <img src="/images/anchor/rc.jpg" alt="Renfrewshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Renfrewshire</strong><br />
@@ -742,7 +742,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vashetland.jpg" alt="Shetland" class="img-circle avatar" />
+        <img src="/images/anchor/vashetland.jpg" alt="Shetland" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Shetland</strong><br />
@@ -764,7 +764,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vasa.jpg" alt="South Ayrshire" class="img-circle avatar" />
+        <img src="/images/anchor/vasa.jpg" alt="South Ayrshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>South Ayrshire</strong><br />
@@ -790,7 +790,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/vaslan.png" alt="South Lanarkshire" class="img-circle avatar" />
+        <img src="/images/anchor/vaslan.png" alt="South Lanarkshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>South Lanarkshire</strong><br />
@@ -812,7 +812,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/sve.png" alt="Stirlingshire Voluntary Enterprise Ltd" class="img-circle avatar" />
+        <img src="/images/anchor/sve.png" alt="Stirlingshire Voluntary Enterprise Ltd" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Stirlingshire</strong><br />
@@ -832,7 +832,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/WDCVS.png" alt="WDCVS" class="img-circle avatar" />
+        <img src="/images/anchor/WDCVS.png" alt="WDCVS" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>West Dunbartonshire</strong><br />
@@ -857,7 +857,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
          
-        <img src="/images/tsh.png" alt="Hebrides" class="img-circle avatar" />
+        <img src="/images/anchor/tsh.png" alt="Hebrides" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>The Western Isles</strong><br />
@@ -878,7 +878,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/VSGWL.png" alt="West Lothian" class="img-circle avatar" />
+        <img src="/images/anchor/VSGWL.png" alt="West Lothian" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>West Lothian</strong><br />
@@ -899,7 +899,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/engage.png" alt="West Renfrewshire" class="img-circle avatar" />
+        <img src="/images/anchor/engage.png" alt="West Renfrewshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>West Renfrewshire</strong><br />
