@@ -320,7 +320,7 @@ If you or your organisation are interested in participating in our training, ple
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
-        
+         
         <img src="/images/vcborders.jpg" alt="VC Borders" class="img-circle avatar" />
         
         </p>
@@ -352,8 +352,7 @@ If you or your organisation are interested in participating in our training, ple
         <strong>Making Digital Work (Wed 20th April)<br />
         Making Digital Everyday (Thurs 21st April)</strong><br />
         <a href="mailto:julie.McGrath@ctsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-         
-        </p>
+         </p>
       </div>
       
       
@@ -390,6 +389,29 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
+        <img src="/images/dundee.png" alt="Dundee" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Dundee</strong><br />
+        Dundee Social Enterprise Network<br />
+        Raymond Chan, Social Media Intern<br />
+        01382 504848 <br />
+        07594666261 <br />
+        <a href="mailto:Raymond@dundeesen.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/CVOEA"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+            
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
         <img src="/images/cvoea.png" alt="East Ayrshire" class="img-circle avatar" />
         
         </p>
@@ -402,16 +424,20 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
-        
-        <img src="/images/STRiVE.png" alt="East Lothian" class="img-circle avatar" />
+
+        <img src="/images/STRiVE.png" alt="VAF" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>East Lothian</strong><br />
@@ -423,14 +449,10 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
-        </div>
-      
       
     
     
       
-      
-        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -471,15 +493,19 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
-        
+
         <img src="/images/falkirk.png" alt="Falkirk" class="img-circle avatar" />
         
         </p>
@@ -494,14 +520,10 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
-        </div>
-      
       
     
     
       
-      
-        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -543,10 +565,14 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -562,16 +588,12 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      
-      
-        </div>
+       
       
       
     
     
       
-      
-        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -587,7 +609,7 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-       
+      
       
       
     
@@ -610,17 +632,21 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/tsiMORAY"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-       
+      
+      
+        </div>
       
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
-        
+         
         <img src="/images/act.png" alt="North Ayrshire" class="img-circle avatar" />
         
         </p>
@@ -635,14 +661,10 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
-        </div>
-      
       
     
     
       
-      
-        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -660,7 +682,7 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      
+       
       
       
     
@@ -668,7 +690,7 @@ If you or your organisation are interested in participating in our training, ple
       
       
       
-       <div class="col-sm-4 col-front">
+      <div class="col-sm-4 col-front">
         <p class="text-center">
         
         <img src="/images/scvo.png" alt="Perth & Kinross" class="img-circle avatar" />
@@ -684,10 +706,14 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -707,17 +733,13 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
-        </div>
-      
       
     
     
       
       
-        <div class="row">
       
-      
-     <div class="col-sm-4 col-front">
+      <div class="col-sm-4 col-front">
         <p class="text-center">
         
         <img src="/images/vashetland.jpg" alt="Shetland" class="img-circle avatar" />
@@ -755,10 +777,14 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
+        </div>
+      
       
     
     
       
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -775,18 +801,14 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/VA_SLAN"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      
-      
-        </div>
-      
-      
-    
-    
-      
-      
-        <div class="row">
-      
-      
+
+
+
+
+
+
+
+
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -822,15 +844,19 @@ If you or your organisation are interested in participating in our training, ple
       </div>
       
       
+        </div>
+      
       
     
     
       
       
+        <div class="row">
       
-     <div class="col-sm-4 col-front">
+      
+      <div class="col-sm-4 col-front">
         <p class="text-center">
-        
+         
         <img src="/images/tsh.png" alt="Hebrides" class="img-circle avatar" />
         
         </p>
@@ -841,18 +867,14 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-       
-      
-        </div>
-      
-      
-    
-    
-      
-      
-      <div class="row">
-      
-      
+
+
+
+
+
+
+
+ 
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
