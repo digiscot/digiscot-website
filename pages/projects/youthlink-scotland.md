@@ -42,9 +42,13 @@ These workshops were delivered with young people and youth workers from Glasgow 
 The workshops involved discussion with young people about what the most used social media platforms are and what they used the different plaforms for. We looked at which platforms are most suitable for use within a youth work or community learning and development setting and encouraged the young people to come up with their own ideas about how to use digital tools or social media platforms within youth work. They had some fantastic ideas about using web based research within projects and developing bespoke platforms for the youth work sector and pitched these to a Dragons' Den.
 
 We looked at the key issues that young people faced when navigating the online aspects of their lives. The young people came up with quite an extensive list of concerns and considerations. We discussed which were the most important areas for youth workers to be able to support young people with and they identified their top priorities as:
+
 - Online Bullying - its significance alongside physical bullying.
+
 - Privacy and online reputation - the importance of young people making informed decisions about whether to share something publicly and an understanding that to 'post' is actually to 'publish'.
+
 - Terms and conditions - young people need help understanding and recognising the significance of the terms they are signing up to on social platforms for example ownership and copyright issues surrounding content uploaded onto sites.
+
 
 Considering the skills, qualities and knowledge that youth workers might need to support young people with these issues the young people developed a presentation about online bullying to include in the Digitally Agile National Principles Training Course.
 
@@ -67,9 +71,13 @@ In order to obtain certification participants will be required to contribute to 
 January - March 2016
 
 Face to face sessions were delivered in January:
+
 - Glasgow - 20th January
+
 - Aberdeen - 21st January
+
 - Edinburgh - 29th January
+
 
 The course was extremely popular: the Glasgow and Edinburgh sessions attracted waiting lists with the Glasgow course being sold out after 2 days of publicity and the Edinburgh session after 4 days. The high demand for training in this field among CLD practitioners is an important learning point from the project.
 
@@ -117,10 +125,15 @@ Participants also heard what the young people had to say and explored online saf
 **Online Learning**
 
 Online Learning then followed for four weeks looking at the Digitally Agile National Principles, their application in practice and relevant resources to support learning.
+
 Week 1 - Practice, Policy, Professional Guidelines
+
 Week 2 - Resource, Inclusion
+
 Week 3 - Evaluation, Digital Literacy
+
 Week 4 - Learning and Development, Co-production
+
 
 
 ## Evaluation
