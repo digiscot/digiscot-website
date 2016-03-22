@@ -45,26 +45,24 @@ Another group have nearly finished the Tea and Tablet course.  They have really 
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+It took longer than we hoped to start delivering Tea and Tablet IT courses due to a number of obstacles we had to overcome in the setting up of the project. We have however now delivered three Tea and Tablet courses and have another one planned for April/May.  Laptops were used in the first Tea and Tablet course and tablets in the second two courses. In total we have delivered 20 weeks of Tea and Tablet and 12 learners have benefited.   
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+It was the intention of this course to improve life chances of people of all ages through learning, personal development and active citizenship.  The learning was also designed to meet CLD National Outcome 3 - we are better educated, more skilled and more successful. We hoped learners would feel empowered to use ICT, to demonstrate how they can use ICT to benefit their every day life and also describe how they can use the internet safely.
 
-In terms of outputs we delivered A, B and C.
+To achieve these outcomes a CLD IT tutor delivered Tea and Tablet as a six week programme with two hour weekly sessions.  Local services were asked to promote the opportunity to learners they work with and information was also circulated in the local press.  Tea and Tablet was delivered in the local community centre.  Learners were able to connect to the WIFI there and could work in a space where they wouldnt be disturbed by any other centre users.
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+Learners evaluated their progress at the end of the programme by reflecting on how capable they felt about completing certain tasks. We included both IT skills and literacy skills in this evaluation.  Nearly all learners reported feeling more confident about their IT, literacy and communication skills.  However, two learners identified that they still did not feel confident about using a computer/tablet at the end of the programme.  All learners said they would continue to use a computer/tablet/smartphone and identified keeping in touch with people, shopping online, everyday living, part time work and pleasure as their reasons for doing so.
 
 ### Lessons learned
-
+A number of learners from outwith Selkirk expressed an interest in attending the Tea and Tablet course. The number of IT classes being delivered using tablets is growing but it is obviously not meeting demand.  We had to try and juggle allocation of spaces so that we were meeting need in Selkirk as well as accommodating people living in rural areas who do not have a local class they can attend. People were willing to travel a 34 mile round trip to attend the class confirming there is a need in Scottish Borders for increased IT support and that unti people do receive this support, they may well be living in digital isolation. Some of the learners who attended the course already had tablets due to a family member purchasing one for them but they did not know how to use them.
 Things that worked well:
-
-1. Text
-2. Text
-3. Text
+Feedback from CLD IT tutor: "I've been giving a short set of lessons using android tablets at Philiphaugh Community Centre. I find the tablets to be quite user-friendly and the learners tend to pick up techniques quite quickly.  Having tablets encourages my learners to interact with each other more than when laptops are used, which serves to create a friendlier atmosphere.  I think the tablets are a less formal medium than latops and consequently that makes the class more open to new learners.  I can see people, especially older people, using tablets more for personal and social applications in future and so giving lessons on tablets is likely to be something i will look to do more often".
+Many learners asked if they could come back for the next programme in order to continue their learning which suggests that they found the sessions to be of benefit to them and that they felt encouraged that they could learn the skills needed to use a tablet and go online.
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+Selkirk has an older population (as has the Scottish Borders in general) and most people who attended the course were of retirement age. We did not manage to engage with working age adults, especially males who are unemployed which we hoped we would do.  Next time we will ask for support of the job centre in promoting this learning opportunity to those using their services.
+We have had conversations with Library services about how we can work together to offer continued IT support to learners. Library services are about to go into Trust but what we hope to offer is the six week Tea and Tablet programme through CLD then direct learners to their local library two/three weeks after the end of the programme to help them troubleshoot any problems they may be experiencing.  We hope this will help maintain the learner's confidence about using IT if they do experience any problems. 
+
