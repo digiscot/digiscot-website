@@ -506,7 +506,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
 
-        <img src="/images/anchor/falkirk.png" alt="Falkirk" class="img-circle avatar" />
+        <img src="/images/anchor/falkirk.jpg" alt="Falkirk" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Falkirk</strong><br />
