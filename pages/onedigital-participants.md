@@ -328,7 +328,7 @@ If you or your organisation are interested in participating in our training, ple
         VC Borders<br />
         0845 602 3921 <br />
         <strong>Making Digital Everyday (Wed 23rd March)</strong><br />
-        <a href="mailto:b.hitchcock@vcborders.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:g.brown@vcborders.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VCBORDERS"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
@@ -375,7 +375,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Dumfries and Galloway</strong><br />
         Third Sector Dumgal<br />
         0300 303 8558<br />
-        <a href="mailto:info@thirdsectordumgal.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:eppie@thirdsectordumgal.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
       
@@ -443,7 +443,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>East Lothian</strong><br />
         STRiVE<br />
         0131 665 3300<br />
-        <a href="mailto:info@strive.me.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:yvonne@vdel.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/STRiVEWellbeing"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
@@ -464,7 +464,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>East Renfrewshire</strong><br />
         UnderCOVER<br />
         0141 876 9555<br />
-        <a href="mailto:reception@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:alan.campbell@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
 
@@ -514,7 +514,7 @@ If you or your organisation are interested in participating in our training, ple
         01324 692000<br />
         <strong>Making Digital Work (Thurs 5th May)<br />
         Making Digital Everyday (Fri 6th May)</strong><br />
-        <a href="mailto:info@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
+        <a href="mailto:Laura@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
         <a href="https://twitter.com/CVSFalkirk"><i class="fa fa-fw fa-twitter"></i></a>
         </p>
       </div>
@@ -551,16 +551,16 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/anchor/volgla.png" alt="volgla" class="img-circle avatar" />
+        <img src="/images/anchor/gcvs.png" alt="volgla" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Glasgow</strong><br />
-        Volunteer Glasgow<br />
-        0141 226 3431<br />
+        Glasgow Council for the Voluntary Sector<br />
+        0141 354 6508<br />
         <strong>Making Digital Everyday (Tues 26th April)<br />
         Making Digital Work (Fri 6th May)</strong><br />
-        <a href="mailto:billy.mcfarlane@volunteerglasgow.org"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/volunteerglasgo"><i class="fa fa-fw fa-twitter"></i></a> 
+        <a href="mailto:sallie.condy@gcvs.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/GlasgowCVS"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -605,7 +605,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Midlothian</strong><br />
         Midlothian Voluntary Action<br />
         0131 663 9471<br />
-        <a href="mailto:info@midlothiantsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:Lesley.Kelly@mvacvs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
@@ -719,16 +719,16 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/anchor/rc.jpg" alt="Renfrewshire" class="img-circle avatar" />
+        <img src="/images/anchor/engagerenf.jpg" alt="Renfrewshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Renfrewshire</strong><br />
-        Renfrewshire Council<br />
-        0300 300 0300<br />
+        Engage Renfrewshire<br />
+        0141 887 7707<br />
         <strong>Making Digital Everyday (Tues 22nd March)<br />
         Making Digital Work (Tuesday 12th April)</strong><br />
-        <a href="mailto:diane.webb@renfrewshire.gov.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/dianeeva"><i class="fa fa-fw fa-twitter"></i></a> 
+        <a href="mailto:SMiller@EngageRenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -772,7 +772,7 @@ If you or your organisation are interested in participating in our training, ple
         01292 432661 <br />
         <strong>Making Digital Work (Tues 15th March)<br />
         Making Digital Everyday (Wed 16th March)</strong><br />
-        <a href="mailto:marie@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
+        <a href="mailto:norah@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
         </p>
       </div>
       
@@ -818,7 +818,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Stirlingshire</strong><br />
         Stirlingshire Voluntary Enterprise Ltd<br />
         01786 430000<br />
-        <a href="mailto:support@sventerprise.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:anneknox@sventerprise.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
       
@@ -838,7 +838,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>West Dunbartonshire</strong><br />
         West Dunbartonshire CVS<br />
         0141 941 0886<br />
-        <a href="mailto:selina@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:gordon@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/wdcvs"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
@@ -884,7 +884,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>West Lothian</strong><br />
         Voluntary Sector Gateway West Lothian<br />
         01506 650111<br />
-        <a href="mailto:vsg@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="mailto:jim.mcgregor@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
