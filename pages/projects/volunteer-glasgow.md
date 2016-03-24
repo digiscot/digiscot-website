@@ -67,5 +67,17 @@ The next cohort started on the 9th of March 2016.
 Some language barriers were found to be more difficult than were imagined. Some basic computer terms needed to be explained before we could proceed, eg Bookmark, because learners didn't understand the traditional term, the computer term was new to them.
 Also some learners found it difficult at the beginning to 'swipe' the screen. Perhaps a small piece of time practising this before starting the actual course may have built their confidence more.
 
+### Images Group 1
+Here are some photos taken in class
+1.
+image: /images/projects/VolunteerGlasgow-DS_Class01-1.jpg
+2.
+image: /images/projects/VolunteerGlasgow-DS_Class01-2.jpg
+3.
+image: /images/projects/VolunteerGlasgow-DS_Class01-3.jpg
+
+
+
+
 
 
