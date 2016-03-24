@@ -56,10 +56,16 @@ They would also prefer to be taught in the use of tablets, rather than laptops, 
 
 
 
-### Evaluation
-
+### Project Update
+We have just completed the first cohort of nine learners.
+This consisted on eight asylum seekers/refugees and one indiginous learner.
+Each learner has his own Android Tablet and subjects covered included Online Security, Social Media, Web search, Universal Credit, Facebook and Skype and Cloud storage.
+All learners enjoyed the course and were issued with a certificate to say they had completed the twelve week programme.
+The next cohort started on the 9th of March 2016.
 
 ### Lessons learned
+Some language barriers were found to be more difficult than were imagined. Some basic computer terms needed to be explained before we could proceed, eg Bookmark, because learners didn't understand the traditional term, the computer term was new to them.
+Also some learners found it difficult at the beginning to 'swipe' the screen. Perhaps a small piece of time practising this before starting the actual course may have built their confidence more.
 
 
 
