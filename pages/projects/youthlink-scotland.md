@@ -128,8 +128,10 @@ We had opportunities to share practice and hear from colleagues:
 We explored the ethical considerations and professional boundaries surrounding CLD practitioners' use of and engagement with social media and digital technology.
 
 Updates from Aberdeen:
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Discussing how we can use social media in practice at Aberdeen <a href="https://twitter.com/hashtag/DACLD?src=hash">#DACLD</a> training with <a href="https://twitter.com/YouthLinkScot">@YouthLinkScot</a> and <a href="https://twitter.com/GKCollege">@GKCollege</a> <a href="https://t.co/Q5HAm3Zbv9">pic.twitter.com/Q5HAm3Zbv9</a></p>&mdash; DACLD (@DigitallyAgile) <a href="https://twitter.com/DigitallyAgile/status/690155255200350208">January 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 And we identified the role of CLD practitioners as digital participation champions and the onus o us to help break down the barriers that those we work with may face in access and engagement with the internet and the increasing need to be able to function online.
 
