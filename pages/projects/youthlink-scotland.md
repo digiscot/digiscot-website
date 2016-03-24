@@ -52,6 +52,9 @@ We looked at the key issues that young people faced when navigating the online a
 
 Considering the skills, qualities and knowledge that youth workers might need to support young people with these issues the young people developed a presentation about online bullying to include in the Digitally Agile National Principles Training Course.
 
+Photo album from the workshops:
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140540017@N06/albums/72157665381931840" title="DANP Consultation Sessions with Young People"><img src="https://farm2.staticflickr.com/1651/25812430885_a1294d9fcf_z.jpg" width="640" height="480" alt="DANP Consultation Sessions with Young People"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 **Writing training** 
 
