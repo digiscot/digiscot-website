@@ -60,15 +60,21 @@ Apps Game
 
 What knowledge, qualities and skills do CLD workers need to support YP with online issues?
 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140540017@N06/25181940344/in/album-72157665381931840/" title="20150901_094257"><img src="https://farm2.staticflickr.com/1706/25181940344_c3a3be2b08_z.jpg" width="640" height="480" alt="20150901_094257"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 Young People's innovation
 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140540017@N06/25812434095/in/album-72157665381931840/" title="20150918_165111"><img src="https://farm2.staticflickr.com/1680/25812434095_f96a3ed494_z.jpg" width="480" height="640" alt="20150918_165111"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 Developing training resource for CLD practitioners about Online Bullying
 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140540017@N06/25812430885/in/album-72157665381931840/" title="20151010_155533"><img src="https://farm2.staticflickr.com/1651/25812430885_a1294d9fcf_z.jpg" width="640" height="480" alt="20151010_155533"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 
 
