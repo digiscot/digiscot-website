@@ -98,7 +98,7 @@ A key principle of action learning is that the members will seek solutions to ch
 
 After a fantastic response, we have now selected a representative sample of leaders! 
 
-Leadership action learning will kick start on <strong>25th February</strong> but if you would like to discuss this further please contact Beth Murphy:
+Our action learning kick started on <strong>25th February</strong> but if you would like to discuss further One Digital opportunities for trustees/chairs/conveners please contact Beth Murphy:
 
 <html>
 
