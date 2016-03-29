@@ -274,7 +274,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/anchor/angus.png" alt="Argyll VA" class="img-circle avatar" />
+        <img src="/images/anchor/angus.png" alt="Angus" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Angus</strong><br />
@@ -327,7 +327,6 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Borders</strong><br />
         VC Borders<br />
         0845 602 3921 <br />
-        <strong>Making Digital Everyday (Wed 23rd March)</strong><br />
         <a href="mailto:g.brown@vcborders.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VCBORDERS"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -770,8 +769,7 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>South Ayrshire</strong><br />
         Voluntary Action South Ayrshire<br />
         01292 432661 <br />
-        <strong>Making Digital Work (Tues 15th March)<br />
-        Making Digital Everyday (Wed 16th March)</strong><br />
+        <strong>Training dates have already passed. Contact the [One Digital team](onedigital@scvo.org.uk) for further information.</strong><br />
         <a href="mailto:norah@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
         </p>
       </div>
@@ -857,7 +855,7 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
          
-        <img src="/images/anchor/tsh.png" alt="Hebrides" class="img-circle avatar" />
+        <img src="/images/anchor/tsh.png" alt="The Western Isles" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>The Western Isles</strong><br />

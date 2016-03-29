@@ -199,7 +199,7 @@ Our action learning kick started on <strong>25th February</strong> but if you wo
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/team/Beth.jpg" alt="Chris Yiu" class="img-circle avatar" />
+        <img src="/images/team/Beth.jpg" alt="Beth Murphy" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Beth Murphy</strong><br />
