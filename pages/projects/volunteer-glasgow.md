@@ -67,15 +67,4 @@ The next cohort started on the 9th of March 2016.
 Some language barriers were found to be more difficult than were imagined. Some basic computer terms needed to be explained before we could proceed, eg Bookmark, because learners didn't understand the traditional term, the computer term was new to them.
 Also some learners found it difficult at the beginning to 'swipe' the screen. Perhaps a small piece of time practising this before starting the actual course may have built their confidence more.
 
-### Images
-
-Some images from the first course
-
-Image 1:
-https://github.com/VGdigital/digiscot.github.io/blob/master/images/projects/VolunteerGlasgow-DS_Class01-1.jpg
-Image 2:
-https://github.com/VGdigital/digiscot.github.io/blob/master/images/projects/VolunteerGlasgow-DS_Class01-2.jpg
-Image 3:
-https://github.com/VGdigital/digiscot.github.io/blob/master/images/projects/VolunteerGlasgow-DS_Class01-3.jpg
-
 
