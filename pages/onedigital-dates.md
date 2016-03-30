@@ -1,11 +1,13 @@
 ---
 layout: page
 title: One Digital- Training dates across Scotland
-excerpt: Look under your local authority below to find the contact details and dates of future One Digital training. 
+excerpt: The below list of anchor organisations is sorted in alphabetical order. Look under your local area to find the contact details and dates of future One Digital training. 
 permalink: /onedigital/participants/dates
 --- 
 
 ![One Digital](/images/One-Digital-Logostrip.png)
+
+### To find out more about the two types of training that One Digital offers and which would suit you best, please read through our [participant page](http://digital.scvo.org.uk/onedigital/participants/).
 
 ### *If training dates for your area have now passed, please register your interest in further opportunities by contacting us at [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk)
 
@@ -39,7 +41,7 @@ permalink: /onedigital/participants/dates
       *Dates to be announced
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Argyll & Bute: Argyll </strong><br />
+      <p class="list-group-item-text"><strong>Argyll & Bute: Argyll & Bute TSI</strong><br />
        Dunoon Office- 01369 700100<br />
        <a href="mailto:glenn@argyllvoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
