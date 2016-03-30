@@ -3,13 +3,15 @@ layout: post
 date: 2016-03-22
 author: Fran Thow
 authorlink: 
-title: One Digital training Blogs
-excerpt: Stirlingshire
-tags: onedigital
+title: One Digital Training Blog
+excerpt: Making Digital Work, Stirlingshire, 24th February 2016
+tags:
 image: 
 ---
 
 ![Fran Thow](/images/onedigi blog/fran.jpg)
+
+#### Fran Thow, Regional Manager, Food Train
 
 I attended SCVO’s first Digital Inclusion training session in Stirling on 24th February 2016.
 
@@ -20,3 +22,4 @@ The session certainly motivated me to think about how I could do things differen
 On the course I learnt about MailChimp which is free to register and use, for up to 12,000 emails per month.  My plan is to develop an eBulletin for my volunteers which will be distributed via MailChimp on a quarterly basis.  Within Mail Chimp I can add links to the eBulletin for websites that I want to share with my volunteers. Since returning to the office I have also considered how MailChimp could be used to keep communication channels open with the Food Train staff team from branches across Scotland.
 
 All in all a very interesting and useful day with great information sharing from everyone involved.
+
