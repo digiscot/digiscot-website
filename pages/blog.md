@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Blog
-excerpt: SCVO Digital Participation blog.
+excerpt: One Digital Blogs.
 permalink: /blog/
 ---
+
