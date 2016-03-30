@@ -20,7 +20,7 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>Aberdeen city: i-connect North East</strong><br />
       01224 583939<br />
       <a href="mailto:info@i-connectnortheast.org"><i class="fa fa-fw fa-envelope"></i></a><a href="https://twitter.com/icneAberdeen"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      <strong>Location:</strong> 33 King Street Aberdeen AB24 5AA<br />
+      <strong>Location:</strong> Arts Centre & Theatre, 33 King Street Aberdeen AB24 5AA<br />
       *Making Digital Work (Tues 26th April)<br />
       *Making Digital Everyday (Wed 27th April)<br />
     </span>
@@ -30,7 +30,9 @@ permalink: /onedigital/participants/dates
       01771 624 589<br />
       Mintlaw office: 01771 624787<br />
       <a href="mailto:training@avashire.org.uk"><i class="fa fa-fw fa-envelope"></i></a><a href="https://twitter.com/AVAshire"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      <strong>Location:</strong> Ellon Academy Community Campus, Kellie Pearl Way, Ellon, AB41 8LF<br />
+      *Tuesday 17th May <br />
+      *Wednesday 18th May (further details to be announced shortly)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Angus: Voluntary Action Angus</strong><br />
@@ -45,7 +47,9 @@ permalink: /onedigital/participants/dates
        Dunoon Office- 01369 700100<br />
        <a href="mailto:glenn@argyllvoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-        <strong>*Tentative date*</strong> Making Digital Work (Friday 8th April)
+        <strong>*Tentative dates*</strong><br /> 
+        Making Digital Work, Lochgilphead (Friday 8th April)<br />
+        Training session to be announced, Helensburgh (Monday 18th April)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Borders: VC Borders</strong><br /> 0845 602 3921<br />
