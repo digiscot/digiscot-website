@@ -1,15 +1,17 @@
 ---
 layout: post
-date: 2016-03-31
+date: 2016-03-30
 author: Jennifer Watson & Abigail Peters
 authorlink: 
-title: One Digital training Blogs
-excerpt: Renfrewshire
-tags: digital
+title: One Digital Training Blog
+excerpt: Making Digital Work, East Renfrewshire, 7th March 2016
+tags:
 image: 
 ---
 
 ![Jennifer Watson](/images/onedigi blog/Jennifer.jpg)
+
+#### Jennifer Watson (Volunteer Services Co-ordinator) & Abigail Peters (volunteer), Jewish Care Scotland
 
 I am the Co-ordinator of Volunteer Services at Jewish care Scotland. We run weekday day care clubs for seniors living within our community. These clubs are run by staff with the support of volunteers.
 
