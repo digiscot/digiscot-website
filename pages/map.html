@@ -9,7 +9,7 @@ permalink: /projects/map/
 
 <div class="row"><div class="col-md-9">
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
 <div class="wrapper">
   <div class="fixed-ratio" id="map"></div>
@@ -26,16 +26,16 @@ permalink: /projects/map/
   }
   var bounds = new google.maps.LatLngBounds();
 
-  var map = new google.maps.Map(document.getElementById("map"), mapOptions);   
-   
-  $.getJSON("/json/json-projects.html", function(data){
+  var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+  $.getJSON("/json/json-projects/", function(data){
     $.each(data.projects, function(i, field){
-    
+
       if (field.lat && field.lng != "") {
-    
-    
+
+
          var contentString = '<a href="'+field.url+'">'+field.lead+'</a><br>'+field.title;
-       
+
          var marker = new google.maps.Marker({
            position: new google.maps.LatLng(field.lat,field.lng),
            map: map,
@@ -43,23 +43,22 @@ permalink: /projects/map/
          });
 
         google.maps.event.addListener(marker, 'click', function() {
-           infowindow.setContent(contentString); 
+           infowindow.setContent(contentString);
            infowindow.open(map,marker);
          });
 
          bounds.extend(marker.position);
-       
+
       }
-    
+
     });
-    
+
     map.fitBounds(bounds);
-    
+
   });
-  
-  
-  
+
+
+
 </script>
 
 </div><div class="col-md-3">
-
