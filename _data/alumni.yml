@@ -1,15 +1,15 @@
 - name: Chris Yiu
   job: Director
   image: chris.png
-  phone: 0131 524 7283
-  email: chris.yiu@scvo.org.uk
+  phone:
+  email:
   twitter: clry2
   linkedin: http://www.linkedin.com/in/clry2
 - name: Alastair Watson
   job: Development Officer, Charter and Projects
   image: alastair.jpg
-  phone: 0131 524 7288
-  email: alastair.watson@scvo.org.uk
+  phone:
+  email:
   twitter: digit_aly
   linkedin: https://www.linkedin.com/pub/alastair-watson/41/88b/2b2
 - name: Aron Seemel
