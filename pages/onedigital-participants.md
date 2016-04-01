@@ -484,8 +484,8 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Edinburgh</strong><br />
         Edinburgh Voluntary Organisations’ Council<br />
         0131 555 9100<br />
-        <strong>Making Digital Everyday (Thurs 17th March)<br />
-        Making Digital Work (Fri 18th March)</strong><br />
+        <strong>Training dates have passed. <br />
+        Contact onedigital@scvo.org.uk for further information.</strong><br />
         <a href="mailto:info@evoc.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/evoc_edinburgh"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -534,7 +534,8 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Fife</strong><br />
         Fife Voluntary Action<br />
         01592 645300<br />
-        <strong>Making Digital Work (Tues 22nd March)</strong><br />
+        <strong>Training dates have passed. <br />
+        Contact onedigital@scvo.org.uk for further information.</strong><br />
         <a href="mailto:Helen@fifevoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/FifeVolAction"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -769,7 +770,8 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>South Ayrshire</strong><br />
         Voluntary Action South Ayrshire<br />
         01292 432661 <br />
-        <strong>Training dates have already passed. Contact the [One Digital team](onedigital@scvo.org.uk) for further information.</strong><br />
+        <strong>Training dates have passed. <br />
+        Contact onedigital@scvo.org.uk for further information.</strong><br />
         <a href="mailto:norah@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
         </p>
       </div>
