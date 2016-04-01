@@ -1,10 +1,10 @@
-- name: Chris Yiu
+- name: David McNeill
   job: Director
-  image: chris.png
+  image: david.jpg
   phone: 0131 524 7283
-  email: chris.yiu@scvo.org.uk
-  twitter: clry2
-  linkedin: http://www.linkedin.com/in/clry2
+  email: david.mcneill@scvo.org.uk
+  twitter: david_mcneill
+  linkedin: https://uk.linkedin.com/in/davidimcneill
 - name: Sally Dyson
   job: Head of Digital Participation
   image: sally.jpg
@@ -19,48 +19,41 @@
   email: rebecca.stafford@scvo.org.uk
   twitter: digibecca
   linkedin:
-- name: Alastair Watson
-  job: Development Officer, Charter and Projects
-  image: alastair.jpg
-  phone: 0131 524 7288
-  email: alastair.watson@scvo.org.uk
-  twitter: digit_aly
-  linkedin: https://www.linkedin.com/pub/alastair-watson/41/88b/2b2
 - name: Gillian Munro
   job: Team Support Officer, Charter and Projects
   image: gillian.JPG
-  phone: 
+  phone:
   email: gillian.munro@scvo.org.uk
   twitter: digi_gill
-  linkedin: 
+  linkedin:
 - name: Beth Murphy
   job: Project Manager, One Digital
   image: Beth.jpg
-  phone: 
+  phone:
   email: beth.murphy@scvo.org.uk
   twitter: Betty_Murphy
-  linkedin: 
+  linkedin:
 - name: Maddie Stark
   job: Development Officer, One Digital
   image: Maddie.png
-  phone: 
+  phone:
   email: maddie.stark@scvo.org.uk
   twitter: StarkMadelaine
-  linkedin: 
+  linkedin:
 - name: Eilidh Little
   job: Development Officer, One Digital
   image: Eilidh.jpg
   phone: 01463 251735
   email: eilidh.little@scvo.org.uk
   twitter: LittleEilidh
-  linkedin: 
+  linkedin:
 - name: Jo Malo
   job: Team Support Officer, One Digital
   image: jo.jpg
   phone: 0131 281 0868
   email: jo.malo@scvo.org.uk
   twitter: jomalo6
-  linkedin: 
+  linkedin:
 - name: Gavin Bell
   job: Programme Manager, Milo
   image: gavin.jpg
@@ -68,17 +61,24 @@
   email: gavin.bell@scvo.org.uk
   twitter: GavinDigital
   linkedin: https://www.linkedin.com/pub/gavin-bell/4a/583/168
+- name: Calum MacÙisdean
+  job: Manager, SCVO Web
+  image: calum.jpg
+  phone:
+  email: calum.macuisdean@scvo.org.uk
+  twitter: calummacuisdean
+  linkedin: https://uk.linkedin.com/in/calummacuisdean
 - name: Matthew Wilkes
   job: Developer, SCVO Web
   image: matthew.jpg
-  phone: 
+  phone:
   email: matthew.wilkes@scvo.org.uk
   twitter: tonicblue
-  linkedin: 
+  linkedin:
 - name: Alex Nuttgens
   job: Developer, SCVO Labs
-  image: 
-  phone: 
+  image:
+  phone:
   email: alex.nuttgens@scvo.org.uk
   twitter: anuttgens
-  linkedin: 
+  linkedin:
