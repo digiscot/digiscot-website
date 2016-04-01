@@ -23,3 +23,4 @@ On the course I learnt about MailChimp which is free to register and use, for up
 
 All in all a very interesting and useful day with great information sharing from everyone involved.
 
+![The Food Train](/images/onedigi blog/foodtrain.jpg)
