@@ -47,8 +47,7 @@ permalink: /onedigital/participants/dates
        Dunoon Office- 01369 700100<br />
        <a href="mailto:glenn@argyllvoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-        <strong>*Tentative dates*</strong><br /> 
-        Making Digital Work, Lochgilphead (Friday 8th April)<br />
+        <strong>*Tentative date*</strong><br /> 
         Training session to be announced, Helensburgh (Monday 18th April)
     </span>
     <span class="list-group-item">
