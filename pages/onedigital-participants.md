@@ -127,7 +127,10 @@ We'll provide a training venue, refreshments and ongoing resources for free. All
 
 ## Where and when will training take place?
 
-If you or your organisation are interested in participating in our training, please take a look at your local anchor below and contact them asap for further details. Training sessions are arranged on a daily basis so please be aware that this list will be regularly updated. 
+Below is a list of the anchor organisations hosting One Digital training across Scotland. 
+
+-<strong> If you or your organisation are interested in attending this training, please take a look at our [training dates page](http://digital.scvo.org.uk/onedigital/participants/dates) for details.<br /> 
+- If your local training dates have already passed please get in touch with us at [onedigita@scvo.org.uk](mailto:onedigital@scvo.org.uk) to be notified of further opportunities.</strong>  
 
 <html>
 
@@ -234,8 +237,6 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Aberdeen city</strong><br />
         i-connect North East<br />
         01224 583939<br />
-        <strong>Making Digital Work (Tues 26th April)</strong><br />
-        <strong>Making Digital Everyday (Wed 27th April)</strong><br />
         <a href="mailto:info@i-connectnortheast.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/icneAberdeen"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -348,8 +349,6 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Clackmannanshire</strong><br />
         Clackmannanshire TSI<br />
         01259 213840<br />
-        <strong>Making Digital Work (Wed 20th April)<br />
-        Making Digital Everyday (Thurs 21st April)</strong><br />
         <a href="mailto:julie.McGrath@ctsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
          </p>
       </div>
@@ -435,6 +434,27 @@ If you or your organisation are interested in participating in our training, ple
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
+        
+        <img src="/images/anchor/edun.jpg" alt="East Dunbartonshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>East Dunbartonshire</strong><br />
+        East Dunbartonshire Voluntary Action<br />
+        0141 578 6680<br />
+        <a href="mailto:info@edva.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/EastDunVA"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
 
         <img src="/images/anchor/STRiVE.png" alt="VAF" class="img-circle avatar" />
         
@@ -446,7 +466,7 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/STRiVEWellbeing"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      
+       
       
       
     
@@ -465,31 +485,7 @@ If you or your organisation are interested in participating in our training, ple
         0141 876 9555<br />
         <a href="mailto:alan.campbell@va-er.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
         </p>
-      </div>
-
-      
-      
-      
-    
-    
-      
-      
-      
-      <div class="col-sm-4 col-front">
-        <p class="text-center">
-        
-        <img src="/images/anchor/evoc.png" alt="EVOC" class="img-circle avatar" />
-        
-        </p>
-        <p class="text-center"><strong>Edinburgh</strong><br />
-        Edinburgh Voluntary Organisations’ Council<br />
-        0131 555 9100<br />
-        <strong>Training dates have passed. <br />
-        Contact onedigital@scvo.org.uk for further information.</strong><br />
-        <a href="mailto:info@evoc.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/evoc_edinburgh"><i class="fa fa-fw fa-twitter"></i></a> 
-        </p>
-      </div>
+     </div>
       
       
         </div>
@@ -504,6 +500,27 @@ If you or your organisation are interested in participating in our training, ple
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
+        
+        <img src="/images/anchor/evoc.png" alt="EVOC" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Edinburgh</strong><br />
+        Edinburgh Voluntary Organisations’ Council<br />
+        0131 555 9100<br />
+        <a href="mailto:info@evoc.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/evoc_edinburgh"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+       
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
 
         <img src="/images/anchor/falkirk.jpg" alt="Falkirk" class="img-circle avatar" />
         
@@ -511,8 +528,6 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Falkirk</strong><br />
         Falkirk CVS<br />
         01324 692000<br />
-        <strong>Making Digital Work (Thurs 5th May)<br />
-        Making Digital Everyday (Fri 6th May)</strong><br />
         <a href="mailto:Laura@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
         <a href="https://twitter.com/CVSFalkirk"><i class="fa fa-fw fa-twitter"></i></a>
         </p>
@@ -534,33 +549,8 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Fife</strong><br />
         Fife Voluntary Action<br />
         01592 645300<br />
-        <strong>Training dates have passed. <br />
-        Contact onedigital@scvo.org.uk for further information.</strong><br />
         <a href="mailto:Helen@fifevoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/FifeVolAction"><i class="fa fa-fw fa-twitter"></i></a> 
-        </p>
-      </div>
-      
-      
-      
-    
-    
-      
-      
-      
-      <div class="col-sm-4 col-front">
-        <p class="text-center">
-        
-        <img src="/images/anchor/gcvs.png" alt="volgla" class="img-circle avatar" />
-        
-        </p>
-        <p class="text-center"><strong>Glasgow</strong><br />
-        Glasgow Council for the Voluntary Sector<br />
-        0141 354 6508<br />
-        <strong>Making Digital Everyday (Tues 26th April)<br />
-        Making Digital Work (Fri 6th May)</strong><br />
-        <a href="mailto:sallie.condy@gcvs.org"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/GlasgowCVS"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -578,6 +568,27 @@ If you or your organisation are interested in participating in our training, ple
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
+        <img src="/images/anchor/gcvs.png" alt="volgla" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Glasgow</strong><br />
+        Glasgow Council for the Voluntary Sector<br />
+        0141 354 6508<br />
+        <a href="mailto:sallie.condy@gcvs.org"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/GlasgowCVS"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
         <img src="/images/anchor/highlandtsi.png" alt="Highland" class="img-circle avatar" />
         
         </p>
@@ -588,12 +599,37 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-       
+      
       
       
     
     
       
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+        
+        <img src="/images/anchor/inverclyde.jpeg" alt="Inverclyde" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>Inverclyde</strong><br />
+        CVS Inverclyde<br />
+        01475 711 733<br />
+        <a href="mailto:bill.stewart@cvsinverclyde.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/CVSInverclyde"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+        </div>
+      
+      
+    
+    
+      
+      
+        <div class="row">
       
       
       <div class="col-sm-4 col-front">
@@ -626,10 +662,29 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Moray</strong><br />
         tsiMORAY<br />
         01343 541713<br />
-        <strong>Making Digital Work (Friday 22nd April)<br />
-        Making Digital Everyday (Monday 25th April)</strong><br />
         <a href="mailto:info@tsimoray.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/tsiMORAY"><i class="fa fa-fw fa-twitter"></i></a> 
+        </p>
+      </div>
+      
+      
+      
+    
+    
+      
+      
+      
+      <div class="col-sm-4 col-front">
+        <p class="text-center">
+         
+        <img src="/images/anchor/act.png" alt="North Ayrshire" class="img-circle avatar" />
+        
+        </p>
+        <p class="text-center"><strong>North Ayrshire</strong><br />
+        Ayrshire Community Trust<br />
+        01294 443044<br />
+        <a href="mailto:Kayleigh@TheAyrshireCommunityTrust.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/TAyrshireCT"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
       
@@ -646,20 +701,18 @@ If you or your organisation are interested in participating in our training, ple
       
       <div class="col-sm-4 col-front">
         <p class="text-center">
-         
-        <img src="/images/anchor/act.png" alt="North Ayrshire" class="img-circle avatar" />
+        
+        <img src="/images/anchor/vanl.jpg" alt="North Lanarkshire" class="img-circle avatar" />
         
         </p>
-        <p class="text-center"><strong>North Ayrshire</strong><br />
-        Ayrshire Community Trust<br />
-        01294 443044<br />
-        <strong>Making Digital Work (Mon 18th April)<br />
-        Making Digital Everyday (Tues 19th April)</strong><br />
-        <a href="mailto:Kayleigh@TheAyrshireCommunityTrust.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/TAyrshireCT"><i class="fa fa-fw fa-twitter"></i></a> 
+        <p class="text-center"><strong>North Lanarkshire</strong><br />
+        Voluntary Action North Lanarkshire<br />
+        01236 748011<br />
+        <a href="mailto:douglas.milne@vanl.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        <a href="https://twitter.com/VANLanarkshire"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-      
+       
       
       
     
@@ -676,13 +729,11 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Orkney</strong><br />
         Voluntary Action Orkney<br />
         01856 872897<br />
-        <strong>Making Digital Work (Tues 3rd May)<br />
-        Making Digital Everyday (Wed 4th May)</strong><br />
         <a href="mailto:enquiries@vaorkney.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-       
+      
       
       
     
@@ -725,8 +776,6 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Renfrewshire</strong><br />
         Engage Renfrewshire<br />
         0141 887 7707<br />
-        <strong>Making Digital Everyday (Tues 22nd March)<br />
-        Making Digital Work (Tuesday 12th April)</strong><br />
         <a href="mailto:SMiller@EngageRenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
@@ -748,8 +797,6 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>Shetland</strong><br />
         Voluntary Action Shetland<br />
         01595 743900<br />
-        <strong>Making Digital Everyday (Fri 6th May)<br />
-        Making Digital Work (Sat 7th May)</strong><br />
         <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
@@ -770,11 +817,9 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>South Ayrshire</strong><br />
         Voluntary Action South Ayrshire<br />
         01292 432661 <br />
-        <strong>Training dates have passed. <br />
-        Contact onedigital@scvo.org.uk for further information.</strong><br />
         <a href="mailto:norah@vasa.scot"><i class="fa fa-fw fa-envelope"></i></a> 
         </p>
-      </div>
+       </div>
       
       
         </div>
@@ -796,19 +841,18 @@ If you or your organisation are interested in participating in our training, ple
         <p class="text-center"><strong>South Lanarkshire</strong><br />
         Voluntary Action South Lanarkshire<br />
         01698 300390 <br />
-        <strong>Making Digital Everyday (Tues 12th April)</strong><br />
         <a href="mailto:angus.lindsay@vaslan.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VA_SLAN"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-
-
-
-
-
-
-
-
+      
+      
+      
+    
+    
+      
+      
+      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
@@ -841,7 +885,7 @@ If you or your organisation are interested in participating in our training, ple
         <a href="mailto:gordon@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/wdcvs"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
-      </div>
+       </div>
       
       
         </div>
@@ -867,14 +911,14 @@ If you or your organisation are interested in participating in our training, ple
         <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a> 
         </p>
       </div>
-
-
-
-
-
-
-
- 
+      
+      
+      
+    
+    
+      
+      
+      
       <div class="col-sm-4 col-front">
         <p class="text-center">
         

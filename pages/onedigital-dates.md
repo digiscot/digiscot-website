@@ -212,6 +212,7 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>South Lanarkshire: Voluntary Action South Lanarkshire</strong><br /> 01698 300390<br />
       <a href="mailto:angus.lindsay@vaslan.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VA_SLAN"><i class="fa fa-fw fa-twitter"></i></a><p><br />
+      <strong>Location:</strong> Voluntary Sector Support Centre, 155 Montrose Crescent, Hamilton, ML3 6LQ<br />  
       *Making Digital Everyday (Tuesday 12th April)
     </span>
     <span class="list-group-item">
