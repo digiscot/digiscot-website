@@ -702,7 +702,7 @@ Below is a list of the anchor organisations hosting One Digital training across 
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/anchor/vanl.jpg" alt="North Lanarkshire" class="img-circle avatar" />
+        <img src="/images/anchor/VANL.png" alt="North Lanarkshire" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>North Lanarkshire</strong><br />
