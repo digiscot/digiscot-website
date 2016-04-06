@@ -132,7 +132,13 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>Highland: Highland Third Sector Partnership</strong><br /> 01349 864289<br />
       <a href="mailto:info@highlandtsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      <strong>Location: Inverness</strong>, SCVO, Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA<br />  
+      *Making Digital Work (Tuesday 26th April)<br />
+      *Making Digital Everyday (Wednesday 27th April)<br />
+      <br />
+      <strong>Location:Skye</strong>, Council Chambers, Tigh-na-Sgire, Park Lane, Portree, IV51 9GP<br />
+      *Making Digital Work (Thursday 28th April)<br />
+      *Making Digital Everyday (Friday 29th April)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Inverclyde: CVS Inverclyde</strong><br />
@@ -233,7 +239,9 @@ permalink: /onedigital/participants/dates
       01851 702632<br />
       <a href="mailto:enquiries@tshebrides.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      <strong>Location:</strong> Third Sector Hebrides, 30 Francis Street, Stornoway, HS1 2ND<br />
+      *Tuesday 3rd May<br />
+      *Wednesday 4th May (further details to be announced)<br />	
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>West Lothian: Voluntary Sector Gateway West Lothian</strong><br />
