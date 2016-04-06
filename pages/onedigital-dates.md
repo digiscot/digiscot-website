@@ -31,8 +31,8 @@ permalink: /onedigital/participants/dates
       Mintlaw office: 01771 624787<br />
       <a href="mailto:training@avashire.org.uk"><i class="fa fa-fw fa-envelope"></i></a><a href="https://twitter.com/AVAshire"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Ellon Academy Community Campus, Kellie Pearl Way, Ellon, AB41 8LF<br />
-      *Tuesday 17th May <br />
-      *Wednesday 18th May (further details to be announced shortly)
+      *Making Digital Work (Tuesday 17th May)<br />
+      *Making Digital Everyday (Wednesday 18th May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Angus: Voluntary Action Angus</strong><br />
