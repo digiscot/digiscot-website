@@ -33,6 +33,10 @@ One Digital aims to create a model of continuous Basic Digital Skills sharing th
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Who should join?</strong> This is for you if you want to make a change to your organisation and have a basic understanding of how digital will help. Please check that your organisation will support you to make these changes.</p>
     </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text">To find out whether <strong>Making Digital Work</strong> is the best option for you, read our: 
+        <a class="btn btn-primary btn-lg" href="/files/MDW what's involved.pdf">Making Digital Work: what's involved</a></p>
+    </span>    
   </div>
 
 </div>
@@ -50,6 +54,10 @@ One Digital aims to create a model of continuous Basic Digital Skills sharing th
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Who should join?</strong> This is for you if you regularly work with clients and end users and know they would benefit from digital. You should have basic digital skills yourself but you're not expected to be an expert.</p>
     </span>
+    <span class="list-group-item">
+      <p class="list-group-item-text">To find out whether <strong>Making Digital Everyday</strong> is the best option for you, read our: 
+        <a class="btn btn-primary btn-lg" href="/files/MDE what's involved.pdf">Making Digital Everyday: what's involved</a></p>
+    </span>    
   </div>
 
 </div>
@@ -748,11 +756,9 @@ Below is a list of the anchor organisations hosting One Digital training across 
         
         </p>
         <p class="text-center"><strong>Perth & Kinross</strong><br />
-        Please contact Eilidh Little<br />
-        One Digital Development Officer<br />
-        Office: 0146 325 1735<br />
-        Mobile: 07771 666 429<br />
-        <a href="mailto:onedigital@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
+        Perth & Kinross Association of Voluntary Service Ltd<br />
+        01738 567076<br />
+        <a href="mailto:admin@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
       </div>
       

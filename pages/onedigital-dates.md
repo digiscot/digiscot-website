@@ -40,15 +40,16 @@ permalink: /onedigital/participants/dates
       Forfar: 01307 466113<br />
       <a href="mailto:info@voluntaryactionangus.org.uk"><i class="fa fa-fw fa-envelope"></i></a> 
       <a href="https://twitter.com/volactionangus"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      <strong>Location:</strong> 32-34 Guthrie Port, Arbroath, DD11 1RN<br />
+      *Making Digital Work (Monday 9th May)<br />
+      *Making Digital Everyday (Monday 23rd May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Argyll & Bute: Argyll & Bute TSI</strong><br />
        Dunoon Office- 01369 700100<br />
        <a href="mailto:glenn@argyllvoluntaryaction.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-        <strong>*Tentative date*</strong><br /> 
-        Training session to be announced, Helensburgh (Monday 18th April)
+       <a href="https://twitter.com/Argyll_ButeTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
+       *To be announced
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Borders: VC Borders</strong><br /> 0845 602 3921<br />
@@ -76,7 +77,9 @@ permalink: /onedigital/participants/dates
       07594666261<br />
       <a href="mailto:Raymond@dundeesen.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/CVOEA"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      <strong>Location:</strong> Factory Skatepark, 15 Balunie Drive, Dundee, DD4 8PS<br />   
+      *Making Digital Work (Monday 16th May)<br />
+      *Making Digital Everyday (Thursday 19th May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>East Dunbartonshire: East Dunbartonshire Voluntary Action</strong><br />
@@ -187,11 +190,11 @@ permalink: /onedigital/participants/dates
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Perth & Kinross: Perth & Kinross</strong><br /> 
-      Please contact Eilidh Little, One Digital Development Officer<br />
-      Office: 0146 325 1735<br />
-      Mobile: 07771 666 429<br />
-      <a href="mailto:onedigital@scvo.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
-      *Dates to be announced
+      01738 567076<br />
+      <a href="mailto:admin@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
+      <strong>Location:</strong> Gateway Centre, North Methven Street, Perth, PH1 5PP<br /> 
+      *Making Digital Work (Tuesday 10th May)<br />
+      *Making Digital Everyday (Wednesday 11th May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Renfrewshire: Engage Renfrewshire</strong><br />
@@ -218,8 +221,7 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>South Lanarkshire: Voluntary Action South Lanarkshire</strong><br /> 01698 300390<br />
       <a href="mailto:angus.lindsay@vaslan.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/VA_SLAN"><i class="fa fa-fw fa-twitter"></i></a><p><br />
-      <strong>Location:</strong> Voluntary Sector Support Centre, 155 Montrose Crescent, Hamilton, ML3 6LQ<br />  
-      *Making Digital Everyday (Tuesday 12th April)
+      *Training dates have already passed. Please contact the One Digital team for further information.  
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Stirlingshire: Stirlingshire Voluntary Enterprise Ltd</strong><br />
@@ -254,7 +256,7 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>West Renfrewshire: Engage Renfrewshire</strong><br /> 0141 876 9555<br />
       <a href="mailto:info@engagerenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced</p>
+      *Training dates have already passed. Please contact the One Digital team for further information.</p>
     </span>
   </div>
 
