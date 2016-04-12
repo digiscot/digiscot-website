@@ -37,19 +37,17 @@ For example, an employment support worker might decide to routinely support clie
  
 
 <strong>Senior Leadership Action Learning (Stream Three):</strong> 
-This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund two action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
+This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund three action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
 
 ![One Digital Timeline](/images/timeline.png)
 
-## New Developments- February 2016
-
-Our One Digital team has taken shape and is growing still as the project gains ground. Development Officers: Maddie and Eilidh are busy signing up Third Sector Interfaces (TSIs) across Scotland and we are happy to announce that we have recently appointed our trainers and facilitators. 
+## New Developments- April 2016
 
 <bold>You can follow the progress of Team One Digital by reading:</bold> <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a>
 
 ## Senior Leadership Action Learning
 
-The deadline for applications has now closed. If you'd still like to find out more about ALS please check our: 
+Senior leadership action learning is now well under way. If you'd still like to find out more about ALS please check our: 
 
 <a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
 
