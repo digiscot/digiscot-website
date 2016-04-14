@@ -752,7 +752,7 @@ Below is a list of the anchor organisations hosting One Digital training across 
       <div class="col-sm-4 col-front">
         <p class="text-center">
         
-        <img src="/images/anchor/scvo.png" alt="Perth & Kinross" class="img-circle avatar" />
+        <img src="/images/anchor/pkavs.png" alt="Perth & Kinross" class="img-circle avatar" />
         
         </p>
         <p class="text-center"><strong>Perth & Kinross</strong><br />
