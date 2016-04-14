@@ -189,8 +189,9 @@ permalink: /onedigital/participants/dates
       *Making Digital Everyday (Wed 4th May)<br />
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Perth & Kinross: Perth & Kinross</strong><br /> 
-      Agnieszka Lukacz<br />	
+      <p class="list-group-item-text"><strong>Perth & Kinross: PKAVS Third Sector and Volunteering Hubs</strong><br /> 
+      Agnieszka Lukacz<br />
+      Administration and Communications Assistant<br />	
       01738 567076<br />
       <a href="mailto:Agnieszka.Lukacz@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
       <strong>Location:</strong> Gateway Centre, North Methven Street, Perth, PH1 5PP<br /> 
