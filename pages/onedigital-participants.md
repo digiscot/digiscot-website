@@ -756,8 +756,9 @@ Below is a list of the anchor organisations hosting One Digital training across 
         
         </p>
         <p class="text-center"><strong>Perth & Kinross</strong><br />
-        Perth & Kinross Association of Voluntary Service Ltd<br />
-        Agnieszka Lukacz, Administration and Communications Assistant<br />
+        PKAVS Third Sector and Volunteering Hubs<br />
+        Agnieszka Lukacz<br /> 
+        Administration & Communications Assistant<br />
         01738 567076<br />
         <a href="mailto:Agnieszka.Lukacz@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         </p>
