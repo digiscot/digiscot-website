@@ -62,7 +62,6 @@ permalink: /onedigital/participants/dates
       <a href="mailto:julie.McGrath@ctsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
       <strong>Location:</strong> Forth Valley College, Alloa Campus, Devon Road Alloa, Clackmannanshire, FK10 1PX<br />
       *Making Digital Work (Wednesday 20th April)<br />
-      *Making Digital Everyday (Thursday 21st April)<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Dumfries and Galloway: Third Sector Dumgal</strong><br />
@@ -171,8 +170,7 @@ permalink: /onedigital/participants/dates
        <a href="mailto:Kayleigh@TheAyrshireCommunityTrust.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
        <a href="https://twitter.com/TAyrshireCT"><i class="fa fa-fw fa-twitter"></i></a></p><br />
        <strong>Location:</strong> The Ayrshire Community Trust 93 Princes Street, Ardrossan, KA22 8DQ<br />
-       <strong>*Tentative date*</strong> Making Digital Work (Monday 18th April)<br />
-       <strong>*Tentative date*</strong> Making Digital Everyday (Tuesday 19th April)<br />
+       *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>North Lanarkshire: Voluntary Action North Lanarkshire</strong><br /> 01236 748011<br />
@@ -204,7 +202,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:SMiller@EngageRenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Engage Renfrewshire, 10 Falcon Cres, Paisley PA3 1NS<br />
-      *Making Digital Work (Tuesday 12th April)<br />
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Shetland: Voluntary Action Shetland</strong><br />

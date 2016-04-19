@@ -19,6 +19,8 @@ One Digital aims to create a model of continuous Basic Digital Skills sharing th
 
 ## What training and support is available?
 
+<strong> If you or your organisation want to find out more about One Digital training sessions taking place near you, please take a look at our [training dates](http://digital.scvo.org.uk/onedigital/participants/dates) page for dates, venues and contact details.<br /> 
+
 <div class="panel panel-default">
 
   <div class="panel-heading"><strong>Option 1. Making Digital Work</strong></div>
