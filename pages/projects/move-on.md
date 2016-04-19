@@ -69,26 +69,6 @@ We are encouraging our learners to participate in the Six Book Challenge and to 
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+By the end of the project, our tutors had supported 54 people.  Of these, 25 improved their IT skills, 30 gained an SQA Award (Employability, Personal Development and/or Core Skills), with 7 gaining employment, 4 college places and 12 training. 42 reported increased confidence.  As a result of the funding, IT is now embedded in Move On's literacy, numeracy and employability support.
 
-### Outputs and outcomes
 
-Overall this project X, Y, Z.
-
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
-
-### Lessons learned
-
-Things that worked well:
-
-1. Text
-2. Text
-3. Text
-
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
