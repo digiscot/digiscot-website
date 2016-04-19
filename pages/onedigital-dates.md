@@ -184,7 +184,7 @@ permalink: /onedigital/participants/dates
       01856 872897<br />
       <a href="mailto:enquiries@vaorkney.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      <strong>Location:</strong> St Magnus Centre, Palace Road, Kirkwall, KW15 1PA<br />
+      <strong>Location:</strong> Kirkwall Town Hall, Broad Street Kirkwall KW15 1DH<br />
       *Making Digital Work (Tuesday 3rd May)<br />
       *Making Digital Everyday (Wed 4th May)<br />
     </span>
