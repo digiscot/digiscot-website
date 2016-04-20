@@ -83,15 +83,18 @@ We now have a service that is available to those with the capacity to understand
 
 We have work to do on 
 
--marketing it effectively
+- marketing it effectively
 
--identifying who we liaise with in Edinburgh Council HSC Dept about this service follow the considerable restructuring and loss of former contacts.
+- identifying who we liaise with in Edinburgh Council HSC Dept about this service follow the considerable restructuring and loss of former contacts.
 
--being able to recruit additional Digital Support Workers with PVG scheme membership as need arises.
+- being able to recruit additional Digital Support Workers with PVG scheme membership as need arises.
 
--once the service is established i.e. has been in operation on a regular basis for a year for at least 20 customers, we need to consider how we can address the issues involved in extending it to those who don't have the capacity to understand its terms and conditions e.g through those with Power of Attorney for them.
+- once the service is established i.e. has been in operation on a regular basis for a year for at least 20 customers, we need to consider how we can address the issues involved in extending it to those who don't have the capacity to understand its terms and conditions e.g through those with Power of Attorney for them.
 
 ### Links
+
 [Online Shopper Service presentation to potential service users.](https://docs.google.com/presentation/d/1UAXelZhsBqrqZxaQIv36HB4bD4uj3yC_4dqQlcaiU2g/edit?usp=sharing)
+
 [Shopper Service Terms and Conditions](https://docs.google.com/document/d/1iDZhjr4QAc_7eUXUH06kr9DXMhoCozopXyvyqFxwh1g/edit?usp=sharing)
+
 [Online Shopper - summary of 10 of the Sessions (anonymised).](https://docs.google.com/document/d/1l9fOfoYN8A0qjTgazlOKLmc36hc1ujiz-tjo0Qr1Q3Y/edit?usp=sharing)
