@@ -64,7 +64,7 @@ Supported 4 people. 1 person able to shop online independently, 1 who is likely 
 #### Goal
 Minimise the risk of financial abuse or of putting the Online Shopper 'helpers' in a vulnerable position e.g. through use of a prepayment card, seeking legal advice as appropriate.
 
-#### Actual outcome:
+#### Actual outcome
 We did contact Asda and got information on prepayment cards but didn't see them as a workable option in practice - would add another layer of complication to the process, where it needs to be as simple as possible. Similarly for other options we considered including Tap IT handling payments & recharging tenants/service users. But could we take the risk of assisting tenants to use their own payment cards? We decided to get legal advice. With the help of Alastair Keatinge, Head of Charities and Social Enterprise at Lindsay's Solicitors, we agreed a risk management plan which included
 
 - applying for Protection of Vulnerable Group (PVG) scheme membership for Digital Support Workers who would be delivering the Online Shopper Service. This involved getting the approval of Disclosure Scotland, after a process of negotiation through several emails and phone calls, to add this job role to those for which a PVG can be requested. 
