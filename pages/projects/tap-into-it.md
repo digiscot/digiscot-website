@@ -45,9 +45,12 @@ We’re planning to provide an online shopper service via designated and trained
 * New service can be replicated elsewhere with potential to free up Social Care staff and family time for other purposes or clients
 
 ### Evaluation
-### Goal:Support 6 older people, 2 of whom would be able to shop online with little or no ongoing support by the end of the pilot and 4 who would be able to do so with ongoing help.
+
+### Goal: Support 6 older people, 2 of whom would be able to shop online with little or no ongoing support by the end of the pilot and 4 who would be able to do so with ongoing help.
+
 ### Actual outcome:Supported 4 people. 
 1 person able to shop online independently, 1 who is likely to do so at the computer club, where help is available if need be and 2 who are involved in the whole process but with someone there to help.
+
 ### How we got there including lessons learnt.
 - 2 meetings with members of Lynedoch Place computer club to discuss the idea of the service, who it was for? concerns? how do we let folk know about it? what else do we need to sort out? Through this, 3 club members volunteered as 'guinea pigs'. Also suggested an approach to 2 other tenants who are now housebound and dependant on others to do their shopping. It turned out that these 2 tenants were too unsure about the proposed service and declined. We decided to focus on developing the service with those ready to help us do so. The circumstances of one of our testers changed, meaning that she was unavailable for the duration of our 'pilot', but we managed to recruit another 2 shoppers from our other clubs. **Lesson learnt:** the importance of potential Service User input right from the start in designing a service that is really geared towards their needs as well as tapping into the enormous help they can offer in finding solutions to problems and overcoming obstacles.
 - We also kept the Co-ordinator of Lynedoch and the Senior Management of the Housing Association fully informed and had their full support through the whole process, which has been crucial to the progress of it.
