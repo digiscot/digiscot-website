@@ -43,7 +43,9 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 ## New Developments- April 2016
 
-<bold>You can follow the progress of Team One Digital by reading:</bold> <a href="http://www.scvo.org.uk/blog/gearing-up-for-one-digital/" class="btn btn-primary btn-lg">Beth's blog</a>
+<bold>You can follow the progress of Team One Digital by reading:</bold> 
+
+<a class="btn btn-primary btn-lg" href="http://www.scvo.org.uk/blog/one-digital-project-our-progress-so-far/">Beth's blog</a>
 
 ## Senior Leadership Action Learning
 
