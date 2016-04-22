@@ -67,6 +67,15 @@ This month we have also purchased two laptops which can be used who cannot bring
 
 Our courses were announced in our January newsletter and within a week and a half they were both fully booked! We are holding two sessions, one in Kingussie and one in Grantown. 
 
+* April 2016
+Both of our courses were well attended & enjoyed by all students involved! Due to the early Easter it took a little while to reorganise the next set of classes but the Kingussie class began in March & the Grantown class will start in May. 
+
+Here are some of this things our students have said about the classes: 
+"The classes have extended my computer vocabulary!"
+"The tutor was very pateint with us all and I now feel a little wiser over a range of subjects " 
+"I'm more aware of the dangers of using the internet - and would like to learn more!" 
+"The course was very helpful and informative - the tutor was good at dealing with a class of people of different standards"
+
 ### Evaluation
 
 
