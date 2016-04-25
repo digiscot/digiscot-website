@@ -40,27 +40,22 @@ By the time this second round of training took place, two Trust website administ
 The second weekend of on island training was also well attended, with some returning students as well as new islanders who had heard how helpful the initial training had been. From the needs analyses from the previous evaluations the workshops this time covered Word (recap and next steps), Excel (recap and next steps), Social media, apps and other devices and a final session specifically to answer questions from the Trust regarding the new website. A number of islanders benefitted from the opportunity for one to one sessions with an expert and once again the evaluations were very positive. 
 
 ## Evaluation
+This has been a very valuable project, which will continue to grow beyond the grant period as participants' confidence with using technology continues to increase the scope of our new website.
 
-This is where the project lead will share information about what was achieved and what was learned.
 
 ### Outputs and outcomes
+Our project has benefitted both the community and COHT.
+Community: The format for both weekends of community training worked very well: formal sessions covering the main topics (identified by the community prior to the weekend through an open questionnaire) and informal drop-in sessions for one to one tutorials. This format also encouraged skills exchange within the community as well as identifying mainland support for the future, covering hardware/software support as well as tutorial support.
+Evaluations from the events were very positive: 
+'Everything about this course was good. It was great to be able to ask questions about things you don't understand.'
+'I would hope that trainers would come back on an annual basis to keep us up to date. The course was much more than I expected and I am very grateful to COHT who organised it.'
+'A very informative two days - friendly and helpful trainers - just what the island needed!'
+'Trainers managed a large group of learners at different levels of knowldge and understanding.'
 
-Overall this project X, Y, Z.
+Colonsay and Oransay heritage Trust: Training specific to the Trust, for setting up our new website, was delivered off island at Napier University, through an intensive one day course and ad hoc telephone support. We also took on the services of an IT systems consultant for additional online and telephone support for the initial setup of our new website. Those trained are now the administrators for the site and are now in a position to provide community training to allow others to contribute to the site.
 
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
 ### Lessons learned
 
-Things that worked well:
-
-1. Text
-2. Text
-3. Text
-
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
+Initially we had hoped that some website training would happen via Skype, however our broadband proved too intermittent and speed too slow to make this a realistic proposition. We look forward to the autumn, when we hope to have access to superfast broadband via microwave. But although this will be an enormous improvement on our current system, particularly in our remote situation, we have learned that this is not a substitute for real live trainers on the island.
+The training islanders have now undertaken has opened the door to progressing this in the future. As the speed of development of technology increases, the community feel it is importand that we do not get left behind, but take it upon ourselves to keep up to date. There is now a greater feeling of confidence among the community - a great benefit to the Trust too. 
