@@ -20,9 +20,7 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>Aberdeen city: i-connect North East</strong><br />
       01224 583939<br />
       <a href="mailto:info@i-connectnortheast.org"><i class="fa fa-fw fa-envelope"></i></a><a href="https://twitter.com/icneAberdeen"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      <strong>Location:</strong> Arts Centre & Theatre, 33 King Street Aberdeen AB24 5AA<br />
-      *Making Digital Work (Tues 26th April)<br />
-      *Making Digital Everyday (Wed 27th April)<br />
+      *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Aberdeenshire: Aberdeenshire Voluntary Action</strong><br /> 
@@ -60,8 +58,7 @@ permalink: /onedigital/participants/dates
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Clackmannanshire: Clackmannanshire TSI</strong><br /> 01259 213840<br />
       <a href="mailto:julie.McGrath@ctsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
-      <strong>Location:</strong> Forth Valley College, Alloa Campus, Devon Road Alloa, Clackmannanshire, FK10 1PX<br />
-      *Making Digital Work (Wednesday 20th April)<br />
+      *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Dumfries and Galloway: Third Sector Dumgal</strong><br />
@@ -85,7 +82,8 @@ permalink: /onedigital/participants/dates
       0141 578 6680<br />
       <a href="mailto:info@edva.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/EastDunVA"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      *Making Digital Work (Tuesday 24th May)
+      *Making Digital Everyday (Tuesday 31st May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>East Lothian: STRiVE</strong><br />
@@ -133,14 +131,8 @@ permalink: /onedigital/participants/dates
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Highland: Highland Third Sector Partnership</strong><br /> 01349 864289<br />
       <a href="mailto:info@highlandtsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      <strong>Location: Inverness</strong>, SCVO, Fairways House, Fairways Business Park, Castle Heather, Inverness, IV2 6AA<br />  
-      *Making Digital Work (Tuesday 26th April)<br />
-      *Making Digital Everyday (Wednesday 27th April)<br />
-      <br />
-      <strong>Location:Skye</strong>, Council Chambers, Tigh-na-Sgire, Park Lane, Portree, IV51 9GP<br />
-      *Making Digital Work (Thursday 28th April)<br />
-      *Making Digital Everyday (Friday 29th April)
+        <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br /> 
+      *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Inverclyde: CVS Inverclyde</strong><br />
@@ -153,29 +145,28 @@ permalink: /onedigital/participants/dates
       0131 663 9471<br />
       <a href="mailto:Lesley.Kelly@mvacvs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      *Dates to be announced
+      *Making Digital Work (Thursday 26th May)<br />
+      *Making Digital Everyday (Tuesday 31st May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Moray: tsiMORAY</strong><br />
       01343 541713<br />
       <a href="mailto:info@tsimoray.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/tsiMORAY"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      <strong>Location:</strong> Inkwell, Francis Place, Elgin, Moray, IV30 1LQ<br />
-      *Making Digital Work (Friday 22nd April)<br />
-      *Making Digital Everyday (Monday 25th April)<br /> 
+      *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>North Ayrshire: Ayrshire Community Trust</strong><br />
        01294 443044<br />
        <a href="mailto:Kayleigh@TheAyrshireCommunityTrust.co.uk"><i class="fa fa-fw fa-envelope"></i></a>
        <a href="https://twitter.com/TAyrshireCT"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-       <strong>Location:</strong> The Ayrshire Community Trust 93 Princes Street, Ardrossan, KA22 8DQ<br />
        *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>North Lanarkshire: Voluntary Action North Lanarkshire</strong><br /> 01236 748011<br />
       <a href="mailto:douglas.milne@vanl.co.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
-      *Dates to be announced
+      *Making Digital Work (Thursday 12th May)<br />
+      *Making Digital Work (Friday 20th May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Orkney: Voluntary Action Orkney</strong><br />
@@ -201,7 +192,6 @@ permalink: /onedigital/participants/dates
       0141 887 7707<br />
       <a href="mailto:SMiller@EngageRenfrewshire.com"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/EngageNews1"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-      <strong>Location:</strong> Engage Renfrewshire, 10 Falcon Cres, Paisley PA3 1NS<br />
       *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
@@ -250,7 +240,8 @@ permalink: /onedigital/participants/dates
        01506 650111<br />
        <a href="mailto:jim.mcgregor@vsgwl.org"><i class="fa fa-fw fa-envelope"></i></a>
        <a href="https://twitter.com/VSGWL"><i class="fa fa-fw fa-twitter"></i></a></p><br />
-        *Dates to be announced
+       *Making Digital Work (Thursday 19th May)<br />
+       *Making Digital Everyday (Friday 20th May)
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>West Renfrewshire: Engage Renfrewshire</strong><br /> 0141 876 9555<br />
