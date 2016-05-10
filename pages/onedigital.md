@@ -41,11 +41,11 @@ This stream will support Senior Staff and Trustees who are keen to change the wa
 
 ![One Digital Timeline](/images/timeline.png)
 
-## New Developments- April 2016
+## Local Evaluation Partner
 
-<bold>You can follow the progress of Team One Digital by reading:</bold> 
+We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. If you would like to find out more please click on the button below and send your response to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by 3rd June 2016. 
 
-<a class="btn btn-primary btn-lg" href="http://www.scvo.org.uk/blog/one-digital-project-our-progress-so-far/">Beth's blog</a>
+<a class="btn btn-primary btn-lg" href="/files/Project Evaluation brief.pdf">Project Evaluation Brief</a> 
 
 ## Senior Leadership Action Learning
 
