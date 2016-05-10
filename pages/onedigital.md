@@ -20,27 +20,6 @@ Each of the partners will run a project which will equip trusted intermediaries 
 <iframe src="https://player.vimeo.com/video/153124565" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/153124565">SCVO and the One Digital Programme</a> from <a href="https://vimeo.com/onedigitalprogramme">One Digital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## How One Digital is different
-
-In Scotland we want to use the project to understand the most effective way to increase the Basic Digital Skills of the third sector and the people charities and voluntary organisations support. One Digital Scotland is therefore a test and learn project and we will try the following three approaches:
-
-<strong>Making Digital Work (Stream One):</strong>
-With the help of an ‘anchor’ organisation we will identify 10 organisations in each local authority area to participate in face-to-face and online training. This will aim to improve the Basic Digital Skills of the staff and volunteers in the organisation. These participants will form a network of ‘Digital Champions’ and receive support from our Development officers to identify areas for improvement and delivering changes in their organisation.  
-
-For example, a project manager from a community allotment project decides to set up a Facebook group to collect photos of volunteers' horticultural achievements.  
- 
-
-<strong>Making Digital Everyday (Stream Two):</strong>
-With the help of an ‘anchor’ organisation we will identify staff/volunteers with good digital skills from 10 different organisations in each local authority area. These participants will be supported through face-to-face and online training, to then pass their skills on to the people they are already working with. These participants will also join the ‘Digital Champion’ network and receive support to help their organisation pass on basic digital skills to their end users. 
-
-For example, an employment support worker might decide to routinely support clients to set up a LinkedIn profile.     
- 
-
-<strong>Senior Leadership Action Learning (Stream Three):</strong> 
-This stream will support Senior Staff and Trustees who are keen to change the way their organisation responds to gaps in the Basic Digital Skills of their staff, volunteers and end users. One Digital will fund three action learning sets to meet on a monthly basis over the course of the project and support Senior Leaders to tackle the complex strategic and operational challenges that they face together. 
-
-![One Digital Timeline](/images/timeline.png)
-
 ## Local Evaluation Partner
 
 We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. If you would like to find out more please click on the button below and send your response to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by 3rd June 2016. 
