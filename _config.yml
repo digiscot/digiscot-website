@@ -2,7 +2,7 @@
 title: SCVO | Digital Participation
 description: We think the internet should be for everyone, so we're leading an ambitious programme to promote digital participation and basic online skills.
 url: "http://digital.scvo.org.uk"
-permalink: /blog/:title/
+permalink: /onedigital/blog/:title/
 
 # Account settings
 twitter: digiscot
