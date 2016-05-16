@@ -1,6 +1,6 @@
 ---
-layout: page
-title: One digital
+layout: page-onedigital
+title: One Digital
 excerpt: Building digital skills in the charity and voluntary sector.
 permalink: /onedigital/
 ---
@@ -13,7 +13,7 @@ This activity is part of a wider two million pound [One Digital](https://www.big
 
 Each of the partners will run a project which will equip trusted intermediaries to act as ‘Digital Champions’, able to support a wide range of people to develop their Basic Digital Skills.  The Digital Champions will, for example, demonstrate the use of Skype to an older person to help them stay in touch with grandchildren and family or provide a young person with the skills to search for work and complete an online CV.
 
-<strong>If you or your organisation are interested in participating in the training and receiving the ongoing support that One Digital offers, please take a look at our [participants page](/onedigital/participants) for dates and contact details.</strong> 
+<strong>If you or your organisation are interested in participating in the training and receiving the ongoing support that One Digital offers, please take a look at our [participants page](/onedigital/participants) for dates and contact details.</strong>
 
 ### SCVO and One Digital
 
@@ -22,21 +22,21 @@ Each of the partners will run a project which will equip trusted intermediaries 
 
 ## Local Evaluation Partner
 
-We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. If you would like to find out more please click on the button below and send your response to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by 3rd June 2016. 
+We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. If you would like to find out more please click on the button below and send your response to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by 3rd June 2016.
 
-<a class="btn btn-primary btn-lg" href="/files/Project Evaluation brief.pdf">Project Evaluation Brief</a> 
+<a class="btn btn-primary btn-lg" href="/files/Project Evaluation brief.pdf">Project Evaluation Brief</a>
 
 ## Senior Leadership Action Learning
 
-Senior leadership action learning is now well under way. If you'd still like to find out more about ALS please check our: 
+Senior leadership action learning is now well under way. If you'd still like to find out more about ALS please check our:
 
-<a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a> 
+<a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a>
 
 ## Anchor Organisations
 
-For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our: 
+For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our:
 
-<a class="btn btn-primary btn-lg" href="/onedigital/anchor/">Anchor page</a> 
+<a class="btn btn-primary btn-lg" href="/onedigital/anchor/">Anchor page</a>
 
 ## Participants
 
@@ -44,8 +44,8 @@ Are you and your organisation interested in taking part in our programme? If you
 
 <a class="btn btn-primary btn-lg" href="/onedigital/participants">Participant page</a>
 
-If you have any questions please tweet us at: 
- 
+If you have any questions please tweet us at:
+
 [@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
 [@starkmadelaine](https://twitter.com/StarkMadelaine) [Development Officer South]   
 [@littleeilidh](https://twitter.com/LittleEilidh) [Development Officer North]  

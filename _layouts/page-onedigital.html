@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+
+            <h1>{{ page.title }}</h1>
+
+            {% if page.excerpt %}
+            <p class="lead">{{ page.excerpt }}</p>
+            {% endif %}
+
+            {% if page.alert %}
+            <div class="alert alert-warning" role="alert"><p><i class="fa fa-info-circle"></i> {{ page.alert }}</p></div>
+            {% endif %}
+
+            {{ content }}
+
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Blog</h2>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12" id="timeline">
+            <div id="timeline-line">
+            </div>
+
+            <ol id="timeline">
+                {% for post in site.posts %}
+                <li class="item masonry-brick"><span class="corner"></span>
+
+                    {% capture tags %}
+                    {% for tag in post.tags %}
+                    {{ tag }}
+                    {% endfor %}
+                    {% endcapture %}
+
+                    {% assign sortedtags = tags | split:' ' | sort %}
+
+                    <article>
+                        <p><a href="{{ post.url }}">{{ post.title }}</a><br /><small>&mdash; by {% if post.authorlink %}<a href="{{ post.authorlink }}">{{ post.author }}</a>{% else %}{{ post.author }}{% endif %} on {{ post.date | date: "%d %B %Y" }} {% for tag in sortedtags %} <a href="/tags/#{{ tag }}">#{{ tag }}</a>{% endfor %}</small></p>
+                        <p>{{ post.excerpt }} <small><a href="{{ post.url }}">Read more &raquo;</a></small></p>
+                    </article>
+
+                </li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+</div>

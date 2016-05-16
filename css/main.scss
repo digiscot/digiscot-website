@@ -38,47 +38,47 @@ $spacing-unit:                    30px;
 
 
 
-// Base styles 
+// Base styles
 
 html, body {
-  height: 100%;
+    height: 100%;
 }
 
-body { 
-  font-family:                    $base-font-family;
-  font-size:                      $base-font-size;
-  font-weight:                    $base-font-weight;
-  color:                          $base-font-color;  
+body {
+    font-family:                    $base-font-family;
+    font-size:                      $base-font-size;
+    font-weight:                    $base-font-weight;
+    color:                          $base-font-color;
 }
 
 h1 {
-  font-family:                    $h1-font-family;
-  font-size:                      $h1-font-size;
-  font-weight:                    $h1-font-weight;
-  color:                          $h1-font-color;
+    font-family:                    $h1-font-family;
+    font-size:                      $h1-font-size;
+    font-weight:                    $h1-font-weight;
+    color:                          $h1-font-color;
 }
 
 h2, h3, h4, h5, h6 {
-  font-weight:                    $h-font-weight;
-  color:                          $h-font-color;
+    font-weight:                    $h-font-weight;
+    color:                          $h-font-color;
 }
 
 p, li {
-  font-size:                      $base-font-size;
+    font-size:                      $base-font-size;
 }
 
 .lead {
-  font-size:                      175%;
-  color:                          $h1-font-color;
+    font-size:                      175%;
+    color:                          $h1-font-color;
 }
 
 blockquote {
-  margin-top: $spacing-unit;
-  margin-bottom: $spacing-unit;
-  font-family: serif;
-  p {
-  font-size: 150%;
-  }
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+    font-family: serif;
+    p {
+        font-size: 150%;
+    }
 }
 
 
@@ -86,45 +86,45 @@ blockquote {
 // Links and buttons
 
 a {
-  color:                          $brand-color;
+    color:                          $brand-color;
 }
 
 a:hover {
-  color:                          $brand-color-hover;
+    color:                          $brand-color-hover;
 }
 
 a:hover fa {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 .btn-primary {
-  background-color:               $brand-color-button;
-  border-color:                   $brand-color-button-border;
+    background-color:               $brand-color-button;
+    border-color:                   $brand-color-button-border;
 }
 
 .btn-primary:hover {
-  background-color:               $brand-color-button-hover;
-  border-color:                   $brand-color-button-border-hover;  
+    background-color:               $brand-color-button-hover;
+    border-color:                   $brand-color-button-border-hover;
 }
 
 .labs {
-  color:                          #FF0066;
+    color:                          #FF0066;
 }
 
 .labs:hover {
-  color:                          #FF1975;
+    color:                          #FF1975;
 }
 
 .btn-labs {
-  color:                          #FFFFFF;
-  background-color:               #FF0066;
-  border-color:                   #CC0052;
+    color:                          #FFFFFF;
+    background-color:               #FF0066;
+    border-color:                   #CC0052;
 }
 
 .btn-labs:hover {
-  color:                          #FFFFFF;
-  background-color:               #E6005C;
-  border-color:                   #B20047;  
+    color:                          #FFFFFF;
+    background-color:               #E6005C;
+    border-color:                   #B20047;
 }
 
 
@@ -132,48 +132,48 @@ a:hover fa {
 // Spacing
 
 h2 {
-  margin-top: $spacing-unit * 2;
-  margin-bottom: $spacing-unit;
-  padding-bottom: $spacing-unit / 2;
-  border-bottom: 1px solid #EEEEEE;
+    margin-top: $spacing-unit * 2;
+    margin-bottom: $spacing-unit;
+    padding-bottom: $spacing-unit / 2;
+    border-bottom: 1px solid #EEEEEE;
 }
 
 h3 {
-  margin-top: $spacing-unit * 1.5;
+    margin-top: $spacing-unit * 1.5;
 }
 
 h4, h5, h6 {
-  margin-top: $spacing-unit;
+    margin-top: $spacing-unit;
 }
 
 .btn-lg, .input-lg {
-  margin-top: $spacing-unit / 3;
-  margin-bottom: $spacing-unit / 3;
+    margin-top: $spacing-unit / 3;
+    margin-bottom: $spacing-unit / 3;
 }
 
 .col-front, form {
-  margin-top: $spacing-unit;
-  margin-bottom: $spacing-unit;
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }
 
 .p-index {
-  margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }
 
 .smallprint {
-  line-height: 1.2;
+    line-height: 1.2;
 }
 
 h4.comments {
-  margin-top: $spacing-unit * 2;
+    margin-top: $spacing-unit * 2;
 }
 
 #disqus_thread {
-  margin-bottom: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 2;
 }
 
 .p-tags {
-  line-height: 1.8;
+    line-height: 1.8;
 }
 
 
@@ -181,82 +181,82 @@ h4.comments {
 // Images
 
 img {
-  max-width: 100%;
-  margin-top: $spacing-unit / 2;
-  margin-bottom: $spacing-unit / 2;
+    max-width: 100%;
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
 }
 
 img.charter {
-  width: 156px;
-  height: auto;
-  vertical-align: middle;
-  margin: $spacing-unit;
+    width: 156px;
+    height: auto;
+    vertical-align: middle;
+    margin: $spacing-unit;
 }
 
 img.charter-page {
-  width: 156px;
-  height: auto;
-  vertical-align: middle;
-  margin-right: $spacing-unit;
+    width: 156px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: $spacing-unit;
 }
 
 img.avatar {
-  width: 128px;
-  height: 128px;
+    width: 128px;
+    height: 128px;
 }
 
 img.logo {
-  height: $spacing-unit * 1.5;
+    height: $spacing-unit * 1.5;
 }
 
 #_ba_corner img {
-  margin-top: 0px;
-  margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 
 // Other
 
 .splash {
-  margin-top: -20px;
-  margin-bottom: 20px;
-  padding-top: $spacing-unit;
-  // min-height: 100%;
-  background-color: #b9e0f1;
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-image: url('/images/splash.jpg');
-  
-  .jumbotron {
-    background-color: rgba(255, 255, 255, 0.8);
-    margin-bottom: $spacing-unit / 2;  
-  }
-  
-  h1 {
-    font-weight: bold;
-    color: #345476;
-    text-shadow: 0px 1px 1px rgba(255, 255, 255, 1);
-    margin-bottom: $spacing-unit / 1.5;
-  }
-  
-  p {
-    color: #000000;
-  }
-  
-  img {
-    width: $spacing-unit * 4;
-    margin-bottom: $spacing-unit / 2;
-  }
-  
+    margin-top: -20px;
+    margin-bottom: 20px;
+    padding-top: $spacing-unit;
+    // min-height: 100%;
+    background-color: #b9e0f1;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('/images/splash.jpg');
+
+    .jumbotron {
+        background-color: rgba(255, 255, 255, 0.8);
+        margin-bottom: $spacing-unit / 2;
+    }
+
+    h1 {
+        font-weight: bold;
+        color: #345476;
+        text-shadow: 0px 1px 1px rgba(255, 255, 255, 1);
+        margin-bottom: $spacing-unit / 1.5;
+    }
+
+    p {
+        color: #000000;
+    }
+
+    img {
+        width: $spacing-unit * 4;
+        margin-bottom: $spacing-unit / 2;
+    }
+
 }
 
 .footer {
-  margin-top: $spacing-unit;
-  padding-top: $spacing-unit;
-  padding-bottom: $spacing-unit / 2;
-  border-top: 1px solid #EEEEEE;
-  background-color: #FBFBFB;
+    margin-top: $spacing-unit;
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit / 2;
+    border-top: 1px solid #EEEEEE;
+    background-color: #FBFBFB;
 }
 
 
@@ -264,15 +264,15 @@ img.logo {
 // Mobile optimisation
 
 @media screen and (max-width: 767px) {
-  .splash {
-    background-image: none;
-  }
-  h1 {
-    font-size: 36px;
-  }
-  .lead {
-    font-size: 150%;
-  }
+    .splash {
+        background-image: none;
+    }
+    h1 {
+        font-size: 36px;
+    }
+    .lead {
+        font-size: 150%;
+    }
 }
 
 
@@ -280,37 +280,136 @@ img.logo {
 // Experimental
 
 .wrapper {
-  width: 100%;
-  display: inline-block;
-  position: relative;
+    width: 100%;
+    display: inline-block;
+    position: relative;
 }
 .wrapper:after {
-  padding-top: 100%;
-  display: block;
-  content: '';
+    padding-top: 100%;
+    display: block;
+    content: '';
 }
 .fixed-ratio {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  background-color: deepskyblue;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: deepskyblue;
 }
 
 /* Nav Announcements */
 
 .announcement-heading {
-  font-size: 50px;
-  margin: 0;
+    font-size: 50px;
+    margin: 0;
 }
 
 .announcement-text {
-  margin: 0;
+    margin: 0;
 }
 
 .panel {
-  background-color: #27C478;
-  color: #0042A3;
-  margin-top: 70px;
+    background-color: #27C478;
+    color: #0042A3;
+    margin-top: 70px;
+}
+
+// Timeline
+
+#timeline-container {
+    position: relative;
+}
+
+#timeline-line {
+    background-color: #009E99;
+    height: 110%;
+    width: 4px;
+    position: absolute;
+    top: -30px;
+    bottom: 0px;
+    left: 48.55%;
+}
+
+#timeline {
+    width: 100%;
+    margin: 0;
+    list-style: none;
+
+    h1 {
+        font-size: 14px;
+        line-height: 14px;
+        margin-bottom: 10px;
+    }
+
+    .item {
+        width: 45%;
+        margin: 10px;
+        float: left;
+        background-color:#ffffff;
+        border:solid 1px #B4BBCD;
+        min-height: 50px;
+        word-wrap:break-word;
+        padding: 5px 10px;
+
+        ol {
+            list-style: none;
+            margin: 0px;
+            font-size: 12px;
+        }
+
+        li {
+            line-height: 15px;
+            margin-bottom: 5px;
+        }
+    }
+
+    .gravatar {
+        height: 80px;
+        float: left;
+    }
+
+    .date {
+        float: right;
+    }
+
+    .prominent {
+        width: 600px;
+        text-align: center;
+        padding-left: 300px;
+
+        > div {
+            width: 220px;
+        }
+    }
+
+    #spinner {
+        height: 100px;
+        padding-left: 270px;
+    }
+
+    .item, .prominent {
+        margin-top: 20px;
+    }
+
+    .corner {
+        display: block;
+        height: 15px;
+        width: 13px;
+        padding: 0;
+        vertical-align: top;
+        z-index:2;
+        position: absolute;
+        margin-top: 8px;
+    }
+
+    li[data-align=l] .corner {
+        background: url("/images/onedigital/right.png") no-repeat top right;
+        margin-left: 398px;
+    }
+
+    li[data-align=r] .corner {
+        background: url("/images/onedigital/left.png") no-repeat top right;
+        margin-left: -23px;
+    }
 }
