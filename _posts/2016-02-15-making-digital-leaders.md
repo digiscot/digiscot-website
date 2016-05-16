@@ -25,7 +25,7 @@ All applicants were asked to identify the areas where they faced the biggest cha
 
 <img alt="Chart 3" height="204" src="//www.scvo.org.uk/wp-content/uploads/2016/02/Chart3-300x198.jpg" width="309" />
 
-We are going to run three separate sets to offer places to as many people as possible. We will also be rolling out networking events to build on the interest and demand, and to better understand why we didn’t receive more applications from trustees.
+We are going to run three separate sets to offer places to as many people as possible. We will also be rolling out networking events to build on the interest and demand, and to better understand why we didn't receive more applications from trustees.
 
 Our first sets will start next week, February 25<sup>th</sup>. The senior leaders who will be working together through this process will have the chance to tackle head on some of the thorny issues that can make it difficult to fully embrace digital.
 
