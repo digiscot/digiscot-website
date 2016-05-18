@@ -128,27 +128,40 @@ Delivered a session at Cantrybridge College to a new group of 6 but there will p
 •	Delivered a session to 6 students at Cantraybridge Ciollege and we looked at on line safety.  This covered downloading media, on line shopping and social networking.  We looked at anti- virus programmes and discussed what to do should their machine become infected.  We did explain that no matter how good the anti-virus is sometimes a virus will get through so how to identify possible entry points such as email or a social network message from someone they did not recognise. The group had obviously been speaking to the previous group and wanted to make calendars and as this is a good exercise that combines a number of programmes and tools we commenced with this and will continue at the next session.
 
 ## Evaluation
+Cantrabridge College 16
+Cheshire House 7
+Job club 9
+Shetland 2
 
-This is where the project lead will share information about what was achieved and what was learned.
+Overall this project worked with xxx individuals. This support comprised of some group and 1-1 sessions with 11 individuals with complex support needs. We provided support in the very basics from turning the computer on and using a key board and mouse, to how to use social media and e mails. As the individuals had complex support needs and physical limitations the sessions were slow paced and we also trained the advocates that were present as it would be these people that would be helping the individuals once we were gone. The sessions were all in groups as it was easier to manage the support requirements and also because the individuals all new each other which created a more supportive environment for learning. We also worked with 16 individuals in a College for people with disabilities though mostly learning difficulties. Prior to commencement we asked them what they wanted to get out of the sessions and many wanted to be able to search the net,  use e mails and download images etc. From the feedback we got we created training and information sessions for the individuals. The sessions were at their college and split into 3 small groups depending on the topic and facilitated by a couple of members of staff as well as a LCD staff member.  We also went to the Shetland Islands and worked with two individuals who were digitally and geographically isolated. For one of the individuals we have secured a lap top to increase his independence and another we have facilitated some help for him to use the internet and get an e mail account. This gentleman has very limited verbal communication and it is hoped that this will create a platform where he is more able to communicate with the wider world. We also worked with 9 individuals with a more focussed employment aspect. These were individuals who were actively job seeking but needed help with writing and storing their CV and sending it as an attachment as well as support filling in application forms.  We met these individuals at Highland Council job clubs and also gave informal job search support.  
+
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs we delivered group sessions and 1-1s. We ran training sessions to 6 groups comprising of 24 Each session was split over 3 days. We delivered 1-1 sessions to 11 individuals. 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+We have supported xx people become more digitally savvy. Some of the learning was through very small steps but feedback has been very good. We have asked all participants to complete a post training questionnaire and we are in the process of collating the responses. 
+
+Make sure that you ask what it is that participants wnat from the sessions you are delivering so that you can tailor the support. Give yourself enough time to be able to make the training specific to the individuals requirements. When working with individuals with significant support needs, make sure that the appropriate support is in place prior to the training. Both in terms of physical support and hardware and software. We were able to order computers that were adaptive to various disabilities which helped.
+
 
 ### Lessons learned
 
 Things that worked well:
 
-1. 
-2. 
-3. 
+1. Group sessions which provided a supportve environment for the learners. The group dynamics worked well.
+2. Style of delivery. We were slow paced and worked from the basics upwards. We asked what the individuals wanted before we started the training in order to tailor support.
+3. Making a calandar. Learners used clip art, word, downloaded images and a range of differing IT packages and skills which resulted in something tangible for the learners. They learnt a lot of different skills without necessarily knowing they did.
+
+ 
+ 
 
 Things that we would do differently next time:
 
-1. 
-2. 
+
+1. Make the training sessions more structured
+2. Expand what we delivered in more depth. As many of the 1-1s only happened once, we could only complete very specific tailored support and in many instances we could have gone into more depth on topics that came out as a result of the sessions.  
+
+
 
