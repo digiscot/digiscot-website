@@ -49,7 +49,15 @@ Our first recruits ^
 * Recruit and train 2 volunteers to support the delivery of further training: January 2016
 * We recruited 1 volunteer from Saheliya clients and a second volunteer who had already been helping with Digital Skills Academy's Use IT courses, but had experience of teaching ESOL.  Her experience is extremely useful and has allowed us to give 1-1 support to those who were finding learning more of a challenge.
 * 
+* 
 * Recruit and deliver the second round of courses: April 2016
+* 
+* Update:
+* 
+* Saheliya Celebration Event 1st June 2016
+* Here are our learners receiving their certificates at the Celebration Event
+* <blockquote class="imgur-embed-pub" lang="en" data-id="ceF9BHo"><a href="//imgur.com/ceF9BHo">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+* 
 * Recruit and deliver the third round of courses: August 2016
 * Train 2 staff members of Saheliya to become digital champions: October 2016
 
