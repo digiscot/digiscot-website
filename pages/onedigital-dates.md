@@ -39,8 +39,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:info@voluntaryactionangus.org.uk"><i class="fa fa-fw fa-envelope"></i></a> 
       <a href="https://twitter.com/volactionangus"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> 32-34 Guthrie Port, Arbroath, DD11 1RN<br />
-      *Making Digital Work (Monday 9th May)<br />
-      *Making Digital Everyday (Monday 23rd May)
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Argyll & Bute: Argyll & Bute TSI</strong><br />
@@ -110,8 +109,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:Laura@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
       <a href="https://twitter.com/CVSFalkirk"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Unit 6, The Courtyard, Callendar Business Park, Callendar Road, Falkirk FK1 1XR<br />
-      *Making Digital Work (Thursday 5th May)<br />
-      *Making Digital Everyday (Friday 6th May)<br />
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Fife: Fife Voluntary Action</strong><br />
@@ -125,8 +123,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:sallie.condy@gcvs.org"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/GlasgowCVS"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Glasgow TSI, 44 Ashley St, Glasgow, Lanarkshire G3 6DS<br />  
-      *Making Digital Everyday (Tuesday 26th April)<br />
-      *Making Digital Work (Friday 6th May)<br />
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Highland: Highland Third Sector Partnership</strong><br /> 01349 864289<br />
@@ -174,8 +171,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:enquiries@vaorkney.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/vaorkney"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Kirkwall Town Hall, Broad Street Kirkwall KW15 1DH<br />
-      *Making Digital Work (Tuesday 3rd May)<br />
-      *Making Digital Everyday (Wed 4th May)<br />
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Perth & Kinross: PKAVS Third Sector and Volunteering Hubs</strong><br /> 
@@ -185,7 +181,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:Agnieszka.Lukacz@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
       <strong>Location:</strong> Gateway Centre, North Methven Street, Perth, PH1 5PP<br /> 
       *Making Digital Work (Tuesday 10th May)<br />
-      *Making Digital Everyday (Wednesday 11th May)
+      *Making Digital Everyday (Wednesday 11th May)<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Renfrewshire: Engage Renfrewshire</strong><br />
@@ -199,8 +195,7 @@ permalink: /onedigital/participants/dates
        01595 743900<br />
        <a href="mailto:vas@shetland.org"><i class="fa fa-fw fa-envelope"></i></a></p><br />
        <strong>Location:</strong> Voluntary Action Shetland, Market House 14 Market Street Lerwick, ZE1 0JP<br />
-        *Making Digital Everyday (Fri 6th May)<br />
-        *Making Digital Work (Sat 7th May)<br />
+       *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>South Ayrshire: Voluntary Action South Ayrshire</strong><br /> 01292 432661<br />
@@ -232,8 +227,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:enquiries@tshebrides.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Third Sector Hebrides, 30 Francis Street, Stornoway, HS1 2ND<br />
-      *Tuesday 3rd May<br />
-      *Wednesday 4th May (further details to be announced)<br />	
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />	
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>West Lothian: Voluntary Sector Gateway West Lothian</strong><br />

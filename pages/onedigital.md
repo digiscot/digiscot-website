@@ -22,7 +22,7 @@ Each of the partners will run a project which will equip trusted intermediaries 
 
 ## Local Evaluation Partner
 
-We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. If you would like to find out more please click on the button below and send your response to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by 3rd June 2016. 
+We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. If you would like to find out more please click on the button below and send your response to [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) by <strong>3rd June 2016</strong>. 
 
 <a class="btn btn-primary btn-lg" href="/files/Project Evaluation brief.pdf">Project Evaluation Brief</a> 
 
