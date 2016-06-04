@@ -26,12 +26,6 @@ For the latest in One Digital news, blogs and resources, take a look at our edit
 
 <a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-559C24ADCD2257192540EF23F30FEDED">eBulletin- March 2016</a> <a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-DA087C0836F79ED32540EF23F30FEDED">eBulletin- May 2016</a>
 
-## Local Evaluation Partner
-
-We are looking to appoint a local evaluation partner to assist us with analysing and interpreting the evidence collected from the One Digital project at SCVO. The deadline for responses has now passed. If you would like to find out more please contact us at [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk)
-
-<a class="btn btn-primary btn-lg" href="/files/Project Evaluation brief.pdf">Project Evaluation Brief</a>
-
 ## Senior Leadership Action Learning
 
 Senior leadership action learning is now well under way. If you'd still like to find out more about ALS please check our:
