@@ -90,9 +90,20 @@ Added value: We realise that individuals accessing this programme are at a very 
 * 25 individuals will further enhance their IT skills through participation in a real work environment which allows them to use and build upon these new skills
 
 ### Evaluation
+Well our digital skills project 'IT Works for Me!' has now come to an end - what a whirlwind 6 months it has been.  Each course started as planned, which is always good, and each course was different, which is what happens with peronalisation and choice!  The feedback has been positive, here are a few examples:
+
+"Great course.  Very Informative." (Colin)
+"Course has been really good.  Had basic knowledge but can now use email and attachments. Lessons were good - not a rush." (Elaine)
+"I enjoyed the course and got to do the things I needed to apply for jobs." (Christine)
+
+Each course was designed to support the individual participant's needs, wants, and interests while covering basic digital skills for all.  Over the 5 courses we engaged with 40 members of the local community and helped them gain valuable skills that have enhanced their employability and social skills.  People who completed the 'IT Works for Me!' course then had the opportunity to participate in our popular PC Build course.  This allowed 25 people the chance to build their own PC and take it home with them.  A number of people then decided to volunteer with us due the positive experience they had on our course. Altogether we gained 6 ne volunteers who continue to develop their personal, social, and employability skills.
 
 
 ### Lessons learned
+* Personalisation and choice has proven to be exceedingly popular and should be inbuilt in course design
+* Employability and social digital skills are 2 distinct areas but with a large overlap in general health and wellbeing.
+* The length of the course was probably a week too long for most people.  A shorter course would be more focused while still allowing for personalisation and choice.
+* Project was an excellent vehicle for professional development of modern apprentice.
 
 
 
