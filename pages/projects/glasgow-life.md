@@ -52,8 +52,9 @@ Structure, approach, materials, lessons learned and next steps are agreed, packa
 27/11/15
 Project review and evaluation. Final assessment and evaluation of the project, report back to the SCVO, update the project page to reflect final outcomes and share learning with local partners. Lastly, agree final steps in the programme developments. 
 
-##Project Progress 
-As of the 17/08/15 the Glasgow Life Moodle has been implemented and the course content has began to be moved accross to this platform. The initial expectation that the resource would be able to be piloted by the 28/08/15 has been reconsidered, as the content has been expanded to cover a wider range of topic areas. All content is expected to be on the resource by the 04/09/15, at this stage it will be evaluated by Glasgow Life's Digital Tutors. Once this inital evaluation has taken place the project will be piloted with users. Adding in this extra set of inital evaluations that was not previously considered will help in establishing any areas of the resource that need furhter work before it is given to frontline staff.  
+## Project Progress 
+
+As of the 17/08/15, the Glasgow Life Moodle has been implemented and the course content has began to be moved accross to this platform. The initial expectation that the resource would be able to be piloted by the 28/08/15 has been reconsidered, as the content has been expanded to cover a wider range of topic areas. All content is expected to be on the resource by the 04/09/15, at this stage it will be evaluated by Glasgow Life's Digital Tutors. Once this inital evaluation has taken place the project will be piloted with users. Adding in this extra set of inital evaluations that was not previously considered will help in establishing any areas of the resource that need furhter work before it is given to frontline staff.  
 
 Glasgow Kelvin College is providing members of staff to aid in the initial set up of the Moodle. They are providing help with the Moodle platform and how best to use this educational tool, as well as allowing us to host the Glasgow Life Moodle on their servers. 
 
