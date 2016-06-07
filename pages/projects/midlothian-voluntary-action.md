@@ -172,16 +172,17 @@ Sure Start were tweeting about the training:
 
 ### Outputs and outcomes 
 
-####Overall this project:
-Achieved its aims. We trained 159 people from 62 organisations after planning to train 43 organisations. 
+#### Overall this project:
+Achieved its aims. We trained 159 people from 62 organisations after planning to train 43 organisations.
 
-####In terms of outputs we delivered:
+
+#### In terms of outputs we delivered:
 
 A non-time intensive training session and learner’s guide to Basic Digital Skills that allowed front line staff and volunteers to upskill their clients and service users.
 
 Upskilling of staff’s own Basic Digital Skills.
 
-####In terms of outcomes for the people and groups we care about, this project has:
+#### In terms of outcomes for the people and groups we care about, this project has:
 
 Given frontline staff and volunteers the skills and resources they need to give their clients basic digital skills.
 We know this from feedback from the organisations:
@@ -195,10 +196,10 @@ We know this from feedback from the organisations:
 "It was a really useful training session. The volunteers fed back that they were much more confident about introducing their clients to technology and the internet. It was delivered at exactly the right pace and all the questions were answered well and with assurance."
 
 ### Lessons learned 
-####Things that worked well: 
+#### Things that worked well: 
 
 Short (40 minute) training sessions delivered after staff or volunteer meetings
 Getting staff to change their own online usage. Explaining the cloud was a major hook for staff and volunteers, feedback was many of them started using it themselves.
 
-####Things that we would do differently next time: 
+#### Things that we would do differently next time: 
 Improve the promotion – the concept of upskilling was difficult to explain
