@@ -42,7 +42,7 @@ Summer school poster:
 
 ## Evaluation
 
-###**Inverness Prison Project**
+### **Inverness Prison Project**
 
 ### Overview
 
@@ -72,7 +72,7 @@ Things that worked well:
 2. Asking inmates to carry out tasks between Tuesdays kept them occupied and motivated to attend the following week.
 
 
-###**Summer School**
+### **Summer School**
 
 ### Overview
 
