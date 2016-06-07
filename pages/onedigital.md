@@ -24,7 +24,6 @@ Each of the partners will run a project which will equip trusted intermediaries 
 
 For the latest in One Digital news, blogs and resources, take a look at our editions to date. [Let us know](mailto:onedigital@scvo.org.uk) if you would like to be added to our mailing list.
 
-<a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-559C24ADCD2257192540EF23F30FEDED">eBulletin- March 2016</a> <a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-DA087C0836F79ED32540EF23F30FEDED">eBulletin- May 2016</a>
 
 ## Senior Leadership Action Learning
 
