@@ -57,7 +57,7 @@ We have improved our website and training on core digital skills, audited our ha
 
 ## Evaluation
 
-Overall we have spent a  significant amount (£18K) on Kit, software and training to develop our ICT skills and confidence.
+Overall we have spent a significant amount on Kit, software and training to develop our ICT skills and confidence.
 
 We now have a network set up with no internal conflict due to compatibility of software. Access for remote working is now possible offering flexibility for staff. Working practices and security have been reviewed.
 
