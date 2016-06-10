@@ -80,11 +80,14 @@ This is where the project lead will share information about what was achieved an
 Overall this project X, Y, Z.
 
 In terms of outputs we delivered A, B and C.
+
 Outputs:
-overall this project has reached 18 people who have learned from each other and gained confidence and increased their skills. 
-we delivered two training sessions for the peer mentors and 1 matching session for the participants
-each participant had a variety of different individual sessions with their matched Peer mentor. 
-the Drop in sessions (6 in total) allowed people to come along with an issue and get immediate support. This worked well and the participants and the peer mentors involved all have gained confidence and skills from this.
+
+Overall this project has reached **18** people who have learned from each other and gained confidence and increased their skills. 
+
+We delivered two training sessions for the peer mentors and 1 matching session for the participants. Each participant had a variety of different individual sessions with their matched Peer mentor. 
+
+The Drop in sessions (6 in total) allowed people to come along with an issue and get immediate support. This worked well and the participants and the peer mentors involved all have gained confidence and skills from this.
 
 
 
