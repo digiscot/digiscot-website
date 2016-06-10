@@ -38,7 +38,7 @@ Phase 1 for the learners to assess current IT skills and goals was delayed until
 
 ### Phase 2 March 2015 
 
-*8Group sessions to look at matching peers with skills to the goals**
+**Group sessions to look at matching peers with skills to the goals**
 
 Each group member matched with suitable peer supporteer
 Phase 2 - matching peer to peer - achieved August 2015
@@ -69,7 +69,6 @@ Week one - 1 participant gained confidence in her own abilities working 1-1 with
 Week two - 3 participants engaged with each other and staff member to share skills and learn from each other. I participant had help from staff member to do some advanced word processing, while the same participant supported another participant to learn about her smart phone.
 
 Week three - 1 participant worked with peer mentor to look at Excel - he increased his confidence doing this.
-
 
 
 ## Evaluation
