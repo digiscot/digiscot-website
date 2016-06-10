@@ -88,9 +88,13 @@ We’re excited to be a part of this digital world and we want everyone to get i
 
 Creative digital resources and programs for both children and adults.
 
+#### [Bridging the Digital Divide](http://www.cas.org.uk/news/bridging-digital-divide)
+
+Research into digital exclusion amongst CAB clients.
+
 #### [Cheeky Munkey (IT support)](http://cheekymunkey.co.uk/using-the-internet-for-seniors-beginners-guide/)
 
-Using the internet for seniors - beginners guide
+Using the internet for seniors - beginners guide.
 
 #### [Digital Fife](http://www.digitalfife.com/)
 
@@ -99,6 +103,10 @@ Easy to follow online courses and resources.
 #### [Digital Unite](http://digitalunite.com/) 
 
 Guides and courses to improve digital skills and confidence in using computers.
+
+#### [Digital Neighbourhoods](https://www.plymouth.ac.uk/research/digital-neighbourhoods)
+
+The Digital Neighbourhoods research project investigates the role of superfast broadband access on rural neighbourhoods.
 
 #### [Get IT together](http://www.bt.com/includingyou/getting-online.html)
 
@@ -123,3 +131,6 @@ Connect from Living It Up provides useful tips and guides to help you connect wi
 #### [Safe, Secure and Prosperous: A Cyber Resilience Strategy for Scotland](http://www.gov.scot/Publications/2015/11/2023/downloads) 
 
 The Scottish Government's Cyber Resilience Strategy.
+
+#### [Smartphone by Default](http://stakeholders.ofcom.org.uk/market-data-research/other/telecoms-research/smartphone-by-default-2016/) 
+Ofcom report on smartphone use
