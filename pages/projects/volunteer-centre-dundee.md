@@ -59,15 +59,18 @@ Phase 3
 Reassessment of goals and further goal setting
 
 Movement towards goal/achievement of goal
+
 Phase 4
 Initial participants all  showed increased confidence and improved skills. Goals were met and people moved towards achievement of longer term goals.
-Decided to have another round of the project and use Drop-In format this time.
-6 week drop in organised and advertised through the Volunteer Centre Dundee contacts and email distribution list. posters also distributed for display around the city.
-Drop in to be manned by Peer mentors with staff support. 
-Wk 1 - I participant gained confidence in her own abilities working 1-1 with peer mentor
-Wk 2 - 3 participants engaged with each other and staff member to share skills and learn from each other. I participant had help from staff member to do some advanced word processing, while the same participant supported another participant to learn about her smart phone.
-Wk 3 - 1 participant worked with peer mentor to look at Excel - he increased his confidence doing this.
 
+Decided to have another round of the project and use Drop-in format this time. 6 week drop in organised and advertised through the Volunteer Centre Dundee contacts and email distribution list. Posters also distributed for display around the city.
+Drop-in to be managed by Peer mentors with staff support. 
+
+Week one - 1 participant gained confidence in her own abilities working 1-1 with peer mentor.
+
+Week two - 3 participants engaged with each other and staff member to share skills and learn from each other. I participant had help from staff member to do some advanced word processing, while the same participant supported another participant to learn about her smart phone.
+
+Week three - 1 participant worked with peer mentor to look at Excel - he increased his confidence doing this.
 
 
 
@@ -77,21 +80,12 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
-
-In terms of outputs we delivered A, B and C.
-
-Outputs:
-
 Overall this project has reached **18** people who have learned from each other and gained confidence and increased their skills. 
 
 We delivered two training sessions for the peer mentors and 1 matching session for the participants. Each participant had a variety of different individual sessions with their matched Peer mentor. 
 
 The Drop in sessions (6 in total) allowed people to come along with an issue and get immediate support. This worked well and the participants and the peer mentors involved all have gained confidence and skills from this.
 
-
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
 ### Lessons learned
 
