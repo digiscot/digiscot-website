@@ -25,8 +25,9 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 We will utilise the network and contacts built up by the Hebridean Connections project to identify people who may benefit from training in basic digital skills. At least 20 training events will then be held throughout Lewis and Harris, with a particular emphasis on reaching out to remote rural communities.
 
-
 ## Project Evaluation
+
+**Outputs and outcomes**
  
 Since the start of the project **27 training sessions** in digital skills have been delivered to a total of **74 people**. These 74 are people who have not engaged with Hebridean Connections before. Of these sessions 10 were delivered in Uist & Barra reaching 30 people, and 17 in Uist & Harris reaching 44 people.
 
@@ -54,8 +55,17 @@ And here's a lady who works at a local community centre being shown how to back 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135441892@N05/20591546743/in/datetaken/" title="P1010144"><img src="https://farm1.staticflickr.com/721/20591546743_7bbd5995de_n.jpg" width="320" height="180" alt="P1010144"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Things that worked well:
+In terms of outcomes for the people and groups we care about, this project has... We know this because...
 
-- Sessions pitched at different levels
-- Increased 1-1 support
-- Delivering sessions in Gaelic
+Lessons learned
+Things that worked well:
+-Sessions pitched at different levels
+-Increased 1-1 support
+-Delivering sessions in Gaelic
+
+Things that we would do differently next time:
+
+Text
+Text
+Text
+
