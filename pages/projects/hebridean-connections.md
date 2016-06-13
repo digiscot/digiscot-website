@@ -27,10 +27,8 @@ We will utilise the network and contacts built up by the Hebridean Connections p
 
 
 ## Project Evaluation
-
-August 2015
  
-Since the start of the project 27 training sessions in digital skills have been delivered to a total of 74 people. These 74 are people who have not engaged with Hebridean Connections before. Of these sessions 10 were delivered in Uist & Barra reaching 30 people, and 17 in Uist & Harris reaching 44 people.
+Since the start of the project **27 training sessions** in digital skills have been delivered to a total of **74 people**. These 74 are people who have not engaged with Hebridean Connections before. Of these sessions 10 were delivered in Uist & Barra reaching 30 people, and 17 in Uist & Harris reaching 44 people.
 
 These sessions can be broken down into 4 different levels:
 
