@@ -63,11 +63,11 @@ In terms of outcomes for the people and groups we care about, this project has..
 
 Things that worked well:
 
--Sessions pitched at different levels
+- Sessions pitched at different levels
 
--Increased 1-1 support
+- Increased 1-1 support
 
--Delivering sessions in Gaelic
+- Delivering sessions in Gaelic
 
 Things that we would do differently next time:
 
