@@ -5,7 +5,7 @@ author: Lauren Gilmour
 authorlink:
 title: OneDigital Participants Making Waves - Renfrewshire
 excerpt: In the next of our One Digital blogs, find out how Lauren Gilmour from Engage Renfrewshire will use digital to triumph in her new job
-tags: OneDigital
+tags: onedigital
 image:
 ---
 

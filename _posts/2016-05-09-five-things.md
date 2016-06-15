@@ -5,7 +5,7 @@ author: Jonathan Coward
 authorlink:
 title: Five things I've learnt as a OneDigital trainer
 excerpt: For the past two months, the One Digital team has been travelling across Scotland to help charities understand the benefits of digital, both for themselves, and for their clients.
-tags: OneDigital
+tags: onedigital
 image:
 ---
 

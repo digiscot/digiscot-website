@@ -14,32 +14,32 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-md-8">
-    
+    <div class="col-md-12">
+
+    {% if page.image %}
+      <img src="/images/{{ page.image }}" class="postimg pull-right" />
+    {% else %}
+      <div class="postdiv"/></div>
+    {% endif %}
+
       <h1>{{ page.title }}</h1>
-      
+
       {% if page.excerpt %}
         <p class="lead">{{ page.excerpt }}</p>
       {% endif %}
-      
+
       <p><small>&mdash; by {% if page.authorlink %}<a href="{{ page.authorlink }}">{{ page.author }}</a>{% else %}{{ page.author }}{% endif %} on {{ page.date | date: "%d %B %Y" }}
         {% for tag in sortedtags %}
-          <a href="/tags/#{{ tag }}">#{{ tag }}</a> 
+          <a href="/onedigital/blog/tag/{{ tag }}">#{{ tag }}</a>
         {% endfor %}
       </small></p>
-      
+
       {% include social-buttons.html %}
-      
-      {% if page.image %}
-        <img src="/images/{{ page.image }}" class="postimg" />
-      {% else %}
-        <div class="postdiv"/></div>
-      {% endif %}      
 
       {{ content }}
-      
+
       {% include disqus.html %}
-      
+
       <nav>
         <ul class="pager margins-2x">
           {% if page.previous  %}
@@ -47,14 +47,14 @@ layout: default
           {% else %}
             <li class="previous disabled"><a href="#">&larr; Previous post</a></li>
           {% endif %}
-          {% if page.next %}          
+          {% if page.next %}
             <li class="next"><a href="{{ page.next.url }}">Next post &rarr;</a></li>
           {% else %}
             <li class="next disabled"><a href="#">Next post &rarr;</a></li>
-          {% endif %}         
+          {% endif %}
         </ul>
       </nav>
-      
+
     </div>
     <div class="col-md-4">
     </div>

@@ -1,7 +1,6 @@
 ---
-layout: blog
+layout: blog-onedigital
 title: Blog
-excerpt: One Digital Blogs.
+excerpt: One Digital blogs
 permalink: /onedigital/blog/
 ---
-

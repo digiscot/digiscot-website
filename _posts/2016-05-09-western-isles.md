@@ -5,7 +5,7 @@ author: Annmarie Fowler
 authorlink:
 title: OneDigital Participants Making Waves - The Western Isles
 excerpt: Annmarie from Stornoway describes how she went from technophobe to Digital Champion
-tags: OneDigital
+tags: onedigital
 image:
 ---
 

@@ -1,0 +1,22 @@
+---
+layout: page-onedigital
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Articles by tag: #{{ page.tag }}</h1>
+            <div>
+                {% if site.tags[page.tag] %}
+                    <ul>
+                    {% for page in site.tags[page.tag] %}
+                        <li><a href="{{ page.url }}">{{ page.title }}</a> &mdash; by {% if page.authorlink %}<a href="{{ page.authorlink }}">{{ page.author }}</a>{% else %}{{ page.author }}{% endif %} on {{ page.date | date: "%d %B %Y" }}</li>
+                    {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>There are no posts for this tag.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
