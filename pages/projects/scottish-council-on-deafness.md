@@ -57,7 +57,15 @@ We have improved our website and training on core digital skills, audited our ha
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+Overall we have spent a significant amount on kit, software and training to develop our ICT skills and confidence.
+
+We now have a network set up with no internal conflict due to compatibility of software. Access for remote working is now possible offering flexibility for staff. Working practices and security have been reviewed.
+
+We can email, Skype, Facebook & tweet and are building confidence on social media on a weekly basis. We now communicate in English and BSL. This will improve our presence in the third sector market place and across the Deaf Sector too.
+
+The final matter is improved file storage via external, cloud arrangement to provide improved back-up arrangements.
+
+
 
 ### Outputs and outcomes
 

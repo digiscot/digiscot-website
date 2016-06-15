@@ -160,45 +160,67 @@ Sure Start were tweeting about the training:
 
 <img src="https://lh3.googleusercontent.com/-WlK1ynMNQGU/VrDaMfXzC4I/AAAAAAAAIlk/drEqlhVJRBw/s912-Ic42/IMG_20160202_161334.jpg" alt="Digital consultancy for CAPS" Width="500">
 
+
 * February 4th - Digital inclusion training with 10 volunteers from Health in Mind
+* 
 
 <img src="https://lh3.googleusercontent.com/-GCSXwZCLLVU/VrOrF6KbzaI/AAAAAAAAIns/iGiv05ESDmg/s800-Ic42/IMG_20160204_191149.jpg" alt="Digital inclusion with Health in Mind" Width="500">
 
+
 * February 8th - Digital consultancy with 1 staff and 1 board member from PASDA (Parents of Autism Spectrum Disorder Adults)
+* 
 
 <img src="https://lh3.googleusercontent.com/-O7kPsKUQqX0/VrmtQqGdetI/AAAAAAAAIo4/RMrFgsUV_Vg/s800-Ic42/IMG_20160208_114210.jpg" alt="Digital consultancy with PASDA" Width="500">
 
+
 ## Evaluation
+
 
 ### Outputs and outcomes 
 
-####Overall this project:
-Achieved its aims. We trained 159 people from 62 organisations after planning to train 43 organisations. 
 
-####In terms of outputs we delivered:
+#### Overall this project:
+Achieved its aims. We trained 159 people from 62 organisations after planning to train 43 organisations.
+
+
+
+#### In terms of outputs we delivered:
+
 
 A non-time intensive training session and learner’s guide to Basic Digital Skills that allowed front line staff and volunteers to upskill their clients and service users.
 
+
 Upskilling of staff’s own Basic Digital Skills.
 
-####In terms of outcomes for the people and groups we care about, this project has:
+
+#### In terms of outcomes for the people and groups we care about, this project has:
+
 
 Given frontline staff and volunteers the skills and resources they need to give their clients basic digital skills.
 We know this from feedback from the organisations:
 
+
 "There were items that I did not know about using the email etc that I now use in my life. I currently do not have a match so cannot comment on clients."
+
 
 "Got me thinking about the possibilities of the Internet."
 
+
 "We are a kind of third party in this case, we do not have clients of our own, but are trainers and assessors of social care qualifications. It was certainly useful to us personally and our intention is to advise staff we train and assess."
+
 
 "It was a really useful training session. The volunteers fed back that they were much more confident about introducing their clients to technology and the internet. It was delivered at exactly the right pace and all the questions were answered well and with assurance."
 
-### Lessons learned 
-####Things that worked well: 
+### Lessons learned
+
+#### Things that worked well: 
+
 
 Short (40 minute) training sessions delivered after staff or volunteer meetings
 Getting staff to change their own online usage. Explaining the cloud was a major hook for staff and volunteers, feedback was many of them started using it themselves.
 
-####Things that we would do differently next time: 
+
+#### Things that we would do differently next time: 
+
 Improve the promotion – the concept of upskilling was difficult to explain
+
