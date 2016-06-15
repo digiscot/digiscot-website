@@ -67,4 +67,9 @@ The next cohort started on the 9th of March 2016.
 Some language barriers were found to be more difficult than were imagined. Some basic computer terms needed to be explained before we could proceed, eg Bookmark, because learners didn't understand the traditional term, the computer term was new to them.
 Also some learners found it difficult at the beginning to 'swipe' the screen. Perhaps a small piece of time practising this before starting the actual course may have built their confidence more.
 
+### Project Update
+We have just completed our second cohort of learners, where we had 10 Refugees/Asylum Seekers start the programme, with 8 people completing. The learners covered subjects such as, searching internet, cloud storage, social media and looking for volunteering opportunities. 
+For some of our learners, this was a completely new experience and opened their eyes to the potential and impact digital awareness could have on their life.  
+The learners had a good time made new friends and all completers were presented with a certificate at the end of the course.
 
+https://twitter.com/volworksglasgow/status/743083162738249728
