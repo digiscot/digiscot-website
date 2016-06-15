@@ -49,7 +49,8 @@ It is envisaged that classes will take place weekly and a session will last for 
 * Visually impaired people gain independence through use of online technology
 
 ### Evaluation
-
+Norman and his wife, Doris, get to grips with their i-Pads!
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1202496466441912%26id%3D203903979634504&width=500" width="500" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ### Lessons learned
 
