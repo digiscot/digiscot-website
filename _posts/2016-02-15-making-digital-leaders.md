@@ -5,7 +5,7 @@ author: Beth Murphy
 authorlink: https://twitter.com/betty_murphy
 title: Making Digital Leaders
 excerpt: One Digital are using Action Learning Sets to support third sector digital development
-tags: OneDigital
+tags: ActionLearning
 image:
 ---
 

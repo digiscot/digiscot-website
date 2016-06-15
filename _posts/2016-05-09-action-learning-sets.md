@@ -2,10 +2,10 @@
 layout: post
 date: 2016-05-09
 author: Jacqui Taylor
-authorlink:
+authorlink: https://twitter.com/LifelinkGlasgow
 title: OneDigital Action Learning Sets
 excerpt: Jacqui Taylor, CEO of Lifelink explores digital connectivity projects as an Action Learning participant
-tags: OneDigital
+tags: ActionLearning
 image:
 ---
 
