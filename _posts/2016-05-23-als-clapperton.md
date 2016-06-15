@@ -23,4 +23,4 @@ The vision [Grampian Housing Association](http://www.grampianhousing.co.uk/) is 
 
 That’s my 2016 challenge: I need to pull the threads into a coherent whole and develop an over-arching digital strategy that will see 90% of our services entirely delivered online.  How we do things will be remodelled, like a Toyota factory, around standardisation and the elimination of bureaucracy for those customers that are capable and want an instant service, and develop a more bespoke answer for those that need it.  It might not save a lot from the budget but it means that as a charity, we are spending our money on the right people, and picking up the pieces so they can make a fresh start.
 
-![Grampian Housing Association](/images/onedigi blog/Grampian_Housing_Association.jpg)
+![Grampian Housing Association](/images/onedigi blog/grampian_housing_association.jpg)
