@@ -49,9 +49,8 @@ It is envisaged that classes will take place weekly and a session will last for 
 * Visually impaired people gain independence through use of online technology
 
 ### Evaluation
-
+Due to unforeseen circumstances our first session did not begin until the 7th of March, 2 months behind schedule! However, Jane steamed ahead and started the second couple 2 weeks later on the 21st of March. This proved successful with the pairs learning from each other. Group 3 began sessions on the 9th of May and to date have had 5 weeks of tuition and will finish next week on the 20th of June. Next up are Mr and Mrs Young whose 6 weeks started on the 13th of June so they too will experience a slight roll over with the previous couple.
 
 ### Lessons learned
-
 
 

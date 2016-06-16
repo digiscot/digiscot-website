@@ -5,10 +5,9 @@ author: Fran Thow
 authorlink: https://twitter.com/FranThow
 title: OneDigital Participants Making Waves - Stirlingshire
 excerpt: In our 2nd One Digital blog, find out how Fran Thow from The Food Train will use digital to get to grips with her newsletters
-tags: OneDigital
+tags: onedigital
 image:
 ---
-<br />
 **I attended SCVO’s first Making Digital Work training session in Stirling on 24th February 2016.**
 
 It was great to hear how technology can help to improve efficiency and connectivity for small Third Sector organisations and to find out that not everything is costly. Many of the really useful suggestions that were flying around the room, from both the attendees and the trainers, were actually free to implement and use.

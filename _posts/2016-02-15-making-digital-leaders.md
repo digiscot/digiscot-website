@@ -5,10 +5,9 @@ author: Beth Murphy
 authorlink: https://twitter.com/betty_murphy
 title: Making Digital Leaders
 excerpt: One Digital are using Action Learning Sets to support third sector digital development
-tags: ActionLearning
-image:
+tags: onedigital actionlearning
+image: onedigital/beth.jpg
 ---
-
 We know that digital has the potential to transform organisations. As part of our One Digital project we are testing different approaches to support the third sector to get more digital.
 
 We invited applications from Senior Leaders from across the sector to join Action Learning sets to explore and find solutions for the challenges they face.

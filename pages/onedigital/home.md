@@ -1,11 +1,11 @@
 ---
 layout: page-onedigital
 title: One Digital
-excerpt: Building digital skills in the charity and voluntary sector.
+excerpt:
 permalink: /onedigital/
+showtimeline: true
+home: true
 ---
-
-![One Digital](/images/OneDigital_badge.jpg)		![Big Lottery Fund](/images/big lottery fund.jpg)
 
 The One Digital team at SCVO have been awarded £500k from the Big Lottery Fund in an effort to better understand how to make a significant and sustainable improvement in the [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/) of the people most in need.
 
@@ -20,35 +20,54 @@ Each of the partners will run a project which will equip trusted intermediaries 
 <iframe src="https://player.vimeo.com/video/153124565" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/153124565">SCVO and the One Digital Programme</a> from <a href="https://vimeo.com/onedigitalprogramme">One Digital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-### One Digital eBulletin
+<div class="row">
+<div class="col-md-6">
+<h3>One Digital eBulletin</h3>
 
-For the latest in One Digital news, blogs and resources, take a look at our editions to date. [Let us know](mailto:onedigital@scvo.org.uk) if you would like to be added to our mailing list.
+<p>For the latest in One Digital news, blogs and resources, take a look at our editions to date. <a href="mailto:onedigital@scvo.org.uk">Let us know</a> if you would like to be added to our mailing list.</p>
 
-<a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-559C24ADCD2257192540EF23F30FEDED">eBulletin- March 2016</a> 
-<a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-DA087C0836F79ED32540EF23F30FEDED">eBulletin- May 2016</a> 
-<a class="btn btn-primary btn-lg" href="http://email.scvo.org.uk/t/r-0A347F0E0C43FEE02540EF23F30FEDED">eBulletin- June 2016</a>
+<ul>
+<li><a href="http://email.scvo.org.uk/t/r-559C24ADCD2257192540EF23F30FEDED">eBulletin - March 2016</a></li>
+<li><a href="http://email.scvo.org.uk/t/r-DA087C0836F79ED32540EF23F30FEDED">eBulletin - May 2016</a></li>
+<li><a href="http://email.scvo.org.uk/t/r-0A347F0E0C43FEE02540EF23F30FEDED">eBulletin - June 2016</a></li>
+</ul>
 
-## Senior Leadership Action Learning
+</div>
+<div class="col-md-6">
 
-Senior leadership action learning is now well under way. If you'd still like to find out more about ALS please check our:
+<h3>Senior Leadership Action Learning</h3>
 
-<a class="btn btn-primary btn-lg" href="/onedigital/actionlearning/">Action Learning page</a>
+<p>Senior leadership action learning is now well under way. If you'd still like to find out more about ALS please check our <strong><a href="/onedigital/actionlearning/">Action Learning</a></strong> page.</p>
 
-## Anchor Organisations
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
 
-For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our:
+<h3>Anchor Organisations</h3>
 
-<a class="btn btn-primary btn-lg" href="/onedigital/anchor/">Anchor page</a>
+<p>For those who have committed to becoming an anchor organisation or are in the process of considering this option, please take a look at our <strong><a href="/onedigital/anchor/">Anchor</a></strong> page.</p>
 
-## Participants
+</div>
+<div class="col-md-6">
 
-Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our:
+<h3>Participants</h3>
 
-<a class="btn btn-primary btn-lg" href="/onedigital/participants">Participant page</a>
+<p>Are you and your organisation interested in taking part in our programme? If you're in need of more information please take a look at our <strong><a href="/onedigital/participants">Participant</a></strong> page.</p>
+</div>
+</div>
 
-If you have any questions please tweet us at:
+<div class="row">
+<div class="col-md-12">
 
-[@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
-[@starkmadelaine](https://twitter.com/StarkMadelaine) [Development Officer South]   
-[@littleeilidh](https://twitter.com/LittleEilidh) [Development Officer North]  
-[@jomalo6](https://twitter.com/jomalo6) [Project Administrator]
+<p><br />If you have any questions please tweet us at:</p>
+
+<ul>
+<li><a href="https://twitter.com/betty_murphy">@betty_murphy</a> [Project Manager]</li>
+<li><a href="https://twitter.com/starkmadelaine">@starkmadelaine</a> [Development Officer South]</li>
+<li><a href="https://twitter.com/littleeilidh">@littleeilidh</a> [Development Officer North]</li>
+<li><a href="https://twitter.com/jomalo6">@jomalo6</a> [Project Administrator]</li>
+</ul>
+
+</div>
+</div>

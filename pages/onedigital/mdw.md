@@ -1,13 +1,13 @@
 ---
-layout: page
-title: One Digital- Making Digital Work 
+layout: page-onedigital
+title: Making Digital Work
 excerpt: Resource pack to help you develop as a Digital Champion
 permalink: /onedigital/participants/mdw
 ---
 
 ![One Digital logostrip](/images/One-Digital-Logostrip.png)
 
-#### To download your Making Digital Work resource pack contents please click on each of the below buttons: 
+#### To download your Making Digital Work resource pack contents please click on each of the below buttons:
 <a class="btn btn-primary btn-lg" href="/files/Making Digital Work Resource Pack.pdf">Making Digital Work Resources</a>
 
 <a class="btn btn-primary btn-lg" href="/files/Making Digital Work Scenarios.pdf">Making Digital Work scenarios</a>
@@ -16,8 +16,8 @@ permalink: /onedigital/participants/mdw
 
 <a class="btn btn-primary btn-lg" href="/files/Registering- MDW.pdf">E-module registration guidance</a>
 
-If you have any questions please tweet us at: 
- 
+If you have any questions please tweet us at:
+
 [@betty_murphy](https://twitter.com/Betty_Murphy) [Project Manager]  
 [@starkmadelaine](https://twitter.com/StarkMadelaine) [Development Officer South]   
 [@littleeilidh](https://twitter.com/LittleEilidh) [Development Officer North]  

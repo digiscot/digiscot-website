@@ -209,11 +209,26 @@ img.logo {
     height: $spacing-unit * 1.5;
 }
 
+img.postimg {
+    height: 128px;
+    width: auto;
+}
+
 #_ba_corner img {
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
+.one-digital-title img {
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+
+.big-lottery img {
+    position: absolute;
+    top: -60px;
+    right: -20px;
+}
 
 // Other
 
@@ -259,21 +274,6 @@ img.logo {
     background-color: #FBFBFB;
 }
 
-
-
-// Mobile optimisation
-
-@media screen and (max-width: 767px) {
-    .splash {
-        background-image: none;
-    }
-    h1 {
-        font-size: 36px;
-    }
-    .lead {
-        font-size: 150%;
-    }
-}
 
 
 
@@ -347,10 +347,25 @@ img.logo {
         margin: 10px;
         float: left;
         background-color:#ffffff;
-        border:solid 1px #B4BBCD;
+        border: solid 1px #B4BBCD;
         min-height: 50px;
         word-wrap:break-word;
         padding: 5px 10px;
+
+        .col-xs-3 {
+            padding-left: 10px;
+            padding-right: 0;
+        }
+        .col-xs-9 {
+            padding-left: 5px;
+            padding-right: 10px;
+        }
+
+        img {
+            margin: 0;
+            width: 100%;
+            height: auto;
+        }
 
         ol {
             list-style: none;
@@ -361,6 +376,10 @@ img.logo {
         li {
             line-height: 15px;
             margin-bottom: 5px;
+        }
+
+        p {
+            margin: 0;
         }
     }
 
@@ -411,5 +430,42 @@ img.logo {
     li[data-align=r] .corner {
         background: url("/images/onedigital/left.png") no-repeat top right;
         margin-left: -23px;
+    }
+}
+
+// Mobile optimisation
+
+@media screen and (max-width: 1200px) {
+    .big-lottery img {
+        height: auto;
+        width: 75%;
+        top: -10px;
+    }
+    #timeline-line {
+        display: none;
+    }
+    #timeline {
+        padding-left: 10px;
+        .item {
+            width: 100%;
+            margin-left: 0;
+        }
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .big-lottery img {
+        display: none;
+    }
+}
+@media screen and (max-width: 767px) {
+    .splash {
+        background-image: none;
+    }
+    h1 {
+        font-size: 36px;
+    }
+    .lead {
+        font-size: 150%;
     }
 }

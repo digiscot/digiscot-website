@@ -1,9 +1,9 @@
 ---
-layout: page
-title: One Digital- Training dates across Scotland
-excerpt: The below list of anchor organisations is sorted in alphabetical order. Look under your local area to find the contact details and dates of future One Digital training. 
+layout: page-onedigital
+title: Training dates across Scotland
+excerpt: The below list of anchor organisations is sorted in alphabetical order. Look under your local area to find the contact details and dates of future One Digital training
 permalink: /onedigital/participants/dates
---- 
+---
 
 ![One Digital](/images/One-Digital-Logostrip.png)
 
@@ -23,7 +23,7 @@ permalink: /onedigital/participants/dates
       *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Aberdeenshire: Aberdeenshire Voluntary Action</strong><br /> 
+      <p class="list-group-item-text"><strong>Aberdeenshire: Aberdeenshire Voluntary Action</strong><br />
       Shirley Leask, Training Coordinator<br />
       01771 624 589<br />
       Mintlaw office: 01771 624787<br />
@@ -36,7 +36,7 @@ permalink: /onedigital/participants/dates
       <p class="list-group-item-text"><strong>Angus: Voluntary Action Angus</strong><br />
       Arbroath: 01241 875525<br />
       Forfar: 01307 466113<br />
-      <a href="mailto:info@voluntaryactionangus.org.uk"><i class="fa fa-fw fa-envelope"></i></a> 
+      <a href="mailto:info@voluntaryactionangus.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/volactionangus"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> 32-34 Guthrie Port, Arbroath, DD11 1RN<br />
       *Training dates have already passed. Please contact the One Digital team for further information.<br />
@@ -66,7 +66,7 @@ permalink: /onedigital/participants/dates
       *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Dundee: Dundee Social Enterprise Network</strong><br /> 
+      <p class="list-group-item-text"><strong>Dundee: Dundee Social Enterprise Network</strong><br />
       Raymond Chan, Social Media Intern<br />
       01382 504848<br />
       07594666261<br />
@@ -97,7 +97,7 @@ permalink: /onedigital/participants/dates
       *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Edinburgh: Edinburgh Voluntary Organisations’ Council</strong><br /> 
+      <p class="list-group-item-text"><strong>Edinburgh: Edinburgh Voluntary Organisations’ Council</strong><br />
       0131 555 9100<br />
       <a href="mailto:info@evoc.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/evoc_edinburgh"><i class="fa fa-fw fa-twitter"></i></a></p><br />
@@ -106,7 +106,7 @@ permalink: /onedigital/participants/dates
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Falkirk: Falkirk CVS</strong><br />
       01324 692000<br />
-      <a href="mailto:Laura@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a> 
+      <a href="mailto:Laura@cvsfalkirk.org.uk "><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/CVSFalkirk"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Unit 6, The Courtyard, Callendar Business Park, Callendar Road, Falkirk FK1 1XR<br />
       *Training dates have already passed. Please contact the One Digital team for further information.<br />
@@ -128,7 +128,7 @@ permalink: /onedigital/participants/dates
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Highland: Highland Third Sector Partnership</strong><br /> 01349 864289<br />
       <a href="mailto:info@highlandtsi.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
-        <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br /> 
+        <a href="https://twitter.com/HighlandTSI"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
@@ -138,7 +138,7 @@ permalink: /onedigital/participants/dates
       *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Midlothian: Midlothian Voluntary Action</strong><br /> 
+      <p class="list-group-item-text"><strong>Midlothian: Midlothian Voluntary Action</strong><br />
       0131 663 9471<br />
       <a href="mailto:Lesley.Kelly@mvacvs.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
         <a href="https://twitter.com/MVACommunity"><i class="fa fa-fw fa-twitter"></i></a></p><br />
@@ -174,12 +174,12 @@ permalink: /onedigital/participants/dates
       *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Perth & Kinross: PKAVS Third Sector and Volunteering Hubs</strong><br /> 
+      <p class="list-group-item-text"><strong>Perth & Kinross: PKAVS Third Sector and Volunteering Hubs</strong><br />
       Agnieszka Lukacz<br />
-      Administration and Communications Assistant<br />	
+      Administration and Communications Assistant<br />
       01738 567076<br />
       <a href="mailto:Agnieszka.Lukacz@pkavs.org.uk"><i class="fa fa-fw fa-envelope"></i></a></p><br />
-      <strong>Location:</strong> Gateway Centre, North Methven Street, Perth, PH1 5PP<br /> 
+      <strong>Location:</strong> Gateway Centre, North Methven Street, Perth, PH1 5PP<br />
       *Making Digital Work (Tuesday 10th May)<br />
       *Making Digital Everyday (Wednesday 11th May)<br />
     </span>
@@ -215,7 +215,7 @@ permalink: /onedigital/participants/dates
       *Training dates have already passed. Please contact the One Digital team for further information.
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>West Dunbartonshire: West Dunbartonshire CVS</strong><br /> 
+      <p class="list-group-item-text"><strong>West Dunbartonshire: West Dunbartonshire CVS</strong><br />
       0141 941 0886<br />
       <a href="mailto:gordon@wdcvs.com"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/wdcvs"><i class="fa fa-fw fa-twitter"></i></a></p><br />
@@ -227,7 +227,7 @@ permalink: /onedigital/participants/dates
       <a href="mailto:enquiries@tshebrides.org.uk"><i class="fa fa-fw fa-envelope"></i></a>
       <a href="https://twitter.com/TSHebrides"><i class="fa fa-fw fa-twitter"></i></a></p><br />
       <strong>Location:</strong> Third Sector Hebrides, 30 Francis Street, Stornoway, HS1 2ND<br />
-      *Training dates have already passed. Please contact the One Digital team for further information.<br />	
+      *Training dates have already passed. Please contact the One Digital team for further information.<br />
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>West Lothian: Voluntary Sector Gateway West Lothian</strong><br />
@@ -246,5 +246,3 @@ permalink: /onedigital/participants/dates
   </div>
 
 </div>
-
-
