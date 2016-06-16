@@ -47,15 +47,43 @@ g)	People who attend are lonely, isolated and have little or no knowledge of IT.
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+Since starting on in May 2015, this digital inclusion group has had **35** users in total, **11** of which have become regular users. The majority of users were retired pensioners, many of them came for both the learning and socialising. A few friendships developed and they look forward to catching up with each other each week.
 
-### Outputs and outcomes
+Some users began with little or no prior internet use. Some who had their own tablets or laptops came to learn more and increase their confidence with their devices and the internet. There were also those who had a fairly good grasp of the internet and their devices and had been using them awhile but still wanted to improve and learn. A few users who came to the drop in to learn about devices and the internet subsequently purchased their own, signed up for home broadband and continued to attend the group with their devices to learn how to use them. 
 
-Overall this project X, Y, Z.
+All users have benefited in the encouragement and reassurance that mistakes are ok and just part of the learning process and that with practice they will become better internet users. Therefore, all users have improved their use of the Internet. Many commented that it was the first time someone didn’t just do something for them or fix an issue but has taken the time to take them step by step through what it is they would like to do so that they can learn and be able to do it themselves the next time. 
 
-In terms of outputs we delivered A, B and C.
+Some have only come when they need help trouble shooting a problem others came regularly with questions and almost all came with a notebook ready and eager to learn and take notes in order to practice and recall at home. Some have even sent practice emails to the tutor during the week. As the group was a drop in people were able to enjoy the flexibility when they attended and for how long. Most would come and find that an hour or two was enough and others would comfortably stay the whole afternoon. 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+Over the time many topics for internet learning have been covered:
+ 
+•	Setting up email accounts
+
+•	Sending and replying to emails
+
+•	Attaching files/photos to emails
+
+•	Printing/scanning
+
+•	Using a search engine
+
+•	Social Networking: Facebook use and navigation
+
+•	Skype
+
+•	Installing apps
+
+•	Using Youtube
+
+•	Touch-screen use: tapping, scrolling, swiping
+
+•	Keyboard use
+
+•	Online shopping
+
+•	Consumer Comparison website use
+
+•	Setting up/ connecting to wifi
 
 ### Lessons learned
 
