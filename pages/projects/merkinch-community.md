@@ -58,18 +58,31 @@ Some have only come when they need help trouble shooting a problem others came r
 Over the time many topics for internet learning have been covered:
  
 •	Setting up email accounts
+
 •	Sending and replying to emails
+
 •	Attaching files/photos to emails
+
 •	Printing/scanning
+
 •	Using a search engine
+
 •	Social Networking: Facebook use and navigation
+
 •	Skype
+
 •	Installing apps
+
 •	Using Youtube
+
 •	Touch-screen use: tapping, scrolling, swiping
+
 •	Keyboard use
+
 •	Online shopping
+
 •	Consumer Comparison website use
+
 •	Setting up/ connecting to wifi
 
 ### Lessons learned
