@@ -8,7 +8,6 @@ excerpt: Annmarie from Stornoway describes how she went from technophobe to Digi
 tags: onedigital
 image:
 ---
-
 I had the privilege of attending One Digital training sessions in Stornoway on 3rd and 4th May, 2016
 
 As I am in my sixties and I am part of a generation of people who do not find that the use of Digital gadgets and tools comes naturally to us. Indeed, their use often stresses us or at least makes us nervous. I have to commend the kindness and sensitivity of our Tutors. Craig's method of teaching was relaxed and the session was so wonderfully planned that it made us all feel relaxed; it catered to all age groups and all levels of understanding.

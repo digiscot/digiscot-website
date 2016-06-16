@@ -32,7 +32,7 @@ layout: default
 
             {{ content }}
 
-            {% if page.showtimeline  %}
+            {% if page.showtimeline %}
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -47,7 +47,7 @@ layout: default
 
                         <ol id="timeline">
                             {% for post in site.posts %}
-                            {% if page.home | post.tags contains actionlearning %}
+                            {% if page.home || post.tags contains actionlearning %}
 
                             <li class="item">
 

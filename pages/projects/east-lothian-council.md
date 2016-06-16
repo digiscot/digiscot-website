@@ -36,9 +36,11 @@ It is envisaged that classes will take place weekly and a session will last for 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504"><p>Do you or someone you know have a visual impairment and would like to learn how to use a computer tablet? We will be...</p>Posted by <a href="https://www.facebook.com/East-Lothian-Library-Services-203903979634504/">East Lothian Library Services</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=1103273373030889&amp;id=203903979634504">Friday, January 15, 2016</a></blockquote></div></div>
 
 * Classes will begin with the first 2 students: January 2016
+Due to unforeseen circumstances classes were late in starting so it was March the 7th before the MacNaughtons had their first session. They completed their classes on the 2nd of May. Next up were the Mayfairs whose sessions ran from the 21st of March to the 30th of May.
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1157857297572496%26id%3D203903979634504%26substory_index%3D0&width=500" width="500" height="480" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 * Classes completed for group 3: May 2016
+Rather than finishing this month our third session just started on the 9th of May. Sessions are well under way and should finish by the end of June.
 * Classes are completed for group 7: October 2016
 
 ### Planned outputs and outcomes
@@ -49,7 +51,8 @@ It is envisaged that classes will take place weekly and a session will last for 
 * Visually impaired people gain independence through use of online technology
 
 ### Evaluation
-
+Norman and his wife, Doris, get to grips with their i-Pads!
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1202496466441912%26id%3D203903979634504&width=500" width="500" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ### Lessons learned
 

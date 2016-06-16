@@ -10,11 +10,20 @@ layout: default
 
 {% assign sortedtags = tags | split:' ' | sort %}
 
-
-
 <div class="container">
+    <div class="row">
+        <div class="col-md-8 one-digital-title">
+
+            <a href="/onedigital"><img src="/images/OneDigital_badge.jpg" alt="One Digital" /></a>
+            <p class="lead">Building digital skills in the charity and voluntary sector</p>
+        </div>
+        <div class="col-md-4 big-lottery">
+            <a href="https://www.biglotteryfund.org.uk/"><img src="/images/big lottery fund.jpg" alt="Big Lottery Fund" /></a>
+        </div>
+    </div>
+
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-9">
 
     {% if page.image %}
       <img src="/images/{{ page.image }}" class="postimg pull-right" />
@@ -56,7 +65,27 @@ layout: default
       </nav>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
+        <div style="margin-left: 20px; margin-bottom: 15px;">
+            <strong>Blog Archive</strong>
+        </div>
+        <ul>
+
+            {% for post in site.posts %}
+
+            {% capture tags %}
+            {% for tag in post.tags %}
+            {{ tag }}
+            {% endfor %}
+            {% endcapture %}
+
+            {% assign sortedtags = tags | split:' ' | sort %}
+
+            <li><a href="{{ post.url }}">{{ post.title }}</a> by {% if post.authorlink %}<a href="{{ post.authorlink }}">{{ post.author }}</a>{% else %}{{ post.author }}{% endif %} on {{ post.date | date: "%d %B %Y" }}</p>
+            </li>
+            {% endfor %}
+
+        </ul>
     </div>
   </div>
 </div>
