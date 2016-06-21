@@ -47,7 +47,6 @@ Improve server arrangement. Purchase and install NAS drive.
 We now have a network set up with no internal conflict due to compatibility of software. We have access for remote working offering flexibility for staff. Remote access allows SCoD staff to work outside the office yet have access to folders and files.
 
 
-
 ### Phase 3 June 2015
 
 Review impact of new equipment on organsiation: 
@@ -57,6 +56,8 @@ We have improved our website and training on core digital skills, audited our ha
 
 ## Evaluation
 
+### Outputs and outcomes
+
 Overall we have spent a significant amount on kit, software and training to develop our ICT skills and confidence.
 
 We now have a network set up with no internal conflict due to compatibility of software. Access for remote working is now possible offering flexibility for staff. Working practices and security have been reviewed.
@@ -64,16 +65,6 @@ We now have a network set up with no internal conflict due to compatibility of s
 We can email, Skype, Facebook & tweet and are building confidence on social media on a weekly basis. We now communicate in English and BSL. This will improve our presence in the third sector market place and across the Deaf Sector too.
 
 The final matter is improved file storage via external, cloud arrangement to provide improved back-up arrangements.
-
-
-
-### Outputs and outcomes
-
-Overall this project X, Y, Z.
-
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
 ### Lessons learned
 
