@@ -47,17 +47,26 @@ layout: default
 
                         <ol id="timeline">
                             {% for post in site.posts %}
-                            {% if page.home || post.tags contains actionlearning %}
+
+                            <!-- {% capture tags %}
+                            {% for tag in post.tags %}
+                            {{ tag }}
+                            {% endfor %}
+                            {% endcapture %} -->
+
+                            {% assign showitem = false %}
+
+                            {% if page.home == true %}
+                                  {% assign showitem = true %}
+                            {% endif %}
+
+                            {% if post.tags contains "actionlearning" %}
+                                  {% assign showitem = true %}
+                            {% endif %}
+
+                            {% if showitem %}
 
                             <li class="item">
-
-                                {% capture tags %}
-                                {% for tag in post.tags %}
-                                {{ tag }}
-                                {% endfor %}
-                                {% endcapture %}
-
-                                {% assign sortedtags = tags | split:' ' | sort %}
 
                                 <article>
                                     <div class="row">
