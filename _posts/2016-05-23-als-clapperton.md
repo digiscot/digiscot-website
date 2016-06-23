@@ -6,7 +6,7 @@ authorlink: https://twitter.com/GrampianHA
 title: One Digital Action Learning - The Radical Nudge
 excerpt: Neil Clapperton, CEO of Grampian Housing Association explains the relevance of working towards organisational digital change within the third sector
 tags: actionlearning
-image:onedigital/NeilClapperton.jpg
+image: onedigital/NeilClapperton.jpg
 ---
 Like a thrawn three year old or an awkward puppy, I sometimes need coaxed to try something new.  Don’t misunderstand,  I’m no mattock wielding luddite. I get change, love it, the excitement of improving performance and its importance to my business.  But what I have before me now is the biggest shift in enterprise since the Babylonians created _cuneiform_ and advertised for the first accountant.  Sometimes things are too big for your field of vision.  So even though I understand, in a soft-focus way, that there is a wonderful digital future for housing associations, until now enthusiasm has been delegated.
 
