@@ -3,7 +3,7 @@ layout: post
 date: 2016-06-23
 author: Beth Murphy
 authorlink: https://twitter.com/betty_murphy
-title: Five things I've learn't about digital leadership
+title: Five things I've learnt about digital leadership
 excerpt: Insights and thoughts from the One Digital project
 tags: onedigital actionlearning
 image: onedigital/beth.jpg
