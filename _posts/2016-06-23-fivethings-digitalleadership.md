@@ -11,7 +11,7 @@ image: onedigital/beth.jpg
 
 Since joining the [One Digital](http://digital.scvo.org.uk/onedigital/actionlearning/) project at SCVO I’ve been lucky to meet a lot of senior leaders and trustees grappling with what it means to be a digital leader. Here are a few reflections about what I’ve heard:
 
-1. **Digital leadership is leadership**
+1. **Digital leadership is really just leadership**
    If you are a leader it is your responsibility to create a culture and environment where change can happen. We know that [embracing digital helps organisations](http://thenewreality.info/) to run more efficiently and effectively. In 2016 the job of leadership means supporting your staff and end-users to overcome worries about digital, and delivering services that really meet their needs. 
 
 2. **It’s not just about technology**
