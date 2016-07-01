@@ -169,22 +169,44 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project:
 
-In terms of outputs we delivered A, B and C.
+Engaged with young people to influence the development of a training course for Community Learning and Development (CLD) practitioners based on the Digitally Agile National Principles. Practitioners from across Scotland took part in the course and through the process reviewed and adapted the way they use digital tools in their work and support those they work with to develop digital skills.
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+In terms of outputs we delivered:
+
+•	A short training resource created by young people for youth workers and other CLD practitioners highlighting the severity of online bullying and its importance to young people.
+
+•	A ‘blended learning’ training course to 53 CLD practitioners from across Scotland. Participants were from all the three strands of CLD - youth work, adult learning and community development staff and volunteers. Some participants have gained a Certificate in Digital Planning at SCQF Level 5 from Glasgow Kelvin College – the optional certification for the course.
+
+In terms of outcomes, the project has:
+
+Encouraged a group of young people in Glasgow to consider and share what their (and peers’) needs are from youth workers when navigating their online lives and explore ways they could use technology creatively in their community. The feedback they gave from the sessions was that they found them enjoyable and interesting. They were excited to have created a resource that would be used in youth worker training. Their youth workers were also involved in these sessions which gave an opportunity for them to review their service and practice in light of the young people’s input as well as feed in content from their perspectives and experience.
+
+The feedback from evaluation of the training days and the content of the online discussion forum showed that for CLD practitioners the outcomes were: increased knowledge of digital technologies and social media, increased confidence in using these in practice, increased confidence to explore and try out new platforms, better prepared to plan the use of digital technology within practice and incorporating ethical, safety and resource considerations.
+
+Those who completed the skills survey at the end of the course showed an improvement in their own perceived skills, knowledge and confidence to use digital technology and social media in their CLD practice.
+
+It is too early to see the full impact of this training on the young people, adult learners and communities that the practitioners work with, but some examples so far range from setting up Facebook pages for groups of learners to building regular digital tutoring sessions into practice.
+
+Participants incorporated the drive for digital participation and supporting people to gain digital skills as a key part of CLD values and practice in the digital age.
+
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1.	Bringing young people’s voices and priorities into the training
+2.	Partnership brought a good range of skills, expertise and opportunities to the project development and delivery.
+3.	We verified that there is a significant demand for training of this type in the CLD sector
+4.	Training sessions were successful and participants gained knowledge, skills and confidence from the course
+
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1.	Work with a broader group of young people for consultation sessions
+2.	Identify level that training is pitched at more clearly and stream participants
+3.	Build in guided practical session for novice users
+4.	Further develop the structure of online learning and build in more tasks
+5.	Consider a call back day after or during online learning weeks
+
