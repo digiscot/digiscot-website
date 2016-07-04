@@ -6,7 +6,7 @@ authorlink:
 title: Five things I've learnt as a OneDigital trainer
 excerpt: For the past two months, the One Digital team has been travelling across Scotland to help charities understand the benefits of digital, both for themselves, and for their clients.
 tags: onedigital
-image:
+image: onedigital/jonny.jpg
 ---
 
 We hope to increase the [Basic Digital Skills](https://www.go-on.co.uk/get-involved/basic-digital-skills/) of the third sector and the people charities and voluntary organisations are so well placed to support. As a One Digital Trainer, I've discussed [Canva](https://www.canva.com) in Clydebank, quizzed the people of Paisley on learning styles, and considered how the internet could benefit a Foodbank in Stirling.

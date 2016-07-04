@@ -6,7 +6,7 @@ authorlink: https://twitter.com/Jcarescot
 title: OneDigital Participants Making Waves - East Renfrewshire
 excerpt: In our new series of One Digital blogs, find out how participant Jennifer Watson from Jewish Care Scotland plans to pass on her digital skills
 tags: onedigital
-image:
+image: onedigital/jennifer.jpg
 ---
 **Volunteer Abigail Peters and I attended the Making Digital Everyday Training in East Renfrewshire on 7th March 2016**
 

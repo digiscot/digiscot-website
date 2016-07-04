@@ -6,7 +6,7 @@ authorlink:
 title: OneDigital Participants Making Waves - Renfrewshire
 excerpt: In the next of our One Digital blogs, find out how Lauren Gilmour from Engage Renfrewshire will use digital to triumph in her new job
 tags: onedigital
-image:
+image: onedigital/lauren.jpg
 ---
 
 **Lauren Gilmour attended Making Digital Everyday training in Paisley on 22nd March 2016.**

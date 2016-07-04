@@ -6,7 +6,7 @@ authorlink:
 title: OneDigital Participants Making Waves - The Western Isles
 excerpt: Annmarie from Stornoway describes how she went from technophobe to Digital Champion
 tags: onedigital
-image:
+image: onedigital/annmarie.jpg
 ---
 I had the privilege of attending One Digital training sessions in Stornoway on 3rd and 4th May, 2016
 
