@@ -8,6 +8,7 @@ excerpt: In our 2nd One Digital blog, find out how Fran Thow from The Food Train
 tags: onedigital
 image: onedigital/fran.jpg
 ---
+
 **I attended SCVO’s first Making Digital Work training session in Stirling on 24th February 2016.**
 
 It was great to hear how technology can help to improve efficiency and connectivity for small Third Sector organisations and to find out that not everything is costly. Many of the really useful suggestions that were flying around the room, from both the attendees and the trainers, were actually free to implement and use.
@@ -18,4 +19,4 @@ On the course I learnt about a variety of digital tools like [MailChimp](http://
 
 All in all a very interesting and useful day with great information sharing from everyone involved.
 
-![Food Train](/images/onedigi blog/foodtrain.jpg)
+![Food Train](/images/onedigital/foodtrain.jpg)

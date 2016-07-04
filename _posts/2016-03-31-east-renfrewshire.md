@@ -23,4 +23,4 @@ Many thanks for this opportunity.
 
 Jennifer Watson and Abigail Peters, Jewish Care Scotland.
 
-![Jewish Care](/images/onedigi blog/jewishcare.png)
+![Jewish Care](/images/onedigital/jewishcare.png)
