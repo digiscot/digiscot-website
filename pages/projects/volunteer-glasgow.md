@@ -72,4 +72,6 @@ We have just completed our second cohort of learners, where we had 10 Refugees/A
 For some of our learners, this was a completely new experience and opened their eyes to the potential and impact digital awareness could have on their life.  
 The learners had a good time made new friends and all completers were presented with a certificate at the end of the course.
 
-https://twitter.com/volworksglasgow/status/743083162738249728
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some of Volunteer Glasgow&#39;s digital skills class learners with St Fernando in the middle. <a href="https://t.co/0ONfpG63s7">pic.twitter.com/0ONfpG63s7</a></p>&mdash; Volunteering Works (@volworksglasgow) <a href="https://twitter.com/volworksglasgow/status/743083162738249728">June 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+

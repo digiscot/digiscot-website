@@ -41,30 +41,29 @@ The Spruce Hub is a place our volunteers can learn at their on pace with the hel
 
 Engage with existing and new volunteers. Assess IT skills and introduce individual training plans. Commence IT training courses with participants reaching basic ECDL level. 
 
-
-
 ## Evaluation
-
-This is where the project lead will share information about what was achieved and what was learned.
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+By the end of the project, our IT tutor had supported 64 people. Of these, 32 improved their IT skills, with 16 gaining employment, 12 college places and 49 reported increased confidence. 
 
-In terms of outputs we delivered A, B and C.
+In the beginning we did classes of 3-4 volunteers but after discussions our tutor relayed back that our volunteers were reluctant to discuss their IT knowledge and abilities among their peers. We then reduced the classes to one to ones and found volunteers were more open when discussing their abilities and with their questions, and concentration levels were raised. 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+Our volunteers are using our Hub daily to complete job searches, updating CV’s and online browsing. Our PC’s are very accessible as they are in the canteen and most volunteers use them when on their breaks as well as in IT training classes.
+
+Having the Hub helped us identify volunteers with literacy issues, as all our volunteering work is manual and we now refer our volunteers to our local library for Adult Literacy Classes.
+
+As a result of the funding, IT is now available to all volunteers in house and we continue to work with our IT tutor to deliver basic and more advanced IT training.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1.  One to one tuition
+2.	Flexible access of IT equipment
+3.	Shorter training slots – we have found this improves concentration and volunteers are more engaged
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. One to one training slots from day one
+

@@ -6,7 +6,7 @@ authorlink: https://twitter.com/CVSFalkirk
 title: OneDigital Action Learning Sets
 excerpt: Karen Herbert, CEO of CVS Falkirk explains in real terms what digital transformation means for a TSI
 tags: actionlearning
-image:
+image: onedigital/KarenHerbert.jpg
 ---
 As leader of a Third Sector Interface, I meet many leaders of other organisations every day. Many charismatic people, very focused and dedicated individuals who are passionate about social justice in its many guises. From small local organisations to large nationals, and discussions cover a wide range of topics.
 

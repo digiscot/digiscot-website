@@ -33,6 +33,9 @@ It is envisaged that 80 individuals will benefit from receiving learning support
 Forres Online Sessions - Online Made Easy
 Free help and advice with mobile phones, laptops and tablets - Tuesdays and Thursdays 2-4pm & Fridays 10-12pm
 
+Forres Online Talks - In Association with Silvercity Surfers
+Take a Tablet, Internet Safety, Facebook Basics, Video Calling
+
 
 ## Project Milestones
 - August 5th: Volunteer recruitment meeting held with 6 interested volunteers
@@ -47,6 +50,12 @@ Free help and advice with mobile phones, laptops and tablets - Tuesdays and Thur
 - December 22nd: 100 attendances reached
 - January 12th: First outreach session held at the local Job Centre
 - January 14th: First public talk held called 'Take a Tablet' attended by 19 people
+- February 16th: Internet Safety talk held attended by 16 people
+- February 22nd: FACT became a registered UK Online Centre and took part in the national Be Online Fortnight
+- March 15th: Fcebook Basics talk held attended by 12 people
+- March 31st: Attendance number surpass 200
+- May 24th: Forres Online hosts Moray Connected project talk with local council
+- June 8th: Forres Online volunteer recognised with 'Outstanding Contribution' award
 
 
 ## Evaluation
@@ -78,3 +87,13 @@ Things that we would do differently next time:
 1. Advertise more widely and more frequently
 2. Using an appointment system as well as drop-in sessions
 3. Organise more public talks and schedule evening sessions too
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.524363131063648.1073741840.213959328770698%26type%3D3&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.524363131063648.1073741840.213959328770698%26type%3D3&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fforresarea%2Fposts%2F545921038907857%3A0&width=500" width="500" height="437" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fforresarea%2Fposts%2F546103902222904%3A0&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fforresarea%2Fposts%2F582234425276518%3A0&width=500" width="500" height="727" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
