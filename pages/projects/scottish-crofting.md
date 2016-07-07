@@ -48,7 +48,8 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 * Purchase 15 Ipad Air 2 with Gumdrop Cases: December 2015
 
 * Development time required to integrate digital inclusion into training programme: January 2016
-
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">SCF training goes <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> with <a href="https://twitter.com/digiscot">@digiscot</a> <a href="https://twitter.com/scvotweet">@scvotweet</a> challenge fund. <a href="https://twitter.com/hashtag/croftIT?src=hash">#croftIT</a> has begun <a href="https://twitter.com/hashtag/cybercrofting?src=hash">#cybercrofting</a> <a href="https://t.co/KYKnvGWdU0">pic.twitter.com/KYKnvGWdU0</a></p>&mdash; Crofting Training (@SCFtraining) <a href="https://twitter.com/SCFtraining/status/740069131664392192">7 June 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 * Run in-house staff training day for Local Course Directors and Tutors at two possible locations: February 2016
 
 * Start of programme - 8 Crofting Entry Level Courses, 48 Practical Skills Courses, 3 Intermediate Seminars, 4 Croft Visits and 4 Demonstration Days: March 2016
