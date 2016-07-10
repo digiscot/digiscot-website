@@ -19,14 +19,23 @@ permalink: /projects/partnerships-for-wellbeing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
-## Project plan
-
 ### Project description
 
 To encourage walkers in Step It Up Highland walking groups to engage with digital technology, to develop their confidence in using digital technology and to use digital technology to tell their own stories. To use the stories produced by walkers to promote walking as an accessible way to self-manage wellbeing.
 
 
 ## Project milestones
+
+To recruit 5 walk groups as pilot groups willing to film their experiences
+
+To deliver 5 training sessions to walk leaders across Highland
+
+To work with partners to deliver training and promote a better understanding of the role of the internet
+
+To capture walk leaders and walkers experiences and upload to a Youtube Channel
+
+Shown below are two intial videos captured on smart phones.  The first was taken at one of our training sessions and shows one of our walk leaders talking about using smart technology to measure her fitness.  The second is the first film captured by our group in Fortrose.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RL6YEjscZVc" frameborder="0" allowfullscreen></iframe>
 Walk leader Lotty talks about downloading a fitness app
@@ -36,13 +45,16 @@ Our first attempt at videoing a walk
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+
+
+
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project has enabled us to support walk leaders and walkers to have a better understanding of the potential for technology to enhance their lives.  With the support of a partner organisation, Citizens Online, we delivered six training sessions in Inverness, Fort William, Thurso, Portree and Poolewe where 80 walk leaders have had the opportunity to work with a local worker to develop their skills and to attend local digital participation workshops.  This support has given both our walk leaders and some walkers the confidence to use their phones and two Go-Pro Cameras to capture their experiences of health walks. In addition the use of walking and fitness apps have increased as people become more confident in their use of technology and support others to access online information and use it to enhance their own experiences.  
+ 
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs we have delivered Video Volunteers specific training to 80 walk leaders in Inverness, Fort William, Thurso, Portree and Poolewe.  Three walking groups, Tomatin, Caol and Strathpeffer groups have taken the Go-Pro cameras and have produced or are in the process of producing videos.  Two groups, Evanton and Tongue have submitted videos filmed on smartphones.  The training, delivered in partnership with Citizens Online involved showing participants how to use their own phones to measure their fitness and to capture their own experiences using their own phones video capacity.  A number of the participants downloaded fitness apps on the training days and this skill has been disseminated across walking groups with more walkers using their phones to record their own fitness.  
 
 In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
