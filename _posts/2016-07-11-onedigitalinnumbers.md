@@ -9,7 +9,7 @@ tags: onedigital
 image: onedigital/maddie.jpg
 ---
 
-####One digital - the story so far in numbers.
+<strong>One digital - the story so far in numbers.</strong>
 
 Since February 2016 the [One Digital](http://digital.scvo.org.uk/onedigital/) team have been on tour, bringing digital participation to Third sector organisations, staff and volunteers. With the help of 32 local anchor organisations, One Digital sessions have been delivered on mainland Scotland from Dumfries to Inverness and Ayr to Aberdeen. On the Islands from Stornoway to Kirkwall and on to Lerwick.
 
@@ -38,12 +38,12 @@ During this time <strong>50</strong> One Digital sessions were delivered to over
 
 <br>For me, as a member of the One Digital team it is very satisfying to hear what participants said about the training:
 
-####<i>“Excellent training, I've learnt so much… thank you.”</i>
+<strong><i>“Excellent training, I've learnt so much… thank you.”</i></strong>
 
-####<i>“It was really useful to have the opportunity to learn, share and think about how we can support each other and all reach more people.”</i>
+<strong><i>“It was really useful to have the opportunity to learn, share and think about how we can support each other and all reach more people.”</i></strong>
 
-####<i>“Excellent starting point to take ownership and get started with my digital inclusion project”</i>
+<strong><i>“Excellent starting point to take ownership and get started with my digital inclusion project”</i></strong>
 
-####<i>“The informal environment made it easy for people to interact, ask questions, and share information. Feeling inspired!”</i>
+<strong><i>“The informal environment made it easy for people to interact, ask questions, and share information. Feeling inspired!”</i></strong>
 
 <br>Confidence grew in using social media, organisations felt they could reach wider audiences and make targeted posts. New ideas were generated and shared, information exchanged, questions answered, solutions found, plans made and people inspired.
