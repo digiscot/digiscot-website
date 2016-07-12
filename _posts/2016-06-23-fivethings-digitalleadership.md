@@ -27,4 +27,4 @@ Since joining the [One Digital](http://digital.scvo.org.uk/onedigital/actionlear
    Being a digital leader means embracing a more open and less hierarchical culture. Our sector needs this. Digital can break down barriers, as a leader you can communicate with end users and staff in ways that just weren’t possible before. One small first step that all leaders can take is to get on social media, be bold, and be yourself.  
 
 
-If you are a CEO, trustee or working from the bottom up we would love to hear from you, and work with you to help make the sector more digital. Get in touch @digiscot 
+If you are a CEO, trustee or working from the bottom up we would love to hear from you, and work with you to help make the sector more digital. Get in touch [@digiscot](https://twitter.com/digiscot) 

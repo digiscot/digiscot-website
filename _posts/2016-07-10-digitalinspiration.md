@@ -31,7 +31,7 @@ To hear more about how we inspired participants to get more digital check out [M
 
 <strong>Let’s Meet Up!</strong>
 
-Now we’re ready to take the next step on the Digital Champion journey with our free One Digital Meet Ups.During August and September One Digital will be delivering a series of short, engaging sessions taking a closer look at many of the digital tools, platforms and learning approaches to help Champions feel even more inspired to fulfil their digital ambitions.
+Now we’re ready to take the next step on the Digital Champion journey with our free One Digital Meet Ups. During August and September One Digital will be delivering a series of short, engaging sessions taking a closer look at many of the digital tools, platforms and learning approaches to help Champions feel even more inspired to fulfil their digital ambitions.
 
 From the best <i>hooks</i> to get learners online to what creative digital tools you can use to get them to go crafting crazy; from blue sky thinking with cloud based platforms to making your digital content sing (maybe even literally). Our Meet Ups are aiming to inspire our One Digital Network to get the most from what’s out there in the digital landscape.
 
