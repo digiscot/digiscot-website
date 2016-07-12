@@ -6,7 +6,7 @@ authorlink: http://www.trustha.org.uk/home/
 title: Digital Champions Network - Online learning to help you
 excerpt: Digital Champion Helen Fay shares her thoughts on our online learning courses & progress with her digital journey
 tags: onedigital
-image: onedigital/helenod.jpg 
+image: onedigital/helen.jpg 
 ---
 
 <strong>[One Digital](http://digital.scvo.org.uk/onedigital/)</strong> participants will know about our online One Digital eModules but did you know that the [Digital Champions’ Network](https://www.digitalchampionsnetwork.com/) offers up a range of <i>other</i> useful eModules too? Accessible to all One Digital training participants, we were keen to assess <i>how</i> it’s helped them to embed [basic digital skills](https://goon-local-prod.s3-eu-west-1.amazonaws.com/resources/files/Basic-Digital-Skills-Framework-FINAL.pdf) and encourage digital change within the third sector.
