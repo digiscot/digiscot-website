@@ -9,7 +9,7 @@ tags: onedigital
 image: onedigital/eilidh.png
 ---
 
-<strong>Looking for a little (digital) inspiration?</strong>
+<strong>Needing some digital inspiration?</strong>
 
 One of the most famous inspirational quotes comes from the ancient Chinese philosopher Lao Tzu – [The Journey of 1,000 miles begins with a single step](http://www.bbc.co.uk/worldservice/learningenglish/movingwords/shortlist/laotzu.shtml).
 
