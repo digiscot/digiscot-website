@@ -3,8 +3,8 @@ layout: post
 date: 2016-07-11
 author: Maddie Stark
 authorlink: https://twitter.com/starkmadelaine
-title: The story so far in numbers
-excerpt: Development Officer Maddie explains the need for and reach of the One Digital project 
+title: Making a digital difference all over Scotland
+excerpt: One Digital are touring the country, delivering basic digital skills to third sector folk everywhere
 tags: onedigital
 image: onedigital/maddie.jpg
 ---
