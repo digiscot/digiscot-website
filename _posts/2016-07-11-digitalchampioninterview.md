@@ -9,7 +9,7 @@ tags: onedigital
 image: onedigital/helen.jpg 
 ---
 
-<strong>[One Digital](http://digital.scvo.org.uk/onedigital/)</strong> participants will know about our online One Digital eModules but did you know that the [Digital Champions’ Network](https://www.digitalchampionsnetwork.com/) offers up a range of <i>other</i> useful eModules too? Accessible to all One Digital training participants, we were keen to assess <i>how</i> it’s helped them to embed [basic digital skills](https://goon-local-prod.s3-eu-west-1.amazonaws.com/resources/files/Basic-Digital-Skills-Framework-FINAL.pdf) and encourage digital change within the third sector.
+<strong>[One Digital](http://digital.scvo.org.uk/onedigital/)</strong> participants will know about our online One Digital eModules but did you know that the [Digital Champions’ Network](https://www.digitalchampionsnetwork.com/) offers up a range of other useful eModules too? Accessible to all One Digital training participants, we were keen to assess how it’s helped them to embed [basic digital skills](https://goon-local-prod.s3-eu-west-1.amazonaws.com/resources/files/Basic-Digital-Skills-Framework-FINAL.pdf) and encourage digital change within the third sector.
 
 ![Digital Unite - Using Government Services Online](/images/onedigital/ducapture3.jpg)
 
@@ -18,7 +18,7 @@ image: onedigital/helen.jpg
 
 <strong>- Are you signed up to the Digital Champions’ Network and if so, have you completed any online courses?</strong> 
 
-Yes, I’ve completed <strong>six</strong> courses so far. From ‘How to use the internet to develop your professional profile’ to ‘Digital fun; using the internet to help people love later life’.
+Yes, I’ve completed six courses so far. From ‘How to use the internet to develop your professional profile’ to ‘Digital fun; using the internet to help people love later life’.
 
 <strong>- How did these prove useful for you and your service users?</strong>
 
@@ -38,7 +38,7 @@ Yes, I had a tenant ask me to show him how to connect to the government website,
 ![Digital Unite - Using Government Services Online](/images/onedigital/ducapture.jpg)
 
 
-<strong>- In our Making Digital Everyday training, we often talk about <i>hooks</i> which are ways of getting learners engaged by digital based on their own personal situation and interests. Have you managed to engage any of your own service users with a <i>hook</i>?</strong>
+<strong>- In our Making Digital Everyday training, we often talk about <i>hooks</i> which are ways of getting learners engaged by digital based on their own personal situation and interests. Have you managed to engage any of your own service users with a 'hook'?</strong>
 
 We have one tenant who is 82 years old and he loves jigsaw puzzles. I showed how to do jigsaw puzzles on a computer and how to then increase/reduce the amount of pieces within the puzzle. This served as a brilliant ‘hook’ and he really began to show interest.
 
@@ -50,7 +50,7 @@ She was blown away by how quickly she could pull everything together using the i
 
 <strong>- How is progress with your action plan? Have you achieved what you set out to do?</strong>
 
-Yes - another Digital Champion, Alexandra Russell (who attended training too) and I launched a <strong>[Digital Participation Pilot](/images/onedigital/stirlingob.pdf)</strong> within <strong>Trust Housing</strong> which has installed ‘kiosks’ and connected residents of our sheltered housing complex to Wi-Fi. Thursday 16th June marked our launch and a very good day it was too. A great mixture of tenants and guests attended and we had a lot of interest in the tablet <i>'kiosk'</i> that we have set up in our lounge. A few of the older tenants who don't have any digital devices also came to sit down and have a look. 
+Yes - another Digital Champion, Alexandra Russell (who attended training too) and I launched a <strong>[Digital Participation Pilot](/images/onedigital/stirlingob.pdf)</strong> within Trust Housing which has installed ‘kiosks’ and connected residents of our sheltered housing complex to Wi-Fi. Thursday 16th June marked our launch and a very good day it was too. A great mixture of tenants and guests attended and we had a lot of interest in the tablet 'kiosk' that we have set up in our lounge. A few of the older tenants who don't have any digital devices also came to sit down and have a look. 
 
 ![Trust Housing Association](/images/onedigital/trustha1.png)
 
