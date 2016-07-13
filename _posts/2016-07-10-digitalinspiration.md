@@ -4,7 +4,7 @@ date: 2016-07-11
 author: Eilidh Little
 authorlink: https://twitter.com/littleeilidh
 title: Needing some digital inspiration?
-excerpt: Development Officer Eilidh unveils the next stage for the One Digital project 
+excerpt: Eilidh unveils the next stage for the One Digital project 
 tags: onedigital
 image: onedigital/eilidh.png
 ---
