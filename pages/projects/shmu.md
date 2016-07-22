@@ -23,23 +23,26 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-
-
+Tillydrone Community Portal: The bulk of the project activities will take place from 17th August to 31st October 2015. Some of the activities will continue after the core work has been delivered in terms of supporting the installation, further roll out of the access to the portal, generation of additional content and additional evaluation.  The project will continue to be supported throughout.
 
 
 ## Project milestones
 
 ### Phase 1
 
-TBC
+Initiation: Meet and engage with all key audiences 
 
 ### Phase 2
 
-TBC
+Community Build Portal: Availability of community portal
 
 ### Phase 3
 
-TBC
+Engagement: Use and development of community portal
+
+### Phase 4
+
+Usage and functionality of community portal 
 
 
 
