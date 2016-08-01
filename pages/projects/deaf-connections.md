@@ -32,7 +32,9 @@ DEAFinitley Digital will support the Deaf Community to develop and advance their
 
 Identify and purchase required hardware & software. Install setup/training server and clients.
 
-Phase 1 Project Update: 
+Phase 1 Project Update:
+
+### June 2015
 
 Our project has had an interesting time since it started. We have successfully installed our new Wireless Access Point, providing improved WiFi access to our lounge/café area and purchased a Microsoft Multipoint server which allows many users to connect to one machine using a common set of applications. This allowed the server administrator to control the desktop of each user and reduces licence costs. 
 
