@@ -12,7 +12,7 @@ facebook-url: https://www.facebook.com/BeithCommunityDevelopmentTrust
 start: 30th November 2015
 end: 31st July 2017
 award: 6000
-postcode: KA15 1BY		
+postcode: KA15 1BY
 image: /images/projects/beith.png
 tags: benefits
 permalink: /projects/beith/

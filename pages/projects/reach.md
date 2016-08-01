@@ -60,6 +60,19 @@ The proposed project is innovative in a sense that it has specific and predeterm
 
 
 ### Evaluation
+First phase of the revamping of REACH Community Health Project's website completed. www.reachhealth.org.uk
+
+The website is now interactive with multiple new features i.e. access of members about the meeting minutes etc., online referral into REACH Services
+
+In the next phase by end of August the website will have 
+i) eHealth Features - this will allow clients to access their diaries i.e. mental health counselling service users will be able to inform REACH about changes to their appointments and the councillors will be able to update their diary too
+ii) The website will allow our partners GPs to access update on their referred patients 
+iii) There will also be an option for anyone in Scotland to share their experiences of using the NHS service 
+and many more features 
+
+Workshops for service users planned from 
+15th & 16th August, more to updates follow, including on training to staff and training to service users on REACH eHealth features & indeed feedback from the workshop sessions 
+
 
 
 ### Lessons learned

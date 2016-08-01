@@ -23,16 +23,16 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-To support 6 volunteer workshops introducing the social media tool LinkedIn as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology. 
+To support volunteer & mentor workshops introducing the social media tool LinkedIn, and other social media platforms, as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology. 
 
 
 ## Project milestones
 
-### Software Development: Ongoing
+### Software Development: Completed
 
 Have identified Webex software to use to deliver webinars and are currently working with the company and our LinkedIn trainer [Jackie Cameron](http://www.consultcameron.com/) to develop her exisiting LinkedIn workshop for webinar format.
 
-We have had to change software providers due to initial communication problems, and delivery issues, however now we are confident with the provider and have completed the 'induction' process.
+We have had to change software providers due to initial communication problems, and delivery issues, however now we are confident with the provider and have completed the 'induction' process. We will continue to use the software platform - Webex - going forward.
 
 ### Delivery: Workshop 1, February 2015
 
@@ -73,7 +73,7 @@ Saying that, all attendees found that the workshop was relevant to their individ
 
 ### Delivery: Workshop 4, 21st October 2015
 
-LinkedIn workshop in Glasgow hosted by PWC
+LinkedIn workshop in Glasgow hosted by PWC (8 attended)
 
 <blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">There&#39;s still time to sign up for our latest workshop! Why not harness the power of social media and <a href="https://twitter.com/hashtag/GetOnInLife?src=hash">#GetOnInLife</a>? <a href="http://t.co/pp2MJWblZd">http://t.co/pp2MJWblZd</a></p>&mdash; ProjectScotland (@ProjectScotland) <a href="https://twitter.com/ProjectScotland/status/656098277364994049">October 19, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -101,32 +101,83 @@ Social Media and Job Hunting  - Creating your own success; hosted by our charity
 80% of attendees stated that they had improved their skills in applying for jobs/development opportunities
 And all attendees agreed that the content was well delivered and useful.
 
-### Webinar & Website development: Ongoing
+### Mentor Workshop 1: March 15th - Edinburgh
+This was our first workshop aimed at mentors which was extremely well received - 5 attended but because this was 'in person' we expected our numbers to be down. The next 2 workshops were webinars which fits in more with the various locations of our mentors (not all are in 1 centralised town/city). Our Mentors are crucial to the volunteering experience supporting young people to reflect on what they are learning and using this to prepare for a work environment. The support of the Digital Challenge Fund has enabled us to give them more resources on how to use Social Media to increase employability skills. This will ensure that Mentors are equipped with the knowledge to focus and advise their volunteers, and also develop their own knowledge.
 
-ProjectScotland website development of 'learning bank' for yougn people to access the webinars and other related links and information- a permanent online resource to be accessed by all ProjectScotland volunteers and other young people.
+All felt that the inclusion of twitter as a platform to job search was really interesting; but also they learnt more about how to present their own skills and experience on this platform as well. All felt that the content was relevant to the support they need to give their volunteers and 100% felt that they came away with valuable learnings.
+
+### Linkedin Workshop (Volunteer workshop 7) Edinburgh - 16th March
+7 young people signed up but only 5 attended.100% of attendees agreed that the content was well delivered and valuable in their goal of getting on in life. 100% agreed that the workshop had improved their skills in job hunting (eg by using Linkedin more effectively) and 80% stated that they better understood what employers might be looking for on their various social media profiles.
+
+### Mentor Workshop 2: April 2016 - 1st webinar
+
+Attended by 5 mentors. All had previous knowledge of Linkedin which is different from the knowledge that the young people we support have - these young people tend to me more engaged with Facebook, Instagram & Snapchat.
+
+All mentors agreed that using technology is vital in their mentoring relationship.And after the training session all agreed that they would be more confident in using Linkedin to support their volunteers' job search.
+
+### Volunteer Workshop 8 - April 2016
+8 signed up but only 3 attended. Again when dealing with young people, many of whom come from chaotic backgrounds, attendance is a challenge. 
+: all agreed that the workshop content was relevant to their goal of getting a job
+: all agreed that the content was well delivered
+: and all agreed that they learnt something valuable
+
+The most useful things that the young people stated that they had learnt was the use of Twitter & Linkedin in terms of their job searching.
+
+### Volunteer Social Media Workshop 9 - 24th May - Edinburgh
+Only 4 people signed on for this webinar - again evidencing the challenge of young people engaging. This was already moved back from a previous date as we hadn't had enough interest. However everybody who attended agreed the following
+: they better understood the skills employers/educational institutions were looking for
+: they better understood how to present their personal qualities to employers (50% strongly agreed/50% agreed)
+: and all agreed that they had better improved their skills in applying for jobs
+
+Some of the most useful things that the young people learnt was how to actually showcase themselves effectively using Linkedin and 1 attendee commented that it was "a great workshop; very interactive & well delivered"
+
+
+### Mentor Workshop 3: 13th June
+17 mentors signed up to this workshop and 13 attended.
+
+All agreed that the content was relevant to their role as a mentor and that they learnt something valuable in terms of being able to offer further support in their mentoring relationship. Interestingly the mentors came to the workshop with a better understanding of different platforms - whilst all felt they needed to learn more about Linkedin; their knowledge set tended to be limited to Twitter and Facebook. Again a sign of the differing platforms that our mentors are familiar with vs the platforms that young people engage with (eg Snapchat, What'sApp)
+
+Some feedback that we had was that attendees would have found it useful to see other questions submitted during the feedback session - this is development that we will be working on for the next series of webinars.
+
+### Last Workshop for Volunteers (10) - 16th June.
+This workshop was attended by XX volunteers including some from our Dumfries Academy project. Once again involved ProjectScotland staff in supporting the delivery of the training and ensuring the tone was suitable for our young people to engage with.
+Awaiting specific feedback. See photo supplied directly to SCVO.
+
+### Webinar & Website development: Completed
+
+This has now been completed - a permanent online resource to be accessed by all ProjectScotland volunteers and other young people.
+Please visit our page [What Next?] (https://www.projectscotland.co.uk/volunteers/what-next/)
+
+Total views since created at end of March (figures up to end of May) – 341
+221 of those are “unique” views so 120 have accessed the page more than once/returned to view more content
+Bounce rate is only 32 % (the norm is 65%-85%) this means once people access the page they stay on it for some time
+17% exit rate (again this is much lower than the norm which is well over 40%) it means people that land on this page rarely leave our website directly from here - shows the content is promising
+268 of those views are in the first fortnight 
+
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+We have learnt a phenomenal amount internally about the importance of these workshops and the challenges that our mentors and young face in a digital context; but also our staff have learnt an enormous amount about how to use the software and increase their own learnings. Going forward we will be continuing to use this technology, particularly for our mentors where it was extremely well received.
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project has supported 23 mentors, 10 ProjectScotland staff to enhance their learning, and supported 57 young people to learn more about the social platforms that can help them get on in life. Overwhelmingly every single workshop was met with 100% approval in terms of content delivery, and usefulness in terms of the support it gave both volunteers and mentors.
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs we delivered 3 workshops aimed at our mentors, development of a central resources section on our website that means young people have more tools at their disposal and 10 workshops for our volunteers.
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+In terms of outcomes for the people and groups we care about, this project has improved the employment prospects of our young people, improved the potential of inter-generational relationships through mentoring & volunteering by enhancing the mentors knowledge of social platforms, and increased the young people's confidence in engaging with employers. We know this because of the continuing feedback we have secured.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. The premise of delivering webinars instead of workshops in 1 fixed location.
+2. Once staff learnt about delivery then the process of delivery was quite easy - we brought in our internal Marketing Manager to support the trainer as well
+3. Engagement with mentors has been a stand out element of this project. They have really benefitted from this training and feel more able to engage & support the young people they work with.
+4. As previously mentioned we brought in our Marketing Manager (a previous ProjectScotland volunteer) who was able to add in her knowledge alongside the trainer. This meant that the tone was kept in line with what young people need and could relate to, and didn't become too formal/professional.
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. Promotion - at the moment we are too reliant on twitter and email. And these elements aren't attracting the volume of numbers we hoped. In the future we would envisage doing more face to face/telephone chasing as well as pulling in more marketing support.
+2. Use internal staff more to deliver these workshops as we know have the knowledge and means to be able to facilitate this.
+3. Ensure we are constantly re-evaluating the content, and sign up process. We had problems with not only attracting sign ups but also attendance once sign up was confirmed. A large part of this is to do with the demographic of young people that we are supporting and it would probably be impossible to secure a 100% attendance rate.

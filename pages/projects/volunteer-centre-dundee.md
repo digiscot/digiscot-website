@@ -88,9 +88,8 @@ The Drop in sessions (6 in total) allowed people to come along with an issue and
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Peer mentoring
+2. Drop-in sessions
 
 Things that we would do differently next time:
 

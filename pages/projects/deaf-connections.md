@@ -32,7 +32,9 @@ DEAFinitley Digital will support the Deaf Community to develop and advance their
 
 Identify and purchase required hardware & software. Install setup/training server and clients.
 
-Phase 1 Project Update: 
+Phase 1 Project Update:
+
+### June 2015
 
 Our project has had an interesting time since it started. We have successfully installed our new Wireless Access Point, providing improved WiFi access to our lounge/café area and purchased a Microsoft Multipoint server which allows many users to connect to one machine using a common set of applications. This allowed the server administrator to control the desktop of each user and reduces licence costs. 
 
@@ -66,7 +68,6 @@ Our new WAP is proving very popular, most of the regular visitors to the buildin
 
 So far so good.
 
-## Evaluation
 
 We have hit something of a snag! We have bought an HP server and 4 HP T410 thin clients, the idea being that buying from the one vendor will avoid any compatibility issues. The data sheet on the HP website says the T410 gives "PC-like performance" and the "highest quality multimedia performance" which sounded exactly what we needed.
 Installation of the server went very well, no great issues at all. The T410 thin client linked up seamlessly, but running a video, from either the iPlayer or Youtube, was a disaster.
@@ -75,6 +76,8 @@ We contacted HP and this was their official responce: "due to a hardware limitat
 In other words this client won't run anything!
 We are now looking at different thin clients and will post pictures when we have everything up and running.
 For now we're more than disappointed.
+
+## Evaluation
 
 ### Outputs and outcomes
 
