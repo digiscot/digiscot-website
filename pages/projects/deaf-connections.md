@@ -66,7 +66,6 @@ Our new WAP is proving very popular, most of the regular visitors to the buildin
 
 So far so good.
 
-## Evaluation
 
 We have hit something of a snag! We have bought an HP server and 4 HP T410 thin clients, the idea being that buying from the one vendor will avoid any compatibility issues. The data sheet on the HP website says the T410 gives "PC-like performance" and the "highest quality multimedia performance" which sounded exactly what we needed.
 Installation of the server went very well, no great issues at all. The T410 thin client linked up seamlessly, but running a video, from either the iPlayer or Youtube, was a disaster.
@@ -75,6 +74,8 @@ We contacted HP and this was their official responce: "due to a hardware limitat
 In other words this client won't run anything!
 We are now looking at different thin clients and will post pictures when we have everything up and running.
 For now we're more than disappointed.
+
+## Evaluation
 
 ### Outputs and outcomes
 
