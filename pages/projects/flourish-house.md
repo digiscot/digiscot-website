@@ -142,12 +142,11 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project was very successful. It engaged people in IT who had previously had little or no experience and were lacking in confidence. We used a variety of media and software and ran several classes, mostly on the same day of the week to ensure continuity and build the profile of digital activity in the Clubhouse. We now have a wi-fi network that Members can access for free and we know that Members are connecting on to this every day. The project also led to a college based IT skills course delivered each week at Glasgow Kelvin College (weekly attendance approx. 10 people)   
+Overall this project was very successful. It engaged people in IT who previously had little or no experience and were lacking in confidence. We used a variety of media and software and ran several classes, mostly on the same day of the week to ensure continuity and build the profile of digital activity in the Clubhouse. We now have a wi-fi network that Members can access for free and we know that Members are connecting on to this every day. The project also led to a college based IT skills course delivered each week at Glasgow Kelvin College (weekly attendance approx. 10 people)   
 
 In terms of outputs we delivered a wide range of IT based courses and activities including using Smartphones, using the Internet and email, online shopping and cyber security, uploading and downloading images, online form filling, using eBay and Amazon, exploring different technologies, internet research and online banking.   
 
-In terms of outcomes for the people and groups we care about, this project has helped to broaden the knowledge, experience and confidence of people in using IT and has introduced new technology to people in a safe, fun and embarrassment free environment.  
-We know this because our weekly IT classes were well attended and full of fun. Each class evaluated well. The project has also increased member activity in IT in the Clubhouse including contributing to our monthly newsletter, doing a weekly online shop online and more people selling items and helping to fundraise on eBay.
+In terms of outcomes for the people and groups we care about, this project has helped to broaden the knowledge, experience and confidence of people in using IT and has introduced new technology to people in a safe, fun and embarrassment free environment. We know this because our weekly IT classes were well attended and full of fun. Each class evaluated well. The project has also increased member activity in IT in the Clubhouse including contributing to our monthly newsletter, doing a weekly online shop online and more people selling items and helping to fundraise on eBay.
 
 ### Lessons learned
 
