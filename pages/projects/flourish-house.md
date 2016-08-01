@@ -152,10 +152,10 @@ In terms of outcomes for the people and groups we care about, this project has h
 
 Things that worked well:
 
-1. 1.	Meeting people where they are at e.g. the smart phone course was the most popular as most people had access to this technology but not aware of its potential. 
+1. Meeting people where they are at e.g. the smart phone course was the most popular as most people had access to this technology but were not aware of its potential. 
 2. Offering 1:1 support on a drop in basis to help people with specific enquiries.   
 3. Making activity relevant – many of the courses were delivered at the request of Members. 
 
 Things that we would do differently next time:
 
-1. Would not buy small laptops (impractical) and would instead buy tablets and / or smartphones as people are more likely to have these at home.
+1. We would not buy small laptops (impractical) and would instead buy tablets and / or smartphones as people are more likely to have these at home.
