@@ -43,7 +43,8 @@ Walk leader Lotty talks about downloading a fitness app
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-DL-L1MrYEU" frameborder="0" allowfullscreen></iframe>
 Our first attempt at videoing a walk
 
-Here is a [presentation](https://www.slideshare.net/secret/i7m1otVrdMiBtI) showing our Step It Up Highland walking group. 
+
+Here is a [presentation](https://www.slideshare.net/secret/i7m1otVrdMiBtI) showing one of our Step It Up Highland walking groups. 
 
 ## Evaluation
 
