@@ -34,6 +34,7 @@ To work with partners to deliver training and promote a better understanding of 
 
 To capture walk leaders and walkers experiences and upload to a Youtube Channel
 
+
 **Project videos and presentation**
 
 Shown below are two intial videos captured on smart phones.  The first was taken at one of our training sessions and shows one of our walk leaders talking about using smart technology to measure her fitness.  The second is the first film captured by our group in Fortrose.
@@ -44,7 +45,6 @@ Walk leader Lotty talks about downloading a fitness app
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-DL-L1MrYEU" frameborder="0" allowfullscreen></iframe>
 Our first attempt at videoing a walk
-
 
 
 
