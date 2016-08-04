@@ -62,14 +62,16 @@ In terms of outputs we have delivered Video Volunteers specific training to 80 w
 
 ### Lessons learned
 
+1. Give people time to think, absorb and then take up the challenge.  We found that a lot of our volunteers needed time to 'come round' to the idea of going digital.  
+2. Get the people who are enthusiastic to encourage those who are not.  This worked well in walking groups, with people who were happy to use all things digital really supporting those who were less keen to try it out.   
+3. Keep it simple.  
+
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. We purchased two GoPro Cameras and used them in training sessions to film walks at lunch time.  Once people saw how easy it was to film and how simple the GoPro was they really engaged with idea.  Seeing the walk they had just taken on screen helped some volunteers to see how a film could be used to support their group - as demonstrated by the presentation prepared by one of our walking groups.  
+2. The GoPro cameras were a real success.  They are small and easy to use and our volunteers found that they could easily fit in with the walking group as they could be worn on a chest harness.
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. We had hoped that people would use their own phones/cameras to film.  We had much more success getting groups to use the GoPro than their own equipment.  On reflection, we could have demonstrated how easy a phone camera is to use by filming a walk in the way we did with the GoPro 
+2. The idea that we would put films onto our YouTube channel put some people off of filming as they did not want to appear on a pubic platform.  Reflecting on this we could have done more to explore ways of sharing some films whilst keeping them private.
