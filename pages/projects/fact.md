@@ -61,18 +61,9 @@ Take a Tablet, Internet Safety, Facebook Basics, Video Calling
 ## Evaluation
 The project evaluation was carried out using a short questionnaire with online, telephone and hard copy feedback being collected.
 
-
 ### Outputs and Outcomes
-Outputs Delivered:
--
--
--
 
-Outcomes Delivered:
--
--
--
-
+Free information sessions offering help and information on using mobiles, tablets and with social media. 
 
 ### Lessons Learned
 
