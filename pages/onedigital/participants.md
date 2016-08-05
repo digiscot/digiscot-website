@@ -52,7 +52,7 @@ If you have never been to a meetup before don’t worry- we would love to have y
 
 We also run training and are interested in hearing from organisations who feel they would benefit from a session for their staff.
 
-![One Digital training](/images/onedigital/nltraining.jpg)
+![One Digital training](/images/onedigital/rsz_nltraining.jpg)
 
 #### We offer two courses and the focus of these is outlined below:
 
