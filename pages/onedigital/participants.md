@@ -38,9 +38,9 @@ Working in partnership with Digital Unite, we are able to offer free access to a
 
 	* Finding a job
 
-3. How to get involved:
+<strong>How to get involved</strong>
 
-	If you would like to access the online modules, or you like to make them available to other people in your organisation email us at [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk).
+If you would like to access the online modules, or you like to make them available to other people in your organisation email us at [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk).
 
 ## Events
 
@@ -50,9 +50,9 @@ If you come along to a meetup you will find a friendly and welcoming atmosphere,
 
 If you have never been to a meetup before don’t worry- we would love to have you along. <strong>[Click here](http://www.meetup.com/One-Digital-Meetup/)</strong> to find out where and when your closest meetup is taking place.
 
-We also run training and are interested in hearing from organisations who feel they would benefit from a session for their staff.
-
 ![One Digital training](/images/onedigital/rsz_nltraining.jpg)
+
+We also run training and are interested in hearing from organisations who feel they would benefit from a session for their staff.
 
 #### We offer two courses and the focus of these is outlined below:
 
