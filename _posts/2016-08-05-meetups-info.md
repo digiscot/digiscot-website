@@ -55,4 +55,4 @@ These events form part of an amazing global network called NetSquared, compirsed
 Sign up now to become part of an inspirational network of change makers!
 If you know anyone who might like to join you in becoming part of the One Digital movement, then please share this with them.
 
-![Meetups banner](/images/onedigital/netsquaredbanner.jpg)
+![Netsquared](/images/onedigital/netsquared.jpg)
