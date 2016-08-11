@@ -63,11 +63,17 @@ This project created a “community portal” template with the intention of usi
 **In terms of outputs we:**
 
 •	Delivered a community based research project which established patterns of pre-project IT usage and preferences for further work in the community [110 active participants]  
+
 •	Organised 16 community events and workshops to examine how residents perceived new technologies and what opportunities existed to integrate these into their lives.  
+
 •	Staged 12 training sessions in 4 community venues build around the benefits of using technology to enhance community life
+
 •	Held 60 ‘drop-in’ support sessions in 4 community venues to improve competence and confidence in the use of IT
+
 •	Produced information displays and interpretation panels as part of the community capacity building
+
 •	Designed a digital gateway for the community portal which supported the authentication required to access the community based WiFi network
+
 
 **In terms of outcomes for the people and groups we care about, this project has:**   
 
