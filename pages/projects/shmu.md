@@ -72,12 +72,19 @@ This project created a “community portal” template with the intention of usi
 **In terms of outcomes for the people and groups we care about, this project has:**   
 
 •	Generated a baseline understanding of existing internet connectivity and usage within the Tillydrone community [it is considered that there are similarities with other communities within which we work]
+
 •	Increased trust between residents, community organisations and service providers
+
 •	Improved awareness of best practice for future and further community engagement
+
 •	Increased understanding of the future uses to which technological solutions could be applied
+
 •	Increased the capability of local people to access and make productive use of the internet
+
 •	Increased the skill and competence level of community members in relation the use of computer equipment [desktop, laptop, tablet & mobile devices] and a range of computer applications
+
 •	Increased the number of residents in the Tillydrone community making regular access to the internet 
+
 •	Increased the purposes for which residents access the internet
 
 ### Lessons learned
