@@ -27,7 +27,9 @@ IT suite refurbishment to support the development of Toryglen Digital Base and i
 ## Project milestones
 
 Phase one: Purchase and installation of equipment 
+
 Phase two: Marketing of service & recruitment of participants 
+
 Phase three: Ongoing use of facility, service accessed throughout the year for various learning activity 
 
 ### Phase 1 January 2015
