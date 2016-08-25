@@ -76,6 +76,26 @@ Stage Four – Progression on to self-sustaining/co-production groups, volunteer
 
 * 5 volunteers will be trained by CLD and supported to cascade their skills learned to other older and disabled Inverclyde Residents
 
+### Project update August 2016
+
+The project started a little later than anticipated, on April 1st 2016
+
+We decided to run the courses in two phases: in **phase 1** four groups started in May and recruited 30 learners (**Project stage 1 complete**). Each of these courses ran for 12 weeks, integrating contextualized ICT skills training into a study of Family and Local History Research (**Project stages 2 and 3 complete July**).  This was a slight departure from the original plan, which was to run a six week course on basic ICT skills, followed by six weeks on Family and Local History (and digital photography).  The rationale for this amendment was that initial ICT assessment identified that many of the learners had sufficient basic ICT skills to start their family and local history, which they were most motivated to do.  In this way ICT development ran alongside the historical research components. Initial analysis of the *Basic Digital Skills Assessment Questionnaire* showed significant gains at the end of the 12 weeks.
+
+Two of the classes ran in local libraries and completed in July.  Both these groups decided to continue to meet on a voluntary basis, following the Co-production model that Inverclyde Council had successfully introduced for other classes (**Stage 4 – August**).  One learner volunteered to act as a group co-ordinator. Each group has informal volunteers who perform roles in the group from organising materials to dealing with refreshments.  Inverclyde Council CLD and Libraries services will continue to support these co-producing groups in the future. Community Work support is available if the groups want to be constituted and apply for funding. The project will continue to link in with the groups until the end of the funding period.
+
+The other two April start groups ran in a community centre.  One of these groups is on the path to the Co-production model and is currently working with a volunteer tutor and a paid member of staff from within the CLD team (not funded through this project). They are continuing to work on ICT skills and history. It is anticipated that by October they will be meeting with only support from the volunteer tutor. 
+
+Attendance in all four groups was excellent throughout. With a group of learners predominately over 55 one would expect some falling off in attendance due to health problems; furthermore much of the course was undertaken during the main holiday season.  Nevertheless attendance remained above 50% in every class throughout the 12 weeks and showed no falling off towards the end of the programme.   In total the 30 learners in phase 1 accumulated over 400 hours of attendance over the 12 weeks.
+
+Evaluation for all four groups was extremely positive.   Representative examples of feedback from course evaluation:
+
+> *“Great IT backup” “Learnt new skills” “I found the course interesting and informative” “Excellent tutor”* 
+
+**Case study**: a learner started the course with an interest in Family History but limited ICT skills and he was unaware of the potential for using ICT in genealogical research.  Classes on the use of sites such as Ancestry.com and Scotlandspeople.gov.uk enabled him to make great strides in exploring his family tree. He became proficient at using these sites and it enabled him to develop related ICT skills (in managing information, transacting and problem solving).  He reported that he was greatly impressed by what he had learned and that he and his wife now spent much of their spare time on the internet using these new skills.
+
+**Phase 2:**  Three more groups are starting at the end of August and will complete in November.  Again it is hoped that some of these groups will continue to meet and may constitute themselves as formal voluntary organisations studying family and local history.
+
 ### Evaluation
 
 
