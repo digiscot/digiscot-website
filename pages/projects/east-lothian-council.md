@@ -50,7 +50,8 @@ It is envisaged that classes will take place weekly and a session will last for 
 
 ### Evaluation
 Due to unforeseen circumstances our first session did not begin until the 7th of March, 2 months behind schedule! However, Jane steamed ahead and started the second couple 2 weeks later on the 21st of March. This proved successful with the pairs learning from each other. Group 3 began sessions on the 9th of May and to date have had 5 weeks of tuition and will finish next week on the 20th of June. Next up are Mr and Mrs Young whose 6 weeks started on the 13th of June so they too will experience a slight roll over with the previous couple.
+Our next student, Freda, involved a little more organisation alongwith partnership working before she even attended her first class in August. Freda is well known to us as a regular library user in Musselburgh. Staff persuaded Freda that the classes would be beneficial to her as rather than being limited to listening to books on CD she could widen her choice by downloading e-audiobooks. This was fine but Freda was unhappy about travelling to Wallyford on her own. The help of the local Rotary was sought and they now take Freda to and from her class every Monday where she is thoroughly enjoying herself.
 
 ### Lessons learned
-
+One lesson learned early on was that timescales do slip. Staff and students can be ill, they take holidays etc. However, being flexible and working around people has ensured the project has remained on track with happy learners as a result.
 
