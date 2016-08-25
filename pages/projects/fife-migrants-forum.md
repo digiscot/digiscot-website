@@ -142,6 +142,7 @@ Due to the nature of our work with the migrants community, it was essential to w
 **Outcomes**
 
 **Employability**
+
 As previously mentioned in this report, over 95% of our clients stated that improving their employability skills was a key aspect of their digital education. We noted that our participants were interested in CV creation, using Microsoft Office packages and online job search. We addressed these needs in our group workshops, individual IT and Job Club sessions. Fife Migrants Forum clients significantly benefited from this particular aspect of our digital work. 
 
 Over 70% of our participants learned how to create a CV and email potential employers. From the final feedback forms we also  learned that XXX of our clients managed to find employment thanks to our guidance and support. Moreover, some of the individuals who regularly attended the IT clinic are now informally supporting their networks in this area and are considered “digital experts” among their friends and co-workers.
