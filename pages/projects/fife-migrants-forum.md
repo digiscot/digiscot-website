@@ -166,9 +166,12 @@ In order to efficiently coordinate our digital education programme, we required 
 
 Final thoughts 
 
-Having bilingual workshop is essential
-Individual approach more effective than group setting
-Employability skills considered as most important among migrant community
+1.) Having bilingual workshop is essential
+
+2.) Individual approach more effective than group setting
+
+3.) Employability skills considered as most important among migrant community
+
 
 
 
