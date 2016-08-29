@@ -76,6 +76,17 @@ Here are some of this things our students have said about the classes:
 "I'm more aware of the dangers of using the internet - and would like to learn more!" 
 "The course was very helpful and informative - the tutor was good at dealing with a class of people of different standards"
 
+* June 2016
+We have taken a break for the summer - we find that our learners prefer to make the most of the sunshine! But we are busy planning our next set of Cairngorms Computer Confidence courses & hoping to work on an unsubsidised next stage course as many of our Learners are keen to learn more. 
+
+* August 2016
+With the start of the Autumn term we are back in full swing with more computing courses. Our next stage course, Cairngorms Computer Confidence EXTRA is underway and we are looking forward to our next two beginners classes which start in September. 
+We are very excited to be using a new venue for one of these classes: 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fclponline%2Fposts%2F820986481370996&width=500" width="500" height="828" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+Our class in Grantown will continue - we are hoping to reach more learners by by working with VABS (Voluntary Action in Badenoch & Strathspey) to attract some of their volunteers & help boost their computing skills. 
+
 ### Evaluation
 
 
