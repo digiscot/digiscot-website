@@ -24,16 +24,8 @@ The campaign will also have television and local press advertising, PR and partn
 The Let's Get Online website will be launched in **May**. In the meantime if you want to help spread the word, have a great case study to share or just want to ask a question, contact the Let’s Get Online Team: simon.ebbett@gov.scot or Caroline.Cairns@union.co.uk  
 
 
-### DigiScotFest Spring 2016 
-Edinburgh, 4 February 2016 - Reserve your space via the <a href="http://www.scvo.org.uk/events/digiscot-fest-spring-2016/">booking page</a> 
 
 
-## Past events
-
-### Scotland's Digital Future
-Edinburgh, 16 November 2015
-
-Join us for an evening of celebration for the digital participation movement, in partnership with [Digital Leaders](http://digitalleaders.co.uk/) and [Sopra Steria](http://www.soprasteria.co.uk/en). [Find out more and book](http://digitalleaders.co.uk/dl-local/scotland/).
 
 
 
