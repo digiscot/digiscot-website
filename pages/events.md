@@ -13,7 +13,11 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
+**One Digital meetup's**
+
 [One Digital meetup - Stirling](http://www.scvo.org.uk/events/one-digital-meet-up-stirling/)
+
+[One Digital meetup - Aberdeen](http://www.scvo.org.uk/events/one-digital-meetup-aberdeen/)
 
 ### Let’s Get Online campaign launch
 
