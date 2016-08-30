@@ -21,6 +21,10 @@ Our free One Digital meetups are for anyone in the third sector with an interest
 
 [One Digital meetup - Aberdeen](http://www.scvo.org.uk/events/one-digital-meetup-aberdeen/)
 
+[One Digital meetup - Fife](http://www.scvo.org.uk/events/one-digital-meetup-fife/)
+
+[One Digital meetup - Edinburgh](http://www.scvo.org.uk/events/one-digital-meetup-edinburgh/)
+
 ### Let’s Get Online campaign launch
 
 About one in six people in Scotland currently don’t access the internet. For many, being online could help reduce isolation, improve quality of life and enable them to access hobbies, education and opportunities.
