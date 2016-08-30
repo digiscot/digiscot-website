@@ -13,6 +13,8 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
+[One Digital meetup - Stirling](http://www.scvo.org.uk/events/one-digital-meet-up-stirling/)
+
 ### Let’s Get Online campaign launch
 
 About one in six people in Scotland currently don’t access the internet. For many, being online could help reduce isolation, improve quality of life and enable them to access hobbies, education and opportunities.
