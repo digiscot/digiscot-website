@@ -69,33 +69,5 @@ We invited all of the [projects that we're supporting](/projects) through the [D
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jqvS6WxepNQ"></iframe>
 </div>
 
-### Digital Scotland Festival Shetland
-Lerwick, 23 March 2015
 
-### Digital Scotland Festival Orkney
-Kirkwall, 17 March 2015
 
-### Digital Scotland Festival at The Gathering 2015
-Glasgow, 25-26 February 2015
-
-### Digital Scotland Festival Glasgow
-Glasgow, 20 November 2014
-
-### Digital Scotland Festival D&G
-Dumfries & Galloway, 22 October 2014
-
-### Digital Scotland Festival North
-Strathpeffer, 7 October 2014
-
-### Digital Scotland Festival
-Edinburgh, 16 June 2014
-
-### Digital Scotland Festival at The Gathering 2014
-Glasgow, 19-20 February 2014
-
-### Digital Participation Launch Event
-Edinburgh, 21 November 2013
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cVMGVQMh1iU"></iframe>
-</div>
