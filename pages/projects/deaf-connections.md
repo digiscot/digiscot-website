@@ -73,7 +73,7 @@ Fingers crossed our next three months run smoother than the past three.
 
 Since our last update we have had considerable interest from the Deaf community. Our project worker Derek has been working with a number of individual Deaf people, some of whom simply want help with how to operate their new phone, others want a try of a tablet to see if it would suit their needs and one woman has come in asking for a course on how to use Excel!
 
-Derek has also been working with our Glasgow Group, a group of women who visit Glasgow landmarks, such as the People's Palace and then make a short film and blog about what they discovered. Derek has been assisting them with the multimedia element of that, the video camera, how to use the video clips they have made and then showing them how to upload to their blog.
+Derek has also been working with our Glasgow Group, a group of women who visit Glasgow landmarks such as the People's Palace, and then make a short film and blog about what they discovered. Derek has been assisting them with the multimedia element of that, the video camera, how to use the video clips they have made and then showing them how to upload to their blog.
 
 Our new WAP is proving very popular, most of the regular visitors to the building make good use of it and our new multipoint server in the learning room, after some hideous teething troubles, is being well used.
 
@@ -114,7 +114,7 @@ Overall this project supported the Deaf community to develop and advance their d
 
 **We know this because:**
 
-•	Our OAP club members are now able to use social media/ oovoo/ facetime to make calls to family and friends. We offer a private room for members to use these technologies
+•	Our OAP club members are now able to use social media/ ooVoo/ FaceTime to make calls to family and friends. We offer a private room for members to use these technologies
 
 •	Deaf people have used and continue to use computers at Deaf Connections
 
