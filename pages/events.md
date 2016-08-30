@@ -13,9 +13,13 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
-### One Digital meetups
+### Skyscanner OneDay event 7th October 2016
 
-Our free One Digital meetups are for anyone in the third sector with an interest in digital. 
+Talks and digital workshops from the lovely folks at Skyscanner. Further info to follow... 
+
+### One Digital meetups 2016
+
+Our free One Digital meetups starting on the 1st September are for anyone in the third sector with an interest in digital. 
 
 [One Digital meetup - Stirling](http://www.scvo.org.uk/events/one-digital-meet-up-stirling/)
 
