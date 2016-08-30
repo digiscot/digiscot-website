@@ -32,7 +32,19 @@ DEAFinitley Digital will support the Deaf Community to develop and advance their
 
 Identify and purchase required hardware & software. Install setup/training server and clients.
 
-Phase 1 Project Update:
+### Phase 2
+
+Publicize new training area and assistance program (leaflets and BSL video for Facebook and reception TV). Commence with classes and drop centre help in café. Record baseline. 
+
+### Phase 3
+
+Progress review 
+
+### Phase 4
+
+Evaluation 
+
+## Project Updates:
 
 ### June 2015
 
