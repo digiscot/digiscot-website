@@ -83,7 +83,7 @@ For now we're more than disappointed.
 
 Overall this project supported the Deaf community to develop and advance their digital skills. Deaf Connections adapted the community café into a space where people could come and talk to a Deaf “Digital Challenge” trainer. Deaf people were able to use modern equipment during informal drop in sessions. The project reached out to our 500 members and encouraged them to think of Deaf Connections as a friendly, comfortable and informal place to learn. 
 
-In terms of outputs we delivered:
+**In terms of outputs we delivered:**
 
 •	Direct engagement with 150 people over 12 months
 
@@ -98,7 +98,7 @@ In terms of outputs we delivered:
 •	Support given to Deaf Connections staff and volunteers
 
 
-In terms of outcomes for the people and groups we care about, this project has:
+**In terms of outcomes for the people and groups we care about, this project has:**
 
 •	Improved access to free, accessible and culturally accessible sensitive digital training and experiences for the deaf community
 
@@ -110,7 +110,7 @@ In terms of outcomes for the people and groups we care about, this project has:
 
 •	Supported deaf people with additional health issues to get online.
 
-We know this because:
+**We know this because:**
 
 •	Our OAP club members are now able to use social media/ oovoo/ facetime to make calls to family and friends. We offer a private room for members to use these technologies
 
@@ -124,7 +124,7 @@ We know this because:
 
 ### Lessons learned
 
-Things that worked well:
+**Things that worked well:**
 
 1.	Informal drop-in sessions giving opportunity for people to bring in own IT
 
@@ -132,7 +132,7 @@ Things that worked well:
 
 3.	Self-assessment forms and setting of own goals
 
-Things that we would do differently next time:
+**Things that we would do differently next time:**
 
 1.	Increase hours of project worker to meet demand
 
