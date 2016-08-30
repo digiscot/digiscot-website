@@ -13,7 +13,9 @@ We host regular, free events for people interested in digital participation in S
 
 ## Upcoming events
 
-**One Digital meetup's**
+### One Digital meetups
+
+Our free One Digital meetups are for anyone in the third sector with an interest in digital. 
 
 [One Digital meetup - Stirling](http://www.scvo.org.uk/events/one-digital-meet-up-stirling/)
 
