@@ -52,7 +52,7 @@ We also have a similar ‘framework’ approach to equipping our students with s
 
 ### Progress Report May 2016
 
-##Target - First purchases and staff training starts.  
+**Target - First purchases and staff training starts.** 
 
 * Staff will receive training from Ouarriers. Based upon their Go For It sessions. **Booked provisionally for 17th May.  Staff identified and freed up.** 
 
@@ -61,21 +61,21 @@ We also have a similar ‘framework’ approach to equipping our students with s
 * Launching with the Photography and Social Media workshops first. First purchases include 8 android tablets a secure housing and charging station and 3 wireless hubs.  **All purchased and all arrived except the charging station.**
 
 
-##Progress this month. 
+**Progress this month.** 
 
-#1. Purchasing 
+*1. Purchasing* 
 
 All purchasing has been completed.  8 iPads have been purchased, with covers and screens for each.  The Boardmaker software has been bought and tried, the disk is able to install on Windows only, so this has been factored into the planning.  The secure housing and charging station has been purchased and a space has been cleared for storage for it.  The wireless hubs have been purchased and plugged in to check their use. 
 
-#2. Workshops 
+*2. Workshops* 
 
 Facilitators have been identified, and discussion of the trial has taken place with them.  The initial plans have been completed with all so everyone has a starting point.  This has use of iPad built into it, for the students and the staff.  IPad set up time has been set up for 2/5/16 with the assistance of 3 of the facilitators (1 cannot attend).  All staff had refresher training booked on Apple software currently in use as a refresher in advance. 
 
-#3. Training 
+*3. Training* 
 
 Training provisionally booked for 17th May, all staff attending aware, waiting on final word from Quarriers.  Introductory session discussion will take place at the end of this day.  At this point we will have a soft roll out of all workshops (with same material at first week, then planning to be completed for remaining 3 weeks by 21st May. 
 
-##Next steps 
+**Next steps** 
 
 Staff complete lesson plans and first block of training 21st May 2016 
 
