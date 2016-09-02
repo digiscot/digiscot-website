@@ -72,13 +72,13 @@ We know this because we review and monitor all data captured, have a registratio
 
 ### Lessons learned
 
-Things that worked well:
+**Things that worked well:**
 
 1. Bringing further training and learning provision into the Ruchazie community allowed people easy access. People in Ruchazie could also access training and learning at Cranhill site.
 2. Volunteer support from local people encouraged others to get involved.
 3. The venue having an open community space and café were people can drop in.
 
-Things that we would do differently next time:
+**Things that we would do differently next time:**
 
 1.	Plan more staff resource over a longer timescale
 2.	Work on marketing strategy (in progress)
