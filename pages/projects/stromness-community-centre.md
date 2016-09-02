@@ -47,9 +47,7 @@ Overall this project was a great success. Evaluations were all very positive. Ev
 
 In terms of outputs we ensured an informal and relaxed work style that the trainees were comfortable with. We encouraged trainees to use iPads themselves more than the young leaders showing them everything.  
 
-In terms of outcomes for the people and groups we care about, this project has given the trainees more confidence in using modern technology and taught trainees about a wider world of technology and recourses available to them.
-
-We know this because it was reflected in the evaluations and feedback. 
+In terms of outcomes for the people and groups we care about, this project has given the trainees more confidence in using modern technology and taught trainees about a wider world of technology and recourses available to them. We know this because it was reflected in the evaluations and feedback. 
 
 ### Lessons learned
 
