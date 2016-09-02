@@ -37,7 +37,7 @@ Upon installation of our Click and Connect Lite Learning Centre in Ruchazie Pari
 
 ### Outputs and outcomes
 
-In terms of outputs we delivered:
+**In terms of outputs we delivered:**
 
 36 Digital Work Clubs, 66 people participated 
 
@@ -57,7 +57,8 @@ Employment Outcomes, 11 people gained employment
 
 Achieved Qualification, 19 people achieved 
 
-In terms of outcomes for the people and groups we care about this project has: 
+
+**In terms of outcomes for the people and groups we care about this project has:** 
 
 Increased confidence and digital skills of local people
 
