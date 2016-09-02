@@ -33,26 +33,53 @@ Cranhill Development Trust will be working in partnership with the Wheatley Grou
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+Upon installation of our Click and Connect Lite Learning Centre in Ruchazie Parish Church in July 2015 we then launched our Digital Work Clubs at Ruchazie. The Digital Work Clubs were one day per week followed by the introduction of further learning and training provision that was made available. The Click and Connect Learning Centre was supported by Digital volunteers who were identified through their involvement in the local community allowing further support to people who were dropping into the learning centre, overall 160 users received free access to the learning centre. 
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+In terms of outputs we delivered:
 
-In terms of outputs we delivered A, B and C.
+36 Digital Work Clubs, 66 people participated 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+12 Digital Skills Classes, 9 people participated
+
+1 Employability Skills Class “Let’s get that job”, 6 people participated 
+
+1 Employability Sector Specific Training Food Hygiene, 10 people participated 
+
+Finance Budgeting, 4 people participated 
+
+Digital Volunteers, 5 people participated 
+
+Café Volunteers at Ruchazie Parish Church, 3 people participated 
+
+Employment Outcomes, 11 people gained employment
+
+Achieved Qualification, 19 people achieved 
+
+In terms of outcomes for the people and groups we care about this project has: 
+
+Increased confidence and digital skills of local people
+
+Improved employability chances 
+
+Increased number of people participating in volunteer opportunities
+
+Reduction in number of people unemployed
+
+We know this because we review and monitor all data captured, have a registration and assessment process in place and record attendance for all activities. We gather feedback and case studies on an ongoing basis.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Bringing further training and learning provision into the Ruchazie community allowed people easy access. People in Ruchazie could also access training and learning at Cranhill site.
+2. Volunteer support from local people encouraged others to get involved.
+3. The venue having an open community space and café were people can drop in.
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1.	Plan more staff resource over a longer timescale
+2.	Work on marketing strategy (in progress)
+3.	More realistic of timescale when install taking place
+
