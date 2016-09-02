@@ -13,15 +13,11 @@ I am a sheltered housing co-ordinator and passionate about my job and the amazin
 
 When I received the call to say that our development had been chosen to have Wi-Fi installed into all flats, communal areas and guest rooms it’s fair to say I was really excited. Then the co-ordinator brain took over … how do I get the tenants interested, excited and involved? It’s not always an easy task.
 
-The following day I was in an elderly tenant’s flat and she was talking about how she used to travel the world and how much she misses visiting other countries. The internal light bulb came on: 
-
-<strong>if they can no longer go into the world then the world can come to them. <i>That</i> would be my starting point.</strong>
+The following day I was in an elderly tenant’s flat and she was talking about how she used to travel the world and how much she misses visiting other countries. The internal light bulb came on, if they can no longer go into the world then the world can come to them. That would be my starting point.
 
 I arranged a tenants’ meeting and focused on how using the internet allows them to open the door to the world from the comfort of their own homes. I arranged some taster sessions with ACE IT, a company who arrived with tablets and iPads for tenants to use. One of our tenants, Esther Parker, was quietly interested but like many others scared of breaking the tablet. After some reassurance that really this was quite difficult to do Esther decided to go for it and attended the class. Afterwards she was one word – hooked!
 
 Esther’s enthusiasm spread to other tenants and soon the development was alive with a digital buzz. Esther said they were now hungry for information.
-
-![Trust HA Esther](/images/onedigital/esther.jpg)
 
 Esther is 79 years old and the chairperson of our Registered Tenants’ Organisation. She does a lot of organising and networking, not to forget her amazing baking. I explained to Esther how much being connected can help her with these things.
 
