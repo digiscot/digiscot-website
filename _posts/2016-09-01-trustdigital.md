@@ -20,6 +20,9 @@ The following day I was in an elderly tenant’s flat and she was talking about 
 I arranged a tenants’ meeting and focused on how using the internet allows them to open the door to the world from the comfort of their own homes. I arranged some taster sessions with ACE IT, a company who arrived with tablets and iPads for tenants to use. One of our tenants, Esther Parker, was quietly interested but like many others scared of breaking the tablet. After some reassurance that really this was quite difficult to do Esther decided to go for it and attended the class. Afterwards she was one word – hooked!
 
 Esther’s enthusiasm spread to other tenants and soon the development was alive with a digital buzz. Esther said they were now hungry for information.
+
+![Trust HA Esther](/images/onedigital/esther.jpg)
+
 Esther is 79 years old and the chairperson of our Registered Tenants’ Organisation. She does a lot of organising and networking, not to forget her amazing baking. I explained to Esther how much being connected can help her with these things.
 
 Tenants started buying tablets and laptops, with others borrowing from their sons and daughters. Esther bought herself a tablet. We arranged more lessons which Esther attended and she learned to play her favourite game of Solitaire.
