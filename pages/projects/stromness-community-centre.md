@@ -43,22 +43,23 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project was a great success. Evaluations were all very positive. Everyone that attended said they would recommend the group to friends and family and would return for follow up sessions.   
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs we ensured an informal and relaxed work style that the trainees were comfortable with. We encouraged trainees to use iPads themselves more than the young leaders showing them everything.  
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+In terms of outcomes for the people and groups we care about, this project has given the trainees more confidence in using modern technology and taught trainees about a wider world of technology and recourses available to them.
+
+We know this because it was reflected in the evaluations and feedback. 
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Providing tea, coffee and cakes
+2. Young people being previously trained in how to deliver training to older people
+3. Having the same trainees attending - young people got to know them 
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. Have more one to one sessions for older people who are more hard of hearing as being in a group sometimes confused them
+
