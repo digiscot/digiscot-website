@@ -82,5 +82,5 @@ We know this because we review and monitor all data captured, have a registratio
 
 1.	Plan more staff resource over a longer timescale
 2.	Work on marketing strategy (in progress)
-3.	More realistic of timescale when install taking place
+3.	More realistic timescale of when install taking place
 
