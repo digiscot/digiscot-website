@@ -65,7 +65,7 @@ To reflect the change to the completion date of the Moodle and taking into consi
 
 ### Outputs and outcomes
 
-Overall this project delivered a range of mentored digital CPD learning resource for a wide range of frontline staff (Youth, Community, Play workers, ESOL and ALN tutors. The content was based on the ’23 Things’ approach originally developed for Information Professionals and more recently adopted by the Scottish Government Library as a digital learning approach for civil servants.  
+Overall this project delivered a range of mentored digital CPD learning resource for a wide range of frontline staff (Youth, Community, Play workers, ESOL and ALN tutors). The content was based on the ’23 Things’ approach originally developed for Information Professionals and more recently adopted by the Scottish Government Library as a digital learning approach for civil servants.  
 
 In terms of outputs we have to date delivered training for 40 frontline workers. The training materials are currently being reviewed and expanded following feedback from the first tranche of trainees and will commence again in Autumn 2016 after a workforce rationalisation process has concluded.  
 
