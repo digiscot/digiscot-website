@@ -80,26 +80,47 @@ Our computer suite is also open to the public and they too are enjoying the bene
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
-
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project promoted digital inclusion for local residents. The installation of the initial IT Suite led to the development of a new partnership with the Wheatly Group, GHA and Glasgow Kelvin College who supported us to further develop and upgrade the facilities and install a new Click and Connect Learning Centre.  The IT Suite enabled us to widen participation in learning for people from disadvantaged communities. 
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs since January 2015 we have delivered:
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+•	127 training sessions were delivered
+
+•	328 local people participated in training and 96 Job Club sessions were delivered
+
+•	3600 local people dropped in to access our services, IT Suite and telephone facilities
+
+
+In terms of outcomes for the people and groups we care about, this project has 
+
+•	Improved access to training and learning opportunities for local people
+
+•	Widened participation in learning for people who experience disadvantage
+
+•	Promoted digital inclusion for local people
+
+
+We know this because we conducted a short survey with 10% of people using the service. The feedback demonstrated that as a result of accessing the IT Suite and/or Training: 100% of local residents felt the facilities offered were excellent; 98% felt their skills and confidence had improved since accessing the service; 100% felt their use of IT would increase as a result of accessing the service and 80% felt they were more likely to progress to work, volunteering or further training as a result of accessing the service. 
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1.	The initial installation of the new IT equipment ultimately led to the creation of a new partnership and the creation of our Click and Connect Learning Centre
+
+2.	The IT suite enabled us to extend the range of training courses and services offered at the Base
+
+3.	Having access to on-line job search services supported the delivery of our Job Club
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1.	Develop more robust systems to support project monitoring and evaluation
+
+2.	During this period Toryglen Community Base had a very basic website and it was difficult to manage the content which impacted on our ability to market our range of services.  This has now been rectified www.toryglencommunitybase.org
+
+3.	We would improve our marketing by conducting door to door outreach services 
+
+
+
