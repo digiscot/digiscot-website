@@ -67,9 +67,7 @@ To reflect the change to the completion date of the Moodle and taking into consi
 
 Overall this project delivered a range of mentored digital CPD learning resource for a wide range of frontline staff (Youth, Community, Play workers, ESOL and ALN tutors. The content was based on the ’23 Things’ approach originally developed for Information Professionals and more recently adopted by the Scottish Government Library as a digital learning approach for civil servants.  
 
-In terms of outputs we delivered: 
-
-To date, training for 40 frontline workers. The training materials are currently being reviewed and expanded following feedback from the first tranche of trainees and will commence again in Autumn 2016 after a workforce rationalisation process has concluded.  
+In terms of outputs we have to date delivered training for 40 frontline workers. The training materials are currently being reviewed and expanded following feedback from the first tranche of trainees and will commence again in Autumn 2016 after a workforce rationalisation process has concluded.  
 
 An online (Moodle based – in partnership with Glasgow Kelvin College) learning resource which will continue to develop and expand. 
 
@@ -80,7 +78,7 @@ We know this because the feedback from staff who have completed the training has
 
 ### Lessons learned
 
-Things that worked well:
+**Things that worked well:**
 
 1. Connecting the intern with relevant digital mentors at the very start of the project, this ensured a better end product as well as developing the skills (and work contacts) of our intern. 
 
@@ -88,7 +86,7 @@ Things that worked well:
 
 3. Our partnership with Kelvin College – using an established and proven digital learning platform 
 
-Things that we would do differently next time:
+**Things that we would do differently next time:**
 
 1. More testing of the learning materials before launch (can you ever have too much?). 
 
