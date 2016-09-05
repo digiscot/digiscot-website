@@ -63,26 +63,36 @@ To reflect the change to the completion date of the Moodle and taking into consi
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
-
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project delivered a range of mentored digital CPD learning resource for a wide range of frontline staff (Youth, Community, Play workers, ESOL and ALN tutors. The content was based on the ’23 Things’ approach originally developed for Information Professionals and more recently adopted by the Scottish Government Library as a digital learning approach for civil servants.  
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs we delivered: 
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+To date, training for 40 frontline workers. The training materials are currently being reviewed and expanded following feedback from the first tranche of trainees and will commence again in Autumn 2016 after a workforce rationalisation process has concluded.  
+
+An online (Moodle based – in partnership with Glasgow Kelvin College) learning resource which will continue to develop and expand. 
+
+In terms of outcomes for the people and groups we care about, this project has ensured that our frontline staff have the skills and knowledge to weave relevant digital learning elements into the work they are already doing with harder to reach groups – exposing these learners (often for the first time) to the advantages and learning resources available online. 
+
+We know this because the feedback from staff who have completed the training has indicated greater confidence in using a wide range of online learning materials and opportunities in their day-to-day work. We have also noted a much higher demand for hardware (tablet/laptops/ projectors etc) and better connectivity in community venues. 
+
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Connecting the intern with relevant digital mentors at the very start of the project, this ensured a better end product as well as developing the skills (and work contacts) of our intern. 
+
+2. Adopting the ’23 Things’ approach which ensures staff can learn the skills which are most important to their situation and clients in a flexible way, without the need to bring staff from across the city together for a more traditional approach. Staff also appreciated being able to work through the materials at their own pace with help and feedback where required. 
+
+3. Our partnership with Kelvin College – using an established and proven digital learning platform 
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. More testing of the learning materials before launch (can you ever have too much?). 
+
+2. Involved the learning administrator (of the Moodle system) at an earlier stage, particularly in how the learning ‘bites’ are presented and described. 
+
+3. Not presume that our frontline staff already have good basic digital skills – a minority of staff required a more remedial approach.   
+
