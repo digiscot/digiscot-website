@@ -84,7 +84,7 @@ Our computer suite is also open to the public and they too are enjoying the bene
 
 Overall this project promoted digital inclusion for local residents. The installation of the initial IT Suite led to the development of a new partnership with the Wheatly Group, GHA and Glasgow Kelvin College who supported us to further develop and upgrade the facilities and install a new Click and Connect Learning Centre.  The IT Suite enabled us to widen participation in learning for people from disadvantaged communities. 
 
-In terms of outputs since January 2015 we have delivered:
+**In terms of outputs since January 2015 we have delivered:**
 
 •	127 training sessions were delivered
 
@@ -93,7 +93,7 @@ In terms of outputs since January 2015 we have delivered:
 •	3600 local people dropped in to access our services, IT Suite and telephone facilities
 
 
-In terms of outcomes for the people and groups we care about, this project has 
+**In terms of outcomes for the people and groups we care about, this project has:** 
 
 •	Improved access to training and learning opportunities for local people
 
@@ -106,7 +106,7 @@ We know this because we conducted a short survey with 10% of people using the se
 
 ### Lessons learned
 
-Things that worked well:
+**Things that worked well:**
 
 1.	The initial installation of the new IT equipment ultimately led to the creation of a new partnership and the creation of our Click and Connect Learning Centre
 
@@ -114,7 +114,7 @@ Things that worked well:
 
 3.	Having access to on-line job search services supported the delivery of our Job Club
 
-Things that we would do differently next time:
+**Things that we would do differently next time:**
 
 1.	Develop more robust systems to support project monitoring and evaluation
 
