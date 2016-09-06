@@ -6,7 +6,7 @@ authorlink: https://twitter.com/watfordgap
 title: Want to find out more about digital? Let’s meet up!
 excerpt: UK & Europe NetSquared Ambassador, Paul Webster on the first One Digital Meetup and the context of Netsquared
 tags: onedigital meetups
-image: onedigital/raymond.jpg
+image: onedigital/webster.jpg
 ---
 
 I’ve done it too. You attend a digital training session or a really inspiring technology conference and leave with a notebook packed with scribbles of new ideas and a bag full business cards from people you promised to keep in touch with. You get back to the office next day and after five minutes the e-mails about the leaking loo and the ‘meeting about a possible meeting you may get invited to attend’ soon dent your enthusiasm to shake up the way your charity uses digital technology.
