@@ -26,10 +26,10 @@ As well as enhancing networking within the sector by identifying groups of like-
 
 ## Digiscotcamp – an unconference for the third sector
 
-Wednesday 2nd November 2016<br> 
+<strong>Wednesday 2nd November 2016<br> 
 200 St Vincent Street Glasgow<br> 
 10am-4pm<br> 
-Free event 
+Free event</strong> 
 
 Facilitated by Ross McCulloch (Third Sector Lab), Paul Webster (co-founder of VCSScamp) and Beth Murphy (SCVO). 
 
