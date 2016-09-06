@@ -50,7 +50,7 @@ With only a few weeks to go until our meetups kick off, it’s time for you to g
 
 To find out where your closest One Digital meetup is taking place and how to sign up, please explore our [One Digital meetup page](http://www.meetup.com/One-Digital-Meetup/).
 
-These events form part of an amazing global network called NetSquared, compirsed of volunteer-run meetups dedicated to building technology skills in more than 70 cities around the world.
+These events form part of an amazing global network called NetSquared, comprised of volunteer-run meetups dedicated to building technology skills in more than 70 cities around the world.
 
 Sign up now to become part of an inspirational network of change makers!
 If you know anyone who might like to join you in becoming part of the One Digital movement, then please share this with them.
