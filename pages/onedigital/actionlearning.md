@@ -24,7 +24,7 @@ Along the way we expect to cover many of the topics that leaders increasingly en
 
 As well as enhancing networking within the sector by identifying groups of like-minded people facing similar challenges, we also want to make connections between third sector leaders and their peers in other domains. Strong speakers from a range of different sectors have been invited because their stories tell of using digital to accelerate the impact of their organisation.  
 
-## [Digiscotcamp – an unconference for the third sector](#digiscot)
+## [3rdsectordigicamp  – an unconference for the third sector]/onedigital/actionlearning/#3rdsectordigicamp) 
 
 <strong>Wednesday 2nd November 2016<br> 
 200 St Vincent Street Glasgow<br> 
