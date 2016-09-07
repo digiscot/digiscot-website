@@ -32,6 +32,7 @@ Each of the partners will run a project which will equip trusted intermediaries 
 <li><a href="http://email.scvo.org.uk/t/r-0A347F0E0C43FEE02540EF23F30FEDED">eBulletin - June 2016</a></li>
 <li><a href="http://email.scvo.org.uk/t/r-ADB71C15896B70D92540EF23F30FEDED">eBulletin - July 2016</a></li>
 <li><a href="http://email.scvo.org.uk/t/r-7C2239E08D099B342540EF23F30FEDED">eBulletin - August 2016</a></li>
+<li><a href="http://email.scvo.org.uk/t/r-FDE6F5440B9DB4842540EF23F30FEDED">eBulletin - September 2016</a></li>
 </ul>
 
 </div>
