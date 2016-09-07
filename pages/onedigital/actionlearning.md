@@ -33,13 +33,13 @@ Free event</strong>
 
 Facilitated by Ross McCulloch (Third Sector Lab), Paul Webster (co-founder of VCSScamp) and Beth Murphy (SCVO). 
 
-SCVO are bringing together senior leaders and stakeholders from across the third sector for our first <strong>digiscotcamp</strong>. If you lead, govern, fund or support the third sector in Scotland and you want to get together with like-minded people for a day to discuss how to bring about digital change please join us! 
+SCVO are bringing together senior leaders and stakeholders from across the third sector for our first <strong>[3rdsectordigicamp](http://www.scvo.org.uk/events/3rdsectordigicamp/)</strong>. If you lead, govern, fund or support the third sector in Scotland and you want to get together with like-minded people for a day to discuss how to bring about digital change please join us! 
 
 The day will be an [unconference](https://en.wikipedia.org/wiki/Unconference) format so there is no set plan or agenda (or sales pitches) before the day starts. All that’s needed is your desire to talk about the many ways that digital technology has changed the landscape we work in, and as Senior leaders and influencers what we are doing, or could/should be doing about and with it. 
 
-The event will build on the work that has been done by CEOs and Directors engaged in the [One Digital project](http://digital.scvo.org.uk/onedigital/) over the course of 2016. These senior leaders will be part of the event, sharing their learnings and experiences, and the issues that they have been tackling as they bring about digital change in their own organisations. You can read more about the themes arising from this project in a new article by Ross tbc.
+The event will build on the work that has been done by CEOs and Directors engaged in the [One Digital project](http://digital.scvo.org.uk/onedigital/) over the course of 2016. These senior leaders will be part of the event, sharing their learnings and experiences, and the issues that they have been tackling as they bring about digital change in their own organisations. You can read more about the themes arising from this project in a [new blog](http://thirdforcenews.org.uk/blogs/we-need-radical-change-before-charities-embrace-digital) by Ross.
 
-This event is intended for senior leaders, influencers and funders. Whilst we won’t refuse a booking from others, due to capacity of the venue we may have to hold back bookings as we expect the event to be very popular. We hope you understand. 
+To book your place at the 3rdsectordigicamp please [click here](http://www.scvo.org.uk/events/3rdsectordigicamp/). This event is intended for senior leaders, influencers and funders. Whilst we won’t refuse a booking from others, due to capacity of the venue we may have to hold back bookings as we expect the event to be very popular. We hope you understand. 
 
 Because the event is an unconference we create the agenda on the day. But we do know a few of the key moments: 
  
