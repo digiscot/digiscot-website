@@ -49,22 +49,18 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
-
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+Overall this project delivered basic digital skills training to 6 people. Unfortunately take-up overall was variable. One large group had planned to use our sessions but decided for convenience to go to sessions in a more central location. Some individuals wanted more than one session and we provided this. We know of others who still want to be trained and we have decided, based on our experience with the scheme, to offer sessions at our centre in the future. The experience we gained with the scheme has shown us that this can be done as part of our regular work as a community hub, with training provided by volunteers. 
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. 
+2. 
+3. 
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1. 
+2.
+3.
