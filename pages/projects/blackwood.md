@@ -6,9 +6,9 @@ title: Blackwood Connect
 excerpt: Basic digital skills training for tenants
 lead: Blackwood
 website: http://www.blackwoodgroup.org.uk/
-email: 
+email: info@blackwoodgroup.org.uk
 twitter-url: 
-facebook-url: 
+facebook-url: https://www.facebook.com/BlackwoodScotland/ 
 start: April 2015
 end: March 2016
 award: 10000
@@ -52,9 +52,9 @@ This is where the project lead will share information about what was achieved an
 ### Outputs and outcomes
 
 Overall this project:
-•	Delivered digital skills training to over 150 staff and 70 customers;
-•	Held group-based learning with 32 residents in our Stirling care home;
-•	Deployed over 220 tablet devices and smartphones to enable delivery of the project.
+Delivered digital skills training to over 150 staff and 70 customers;
+Held group-based learning with 32 residents in our Stirling care home;
+Deployed over 220 tablet devices and smartphones to enable delivery of the project.
 
 In terms of outputs we delivered training on communicating through the new video-calling feature on carer smartphones and Family & Friends on customer devices in Stirling, Dundee and Edinburgh. By introducing internet resources, we have built our customers digital skills up from a novice level, teaching on the managing of information by having access to GP surgery websites, local transport, driving tests and hobby and interest pages by the team uploading digital content in preparation of training visits. All 150 staff have additionally been upskilled in problem solving by being trained and developed on how to troubleshoot technical-related issues on customer devices and through their smartphones.
 
@@ -63,16 +63,16 @@ In terms of outcomes for the people and groups we care about, this project has r
 ### Lessons learned
 
 Things that worked well:
-•	Having a dedicated resource to assist with the training, support and development of the project;
-•	Having a team approach to the project – our Telecare Implementation Co-ordinator installing brackets and offering a cross-section of devices to enable accessibility;
-•	Introducing stylus touchscreen pens which proved to be a “game changer” in allowing our residents and customers to physically use the device;
-•	Starting in our care home in Stirling which was a safe-test site due to the service being staffed 24/7;
-•	Having both individual and group-based learning in training sessions to accommodate learning styles and preferences;
-•	How we approached our customer training – building trust and good relationships to enable confidence with digital technology;
-•	Identifying what people’s likes and interests are in advance of training sessions through a needs assessment so we were able to tailor and personalise digital content for them prior to installation.
-•	The introduction of an Android version of CleverCogs has enabled us to use tablets with some customers. The accessibility features built into Android has enabled a new level of accessibility as well as significantly reducing deployment costs.
+Having a dedicated resource to assist with the training, support and development of the project;
+Having a team approach to the project – our Telecare Implementation Co-ordinator installing brackets and offering a cross-section of devices to enable accessibility;
+Introducing stylus touchscreen pens which proved to be a “game changer” in allowing our residents and customers to physically use the device;
+Starting in our care home in Stirling which was a safe-test site due to the service being staffed 24/7;
+Having both individual and group-based learning in training sessions to accommodate learning styles and preferences;
+How we approached our customer training – building trust and good relationships to enable confidence with digital technology;
+Identifying what people’s likes and interests are in advance of training sessions through a needs assessment so we were able to tailor and personalise digital content for them prior to installation.
+The introduction of an Android version of CleverCogs has enabled us to use tablets with some customers. The accessibility features built into Android has enabled a new level of accessibility as well as significantly reducing deployment costs.
 
 Things that we would do differently next time:
-•	Having more of a pace with staff learning and development, more resources needed to support the transition;
-•	Organising more group-based learning with our customers and allocating more time to that kind of learning over individual;
-•	Conducting more training needs analysis to better tailor training sessions to our staff’s digital backgrounds.
+Having more of a pace with staff learning and development, more resources needed to support the transition;
+Organising more group-based learning with our customers and allocating more time to that kind of learning over individual;
+Conducting more training needs analysis to better tailor training sessions to our staff’s digital backgrounds.
