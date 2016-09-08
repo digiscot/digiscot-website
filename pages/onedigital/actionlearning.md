@@ -6,7 +6,22 @@ permalink: /onedigital/actionlearning/
 showtimeline: true
 ---
 
-As part of the new One Digital programme we are delivering action learning sets for senior leaders who want to <strong>transform their organisation’s approach to digital.</strong>  
+As part of the new One Digital programme we are supporting senior leaders who want to transform their organisation’s approach to digital through [action learning sets](http://digital.scvo.org.uk/onedigital/actionlearning/#action-learning-sets)
+
+The current round of sets is full, but we have been gathering the learning from these. We now have a clearer understanding of the [challenges that third sector organisations face](http://thirdforcenews.org.uk/blogs/we-need-radical-change-before-charities-embrace-digital) when trying to bring about digital change.
+
+Currently half of all Scottish charities (20,000 organisations) lack [basic digital skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/). If we can put the third sector on the front foot when it comes to digital then we can make a real impact on social justice, public service delivery and economic growth. There are however, often a number of complex reasons why charities struggle to become more digital, including time, culture, resourcing and access to training and support. 
+
+Digital transformation is a major undertaking for any organisation, and unless the people at the very top have a sound understanding of the opportunity and a vision for grasping it then change will only ever be incremental. 
+
+We are running an Unconference for Senior Leaders on 2nd November 2016 to discuss the issues and themes that are important when considering digital change. The event will be free of charge, and facilitated by digital experts Ross McCulloch and Paul Webster.  
+If you are a senior leader in a third sector organisation, trustee, funder or represent an intermediary organisation you are very welcome. Find out more and [sign up here](http://www.scvo.org.uk/events/3rdsectordigicamp/). 
+
+## Action learning sets 
+The leaders involved in action learning meet monthly to tackle real problems or issues. The action learning process promotes curiosity, inquiry, and reflection. There is a requirement that talk be converted into action and, ultimately, a solution. 
+The sets are facilitated by an independent expert, [Ross McCulloch](https://twitter.com/ThirdSectorLab) from [Third Sector Lab](http://thirdsectorlab.co.uk/) and [Be Good Be Social](http://begoodbesocial.org.uk/). 
+
+We are planning for a new round of action learning sets in 2017 and will publish more information about this process in November 2016. 
 
 Organisations in the third sector have much to gain from the shift to digital, but many are in danger of being left behind. If we can put the third sector on the front foot when it comes to digital then we can make a real impact on social justice, public service delivery and economic growth, however, currently half of all Scottish charities (20,000 organisations) [lack basic digital skills](/images/infographic-2015-white.png).
 
