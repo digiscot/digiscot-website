@@ -1,6 +1,6 @@
 ---
 layout: page-onedigital
-title: Information for Participants
+title: I want to help others to get online
 excerpt: I want to help others to get online
 permalink: /onedigital/helping-others
 ---
