@@ -57,5 +57,4 @@ This course has been delivered to over 250 people, with over 95% satisfaction ra
 
 </div>
 
-## How to access support 
-If you would like to find out more about any of our training please get in touch via [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) 
+
