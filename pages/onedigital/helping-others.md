@@ -32,7 +32,6 @@ This course has been delivered to over 250 people, with over 95% satisfaction ra
  
 "Fantastic! I feel ready to go- great sharing with all the participants. Learning from trainers and participants was great!” 
 
-</div>
 
 <div class="panel panel-default">
 
