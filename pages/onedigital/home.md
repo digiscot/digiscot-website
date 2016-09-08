@@ -55,7 +55,7 @@ Each of the partners will run a project which will equip trusted intermediaries 
 
 <h3>Participants</h3>
 
-<p>Are you and your organisation interested in taking part in our programme? If you're in need of more information please get in touch at [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk).</p>
+<p>Are you and your organisation interested in taking part in our programme? If you're in need of more information please get in touch.</p>
 </div>
 </div>
 
