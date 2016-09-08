@@ -11,7 +11,7 @@ Right now in Scotland 1 in 5 adults lack Basic Digital Skills. These people are 
 
 If you work or volunteer for an organisation that helps people who might find it difficult to access or use digital you can access training and support to <strong>become a digital champion</strong>.
 
-![Digital champions](/images/onedigital/DC_Sequence.pdf)
+![Digital champions](/files/onedigital/DC_Sequence.pdf)
 
 Digital champions can come in all shapes and sizes. To be a digital champion all you need is some enthusiasm for helping others, and some time to take part in the training.  
  
