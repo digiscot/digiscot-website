@@ -1,8 +1,8 @@
 ---
 layout: page-onedigital
-title: One Digital
+title: About One Digital
 excerpt:
-permalink: /onedigital/
+permalink: /onedigital/about-one-digital
 showtimeline: true
 home: true
 ---
