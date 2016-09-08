@@ -1,7 +1,7 @@
 ---
 layout: page-onedigital
-title: I am a senior leader and want to lead a digital change
-excerpt: National Movement to close the digital skills gap
+title: National Movement to close the digital skills gap
+excerpt: I am a senior leader and want to lead a digital change 
 permalink: /onedigital/actionlearning/
 showtimeline: true
 ---
