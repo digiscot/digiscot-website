@@ -52,4 +52,5 @@ This course has been delivered to over 200 organisations, with over 90% satisfac
 
 </div>
 
+
 If you are interested in training [get in touch](mailto:onedigital@scvo.org.uk) to find out more about your local Third Sector Interface, and whether there are any upcoming courses.
