@@ -7,6 +7,7 @@ showtimeline: true
 home: true
 ---
 
+## What is One Digital?
 
 The One Digital project has been working in partnership with organisations from across Scotland to help improve [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/). 
 Read more about the project [here](http://digital.scvo.org.uk/onedigital/about-one-digital).
