@@ -7,6 +7,8 @@ permalink: /onedigital/helping-others
 
 <!-- ![One Digital](/images/onedigitalbadgegreen.jpg)           ![Big Lottery Fund](/images/smallbiglottery.jpg) -->
 
+[Homepage](http://digital.scvo.org.uk/onedigital/) > [About One Digital](http://digital.scvo.org.uk/onedigital/about-one-digital) > [I want to help my organisation](http://digital.scvo.org.uk/onedigital/helping-org) > [Senior leaders](http://digital.scvo.org.uk/onedigital/actionlearning/)
+
 ## I want to help others to get online
 
 Right now in Scotland 1 in 5 adults lack Basic Digital Skills. These people are more likely to be older, poorer and facing other forms of disadvantage. 
