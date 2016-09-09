@@ -36,20 +36,20 @@ This course has been delivered to over 200 organisations, with over 90% satisfac
   <div class="list-group">
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Content:</strong><br />
-      This training will help you pass on Basic Digital Skills to your clients/ end-users through everyday interactions.</p>
+      This training will help you make better use of digital within your organisation</p>
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Example:</strong><br />
-      A support group for people with MS wants to help users book GP appointments but the users show no interest. This training could mean that staff learn new techniques to hel users see the benefits of the internet and change their behaviour.</p>
+      Managers at a care organisation feel that their current way of recording home visits on forms is labour-intensive. This training could mean that a real-time, electronic reporting system could be considered and care workers can update information remotely.</p>
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Who should join?</strong>This is for you if you regularly work with clients and end users and know they would benefit from digital. You should have basic digital skills yourself but you're not expected to be an expert.</p>
+      <p class="list-group-item-text"><strong>Who should join?</strong>This is for you if you want to become a digital champion for your organisation and you want to use digital more effectively on a daily basis. You should have basic digital skills yourself but you're not expected to be an expert.</p>
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text">To find out whether <strong>Making Digital Everyday</strong> is the best option for you, read our:</p><a class="btn btn-primary btn-lg" href="/files/MDE what's involved.pdf">Making Digital Everyday: What's involved</a>
+      <p class="list-group-item-text">To find out whether <strong>Making Digital Work</strong> is the best option for you, read our:</p><a class="btn btn-primary btn-lg" href="/files/MDW what's involved.pdf">Making Digital Work: What's involved</a>
     </span>
   </div>
 
 </div>
 
-If you are interested in training get in touch to find out more about your local Third Sector Interface, and whether there are any upcoming courses – onedigital@scvo.org.uk
+If you are interested in training get in touch to find out more about your local Third Sector Interface, and whether there are any upcoming courses – [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk)
