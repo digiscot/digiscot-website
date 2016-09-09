@@ -40,7 +40,7 @@ This course has been delivered to over 200 organisations, with over 90% satisfac
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Example:</strong><br />
-      Managers at a care organisation feel that their current way of recording home visits on forms is labour-intensive. This training could mean that a real-time, electronic reporting system could be considered and care workers can update information remotely.</p>
+      Managers at a care organisation feel that their current way of recording home visits on paper forms is labour-intensive. This training could mean that a real-time, electronic reporting system could be considered and care workers could update information remotely in one go.</p>
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text"><strong>Who should join?</strong>This is for you if you want to become a digital champion for your organisation and you want to use digital more effectively on a daily basis. You should have basic digital skills yourself but you're not expected to be an expert.</p>
