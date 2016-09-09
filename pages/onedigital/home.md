@@ -28,7 +28,7 @@ These videos tell the stories of a few of the people and organisations we have w
 ## Get involved  
 
 If you are interested in helping others to get online, or want to improve the way your organisation uses digital then we would love to work with you. 
-Click on the links below for more information:
+<br>Click on the links below for more information:
 
 - [I want to help others to get online](http://digital.scvo.org.uk/onedigital/helping-others)
 
