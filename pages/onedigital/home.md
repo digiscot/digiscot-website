@@ -22,7 +22,7 @@ These videos tell the stories of a few of the people and organisations we have w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLD_XS4xNFQV4fKzUf4M97xh6dP0Pc7FmE" frameborder="0" allowfullscreen></iframe>
 
- ## Get involved  
+## Get involved  
 
 If you are interested in helping others to get online, or want to improve the way your organisation uses digital then we would love to work with you. Follow the below links for more information:
 
