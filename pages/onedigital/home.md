@@ -41,5 +41,3 @@ If you are interested in helping others to get online, or want to improve the wa
 <li><a href="https://twitter.com/jomalo6">@jomalo6</a> [Project Administrator]</li>
 </ul>
 
-</div>
-</div>
