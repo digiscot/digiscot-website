@@ -20,7 +20,7 @@ Read more about the project [here](http://digital.scvo.org.uk/onedigital/about-o
 For other organisations digital is a solution to help reduce inequalities, and improve quality of life for the people they support. Young people are supported to understand their digital footprint and increase employability. Isolated adults are able to access peer support and feel part of a community when face to face services are closed. 
 
 These videos tell the stories of a few of the people and organisations we have worked with: 
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLD_XS4xNFQV4fKzUf4M97xh6dP0Pc7FmE" frameborder="0" allowfullscreen></iframe>
 
 ## Get involved  
