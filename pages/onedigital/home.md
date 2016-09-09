@@ -11,7 +11,8 @@ home: true
 
 The One Digital project at SCVO has been working in partnership with organisations from across Scotland to help improve [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/). We want to better understand how to make a significant and sustainable improvement for the people most in need. 
 
-To read more about the project [click here](http://digital.scvo.org.uk/onedigital/about-one-digital).<br>
+To read more about the project [click here](http://digital.scvo.org.uk/onedigital/about-one-digital).
+<br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwGwOsb1cdU" frameborder="0" allowfullscreen></iframe>
 
