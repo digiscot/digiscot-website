@@ -7,11 +7,13 @@ showtimeline: true
 home: true
 ---
 
-The One Digital project has been working in partnership with organisations from across Scotland to help improve [Basic Digital Skills[(http://www.go-on.co.uk/get-involved/basic-digital-skills/). Read more about the project [here](http://digital.scvo.org.uk/onedigital/about-one-digital).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DwGwOsb1cdU" frameborder="0" allowfullscreen></iframe>
+The One Digital project has been working in partnership with organisations from across Scotland to help improve [Basic Digital Skills](http://www.go-on.co.uk/get-involved/basic-digital-skills/). 
+Read more about the project [here](http://digital.scvo.org.uk/onedigital/about-one-digital).
 
-For lots of organisations digital is an enabler – tools and technologies can help to communicate with clients, increase donations and deliver services in new and innovative ways. 
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/DwGwOsb1cdU" frameborder="0" allowfullscreen></iframe>
+
+<br>For lots of organisations digital is an enabler – tools and technologies can help to communicate with clients, increase donations and deliver services in new and innovative ways. 
 
 For other organisations digital is a solution to help reduce inequalities, and improve quality of life for the people they support. Young people are supported to understand their digital footprint and increase employability. Isolated adults are able to access peer support and feel part of a community when face to face services are closed. 
 
