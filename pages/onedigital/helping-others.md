@@ -18,7 +18,7 @@ Digital champions can come in all shapes and sizes. To be a digital champion all
  
 ## Online learning 
 We can provide access free of charge to the Digital Champions Network. This online platform provides access to a range of training courses, and comes with support from a digital mentor and forums where you can chat to other Digital Champions about their experiences. 
-“When trying to engage people with very limited skills the digital world can be a confusing place, the course does a good job in simplifying with a focus on giving confidence.” 
+<br>“When trying to engage people with very limited skills the digital world can be a confusing place, the course does a good job in simplifying with a focus on giving confidence.” 
 
 “I liked the structure of the course, the fact sheets and the multiple choice questions. It is a fantastic course and I hope more people become digital champions.” 
 
