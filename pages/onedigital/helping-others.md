@@ -20,14 +20,16 @@ Digital champions can come in all shapes and sizes. To be a digital champion all
 ## Online learning 
 We can provide access free of charge to the Digital Champions Network. This online platform provides access to a range of training courses, and comes with support from a digital mentor and forums where you can chat to other Digital Champions about their experiences. 
 
+
 “When trying to engage people with very limited skills the digital world can be a confusing place, the course does a good job in simplifying with a focus on giving confidence.” 
 
 “I liked the structure of the course, the fact sheets and the multiple choice questions. It is a fantastic course and I hope more people become digital champions.” 
 
 ## Training courses 
-If you have a team of 10 people or more who would benefit from training and support to help others get online then our Making Digital Everyday training could be for you. 
+If you have a team of ten people or more who would benefit from training and support to help others get online then our Making Digital Everyday training could be for you. 
 
 This course has been delivered to over 250 people, with over 95% satisfaction rates. 
+
 
 “Fantastic day, best training session for a long time. Excellent trainers, information and opps for networking. A successful day, thank you :)" 
  
@@ -57,4 +59,11 @@ This course has been delivered to over 250 people, with over 95% satisfaction ra
 
 </div>
 
+<p><br />If you have any questions please tweet us at:</p>
 
+<ul>
+<li><a href="https://twitter.com/betty_murphy">@betty_murphy</a> [Project Manager]</li>
+<li><a href="https://twitter.com/starkmadelaine">@starkmadelaine</a> [Development Officer South]</li>
+<li><a href="https://twitter.com/littleeilidh">@littleeilidh</a> [Development Officer North]</li>
+<li><a href="https://twitter.com/jomalo6">@jomalo6</a> [Project Administrator]</li>
+</ul>
