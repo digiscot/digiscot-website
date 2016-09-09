@@ -43,7 +43,7 @@ This course has been delivered to over 200 organisations, with over 90% satisfac
       Managers at a care organisation feel that their current way of recording home visits on paper forms is labour-intensive. This training could mean that a real-time, electronic reporting system could be considered and care workers could update information remotely in one go.</p>
     </span>
     <span class="list-group-item">
-      <p class="list-group-item-text"><strong>Who should join?</strong>This is for you if you want to become a digital champion for your organisation and you want to use digital more effectively on a daily basis. You should have basic digital skills yourself but you're not expected to be an expert.</p>
+      <p class="list-group-item-text"><strong>Who should join?</strong>This is for you if you want to become a digital champion for your organisation and you want to use digital more effectively in your workplace on a daily basis. You should have basic digital skills yourself but you're not expected to be an expert.</p>
     </span>
     <span class="list-group-item">
       <p class="list-group-item-text">To find out whether <strong>Making Digital Work</strong> is the best option for you, read our:</p><a class="btn btn-primary btn-lg" href="/files/MDW what's involved.pdf">Making Digital Work: What's involved</a>
