@@ -29,11 +29,11 @@ These videos tell the stories of a few of the people and organisations we have w
 
 If you are interested in helping others to get online, or want to improve the way your organisation uses digital then we would love to work with you. Follow the below links for more information:
 
-[I want to help others to get online](http://digital.scvo.org.uk/onedigital/helping-others)
+- [I want to help others to get online](http://digital.scvo.org.uk/onedigital/helping-others)
 
-[I want my organisation to make more use of digital](http://digital.scvo.org.uk/onedigital/helping-org) 
+- [I want my organisation to make more use of digital](http://digital.scvo.org.uk/onedigital/helping-org) 
 
-[I am a senior leader and want to lead digital change](http://digital.scvo.org.uk/onedigital/actionlearning/)
+- [I am a senior leader and want to lead digital change](http://digital.scvo.org.uk/onedigital/actionlearning/)
 
 <p><br />If you have any questions please tweet us at:</p>
 
