@@ -15,7 +15,7 @@ We host regular, free events for people interested in digital participation in S
 
 ### Skyscanner OneDay event 7th October 2016
 
-Talks and digital workshops from the lovely folks at Skyscanner. Further info to follow... 
+Talks and digital workshops from the lovely folks at Skyscanner. Further info and booking available [here](http://www.scvo.org.uk/events/skyscanner/)
 
 ### One Digital meetups 2016
 
