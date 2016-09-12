@@ -84,7 +84,8 @@ Recruit Digital Ambassadors from groups for further training to then support the
 
 ## Evaluation
 
-###Overall this project:
+### Overall this project
+
 Worked to engage older people with the internet by harnessing their interest in social history and genealogy. We sought to create small groups of people with a shared interest in history and offer them basic computing skills classes as well as specific sessions based on online geneology research.
 
 We created a blog and had some success at asking group members to contribute to posts about their research and experiences, though they were less enthusiastic about this aspect.
@@ -95,16 +96,18 @@ We established six weekly sessions for our older tenants and supported a weekly 
 
 Offer a cross-generational experience for young people engaged in our Youth Projects, we worked with them to discuss questions of local identity, the history of the streets that they live and play in and life in the time of their grandparents. We took them on a day trip to the seaside and experienced a day out in Millport like their parents might have and we also visited Summerlee Heritage Museum and created activities and scavenger hunts about history.
 
-###Long-term sustained engagement
+### Long-term sustained engagement
+
 *	72 Young People in total, with an average of 35 on a weekly basis for a 6 month period.
 *	Establish six drop-in sessions in our community rooms and Sheltered Housing complexes.
 *	80 adult tenants were regularly attending these drop in sessions with a weekly average of 52 attendees.
 
-###One-off engagement
+### One-off engagement
+
 *	Supported Housing Focus Day saw the project speak to 140 tenants about the photo archive, local history and their memories.
 *	The 2015 Gala Day stall was very popular and saw more than 300 visitors engage with the project and the photo archive.
 
-###Outcomes for the people and the groups we care about:
+### Outcomes for the people and the groups we care about:
 
 *	Attendees of the groups left with improved computing skills, many had started to use the UK Online Centres Learn my Way resources and others had purchased/been given their own tablets and were comfortable using them.
 *	We know this because we have continued to work with some of the groups, refer others onto our other services and provide Digital Inclusion support generally. We administer the Learn My Way course and so can see learner engagement with the programme.
@@ -116,14 +119,16 @@ Offer a cross-generational experience for young people engaged in our Youth Proj
 *	Queens Cross has decided to build on the work done with Historical Connections to celebrate their 40th Anniversary. They are collecting our tenants stories and memories to create a living archive for our learners and tenants to enjoy and share.
 *	We have a tablet library of 10 iPads, 3 of which were purchased with funds from Historical Connections, that can be used 
 
-##Lessons learned
+## Lessons learned
 
-###Things that worked well:
+### Things that worked well:
+
 1.	History Trips with Young People: these were really popular and the Young People enjoyed learning about the lived history of their area and traditional activities/holidays.
 2.	Making family trees: this aspect proved really popular and those tenants that were interested in researching their families loved this aspect. 
 3.	Setting up groups and letting them guide their own learning worked best, they became really good support for one another and a lot of issues surrounding loneliness and health and wellbeing came up as a result of these sessions.
 
-###Things that we would do differently next time:
+### Things that we would do differently next time:
+
 1.	Pop up events in coffee shops. This would have helped raise awareness of the project and increase interest in the sessions. People would have then found out about events and sessions on their own territory and this might have brought them into other venues.
 2.	Make Sheltered Housing sessions open to all and combine sessions. Not all of our older tenants are in Sheltered accommodation and it would have been good to combine groups and have Sheltered and Non-Sheltered tenants in sessions together.
 3.	More cross-generational work, podcasting etc. It would also have been good to cook meals together with the older people to break down barriers further. This would have meant that when we tried to go on trips there was less suspicion from both sides.
