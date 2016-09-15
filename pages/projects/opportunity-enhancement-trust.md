@@ -64,26 +64,46 @@ Students achieve outcomes after completing DSTF course
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
-
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+In terms of outcomes this project has helped 38% of unemployed students gain employment during or within 6 months of the Elgin and Deveronvale courses. 
 
-In terms of outputs we delivered A, B and C.
+Helped 38% of unemployed students on the Elgin and Deveronvale courses move onto a higher stage of the employability pipeline (work experience).
 
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
+78% of students who started the courses at Inverness and Hibernian completed the whole course, with the 11 students in Inverness achieving a level equivalent to SCQF 3 or 4 in the Core Skill Information Technology. 
+
+We know this because we tracked the students on the Elgin and Deveronvale courses by keeping in touch with them after the course had ended and supporting them in any way possible. 
+
+We were able to assess the portfolios completed by the students on the Inverness course. 
+
+In terms of outputs we delivered: 
+
+Elgin DSTF					                                                                                            	Deveronvale DSTF
+Starts		: 	5			                                                                                                  	Starts		: 3
+Completions:	 	5			                                                                                      	Completions	: 	2	
+Job Outcomes:	 	1			                                                                                   	Job	 Outcomes: 	2
+Stage 3 Outcomes: 	2			                                                                           	Stage 3 Outcomes: 	1	
+Caley Thistle DSTF				                                                                               	Hibernian DSTF (2)		
+Starts: 12 	Completions: 		11                                                                 	Starts: 20 	Completions: 14
+
+Overall Digital Skills through Football (DTSF) has helped to improve the IT skills of 40 course participants thus far, including 25 over-60 year-olds. A further 84 school pupils are due to do the course in Kilmarnock, while Albion Rovers and Montrose will also be completing/running a DSTF course. 
+
+It has improved the lives of several young people who attended the course, helping them make steps into further training, work experience and employment.
+
+The over-60s in particular have gained many new IT skills, including the ability to use a tablet and social media.  This makes it easier for them to keep in touch with family and friends on a regular basis, reducing isolation amongst the over-60s.
+The course has also helped build relationships between the football clubs, Opportunity Enhancement Trust and their local community, allowing them to reach some students they wouldn't normally engage with.
+Although the numbers on some of the courses were lower than we'd hoped, that could be boosted by the 84 school pupils due to undertake the course at Kilmarnock FC.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Good outcomes achieved from the courses we delivered, including 3 job outcomes. 
+2. 90% completion rate on courses at Elgin City, Deveronvale and Caley Thistle. 
+3. Partnership working improved between ourselves, football clubs and referral agencies.
 
 Things that we would do differently next time:
 
-1. Text
-2. Text
-3. Text
+1.	Try and restrict the geographical spread of clubs involved to the North and North East of Scotland, the whole of Scotland was too big an area to cover. 
+2.	Possibly deliver one or two more of the courses ourselves? This could have made it easier for us to keep overall control of the project and be less reliant on the clubs involved. 
+3.	Use more tablets if possible – this has resulted in some of the courses being delayed while another club still has the tablets required. An ongoing dispute with our previous Project Manager over hardware ownership did not help this issue.
