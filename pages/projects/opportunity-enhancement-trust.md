@@ -82,6 +82,18 @@ Elgin DTSF:
 
 Starts: 5  Completions: 5  Job outcomes: 1  Stage 3 outcomes: 2
 
+Deverondale DTSF:
+
+Starts: 3  Completions:  2  Job outcomes: 
+
+Caley Thistle DTSF:
+
+Starts: 12  Completions: 11 
+
+Hibernian DTSF:
+
+Starts: 20  Completions: 14 
+
 Overall Digital Skills through Football (DTSF) has helped to improve the IT skills of 40 course participants thus far, including 25 over-60 year-olds. A further 84 school pupils are due to do the course in Kilmarnock, while Albion Rovers and Montrose will also be completing/running a DSTF course. 
 
 It has improved the lives of several young people who attended the course, helping them make steps into further training, work experience and employment.
