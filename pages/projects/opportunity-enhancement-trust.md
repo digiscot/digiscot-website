@@ -94,6 +94,7 @@ Hibernian DTSF:
 
 Starts: 20  Completions: 14 
 
+
 Overall Digital Skills through Football (DTSF) has helped to improve the IT skills of 40 course participants thus far, including 25 over-60 year-olds. A further 84 school pupils are due to do the course in Kilmarnock, while Albion Rovers and Montrose will also be completing/running a DSTF course. 
 
 It has improved the lives of several young people who attended the course, helping them make steps into further training, work experience and employment.
