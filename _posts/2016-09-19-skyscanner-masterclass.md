@@ -4,7 +4,7 @@ date: 2016-09-19
 author: David Low
 authorlink: https://twitter.com/daviddlow
 title: Skyscanner / SCVO messaging masterclass
-excerpt: David Low, Developer Advocate at Skyscanner introduces the latest offering from the Skyscanner/SCVO partnership
+excerpt: David Low, Developer Advocate at Skyscanner introduces the latest offering from the Skyscanner / SCVO partnership
 tags: actionlearning
 image: onedigital/davidlow.jpg
 ---
