@@ -20,9 +20,11 @@ It requires professional commitment and personal courage. We don’t have the lu
 
 Digital is disrupting industries that have been operating in the same way for years, and the wind of change is blowing through our sector too.
 
+
 As one fellow [One Digital](http://digital.scvo.org.uk/onedigital/) participant said:
 
 “Having previously seen digital as something that one or more team members with a particular digital skillset would lead on, I now see the extent to which digital is everyone’s business and an integral part of my organisation’s work.”
+
 
 As leaders, we’ve found ourselves in a world of digital natives and digital immigrants. Technology is second nature to digital natives. It just works. That’s how it is at home, and that’s how they expect it should be at work.
 
