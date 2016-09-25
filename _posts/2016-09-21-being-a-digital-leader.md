@@ -2,9 +2,9 @@
 layout: post
 date: 2016-09-21
 author: Jacqui Taylor
-authorlink: https://twitter.com/betty_murphy
+authorlink: https://twitter.com/LifelinkGlasgow
 title: What it means to be a digital leader
-excerpt: First in a new blog series on why digital change matters, ahead of November '3rdsectordigicamp' leadership event
+excerpt: First in a new blog series on why digital change matters
 tags: onedigital actionlearning
 image: onedigital/JacquiTaylor.jpg
 ---
