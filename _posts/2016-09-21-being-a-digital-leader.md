@@ -18,7 +18,7 @@ Digital leadership is not just about governance and process. It’s about settin
 
 It requires professional commitment and personal courage. We don’t have the luxury of a decade or two to develop digital leaders. We need them now. The most successful organisations will be those that embrace digital.
 
-Digital is disrupting industries that have been operating in the same way for years, and the wind of change is blowing through our sector too.
+Digital is disrupting industries that have been operating in the same way for years, and the wind of change is blowing through our sector too.<br>
 
 
 As one fellow [One Digital](http://digital.scvo.org.uk/onedigital/) participant said:
