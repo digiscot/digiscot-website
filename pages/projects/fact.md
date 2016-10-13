@@ -56,6 +56,8 @@ Take a Tablet, Internet Safety, Facebook Basics, Video Calling
 - March 31st: Attendance number surpass 200
 - May 24th: Forres Online hosts Moray Connected project talk with local council
 - June 8th: Forres Online volunteer recognised with 'Outstanding Contribution' award
+- August 2016: Forres Online project breaks for Summer Holiday haven helped 139 individuals 
+- September 2016: Future of Forres Online is secured for 2 years with Scottish Goverment funding
 
 
 ## Evaluation
@@ -63,7 +65,12 @@ The project evaluation was carried out using a short questionnaire with online, 
 
 ### Outputs and Outcomes
 
-Free information sessions offering help and information on using mobiles, tablets and with social media. 
+- A public space for using the internet and avaible equipment was created and is still used for drop-ins and one to one sessions
+- Free information sessions offering help and information to use mobiles, tablets and laptops ran for a 12 month period and now continue
+- 139 individuals received help with basic online skills during the project period
+- 2 volunteers with the project moved on into employment
+- 2 volunteer from the local High School used there experience with the Forres Online project in further education applications
+- Forres Area Community Trust used the evidence gathered from the project to demonstrate the need to provide online help and digital learning locally and are now delivering the project for a further 2 years with Scottish Government funding
 
 ### Lessons Learned
 
@@ -79,7 +86,6 @@ Things that we would do differently next time:
 2. Using an appointment system as well as drop-in sessions
 3. Organise more public talks and schedule evening sessions too
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.524363131063648.1073741840.213959328770698%26type%3D3&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.524363131063648.1073741840.213959328770698%26type%3D3&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
