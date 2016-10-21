@@ -5,7 +5,9 @@ excerpt: We think the internet should be for everyone, so we're leading an ambit
 permalink: /about/
 ---
 
-It’s easy to take the internet for granted, but up to a million people in Scotland lack the [basic digital skills](http://digital.scvo.org.uk/about/basic-digital-skills/) to communicate, find information, get things done and stay safe on the web. What's more, many charities and voluntary organisations are missing a huge opportunity to boost their impact and engagement by using digital tools.
+Scotland is already a digital nation.  Eight in ten households have an internet connection and four in ten have a tablet computer.  Six in ten people use a smartphone.  For those who have access, motivation and skills to get things done online, life is enhanced.
+
+But still far too many people in Scotland risk being left behind as they lack the [basic digital skills](http://digital.scvo.org.uk/about/basic-digital-skills/) to communicate, find information, get things done and stay safe on the web. What's more, many charities and voluntary organisations are missing a huge opportunity to boost their impact and engagement by using digital tools.
 
 We’re part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk) (SCVO), and are working with partners across the country to promote digital participation. Our work is generously supported by core funding from the [Scottish Government](http://www.gov.scot), and closely linked to the wider [Digital Scotland](http://www.digitalscotland.org/) agenda.
 
