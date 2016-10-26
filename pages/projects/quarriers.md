@@ -65,6 +65,13 @@ We have two more training sessions for our first group before a breather and fol
 
 We'll add some pictures from next week's session, so please check back and see how we are getting on.
 
+### Second Group Update (May - Jul 2016)
+
+The second group in our 'Stories from the Digital Divide' project again presented a range of various barriers towards digital inclusion. Represented in the group were attention deficits, older adults, ABI, physical barriers via upper limb disability and visual impairment, lack of confidence, memory recall issues, and general learning disabilities. Again, many in the group have experienced social deprivation through unemployment and had difficulty in using technology in the past.
+
+Similar to the first group, there were a number of barriers created by the persons circumstances which posed the greatest challenge in teaching during the six classes. One attendee often required others to help support in using everyday objects, and this also affected use of the tablet outside the class. As the person has difficulties in communicating, it's possible that even if wanting to use the tablet outside of the class, this may have gone unnoticed. Another member, whose circumstances had led to some amount of depression, had felt undermotivated to learn. It really highlighted to us that no matter the teaching involved, or the access to equipment, the outside, general living environment has such an important role to play in the adoption of technology (and in fact, any learning).
+
+Despite these barriers, everyone engaged well with the course, and there was a positive atmosphere in the training room. Everyone completed the classes given, and learned about how to use their tablets. Each week they were charged and ready to use, and people managed to stay within their data usage limits. Three out of the four group members were close to absolute beginner level and real progress was made during this time to teach new skills. In the follow up sessions, all members were still making use of the tablets, and we'll be really interested to meet these group members at the end of the project to see how they are getting on. We are still on target for our final write up in December which will highlight in detail (anonymously) the barriers faced, and effective ways to tackle them.
 
 ### Evaluation
 
