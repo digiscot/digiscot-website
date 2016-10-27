@@ -63,6 +63,10 @@ Trainer Wafa with volunteer Maryam who started on our course in January and has 
 <blockquote class="imgur-embed-pub" lang="en" data-id="0JrplDy"><a href="//imgur.com/0JrplDy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 * Recruit and deliver the third round of courses: August 2016
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BMG0w"><a href="//imgur.com/BMG0w"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Two of our completers for our third course. Fargana and Thaiseen are delighted with their certificates.
+
 * Train 2 staff members of Saheliya to become digital champions: October 2016
 
 ### Planned outputs and outcomes
