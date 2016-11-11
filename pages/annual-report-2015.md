@@ -1,13 +1,8 @@
 ---
-
-layout: page
-
+layout: markdown
 title: Digital participation in action
-
 excerpt: Our first annual report sets out the scale of the digital participation challenge in Scotland, what we're doing about it, and how you can get involved.
-
 permalink: /about/annual-report-2015/
-
 ---
 
 Summer 2015
@@ -15,7 +10,7 @@ Summer 2015
 ### Contents
 
 [Foreword](#foreword)
-  
+
 [Executive summary](#executive-summary)
 
 1. [Why digital participation matters](#why-digital-participation-matters)
@@ -32,7 +27,6 @@ Download a [PDF version of this publication](/files/digital-participation-annual
 
 Download a [high-resolution copy of our digital participation infographic](/images/infographic-2015-white.png)
 
-
 ## Foreword
 
 For centuries, Scots have made an impact on the world out of all proportion to our size as a nation, both at an individual level and through our collective efforts.
@@ -43,10 +37,8 @@ In the 21st century, our small country of five million people has the potential 
 
 We can do it, if all of us pull together towards that common goal.
 
-**Brendan Dick**  
+**Brendan Dick**
 *Chair of the Digital Participation Leadership Group*
-
-
 
 ## Executive summary
 
@@ -54,10 +46,7 @@ For most of us, the internet is just another part of everyday life. But nearly a
 
 For the past 18 months the Scottish Council for Voluntary Organisations, with the support of the Scottish Government and the European Regional Development Fund, has been leading a national effort to promote digital participation and basic digital skills.
 
-This short report provides a brief overview of the issues and the key facts and figures for Scotland, along with a progress update on our work and the fantastic range of community projects and business growth internships that we are backing. It also includes an update on Scotland's Digital Participation Charter, and some thoughts about what comes next as we aim to further scale up and accelerate our work. 
-
-
-
+This short report provides a brief overview of the issues and the key facts and figures for Scotland, along with a progress update on our work and the fantastic range of community projects and business growth internships that we are backing. It also includes an update on Scotland's Digital Participation Charter, and some thoughts about what comes next as we aim to further scale up and accelerate our work.
 
 ## 1. Why digital participation matters
 
@@ -82,23 +71,21 @@ Just over a year ago, the Royal Society of Edinburgh published [Spreading the Be
 
 Since then, we have been working hard to advance the digital participation agenda in Scotland. This is our first annual progress report, and a look ahead to the challenges to come.
 
-
-
 ## 2. The facts for Scotland
 
 If we want to understand how the internet is changing lives, it's important to measure people's ability to use it for the things that matter to them - and not just count the number of households with a broadband subscription or smartphone.
 
 We're working with the definition of [basic digital skills](/about/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
 
-1. **Managing information**  
+1. **Managing information**
 Find, manage and store digital information and content
-2. **Communicating**  
+2. **Communicating**
 Communicate, interact, collaborate, share and connect with others
-3. **Transacting**  
+3. **Transacting**
 Purchase and sell goods and services, organise your finances, and register for and use digital government services
-4. **Problem solving**  
+4. **Problem solving**
 Increase independence and confidence by solving problems using digital tools and finding solutions
-5. **Creating**  
+5. **Creating**
 Engage with communities and create basic digital content
 
 In each of these areas there are things that people and organisations should be able to do, as well as things they need to be aware of to stay safe.
@@ -112,8 +99,6 @@ Across the UK as a whole the proportion is about the same. Amongst those who lac
 Basic digital skills also matter for organisations. The [most recent available data](https://resources.lloydsbank.com/insight/uk-business-digital-index/) tells us that half of [charities](http://www.scvo.org.uk/news-campaigns-and-policy/research/scvo-scottish-third-sector-statistics/) and a quarter of [SMEs](http://www.gov.scot/Topics/Statistics/Browse/Business/Corporate/KeyFacts) in Scotland lack basic digital skills. **This adds up to over 20,000 charities and voluntary organisations, and over 80,000 SMEs.**
 
 Again, across the UK as a whole the proportions are about the same. What's more, one quarter of charities and SMEs see digital as irrelevant to them, and three quarters are not investing any of their budget in digital skills.
-
-
 
 ## 3. Changing lives, one person at a time
 
@@ -137,11 +122,9 @@ A simple calculation based on Scotland's share of the basic digital skills chall
 
 This shouldn't necessarily be seen as a lump-sum injection of cash, since a big part of the cost reflects the time that needs to be spent by people helping other people. But it is a useful benchmark for the order of magnitude of effort required across the public, private and third sectors, and provides context for the discussion later about future plans.
 
-
-
 ## 4. Building a national movement
 
-The Scottish Government's ambition is for Scotland to be a [world-leading digital nation](http://www.gov.scot/Topics/Economy/digital/Digital-Dialogue2), and achieving an excellent rate of digital participation is [an essential part](http://www.gov.scot/Publications/2014/04/6821) of this. To help move this agenda forward, the Scottish Government asked SCVO to play a leading role in promoting digital participation and basic digital skills. 
+The Scottish Government's ambition is for Scotland to be a [world-leading digital nation](http://www.gov.scot/Topics/Economy/digital/Digital-Dialogue2), and achieving an excellent rate of digital participation is [an essential part](http://www.gov.scot/Publications/2014/04/6821) of this. To help move this agenda forward, the Scottish Government asked SCVO to play a leading role in promoting digital participation and basic digital skills.
 
 We are now 18 months into our programme. Backed by financial support from the Scottish Government, along with some additional match funding from the European Commission, we have:
 
@@ -164,11 +147,11 @@ There are [five commitments](/charter/) in the Charter that we ask our partners 
 
 So far [over 100 organisations](/charter/signatories/) have joined us. This includes central and local government bodies, large and small businesses, and a range of charities and community groups.
 
-We are working with all of our partners to make connections between those who share common interests, and to broker practical support that will help more people learn basic digital skills. 
+We are working with all of our partners to make connections between those who share common interests, and to broker practical support that will help more people learn basic digital skills.
 
 ### Community projects
 
-Our community projects are on the front line when it comes to delivering digital participation and basic digital skills. Based on the principles outlined above - local and hyperlocal interventions, community led and based on user needs - we have awarded over £350,000 across [55 projects](/projects/) that we think have the potential to make a real difference on the ground. Together, these projects will aim to help up to 10,000 people gain basic digital skills. 
+Our community projects are on the front line when it comes to delivering digital participation and basic digital skills. Based on the principles outlined above - local and hyperlocal interventions, community led and based on user needs - we have awarded over £350,000 across [55 projects](/projects/) that we think have the potential to make a real difference on the ground. Together, these projects will aim to help up to 10,000 people gain basic digital skills.
 
 These projects are small, local and together span the length and breadth of Scotland. They are employing a range of approaches, from structured learning to informal efforts run by friends and neighbours. And the locus for each is different depending on the interests of the people they are working with, so things like local history, employability, culture and walking - rather than keyboards and mice - are taking centre stage. Each of the projects has a [page on our website](/projects/) where you can find out more about their story and how they are getting on.
 
@@ -179,8 +162,6 @@ As well as supporting the delivery of basic digital skills via charities and vol
 Building up the basic digital skills of charities and voluntary organisations themselves is just as important as working with end users. Our business growth internships are designed to provide a quick burst of practical support for charities, by providing funding for them to hire an intern to work on digital projects for between 6 and 12 weeks. Interns are paid the [living wage](http://www.livingwage.org.uk/what-living-wage), and through a partnership with [Scotland IS](http://www.scotlandis.com/) we have been linking interns and charities up to contacts in the Scottish tech sector where appropriate. Around 100 charities have applied for the scheme, and over 60 opportunities have already gone live.
 
 As well as building up basic digital skills amongst charities, through this work we are also improving our understanding of where charities are most in need of support. The two most popular topics for projects are websites (creating or updating) and online marketing / social media. The next most popular topic is looking at in-house IT, followed by digital strategy.
-
-
 
 ## 5. Where we go from here
 
@@ -208,9 +189,7 @@ We are particularly interested in:
 * Ways to embed digital participation into everyday activities like grocery shopping, meeting friends, visiting the doctor or getting to work
 * Ways to take advantage of the fact that more and more people are using smartphones and tablets as the main way to get online
 
-Now is also the time to redouble our efforts to connect digital participation to other agendas, from information literacy and parent engagement with schools to person-centred digital public services. 
-
-
+Now is also the time to redouble our efforts to connect digital participation to other agendas, from information literacy and parent engagement with schools to person-centred digital public services.
 
 ## Get involved!
 
@@ -228,4 +207,4 @@ And if you're in a position to contribute material support, then we'd love to he
 
 Together, we can make a real and lasting difference.
 
-![infographic](/images/infographic-2015-white.png)
+<img src="/images/infographic-2015-white.png" alt="Infographic" class="responsive-img">

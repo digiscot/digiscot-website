@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: markdown
 title: Digital Participation Library
 excerpt: Resources and reports relating to digital participation in Scotland
 permalink: /about/library/
 ---
 
-We're passionate about digital participation, and we spend lots of our time reading about exciting digital inclusion activity across the country. This year we've even put together our own [report](http://digital.scvo.org.uk/about/annual-report-2015/)! As we come across so many excellent articles, reports and resources we want to share these with you, so check out the list below. (Oh and if anything isn't there which you think should be, please don't hesitate to [get in touch](/contact/)).
+We're passionate about digital participation, and we spend lots of our time reading about exciting digital inclusion activity across the country. This year we've even put together our own [report](/about/annual-report-2015/)! As we come across so many excellent articles, reports and resources we want to share these with you, so check out the list below. (Oh and if anything isn't there which you think should be, please don't hesitate to [get in touch](/contact/)).
 
 ## Essential reading
 
@@ -25,7 +25,7 @@ We're passionate about digital participation, and we spend lots of our time read
 
 #### Citizens Advice Scotland
 
-* [Internet access in Glasgow's deprived areas](http://www.cas.org.uk/system/files/publications/internet_access_in_glasgow_2015_final_-_aug_15.pdf) 
+* [Internet access in Glasgow's deprived areas](http://www.cas.org.uk/system/files/publications/internet_access_in_glasgow_2015_final_-_aug_15.pdf)
 * [Offline and left behind: Digital exclusion amongst Scotland's CAB clients](http://www.cas.org.uk/system/files/publications/OFFLINE%20AND%20LEFT%20BEHIND%20INDESIGN.pdf)
 
 #### Deloitte
@@ -38,7 +38,7 @@ We're passionate about digital participation, and we spend lots of our time read
 
 #### McKinsey & Company
 
-* [Offline and falling behind: Barriers to Internet adoption](http://www.go-on.co.uk/wp-content/uploads/2014/10/McKinsey-Company-Offline-and-falling-behind-Barriers-to-Internet-adoption-article.pdf) 
+* [Offline and falling behind: Barriers to Internet adoption](http://www.go-on.co.uk/wp-content/uploads/2014/10/McKinsey-Company-Offline-and-falling-behind-Barriers-to-Internet-adoption-article.pdf)
 
 #### Ofcom
 
@@ -52,7 +52,7 @@ We're passionate about digital participation, and we spend lots of our time read
 
 #### Oxford Internet Surveys
 
-* [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf) 
+* [Cultures of the Internet: The Internet in Britain](http://oxis.oii.ox.ac.uk/wp-content/uploads/2014/11/OxIS-2013.pdf)
 
 #### Royal Society of Edinburgh
 
@@ -63,11 +63,11 @@ We're passionate about digital participation, and we spend lots of our time read
 * [Scotland's Digital Future: A Strategy for Scotland](http://www.gov.scot/Publications/2011/03/04162416/12)
 * [Scotland's people annual report: Results from 2013 Scottish Household Survey](http://www.gov.scot/Resource/0045/00457570.pdf)
 * [Digital Participation: A National Framework for Local Action](http://www.gov.scot/Publications/2014/04/6821/downloads)
-* [Digital Inclusion Outcomes Framework](https://www.digitalskills.com/digital-inclusion-outcomes) 
+* [Digital Inclusion Outcomes Framework](https://www.digitalskills.com/digital-inclusion-outcomes)
 
 #### SCVO
 
-* [Digital participation in action](http://digital.scvo.org.uk/about/annual-report-2015/) 
+* [Digital participation in action](http://digital.scvo.org.uk/about/annual-report-2015/)
 
 #### Tinder Foundation
 
@@ -76,13 +76,13 @@ We're passionate about digital participation, and we spend lots of our time read
 * [Mobile: Helping to close the digital divide?](http://www.tinderfoundation.org/our-thinking/research-publications/mobile-helping-close-digital-divide)
 * [Supporting Small Businesses with Digital: A pilot project](http://www.tinderfoundation.org/our-thinking/research-publications/supporting-small-businesses-digital-pilot-project)
 
-#### Youthlink 
+#### Youthlink
 
-* [Digitally Agile National Principles](http://www.digitallyagilecld.org/) 
+* [Digitally Agile National Principles](http://www.digitallyagilecld.org/)
 * [Digitally Agile Community Learning and Development 2012 report](http://media.wix.com/ugd/c5ab51_8080bedb43954cb19ae0a6a357297ed2.pdf)
 
 ## Just for fun
 
-* [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/) 
+* [6th Sense: How technology is transforming networking](http://www.bookofthefuture.co.uk/2015/06/6th-sense-how-technology-is-transforming-networking/)
 * [Community How To: Doing more with digital](http://www.communityhowto.com/)
 * [Scotland's Digital Future blog](http://blogs.scotland.gov.uk/digital/)

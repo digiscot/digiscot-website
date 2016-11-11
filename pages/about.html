@@ -1,0 +1,113 @@
+---
+layout: default
+title: About
+excerpt: Learn all about us
+permalink: /about/
+fa-icon: fa-info-circle
+---
+
+{% include masthead.html %}
+
+<div class="section">
+    <div class="container-fluid flow-text">
+        <h2>Basic digital skills</h2>
+        <p>A short overview of the skills that people and organisations need to get things done online.</p>
+        <a href="/about/basic-digital-skills/" class="btn">Read more</a>
+        <p>We’re not the only people writing about digital participation! In our library you’ll find links to a wide range of
+            publications, reports and research relating to digital participation and skills.</p>
+        <a href="/about/library/" class="btn">Browse the library</a>
+    </div>
+</div>
+
+<div class="divider"></div>
+
+<div class="section">
+    <div class="container-fluid flow-text">
+        <h2>Our mailing list</h2>
+        <p>Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland
+            and beyond.</p>
+        <form action="http://email.scvo.org.uk/t/r/s/ihjihtl/" method="post" id="subForm">
+            <div class="input-field">
+                <input id="fieldName" name="cm-name" type="text">
+                <label for="fieldName">Name</label>
+            </div>
+            <div class="input-field">
+                <input id="fieldEmail" name="cm-ihjihtl-ihjihtl" type="email" required="">
+                <label for="fieldEmail">Email</label>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-lg">Subscribe</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="divider"></div>
+
+<div class="section">
+    <div class="container-fluid flow-text">
+        <h2>Meet the team</h2>
+        <p>Who's who in the digital participation team at SCVO.</p>
+
+        <div class="row">
+        {% for item in site.data.team %}
+            {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
+
+            <div class="col s6 m4 l3">
+                <div class="card medium hoverable">
+                        <div class="card-image team-image" style="background-image:url(/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %});"></div>
+                        <div class="card-content">
+                            <strong>{{ item.name }}</strong><br />
+                            {% if item.job %}
+                                {{ item.job }}<br />
+                            {% endif %}
+                            {% if item.phone %}
+                                {{ item.phone }}<br />
+                            {% endif %}
+
+                            <div class="team-social right-align">
+                                {% if item.email %}
+                                    <a href="mailto:{{ item.email }}" class="teal-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
+                                {% endif %}
+                                {% if item.twitter %}
+                                    <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                                {% endif %}
+                                {% if item.linkedin %}
+                                    <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                                {% endif %}
+                            </div>
+                        </div>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+
+        <div class="divider"></div>
+
+        <h3>Alumni</h3>
+
+        <div class="row">
+        {% for item in site.data.alumni %}
+            {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
+
+            <div class="col s6 m4 l3">
+                <div class="card medium hoverable">
+                        <div class="card-image team-image" style="background-image:url(/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %});"></div>
+                        <div class="card-content">
+                            <strong>{{ item.name }}</strong><br />
+
+                            <div class="team-social right-align">
+                                {% if item.twitter %}
+                                    <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                                {% endif %}
+                                {% if item.linkedin %}
+                                    <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                                {% endif %}
+                            </div>
+                        </div>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</div>

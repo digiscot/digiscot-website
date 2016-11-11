@@ -11,3 +11,6 @@ ganalytics: UA-3467930-7
 
 # Build settings
 markdown: kramdown
+
+sass:
+    sass_dir: ./_scss

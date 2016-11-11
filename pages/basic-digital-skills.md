@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: markdown
 title: Basic digital skills
-excerpt: These are the basic digital skills that people and organisations need to get things done online. 
+excerpt: These are the basic digital skills that people and organisations need to get things done online.
 permalink: /about/basic-digital-skills/
 ---
-
 
 We have adopted the [basic digital skills definition](http://www.go-on.co.uk/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
 
@@ -15,8 +14,6 @@ We have adopted the [basic digital skills definition](http://www.go-on.co.uk/bas
 5. [Creating](#creating)
 
 For each of these skills the definition gives examples of what they should enable people and organisations to do, and also covers staying safe online.
-
-
 
 ## 1. Managing information
 
@@ -43,8 +40,6 @@ For each of these skills the definition gives examples of what they should enabl
 * Use simple analytics to understand who uses your website and when
 * Discover potential growth opportunities for your business
 
-
-
 ## 2. Communicating
 
 **Communicate, interact, collaborate, share and connect with others.**
@@ -66,8 +61,6 @@ For each of these skills the definition gives examples of what they should enabl
 * Maintain customer and client relationships
 * Use social media to promote your business and connect with new customers
 * Improve your customer service by providing accessible product information and answers to FAQs
-
-
 
 ## 3. Transacting
 
@@ -95,8 +88,6 @@ For each of these skills the definition gives examples of what they should enabl
 * Receive payments or donations
 * Protect yourself from fraud or scams by recognising secure websites
 
-
-
 ## 4. Problem solving
 
 **Increase independence and confidence by solving problems using digital tools and finding solutions.**
@@ -118,8 +109,6 @@ For each of these skills the definition gives examples of what they should enabl
 * Quickly understand which products and services work based on online feedback
 * Use simple analytics to understand who uses your website and when
 * Get quick, effective solutions to problems from safe, accurate sources
-
-
 
 ## 5. Creating
 
