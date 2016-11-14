@@ -54,9 +54,10 @@ fa-icon: fa-info-circle
             {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
 
             <div class="col s6 m4 l3">
-                <div class="card medium hoverable">
-                        <div class="card-image team-image" style="background-image:url(/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %});"></div>
-                        <div class="card-content">
+                <div class="card large hoverable">
+                        <div class="card-image">
+                            <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                        </div>                        <div class="card-content">
                             <strong>{{ item.name }}</strong><br />
                             {% if item.job %}
                                 {{ item.job }}<br />
@@ -91,8 +92,10 @@ fa-icon: fa-info-circle
             {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
 
             <div class="col s6 m4 l3">
-                <div class="card medium hoverable">
-                        <div class="card-image team-image" style="background-image:url(/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %});"></div>
+                <div class="card large hoverable">
+                        <div class="card-image">
+                            <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                        </div>
                         <div class="card-content">
                             <strong>{{ item.name }}</strong><br />
 
