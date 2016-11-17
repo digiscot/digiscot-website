@@ -1,9 +1,79 @@
 ---
 layout: default
-fa-icon: fa0file-o
+fa-icon: fa-file-o
 ---
 
 {% include masthead.html %}
+
+{% capture tags %}
+  {% for tag in page.tags %}
+    {{ tag }}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sortedtags = tags | split:' ' | sort %}
+
+<div class="section grey lighten-2">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col s12 m9 l9">
+                <h3 class="black-text">{{ page.lead }}</h3>
+                {% if page.website %}
+                    <a href="{{ page.website }}" class="chip teal white-text">
+                        <i class="fa fa-fw fa-link"></i>
+                        Website
+                    </a>
+                {% endif %}
+                {% if page.email %}
+                    <a href="mailto:{{ page.email }}" class="chip teal white-text">
+                        <i class="fa fa-fw fa-envelope"></i>
+                        Email
+                    </a>
+                {% endif %}
+                {% if page.twitter-url %}
+                    <a href="{{ page.twitter-url }}" class="chip teal white-text">
+                        <i class="fa fa-fw fa-twitter"></i>
+                        Twitter
+                    </a>
+                {% endif %}
+                {% if page.facebook-url %}
+                    <a href="{{ page.facebook-url }}" class="chip teal white-text">
+                        <i class="fa fa-fw fa-facebook"></i>
+                        Facebook
+                    </a>
+                {% endif %}
+
+                <ul class="fa-ul">
+                    <li>
+                        <i class="fa-li fa fa-calendar"></i>
+                        from: {{ page.start }} to {{ page.end }}
+                    </li>
+                    <li>
+                        <i class="fa-li fa fa-money"></i>
+                        Challenge fund award: £{{ page.award }}{% if page.call == 1 %} from Call 1 (Winter 2014){% elsif page.call == 2 %} from Call 2 (Spring 2015){% elsif page.call == 3 %} from Call 3 (Winter 2015){% endif %}
+                    </li>
+                </ul>
+            </div>
+            <div class="col s12 m3 l3 right-align">
+                {% if page.image %}
+                    <img src="{{ page.image }}" class="responsive-img" />
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="divider grey darken-3"></div>
+
+        <p class="right-align">
+            <strong>Tags: </strong>
+            {% for tag in sortedtags %}
+                <a href="/projects/tags/#{{ tag }}" class="chip teal white-text">
+                    <i class="fa fa-fw fa-tag"></i>
+                        {{ tag }}
+                </a>
+            {% endfor %}
+        </p>
+    </div>
+</div>
 
 <div class="section">
     <div class="container-fluid">

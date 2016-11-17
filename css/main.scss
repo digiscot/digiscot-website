@@ -90,15 +90,19 @@ ul.browser-default{
     }
 }
 
-.masthead {
-    margin-top: 64px;
+#scaffold {
+    height: 64px;
 }
 
 .section {
     padding-bottom: 45px;
 }
 
-nav{
+.section.headingless {
+    padding-top: 45px;
+}
+
+nav#header{
     position: fixed;
     z-index: 10;
     right: 0;
