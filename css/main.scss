@@ -218,6 +218,10 @@ h2 {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+
+    img{
+        max-width: 350px;
+    }
 }
 
 .team-social{
