@@ -42,13 +42,26 @@
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.3/headroom.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.3/jQuery.headroom.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/salvattore/1.0.9/salvattore.min.js"></script>
 <script>
     $(document).ready(function(){
         $(".button-collapse").sideNav();
-        $("#header").headroom({
+        var headroom = new Headroom(document.querySelector("#header"), {
             offset: 64
+        });
+        headroom.init();
+
+        if(window.location.hash){
+            var anchor = window.location.hash;
+            $("ul.collapsible li" + anchor).addClass("active");
+        }
+
+        $('.collapsible').collapsible({
+            onOpen: function(el) {
+                window.setTimeout(function(){
+                    headroom.unpin();
+                }, 400);
+            }
         });
     });
 </script>

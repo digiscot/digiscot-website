@@ -50,36 +50,29 @@ fa-icon: fa-info-circle
         <p>Who's who in the digital participation team at SCVO.</p>
 
         <div class="team-cards" data-columns>
-        {% for item in site.data.team %}
-            {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
-
-            <div class="card hoverable">
-                <div class="card-image">
-                    <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+            {% for item in site.data.team %}
+                <div class="card hoverable">
+                    <div class="card-image">
+                        <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                    </div>
+                    <div class="card-content">
+                        <strong>{{ item.name }}</strong><br />
+                        {% if item.job %}
+                            {{ item.job }}<br />
+                        {% endif %}
+                        {% if item.phone %}
+                            <a href="tel:{{ item.phone }}">{{ item.phone }}</a><br />
+                        {% endif %}
+                    </div>
+                    <div class="card-action team-social">
+                        {% if item.email %}
+                            <a href="mailto:{{ item.email }}" class="teal-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a> {% endif %} {% if item.twitter %}
+                            <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>                    {% endif %} {% if item.linkedin %}
+                            <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                        {% endif %}
+                    </div>
                 </div>
-                <div class="card-content">
-                    <strong>{{ item.name }}</strong><br />
-                    {% if item.job %}
-                        {{ item.job }}<br />
-                    {% endif %}
-                    {% if item.phone %}
-                        <a href="tel:{{ item.phone }}">{{ item.phone }}</a><br />
-                    {% endif %}
-                </div>
-                <div class="card-action team-social">
-                    {% if item.email %}
-                        <a href="mailto:{{ item.email }}" class="teal-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
-                    {% endif %}
-                    {% if item.twitter %}
-                        <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
-                    {% endif %}
-                    {% if item.linkedin %}
-                        <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
-                    {% endif %}
-                </div>
-            </div>
-
-        {% endfor %}
+            {% endfor %}
         </div>
 
         <div class="clearfix"></div>
@@ -89,8 +82,7 @@ fa-icon: fa-info-circle
         <h3>Alumni</h3>
 
         <div class="team-cards" data-columns>
-        {% for item in site.data.alumni %}
-            {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
+            {% for item in site.data.alumni %}
 
             <div class="card hoverable">
                 <div class="card-image">
@@ -101,14 +93,12 @@ fa-icon: fa-info-circle
                 </div>
                 <div class="card-action team-social">
                     {% if item.twitter %}
-                        <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
-                    {% endif %}
-                    {% if item.linkedin %}
+                        <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>                    {% endif %} {% if item.linkedin %}
                         <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
                     {% endif %}
                 </div>
             </div>
-        {% endfor %}
+            {% endfor %}
         </div>
 
         <div class="clearfix"></div>

@@ -59,6 +59,14 @@ strong {
     font-weight: 700;
 }
 
+ul.browser-default{
+    margin-top:15px;
+    margin-bottom:15px;
+    li{
+        list-style-type: disc;
+    }
+}
+
 // Spacing and that
 
 .container-fluid{

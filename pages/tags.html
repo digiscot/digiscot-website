@@ -1,0 +1,121 @@
+---
+layout: default
+title: Project tags
+excerpt: Explore our digital participation projects by what they're focusing on.
+permalink: /projects/tags/
+fa-icon: fa-tags
+---
+
+{% include masthead.html %}
+
+{% capture tags %}
+  {% for page in site.pages %}
+    {% for tag in page.tags %}
+        {{ tag }}
+    {% endfor %}
+  {% endfor %}
+{% endcapture %}
+
+{% assign array = tags | split:' ' %}
+
+{% assign tags = array[1] %}
+
+{% for item in array %}
+    {% unless tags contains item %}
+        {% capture tags %}{{ tags }}|{{ item }}{% endcapture %}
+    {% endunless %}
+{% endfor %}
+
+{% assign sortedtags = tags | split:'|' | sort %}
+
+<div class="section">
+  <div class="container-fluid">
+    <h2>Projects by tags</h2>
+
+    <ul class="collapsible" data-collapsible="accordion">
+      {% for tag in sortedtags %}
+        <li>
+          <a href="#{{ tag }}" id="{{ tag }}" class="collapsible-header">
+            <i class="fa fa-fw fa-tag"></i>
+            {{ tag | capitalize }}
+          </a>
+          <div class="collapsible-body">
+            <ul class="browser-default">
+              {% for page in site.pages %}
+                {% if page.layout == 'project' %}
+                  {% capture ptags %}
+                    {% for tag in page.tags %}
+                      {{ tag }}
+                    {% endfor %}
+                  {% endcapture %}
+
+                  {% assign parray = ptags | split:' ' %}
+
+                  {% if parray contains tag %}
+                    <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="divider"></div>
+
+<div class="section">
+  <div class="container-fluid">
+    <h2>Projects by date funded</h2>
+
+    <ul class="collapsible" data-collapsible="accordion">
+      <li id="call1">
+          <a name="call1" href="#call1" class="collapsible-header">
+            <i class="fa fa-fw fa-calendar"></i>
+            Call 1 (Winter 2014)
+          </a>
+          <div class="collapsible-body">
+            <ul class="browser-default">
+              {% for page in site.pages %}
+                {% if page.call == 1 %}
+                  <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+      </li>
+      <li id="call2" >
+          <a name="call2" href="#call2" class="collapsible-header">
+            <i class="fa fa-fw fa-calendar"></i>
+            Call 2 (Spring 2015)
+          </a>
+          <div class="collapsible-body">
+            <ul class="browser-default">
+              {% for page in site.pages %}
+                {% if page.call == 2 %}
+                  <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+      </li>
+      <li id="call3">
+          <a name="call3" href="#call3" class="collapsible-header">
+            <i class="fa fa-fw fa-calendar"></i>
+            Call 3 (Winter 2015)
+          </a>
+          <div class="collapsible-body">
+            <ul class="browser-default">
+              {% for page in site.pages %}
+                {% if page.call == 3 %}
+                  <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+      </li>
+    </ul>
+  </div>
+</div>
