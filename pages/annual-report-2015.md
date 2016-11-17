@@ -137,7 +137,7 @@ We are now 18 months into our programme. Backed by financial support from the Sc
 
 Scotland's Digital Participation Charter is the cornerstone of a national movement to promote digital participation and basic digital skills. Any organisation can sign the Charter as a way to show solidarity and make a public commitment to getting involved.
 
-There are [five commitments](/charter/) in the Charter that we ask our partners to live up to:
+There are [five commitments](http://charter.scvo.org.uk/) in the Charter that we ask our partners to live up to:
 
 1. Ensuring that all of our staff and volunteers have an opportunity to learn basic digital skills, and that they take advantage of this opportunity
 2. Encouraging and supporting our staff and volunteers to help other people learn basic digital skills, and help other organisations to embrace digital tools
@@ -145,7 +145,7 @@ There are [five commitments](/charter/) in the Charter that we ask our partners 
 4. Channelling our efforts through the Digital Participation Programme, so that our activities can be coordinated for maximum impact and measured consistently
 5. Using common language based on digital participation and basic digital skills, to make our thinking and actions as clear as possible
 
-So far [over 100 organisations](/charter/signatories/) have joined us. This includes central and local government bodies, large and small businesses, and a range of charities and community groups.
+So far [over 100 organisations](http://charter.scvo.org.uk/Signatories/) have joined us. This includes central and local government bodies, large and small businesses, and a range of charities and community groups.
 
 We are working with all of our partners to make connections between those who share common interests, and to broker practical support that will help more people learn basic digital skills.
 
@@ -195,7 +195,7 @@ Now is also the time to redouble our efforts to connect digital participation to
 
 Delivering digital participation for Scotland is, and always will be, a team effort. Before you close this page, here are some of the ways that you can get involved:
 
-* Sign the [Digital Participation Charter](/charter/)
+* Sign the [Digital Participation Charter](http://charter.scvo.org.uk/)
 * Start your own [community project](/projects/)
 * Come along to our [events](/events/) and make connections with like-minded people
 
