@@ -240,3 +240,11 @@ h2 {
         background-repeat: no-repeat;
     }
 }
+
+// Home
+
+@media(min-width: $medium-screen){
+    .home-card{
+        margin:0 60px;
+    }
+}
