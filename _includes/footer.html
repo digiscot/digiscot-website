@@ -53,7 +53,10 @@
 
         if(window.location.hash){
             var anchor = window.location.hash;
-            $("ul.collapsible li" + anchor).addClass("active");
+            $(anchor).trigger('click');
+            $('html, body').animate({
+                scrollTop: $(anchor).offset().top
+            }, 400);
         }
 
         $('.collapsible').collapsible({
