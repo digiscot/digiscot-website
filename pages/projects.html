@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-excerpt: We're supporting some fantastic digital participation projects. Here are their stories. 
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
 permalink: /projects/
 fa-icon: fa-list
 ---
@@ -11,20 +11,20 @@ fa-icon: fa-list
 <div class="section">
     <div class="container-fluid flow-text">
         <p>
-            We're supporting a wide range of digital participation projects 
-            in communities across Scotland. Many of these are benefiting from 
-            financial support from our 
-            <a href="/resources/challenge-fund/">challenge fund</a>, whilst 
-            others are receiving in-kind support from organisations that have 
-            signed our <a href="/charter/">digital participation charter</a>. 
-            Each of them has a page on this site to tell their story in their 
+            We're supporting a wide range of digital participation projects
+            in communities across Scotland. Many of these are benefiting from
+            financial support from our
+            <a href="/resources/challenge-fund/">challenge fund</a>, whilst
+            others are receiving in-kind support from organisations that have
+            signed our <a href="/charter/">digital participation charter</a>.
+            Each of them has a page on this site to tell their story in their
             own words.
         </p>
 
         <p>
-            You can also <a href="/projects/tags/">explore the projects by tag</a> 
-            or <a href="/projects/tags/#call1">by date funded</a>, or 
-            <a href="/projects/map/">see an interactive map</a> of where things 
+            You can also <a href="/projects/tags/">explore the projects by tag</a>
+            or <a href="/projects/tags/#call1">by date funded</a>, or
+            <a href="/projects/map/">see an interactive map</a> of where things
             are happening.
         </p>
     </div>
@@ -45,7 +45,7 @@ fa-icon: fa-list
         {% endfor %}
 
         <h2>
-            Our projects | 
+            Our projects |
             <small>{{ count }} projects have received support</small>
         </h2>
 
@@ -75,14 +75,26 @@ fa-icon: fa-list
                             </div>
                             <div class="card-action">
                                 {% if page.call == 1 %}
-                                    <a href="/projects/tags/#call1" class="chip teal white-text">Winter 2014</a>
+                                    <a href="/projects/tags/#call1" class="chip teal white-text">
+                                        <i class="fa fa-fw fa-calendar"></i>
+                                        Winter 2014
+                                    </a>
                                 {% elsif page.call == 2 %}
-                                    <a href="/projects/tags/#call2" class="chip teal white-text">Spring 2015</a>
+                                    <a href="/projects/tags/#call2" class="chip teal white-text">
+                                        <i class="fa fa-fw fa-calendar"></i>
+                                        Spring 2015
+                                    </a>
                                 {% elsif page.call == 3 %}
-                                    <a href="/projects/tags/#call3" class="chip teal white-text">Winter 2015</a>
+                                    <a href="/projects/tags/#call3" class="chip teal white-text">
+                                        <i class="fa fa-fw fa-calendar"></i>
+                                        Winter 2015
+                                    </a>
                                 {% endif %}
                                 {% for tag in sortedtags %}
-                                    <a href="/projects/tags/#{{ tag }}" class="chip teal white-text">{{ tag }}</a>
+                                    <a href="/projects/tags/#{{ tag }}" class="chip teal white-text">
+                                        <i class="fa fa-fw fa-tag"></i>
+                                        {{ tag }}
+                                    </a>
                                 {% endfor %}
                             </div>
                         </div>
@@ -119,9 +131,9 @@ fa-icon: fa-list
 
         {% assign sortedtags = tags | split:'|' | sort %}
 
-        <small><a href="/projects/tags/">Tags:<a/></small> 
+        <small><a href="/projects/tags/">Tags:<a/></small>
         {% for tag in sortedtags %}
-            <a href="/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a> 
+            <a href="/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a>
         {% endfor %}
     </div>
 </div>
