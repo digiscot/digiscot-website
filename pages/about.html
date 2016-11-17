@@ -49,68 +49,68 @@ fa-icon: fa-info-circle
         <h2>Meet the team</h2>
         <p>Who's who in the digital participation team at SCVO.</p>
 
-        <div class="row">
+        <div class="team-cards" data-columns>
         {% for item in site.data.team %}
             {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
 
-            <div class="col s6 m4 l3">
-                <div class="card large hoverable">
-                        <div class="card-image">
-                            <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
-                        </div>                        <div class="card-content">
-                            <strong>{{ item.name }}</strong><br />
-                            {% if item.job %}
-                                {{ item.job }}<br />
-                            {% endif %}
-                            {% if item.phone %}
-                                {{ item.phone }}<br />
-                            {% endif %}
-
-                            <div class="team-social right-align">
-                                {% if item.email %}
-                                    <a href="mailto:{{ item.email }}" class="teal-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
-                                {% endif %}
-                                {% if item.twitter %}
-                                    <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
-                                {% endif %}
-                                {% if item.linkedin %}
-                                    <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
-                                {% endif %}
-                            </div>
-                        </div>
+            <div class="card hoverable">
+                <div class="card-image">
+                    <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                </div>
+                <div class="card-content">
+                    <strong>{{ item.name }}</strong><br />
+                    {% if item.job %}
+                        {{ item.job }}<br />
+                    {% endif %}
+                    {% if item.phone %}
+                        {{ item.phone }}<br />
+                    {% endif %}
+                </div>
+                <div class="card-action team-social">
+                    {% if item.email %}
+                        <a href="mailto:{{ item.email }}" class="teal-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
+                    {% endif %}
+                    {% if item.twitter %}
+                        <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                    {% endif %}
+                    {% if item.linkedin %}
+                        <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                    {% endif %}
                 </div>
             </div>
+
         {% endfor %}
         </div>
+
+        <div class="clearfix"></div>
 
         <div class="divider"></div>
 
         <h3>Alumni</h3>
 
-        <div class="row">
+        <div class="team-cards" data-columns>
         {% for item in site.data.alumni %}
             {% capture break %}{{ forloop.index | modulo: 4 }}{% endcapture %}
 
-            <div class="col s6 m4 l3">
-                <div class="card large hoverable">
-                        <div class="card-image">
-                            <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
-                        </div>
-                        <div class="card-content">
-                            <strong>{{ item.name }}</strong><br />
-
-                            <div class="team-social right-align">
-                                {% if item.twitter %}
-                                    <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
-                                {% endif %}
-                                {% if item.linkedin %}
-                                    <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
-                                {% endif %}
-                            </div>
-                        </div>
+            <div class="card hoverable">
+                <div class="card-image">
+                    <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                </div>
+                <div class="card-content">
+                    <strong>{{ item.name }}</strong><br />
+                </div>
+                <div class="card-action team-social">
+                    {% if item.twitter %}
+                        <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                    {% endif %}
+                    {% if item.linkedin %}
+                        <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                    {% endif %}
                 </div>
             </div>
         {% endfor %}
         </div>
+
+        <div class="clearfix"></div>
     </div>
 </div>

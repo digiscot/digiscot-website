@@ -55,6 +55,10 @@ body {
     color:                          $base-font-color;
 }
 
+strong {
+    font-weight: 700;
+}
+
 // Spacing and that
 
 .container-fluid{
@@ -78,8 +82,31 @@ body {
     }
 }
 
+.masthead {
+    margin-top: 64px;
+}
+
 .section {
     padding-bottom: 45px;
+}
+
+nav{
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+.headroom {
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+.headroom--pinned {
+    transform: translateY(0%);
+}
+.headroom--unpinned {
+    transform: translateY(-100%);
 }
 
 @media(max-width: $medium-screen){
@@ -113,6 +140,58 @@ body {
         display:block;
         align-items:auto;
     }
+}
+
+// Columns stuff
+
+[data-columns]{
+    .column { float: left; padding-left: 7.5px; padding-right: 7.5px;  }
+    .column:first-child { padding-left: 0 }
+    .column:last-child { padding-right: 0 }
+}
+
+.project-cards[data-columns]::before {
+    @media only screen and (min-width: 0) and (max-width: $medium-screen) {
+	    content: '1 .column.size-1of1';
+    }
+    @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+	    content: '2 .column.size-1of2';
+    }
+    @media only screen and (min-width: $large-screen) {
+	    content: '3 .column.size-1of3';
+    }
+}
+
+.project-cards[data-columns] {
+    .size-1of1 { width: 100%; }
+    .size-1of2 { width: 50%; }
+    .size-1of3 { width: 33.333%; }
+}
+
+.team-cards[data-columns]::before {
+    @media only screen and (min-width: 0) and (max-width: ($medium-screen / 3)) {
+	    content: '1 .column.size-1of1';
+    }
+    @media only screen and (min-width: ($medium-screen / 3)) and (max-width: (($medium-screen / 3) * 2)) {
+	    content: '2 .column.size-1of2';
+    }
+    @media only screen and (min-width: (($medium-screen / 3) * 2)) and (max-width: $medium-screen) {
+	    content: '3 .column.size-1of3';
+    }
+    @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+	    content: '4 .column.size-1of4';
+    }
+    @media only screen and (min-width: $large-screen) {
+	    content: '5 .column.size-1of5';
+    }
+}
+
+.team-cards[data-columns]{
+    .size-1of1 { width: 100%; }
+    .size-1of2 { width: 50%; }
+    .size-1of3 { width: 33.333%; }
+    .size-1of4 { width: 25%; }
+    .size-1of5 { width: 20%; }
 }
 
 // Colors
