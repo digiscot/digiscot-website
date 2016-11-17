@@ -26,7 +26,7 @@ fa-icon: fa-info-circle
         <h2>Our mailing list</h2>
         <p>Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland
             and beyond.</p>
-        <form action="http://email.scvo.org.uk/t/r/s/ihjihtl/" method="post" id="subForm">
+        <form action="https://email.scvo.org.uk/t/r/s/ihjihtl/" method="post" id="subForm">
             <div class="input-field">
                 <input id="fieldName" name="cm-name" type="text">
                 <label for="fieldName">Name</label>
@@ -63,7 +63,7 @@ fa-icon: fa-info-circle
                         {{ item.job }}<br />
                     {% endif %}
                     {% if item.phone %}
-                        {{ item.phone }}<br />
+                        <a href="tel:{{ item.phone }}">{{ item.phone }}</a><br />
                     {% endif %}
                 </div>
                 <div class="card-action team-social">
