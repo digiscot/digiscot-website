@@ -1,0 +1,18 @@
+<ul>
+    {% for item in site.data.menu %}
+        {% if item.show contains include.menuName %}
+            <li>
+                <a href="{{ item.path }}">
+                    {{ item.title }}
+                </a>
+                {% if item.submenu and include.submenu %}
+                    <ul>
+                        {% for subitem in item.submenu %}
+                            <li><a href="{{ subitem.path }}">{{ subitem.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>

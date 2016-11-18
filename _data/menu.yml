@@ -1,18 +1,43 @@
+- title: Home
+  path: /
+  show:
+  - side
 - title: Participation
   path: /participation/
+  show:
+  - side
+  - main
   submenu:
   - title: Apply for funding
     path: /participation/apply-for-funding/
+    show:
+    - side
+    - main
   - title: Projects
     path: /projects/
+    show:
+    - side
+    - main
   - title: Basic digital skills
     path: /about/basic-digital-skills/
+    show:
+    - side
+    - main
   - title: Browse the library
     path: /about/library/
+    show:
+    - side
+    - main
 - title: Evolution
   path: /evolution/
+  show:
+  - side
+  - main
 - title: Innovation
   path: /innovation/
+  show:
+  - side
+  - main
   submenu:
   - title: Milo & third sector data
     path: /innovation/data/
@@ -20,3 +45,6 @@
     path: /innovation/digital-services/
 - title: About
   path: /about/
+  show:
+  - side
+  - main

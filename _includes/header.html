@@ -5,9 +5,7 @@
                 <img src="/images/scvo-inverse.png" height="40" style="vertical-align:middle;margin-top:-5px;">
             </a>
             <ul class="right hide-on-med-and-down">
-                {% for item in site.data.menu %}
-                    <li><a href="{{ item.path }}">{{ item.title }}</a></li>
-                {% endfor %}
+                {% include menu.html menuName="main" submenu=false %}
             </ul>
             <a href="#" data-activates="side-nav" class="button-collapse">
                 <i class="material-icons">menu</i>
@@ -16,20 +14,7 @@
     </div>
 </nav>
 <div id="side-nav" class="side-nav">
-    <ul>
-        <li><a href="/">Home</a></li>
-        {% for item in site.data.menu %}
-            <li>
-                <a href="{{ item.path }}">{{ item.title }}</a>
-                {% if item.submenu %}
-                    <ul>
-                        {% for subitem in item.submenu %}
-                            <li><a href="{{ subitem.path }}">{{ subitem.title }}</a></li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </li>
-        {% endfor %}
-    </ul>
+    {% include menu.html menuName="side" submenu=true %}
 </div>
 <div id="scaffold"></div>
+{% include masthead.html %}

@@ -92,11 +92,11 @@ ul.browser-default{
 
 #scaffold {
     @media only screen and (min-width: 0) {
-        height: 64px;
+        height: 56px;
     }
 
     @media only screen and (min-width: $medium-screen) {
-        height: 56px;
+        height: 64px;
     }
 }
 

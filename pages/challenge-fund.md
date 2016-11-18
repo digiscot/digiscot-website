@@ -7,7 +7,6 @@ permalink: /resources/challenge-fund/
 fa-icon: fa-money
 ---
 
-
 Our Digital Participation Challenge Fund, supported by by the [Scottish Government](http://www.gov.scot), the ERDF and [BT](/charter/bt/), invests in community digital participation projects across Scotland. The [projects that we're supporting](/projects/) will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
 
 ## Project criteria
