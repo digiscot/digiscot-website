@@ -7,6 +7,40 @@ fa-icon: fa-info-circle
 ---
 
 <div class="section">
+    <div class="container-fluid">
+        <h2>2020 Digital Strategy</h2>
+        <div class="center-align">
+            <a class="rm-mag-embed" href="https://readymag.com/622991" data-uri="622991"  data-width="responsive"  target="_blank">https://readymag.com/622991</a>
+            <script async src="https://readymag.com/specials/assets/embed_init.js" id="readymag-embed-init"></script>
+        </div>
+    </div>
+</div>
+
+<div class="divider"></div>
+
+<div class="section">
+    <div class="container-fluid flow-text">
+        <h2 id="subscribe">Our e:bulletin</h2>
+        <p>Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation, evolution and innovation in Scotland and beyond.</p>
+        <form action="https://email.scvo.org.uk/t/r/s/ihjihtl/" method="post" id="subForm">
+            <div class="input-field">
+                <input id="fieldName" name="cm-name" type="text">
+                <label for="fieldName">Name</label>
+            </div>
+            <div class="input-field">
+                <input id="fieldEmail" name="cm-ihjihtl-ihjihtl" type="email" required="">
+                <label for="fieldEmail">Email</label>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-lg">Subscribe</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="divider"></div>
+
+<div class="section">
     <div class="container-fluid flow-text">
         <h2>Meet the team</h2>
         <p>Who's who in the digital participation team at SCVO.</p>
@@ -38,66 +72,5 @@ fa-icon: fa-info-circle
         </div>
 
         <div class="clearfix"></div>
-
-        <div class="divider"></div>
-
-        <h3>Alumni</h3>
-
-        <div class="team-cards" data-columns>
-            {% for item in site.data.alumni %}
-
-            <div class="card hoverable">
-                <div class="card-image">
-                    <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
-                </div>
-                <div class="card-content">
-                    <strong>{{ item.name }}</strong><br />
-                </div>
-                <div class="card-action team-social">
-                    {% if item.twitter %}
-                        <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>                    {% endif %} {% if item.linkedin %}
-                        <a href="{{ item.linkedin }}" class="teal-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
-                    {% endif %}
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-
-        <div class="clearfix"></div>
-    </div>
-</div>
-
-<div class="divider"></div>
-
-<div class="section">
-    <div class="container-fluid">
-        <h2>2020 Digital Strategy</h2>
-        <div class="center-align">
-            <a class="rm-mag-embed" href="https://readymag.com/622991" data-uri="622991"  data-width="responsive"  target="_blank">https://readymag.com/622991</a>
-            <script async src="https://readymag.com/specials/assets/embed_init.js" id="readymag-embed-init"></script>
-        </div>
-    </div>
-</div>
-
-<div class="divider"></div>
-
-<div class="section">
-    <div class="container-fluid flow-text">
-        <h2 id="subscribe">Our e:bulletin</h2>
-        <p>Once a fortnight we send out a short email bulletin rounding up the latest news on digital participation in Scotland
-            and beyond.</p>
-        <form action="https://email.scvo.org.uk/t/r/s/ihjihtl/" method="post" id="subForm">
-            <div class="input-field">
-                <input id="fieldName" name="cm-name" type="text">
-                <label for="fieldName">Name</label>
-            </div>
-            <div class="input-field">
-                <input id="fieldEmail" name="cm-ihjihtl-ihjihtl" type="email" required="">
-                <label for="fieldEmail">Email</label>
-            </div>
-            <div class="form-group">
-                <button type="submit" class="btn btn-primary btn-lg">Subscribe</button>
-            </div>
-        </form>
     </div>
 </div>
