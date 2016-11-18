@@ -34,8 +34,8 @@
   - side
   - main
   submenu:
-  - title: OneDigital events
-    path: /evolution/onedigital-meetups/
+  - title: One Digital events
+    path: /evolution/one-digital-meetups/
     show:
     - side
     - main
