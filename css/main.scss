@@ -136,6 +136,10 @@ nav#header{
     .s12 .card.large
     {
         height:auto;
+
+        .card-action{
+            position: relative;
+        }
     }
 }
 
@@ -150,6 +154,10 @@ nav#header{
 
   @media only screen and (min-width: $large-screen) {
     font-size: 15px;
+  }
+
+  .card-content .card-title {
+      line-height: 1.5;
   }
 }
 
