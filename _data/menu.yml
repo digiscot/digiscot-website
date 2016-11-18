@@ -33,6 +33,9 @@
   show:
   - side
   - main
+  submenu:
+  - title: OneDigital events
+    path: /evolution/onedigital-meetups/
 - title: Innovation
   path: /innovation/
   show:
