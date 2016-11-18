@@ -91,7 +91,13 @@ ul.browser-default{
 }
 
 #scaffold {
-    height: 64px;
+    @media only screen and (min-width: 0) {
+        height: 64px;
+    }
+
+    @media only screen and (min-width: $medium-screen) {
+        height: 56px;
+    }
 }
 
 .section {
@@ -151,6 +157,12 @@ nav#header{
     @media(max-width: $small-screen){
         display:block;
         align-items:auto;
+    }
+}
+
+.side-nav{
+    ul li ul{
+        margin-left: 15px;
     }
 }
 

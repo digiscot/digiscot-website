@@ -1,0 +1,22 @@
+- title: Participation
+  path: /participation/
+  submenu:
+  - title: Apply for funding
+    path: /participation/apply-for-funding/
+  - title: Projects
+    path: /projects/
+  - title: Basic digital skills
+    path: /about/basic-digital-skills/
+  - title: Browse the library
+    path: /about/library/
+- title: Evolution
+  path: /evolution/
+- title: Innovation
+  path: /innovation/
+  submenu:
+  - title: Milo & third sector data
+    path: /innovation/data/
+  - title: Our digital services
+    path: /innovation/digital-services/
+- title: About
+  path: /about/

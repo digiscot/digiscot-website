@@ -5,17 +5,9 @@
                 <img src="/images/scvo-inverse.png" height="40" style="vertical-align:middle;margin-top:-5px;">
             </a>
             <ul class="right hide-on-med-and-down">
-                <li><a href="/participation/">Participation</a></li>
-                <li><a href="/evolution/">Evolution</a></li>
-                <li><a href="/innovation/">Innovation</a></li>
-                <li><a href="/about/">About</a></li>
-            </ul>
-            <ul id="side-nav" class="side-nav">
-                <li><a href="/">Home</a></li>
-                <li><a href="/participation/">Participation</a></li>
-                <li><a href="/evolution/">Evolution</a></li>
-                <li><a href="/innovation/">Innovation</a></li>
-                <li><a href="/about/">About</a></li>
+                {% for item in site.data.menu %}
+                    <li><a href="{{ item.path }}">{{ item.title }}</a></li>
+                {% endfor %}
             </ul>
             <a href="#" data-activates="side-nav" class="button-collapse">
                 <i class="material-icons">menu</i>
@@ -23,4 +15,21 @@
         </div>
     </div>
 </nav>
+<div id="side-nav" class="side-nav">
+    <ul>
+        <li><a href="/">Home</a></li>
+        {% for item in site.data.menu %}
+            <li>
+                <a href="{{ item.path }}">{{ item.title }}</a>
+                {% if item.submenu %}
+                    <ul>
+                        {% for subitem in item.submenu %}
+                            <li><a href="{{ subitem.path }}">{{ subitem.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
 <div id="scaffold"></div>
