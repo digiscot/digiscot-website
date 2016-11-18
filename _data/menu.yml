@@ -36,16 +36,19 @@
   submenu:
   - title: OneDigital events
     path: /evolution/onedigital-meetups/
+    show:
+    - side
+    - main
 - title: Innovation
   path: /innovation/
   show:
   - side
   - main
   submenu:
-  - title: Milo & third sector data
-    path: /innovation/data/
-  - title: Our digital services
-    path: /innovation/digital-services/
+  - title: Milo library
+    path: /innovation/milo-library/
+  - title: Milo training
+    path: /innovation/milo-training/
 - title: About
   path: /about/
   show:
