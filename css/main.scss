@@ -55,6 +55,16 @@ body {
     color:                          $base-font-color;
 }
 
+#site{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+#site-content{
+    flex: 1;
+}
+
 strong {
     font-weight: 700;
 }
