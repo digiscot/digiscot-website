@@ -43,6 +43,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.3/headroom.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/salvattore/1.0.9/salvattore.min.js"></script>
+
 <script>
     $(document).ready(function(){
         $(".button-collapse").sideNav();
@@ -69,40 +70,59 @@
             }
         });
 
-        // Find all YouTube videos
-//        var $allVideos = $("iframe[src^='//www.youtube.com']"),
-//
-//        // The element that is fluid width
-//        $fluidEl = $("body");
-//
-//        // Figure out and save aspect ratio for each video
-//        $allVideos.each(function() {
-//
-//        $(this)
-//            .data('aspectRatio', this.height / this.width)
-//
-//            // and remove the hard coded width/height
-//            .removeAttr('height')
-//            .removeAttr('width');
-//
-//        });
-//
-//        // When the window is resized
-//        $(window).resize(function() {
-//
-//        var newWidth = $fluidEl.width();
-//
-//        // Resize all videos according to their own aspect ratio
-//        $allVideos.each(function() {
-//
-//            var $el = $(this);
-//            $el
-//            .width(newWidth)
-//            .height(newWidth * $el.data('aspectRatio'));
-//
-//        });
-//
-//        // Kick off one resize to fix all videos on page load
-//        }).resize();
+        if($('#events').length > 0){
+            $.getJSON("https://www.googleapis.com/calendar/v3/calendars/8ep89c5uh3nekaub1jelb4jdp1epc8t0%40import.calendar.google.com/events?key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo")
+                .done(function(obj, status, xhr){
+                    console.log('Got:', obj, status, xhr);
+                    displayEvents(obj.items);
+                })
+                .fail(function(obj, status, xhr){
+                    console.error('Failed:', obj, status, xhr);
+                });
+        }
+
+        function displayEvents(events){
+            var $el = $('#events');
+            if(events.length === 0){
+                $el.html('<strong>Sorry but there are currently no events');
+                return;
+            }
+
+            $el.empty();
+
+            for(var x = 0; x < events.length; x++){
+                var event = events[x];
+
+                var uid = event.iCalUID.replace(/\D/g, '');
+                var image = 'https://maps.googleapis.com/maps/api/staticmap';
+                image += '?markers=' + event.location;
+                image += '&size=300x300';
+                image += '&key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo';
+
+                var maplink = 'https://www.google.co.uk/maps/search/';
+                maplink += encodeURIComponent(event.location);
+
+                var $event = $('<div />').addClass('card horizontal');
+
+                var $image = $('<a />').attr({'href': 'maplink', 'title': 'Find on Google Maps'}).addClass('card-image').appendTo($event);
+                var $img = $('<img />').attr('src', image).addClass('responsive-img').appendTo($image);
+
+                var $stacked = $('<div />').addClass('card-stacked').appendTo($event);
+
+                var $content = $('<div />').addClass('card-content').appendTo($stacked);
+                var $title = $('<span />').addClass('card-title').text(event.summary).appendTo($content);
+                var $info = $('<ul />').addClass('fa-ul').appendTo($content);
+                var $date = $('<li />').appendTo($info);
+                $date.html('<i class="fa fa-li fa-calendar"></i>' + event.start.dateTime + ' - ' + event.end.dateTime);
+                var $location = $('<li />').appendTo($info);
+                $location.html('<i class="fa fa-li fa-map-marker"></i>' + event.location);
+                var $description = $('<div />').html(event.description).appendTo($content);
+
+                var $action = $('<div />').addClass('card-action').appendTo($stacked);
+                var $link = $('<a />').addClass('teal-text').attr('href', 'https://www.meetup.com/One-Digital-Meetup/events/' + uid + '/').html('<i class="fa fa-fw fa-meetup"></i> Visit event on meetup.com').appendTo($action);
+
+                $el.append($event);
+            }
+        }
     });
 </script>
