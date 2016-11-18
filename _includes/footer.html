@@ -17,7 +17,7 @@
                     </li>
                     <li>
                         <i class="fa-li fa fa-envelope"></i>
-                        <a href="/about/subscribe/" class="white-text">Join our mailing list</a>
+                        <a href="/about/#subscribe" class="white-text">Join our mailing list</a>
                     </li>
                 </ul>
             </div>
@@ -54,8 +54,10 @@
         if(window.location.hash){
             var anchor = window.location.hash;
             $(anchor).trigger('click');
-            $('html, body').animate({
-                scrollTop: $(anchor).offset().top
+            window.setTimeout(function(){
+                $('html, body').animate({
+                    scrollTop: $(anchor).offset().top
+                }, 400);
             }, 400);
         }
 

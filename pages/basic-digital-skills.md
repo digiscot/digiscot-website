@@ -3,6 +3,7 @@ layout: markdown
 title: Basic digital skills
 excerpt: These are the basic digital skills that people and organisations need to get things done online.
 permalink: /about/basic-digital-skills/
+submenu: /participation/
 ---
 
 We have adopted the [basic digital skills definition](https://doteveryone.org.uk/digital-skills/digital-skills-framework/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
