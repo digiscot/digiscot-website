@@ -6,6 +6,8 @@ permalink: /participation/apply-for-funding/learning-to-be-considered/
 submenu: participation-apply-for-funding
 ---
 
+## Learning to be considered
+
 In developing applications for the Fund, it is important that organisations build on evidence around digital participation and lessons learned from previous projects:
 
 {:.browser-default}

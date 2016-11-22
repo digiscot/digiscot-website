@@ -79,6 +79,10 @@ ul.browser-default{
 
 // Spacing and that
 
+ul.browser-default li{
+    margin:10px 0;
+}
+
 .container-fluid{
     max-width: 1280px;
     width: 95%;

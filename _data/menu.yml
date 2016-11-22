@@ -67,6 +67,8 @@ participation-apply-for-funding:
     path: /participation/apply-for-funding/learning-to-be-considered/
   - title: Funding criteria
     path: /participation/apply-for-funding/funding-criteria/
+  - title: FAQ
+    path: /participation/apply-for-funding/faq/
   - title: Apply now
     path: /participation/apply-for-funding/apply-now/
 

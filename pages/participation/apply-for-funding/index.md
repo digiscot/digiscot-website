@@ -10,7 +10,7 @@ submenu: participation-apply-for-funding
 
 Scotland is already a digital nation. Eight in ten households have an internet connection, and four in ten have a tablet computer. Six in ten people use a smartphone. For those who have the access, motivation and skills to get things done online, life is enhanced.
 
-But still far too many people risk being left behind. 11% of the adult population in Scotland have never used the internet and almost one in five do not have the [basic digital skills](/participation/basic-digital-skills/) to use it effectively.
+But still far too many people risk being left behind. Approximately 10% of the adult population in Scotland have never used the internet and almost one in five do not have the [basic digital skills](/participation/basic-digital-skills/) to use it effectively.
 
 If this were just a case of missing out on a few distracting websites and celebrity tweets then we might think nothing more of it. But the stakes are so much higher. Amongst other things, the internet helps people keep in touch, learn new things, save money, find work and stay healthy. For some people it's been a genuine life saver. These things matter to everyone, and they should be for everyone.
 
