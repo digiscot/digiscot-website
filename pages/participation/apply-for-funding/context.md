@@ -26,3 +26,10 @@ The recently published Scottish Government [Fairer Scotland Action Plan](http://
 A priority action within the Plan is to ensure _&quot;that low-income consumers have access to the goods and services that enable them to avoid the poverty premium, such as affordable internet access and the digital skills and confidence to transact online to facilitate switching.&quot;_
 
 The Digital Participation Charter Fund is aiming to support organisations to contribute to building basic digital skills as part of broader work to tackle issues of poverty and inequality.
+
+<div class="section headingless">
+    <a href="/participation/apply-for-funding/learning-to-be-considered/" class="btn right">
+        <i class="fa fa-pull-right fa-chevron-right"></i>
+        Next
+    </a>
+</div>

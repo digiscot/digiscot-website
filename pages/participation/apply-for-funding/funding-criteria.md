@@ -26,3 +26,10 @@ Applications are unlikely to be considered which:
 * Are primarily for equipment, capital expenditure, website development or similar types of organisational infrastructure
 * Relate to higher level digital skills (e.g. coding clubs)
 * Are aimed at children and young people, unless clear evidence is provided on a specific target group&#39;s lack of [basic digital skills](/participation/basic-digital-skills/)
+
+<div class="section headingless">
+    <a href="/participation/apply-for-funding/faq/" class="btn right">
+        <i class="fa fa-pull-right fa-chevron-right"></i>
+        Next
+    </a>
+</div>

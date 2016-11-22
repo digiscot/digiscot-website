@@ -99,3 +99,10 @@ Yes, however, the activity which you are now asking to be funded must not be con
 
 ### 10. How will my application be assessed?
 After the deadline has passed, all applications will be allocated to a member of the assessing group made up of members of the SCVO team; a random group of applications will be selected for peer review. We will then hold a meeting where all of the projects / applications deemed suitable will be discussed and a final set of recommended projects will be agreed upon. The team's recommendations are then considered by the [SCVO Leadership Group which](/about/board/) has the final approval. We aim to announce our final decisions w/c 6th February 2017.
+
+<div class="section headingless">
+    <a href="/participation/apply-for-funding/apply-now/" class="btn right">
+        <i class="fa fa-pull-right fa-chevron-right"></i>
+        Next
+    </a>
+</div>

@@ -37,4 +37,10 @@ If your project is successful, then you will also have some key obligations as p
 
 Further terms and conditions will apply. You can [download a copy of the contract](/files/Challenge%20Fund%20Contract.pdf) to ensure you can comply.
 
-<a href="http://forms.scvo.org.uk/s3/charterfund" class="btn white-text">Apply now</a>
+
+<div class="section headingless">
+    <a href="http://forms.scvo.org.uk/s3/charterfund" class="btn white-text right">
+        <i class="fa fa-pull-right fa-pencil"></i>
+        Apply now
+    </a>
+</div>

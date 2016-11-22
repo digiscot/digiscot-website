@@ -19,3 +19,10 @@ Getting people online and developing basic digital skills in Scotland's communit
 Over the past two years, the Digital Participation Challenge Fund has [supported 84 projects](/participation/projects/) across Scotland to get people online and develop basic digital skills.
 
 Supported by the Scottish Government, the new Digital Participation Charter Fund is now open for applications. There is a particular focus for the Fund to support organisations currently working to tackle poverty, social isolation and other forms of inequality to embed basic digital skill development work into their day-to-day activity with service users.
+
+<div class="section headingless">
+    <a href="/participation/apply-for-funding/context/" class="btn right">
+        <i class="fa fa-pull-right fa-chevron-right"></i>
+        Next
+    </a>
+</div>

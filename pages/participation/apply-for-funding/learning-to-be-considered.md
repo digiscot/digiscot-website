@@ -27,3 +27,10 @@ Additional learning from previous Challenge Fund projects, which may be relevant
 * For some projects, overcoming basic literacy and language barriers took longer than anticipated, before tackling basic digital skills.
 * Choosing the right type of device to fit the activity is crucial. For example, only desktops or laptops are suitable for developing transactional skills (e.g. form filling).
 * Some learners emerged as peer volunteers or supporters and this enhanced success significantly.
+
+<div class="section headingless">
+    <a href="/participation/apply-for-funding/funding-criteria/" class="btn right">
+        <i class="fa fa-pull-right fa-chevron-right"></i>
+        Next
+    </a>
+</div>
