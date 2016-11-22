@@ -24,7 +24,7 @@ Over a six month period Forres Area Community Trust (FACT) will develop a digita
 
 In partnership with local organisations, ReBoot and Living It Up, FACT will develop a programme of training for online learning and activity in Forres.  Volunteer tutors will be recruited, trained, and supported to provide sessions for the public during drop in daytime hours and evening sessions.  FACT will provide a fully equipped training room with free WiFi access, laptops, and tablets so that members of the public and volunteers will have a functional space to learn and work in.
 
-Forres Online will help older members of the community connect with friends and family online, do internet shopping and banking, and access topics of interest and advice where needed, reducing isolation and promoting independent living.  Local job seekers and benefit claimants will become better informed about the services they can access via online information and have increased job opportunities from gaining digital skills and submitting accurate online job applications.  
+Forres Online will help older members of the community connect with friends and family online, do internet shopping and banking, and access topics of interest and advice where needed, reducing isolation and promoting independent living.  Local job seekers and benefit claimants will become better informed about the services they can access via online information and have increased job opportunities from gaining digital skills and submitting accurate online job applications.
 
 Volunteer tutors will develop tutoring skills to enhance their existing skill set contributing to their personal development and wider development of an engaged community.
 
@@ -40,11 +40,11 @@ Take a Tablet, Internet Safety, Facebook Basics, Video Calling
 ## Project Milestones
 - August 5th: Volunteer recruitment meeting held with 6 interested volunteers
 - August 14th: The first public drop-in session runs attracting 7 attendees
-- August 18th: 25 local people attend Forres Online launch event 
+- August 18th: 25 local people attend Forres Online launch event
 - August 25th: ReBoot and Living It Up hold first drop-in sessions
-- September 17th: 20 attendances reached 
+- September 17th: 20 attendances reached
 - October 6th: Volunteer from local Academy joins Forres Online to help
-- October 27th: 50 attendances reached 
+- October 27th: 50 attendances reached
 - November 12th: Second volunteer from local Academy joins Forres Online to help
 - December 15th: 40 indivduals engaged and received help from project since launching
 - December 22nd: 100 attendances reached
@@ -56,7 +56,7 @@ Take a Tablet, Internet Safety, Facebook Basics, Video Calling
 - March 31st: Attendance number surpass 200
 - May 24th: Forres Online hosts Moray Connected project talk with local council
 - June 8th: Forres Online volunteer recognised with 'Outstanding Contribution' award
-- August 2016: Forres Online project breaks for Summer Holiday haven helped 139 individuals 
+- August 2016: Forres Online project breaks for Summer Holiday haven helped 139 individuals
 - September 2016: Future of Forres Online is secured for 2 years with Scottish Goverment funding
 
 
@@ -76,7 +76,7 @@ The project evaluation was carried out using a short questionnaire with online, 
 
 Things that worked well:
 
-1. Local partnerships with ReBoot and Living It Up 
+1. Local partnerships with ReBoot and Living It Up
 2. Information sessions to reach new people
 3. Volunteers connecting with and helping the project
 

@@ -3,18 +3,18 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
 title: Tap and Talk
-excerpt: Support group to help adults with aphasia explore the benefits of technology 
+excerpt: Support group to help adults with aphasia explore the benefits of technology
 lead: Dundee Augmentative and Alternative Communication (AAC) Research Group, University of Dundee
 website:
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: May 2015
 end: November 2015
 award: 7250
-postcode: DD1 4HN 
+postcode: DD1 4HN
 image:
-tags: disabled-people 
+tags: disabled-people
 permalink: /projects/dundee-university/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -43,7 +43,7 @@ The group had previously met in the Queen Mother Building at the University of D
 
 ### Advertise the group through print and online media
 
-A printed information postcard was designed and produced to be circulated with interested parties. The involved Speech and Language Therapists took the print media to colleagues and Special Interest Groups (SIG) for distribution. 
+A printed information postcard was designed and produced to be circulated with interested parties. The involved Speech and Language Therapists took the print media to colleagues and Special Interest Groups (SIG) for distribution.
 
 <a href="http://aac.dundee.ac.uk/downloads/tat/info-postcard-v3.pdf"><img  src="http://aac.computing.dundee.ac.uk/wp-content/uploads/2015/06/info-postcard-v3-300x214.png" alt="Info Postcard" width="400" /></a>
 
@@ -55,7 +55,7 @@ A web page on the Dundee AAC website was established, informing about key points
 
 ## Evaluation
 
-We have been collecting data during the group sessions we will be analysing at the beginning of 2016. 
+We have been collecting data during the group sessions we will be analysing at the beginning of 2016.
 
 Following some preliminary results on communication within the group.
 
@@ -77,7 +77,7 @@ We also presented our work at the national conference of Communication Matters, 
 
 The Tap and Talk Group has a Facebook page to inform interested parties:
 
-https://www.facebook.com/tapandtalk/ 
+https://www.facebook.com/tapandtalk/
 
 Here we regularly post updates from group and drop-in sessions as well as interesting posts from others as well as shared articles found online.
 

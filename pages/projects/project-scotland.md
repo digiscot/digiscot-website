@@ -6,15 +6,15 @@ title: LinkedIn workshops
 excerpt: Get on in life workshop programme - LinkedIn workshops.
 lead: Project Scotland
 website: http://www.projectscotland.co.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: January 2015
 end: March 2016
 award: 4019
 postcode: EH7 4GH
 image:
-tags: unemployed young-people Glasgow remote-rural 
+tags: unemployed young-people Glasgow remote-rural
 permalink: /projects/project-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -23,7 +23,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-To support volunteer & mentor workshops introducing the social media tool LinkedIn, and other social media platforms, as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology. 
+To support volunteer & mentor workshops introducing the social media tool LinkedIn, and other social media platforms, as a tool for networking and effective job searching. Workshops will be provided physically and online, making use of digital conferencing technology.
 
 
 ## Project milestones
@@ -49,7 +49,7 @@ We have had to change software providers due to initial communication problems, 
 
 ### Delivery: Workshop 2, April 2015
 
-2nd LinkedIn workshop took place in Glasgow hosted by [PwC](http://www.pwc.co.uk/) 
+2nd LinkedIn workshop took place in Glasgow hosted by [PwC](http://www.pwc.co.uk/)
 
 11 volunteers attended this workshop, 60% of whom had little or no experience of using LinkedIn prior to the workshop.  100% of participants felt they had 'lots' of knowledge post workshop and all told us they would continue to use LinkedIn to help with job searching and networking.
 
@@ -67,7 +67,7 @@ Post webinar, we will reveiew with the trainer and note any changes to make for 
 
 ### Delivery: Workshop 3, 8th October 2015 - Dundee
 
-This workshop took place in the Prince's Trust offices in Dundee on 8th October. We secured 16 sign ups (target attendance of 15) however on the day attendance was low, at 3. This was really disappointing given the efforts put into organising. Within Dundee the young people we work with are further from work, and have multiple barriers and chaotic circumstances surrounding their current situation. This can affect attendance to both their voluntary placements and the development opportunities. 
+This workshop took place in the Prince's Trust offices in Dundee on 8th October. We secured 16 sign ups (target attendance of 15) however on the day attendance was low, at 3. This was really disappointing given the efforts put into organising. Within Dundee the young people we work with are further from work, and have multiple barriers and chaotic circumstances surrounding their current situation. This can affect attendance to both their voluntary placements and the development opportunities.
 
 Saying that, all attendees found that the workshop was relevant to their individual goals and that the content was well delivered. They also all agreed that they now better understood the qualities that employers were looking for and have greater understanding about how Linkedin can help them do that. We are learning that Linkedin has not been a tool that young people either engage with, or understand, in terms of how it can affect future employment. The volunteers attending this workshop certainly echoed that and left feeling that they now knew how best to engage with Linkedin, and use the tool for their own journey.
 
@@ -93,7 +93,7 @@ Key Learnings with regards to delivery:
 
 Social Media and Job Hunting  - Creating your own success; hosted by our charity partners Young Enterprise Scotland, Glasgow
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/ProjectScotland/photos/a.380196498707518.85044.374455492614952/1016126925114469/?type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ProjectScotland/posts/1016126925114469:0"><p>Job hunting? Stand out from the crowd with top tips on CVs and interviews, at our upcoming workshop in Edinburgh. Can&#039;...</p>Posted by <a href="https://www.facebook.com/ProjectScotland/">ProjectScotland</a> on&nbsp;<a href="https://www.facebook.com/ProjectScotland/posts/1016126925114469:0">Thursday, 11 February 2016</a></blockquote></div></div> 
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/ProjectScotland/photos/a.380196498707518.85044.374455492614952/1016126925114469/?type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ProjectScotland/posts/1016126925114469:0"><p>Job hunting? Stand out from the crowd with top tips on CVs and interviews, at our upcoming workshop in Edinburgh. Can&#039;...</p>Posted by <a href="https://www.facebook.com/ProjectScotland/">ProjectScotland</a> on&nbsp;<a href="https://www.facebook.com/ProjectScotland/posts/1016126925114469:0">Thursday, 11 February 2016</a></blockquote></div></div>
 
 9 young people signed up to this workshop but only 5 attended. This cements our learnings that whilst young people are keen to develop their online skills, sometimes the barriers to attendance prevent this. All attendees stated that they learnt something news with comments such as 'I learnt how to present myself better on Linkedin for job opportunities' and 'The importance of Linkedin in finding new jobs.' And our trainer, Jackie Cameron, was even described as fabulous!
 
@@ -116,7 +116,7 @@ Attended by 5 mentors. All had previous knowledge of Linkedin which is different
 All mentors agreed that using technology is vital in their mentoring relationship.And after the training session all agreed that they would be more confident in using Linkedin to support their volunteers' job search.
 
 ### Volunteer Workshop 8 - April 2016
-8 signed up but only 3 attended. Again when dealing with young people, many of whom come from chaotic backgrounds, attendance is a challenge. 
+8 signed up but only 3 attended. Again when dealing with young people, many of whom come from chaotic backgrounds, attendance is a challenge.
 : all agreed that the workshop content was relevant to their goal of getting a job
 : all agreed that the content was well delivered
 : and all agreed that they learnt something valuable
@@ -152,7 +152,7 @@ Total views since created at end of March (figures up to end of May) – 341
 221 of those are “unique” views so 120 have accessed the page more than once/returned to view more content
 Bounce rate is only 32 % (the norm is 65%-85%) this means once people access the page they stay on it for some time
 17% exit rate (again this is much lower than the norm which is well over 40%) it means people that land on this page rarely leave our website directly from here - shows the content is promising
-268 of those views are in the first fortnight 
+268 of those views are in the first fortnight
 
 
 ## Evaluation

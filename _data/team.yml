@@ -12,20 +12,13 @@
   email: sally.dyson@scvo.org.uk
   twitter: sallyld
   linkedin: http://www.linkedin.com/pub/sally-dyson/25/497/287
-- name: Rebecca Stafford
+- name: Haldis Watson
   job: Team Support Officer
-  image: rebecca.jpg
+  image: haldis.jpg
   phone: 0131 474 8028
-  email: rebecca.stafford@scvo.org.uk
-  twitter: digibecca
-  linkedin:
-- name: Gillian Munro
-  job: Digital Participation Development Officer
-  image: gillian.JPG
-  phone:
-  email: gillian.munro@scvo.org.uk
-  twitter: digi_gill
-  linkedin:
+  email: haldis.watson@scvo.org.uk
+  twitter: IamHaldis
+  linkedin: https://uk.linkedin.com/in/haldis-watson-b8aa767b
 - name: Beth Murphy
   job: Project Manager, One Digital
   image: Beth.jpg
@@ -54,6 +47,20 @@
   email: jo.malo@scvo.org.uk
   twitter: jomalo6
   linkedin:
+- name: Jenny Bann
+  job: Digital Participation Charter Lead
+  image: jenny.jpg
+  phone:
+  email: jenny.bann@scvo.org.uk
+  twitter: calluna_
+  linkedin: https://uk.linkedin.com/in/jenny-bann-18b527109
+- name: Beverley Maclean
+  job: European Development Officer
+  image: beverley.jpg
+  phone: 01463 251723
+  email: beverley.maclean@scvo.org.uk
+  twitter: bevlington
+  linkedin:
 - name: Gavin Bell
   job: Programme Manager, Milo
   image: gavin.jpg
@@ -61,7 +68,7 @@
   email: gavin.bell@scvo.org.uk
   twitter: GavinDigital
   linkedin: https://www.linkedin.com/pub/gavin-bell/4a/583/168
-- name: Calum MacÙisdean
+- name: Calum MacÙisdean (Paternity Leave)
   job: Manager, SCVO Web
   image: calum.jpg
   phone:
@@ -75,10 +82,24 @@
   email: matthew.wilkes@scvo.org.uk
   twitter: tonicblue
   linkedin:
+- name: Lauren Pluss
+  job: Good HQ Community Manager
+  image: lauren.jpg
+  phone:
+  email: lauren.pluss@scvo.org.uk
+  twitter: laurenpluss
+  linkedin: https://www.linkedin.com/in/laurenpluss
 - name: Alex Nuttgens
   job: Developer, SCVO Labs
   image:
   phone:
   email: alex.nuttgens@scvo.org.uk
   twitter: anuttgens
+  linkedin:
+- name: Rebecca Stafford (Maternity Leave)
+  job: Team Support Officer
+  image: rebecca.jpg
+  phone:
+  email:
+  twitter:
   linkedin:

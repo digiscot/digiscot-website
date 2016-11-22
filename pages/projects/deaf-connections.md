@@ -4,11 +4,11 @@ layout: project
 call: 2
 title: DEAFinitely Digital
 excerpt: Supporting the deaf community to develop and advance their digital skills
-lead: Deaf Connections 
+lead: Deaf Connections
 website: http://www.deafconnections.co.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: March 2016
 award: 9959
@@ -34,25 +34,25 @@ Identify and purchase required hardware & software. Install setup/training serve
 
 ### Phase 2
 
-Publicize new training area and assistance program (leaflets and BSL video for Facebook and reception TV). Commence with classes and drop centre help in café. Record baseline. 
+Publicize new training area and assistance program (leaflets and BSL video for Facebook and reception TV). Commence with classes and drop centre help in café. Record baseline.
 
 ### Phase 3
 
-Progress review 
+Progress review
 
 ### Phase 4
 
-Evaluation 
+Evaluation
 
 ## Project Updates:
 
 ### June 2015
 
-Our project has had an interesting time since it started. We have successfully installed our new Wireless Access Point, providing improved WiFi access to our lounge/café area and purchased a Microsoft Multipoint server which allows many users to connect to one machine using a common set of applications. This allowed the server administrator to control the desktop of each user and reduces licence costs. 
+Our project has had an interesting time since it started. We have successfully installed our new Wireless Access Point, providing improved WiFi access to our lounge/café area and purchased a Microsoft Multipoint server which allows many users to connect to one machine using a common set of applications. This allowed the server administrator to control the desktop of each user and reduces licence costs.
 
 For user connection we decided to use 4 x HP 410 Thin Clients, these are all in one units, which professed to offer excellent multi media performance. All went well for the server installation and the thin client seemed to work well right up until we tried to run a YouTube video at which point the picture stuttered and the sound became out of sync. YouTube and resources such as the BBC iPlayer are vital to our work because they allow us to access BSL translated material on demand, they are crucial to the work we do digitally.
 
-I contacted HP support to see if I had done something wrong during the install that would impair performance and was surprised to get a response that said the 410 wouldn’t be able to cope with YouTube or the iPlayer, in fact it would struggle to run MS Office! Not exactly the excellent multi media performance we had been led to expect and a response that does beg the question “What can it run?”. 
+I contacted HP support to see if I had done something wrong during the install that would impair performance and was surprised to get a response that said the 410 wouldn’t be able to cope with YouTube or the iPlayer, in fact it would struggle to run MS Office! Not exactly the excellent multi media performance we had been led to expect and a response that does beg the question “What can it run?”.
 
 HP recommended moving to the next model up, the 510, our supplier was happy to do this but there would be a re-stock charge for the 410 units of £25 each. This seemed unfair given that the publicity for the 410 claimed it was built for exactly the kind of thing we hoped to use it for.
 
@@ -83,7 +83,7 @@ So far so good.
 
 ### Outputs and outcomes
 
-Overall this project supported the Deaf community to develop and advance their digital skills. Deaf Connections adapted the community café into a space where people could come and talk to a Deaf “Digital Challenge” trainer. Deaf people were able to use modern equipment during informal drop in sessions. The project reached out to our 500 members and encouraged them to think of Deaf Connections as a friendly, comfortable and informal place to learn. 
+Overall this project supported the Deaf community to develop and advance their digital skills. Deaf Connections adapted the community café into a space where people could come and talk to a Deaf “Digital Challenge” trainer. Deaf people were able to use modern equipment during informal drop in sessions. The project reached out to our 500 members and encouraged them to think of Deaf Connections as a friendly, comfortable and informal place to learn.
 
 **In terms of outputs we delivered:**
 
@@ -95,7 +95,7 @@ Overall this project supported the Deaf community to develop and advance their d
 
 •	Small group support with people with an acquired hearing loss
 
-•	Presentations to OAP Deaf community to demo digital technologies available 
+•	Presentations to OAP Deaf community to demo digital technologies available
 
 •	Support given to Deaf Connections staff and volunteers
 

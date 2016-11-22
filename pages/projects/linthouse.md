@@ -5,10 +5,10 @@ call: 1
 title: Linthouse Digital Learners
 excerpt: IT workshops
 lead: Linthouse Monday club
-website: 
-email: 
-twitter-url: 
-facebook-url: 
+website:
+email:
+twitter-url:
+facebook-url:
 start: TBC
 end: TBC
 award: 1000
@@ -23,7 +23,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-The proposed project is for the club to increase the IT and digital skills within the group, with sessions taking place each month over a 6 month period.  The uniqueness of the project lies within the overall approach the Monday Club is based on: by using Learning Circles and also by using social capital (networks of shared understanding) as a key resource which will enable the club to maximise its opportunities through empowering the group's members and enabling them to address directly the current and future needs of the members (in this case to improve their digital skills). 
+The proposed project is for the club to increase the IT and digital skills within the group, with sessions taking place each month over a 6 month period.  The uniqueness of the project lies within the overall approach the Monday Club is based on: by using Learning Circles and also by using social capital (networks of shared understanding) as a key resource which will enable the club to maximise its opportunities through empowering the group's members and enabling them to address directly the current and future needs of the members (in this case to improve their digital skills).
 
 
 
@@ -31,19 +31,19 @@ The proposed project is for the club to increase the IT and digital skills withi
 
 ### Phase 1
 
-Identify & recruit trainer services 
+Identify & recruit trainer services
 
 ### Phase 2
 
-Training plan / schedule developed in consultation with Linthouse Monday Club participants 
+Training plan / schedule developed in consultation with Linthouse Monday Club participants
 
 ### Phase 3
 
-Training Sessions delivered (12 over 6 month period) 
+Training Sessions delivered (12 over 6 month period)
 
 ### Phase 4
 
-1-3 peer volunteers trained up to provide ongoing support to the Club 
+1-3 peer volunteers trained up to provide ongoing support to the Club
 
 
 ## Evaluation

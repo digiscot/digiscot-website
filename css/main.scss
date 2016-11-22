@@ -2,11 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@charset "utf-8";
+// Mixins
+// @import "components/prefixer";
+@import "materialize";
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-
-
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 // Base variables
 
@@ -20,7 +20,7 @@ $base-line-height:                1.5;
 $h1-font-family:                  Montserrat, Helvetica, Arial, sans-serif;
 $h1-font-size:                    48px;
 $h1-font-weight:                  700;
-$h1-font-color:                   #0042A3;
+$h1-font-color:                   rgb(0, 99, 175);
 
 $h-font-color:                    #000000;
 $h-font-weight:                   700;
@@ -34,9 +34,13 @@ $brand-color-button-border:       #008E8A;
 $brand-color-button-hover:        #007E7A;
 $brand-color-button-border-hover: #006F6B;
 
-$spacing-unit:                    30px;
-
-
+@function black-or-white($color) {
+    @if (lightness($color) > 50) {
+        @return #000000; // Lighter backgorund, return dark color
+    } @else {
+        @return #ffffff; // Darker background, return light color
+    }
+}
 
 // Base styles
 
@@ -51,421 +55,230 @@ body {
     color:                          $base-font-color;
 }
 
-h1 {
-    font-family:                    $h1-font-family;
-    font-size:                      $h1-font-size;
-    font-weight:                    $h1-font-weight;
-    color:                          $h1-font-color;
+#site{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
-h2, h3, h4, h5, h6 {
-    font-weight:                    $h-font-weight;
-    color:                          $h-font-color;
+#site-content{
+    flex: 1;
 }
 
-p, li {
-    font-size:                      $base-font-size;
+strong {
+    font-weight: 700;
 }
 
-.lead {
-    font-size:                      175%;
-    color:                          $h1-font-color;
-}
-
-blockquote {
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit;
-    font-family: serif;
-    p {
-        font-size: 150%;
+ul.browser-default{
+    margin-top:15px;
+    margin-bottom:15px;
+    li{
+        list-style-type: disc;
     }
 }
 
+// Spacing and that
 
-
-// Links and buttons
-
-a {
-    color:                          $brand-color;
+ul.browser-default li{
+    margin:10px 0;
 }
 
-a:hover {
-    color:                          $brand-color-hover;
+.container-fluid{
+    max-width: 1280px;
+    width: 95%;
+    margin: 0 auto;
 }
 
-a:hover fa {
-    text-decoration: none;
+.container-fluid>.row{
+    margin-left:-11.250px;
+    margin-right:-11.250px;
 }
 
-.btn-primary {
-    background-color:               $brand-color-button;
-    border-color:                   $brand-color-button-border;
+.masthead, .footer{
+    .row{
+        margin:0;
+        padding:40px 0;
+    }
+    h1{
+        margin:0;
+    }
 }
 
-.btn-primary:hover {
-    background-color:               $brand-color-button-hover;
-    border-color:                   $brand-color-button-border-hover;
+#scaffold {
+    @media only screen and (min-width: 0) {
+        height: 56px;
+    }
+
+    @media only screen and (min-width: $medium-screen) {
+        height: 64px;
+    }
 }
 
-.labs {
-    color:                          #FF0066;
+.section {
+    padding-bottom: 45px;
 }
 
-.labs:hover {
-    color:                          #FF1975;
+.section.headingless {
+    padding-top: 45px;
 }
 
-.btn-labs {
-    color:                          #FFFFFF;
-    background-color:               #FF0066;
-    border-color:                   #CC0052;
+nav#header{
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    top: 0;
 }
 
-.btn-labs:hover {
-    color:                          #FFFFFF;
-    background-color:               #E6005C;
-    border-color:                   #B20047;
+.headroom {
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+.headroom--pinned {
+    transform: translateY(0%);
+}
+.headroom--unpinned {
+    transform: translateY(-100%);
 }
 
+@media(max-width: $medium-screen){
+    .m12 .card.small,
+    .m12 .card.medium,
+    .m12 .card.large,
+    .s12 .card.small,
+    .s12 .card.medium,
+    .s12 .card.large
+    {
+        height:auto;
 
+        .card-action{
+            position: relative;
+        }
+    }
+}
 
-// Spacing
+.card {
+  @media only screen and (min-width: 0) {
+    font-size: 14px;
+  }
 
+  @media only screen and (min-width: $medium-screen) {
+    font-size: 14.5px;
+  }
+
+  @media only screen and (min-width: $large-screen) {
+    font-size: 15px;
+  }
+
+  .card-content .card-title {
+      line-height: 1.5;
+  }
+}
+
+.row.valign-wrapper{
+    @media(max-width: $small-screen){
+        display:block;
+        align-items:auto;
+    }
+}
+
+.side-nav{
+    ul li ul{
+        margin-left: 15px;
+    }
+}
+
+// Columns stuff
+
+[data-columns]{
+    .column { float: left; padding-left: 7.5px; padding-right: 7.5px;  }
+    .column:first-child { padding-left: 0 }
+    .column:last-child { padding-right: 0 }
+}
+
+.project-cards[data-columns]::before {
+    @media only screen and (min-width: 0) and (max-width: $medium-screen) {
+	    content: '1 .column.size-1of1';
+    }
+    @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+	    content: '2 .column.size-1of2';
+    }
+    @media only screen and (min-width: $large-screen) {
+	    content: '3 .column.size-1of3';
+    }
+}
+
+.project-cards[data-columns] {
+    .size-1of1 { width: 100%; }
+    .size-1of2 { width: 50%; }
+    .size-1of3 { width: 33.333%; }
+}
+
+.team-cards[data-columns]::before {
+    @media only screen and (min-width: 0) and (max-width: ($medium-screen / 3)) {
+	    content: '1 .column.size-1of1';
+    }
+    @media only screen and (min-width: ($medium-screen / 3)) and (max-width: (($medium-screen / 3) * 2)) {
+	    content: '2 .column.size-1of2';
+    }
+    @media only screen and (min-width: (($medium-screen / 3) * 2)) and (max-width: $medium-screen) {
+	    content: '3 .column.size-1of3';
+    }
+    @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+	    content: '4 .column.size-1of4';
+    }
+    @media only screen and (min-width: $large-screen) {
+	    content: '5 .column.size-1of5';
+    }
+}
+
+.team-cards[data-columns]{
+    .size-1of1 { width: 100%; }
+    .size-1of2 { width: 50%; }
+    .size-1of3 { width: 33.333%; }
+    .size-1of4 { width: 25%; }
+    .size-1of5 { width: 20%; }
+}
+
+// Colors
 h2 {
-    margin-top: $spacing-unit * 2;
-    margin-bottom: $spacing-unit;
-    padding-bottom: $spacing-unit / 2;
-    border-bottom: 1px solid #EEEEEE;
+    color: $primary-color
 }
 
-h3 {
-    margin-top: $spacing-unit * 1.5;
-}
+// Team
 
-h4, h5, h6 {
-    margin-top: $spacing-unit;
-}
-
-.btn-lg, .input-lg {
-    margin-top: $spacing-unit / 3;
-    margin-bottom: $spacing-unit / 3;
-}
-
-.col-front, form {
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit;
-}
-
-.p-index {
-    margin-bottom: $spacing-unit;
-}
-
-.smallprint {
-    line-height: 1.2;
-}
-
-h4.comments {
-    margin-top: $spacing-unit * 2;
-}
-
-#disqus_thread {
-    margin-bottom: $spacing-unit * 2;
-}
-
-.p-tags {
-    line-height: 1.8;
-}
-
-
-
-// Images
-
-img {
-    max-width: 100%;
-    margin-top: $spacing-unit / 2;
-    margin-bottom: $spacing-unit / 2;
-}
-
-img.charter {
-    width: 156px;
-    height: auto;
-    vertical-align: middle;
-    margin: $spacing-unit;
-}
-
-img.charter-page {
-    width: 156px;
-    height: auto;
-    vertical-align: middle;
-    margin-right: $spacing-unit;
-}
-
-img.avatar {
-    width: 128px;
-    height: 128px;
-}
-
-img.logo {
-    height: $spacing-unit * 1.5;
-}
-
-img.postimg {
-    height: 128px;
-    width: auto;
-}
-
-#_ba_corner img {
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-.one-digital-title img {
-    margin-top: 35px;
-    margin-bottom: 0;
-}
-
-.big-lottery img {
-    position: absolute;
-    top: -60px;
-    right: -20px;
-}
-
-// Other
-
-.splash {
-    margin-top: -20px;
-    margin-bottom: 20px;
-    padding-top: $spacing-unit;
-    // min-height: 100%;
-    background-color: #b9e0f1;
+.team-image{
+    height: 60%;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('/images/splash.jpg');
 
-    .jumbotron {
-        background-color: rgba(255, 255, 255, 0.8);
-        margin-bottom: $spacing-unit / 2;
+    img{
+        max-width: 350px;
     }
-
-    h1 {
-        font-weight: bold;
-        color: #345476;
-        text-shadow: 0px 1px 1px rgba(255, 255, 255, 1);
-        margin-bottom: $spacing-unit / 1.5;
-    }
-
-    p {
-        color: #000000;
-    }
-
-    img {
-        width: $spacing-unit * 4;
-        margin-bottom: $spacing-unit / 2;
-    }
-
 }
 
-.footer {
-    margin-top: $spacing-unit;
-    padding-top: $spacing-unit;
-    padding-bottom: $spacing-unit / 2;
-    border-top: 1px solid #EEEEEE;
-    background-color: #FBFBFB;
-}
-
-
-
-
-// Experimental
-
-.wrapper {
-    width: 100%;
-    display: inline-block;
-    position: relative;
-}
-.wrapper:after {
-    padding-top: 100%;
-    display: block;
-    content: '';
-}
-.fixed-ratio {
+.team-social{
     position: absolute;
-    top: 0;
     bottom: 0;
     right: 0;
-    left: 0;
-    background-color: deepskyblue;
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
 
-/* Nav Announcements */
-
-.announcement-heading {
-    font-size: 50px;
-    margin: 0;
-}
-
-.announcement-text {
-    margin: 0;
-}
-
-.panel {
-    background-color: #27C478;
-    color: #0042A3;
-    margin-top: 70px;
-}
-
-// Timeline
-
-#timeline-container {
-    position: relative;
-}
-
-#timeline-line {
-    background-color: #009E99;
-    height: 110%;
-    width: 4px;
-    position: absolute;
-    top: -30px;
-    bottom: 0px;
-    left: 48.55%;
-}
-
-#timeline {
-    width: 100%;
-    margin: 0;
-    list-style: none;
-
-    h1 {
-        font-size: 14px;
-        line-height: 14px;
-        margin-bottom: 10px;
-    }
-
-    .item {
-        width: 45%;
-        margin: 10px;
-        float: left;
-        background-color:#ffffff;
-        border: solid 1px #B4BBCD;
-        min-height: 50px;
-        word-wrap:break-word;
-        padding: 5px 10px;
-
-        .col-xs-3 {
-            padding-left: 10px;
-            padding-right: 0;
-        }
-        .col-xs-9 {
-            padding-left: 5px;
-            padding-right: 10px;
-        }
-
-        img {
-            margin: 0;
-            width: 100%;
-            height: auto;
-        }
-
-        ol {
-            list-style: none;
-            margin: 0px;
-            font-size: 12px;
-        }
-
-        li {
-            line-height: 15px;
-            margin-bottom: 5px;
-        }
-
-        p {
-            margin: 0;
-        }
-    }
-
-    .gravatar {
-        height: 80px;
-        float: left;
-    }
-
-    .date {
-        float: right;
-    }
-
-    .prominent {
-        width: 600px;
-        text-align: center;
-        padding-left: 300px;
-
-        > div {
-            width: 220px;
-        }
-    }
-
-    #spinner {
-        height: 100px;
-        padding-left: 270px;
-    }
-
-    .item, .prominent {
-        margin-top: 20px;
-    }
-
-    .corner {
-        display: block;
-        height: 15px;
-        width: 13px;
-        padding: 0;
-        vertical-align: top;
-        z-index:2;
-        position: absolute;
-        margin-top: 8px;
-    }
-
-    li[data-align=l] .corner {
-        background: url("/images/onedigital/right.png") no-repeat top right;
-        margin-left: 398px;
-    }
-
-    li[data-align=r] .corner {
-        background: url("/images/onedigital/left.png") no-repeat top right;
-        margin-left: -23px;
+@media(max-width: $medium-screen){
+    .team-image{
+        height: 70%;
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 }
 
-// Mobile optimisation
+// Home
 
-@media screen and (max-width: 1200px) {
-    .big-lottery img {
-        height: auto;
-        width: 75%;
-        top: -10px;
-    }
-    #timeline-line {
-        display: none;
-    }
-    #timeline {
-        padding-left: 10px;
-        .item {
-            width: 100%;
-            margin-left: 0;
-        }
-    }
-}
-
-@media screen and (max-width: 992px) {
-    .big-lottery img {
-        display: none;
-    }
-}
-@media screen and (max-width: 767px) {
-    .splash {
-        background-image: none;
-    }
-    h1 {
-        font-size: 36px;
-    }
-    .lead {
-        font-size: 150%;
+@media(min-width: $medium-screen){
+    .home-card{
+        margin:0 60px;
     }
 }

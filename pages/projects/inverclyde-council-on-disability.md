@@ -3,37 +3,37 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
 title: Connected, Confident & Included
-excerpt: 
+excerpt:
 lead: Inverclyde Council on Disability
 website: http://www.icod.org.uk/
 email: enquiries@icod.org.uk
-twitter-url: 
-facebook-url: 
+twitter-url:
+facebook-url:
 start: 8th February 2016
 end: 16th November 2016
 award: 9656
-postcode: PA15 1NB	
+postcode: PA15 1NB
 image: /images/projects/inverclyde.jpg
-tags: older-people disabled-people benefits 
+tags: older-people disabled-people benefits
 permalink: /projects/icod/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ### Project description
 
-The project will provide basic digital inclusion tuition & learning to 32 disabled & older people to enhance their use of digital technology, both for their own wellbeing & also their participation in community activities such as volunteering & other community involvement. 
+The project will provide basic digital inclusion tuition & learning to 32 disabled & older people to enhance their use of digital technology, both for their own wellbeing & also their participation in community activities such as volunteering & other community involvement.
 
-The project will work with other organisations to identify & engage with disabled & older people who have little or no knowledge or digital skills. The project will specifically seek to engage with those who face barriers in digital technology use in maintaining & developing their financial inclusion & wellbeing, community involvement & contact through volunteering & other activities. 
+The project will work with other organisations to identify & engage with disabled & older people who have little or no knowledge or digital skills. The project will specifically seek to engage with those who face barriers in digital technology use in maintaining & developing their financial inclusion & wellbeing, community involvement & contact through volunteering & other activities.
 
-The project will deliver one to one & small group tuition that is tailored to participants own needs & learning pace, & will also provide accessible hardware & software & communication support to facilitate their learning. The project will also lend equipment (laptops, tablets & mobile broadband connection) to learners where appropriate. 
-Each learner will have a learning plan that sets out their areas of interest a goals for using digital technology, both for personal use & as a skill for volunteering & future employment. Learner progress will be tracked through our existing monitoring systems & will also include the DigiSkills checklist. 
+The project will deliver one to one & small group tuition that is tailored to participants own needs & learning pace, & will also provide accessible hardware & software & communication support to facilitate their learning. The project will also lend equipment (laptops, tablets & mobile broadband connection) to learners where appropriate.
+Each learner will have a learning plan that sets out their areas of interest a goals for using digital technology, both for personal use & as a skill for volunteering & future employment. Learner progress will be tracked through our existing monitoring systems & will also include the DigiSkills checklist.
 
-The project will provide tuition on a wide variety of digital topics, which will be identified by learners own needs (both individually & through focus groups & our learner forum). ICOD currently provide tuition on: PC & Laptop Basics, Tablet/ipad Basics, Internet & Email, Social Networks, Internet Safety, Online Shopping & Banking, Skype & Video Communication, Word Processing, Spreadsheets, Desktop Publishing & Digital Photography. 
+The project will provide tuition on a wide variety of digital topics, which will be identified by learners own needs (both individually & through focus groups & our learner forum). ICOD currently provide tuition on: PC & Laptop Basics, Tablet/ipad Basics, Internet & Email, Social Networks, Internet Safety, Online Shopping & Banking, Skype & Video Communication, Word Processing, Spreadsheets, Desktop Publishing & Digital Photography.
 
-Where appropriate ICOD can provide certificated learning in partnership with our local libraries & community learning & development team in SVQ Introduction to Computing & ECDL units. Our certified courses are also delivered on a one to one or small group basis at learners own pace, to ensure that they receive the appropriate time & support to successfully complete courses. 
+Where appropriate ICOD can provide certificated learning in partnership with our local libraries & community learning & development team in SVQ Introduction to Computing & ECDL units. Our certified courses are also delivered on a one to one or small group basis at learners own pace, to ensure that they receive the appropriate time & support to successfully complete courses.
 
-Learning will be delivered in a variety of locations, including our own Learning Zone, learners local libraries or community centres or in learners own homes (as part of our existing learning activities ICOD has developed a home learning service for those who cannot easily access community learning). 
-Tuition will be delivered through ICOD Tutors who have extensive knowledge & experience in delivering accessible digital learning to people with a wide variety of impairments. 
+Learning will be delivered in a variety of locations, including our own Learning Zone, learners local libraries or community centres or in learners own homes (as part of our existing learning activities ICOD has developed a home learning service for those who cannot easily access community learning).
+Tuition will be delivered through ICOD Tutors who have extensive knowledge & experience in delivering accessible digital learning to people with a wide variety of impairments.
 Learners will be encouraged & have access to our other services, including advice on benefits & housing issues, financial capability training, social group activity & our community link workers to develop participation in other community activities. Learners will also be encouraged to join our Learners Forum, helping us to identify future service development &provision.
 
 ### Planned project milestones

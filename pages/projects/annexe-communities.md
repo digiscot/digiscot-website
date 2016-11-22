@@ -7,7 +7,7 @@ excerpt: Digital skills training for older people
 lead: Annexe Communities
 website: http://www.annexecommunities.org.uk/
 email: info@annexecommunities.org.uk
-twitter-url: 
+twitter-url:
 facebook-url: https://www.facebook.com/annexepartick
 start: January 2015
 end: December 2015
@@ -15,7 +15,7 @@ award: 4520
 postcode: G11 5PE
 image:
 tags: older-people Glasgow
-permalink: /projects/annexe-communities/ 
+permalink: /projects/annexe-communities/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -40,10 +40,10 @@ Deliver 2 digital skills courses
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/825556907529077" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/825556907529077"><p>Our Digital Inclusion Workshops are going well, with folk learning how to book flights online and read the news!  It&#039;s...</p>Posted by <a href="https://www.facebook.com/annexepartick">Annexe Communities</a> on <a href="https://www.facebook.com/annexepartick/posts/825556907529077">Monday, April 27, 2015</a></blockquote></div></div>
 
-Digital Inclusion Classes at the Annexe being delivered by LUMA IT.  
+Digital Inclusion Classes at the Annexe being delivered by LUMA IT.
 Skills increased, knowledge improved, awareness raised of new technologies!
 All going well
-Volunteer has been invaluable, helping individuals once the tutor has gone over the basics and perhaps moving to one-to-one work with another individual.  Keeping everyone busy and enabling the tutor to work with particular people on specific skills, or explaining how things work in a manner they can grasp.  Sometimes just a little help is enough to get people off and running again.  
+Volunteer has been invaluable, helping individuals once the tutor has gone over the basics and perhaps moving to one-to-one work with another individual.  Keeping everyone busy and enabling the tutor to work with particular people on specific skills, or explaining how things work in a manner they can grasp.  Sometimes just a little help is enough to get people off and running again.
 Individuals on these blocks have been mostly absolute beginners, so setting up an e-mail address has been one of the targeted outcomes for most members.
 
 ### Phase 3 - July & August
@@ -72,11 +72,11 @@ We are specifically looking for peer volunteers to come forward, so at the momen
 
 ### Phase 5 - November & December
 
-Deliver final digital skills courses.  
+Deliver final digital skills courses.
 Again another successful block within the digital course.  A mixture of absolute beginners and more experienced learners.  We have had the emergence of a peer volunteer within the group who is working well with all others to maintain their learning.  We can see that the peer volunteer is a great benefit to the group as they have experience and knowledge and have "been there" when learning the new skills.
-This final block is at full capacity every week.  As with most things, once people get used to the classes being there, everyone wants to come along, but of course numbers are kept small and this is the final block! 
+This final block is at full capacity every week.  As with most things, once people get used to the classes being there, everyone wants to come along, but of course numbers are kept small and this is the final block!
 As with most blocks, they have beeen over-subscribed with a few people on the waiting list for each block incase of cancellations.
-This final block is a mixed group with some absolute beginners and some more experienced learners.  The one-to-one element has certainly worked well throughout the whole project, but particularly in this block.  Giving people individual attention seems to be a great learning tool.  People feel more comfortable if they see others asking what they see to be "silly" questions.  This lets the group know that there is no such thing as a "silly question" as everything is new and fresh and needs to be understood to use the equipment properly.  
+This final block is a mixed group with some absolute beginners and some more experienced learners.  The one-to-one element has certainly worked well throughout the whole project, but particularly in this block.  Giving people individual attention seems to be a great learning tool.  People feel more comfortable if they see others asking what they see to be "silly" questions.  This lets the group know that there is no such thing as a "silly question" as everything is new and fresh and needs to be understood to use the equipment properly.
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/929360840482016" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/929360840482016"><p>With the final block of our Digital Inclusion classes well underway, it only leaves us to say thanks to SCVO for funding...</p>Posted by <a href="https://www.facebook.com/annexepartick/">Annexe Communities</a> on&nbsp;<a href="https://www.facebook.com/annexepartick/posts/929360840482016">Wednesday, December 2, 2015</a></blockquote></div></div>
 

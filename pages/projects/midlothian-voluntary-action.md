@@ -4,17 +4,17 @@ layout: project
 call: 1
 title: Getting IT
 excerpt: This project will train voluntary and community organisations in Midlothian to help them to support their clients, service users or members to get online.
-lead: Midlothian Voluntary Action 
+lead: Midlothian Voluntary Action
 website: http://www.mvacvs.org
 email: craig.turner@mvacvs.org.uk
 twitter-url: https://twitter.com/MVACommunity
-facebook-url: www.facebook.com/MidlothianVoluntaryAction 
+facebook-url: www.facebook.com/MidlothianVoluntaryAction
 start: February 2015
 end: December 2015
 award: 10000
 postcode: EH22 1AE
 image:
-tags: disabled-people benefits remote-rural 
+tags: disabled-people benefits remote-rural
 permalink: /projects/midlothian-voluntary-action/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -31,8 +31,8 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 ### Initial Phase: January - March 2015
 
-* Project publicity is created and distributed to 200 local voluntary and community activists  
-* Social media campaign about the project, and the core ICT skills we are promoting 
+* Project publicity is created and distributed to 200 local voluntary and community activists
+* Social media campaign about the project, and the core ICT skills we are promoting
 * Outreach work with 7 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them
 
 #### RESULTS
@@ -46,10 +46,10 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 * Created training materials - presentation and step-by-step resource guides
 * Arranged to give training at team meetings of 6 organisations
 
-### Development Phase 1: April - June 2015 
+### Development Phase 1: April - June 2015
 
-* Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
-* Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group (we anticipate that Universal Credit will go live in Midlothian around now) 
+* Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them
+* Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group (we anticipate that Universal Credit will go live in Midlothian around now)
 * Assess first 3 months of Digital Access Hub in Gorebridge Library. Provide feedback and if successful use it as an example of good practice.
 
 #### RESULTS
@@ -62,17 +62,17 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 <img src="https://lh3.googleusercontent.com/-ghEhvZoUIX4/VZPqcGSonaI/AAAAAAAAIDw/PesrLBJaHwA/s640/The%252520Bridges%252520Project.jpg" alt="The Bridges Project" width="500">
 
 * April 22nd - gave training to 12 third sector workers on the capabilities and possibilities of smartphones
- 
+
 <img src="https://lh3.googleusercontent.com/-KFP7GXOYGSs/VUiMbO-zb0I/AAAAAAAAH6o/xFQn4V5qW2Q/s912/WP_20150422_001.jpg" alt="Mobile Phone Training Atendees" width="500">
 
 * April 23rd - gave training to 6 staff at The Association for Real Change in Dalkeith
- 
+
 <img src="https://lh3.googleusercontent.com/-T3QM5k9GziA/VUiMbjv60lI/AAAAAAAAH6w/8qt6TFOK568/s912/WP_20150423_001.jpg" alt="Association for Real Change staff" width="500">
 
 * May 5th - gave training to 15 staff at The Orchard Centre (Health in Mind) in Bonnyrigg
- 
+
 * May 19th - sent email to 445 organisations in Midlothian promoting the project: <a href="http://us6.campaign-archive2.com/?u=80f4363fd5fef419efb977c50&id=49e53e4c99&e=914299f722" target="_new">Online Version</a>
- 
+
 <img src="https://lh3.googleusercontent.com/-OUY9nblSij0/VUi3UagmlQI/AAAAAAAAH7A/vKCyc5rK5-8/s912/WP_20150505_003.jpg" alt="Orchard Centre staff" width="500">
 
 * June 17th - Awareness raising with 12 members of the Federation of Community Councils in Midlothian
@@ -84,7 +84,7 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 
 ### Development Phase 2: July - September 2015
 
-* Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them 
+* Outreach work with 12 voluntary organisations, community groups, faith organisations etc to make them aware of the core competencies and upskill them
 * Liaison with Midlothian Financial Inclusion Network, Midlothian Adult Learning Partnership, & Midlothian Technology Steering Group
 
 #### RESULTS
@@ -92,7 +92,7 @@ Getting IT will upskill charities, voluntary organisations, community groups, co
 * July 2nd - sent email to 434 organisations in Midlothian promoting the project: <a href="http://us6.campaign-archive2.com/?u=80f4363fd5fef419efb977c50&id=cae87e9db2" target="_new">Online Version</a>
 
 * July 20th - Digital Inclusion training with 8 staff members from Intowork
- 
+
 <img src="https://lh3.googleusercontent.com/-3pKfxRb146Q/Va4DBBW_mKI/AAAAAAAAIG0/HVdbgTk_mXw/s1152-Ic42/WP_20150720_004.jpg" alt="Intowork" Width="500">
 
 * July 28th - Digital Inclusion training with 3 staff members from Midlothian Libraries
@@ -153,7 +153,7 @@ Sure Start were tweeting about the training:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * January 20th - Social Media training day for 14 staff from various third sector organisations across Midlothian
- 
+
 <img src="https://lh3.googleusercontent.com/-xcV15rOP1ug/VqYHS7EPm7I/AAAAAAAAIjg/6ixcgtQxFqc/s912-Ic42/WP_20160120_14_02_20_Pro.jpg" alt="Social Media training day for 14 staff from various third sector organisations across Midlothian" Width="500">
 
 * February 2nd - One to One Consultation with advocacy service CAPS on using digital tools to help their clients
@@ -162,13 +162,13 @@ Sure Start were tweeting about the training:
 
 
 * February 4th - Digital inclusion training with 10 volunteers from Health in Mind
-* 
+*
 
 <img src="https://lh3.googleusercontent.com/-GCSXwZCLLVU/VrOrF6KbzaI/AAAAAAAAIns/iGiv05ESDmg/s800-Ic42/IMG_20160204_191149.jpg" alt="Digital inclusion with Health in Mind" Width="500">
 
 
 * February 8th - Digital consultancy with 1 staff and 1 board member from PASDA (Parents of Autism Spectrum Disorder Adults)
-* 
+*
 
 <img src="https://lh3.googleusercontent.com/-O7kPsKUQqX0/VrmtQqGdetI/AAAAAAAAIo4/RMrFgsUV_Vg/s800-Ic42/IMG_20160208_114210.jpg" alt="Digital consultancy with PASDA" Width="500">
 
@@ -176,7 +176,7 @@ Sure Start were tweeting about the training:
 ## Evaluation
 
 
-### Outputs and outcomes 
+### Outputs and outcomes
 
 
 #### Overall this project:
@@ -213,14 +213,14 @@ We know this from feedback from the organisations:
 
 ### Lessons learned
 
-#### Things that worked well: 
+#### Things that worked well:
 
 
 Short (40 minute) training sessions delivered after staff or volunteer meetings
 Getting staff to change their own online usage. Explaining the cloud was a major hook for staff and volunteers, feedback was many of them started using it themselves.
 
 
-#### Things that we would do differently next time: 
+#### Things that we would do differently next time:
 
 Improve the promotion – the concept of upskilling was difficult to explain
 

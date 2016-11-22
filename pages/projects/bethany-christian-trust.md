@@ -7,7 +7,7 @@ excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse.
 lead: Bethany Christian Trust
 website: http://www.bethanychristiantrust.com/
 email: info@bethanychristiantrust.com
-twitter-url: 
+twitter-url:
 facebook-url: https://www.facebook.com/BethanyChristianTrust1
 start: January 2015
 end: January 2016
@@ -23,7 +23,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-The church recognises the importance of having access to a computer in this digital age. Not only do having computer skills improve job prospects, but are also valuable when searching for jobs, courses or volunteering opportunities. Accessing welfare information and making benefit application is increasingly done on-line. Volunteer staff at the learning centre can help with welfare issues, benefits and sanctions. The learning centre seeks to empower those who feel isolated due to a lack of ITC skills and internet access. Five laptop computers are available for anyone in the community to use. The centre is currently opened twice a week and gives individuals the opportunity to work at their own level and pace in a relaxed atmosphere. Volunteers can help to write a CV, look for work or provide one to one guidance through a certificated computer course. 
+The church recognises the importance of having access to a computer in this digital age. Not only do having computer skills improve job prospects, but are also valuable when searching for jobs, courses or volunteering opportunities. Accessing welfare information and making benefit application is increasingly done on-line. Volunteer staff at the learning centre can help with welfare issues, benefits and sanctions. The learning centre seeks to empower those who feel isolated due to a lack of ITC skills and internet access. Five laptop computers are available for anyone in the community to use. The centre is currently opened twice a week and gives individuals the opportunity to work at their own level and pace in a relaxed atmosphere. Volunteers can help to write a CV, look for work or provide one to one guidance through a certificated computer course.
 
 Oasis Learning Centre is open to all, drop in at any time between:
 Monday 2.30pm - 4.30pm
@@ -44,7 +44,7 @@ Preparing learning plans and finalising preparation of equipment
 <img src="/images/projects/unnamed.jpg">
 <img src="/images/projects/unnamed (1).jpg">
 
-### Phase 2 June - October 2015 
+### Phase 2 June - October 2015
 
 Weekly digital drop-ins running with a high number of participants each week
 
@@ -52,13 +52,13 @@ Individual learning plans created and followed
 
 Mid-way point review of project with feedback from participants
 
-Between these months in Parkhead, we started to get asylum seekers attending the digital class. Most of them have been focusing on learning english better and adapting their computer skills. 
+Between these months in Parkhead, we started to get asylum seekers attending the digital class. Most of them have been focusing on learning english better and adapting their computer skills.
 
 <img src="/images/projects/unnamed (2).jpg">
 
 ### Phase 3 November 2015
 
-Two months remaining of digital drop-ins 
+Two months remaining of digital drop-ins
 
 Feedback and monitoring forms used to begin evaluation process
 

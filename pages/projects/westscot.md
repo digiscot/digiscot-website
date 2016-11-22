@@ -3,12 +3,12 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
 title: Digital Inclusion Coordinator
-excerpt: Digital Inclusion Coordinator to teach digital skills 
-lead: West of Scotland Housing Association 
+excerpt: Digital Inclusion Coordinator to teach digital skills
+lead: West of Scotland Housing Association
 website: http://www.westscot.co.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: April 2016
 award: 9901
@@ -25,7 +25,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 West of Scotland Housing Association (WSHA) will employ a part-time Digital Inclusion Co-ordinator (DIC) on a 12-month contract. Primary responsibilities will include co-ordinating digital inclusion activities at the G31 Centre, a community centre in the heart of Barrowfield, Glasgow, and delivering outreach appointments at other WSHA locations.
 
-The DIC will identify digitally-excluded tenants, to understand and cater for their digital needs with a view to specifically focusing on three key target groups: older tenants, benefit/employment-seekers and those with disabilities.  To ensure that the community’s needs are being addressed, the DIC will liaise with key partners and other local service users, to create sustainable partnerships and generate project ideas. 
+The DIC will identify digitally-excluded tenants, to understand and cater for their digital needs with a view to specifically focusing on three key target groups: older tenants, benefit/employment-seekers and those with disabilities.  To ensure that the community’s needs are being addressed, the DIC will liaise with key partners and other local service users, to create sustainable partnerships and generate project ideas.
 
 
 
@@ -38,7 +38,7 @@ To engage people aged over 60, the DIC worked in conjunction with WSHA’s Older
 
 Drop-in Sessions
 
-The DIC held weekly IT drop-in sessions at the Inclusive Learning Centre.  This was heavily promoted in Barrowfield and the surrounding communities through the distribution of flyers to every WSHA household.  New users were registered to the Kelvin College learning network and individual IT needs and queries were addressed. These drop in sessions mainly involved assisting tenants with tablets/smart phones, covering areas such as camera use, Wi-Fi and using widgets. 
+The DIC held weekly IT drop-in sessions at the Inclusive Learning Centre.  This was heavily promoted in Barrowfield and the surrounding communities through the distribution of flyers to every WSHA household.  New users were registered to the Kelvin College learning network and individual IT needs and queries were addressed. These drop in sessions mainly involved assisting tenants with tablets/smart phones, covering areas such as camera use, Wi-Fi and using widgets.
 
 Youth Organisation Digital Newsletter
 
@@ -58,20 +58,20 @@ Occasional work was also carried out with WSHA tenants on the committee and tena
 
 ## Evaluation
 
-WSHA had strong existing links to groups of older tenants through the Older Persons Co-ordinator and the Club 60 programme. This made engagement with older tenants easier than was initially anticipated. The Wi-Fi facility which was subsequently set up in two sheltered housing complexes will enhance social connectivity, facilitate caregiver support and improve the communication links between WSHA and tenants/residents. This in turn benefits WSHA, as it creates another line of communication with tenants, which can help minimise a number of housing and tenancy management issues. 
+WSHA had strong existing links to groups of older tenants through the Older Persons Co-ordinator and the Club 60 programme. This made engagement with older tenants easier than was initially anticipated. The Wi-Fi facility which was subsequently set up in two sheltered housing complexes will enhance social connectivity, facilitate caregiver support and improve the communication links between WSHA and tenants/residents. This in turn benefits WSHA, as it creates another line of communication with tenants, which can help minimise a number of housing and tenancy management issues.
 
-The Jobs and CV writing sessions were valuable to participants as the DIC could offer one to one support delivering a service that met individual needs.  Additional digital support was provided that was not available at local Job Centres, library’s etc. 
+The Jobs and CV writing sessions were valuable to participants as the DIC could offer one to one support delivering a service that met individual needs.  Additional digital support was provided that was not available at local Job Centres, library’s etc.
 
-Working in partnership with the Welfare Rights and Financial Wellbeing Teams when assisting these individuals assisted to alleviate a level of stress and anxiety that is often associated with job-hunting whilst considering the current financial circumstances avoiding benefit sanctions.  One participant attended only 3 sessions with the before they were awarded a job. 
+Working in partnership with the Welfare Rights and Financial Wellbeing Teams when assisting these individuals assisted to alleviate a level of stress and anxiety that is often associated with job-hunting whilst considering the current financial circumstances avoiding benefit sanctions.  One participant attended only 3 sessions with the before they were awarded a job.
 
-A number of referrals were also made to partner organisations such as Jobs and Business Glasgow who offered additional support, employability services and courses for tenants. 
+A number of referrals were also made to partner organisations such as Jobs and Business Glasgow who offered additional support, employability services and courses for tenants.
 
-Initially engaging with tenants who have disabilities proved to be difficult however as the post progressed the DIC engaged with tenants through specialist support agencies including the John Orr Day Care Services and the Accord Day Care Services. The DIC liaised with carers to assist with the installation of voice-recognition apps on devices and to assist with the use of tablets and smartphones.  The DIC liaised with Kelvin College to provide a specialised tutor to work with adults with learning disabilities in a digital capacity.  Referrals were also made to specialist services including the local Augmentative and Alternative Communication Service. 
+Initially engaging with tenants who have disabilities proved to be difficult however as the post progressed the DIC engaged with tenants through specialist support agencies including the John Orr Day Care Services and the Accord Day Care Services. The DIC liaised with carers to assist with the installation of voice-recognition apps on devices and to assist with the use of tablets and smartphones.  The DIC liaised with Kelvin College to provide a specialised tutor to work with adults with learning disabilities in a digital capacity.  Referrals were also made to specialist services including the local Augmentative and Alternative Communication Service.
 
 
 ### Outputs and outcomes
 
-WSHA’s goal was to increase the number of tenants who engage with digital technology within disadvantaged communities with a focus on older people, people with disabilities and benefit seekers. 
+WSHA’s goal was to increase the number of tenants who engage with digital technology within disadvantaged communities with a focus on older people, people with disabilities and benefit seekers.
 
 Older People
 
@@ -91,9 +91,9 @@ The DIC engaged a total of 35 tenants who have disabilities.  The DIC:
 •	Assisted tenants with learning disabilities with the operation tablets and smartphones
 •	Made referrals to specialist services such as the Augmentative and Alternative Communication Service and Speech and Language to provide additional digital support to tenants
 
-Benefit Seekers 
+Benefit Seekers
 
-The DIC engaged with a total of 60 benefit/employment seekers.  The DIC 
+The DIC engaged with a total of 60 benefit/employment seekers.  The DIC
 
 •	Facilitated an 8 week programme in partnership with Healthy North Glasgow which sought to assist people in receipt of benefits to programme to challenge health inequalities within their communities
 •	Raised awareness of the facilities available through digital means to access support services within their communities e.g. Job Clubs, Local Council Benefit Services, NHS Services etc.

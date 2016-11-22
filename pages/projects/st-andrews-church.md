@@ -7,14 +7,14 @@ excerpt: Teaching basic computer skills alongside job search support and literac
 lead: St Andrews Church (Havilah Project)
 website: http://www.arbroathstandrews.org.uk/index.php/what-we-do/serve/locally/havilah/
 email: helensmithwallace@aol.com
-twitter-url: 
-facebook-url: 
+twitter-url:
+facebook-url:
 start: April 2015
 end: February 2016
 award: 323
 postcode: DD11 1LE
 image:
-tags: disabled-people offenders 
+tags: disabled-people offenders
 permalink: /projects/st-andrews-church/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -40,9 +40,9 @@ Learning will take place on a one to one or small group basis depending on indiv
 
 ## Project Update
 
-The project is currently supporting between 17 & 20 people per day. 3 or 4 individuals are using computers for the first time. A couple are using them to search for jobs and a couple are completing applications for college. 
+The project is currently supporting between 17 & 20 people per day. 3 or 4 individuals are using computers for the first time. A couple are using them to search for jobs and a couple are completing applications for college.
 
-A lot of users experience chaotic lifestyles and do not feel comfortable or welcome in a library setting. This project provides them with the opportunity to use computers and learn basic digital skills in a place that is comfortable, and where they have plenty of support from tutors. 
+A lot of users experience chaotic lifestyles and do not feel comfortable or welcome in a library setting. This project provides them with the opportunity to use computers and learn basic digital skills in a place that is comfortable, and where they have plenty of support from tutors.
 
 
 ## Evaluation
@@ -58,7 +58,7 @@ We do work with service users on a daily basis to access ICT for other purposes:
 
 Two people have compiled CVs with support.
 
-Most support is given on a one to one basis helping service users complete on line forms for benefits, housing etc., search the internet and write letters and emails. 
+Most support is given on a one to one basis helping service users complete on line forms for benefits, housing etc., search the internet and write letters and emails.
 
 Because of lack of trained volunteers, support in the main has been reactive rather than proactively offering learning programmes. We are, however addressing this by putting together a funding bid to develop our project which will include employing a tutor for the Learning Zone. In the meantime we liaise with Communities Service where appropriate to refer service users on.
 

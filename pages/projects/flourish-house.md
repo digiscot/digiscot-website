@@ -2,12 +2,12 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Inclusion through Entrepreneurship 
-excerpt: Developing IT skills and boosting organisational online fundraising activity 
+title: Digital Inclusion through Entrepreneurship
+excerpt: Developing IT skills and boosting organisational online fundraising activity
 lead: Flourish House
 website: http://www.flourishhouse.org.uk/
 email: info@flourishhouse.org.uk
-twitter-url: flourishhouse1 
+twitter-url: flourishhouse1
 facebook-url: https://www.facebook.com/flourish.house.5
 start: May 2015
 end: October 2015
@@ -23,7 +23,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Using Ebay fundraising activity as a vehicle for learning digital skills, we will increase the IT skills of participants whilst at the same time broadening participation in our online fundraising activity and generating funds for the Charity. We will also create in-house IT skills courses to boost confidence and learning of digital technologies and creating opportunities with Glasgow Kelvin College to expand that learning outside of our premises. 
+Using Ebay fundraising activity as a vehicle for learning digital skills, we will increase the IT skills of participants whilst at the same time broadening participation in our online fundraising activity and generating funds for the Charity. We will also create in-house IT skills courses to boost confidence and learning of digital technologies and creating opportunities with Glasgow Kelvin College to expand that learning outside of our premises.
 
 
 ## Project milestones
@@ -82,8 +82,8 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###August 2015
-- Deliver 2nd 7 week IT Skills Course and begin to partner with Glasgow Kelvin College in delivering a 12 week course on IT skills on one of their campuses. 
-- 
+- Deliver 2nd 7 week IT Skills Course and begin to partner with Glasgow Kelvin College in delivering a 12 week course on IT skills on one of their campuses.
+-
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">IT skills and online shopping course underway! <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="https://twitter.com/hashtag/digitalinclusion?src=hash">#digitalinclusion</a> <a href="http://t.co/f2Mq1RnCX7">pic.twitter.com/f2Mq1RnCX7</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/628571086091853825">August 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -142,9 +142,9 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project was very successful. It engaged people in IT who previously had little or no experience and were lacking in confidence. We used a variety of media and software and ran several classes, mostly on the same day of the week to ensure continuity and build the profile of digital activity in the Clubhouse. We now have a wi-fi network that Members can access for free and we know that Members are connecting on to this every day. The project also led to a college based IT skills course delivered each week at Glasgow Kelvin College (weekly attendance approx. 10 people)   
+Overall this project was very successful. It engaged people in IT who previously had little or no experience and were lacking in confidence. We used a variety of media and software and ran several classes, mostly on the same day of the week to ensure continuity and build the profile of digital activity in the Clubhouse. We now have a wi-fi network that Members can access for free and we know that Members are connecting on to this every day. The project also led to a college based IT skills course delivered each week at Glasgow Kelvin College (weekly attendance approx. 10 people)
 
-In terms of outputs we delivered a wide range of IT based courses and activities including using Smartphones, using the Internet and email, online shopping and cyber security, uploading and downloading images, online form filling, using eBay and Amazon, exploring different technologies, internet research and online banking.   
+In terms of outputs we delivered a wide range of IT based courses and activities including using Smartphones, using the Internet and email, online shopping and cyber security, uploading and downloading images, online form filling, using eBay and Amazon, exploring different technologies, internet research and online banking.
 
 In terms of outcomes for the people and groups we care about, this project has helped to broaden the knowledge, experience and confidence of people in using IT and has introduced new technology to people in a safe, fun and embarrassment free environment. We know this because our weekly IT classes were well attended and full of fun. Each class evaluated well. The project has also increased member activity in IT in the Clubhouse including contributing to our monthly newsletter, doing a weekly online shop online and more people selling items and helping to fundraise on eBay.
 
@@ -152,9 +152,9 @@ In terms of outcomes for the people and groups we care about, this project has h
 
 Things that worked well:
 
-1. Meeting people where they are at e.g. the smart phone course was the most popular as most people had access to this technology but were not aware of its potential. 
-2. Offering 1:1 support on a drop in basis to help people with specific enquiries.   
-3. Making activity relevant – many of the courses were delivered at the request of Members. 
+1. Meeting people where they are at e.g. the smart phone course was the most popular as most people had access to this technology but were not aware of its potential.
+2. Offering 1:1 support on a drop in basis to help people with specific enquiries.
+3. Making activity relevant – many of the courses were delivered at the request of Members.
 
 Things that we would do differently next time:
 

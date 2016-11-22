@@ -6,8 +6,8 @@ title: Thrive in the Digital World
 excerpt: Helping people to thrive in the digital world and reducing social isolation
 lead: Homestart Majik
 website: http://www.home-start-majik.org.uk/
-email: 
-twitter-url: 
+email:
+twitter-url:
 facebook-url: https://www.facebook.com/Home.start.majik
 start: May 2015
 end: September 2015
@@ -29,7 +29,7 @@ Digital skills training for people who are socially isolated
 
 ### Phase 1
 
-Base line questionnaire  
+Base line questionnaire
 
 Initial staff/vol training planning and networking - nearly complete as at October 2015
 
@@ -41,7 +41,7 @@ Advertising and promotion design and raising awareness
 
 ### Phase 3
 
-Training in homes 
+Training in homes
 
 Increase awareness  & skills events - these were completed in all planned areas:
 

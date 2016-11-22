@@ -1,0 +1,9 @@
+{% if page.submenu %}
+    <nav class="blue darken-4 hide-on-med-and-down">
+        <div class="container-fluid">
+            <div class="nav-wrapper">
+                {% include menu.html menuPath=page.submenu submenu=false %}
+            </div>
+        </div>
+    </nav>
+{% endif %}

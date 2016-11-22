@@ -6,9 +6,9 @@ title: Digital Drop-In
 excerpt: Drop-in digital training sessions
 lead: Co Chomunn na Pairce
 website: http://www.youthlinkscotland.org/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: May 2015
 end: December 2015
 award: 1350
@@ -36,7 +36,7 @@ Pre-training participant research.
 
 Deliver training and recieving and recording feedback from participants.
 
-Mid-way review. 
+Mid-way review.
 
 **December**
 
@@ -49,18 +49,18 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project delivered basic digital skills training to 6 people. Unfortunately take-up overall was variable. One large group had planned to use our sessions but decided for convenience to go to sessions in a more central location. Some individuals wanted more than one session and we provided this. We know of others who still want to be trained and we have decided, based on our experience with the scheme, to offer sessions at our centre in the future. The experience we gained with the scheme has shown us that this can be done as part of our regular work as a community hub, with training provided by volunteers. 
+Overall this project delivered basic digital skills training to 6 people. Unfortunately take-up overall was variable. One large group had planned to use our sessions but decided for convenience to go to sessions in a more central location. Some individuals wanted more than one session and we provided this. We know of others who still want to be trained and we have decided, based on our experience with the scheme, to offer sessions at our centre in the future. The experience we gained with the scheme has shown us that this can be done as part of our regular work as a community hub, with training provided by volunteers.
 
 ### Lessons learned
 
 Things that worked well:
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 Things that we would do differently next time:
 
-1. 
+1.
 2.
 3.

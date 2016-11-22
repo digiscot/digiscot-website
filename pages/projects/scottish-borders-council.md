@@ -3,12 +3,12 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
 title: Tea and Tablet
-excerpt: Introduction to IT and the internet 
+excerpt: Introduction to IT and the internet
 lead: Scottish Borders Council
 website: http://www.scotborders.gov.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: May 2015
 end: March 2016
 award: 4163
@@ -28,7 +28,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ## Project milestones
 
-After some difficulties in starting Tea and Tablet, the equipment has been purchased and the programme is now up and running. 
+After some difficulties in starting Tea and Tablet, the equipment has been purchased and the programme is now up and running.
 On Monday afternoons, a group of six adults have been meeting to learn the basics of using a laptop as well as a tablet.  The motivation for the individuals in the group to learn about IT and how to use a laptop/tablet, is staying in touch with family and friends and being able to access a wide range of information inclduing whats on locally.  Many had never used a computer before and although some have tablets they are not confident about using them.   The 14th is the last session with this group then we will evaluate with them to find out what their learning has been and what impact this learning will have on their day to day lives.
 
 Here are some of the group participants trying out our tablets for the first time.  The learners really enjoyed using the tablets and learning about the different settings.  They have all said they feel more confident about using the internet and would like to continue using the internet at home.
@@ -45,7 +45,7 @@ Another group have nearly finished the Tea and Tablet course.  They have really 
 
 ## Evaluation
 
-It took longer than we hoped to start delivering Tea and Tablet IT courses due to a number of obstacles we had to overcome in the setting up of the project. We have however now delivered three Tea and Tablet courses and have another one planned for April/May.  Laptops were used in the first Tea and Tablet course and tablets in the second two courses. In total we have delivered 20 weeks of Tea and Tablet and 12 learners have benefited.   
+It took longer than we hoped to start delivering Tea and Tablet IT courses due to a number of obstacles we had to overcome in the setting up of the project. We have however now delivered three Tea and Tablet courses and have another one planned for April/May.  Laptops were used in the first Tea and Tablet course and tablets in the second two courses. In total we have delivered 20 weeks of Tea and Tablet and 12 learners have benefited.
 
 ### Outputs and outcomes
 
@@ -64,5 +64,5 @@ Many learners asked if they could come back for the next programme in order to c
 Things that we would do differently next time:
 
 Selkirk has an older population (as has the Scottish Borders in general) and most people who attended the course were of retirement age. We did not manage to engage with working age adults, especially males who are unemployed which we hoped we would do.  Next time we will ask for support of the job centre in promoting this learning opportunity to those using their services.
-We have had conversations with Library services about how we can work together to offer continued IT support to learners. Library services are about to go into Trust but what we hope to offer is the six week Tea and Tablet programme through CLD then direct learners to their local library two/three weeks after the end of the programme to help them troubleshoot any problems they may be experiencing.  We hope this will help maintain the learner's confidence about using IT if they do experience any problems. 
+We have had conversations with Library services about how we can work together to offer continued IT support to learners. Library services are about to go into Trust but what we hope to offer is the six week Tea and Tablet programme through CLD then direct learners to their local library two/three weeks after the end of the programme to help them troubleshoot any problems they may be experiencing.  We hope this will help maintain the learner's confidence about using IT if they do experience any problems.
 

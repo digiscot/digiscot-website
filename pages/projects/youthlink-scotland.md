@@ -8,13 +8,13 @@ lead: YouthLink Scotland
 website: http://www.youthlinkscotland.org/
 email: lgreen@youthlinkscotland.org
 twitter-url: https://twitter.com/DigitallyAgile
-facebook-url: 
-start: 
-end: 
+facebook-url:
+start:
+end:
 award: 7260
 postcode: EH12 5EZ
 image:
-tags: staff Glasgow 
+tags: staff Glasgow
 permalink: /projects/youthlink-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -24,7 +24,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 ### Project description
 
 Developing a training course for Community Learning and Development practitioners; staff and volunteers on the use of digital technology and social media in their work based around the Digitally Agile National Principles. [http://www.digitallyagilecld.org](http://www.digitallyagilecld.org)
- 
+
  <div data-configid="0/9984175" style="width:525px; height:371px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 This project is part of and will be informed by a broader piece of work developing training on the Digitally Agile National Principles in a partnership between College Development Network, Glasgow Kelvin College, YouthLink Scotland, Learning Link Scotland and the Scottish Community Development Centre (SCDC), convened as a short life working group. This partnership will develop a training course and will assign certain elements to YouthLink Scotland to work with young people and youth workers to inform and develop.
@@ -78,7 +78,7 @@ Developing training resource for CLD practitioners about Online Bullying
 
 
 
-**Writing training** 
+**Writing training**
 
 November 2015 - January 2016
 

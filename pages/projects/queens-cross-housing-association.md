@@ -3,12 +3,12 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
 title: Historical Connections @ Queens Cross
-excerpt: Using local history to teach older people how to use the internet 
+excerpt: Using local history to teach older people how to use the internet
 lead: Queens Cross Housing Association
 website: http://www.qcha.org.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: January 2015
 end: January 2016
 award: 8430
@@ -23,7 +23,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Getting older people enagaged and learning how to use the internet through researching their local history. 
+Getting older people enagaged and learning how to use the internet through researching their local history.
 
 
 ## Project milestones
@@ -32,25 +32,25 @@ Getting older people enagaged and learning how to use the internet through resea
 
 Recruitment of Sessional Worker  - William Harvie has joined us as out Historical Connections Worker. William is an experience member of the Community Development Team having worked with us on placement in 2013. He is passionate about Local History and has already proven to be a great asset to the team!
 
-Purchase of Equipment: We purchased 3 iPads to supplement our existing 'mobile kit' for use in sessions. Our learners are really enjoying playing with the new equipment. Our new printers arrived recently as well, we've been scanning and printing photographs 
+Purchase of Equipment: We purchased 3 iPads to supplement our existing 'mobile kit' for use in sessions. Our learners are really enjoying playing with the new equipment. Our new printers arrived recently as well, we've been scanning and printing photographs
 
 Advertising of activities
 
-![Historical Connections](https://pbs.twimg.com/media/CBHa-fOWoAAuzdx.jpg:large) 
+![Historical Connections](https://pbs.twimg.com/media/CBHa-fOWoAAuzdx.jpg:large)
 
 
 ### Phase 2 February - March 2015
 
-Make up local history kits to be used in classes, use sample family trees, documents and photographs 
+Make up local history kits to be used in classes, use sample family trees, documents and photographs
 
-Open days and events aimed at recruiting members to join the groups: We recently attended our Supported Housing Focus Day at the Science Centre and had a chance to show a wide range of tenants some of the photos and stories we have seen and heard so far. More than 35 people signed up to take part in classes as a result of this day. We have also been attending events and open days held by other parts of the organisation to promote the project. 
+Open days and events aimed at recruiting members to join the groups: We recently attended our Supported Housing Focus Day at the Science Centre and had a chance to show a wide range of tenants some of the photos and stories we have seen and heard so far. More than 35 people signed up to take part in classes as a result of this day. We have also been attending events and open days held by other parts of the organisation to promote the project.
 
 Marketing launched
 
 
 ### Phase 3 March 2015
 
-Begin sessions. 
+Begin sessions.
 
 Primary focus on familiarizing members with devices, basic internet awareness, internet safety etc. We have now started four Historical Connections groups with a second wave of three new groups starting the first week in September.
 
@@ -62,7 +62,7 @@ Genealogical research begins – familiarize learners with the tools required an
 
 Encourage some brief blogs about experience of using the internet to research family history
 
-Start to collect photographs and videos to create history map and blogposts. 
+Start to collect photographs and videos to create history map and blogposts.
 
 Liaise with Youth Work Coordinator re working within the Youth Clubs, look at ways in which the Young People and Older People might work together
 
@@ -76,7 +76,7 @@ Encourage learners to share their stories and findings via the blog
 
 Bring together Older and Younger learners
 
-### Phase 6 December 2015 to January 2016 
+### Phase 6 December 2015 to January 2016
 
 Devise action plan to seek further funding to make project sustainable for the longer term
 
@@ -112,19 +112,19 @@ Offer a cross-generational experience for young people engaged in our Youth Proj
 *	Attendees of the groups left with improved computing skills, many had started to use the UK Online Centres Learn my Way resources and others had purchased/been given their own tablets and were comfortable using them.
 *	We know this because we have continued to work with some of the groups, refer others onto our other services and provide Digital Inclusion support generally. We administer the Learn My Way course and so can see learner engagement with the programme.
 *	We took the move to install WiFi in the communal areas of all Sheltered Housing Complexes so that our learners could continue to use the internet when the project came to an end.
-*	We have started to provide monthly digital inclusion drop-in sessions in 5 of the venues, and learners continue to support one another and meet up out-with the sessions. 
+*	We have started to provide monthly digital inclusion drop-in sessions in 5 of the venues, and learners continue to support one another and meet up out-with the sessions.
 *	We held open days in the Sheltered Housing Complexes to promote services and demonstrate the new WiFi. At these eventsaA majority of learners expressed an increase in their personal confidence at using the internet and digital devices following their engagement with Historical Connections.
 *	One group of ten learners are now working towards their Computer Online Basics qualification from the City and Guilds.
 *	We have established a Youth Volunteering Project to build on the cross-generational work done within the project. This programme will see Young People trained as Digital Ambassadors and then they will come to drop-in sessions to help support learners.
 *	Queens Cross has decided to build on the work done with Historical Connections to celebrate their 40th Anniversary. They are collecting our tenants stories and memories to create a living archive for our learners and tenants to enjoy and share.
-*	We have a tablet library of 10 iPads, 3 of which were purchased with funds from Historical Connections, that can be used 
+*	We have a tablet library of 10 iPads, 3 of which were purchased with funds from Historical Connections, that can be used
 
 ## Lessons learned
 
 ### Things that worked well:
 
 1.	History Trips with Young People: these were really popular and the Young People enjoyed learning about the lived history of their area and traditional activities/holidays.
-2.	Making family trees: this aspect proved really popular and those tenants that were interested in researching their families loved this aspect. 
+2.	Making family trees: this aspect proved really popular and those tenants that were interested in researching their families loved this aspect.
 3.	Setting up groups and letting them guide their own learning worked best, they became really good support for one another and a lot of issues surrounding loneliness and health and wellbeing came up as a result of these sessions.
 
 ### Things that we would do differently next time:

@@ -6,15 +6,15 @@ title: Volunteer with IT
 excerpt: IT sessions with peer mentoring
 lead: Volunteer Centre Dundee
 website: http://www.volunteerdundee.org.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: March 2015
 end: June 2015
 award: 3148
 postcode: DD1 1LL
 image:
-tags: disabled-people 
+tags: disabled-people
 permalink: /projects/volunteer-centre-dundee/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -36,7 +36,7 @@ Having recruited volunteers willing to share their skills it became clear that w
 Phase 1 for the learners to assess current IT skills and goals was delayed until August 2015 - this has since been achieved
 
 
-### Phase 2 March 2015 
+### Phase 2 March 2015
 
 **Group sessions to look at matching peers with skills to the goals**
 
@@ -62,7 +62,7 @@ Movement towards goal/achievement of goal
 Initial participants all  showed increased confidence and improved skills. Goals were met and people moved towards achievement of longer term goals.
 
 Decided to have another round of the project and use Drop-in format this time. 6 week drop in organised and advertised through the Volunteer Centre Dundee contacts and email distribution list. Posters also distributed for display around the city.
-Drop-in to be managed by Peer mentors with staff support. 
+Drop-in to be managed by Peer mentors with staff support.
 
 Week one - 1 participant gained confidence in her own abilities working 1-1 with peer mentor.
 
@@ -77,9 +77,9 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project has reached **18** people who have learned from each other and gained confidence and increased their skills. 
+Overall this project has reached **18** people who have learned from each other and gained confidence and increased their skills.
 
-We delivered two training sessions for the peer mentors and 1 matching session for the participants. Each participant had a variety of different individual sessions with their matched Peer mentor. 
+We delivered two training sessions for the peer mentors and 1 matching session for the participants. Each participant had a variety of different individual sessions with their matched Peer mentor.
 
 The Drop in sessions (6 in total) allowed people to come along with an issue and get immediate support. This worked well and the participants and the peer mentors involved all have gained confidence and skills from this.
 

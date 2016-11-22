@@ -6,15 +6,15 @@ title: Connected Communities
 excerpt: Online community portal
 lead: Station House Media Unit (shmu)
 website: http://www.shmu.org.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: TBC
 end: TBC
 award: 10000
 postcode: AB24 2WB
 image:
-tags: older-people disabled-people benefits 
+tags: older-people disabled-people benefits
 permalink: /projects/shmu/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -27,7 +27,7 @@ Tillydrone Community Portal: The bulk of the project activities will take place 
 
 **Infrastructure**
 
-The development of the community portal is dependent on the implementation of the wireless network which is part of a different and larger project.  The timeline for the network infrastructure has slipped but is now being progressed with an anticipated installation start during w/b 21st September 2015.   
+The development of the community portal is dependent on the implementation of the wireless network which is part of a different and larger project.  The timeline for the network infrastructure has slipped but is now being progressed with an anticipated installation start during w/b 21st September 2015.
 
 **Community Engagement**
 
@@ -38,7 +38,7 @@ The involvement of community members in this project will help to inform and dir
 
 ### Phase 1
 
-Initiation: Meet and engage with all key audiences 
+Initiation: Meet and engage with all key audiences
 
 ### Phase 2
 
@@ -50,7 +50,7 @@ Engagement: Use and development of community portal
 
 ### Phase 4
 
-Usage and functionality of community portal 
+Usage and functionality of community portal
 
 
 
@@ -62,9 +62,9 @@ This project created a “community portal” template with the intention of usi
 
 **In terms of outputs we:**
 
-•	Delivered a community based research project which established patterns of pre-project IT usage and preferences for further work in the community [110 active participants]  
+•	Delivered a community based research project which established patterns of pre-project IT usage and preferences for further work in the community [110 active participants]
 
-•	Organised 16 community events and workshops to examine how residents perceived new technologies and what opportunities existed to integrate these into their lives.  
+•	Organised 16 community events and workshops to examine how residents perceived new technologies and what opportunities existed to integrate these into their lives.
 
 •	Staged 12 training sessions in 4 community venues build around the benefits of using technology to enhance community life
 
@@ -75,7 +75,7 @@ This project created a “community portal” template with the intention of usi
 •	Designed a digital gateway for the community portal which supported the authentication required to access the community based WiFi network
 
 
-**In terms of outcomes for the people and groups we care about, this project has:**   
+**In terms of outcomes for the people and groups we care about, this project has:**
 
 •	Generated a baseline understanding of existing internet connectivity and usage within the Tillydrone community [it is considered that there are similarities with other communities within which we work]
 
@@ -89,7 +89,7 @@ This project created a “community portal” template with the intention of usi
 
 •	Increased the skill and competence level of community members in relation the use of computer equipment [desktop, laptop, tablet & mobile devices] and a range of computer applications
 
-•	Increased the number of residents in the Tillydrone community making regular access to the internet 
+•	Increased the number of residents in the Tillydrone community making regular access to the internet
 
 •	Increased the purposes for which residents access the internet
 

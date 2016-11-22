@@ -6,9 +6,9 @@ title: Digital Works Club @ Ruchazie
 excerpt: Click and Connect Learning Centre in Ruchazie Parish Church
 lead: Cranhill Development Trust
 website: http://www.cranhilldt.co.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: March 2016
 award: 8721
@@ -33,36 +33,36 @@ Cranhill Development Trust will be working in partnership with the Wheatley Grou
 
 ## Evaluation
 
-Upon installation of our Click and Connect Lite Learning Centre in Ruchazie Parish Church in July 2015 we then launched our Digital Work Clubs at Ruchazie. The Digital Work Clubs were one day per week followed by the introduction of further learning and training provision that was made available. The Click and Connect Learning Centre was supported by Digital volunteers who were identified through their involvement in the local community allowing further support to people who were dropping into the learning centre, overall 160 users received free access to the learning centre. 
+Upon installation of our Click and Connect Lite Learning Centre in Ruchazie Parish Church in July 2015 we then launched our Digital Work Clubs at Ruchazie. The Digital Work Clubs were one day per week followed by the introduction of further learning and training provision that was made available. The Click and Connect Learning Centre was supported by Digital volunteers who were identified through their involvement in the local community allowing further support to people who were dropping into the learning centre, overall 160 users received free access to the learning centre.
 
 ### Outputs and outcomes
 
 **In terms of outputs we delivered:**
 
-36 Digital Work Clubs, 66 people participated 
+36 Digital Work Clubs, 66 people participated
 
 12 Digital Skills Classes, 9 people participated
 
-1 Employability Skills Class “Let’s get that job”, 6 people participated 
+1 Employability Skills Class “Let’s get that job”, 6 people participated
 
-1 Employability Sector Specific Training Food Hygiene, 10 people participated 
+1 Employability Sector Specific Training Food Hygiene, 10 people participated
 
-Finance Budgeting, 4 people participated 
+Finance Budgeting, 4 people participated
 
-Digital Volunteers, 5 people participated 
+Digital Volunteers, 5 people participated
 
-Café Volunteers at Ruchazie Parish Church, 3 people participated 
+Café Volunteers at Ruchazie Parish Church, 3 people participated
 
 Employment Outcomes, 11 people gained employment
 
-Achieved Qualification, 19 people achieved 
+Achieved Qualification, 19 people achieved
 
 
-**In terms of outcomes for the people and groups we care about this project has:** 
+**In terms of outcomes for the people and groups we care about this project has:**
 
 Increased confidence and digital skills of local people
 
-Improved employability chances 
+Improved employability chances
 
 Increased number of people participating in volunteer opportunities
 

@@ -5,10 +5,10 @@ call: 2
 title: Digit All
 excerpt: Digital drop-in clubs
 lead: Argyll Voluntary Action
-website: 
-email: 
-twitter-url: https://twitter.com/AVA_Communities 
-facebook-url: 
+website:
+email:
+twitter-url: https://twitter.com/AVA_Communities
+facebook-url:
 start: June 2015
 end: December 2015
 award: 9522
@@ -25,7 +25,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 To provide monthly drop-in Digital clubs in the 6 main settlements of Argyll & Bute. The clubs will advise and support people to use email accounts, social media, Skype, webchat and to browse the internet safely.  Am online resource will replicate this to reach remote areas. We expect to provide learning opportunities as a gateway to developing skills, reduce isolation and help build social capital. People will have a support network and become more confident as a result.
 
-A second phase will take the Digital drop-ins to the rural Highland areas, enabling access where current provision is not available. 
+A second phase will take the Digital drop-ins to the rural Highland areas, enabling access where current provision is not available.
 
 The drop in clubs will be open to everyone but aimed primarily at older, disabled, or vulnerable individuals; those who do not have IT skills and who could benefit from learning a new skill.  We also will have young volunteers (who are very IT savvy) to support older people thus facilitating an intergenerational exchange of support.
 
@@ -42,7 +42,7 @@ These have all proved extremely successful and have attendances between 10 and 1
 
 In Campbeltown a smaller group of around 10 has been facilitated, and this has been coupled with one to one support, responding to demand and need, and to date we have engaged with 37 older people in that area.
 
-Classes in Dunoon have proved extremely popular with local people, gaining skills for the first time and starting to connect with each other and with distant families through skype and social media. For some this has proved to be a lifeline, and the co-ordinator has noted how many sessions in all three areas have brought laughter alongside learning. 
+Classes in Dunoon have proved extremely popular with local people, gaining skills for the first time and starting to connect with each other and with distant families through skype and social media. For some this has proved to be a lifeline, and the co-ordinator has noted how many sessions in all three areas have brought laughter alongside learning.
 
 Plans to deliver across the Highland region are in place and we have included, Dornoch, Fort William, Beauly, and Ullapool to give a mix of rural and centres of population.  These will be longer drop-in sessions enabling a greater number of participants to engage and will be followed up with online and digital support where this is appropriate.
 
@@ -52,13 +52,13 @@ As the project draws toward its final weeks, we can look back at the progress ma
 
 Classes within Argyll & Bute have been extremely popular, and in Dunoon and Helensburgh no one wants them to close.  We have also been asked if we can deliver ongoing classes in Oban where the demand has been consistently high.
 
-Campbeltown classes will now run unitl January, and will be reviewed then given tha funding has now been exhausted we will need to look at how future service might be resourced.  Rothesay and Lochgilphead as expected given the much smaller population had lower attendance averaging around 8 – 10 attendees at any time. 
+Campbeltown classes will now run unitl January, and will be reviewed then given tha funding has now been exhausted we will need to look at how future service might be resourced.  Rothesay and Lochgilphead as expected given the much smaller population had lower attendance averaging around 8 – 10 attendees at any time.
 
 Over the period from June a total of 237 people have attended; some people have found one or two sessions has given them the tools they require whilst others for whom the concept of digital was new have attended on a more regular basis. Still others have popped back when things have not quite worked as they hoped or they have had specific problems. In all cases we have been able to help and support.
 
 Further afield, due to staffing issues the Highland drop ins started later than originally planned but have also been well received and attended.  We spoke in advance to local communities to ascertain the local need and this meant some slight changes to the locations used.
 
-We learned that Fort William had access to services similar to that planned but discovered an unmet need, and a welcome in Kinlochleven where we set up the drop in and were surprised by the numbers of people who were keen to take advantage and to learn skills. 
+We learned that Fort William had access to services similar to that planned but discovered an unmet need, and a welcome in Kinlochleven where we set up the drop in and were surprised by the numbers of people who were keen to take advantage and to learn skills.
 
 Dornoch also was a rewarding experience and we received excellent feedback (given below).  Dornoch and District Community Association were extremely helpful with venue and arrangements and if funding were again available we would be delighted to return.  Ullapool felt a long way distant but in early autumn sunshine provided a perfect setting and again, was much appreciated.
 
@@ -94,7 +94,7 @@ We introduced more learning around keeping safe online as this showed a clear de
 
 Over the course of the project, we delivered 36 classes and drop ins locally, and 8 in total over the Highland region.  This enabled us to reach a total of 300 people and to facilitate learning for some, over a period of time.  Tablets were a popular choice and we made use of these at every location. In particular, for older people these were light, easy to use, and did everything that a laptop could do. With the exception of outlook, most people did not want or use the office software and their main focus was around keeping in touch, browsing, using social media and building social contacts online and email.
 
-Thus the outputs were achieved as set out originally.  Currently, the ‘techy clinics’ as they have come to be known continue in Helensburgh, the classes in Campbeltown will continue until January and in Dunoon also, a small scale service is continuing.  We will require to seek resourcing to continue over the medium and longer term and also to re-establish classes, or drop-ins in Oban.  
+Thus the outputs were achieved as set out originally.  Currently, the ‘techy clinics’ as they have come to be known continue in Helensburgh, the classes in Campbeltown will continue until January and in Dunoon also, a small scale service is continuing.  We will require to seek resourcing to continue over the medium and longer term and also to re-establish classes, or drop-ins in Oban.
 
 Rothesay has the benefit of a volunteer who will provide some support as needed, although again, we need to look at a longer term solution.  In Lochgilphead we have worked with Mid Argyll Youth Project and it may well be possible to utilise their premises in future to run occasional drop-ins if we can identify a pan Argyll resourcing.
 
@@ -105,7 +105,7 @@ We have, therefore, evidence that 300 people have learned new skills, and state 
 A further outcome has been the number of people who have decided to become volunteers, and who are now more involved with their local communities in a range of ways. As an interface we see this daily, from the various interactions and matches made between volunteers, and individual and organisational recipients of volunteer time.
 Young people have said they have benefitted from teaching and supporting older people and this has given them a better understanding of that generation.  We have been encouraged by this, and by the willingness of younger people to share their skills and knowledge – and also the patience and understanding they have shown.  This demonstrates the way this project has brought members of communities together and we know that a number remain in contact.
 
-An aim at the outset was to reduce social isolation and the skills acquired by older people, the friendships forged and peer support which has emerged is also testament to this being achieved. For many people a social network can be as important, lively and relevant and face to face, and this is reflected in the number of people who now have a Facebook account for example and are able to meet like -minded people virtually. Many people did not realise that they could follow an organisation or company and be involved without having to travel.  Others are following policy agenda, both local and national and this has opened up new ways to engage, to feel empowered and connected.  This has put people in touch via communication webs, access to sources of support and advice and given some a basis for a shared identity where they have joined specific groups.  
+An aim at the outset was to reduce social isolation and the skills acquired by older people, the friendships forged and peer support which has emerged is also testament to this being achieved. For many people a social network can be as important, lively and relevant and face to face, and this is reflected in the number of people who now have a Facebook account for example and are able to meet like -minded people virtually. Many people did not realise that they could follow an organisation or company and be involved without having to travel.  Others are following policy agenda, both local and national and this has opened up new ways to engage, to feel empowered and connected.  This has put people in touch via communication webs, access to sources of support and advice and given some a basis for a shared identity where they have joined specific groups.
 
 They are in fact, building social capital and stronger networks through their involvement.
 

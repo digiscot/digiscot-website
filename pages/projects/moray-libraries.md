@@ -6,9 +6,9 @@ title: Get Digital Clubs
 excerpt: ICT courses for the most digitally excluded
 lead: Moray Libraries and Information Service
 website: http://www.moray.gov.uk/moray_standard/page_1472.html
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: February 2016
 award: 9816
@@ -32,10 +32,10 @@ Promotion is going well and our flyers and posters are being circulated around t
 
 Update June 2015:
 
-So far 45 beginners are signed up to clubs and 6 volunteers have been recruited. 
+So far 45 beginners are signed up to clubs and 6 volunteers have been recruited.
 
  Update September 2015:
- 
+
  Another 3 people have expressed an interest in volunteering for the project bringing our total number of volunteers to 9. The take up of the free courses and drop ins is now escalating due to the publicity and promotion that has been done over the last few week. We have now had 83 people come along to do the free 4 week course with 35 on the waiting list starting soon. The drop ins are also going well with a total 21 individuals coming along to get assistance with their Laptops, IPads and Tablets. As word gets around and more people attend we are now seeing peer support developing which is great.
 
 Thanks to Frank (one of our volunteers) We now have a Get DigITal in Moray blog and will be working with learners to populate this over the winter months. We are busy taking photos for the site.
@@ -54,14 +54,14 @@ Overall this project met the needs of both individuals and community groups to b
 
 In terms of outputs we have achieved:
 - 93 learners completed the free 4 week beginners course
-- 471 attendances at the get DigITal drop ins 
+- 471 attendances at the get DigITal drop ins
 - A total of 843 individual attendances over the course of the project
 - 9 volunteers have been recruited and trained to support individuals
 
 In terms of outcomes for the people and groups we care about, this project has:
 - enabled them to become more confident in using new technology
 - developed peer support within the groups involved
-- equipped them with the skills to make better use of online resources 
+- equipped them with the skills to make better use of online resources
 Feeback received from participants include:
 - this course has given me more confidence
 - the tutor was very helpful and made the course very enjoyable

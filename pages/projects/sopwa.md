@@ -3,12 +3,12 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
 title: Tea and Technology
-excerpt: 
+excerpt:
 lead: Stornoway Old Peoples Welfare Association
 website: http://beithtrust.org/
 email: office.sopwa@gmail.com
-twitter-url: 
-facebook-url: 
+twitter-url:
+facebook-url:
 start: 18th November 2015
 end: 3rd February 2016
 award: 1420
@@ -21,7 +21,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-We are proposing to have a Drop-in sessions on Wednesday afternoons in the Lewis Retirement Centre where individuals or members of the various over 60s clubs can bring along their own equipment and be taught the basics of how to use it to keep in touch with friends and family. 
+We are proposing to have a Drop-in sessions on Wednesday afternoons in the Lewis Retirement Centre where individuals or members of the various over 60s clubs can bring along their own equipment and be taught the basics of how to use it to keep in touch with friends and family.
 
 Tea and biscuits on tap throughout the afternoon. The Centre is wheelchair accessible and has its own off road parking. The Drop-in sessions will be run by the Stormoway Old Peoples Welfare Association with some support from Cabraich. Fibre broadband will be available free. This is an innovative project because all other courses locally want to teach IT, not how to use an individual’s personal cell phone, ipad or whatever they use.
 

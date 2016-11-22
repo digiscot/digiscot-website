@@ -6,13 +6,13 @@ title: Strathmore Skills Centre
 excerpt: Basic digital skills lessons for local people
 lead: Coupar Angus Regeneration Trust
 website: http://www.coupar-angus.org/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: February 2015
 end: December 2015
 award: 860
-postcode: PH13 9AE		
+postcode: PH13 9AE
 image:
 tags: older-people remote-rural
 permalink: /projects/couper-angus/
@@ -23,7 +23,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Supporting local people to develop digital skills via basic digital skills lessons. 
+Supporting local people to develop digital skills via basic digital skills lessons.
 
 
 ## Project milestones

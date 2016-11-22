@@ -3,16 +3,16 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
 title: Grace Digital Well Being Cafe (Independence Through Digital Literacy Attainment)
-excerpt: 
+excerpt:
 lead: G.R.A.C.E
 website: http://www.graceaftercare.co.uk/about
 email: gracesmailis@gmail.com
-twitter-url: 
+twitter-url:
 facebook-url: https://www.facebook.com/GRACE.Aftercare
 start: 20th November 2015
 end: 11th November 2016
 award: 9200
-postcode: G66 1NL		
+postcode: G66 1NL
 image: /images/projects/grace.png
 tags: older-people benefits
 permalink: /projects/grace/
@@ -21,27 +21,27 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Our aim at G.R.A.C.E is to establish a Digital Well Being Cafe within Hillhead Community Centre from where we currently deliver our services. In recognition of our clients needs and the ongoing societal demands for digital literacy we have urgent need to establish an IT suite through which we can offer supported digital literacy learning workshops to adults who have become socially incapacitated or isolated through traumatic life events, mental health issues, poverty, unemployment & poor socioeconomic placing, and or, addiction related issues. 
+Our aim at G.R.A.C.E is to establish a Digital Well Being Cafe within Hillhead Community Centre from where we currently deliver our services. In recognition of our clients needs and the ongoing societal demands for digital literacy we have urgent need to establish an IT suite through which we can offer supported digital literacy learning workshops to adults who have become socially incapacitated or isolated through traumatic life events, mental health issues, poverty, unemployment & poor socioeconomic placing, and or, addiction related issues.
 
-The IT suite will be available throughout the working week for members to use and the key aims we need to meet through implementing our Digital Well Being Cafe are to furnish participants with a digital literacy skills foundation that will: 
+The IT suite will be available throughout the working week for members to use and the key aims we need to meet through implementing our Digital Well Being Cafe are to furnish participants with a digital literacy skills foundation that will:
 
 * Encourage self-directed endeavour utilising digital technologies
 
-* Promote confidence in engaging with digital based social mediums and communities 
+* Promote confidence in engaging with digital based social mediums and communities
 
-* Build and promote confidence in using digital technologies as a way of engaging with others and thereby reduce social isolation and exclusion and promote social capacity 
+* Build and promote confidence in using digital technologies as a way of engaging with others and thereby reduce social isolation and exclusion and promote social capacity
 
 * Reduce anxiety and promote confident engagement with today’s high tech society with particular focus on understanding and accessing benefits through online government services such as Universal Credit & Job Search
 
-* Enable self-supported problem solving in the use of and engagement with digital technology and the digital world 
+* Enable self-supported problem solving in the use of and engagement with digital technology and the digital world
 
 * Empower individuals with a sound grasp of terminology and jargon relating to digital technologies and mediums
 
-* Enable greater understanding and communication within the family setting when dealing with digital technology and related mediums, particularly between parent and child 
+* Enable greater understanding and communication within the family setting when dealing with digital technology and related mediums, particularly between parent and child
 
-* Find people better placed to move onto positive destinations in relation to education, training and or employment 
+* Find people better placed to move onto positive destinations in relation to education, training and or employment
 
-In addition to training on laptops we will explore other technologies such as phones, tablets, midi controllers, cameras etc 
+In addition to training on laptops we will explore other technologies such as phones, tablets, midi controllers, cameras etc
 
 A visiting facilitator Rikki Traynor will conduct digital literacy workshops offering personal tuition and group lead digital based learning activities, Rikki has over two years experience in working with G.R.A.C.E and has the unique attributes that afford him the ability to nurture and support a person on a recovery journey, whilst possessing industry recognised IT skills and an ability to teach such in a way that is appropriate and accessible to all those who engage with G.R.A.C.E.
 
@@ -91,7 +91,7 @@ The following is an example of a simple quiz sheet we used to spark exploration 
 
 Use Mozilla to find the answer to the following three questions, cut and paste your answers into the spaces below each question:
 
-1	When was Mozilla launched ? 
+1	When was Mozilla launched ?
 
 
 
@@ -152,9 +152,9 @@ Exploring the different types of plug ins and add ons available for browsers, an
 
 We explored setting home pages, privacy settings and their importance, deleting history and it's importance when using public computers, identifying and checking web site addresses.....'am I on the right page'..................................
 
-'Am I On The Right Page'..........This proved to be such an invaluable session for all, on many occasions people had been unwittingly accessing web content or downloading software from third party sites resulting in the unwanted installation of third party software and toolbars ….....   
+'Am I On The Right Page'..........This proved to be such an invaluable session for all, on many occasions people had been unwittingly accessing web content or downloading software from third party sites resulting in the unwanted installation of third party software and toolbars ….....
 
-Bookmarks and how to use them was another very welcome session, we introduced folders, and different ways to organise and manage bookmarks, even some of our more experienced lap-toppers took a lot from this.......twenty bookmarks or more and things can start to get very unwieldy indeed.......  
+Bookmarks and how to use them was another very welcome session, we introduced folders, and different ways to organise and manage bookmarks, even some of our more experienced lap-toppers took a lot from this.......twenty bookmarks or more and things can start to get very unwieldy indeed.......
 
 Throughout this time we have also been looking at developing an understanding of all the incredible things we can do with a mouse, many of our members at outset had very basic skills in this area, a few had none, when you don't know what your mouse is up to, things can get very frustrating, we quickly identified that a lot of folks were guessing with their double clicking, right click, left click, scrolling and the whole myriad of multiple functions a mouse has.......... no one wants to appear inept when sitting next to others clicking away, we found people tended to mask their fear of uncertainty..... tackling this in a fun way, we found, was the answer; we had a great time using online mouse click games and exercises to help people get to grips with and take control of the potential of their mouse.......... we also made some great music along the way....
 
@@ -170,20 +170,20 @@ https://www.justpark.com/creative/reaction-time-test/
 
 http://www.roomrecess.com/pages/ClickSpeed.html
 
-We also did a lot of work investigating basic short cuts that are universal between browsers and software such as 
+We also did a lot of work investigating basic short cuts that are universal between browsers and software such as
 
 Ctrl V …...	Paste
 
 Ctrl C ….....	Copy
 
-Ctrl A 	…....	Select All 
+Ctrl A 	…....	Select All
 
 
 Over the the weeks, we have also had a steady stream of GRACE members and friends of GRACE, dropping in with computer related problems and questions. One of the biggest problems is computers and laptops running at incredibly slow speeds and under performing, in most cases the primary cause has been malware and other such nasties. As each case has presented itself we have used each as an opportunity to problem solve. We have also introduced the idea of basic computer and laptop house keeping, Malwarebytes, CC Cleaner, and Avast antivirus software has now been installed on all our laptops, by participants, and all now feel confident in regularly checking their laptops are malware and virus free.
 Other problems that are often presented usually follow a visit from teenage nieces, nephews, and grandchildren.............'I don't know what they did with it !'  We have looked at the basics of 'computer appearance' and taking charge of your desktop, and again browsers. This has on many occasions tied in with the use of Malwarebytes, it would seem that teenagers are quite adept at installing third party software that hi-jacks and changes browser behaviour !
 
 
-In conclusion we would say that these past ten weeks have been very successful, this is clearly evident to our facilitator through recognising the relaxed demeanour in which participants now tackle problems they encounter, or in the way they set about tasks in a confident manner, perhaps the best indicator is the confidence with which people speak up and share information, ask questions, or help fellow participants, or new comers to the group. There is also a new found understanding that no one is ever an expert on all things computer based, but that answers and solutions can be found in many formats by 'googling...... ' 
+In conclusion we would say that these past ten weeks have been very successful, this is clearly evident to our facilitator through recognising the relaxed demeanour in which participants now tackle problems they encounter, or in the way they set about tasks in a confident manner, perhaps the best indicator is the confidence with which people speak up and share information, ask questions, or help fellow participants, or new comers to the group. There is also a new found understanding that no one is ever an expert on all things computer based, but that answers and solutions can be found in many formats by 'googling...... '
 
 
 ### Lessons learned

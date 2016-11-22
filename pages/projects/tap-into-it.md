@@ -3,7 +3,7 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
 title: Lynedoch Shopper Service
-excerpt: 
+excerpt:
 lead: Tap into IT Where You Are
 website: http://www.tap-into-it.co.uk/
 email: mike.ellis@tap-into-it.co.uk
@@ -12,7 +12,7 @@ facebook-url: https://www.facebook.com/TapintoITwhereyouare
 start: 16/11/2015
 end: 31/03/2016
 award: 1170
-postcode: EH11 1JX	
+postcode: EH11 1JX
 image: /images/projects/tapintoit.jpg
 tags: older-people
 permalink: /projects/tapintoit/
@@ -28,19 +28,19 @@ We’re planning to provide an online shopper service via designated and trained
 
 * Tap has met with each of the 6 individual tenants participating agreed terms & conditions of the service: December 2015
 
-* Training of Tap into it sessional worker & Volunteer who’ll be delivering the training/support: January 2016 
+* Training of Tap into it sessional worker & Volunteer who’ll be delivering the training/support: January 2016
 
 * Service starts in January till March on a trial basis, Monday mornings for 2 hours delivered by a Tap into it worker + Volunteer: March 2016
 
-* Review and report back on the project with a view to rolling out the service to at least the 2 other locations with a computer club in 2016: March 2016 
+* Review and report back on the project with a view to rolling out the service to at least the 2 other locations with a computer club in 2016: March 2016
 
 ### Planned outputs and outcomes
 
-* 2 tenants able to shop online with minimal support 
+* 2 tenants able to shop online with minimal support
 
-* 4 tenants unable to do their own shopping are involved in the process of choosing and ordering their own shopping online on a regular basis 
+* 4 tenants unable to do their own shopping are involved in the process of choosing and ordering their own shopping online on a regular basis
 
-* Online shopping becomes an attractive alternative option for all 35 tenants at Lynedoch extra care housing and encourages more interest among the 75+ year old age group to get online. 
+* Online shopping becomes an attractive alternative option for all 35 tenants at Lynedoch extra care housing and encourages more interest among the 75+ year old age group to get online.
 
 * New service can be replicated elsewhere with potential to free up Social Care staff and family time for other purposes or clients
 
@@ -67,7 +67,7 @@ Minimise the risk of financial abuse or of putting the Online Shopper 'helpers' 
 #### Actual outcome
 We did contact Asda and got information on prepayment cards but didn't see them as a workable option in practice - would add another layer of complication to the process, where it needs to be as simple as possible. Similarly for other options we considered including Tap IT handling payments & recharging tenants/service users. But could we take the risk of assisting tenants to use their own payment cards? We decided to get legal advice. With the help of Alastair Keatinge, Head of Charities and Social Enterprise at Lindsay's Solicitors, we agreed a risk management plan which included
 
-- applying for Protection of Vulnerable Group (PVG) scheme membership for Digital Support Workers who would be delivering the Online Shopper Service. This involved getting the approval of Disclosure Scotland, after a process of negotiation through several emails and phone calls, to add this job role to those for which a PVG can be requested. 
+- applying for Protection of Vulnerable Group (PVG) scheme membership for Digital Support Workers who would be delivering the Online Shopper Service. This involved getting the approval of Disclosure Scotland, after a process of negotiation through several emails and phone calls, to add this job role to those for which a PVG can be requested.
 
 - drafting our Online Shopper Service Terms and Conditions that we go through with service users prior to starting.
 
@@ -81,7 +81,7 @@ We now have a service that is available to those with the capacity to understand
 
 ### Next steps
 
-We have work to do on 
+We have work to do on
 
 - marketing it effectively
 

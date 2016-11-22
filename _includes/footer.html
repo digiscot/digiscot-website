@@ -1,48 +1,111 @@
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <h4>Share this page</h4>
-      {% include social-buttons.html %}
+<div class="footer grey darken-3">
+    <div class="container-fluid">
+        <div class="row valign-wrapper">
+            <div class="col s12 m3 l3">
+                {% include menu.html menuPath="footer" aClass="fa-ul white-text" %}
+            </div>
+            <div class="col s12 m5 l5 white-text">
+                <p>The Scottish Council for Voluntary Organisations (SCVO) is a Scottish Charitable Incorporated Organisation,
+                    registration number SC003358.</p>
+            </div>
+            <div class="col s12 m4 l4">
+                <p class="right-align">
+                    <a href="http://scvo.org.uk">
+                        <img src="/images/scvo-inverse.png" alt="SCVO" class="logo" height="45">
+                    </a>
+                    <a href="http://www.digitalscotland.org.uk">
+                        <img src="/images/digitalscotland.png" alt="Digital Scotland" class="logo" height="45">
+                    </a>
+                </p>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
 
-<div class="footer">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.3/headroom.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/salvattore/1.0.9/salvattore.min.js"></script>
 
-  <div class="container">
-  
-    <div class="row">
-    
-      <div class="col-md-2">
-        <p><small>
-        <i class="fa fa-fw fa-rocket text-muted"></i> <a href="/resources/">Resources</a><br />
-        <i class="fa fa-fw fa-pencil text-muted"></i> <a href="/charter/">Charter</a><br />        
-        <i class="fa fa-fw fa-star-o text-muted"></i> <a href="/projects/">Projects</a><br />
-        <i class="fa fa-fw fa-wifi text-muted"></i> <a href="/onedigital/">One Digital</a><br />
-        <i class="fa fa-fw fa-flask text-muted"></i> <a href="/data/">Data</a><br />
-        <i class="fa fa-fw fa-comments text-muted"></i> <a href="/events/">Events</a>
-        </small></p>
-      </div>
-    
-      <div class="col-md-5">
-        <p><small>
-        <i class="fa fa-fw fa-info-circle text-muted"></i> <a href="/about/">About</a><br />  
-        <i class="fa fa-fw fa-bullhorn text-muted"></i> <a href="/contact/">Contact</a><br/>
-        <i class="fa fa-fw fa-twitter"></i> <a href="https://twitter.com/digiscot">Follow @digiscot</a></br>
-        <i class="fa fa-fw fa-envelope text-muted"></i> <a href="/about/subscribe/">Join our mailing list</a>
-        </small></p>
-        <p class="smallprint"><small>The Scottish Council for Voluntary Organisations (SCVO) is a Scottish Charitable Incorporated Organisation, registration number SC003358.</small></p>
-      </div>
-  
-      <div class="col-md-5">
-        <p class="text-right">
-        <a href="http://www.scvo.org.uk/"><img src="/images/scvo.png" alt="SCVO" class="logo" /></a>
-        <a href="http://www.digitalscotland.org"><img src="/images/digitalscotland.png" alt="Digital Scotland" class="logo" /></a>
-        </p>
-      </div>
-  
-    </div>
+<script>
+    $(document).ready(function(){
+        $(".button-collapse").sideNav();
+        var headroom = new Headroom(document.querySelector("#header"), {
+            offset: 64
+        });
+        headroom.init();
 
-  </div>
+        if(window.location.hash){
+            var anchor = window.location.hash;
+            $(anchor).trigger('click');
+            window.setTimeout(function(){
+                $('html, body').animate({
+                    scrollTop: $(anchor).offset().top
+                }, 400);
+            }, 400);
+        }
 
-</div>
+        $('.collapsible').collapsible({
+            onOpen: function(el) {
+                window.setTimeout(function(){
+                    headroom.unpin();
+                }, 400);
+            }
+        });
+
+        if($('#events').length > 0){
+            $.getJSON("https://www.googleapis.com/calendar/v3/calendars/8ep89c5uh3nekaub1jelb4jdp1epc8t0%40import.calendar.google.com/events?key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo")
+                .done(function(obj, status, xhr){
+                    console.log('Got:', obj, status, xhr);
+                    displayEvents(obj.items);
+                })
+                .fail(function(obj, status, xhr){
+                    console.error('Failed:', obj, status, xhr);
+                });
+        }
+
+        function displayEvents(events){
+            var $el = $('#events');
+            if(events.length === 0){
+                $el.html('<strong>Sorry but there are currently no events');
+                return;
+            }
+
+            $el.empty();
+
+            for(var x = 0; x < events.length; x++){
+                var event = events[x];
+
+                var uid = event.iCalUID.replace(/\D/g, '');
+                var image = 'https://maps.googleapis.com/maps/api/staticmap';
+                image += '?markers=' + event.location;
+                image += '&size=300x300';
+                image += '&key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo';
+
+                var maplink = 'https://www.google.co.uk/maps/search/';
+                maplink += encodeURIComponent(event.location);
+
+                var $event = $('<div />').addClass('card horizontal');
+
+                var $image = $('<a />').attr({'href': 'maplink', 'title': 'Find on Google Maps'}).addClass('card-image').appendTo($event);
+                var $img = $('<img />').attr('src', image).addClass('responsive-img').appendTo($image);
+
+                var $stacked = $('<div />').addClass('card-stacked').appendTo($event);
+
+                var $content = $('<div />').addClass('card-content').appendTo($stacked);
+                var $title = $('<span />').addClass('card-title').text(event.summary).appendTo($content);
+                var $info = $('<ul />').addClass('fa-ul').appendTo($content);
+                var $date = $('<li />').appendTo($info);
+                $date.html('<i class="fa fa-li fa-calendar"></i>' + event.start.dateTime + ' - ' + event.end.dateTime);
+                var $location = $('<li />').appendTo($info);
+                $location.html('<i class="fa fa-li fa-map-marker"></i>' + event.location);
+                var $description = $('<div />').html(event.description).appendTo($content);
+
+                var $action = $('<div />').addClass('card-action').appendTo($stacked);
+                var $link = $('<a />').addClass('teal-text').attr('href', 'https://www.meetup.com/One-Digital-Meetup/events/' + uid + '/').html('<i class="fa fa-fw fa-meetup"></i> Visit event on meetup.com').appendTo($action);
+
+                $el.append($event);
+            }
+        }
+    });
+</script>

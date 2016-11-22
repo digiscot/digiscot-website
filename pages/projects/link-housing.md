@@ -6,15 +6,15 @@ title: City & Guilds Training
 excerpt: IT & digital skills training working towards accredited qualifications
 lead: Link Housing
 website: http://linkhousing.org.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: January 2015
 end: N/A
 award: 9156
 postcode: EH14 1RL
 image:
-tags: older-people disabled-people benefits 
+tags: older-people disabled-people benefits
 permalink: /projects/link-housing/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
@@ -30,7 +30,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 ## Project Milestones
 
 ### Phase 1
- 
+
 Recruitment of 40 tenants to the course.
 
 ### Phase 2
@@ -59,7 +59,7 @@ Areas covered by the training were:
 
 •	Comparing prices, APR explanation, managing energy bills
 
-•	Paying bills online 
+•	Paying bills online
 
 **Digital Inclusion**
 
@@ -71,7 +71,7 @@ Areas covered by the training were:
 
 •	Online shopping
 
-•	Skype Account 
+•	Skype Account
 
 •	Identify Digital Champions
 
@@ -96,7 +96,7 @@ For those who completed the course and attained the qualification an award cerem
 
 Over 80% of those applying for the C&G course have been identified as tenants with no previous contact with Link advice services.  This provides an opportunity to develop a relationship, engaging with these individuals and, in addition to existing needs, give further assistance in the main areas covered by the C&G course; digital inclusion, employability, and financial capability.
 
-Of tenants who have applied 70% are of working age and 30% over the age of 65 giving a good coverage of ages from 25 upwards. Gender of those applying is split 50%-50%.  For those who responded 3% have a disability, 34% were unemployed, 3% working part time, and 39% retired.  24% are unfit for work and in receipt of appropriate benefits.  
+Of tenants who have applied 70% are of working age and 30% over the age of 65 giving a good coverage of ages from 25 upwards. Gender of those applying is split 50%-50%.  For those who responded 3% have a disability, 34% were unemployed, 3% working part time, and 39% retired.  24% are unfit for work and in receipt of appropriate benefits.
 
 The areas identified where this training scheme covered includes neighbourhoods scoring between 0%-5% and 15%-20% on the Scottish Index of Multiple Deprivation.  Link has housing stock in these low scoring areas and therefore direct information on tenants who would benefit from a training scheme which would provide both a qualification and a device.
 
@@ -110,7 +110,7 @@ A total of 40 places were provided. (4 substituted later) Based on the 44 who at
 As well as the existing resources which Link can provide internally in relation to these issues, these tenants were signposted to locally accessible services.  The demographic data which we have received from all of those who have applied for the SCVO supported course will afford Link with the information required to partner with other organisations and support currently available services and develop future services and courses in line with this data.
 
 The course addressed the following;
-Access – access to and ownership at the end of the course of an internet able device.  
+Access – access to and ownership at the end of the course of an internet able device.
 Skills – the attainment of the skills covering digital inclusion, financial capability, and employability.
 Motivation – inspire and encourage those attending to continue with training and build on the skills and knowledge obtained on this course.
 Trust – The building of knowledge of staying safe online which will provide a basis for building trust in using the internet.

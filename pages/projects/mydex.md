@@ -6,9 +6,9 @@ title: Digital Empowerment - Person Centred Services
 excerpt: Encouraging digital participation through action learning and knowledge exchange
 lead: Mydex CIC
 website: https://mydex.org/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: February 2015
 end: TBC
 award: 15750
@@ -48,7 +48,7 @@ Agree fields of data for trial in sandbox to manage transfer to create new perso
 ## Evaluation
 
 Review of uptake of data stores and review of value of data sharing with collective services across wellbeing services in Third Sector, GP surgeries and NHS and social care settings.
- 
+
 Individual evaluations on use of accounts and ability to easily and in a controlled fashion share data to stop duplication.
 
 ### Outputs and outcomes

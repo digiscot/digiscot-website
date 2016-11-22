@@ -6,9 +6,9 @@ title: Digital access and IT skills
 excerpt: Supported digital access and improving IT skills.
 lead: Ormlie Community Association
 website: http://www.ormlie.org/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: January 2016
 award: 10000
@@ -36,21 +36,21 @@ We opened on the 9th February, and have marketed the facility through the Job Ce
 
 Those attending register with us and then each time they use the facility they sign in on our sign in sheets.  Our staff take a short note of why the individual has used the facility each day.
 
-In Phase 1 we said we would attract 10 individuals to the project - in fact we have attracted 15.  We didn't anticipate delivering computer training in this phase, however we have given computer help and tutoring to 7 individuals to help them improve their computing skills.    
+In Phase 1 we said we would attract 10 individuals to the project - in fact we have attracted 15.  We didn't anticipate delivering computer training in this phase, however we have given computer help and tutoring to 7 individuals to help them improve their computing skills.
 
 ### Phase 2  May 2015 - July 2015
 
-During this phase we enrolled a further 11 new individuals to the project.  
+During this phase we enrolled a further 11 new individuals to the project.
 
-We helped an additional 8 people improve their IT skills, mainly showing them how to conduct their own job searches, send and receive emails, and use the internet.  
+We helped an additional 8 people improve their IT skills, mainly showing them how to conduct their own job searches, send and receive emails, and use the internet.
 
-At this stage we estimated we would have enrolled 23 individuals - we have enrolled 26.  Those enrolling either do not have the IT skills needed to use a PC or have access to the internet at home.  We have also identified the need for some provision of Adult Basic Education / ESOL and are speaking to one of our partners, Highlife Highland, to see if we can meet this need.  
+At this stage we estimated we would have enrolled 23 individuals - we have enrolled 26.  Those enrolling either do not have the IT skills needed to use a PC or have access to the internet at home.  We have also identified the need for some provision of Adult Basic Education / ESOL and are speaking to one of our partners, Highlife Highland, to see if we can meet this need.
 
 ### Phase 3  Aug 2015 - Oct 2015
 
-A further 15 individuals enrolled to use the facilitiy.  An increasing number are now being referred to us by JobCentre Plus to make JSA or Universal Credit Applications.  A number of individuals are also needing access to basic equipment such as a telephone to make these applications, which must be made online but updates and appointments are sent by text.  
+A further 15 individuals enrolled to use the facilitiy.  An increasing number are now being referred to us by JobCentre Plus to make JSA or Universal Credit Applications.  A number of individuals are also needing access to basic equipment such as a telephone to make these applications, which must be made online but updates and appointments are sent by text.
 
-In this phase we helped 6 new individuals improve their IT skills.  We also managed to get Adult Basic Education, one day per week, to attend to help on a drop-in basis.  One individual is also using this provision as an ESOL session.  This ABE classes are open to all, not just those attending our project, though we have made several referrals.  
+In this phase we helped 6 new individuals improve their IT skills.  We also managed to get Adult Basic Education, one day per week, to attend to help on a drop-in basis.  One individual is also using this provision as an ESOL session.  This ABE classes are open to all, not just those attending our project, though we have made several referrals.
 
 During this period we applied for, and won partial funding from the Caithness and North Sutherland Fund to continue the project beyond January.  Demand for the service has increased each quarter, particularly from those needing access to IT equipment meet the needs of their Claimant Contracts for JSA or Universal Credit.
 
@@ -85,6 +85,6 @@ Locating the project in the local CAB office, meant that we had expertise on han
 
 Things that we would do differently next time:
 
-We would market the project more often and more widely.  Although we met our targets, apart from an initial marketing "campaign" we relied on word of mouth thereafter to attract participants.  
+We would market the project more often and more widely.  Although we met our targets, apart from an initial marketing "campaign" we relied on word of mouth thereafter to attract participants.
 
 

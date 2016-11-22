@@ -6,15 +6,15 @@ excerpt: IT suite refurbishment to support various digital inclusion projects
 lead: Toryglen Community Base
 website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
-twitter-url: 
-facebook-url: 
+twitter-url:
+facebook-url:
 start: January 2015
 end: July 2015
 award: 4700
 postcode: G42 0LE
 image:
 tags: older-people benefits Glasgow
-permalink: /projects/toryglen-community-base/ 
+permalink: /projects/toryglen-community-base/
 ---
 
 ## Project plan
@@ -26,11 +26,11 @@ IT suite refurbishment to support the development of Toryglen Digital Base and i
 
 ## Project milestones
 
-Phase one: Purchase and installation of equipment 
+Phase one: Purchase and installation of equipment
 
-Phase two: Marketing of service & recruitment of participants 
+Phase two: Marketing of service & recruitment of participants
 
-Phase three: Ongoing use of facility, service accessed throughout the year for various learning activity 
+Phase three: Ongoing use of facility, service accessed throughout the year for various learning activity
 
 ### Phase 1 January 2015
 
@@ -43,7 +43,7 @@ Purchase and installation of equipment
 
 ![Toryglen Poster](/images/projects/Toryglen Community Base 7.jpg)
 
-Marketing of service including recruitment of participants.  
+Marketing of service including recruitment of participants.
 
 **Update**  With no local library and the levels of deprivation higher than the Glasgow average the marketing of the computer suite has been welcomed by many.  Advertising was done through the local housing newsletter, leaflets in shop windows, doctors/dentist surgeries, school gates, etc.  Moreover, a large network was reached by e-mail and facebook as well as attending networking events to promote this facility.
 
@@ -56,10 +56,10 @@ Marketing of service including recruitment of participants.
 
 ### Phase 3 February - July 2015
 
-Ongoing use of facility to support training, digital skills clubs, job clubs and community access 
+Ongoing use of facility to support training, digital skills clubs, job clubs and community access
 
 
-**Update:** Our job club who use the computer suite have remarked on the speed of the computers now and how this has helped with their job searches. 
+**Update:** Our job club who use the computer suite have remarked on the speed of the computers now and how this has helped with their job searches.
 
 Our computer suite is also open to the public and they too are enjoying the benefits of the new computers. On average there are over 50 members of our community who access the computer suite on a weekly basis.
 
@@ -82,7 +82,7 @@ Our computer suite is also open to the public and they too are enjoying the bene
 
 ### Outputs and outcomes
 
-Overall this project promoted digital inclusion for local residents. The installation of the initial IT Suite led to the development of a new partnership with the Wheatly Group, GHA and Glasgow Kelvin College who supported us to further develop and upgrade the facilities and install a new Click and Connect Learning Centre.  The IT Suite enabled us to widen participation in learning for people from disadvantaged communities. 
+Overall this project promoted digital inclusion for local residents. The installation of the initial IT Suite led to the development of a new partnership with the Wheatly Group, GHA and Glasgow Kelvin College who supported us to further develop and upgrade the facilities and install a new Click and Connect Learning Centre.  The IT Suite enabled us to widen participation in learning for people from disadvantaged communities.
 
 **In terms of outputs since January 2015 we have delivered:**
 
@@ -93,7 +93,7 @@ Overall this project promoted digital inclusion for local residents. The install
 •	3600 local people dropped in to access our services, IT Suite and telephone facilities
 
 
-**In terms of outcomes for the people and groups we care about, this project has:** 
+**In terms of outcomes for the people and groups we care about, this project has:**
 
 •	Improved access to training and learning opportunities for local people
 
@@ -102,7 +102,7 @@ Overall this project promoted digital inclusion for local residents. The install
 •	Promoted digital inclusion for local people
 
 
-We know this because we conducted a short survey with 10% of people using the service. The feedback demonstrated that as a result of accessing the IT Suite and/or Training: 100% of local residents felt the facilities offered were excellent; 98% felt their skills and confidence had improved since accessing the service; 100% felt their use of IT would increase as a result of accessing the service and 80% felt they were more likely to progress to work, volunteering or further training as a result of accessing the service. 
+We know this because we conducted a short survey with 10% of people using the service. The feedback demonstrated that as a result of accessing the IT Suite and/or Training: 100% of local residents felt the facilities offered were excellent; 98% felt their skills and confidence had improved since accessing the service; 100% felt their use of IT would increase as a result of accessing the service and 80% felt they were more likely to progress to work, volunteering or further training as a result of accessing the service.
 
 ### Lessons learned
 
@@ -120,7 +120,7 @@ We know this because we conducted a short survey with 10% of people using the se
 
 2.	During this period Toryglen Community Base had a very basic website and it was difficult to manage the content which impacted on our ability to market our range of services.  This has now been rectified www.toryglencommunitybase.org
 
-3.	We would improve our marketing by conducting door to door outreach services 
+3.	We would improve our marketing by conducting door to door outreach services
 
 
 

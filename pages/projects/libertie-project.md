@@ -5,10 +5,10 @@ call: 1
 title: Digital Creative Club
 excerpt: Using creative digital activities to engage with hard to reach individuals.
 lead: Libertie Project
-website: http://www.libertie.biz/ 
-email: 
-twitter-url: 
-facebook-url: https://www.facebook.com/libertieproject 
+website: http://www.libertie.biz/
+email:
+twitter-url:
+facebook-url: https://www.facebook.com/libertieproject
 start: January 2015
 end: November 2015
 award: 9700
@@ -31,7 +31,7 @@ The Creative Digital Club (CDC) will be a project that uses creative digital act
 
 Plan delivery of digital creative club, establish links with stakeholders and obtain equipment.
 
-We've been shopping for all our new digital equipment and have teamed up with Citizens Online to run a Digital Champions Course. Our first four week course starts next Tuesday and we're already oversubscribed. 
+We've been shopping for all our new digital equipment and have teamed up with Citizens Online to run a Digital Champions Course. Our first four week course starts next Tuesday and we're already oversubscribed.
 
 ### Update June 2015
 
@@ -57,7 +57,7 @@ In our Digital Creative Club for the homeless we've been having fun, from digita
 
 Women's Club: Deliver digital creative club for women.
 
-Establish individual learning plans and record baseline of skills. Deliver digital life skills training to include emails, internet searching and shopping, online services. Use digital photography to create virtual webpage and virtual online etsy shop. 
+Establish individual learning plans and record baseline of skills. Deliver digital life skills training to include emails, internet searching and shopping, online services. Use digital photography to create virtual webpage and virtual online etsy shop.
 
 ### Update November 2015
 
@@ -84,11 +84,11 @@ We've achieved and surpassed the majority of the outcomes we set out to deliver 
 ### Outputs and outcomes
 
 In terms of outputs we have:
- 
-- Trained 3 digital champion trainers 
-- Recruited 5 digital champion volunteers 
-- Facilitated 35 digital cafe sessions 
-- We've become a UK Online learning centre and signed up 28 learners 
+
+- Trained 3 digital champion trainers
+- Recruited 5 digital champion volunteers
+- Facilitated 35 digital cafe sessions
+- We've become a UK Online learning centre and signed up 28 learners
 - We've helped 25 learners gain digital life skills and 3 learners achieve a City and Guilds Online Basics qualification
 - We've helped 1 learner to set up their own online shop
 
