@@ -124,6 +124,10 @@ ul.browser-default li{
     padding-top: 45px;
 }
 
+.full-height{
+    min-height:100vh;
+}
+
 nav#header{
     position: fixed;
     z-index: 10;
@@ -156,6 +160,10 @@ nav#header{
         .card-action{
             position: relative;
         }
+    }
+
+    .vnav{
+        margin:40px 0;
     }
 }
 

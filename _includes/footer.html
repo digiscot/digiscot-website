@@ -28,6 +28,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/salvattore/1.0.9/salvattore.min.js"></script>
 
 <script>
+    function scrollTo(el){
+        $el = $(el);
+        $('html, body').animate({
+            scrollTop: $el.offset().top
+        }, 400);
+    }
+
     $(document).ready(function(){
         $(".button-collapse").sideNav();
         var headroom = new Headroom(document.querySelector("#header"), {
