@@ -78,4 +78,90 @@ Workshops for service users planned from
 ### Lessons learned
 
 
+Attendees included women aged 25
+– 65 from Ethnic Minority (EM) backgrounds with the majority from a South Asian
+background.
+
+Workshops were spread across
+different deprived areas of Glasgow which were Govan, Ibrox and Govanhill.
+
+Each individual received 5 weeks
+of practical training with a workshop. Each week they received 2 hour sessions.
+
+In total 45 individuals benefited
+from the workshops. We initially planned to deliver the workshops to 80
+individuals for 2 weeks each.
+
+It was realised that people who
+were recruited and came forward for the workshop needed more time in order to
+fully benefit from the sessions.
+
+In the end each individual
+received 10 hours of practical sessions instead of 2 hours.
+
+Key Topics covered were:
+
+Basic understanding of computers and orientation
+and key features of Microsoft officeUse
+of the internet and google searchHow
+to use social media; create a Facebook account and an email account.Use
+of tablets for searching the internet and google.
+
+There were pre and post questionnaires
+provided using the basic digital skills questionnaire which showed progress
+made and more importantly, the enormous amount of interest being shown by those
+who participated / benefited from the project.
+
+18 individuals have come forward
+asking for more sessions
+
+About 10 individuals could not
+participated due to childcare issues but have shown an interest and agreed to
+put their name down in the case of childcare support becoming available.
+
+Furthermore, one of the
+interesting features from the project was that many other women, who have heard
+about the workshops through friends and family, have been enquiring about
+future workshops.  Though the project has
+ended in terms of timescale REACH intends to continue to engage with the
+service users and in particular, those who have benefited from the project to
+help them to use REACH ehealth features on the website.
+
+Another feature of the project
+was to redevelop the website and enhance the interactive features.
+
+Key benefits of the website:
+
+eHealth with individuals able to book
+appointments with REACH services i.e. counsellingAgencies including GP practitioners are able to
+refer clients online.Partners / GP’s will have access to the clients
+referred by them, allowing them to see the progress of the clients.REACH now has an eLibrary with access to
+Employability and Health related research and project reports for users to
+benefit from.
+
+
+
+Though not fully functional,
+through the website, we will pilot a feature which will allow the public to comment
+on their experience of using Health and Wellbeing services.
+
+Summary
+
+We soon hope to launch and
+showcase our ehealth features of the website and there is certainly a demand
+for more interactive workshops for EM women in particular.  We also have ideas to develop our Mental
+Health counselling service and digitise, to target more young people with a
+specialism in EM individuals.
+
+Lessons Learned
+
+To bring in support in different
+languages and provide more time with:
+
+Enhanced support for certain EM
+communities whilst helping to them to learn about I.T. and in particular, we
+believe there is a need for more explanation of the benefits of using the
+internet with specific examples provided.
+
+
 
