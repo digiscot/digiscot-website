@@ -17,9 +17,8 @@ The following criteria are essential and projects must meet them to be considere
 * Awards will typically range from £500 to £10,000; applications for more than this will only be considered in exceptional circumstances.
 * Successful organisations must have already joined [Scotland&#39;s Digital Participation Charter](http://charter.scvo.org.uk) or commit to doing so.
 * To help us understand what the project has achieved and what lessons others can learn, successful projects will be required to:
-  {:.browser-default}
-  * Ask the individuals they&#39;re supporting to fill out a short questionnaire to gauge their [basic digital skills](/participation/basic-digital-skills/).
-  * Provide regular progress updates by posting content to your project page (here&#39;s [an example](/participation/projects/comas/)).
+  1. Ask the individuals they&#39;re supporting to fill out a short questionnaire to gauge their [basic digital skills](/participation/basic-digital-skills/).
+  2. Provide regular progress updates by posting content to your project page (here&#39;s [an example](/participation/projects/comas/)).
 
 Applications are unlikely to be considered which:
 
