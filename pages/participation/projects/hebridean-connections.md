@@ -37,7 +37,7 @@ Level 1 - aimed at those who have never used a computer before
 
 Level 2 - own or have used a computer/device but need specific advice on things such as set up
 
-Level 3 - [Basic Digital Skills](http://digital.scvo.org.uk/about/basic-digital-skills/) training
+Level 3 - [Basic Digital Skills](http://digital.scvo.org.uk/participation/basic-digital-skills/) training
 
 Level 4 - More advanced IT skills training often on particular software such as Excel or Photoshop
 

@@ -21,9 +21,9 @@ submenu: participation-projects
         </p>
 
         <p>
-            You can also <a href="/projects/tags/">explore the projects by tag</a>
-            or <a href="/projects/tags/#call1">by date funded</a>, or
-            <a href="/projects/map/">see an interactive map</a> of where things
+            You can also <a href="/participation/projects/tags/">explore the projects by tag</a>
+            or <a href="/participation/projects/tags/#call1">by date funded</a>, or
+            <a href="/participation/projects/map/">see an interactive map</a> of where things
             are happening.
         </p>
     </div>
@@ -74,23 +74,23 @@ submenu: participation-projects
                             </div>
                             <div class="card-action">
                                 {% if page.call == 1 %}
-                                    <a href="/projects/tags/#call1" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#call1" class="chip teal white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Winter 2014
                                     </a>
                                 {% elsif page.call == 2 %}
-                                    <a href="/projects/tags/#call2" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#call2" class="chip teal white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Spring 2015
                                     </a>
                                 {% elsif page.call == 3 %}
-                                    <a href="/projects/tags/#call3" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#call3" class="chip teal white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Winter 2015
                                     </a>
                                 {% endif %}
                                 {% for tag in sortedtags %}
-                                    <a href="/projects/tags/#{{ tag }}" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#{{ tag }}" class="chip teal white-text">
                                         <i class="fa fa-fw fa-tag"></i>
                                         {{ tag }}
                                     </a>
@@ -130,9 +130,9 @@ submenu: participation-projects
 
         {% assign sortedtags = tags | split:'|' | sort %}
 
-        <small><a href="/projects/tags/">Tags:<a/></small>
+        <small><a href="/participation/projects/tags/">Tags:<a/></small>
         {% for tag in sortedtags %}
-            <a href="/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a>
+            <a href="/participation/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a>
         {% endfor %}
     </div>
 </div>

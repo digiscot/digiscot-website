@@ -8,12 +8,14 @@ submenu: participation-apply-for-funding
 
 ## Context
 
-We&#39;re working with the definition of [basic digital skills](/about/basic-digital-skills/) developed by Go ON UK. This highlights five key skills with a safety element underpinning them:
-- Communicating
-- Transacting
-- Managing Info
-- Problem Solving
-- Creating
+We're working with the definition of [basic digital skills](/participation/basic-digital-skills/) developed by Go ON UK. This highlights five key skills with a safety element underpinning them:
+
+{:.browser-default}
+* Communicating
+* Transacting
+* Managing Info
+* Problem Solving
+* Creating
 
 Basic digital skills are the starting point on a pathway and identify the foundations that everyone needs to be able to use the internet effectively. Building these skills across Scotland&#39;s communities has the potential to make a significant contributing in tackling exclusion and inequality.
 

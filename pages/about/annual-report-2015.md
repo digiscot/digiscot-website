@@ -76,7 +76,7 @@ Since then, we have been working hard to advance the digital participation agend
 
 If we want to understand how the internet is changing lives, it's important to measure people's ability to use it for the things that matter to them - and not just count the number of households with a broadband subscription or smartphone.
 
-We're working with the definition of [basic digital skills](/about/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
+We're working with the definition of [basic digital skills](/participation/basic-digital-skills/) developed by [Go ON UK](http://www.go-on.co.uk). This highlights five key skills:
 
 1. **Managing information**
 Find, manage and store digital information and content
@@ -152,9 +152,9 @@ We are working with all of our partners to make connections between those who sh
 
 ### Community projects
 
-Our community projects are on the front line when it comes to delivering digital participation and basic digital skills. Based on the principles outlined above - local and hyperlocal interventions, community led and based on user needs - we have awarded over £350,000 across [55 projects](/projects/) that we think have the potential to make a real difference on the ground. Together, these projects will aim to help up to 10,000 people gain basic digital skills.
+Our community projects are on the front line when it comes to delivering digital participation and basic digital skills. Based on the principles outlined above - local and hyperlocal interventions, community led and based on user needs - we have awarded over £350,000 across [55 projects](/participation/projects/) that we think have the potential to make a real difference on the ground. Together, these projects will aim to help up to 10,000 people gain basic digital skills.
 
-These projects are small, local and together span the length and breadth of Scotland. They are employing a range of approaches, from structured learning to informal efforts run by friends and neighbours. And the locus for each is different depending on the interests of the people they are working with, so things like local history, employability, culture and walking - rather than keyboards and mice - are taking centre stage. Each of the projects has a [page on our website](/projects/) where you can find out more about their story and how they are getting on.
+These projects are small, local and together span the length and breadth of Scotland. They are employing a range of approaches, from structured learning to informal efforts run by friends and neighbours. And the locus for each is different depending on the interests of the people they are working with, so things like local history, employability, culture and walking - rather than keyboards and mice - are taking centre stage. Each of the projects has a [page on our website](/participation/projects/) where you can find out more about their story and how they are getting on.
 
 As well as supporting the delivery of basic digital skills via charities and voluntary organisations, through this work we are also improving our understanding of the types of support that community digital participation projects need. Of all the applications that we received, more than eight in ten asked for support to acquire equipment (particularly tablets and smartphones), half asked for help with marketing their activities (including on social media), and half asked for help attracting volunteers.
 
@@ -197,7 +197,7 @@ Now is also the time to redouble our efforts to connect digital participation to
 Delivering digital participation for Scotland is, and always will be, a team effort. Before you close this page, here are some of the ways that you can get involved:
 
 * Sign the [Digital Participation Charter](http://charter.scvo.org.uk/)
-* Start your own [community project](/projects/)
+* Start your own [community project](/participation/projects/)
 * Come along to our [events](/events/) and make connections with like-minded people
 
 And if you're in a position to contribute material support, then we'd love to hear from:
