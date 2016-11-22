@@ -19,9 +19,9 @@ innovation:
     path: /innovation/
     parent: true
   - title: Milo library
-    path: /innovation/milo-library/
+    path: /innovation/milo/library/
   - title: Milo training
-    path: /innovation/milo-training/
+    path: /innovation/milo/training/
 
 evolution:
   - title: Evolution
