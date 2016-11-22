@@ -69,3 +69,26 @@ participation-apply-for-funding:
     path: /participation/apply-for-funding/funding-criteria/
   - title: Apply now
     path: /participation/apply-for-funding/apply-now/
+
+about:
+  - title: About
+    path: /about/
+    parent: true
+  - title: Annual Report 2015
+    path: /about/annual-report-2015/
+  - title: Contact
+    path: /about/contact/
+
+footer:
+  - title: About
+    path: /about/
+    icon: info-circle
+  - title: Contact
+    path: /about/contact/
+    icon: bullhorn
+  - title: Follow @digiscot
+    path: https://twitter.com/digiscot
+    icon: twitter
+  - title: Join our e:bulletin
+    path: /about/#subscribe
+    icon: envelope

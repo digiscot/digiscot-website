@@ -2,24 +2,7 @@
     <div class="container-fluid">
         <div class="row valign-wrapper">
             <div class="col s12 m3 l3">
-                <ul class="fa-ul white-text">
-                    <li>
-                        <i class="fa-li fa fa-info-circle"></i>
-                        <a href="/about/" class="white-text">About</a>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-bullhorn"></i>
-                        <a href="/contact/" class="white-text">Contact</a>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-twitter"></i>
-                        <a href="https://twitter.com/digiscot" class="white-text">Follow @digiscot</a>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-envelope"></i>
-                        <a href="/about/#subscribe" class="white-text">Join our mailing list</a>
-                    </li>
-                </ul>
+                {% include menu.html menuPath="footer" aClass="fa-ul white-text" %}
             </div>
             <div class="col s12 m5 l5 white-text">
                 <p>The Scottish Council for Voluntary Organisations (SCVO) is a Scottish Charitable Incorporated Organisation,

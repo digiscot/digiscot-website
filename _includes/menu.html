@@ -1,11 +1,15 @@
 {% if site.data.menu[include.menuPath] %}
-    <ul>
+    <ul {% if include.ulClass %}class="{{ include.ulClass }}"{% endif %}>
         {% for item in site.data.menu[include.menuPath] %}
-            <!-- include.submenu: {{ include.submenu }} item.parent: {{ item.parent }} -->
             {% if include.submenu == true %}
                 {% if item.parent == nil %}
                     <li {% if item.path == page.url %} class="active" {% endif %}>
-                        <a href="{{ item.path }}">{{ item.title }}</a>
+                        <a href="{{ item.path }}" {% if include.aClass %}class="{{ include.aClass }}"{% endif %}>
+                            {% if item.icon %}
+                                <i class="fa fa-li fa-{{ item.icon }}"></i>
+                            {% endif %}
+                            {{ item.title }}
+                        </a>
                         {% if include.submenu %}
                             {% include menu.html menuPath=item.submenu submenu=include.submenu %}
                         {% endif %}
@@ -14,7 +18,12 @@
             {% else %}
                 {% if item.parent == nil %}
                     <li {% if item.path == page.url %} class="active" {% endif %}>
-                        <a href="{{ item.path }}">{{ item.title }}</a>
+                        <a href="{{ item.path }}" {% if include.aClass %}class="{{ include.aClass }}"{% endif %}>
+                            {% if item.icon %}
+                                <i class="fa fa-fw fa-{{ item.icon }}"></i>
+                            {% endif %}
+                            {{ item.title }}
+                        </a>
                         {% if include.submenu %}
                             {% include menu.html menuPath=item.submenu submenu=include.submenu %}
                         {% endif %}
@@ -22,7 +31,12 @@
                 {% else %}
                     <li {% if item.path == page.url %} class="active" {% endif %}>
                         <strong>
-                        <a href="{{ item.path }}">{{ item.title }}</a>
+                            <a href="{{ item.path }}" {% if include.aClass %}class="{{ include.aClass }}"{% endif %}>
+                                {% if item.icon %}
+                                    <i class="fa fa-fw fa-{{ item.icon }}"></i>
+                                {% endif %}
+                                {{ item.title }}
+                            </a>
                         </strong>
                     </li>
                     <li><i class="fa fa-fw fa-chevron-right"></i></li>
