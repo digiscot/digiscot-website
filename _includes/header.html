@@ -4,9 +4,9 @@
             <a href="/" class="brand-logo">
                 <img src="/images/scvo-inverse.png" height="40" style="vertical-align:middle;margin-top:-5px;">
             </a>
-            <ul class="right hide-on-med-and-down">
-                {% include menu.html menuName="main" submenu=false %}
-            </ul>
+            <span class="right hide-on-med-and-down">
+                {% include menu.html menuPath="root" submenu=false %}
+            </span>
             <a href="#" data-activates="side-nav" class="button-collapse">
                 <i class="material-icons">menu</i>
             </a>
@@ -14,7 +14,7 @@
     </div>
 </nav>
 <div id="side-nav" class="side-nav">
-    {% include menu.html menuName="side" submenu=true %}
+    {% include menu.html menuPath="root" submenu=true %}
 </div>
 <div id="scaffold"></div>
 {% include masthead.html %}

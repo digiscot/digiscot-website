@@ -1,24 +1,8 @@
 {% if page.submenu %}
-    {% for item in site.data.menu %}
-        {% if item.path == page.submenu %}
-            {% assign title = item.title %}
-            {% assign subitems = item.submenu %}
-        {% endif %}
-    {% endfor %}
     <nav class="blue darken-4 hide-on-med-and-down">
         <div class="container-fluid">
             <div class="nav-wrapper">
-                <ul>
-                    <li>
-                        <a href="{{ page.submenu }}">
-                            <strong>{{ title }}</strong>
-                        </a>
-                    </li>
-                    <li><i class="fa fa-fw fa-chevron-right"></i></li>
-                    {% for item in subitems %}
-                        <li><a href="{{ item.path }}">{{ item.title }}</a></li>
-                    {% endfor %}
-                </ul>
+                {% include menu.html menuPath=page.submenu submenu=false %}
             </div>
         </div>
     </nav>

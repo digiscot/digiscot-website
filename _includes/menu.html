@@ -1,18 +1,33 @@
-<ul>
-    {% for item in site.data.menu %}
-        {% if item.show contains include.menuName %}
-            <li>
-                <a href="{{ item.path }}">
-                    {{ item.title }}
-                </a>
-                {% if item.submenu and include.submenu %}
-                    <ul>
-                        {% for subitem in item.submenu %}
-                            <li><a href="{{ subitem.path }}">{{ subitem.title }}</a></li>
-                        {% endfor %}
-                    </ul>
+{% if site.data.menu[include.menuPath] %}
+    <ul>
+        {% for item in site.data.menu[include.menuPath] %}
+            <!-- include.submenu: {{ include.submenu }} item.parent: {{ item.parent }} -->
+            {% if include.submenu == true %}
+                {% if item.parent == nil %}
+                    <li {% if item.path == page.url %} class="active" {% endif %}>
+                        <a href="{{ item.path }}">{{ item.title }}</a>
+                        {% if include.submenu %}
+                            {% include menu.html menuPath=item.submenu submenu=include.submenu %}
+                        {% endif %}
+                    </li>
                 {% endif %}
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
+            {% else %}
+                {% if item.parent == nil %}
+                    <li {% if item.path == page.url %} class="active" {% endif %}>
+                        <a href="{{ item.path }}">{{ item.title }}</a>
+                        {% if include.submenu %}
+                            {% include menu.html menuPath=item.submenu submenu=include.submenu %}
+                        {% endif %}
+                    </li>
+                {% else %}
+                    <li {% if item.path == page.url %} class="active" {% endif %}>
+                        <strong>
+                        <a href="{{ item.path }}">{{ item.title }}</a>
+                        </strong>
+                    </li>
+                    <li><i class="fa fa-fw fa-chevron-right"></i></li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
