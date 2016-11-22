@@ -122,11 +122,7 @@ put their name down in the case of childcare support becoming available.
 Furthermore, one of the
 interesting features from the project was that many other women, who have heard
 about the workshops through friends and family, have been enquiring about
-<<<<<<< HEAD
 future workshops.  Though the project has
-=======
-future workshops.  Though the project has
->>>>>>> origin/master
 ended in terms of timescale REACH intends to continue to engage with the
 service users and in particular, those who have benefited from the project to
 help them to use REACH ehealth features on the website.
@@ -153,11 +149,7 @@ Summary
 
 We soon hope to launch and
 showcase our ehealth features of the website and there is certainly a demand
-<<<<<<< HEAD
 for more interactive workshops for EM women in particular.  We also have ideas to develop our Mental
-=======
-for more interactive workshops for EM women in particular.  We also have ideas to develop our Mental
->>>>>>> origin/master
 Health counselling service and digitise, to target more young people with a
 specialism in EM individuals.
 
@@ -171,9 +163,4 @@ communities whilst helping to them to learn about I.T. and in particular, we
 believe there is a need for more explanation of the benefits of using the
 internet with specific examples provided.
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 
