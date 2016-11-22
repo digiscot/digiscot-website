@@ -76,6 +76,8 @@ about:
   - title: About
     path: /about/
     parent: true
+  - title: Board
+    path: /about/board/
   - title: Annual Report 2015
     path: /about/annual-report-2015/
   - title: Contact

@@ -1,0 +1,41 @@
+---
+layout: default
+title: Board
+excerpt: Who's who on our cross-sector leadership group.
+permalink: /about/board/
+fa-icon: fa-users
+submenu: about
+---
+
+<div class="section">
+    <div class="container-fluid flow-text">
+        <h2>Meet the team</h2>
+        <p>Who's who in the digital participation team at SCVO.</p>
+
+        <div class="team-cards" data-columns>
+            {% for item in site.data.board %}
+                <div class="card hoverable">
+                    <div class="card-image">
+                        <img src="/images/board/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                    </div>
+                    <div class="card-content">
+                        <strong>{{ item.name }}</strong><br />
+                        {% if item.job %}
+                            {{ item.job }}<br />
+                        {% endif %}
+                        {% if item.phone %}
+                            <a href="tel:{{ item.phone }}">{{ item.phone }}</a><br />
+                        {% endif %}
+                    </div>
+                    {% if item.twitter %}
+                        <div class="card-action team-social">
+                            <a href="https://twitter.com/{{ item.twitter }}" class="teal-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+</div>
