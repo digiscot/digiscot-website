@@ -1,29 +1,25 @@
 {% unless page.hide-masthead %}
-    {% if page.fa-icon or page.icon %}
-    {% assign has-icon = true %}
-    {% assign icon-col = "m2 l1" %}
-    {% assign text-col = "m10 l11" %}
-    {% else %}
-    {% assign has-icon = false %}
-    {% assign icon-col = "m0 l0" %}
-    {% assign text-col = "m12 l12" %}
-    {% endif %}
-
-    <div class="masthead blue darken-2">
+    <div class="masthead blue darken-2 white-text flow-text">
         <div class="container-fluid">
             <div class="row valign-wrapper">
-                {% if has-icon %}
-                <div class="col s12 {{ icon-col }}">
+                {% if page.fa-icon or page.icon %}
+                <div class="col s12 m3 l2 hide-on-small-only center-align">
                     {% if page.fa-icon %}
-                    <i class="fa {{ page.fa-icon }} fa-5x white-text"></i>
+                    <i class="fa {{ page.fa-icon }} fa-fw fa-4x white-text"></i>
                     {% elsif page.icon %}
-                    <img src="{{ page.icon }}" class="responsive-img" width="80">
+                    <i class="fa fa-fw fa-4x">
+                        <img src="{{ page.icon }}" class="responsive-img">
+                    </i>
                     {% endif %}
                 </div>
                 {% endif %}
-                <div class="col s12 {{ text-col }} white-text flow-text">
-                    <h1>{{ page.title }}</h1>
-                    <div class="excerpt">{{ page.excerpt }}</div>
+                <div class="col s12 m9 l10">
+                    <h1>
+                        <mark>{{ page.title }}</mark>
+                    </h1>
+                    <p class="excerpt">
+                        <mark>{{ page.excerpt }}</mark>
+                    </p>
                 </div>
             </div>
         </div>

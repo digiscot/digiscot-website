@@ -79,6 +79,14 @@ ul.browser-default{
     }
 }
 
+mark {
+    padding:5px 0;
+}
+.blue mark{
+    background-color: #fff;
+    color: $h1-font-color;
+}
+
 // Spacing and that
 
 ul.browser-default li{
@@ -103,6 +111,9 @@ ul.browser-default li{
     }
     h1{
         margin:0;
+    }
+    .excerpt{
+        margin-bottom:0;
     }
 }
 
