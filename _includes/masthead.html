@@ -1,7 +1,7 @@
 {% unless page.hide-masthead %}
     <div class="masthead blue darken-2 white-text flow-text">
         <div class="container-fluid">
-            <div class="row valign-wrapper">
+            <div class="row {% if page.fa-icon or page.icon %}valign-wrapper{% endif %}">
                 {% if page.fa-icon or page.icon %}
                 <div class="col s12 m3 l2 hide-on-small-only center-align">
                     {% if page.fa-icon %}
