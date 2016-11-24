@@ -18,10 +18,10 @@
 
     <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="{{ site.url | append: '/css/main.css' }}" />
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml" /> {% include analytics.html %}
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url | append: '/feed.xml' }}" /> {% include analytics.html %}
 
 </head>
