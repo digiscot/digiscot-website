@@ -38,7 +38,10 @@
         }
         $('html, body').animate({
             scrollTop: $el.offset().top
-        }, 400, function(){
+        }, {
+            duration: 400,
+            queue: false
+        }, function(){
             window.location.hash = el;
         });
     }
@@ -50,6 +53,10 @@
             scrollTo(anchor);
         }, 400);
     }
+
+    $(window).on('mousewheel', function(){
+        $('html, body').stop();
+    });
 
     $(document).ready(function(){
         $(".button-collapse").sideNav();
