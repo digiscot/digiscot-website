@@ -25,6 +25,8 @@ $(document).ready(function () {
         }
     });
 
+    $('.parallax').parallax();
+
     $.localScroll({
         duration: 400,
         hash: true

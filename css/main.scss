@@ -277,6 +277,29 @@ h2 {
     color: $primary-color
 }
 
+.parallax-container{
+    height:300px;
+}
+
+.parallax{
+    >img{
+        opacity:0.2;
+    }
+    box-shadow: inset 0px -5px 5px -5px rgba(0,0,0,0.75);
+    .container-fluid{
+        position:absolute;
+        img{
+            display:block;
+            position:relative;
+            left:auto;
+            bottom:auto;
+            min-width:auto;
+            min-height:auto;
+            transform: none;
+        }
+    }
+}
+
 // Team
 
 .team-image{
