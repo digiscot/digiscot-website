@@ -35,7 +35,7 @@ If your project is successful, then you will also have some key obligations as p
 * Provide regular online feedback / blog on your project&#39;s progress
 * Submit a short final evaluation, including evidence from [the basic digital skills](/files/BDS-assessment.pdf) questionnaire to be used with individuals you support.
 
-Further terms and conditions will apply. You can [download a copy of the contract](/files/Challenge%20Fund%20Contract.pdf) to ensure you can comply.
+Further terms and conditions will apply. <!--You can [download a copy of the contract](/files/Challenge%20Fund%20Contract.pdf) to ensure you can comply.-->
 
 
 <div class="section headingless">
