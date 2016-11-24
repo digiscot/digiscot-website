@@ -6,4 +6,4 @@ permalink: /participation/one-digital/
 submenu: participation
 ---
 
-## Please check back soon
+## We have now completed year one of the One Digital project
