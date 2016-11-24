@@ -57,7 +57,7 @@ In this section we’d like you to tell us about the money.  How much your proje
 * **Total amount of funding you are applying for** – please note, the maximum that can be applied for is £10,000. Any projects seeking a larger investment must contact SCVO Digital Team in advance of applying to discuss further.
 * **Main Items of Expenditure** – Please list up to six principle items of expenditure (a minimum of one must be given) – we will need to see a description of the item and the budgeted cost. Please check your figures carefully!
 
-####Project Milestones
+#### Project Milestones
 These Milestones should form your project plan
 
 {:.browser-default}
