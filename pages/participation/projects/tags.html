@@ -34,10 +34,10 @@ fa-icon: fa-tags
     <ul class="collapsible" data-collapsible="accordion">
       {% for tag in sortedtags %}
         <li>
-          <a href="#{{ tag }}" id="{{ tag }}" class="collapsible-header">
+          <div id="{{ tag }}" class="collapsible-header">
             <i class="fa fa-fw fa-tag"></i>
             {{ tag | capitalize }}
-          </a>
+          </div>
           <div class="collapsible-body">
             <ul class="browser-default">
               {% for page in site.pages %}
