@@ -1,7 +1,7 @@
 # Site settings
 title: SCVO | Digital Participation
 description: We think the internet should be for everyone, so we're leading an ambitious programme to promote digital participation and basic online skills.
-url: "//digital.scvo.org.uk"
+url: "http://digital.scvo.org.uk"
 permalink: /onedigital/blog/:title/
 
 # Account settings
