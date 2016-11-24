@@ -212,6 +212,14 @@ nav#header{
     }
 }
 
+.back-next{
+    display:block;
+    margin: 20px auto;
+    i{
+        color:#000!important;
+    }
+}
+
 // Columns stuff
 
 [data-columns]{

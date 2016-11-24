@@ -29,9 +29,25 @@
 
 <script>
     function scrollTo(el){
-        $el = $(el);
+        var $el = $('a[name="' + el.replace('#', '') + '"]');
+        if($el.length === 0){
+            $el = $(el);
+        }
+        if($el.length === 0){
+            return;
+        }
         $('html, body').animate({
             scrollTop: $el.offset().top
+        }, 400, function(){
+            window.location.hash = el;
+        });
+    }
+
+    function hashChange(){
+        var anchor = window.location.hash;
+        $(anchor).trigger('click');
+        window.setTimeout(function(){
+            scrollTo(anchor);
         }, 400);
     }
 
@@ -43,14 +59,16 @@
         headroom.init();
 
         if(window.location.hash){
-            var anchor = window.location.hash;
-            $(anchor).trigger('click');
-            window.setTimeout(function(){
-                $('html, body').animate({
-                    scrollTop: $(anchor).offset().top
-                }, 400);
-            }, 400);
+            hashChange();
         }
+
+        $(window).on('hashchange', hashChange);
+        $('a[href^="#"]').on('click', function(){
+            var $o = $(this);
+            var anchor = $o.attr('href');
+            scrollTo(anchor);
+            return false;
+        });
 
         $('.collapsible').collapsible({
             onOpen: function(el) {
