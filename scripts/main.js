@@ -1,32 +1,10 @@
-function scrollTo(el) {
-    var $el = $('a[name="' + el.replace('#', '') + '"]');
-    if ($el.length === 0) {
-        $el = $(el);
-    }
-    if ($el.length === 0) {
-        return;
-    }
-    $('html, body').animate({
-        scrollTop: $el.offset().top
-    }, {
-            duration: 400,
-            queue: false
-        }, function () {
-            window.location.hash = el;
-        });
-}
-
 function hashChange() {
     var anchor = window.location.hash;
     $(anchor).trigger('click');
     window.setTimeout(function () {
-        scrollTo(anchor);
+        //scrollTo(anchor);
     }, 400);
 }
-
-$(window).on('mousewheel', function () {
-    $('html, body').stop();
-});
 
 $(document).ready(function () {
     $(".button-collapse").sideNav();
@@ -39,20 +17,16 @@ $(document).ready(function () {
         hashChange();
     }
 
-    $(window).on('hashchange', hashChange);
-    $('a[href^="#"]').on('click', function () {
-        var $o = $(this);
-        var anchor = $o.attr('href');
-        scrollTo(anchor);
-        return false;
-    });
-
     $('.collapsible').collapsible({
         onOpen: function (el) {
             window.setTimeout(function () {
                 headroom.unpin();
             }, 400);
         }
+    });
+
+    $.localScroll({
+        duration: 400
     });
 
     if ($('#events').length > 0) {
