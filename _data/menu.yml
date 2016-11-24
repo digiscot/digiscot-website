@@ -43,6 +43,8 @@ participation:
     path: /participation/basic-digital-skills/
   - title: Browse the library
     path: /participation/library/
+  - title: One Digital
+    path: /participation/one-digital/
 
 participation-projects:
   - title: Participation

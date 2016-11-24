@@ -314,3 +314,19 @@ h2 {
         margin:0 60px;
     }
 }
+
+// ScrollFire
+
+.sf-fade{
+    opacity: 0;
+}
+
+.sf-ul li{
+    opacity:0;
+}
+
+@keyframes slide-in {
+    100% {
+        opacity: 1;
+    }
+}
