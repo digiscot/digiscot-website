@@ -26,7 +26,8 @@ $(document).ready(function () {
     });
 
     $.localScroll({
-        duration: 400
+        duration: 400,
+        hash: true
     });
 
     if ($('#events').length > 0) {
