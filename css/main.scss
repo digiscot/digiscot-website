@@ -56,15 +56,7 @@ body {
 }
 
 #site{
-    display: flex;
     min-height: 100vh;
-    flex-direction: column;
-    flex: 1 0 auto;
-    flex-flow: row wrap;
-}
-
-#site > *{
-    flex: 1 100%;
 }
 
 strong {
