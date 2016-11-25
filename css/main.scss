@@ -288,7 +288,11 @@ h2 {
     box-shadow: inset 0px -5px 5px -5px rgba(0,0,0,0.75);
     .container-fluid{
         position:absolute;
-        left: 2.5vw;
+        left: 50%;
+        .center-fix{
+            position:relative;
+            left:-50%;
+        }
         img{
             display:block;
             position:relative;

@@ -1,30 +1,32 @@
 {% unless page.hide-masthead %}
     <div class="parallax-container">
-    <div class="masthead blue darken-2 white-text flow-text parallax valign-wrapper">
-        <img src="https://source.unsplash.com/collection/136279" style="max-width:100%;">
-        <div class="container-fluid">
-            <div class="row {% if page.fa-icon or page.icon %}valign-wrapper{% endif %}">
-                {% if page.fa-icon or page.icon %}
-                <div class="col s12 m3 l2 hide-on-small-only center-align">
-                    {% if page.fa-icon %}
-                    <i class="fa {{ page.fa-icon }} fa-fw fa-4x white-text"></i>
-                    {% elsif page.icon %}
-                    <i class="fa fa-fw fa-4x">
-                        <img src="{{ page.icon }}" class="responsive-img">
-                    </i>
-                    {% endif %}
-                </div>
-                {% endif %}
-                <div class="col s12 m9 l10">
-                    <h1>
-                        <mark>{{ page.title }}</mark>
-                    </h1>
-                    <p class="excerpt">
-                        <mark>{{ page.excerpt }}</mark>
-                    </p>
+        <div class="masthead blue darken-2 white-text flow-text parallax valign-wrapper">
+            <img src="https://source.unsplash.com/collection/136279" style="max-width:100%;">
+            <div class="container-fluid">
+                <div class="center-fix">
+                    <div class="row {% if page.fa-icon or page.icon %}valign-wrapper{% endif %}">
+                        {% if page.fa-icon or page.icon %}
+                        <div class="col s12 m3 l2 hide-on-small-only center-align">
+                            {% if page.fa-icon %}
+                            <i class="fa {{ page.fa-icon }} fa-fw fa-4x white-text"></i>
+                            {% elsif page.icon %}
+                            <i class="fa fa-fw fa-4x">
+                                <img src="{{ page.icon }}" class="responsive-img">
+                            </i>
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                        <div class="col s12 m9 l10">
+                            <h1>
+                                <mark>{{ page.title }}</mark>
+                            </h1>
+                            <p class="excerpt">
+                                <mark>{{ page.excerpt }}</mark>
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 {% endunless %}
