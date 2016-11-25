@@ -1,100 +1,100 @@
 root:
   - title: Home
-    path: /
+    path:
   - title: Participation
-    path: /participation/
+    path: participation/
     submenu: participation
   - title: Evolution
-    path: /evolution/
+    path: evolution/
     submenu: evolution
   - title: Innovation
-    path: /innovation/
+    path: innovation/
     submenu: innovation
   - title: About
-    path: /about/
+    path: about/
     submenu: about
 
 innovation:
   - title: Innovation
-    path: /innovation/
+    path: innovation/
     parent: true
   - title: Milo library
-    path: /innovation/milo/library/
+    path: innovation/milo/library/
   - title: Milo training
-    path: /innovation/milo/training/
+    path: innovation/milo/training/
 
 evolution:
   - title: Evolution
-    path: /evolution/
+    path: evolution/
     parent: true
   - title: One Digital events
-    path: /evolution/one-digital-meetups/
+    path: evolution/one-digital-meetups/
 
 participation:
   - title: Participation
-    path: /participation/
+    path: participation/
     parent: true
   - title: Apply for funding
-    path: /participation/apply-for-funding/
+    path: participation/apply-for-funding/
     submenu: participation-apply-for-funding
   - title: Projects
-    path: /participation/projects/
+    path: participation/projects/
   - title: Basic digital skills
-    path: /participation/basic-digital-skills/
+    path: participation/basic-digital-skills/
   - title: Browse the library
-    path: /participation/library/
+    path: participation/library/
   - title: One Digital
-    path: /participation/one-digital/
+    path: participation/one-digital/
 
 participation-projects:
   - title: Participation
-    path: /participation/
+    path: participation/
     parent: true
   - title: Projects
-    path: /participation/projects/
+    path: participation/projects/
     parent: true
   - title: Project Tags
-    path: /participation/projects/tags/
+    path: participation/projects/tags/
 
 participation-apply-for-funding:
   - title: Participation
-    path: /participation/
+    path: participation/
     parent: true
   - title: Apply for Funding
-    path: /participation/apply-for-funding/
+    path: participation/apply-for-funding/
     parent: true
   - title: Context
-    path: /participation/apply-for-funding/context/
+    path: participation/apply-for-funding/context/
   - title: Learning to be considered
-    path: /participation/apply-for-funding/learning-to-be-considered/
+    path: participation/apply-for-funding/learning-to-be-considered/
   - title: Funding criteria
-    path: /participation/apply-for-funding/funding-criteria/
+    path: participation/apply-for-funding/funding-criteria/
   - title: FAQ
-    path: /participation/apply-for-funding/faq/
+    path: participation/apply-for-funding/faq/
   - title: Apply now
-    path: /participation/apply-for-funding/apply-now/
+    path: participation/apply-for-funding/apply-now/
 
 about:
   - title: About
-    path: /about/
+    path: about/
     parent: true
   - title: Board
-    path: /about/board/
+    path: about/board/
   - title: Annual Report 2015
-    path: /about/annual-report-2015/
+    path: about/annual-report-2015/
   - title: Contact
-    path: /about/contact/
+    path: about/contact/
 
 footer:
   - title: About
-    path: /about/
+    path: about/
     icon: info-circle
   - title: Contact
-    path: /about/contact/
+    path: about/contact/
     icon: bullhorn
   - title: Follow @digiscot
     path: https://twitter.com/digiscot
     icon: twitter
   - title: Join our e:bulletin
-    path: /about/#subscribe
+    path: about/#subscribe
     icon: envelope

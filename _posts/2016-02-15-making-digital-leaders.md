@@ -14,15 +14,15 @@ We invited applications from Senior Leaders from across the sector to join Actio
 
 **The response was fantastic** – 48 senior leaders applied. Interestingly the majority of applications were from paid staff, rather than trustees:
 
-<img alt="Chart 1" height="190" src="//www.scvo.org.uk/wp-content/uploads/2016/02/Chart1-300x184.jpg" width="309" />
+<img alt="Chart 1" height="190" src="/www.scvo.org.uk/wp-content/uploads/2016/02/Chart1-300x184.jpg" width="309" />
 
 Applications came from across the sector, with the highest proportion from organisations with a health focus:
 
-<img alt="Chart 2" height="202" src="//www.scvo.org.uk/wp-content/uploads/2016/02/Chart2-300x202.jpg" width="300" />
+<img alt="Chart 2" height="202" src="/www.scvo.org.uk/wp-content/uploads/2016/02/Chart2-300x202.jpg" width="300" />
 
 All applicants were asked to identify the areas where they faced the biggest challenge, and felt that action learning could help them to find solutions. Again the responses showed a wide variety of issues and interests:
 
-<img alt="Chart 3" height="204" src="//www.scvo.org.uk/wp-content/uploads/2016/02/Chart3-300x198.jpg" width="309" />
+<img alt="Chart 3" height="204" src="/www.scvo.org.uk/wp-content/uploads/2016/02/Chart3-300x198.jpg" width="309" />
 
 We are going to run three separate sets to offer places to as many people as possible. We will also be rolling out networking events to build on the interest and demand, and to better understand why we didn't receive more applications from trustees.
 

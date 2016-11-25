@@ -1,15 +1,17 @@
+<!DOCTYPE html>
 <head>
-    <base href="{{ site.github.url}}" />
+    <base href="{{site.github.url}}/">
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}"> {% include social-graph-tags.html %}
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
+    {% include social-graph-tags.html %}
 
-    <link rel="icon" href="{{ site.url | append: '/images/favicon.ico' }}" />
-    <link rel="image_src" href="{{ site.url | append: '/images/image.png' }}" />
-    <link rel="apple-touch-icon" href="{{ site.url | append: '/images/image.png' }}" />
+    <link rel="icon" href="images/favicon.ico" />
+    <link rel="image_src" href="images/image.png" />
+    <link rel="apple-touch-icon" href="images/image.png" />
 
     <!--[if lt IE 9] >
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -18,10 +20,10 @@
 
     <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="{{ site.url | append: '/css/main.css' }}" />
+    <link rel="stylesheet" href="css/main.css" />
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="canonical" href="{{ site.github.url | replace:'index.html','' | prepend: site.url }}">
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url | append: '/feed.xml' }}" /> {% include analytics.html %}
-
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="feed.xml" />
+    {% include analytics.html %}
 </head>
