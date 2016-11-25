@@ -9,14 +9,14 @@ submenu: innovation
 
 ### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#orgmilo">Managing Organisations in Milo</a>
-3. <a href="#nav">Navigate to Organisations - Home</a>
-4. <a href="#search">Search for an organisation</a>
-5. <a href="#viewedit">View and edit an organisation</a>
-6. <a href="#new">Create a new organisation</a>
-7. <a href="#adding">Adding locations, contacts, opportunities etc.</a>
-8. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#orgmilo">Managing Organisations in Milo</a>
+3. <a href="{{ page.url }}#nav">Navigate to Organisations - Home</a>
+4. <a href="{{ page.url }}#search">Search for an organisation</a>
+5. <a href="{{ page.url }}#viewedit">View and edit an organisation</a>
+6. <a href="{{ page.url }}#new">Create a new organisation</a>
+7. <a href="{{ page.url }}#adding">Adding locations, contacts, opportunities etc.</a>
+8. <a href="{{ page.url }}#sum">Summary</a>
 
 
 
@@ -39,7 +39,7 @@ For an Organisation, Milo provides a wide range of fields in which data can be r
 Organisation records are the heart of the system. Most other parts of the system interact with organisations in some way, including contacts, volunteer opportunities, interactions and memberships.
 
 
- <a href="#top">Back to Top.</a>
+ <a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Organisations in Milo <a name="orgmilo"></a>
 
@@ -52,7 +52,7 @@ Click on the Organisations tab at the top of the screen to go to the Organisatio
 When you create your own views, these will be available from this dropdown.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Search for an organisation** <a name="search"></a>
 
@@ -67,7 +67,7 @@ Alternatively, you can use views (see module 01) to set up a specific filter for
 Whichever method you use will return a list of organisations. Click on any of the organisation names to access the record.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **View and edit an organisation** <a name="viewedit"></a>
 
@@ -98,7 +98,7 @@ The page will open in edit view, allowing you to update and change any data on t
 ![Edit View](/images/milo training/02_orgedit.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Create a new organisation** <a name="new"></a>
 
@@ -123,7 +123,7 @@ You will then see the view organisation screen as before:
 ![Org Screen](/images/milo training/02_orgscreen.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Adding locations, contacts, opportunities etc.** <a name="adding"></a>
 
@@ -144,7 +144,7 @@ Now look at the Locations object at the top of the record – you will see it no
 ![Location Object](/images/milo training/02_locobject.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -160,6 +160,6 @@ These skills are transferrable across the other Milo objects (Volunteer Opportun
 
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

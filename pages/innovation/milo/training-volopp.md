@@ -10,17 +10,17 @@ submenu: innovation
 
 #### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#manage">Managing Volunteering Opportunities in Milo</a>
-3. <a href="#nav">Navigate to Volunteering Opportunities - Home</a>
-4. <a href="#search">Search for a volunteering opportunity</a>
-5. <a href="#view">View and edit a volunteering opportunity</a>
-6. <a href="#create">Create a new volunteering opportunity</a>
-7. <a href="#volopp">Creating a placement from a volunteering opportunity</a>
-8. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#manage">Managing Volunteering Opportunities in Milo</a>
+3. <a href="{{ page.url }}#nav">Navigate to Volunteering Opportunities - Home</a>
+4. <a href="{{ page.url }}#search">Search for a volunteering opportunity</a>
+5. <a href="{{ page.url }}#view">View and edit a volunteering opportunity</a>
+6. <a href="{{ page.url }}#create">Create a new volunteering opportunity</a>
+7. <a href="{{ page.url }}#volopp">Creating a placement from a volunteering opportunity</a>
+8. <a href="{{ page.url }}#sum">Summary</a>
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Introduction <a name="intro"></a>
 
@@ -29,7 +29,7 @@ This training module can also be downloaded in PDF form. <a href="/files/Milo 20
 Volunteering opportunities enable users to record the relevant data about a new opportunity. When a volunteering opportunity is created, it is possible to create a placement with a relevant volunteer registration.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Volunteering Opportunities in Milo <a name="manage"></a>
 
@@ -42,7 +42,7 @@ When you create your own views, these will be available from this dropdown.
 ![Volunteer Opportunities](/images/milo training/05_volopp.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Search for a volunteering opportunity** <a name="search"></a>
 
@@ -63,7 +63,7 @@ Whichever method you use will return a list of volunteer opportunities. Click on
 ![Recent](/images/milo training/05_recent.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **View and edit a volunteer opportunity** <a name="view"></a>
 
@@ -101,7 +101,7 @@ The page will open in edit view, allowing you to update and change any data on t
 ![Volunteer Oppourtunity Edit](/images/milo training/05_voloppedit.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Create a new volunteering opportunity** <a name="create"></a>
 
@@ -132,7 +132,7 @@ Once you have added the mandatory fields plus any other information, click Save.
 n.b. – you can also attach existing a volunteering opportunity direct from an existing organisation record (see module 01).
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Creating a placement from a volunteering opportunity** <a name="volopp"></a>
 
@@ -163,7 +163,7 @@ You will be returned to the volunteering opportunity view page. If you hover ove
 n.b. you can also create a placement direct from a Volunteer Registration record – see module 04 for details.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -180,6 +180,6 @@ These skills are transferrable across the other Milo objects (Organisations, Vol
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at milosupport@scvo.org.uk
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

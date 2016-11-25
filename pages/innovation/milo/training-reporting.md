@@ -9,14 +9,14 @@ submenu: innovation
 
 ### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#orgmilo">Managing Reports in Milo</a>
-3. <a href="#nav">Navigate to Reports - Home</a>
-4. <a href="#search">Search for a Report</a>
-5. <a href="#viewedit">View and edit a Report</a>
-6. <a href="#new">Create a new Report</a>
-7. <a href="#adding">Basic features of Reports.</a>
-8. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#orgmilo">Managing Reports in Milo</a>
+3. <a href="{{ page.url }}#nav">Navigate to Reports - Home</a>
+4. <a href="{{ page.url }}#search">Search for a Report</a>
+5. <a href="{{ page.url }}#viewedit">View and edit a Report</a>
+6. <a href="{{ page.url }}#new">Create a new Report</a>
+7. <a href="{{ page.url }}#adding">Basic features of Reports.</a>
+8. <a href="{{ page.url }}#sum">Summary</a>
 
 #### Inroduction <a name="intro"></a>
 
@@ -42,7 +42,7 @@ Below are two videos on Reporting, they take you through the basic steps of crea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mL2YZ1eRjcY" frameborder="0" allowfullscreen></iframe>
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Reports in Milo <a name="orgmilo"></a>
 
@@ -52,7 +52,7 @@ Click on the Reports tab at the top of the screen to go to the Reports home page
 
 ![Navigate](/images/milo training/a01_navigate.png)
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Search for a Report** <a name="search"></a>
 
@@ -62,7 +62,7 @@ You can search for any report on the database using the Report Search box at the
 
 To search for a Report, simply type the name or part of the name into the search box. Try typing ‘Postcode’. You will now see any Reports with ‘Postcode’ in the title.
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **View and edit a Report** <a name="viewedit"></a>
 
@@ -82,7 +82,7 @@ The page will open in the customize view, allowing you to update and change any 
 
 ![VE Customize 2](/images/milo training/a06_VECustomize2.png)
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Create a new Report** <a name="new"></a>
 
@@ -102,7 +102,7 @@ You will now be presented with the Unsaved Report screen.
 
 ![Unsaved Page](/images/milo training/a10_unsaved.png)
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Basic features of Reports** <a name="adding"></a>
 
@@ -133,7 +133,7 @@ Once you have run the report, you will be presented with the report data. Here y
 
 ![Run Report Page 2](/images/milo training/a16_run2.png)
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -150,6 +150,6 @@ These skills will help you to extract the specific information that you require 
 Remember - for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

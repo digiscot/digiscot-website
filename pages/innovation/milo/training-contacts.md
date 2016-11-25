@@ -8,15 +8,15 @@ submenu: innovation
 
 #### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#manage">Managing Contacts in Milo</a>
-3. <a href="#nav">Navigate to Contacts - Home</a>
-4. <a href="#search">Search for a contact</a>
-5. <a href="#view">View and edit a contact</a>
-6. <a href="#create">Create a new contact</a>
-7. <a href="#addorg">Adding organisation affiliations to a contact</a>
-8. <a href="#addvol">Adding a volunteer registration to a contact</a>
-9. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#manage">Managing Contacts in Milo</a>
+3. <a href="{{ page.url }}#nav">Navigate to Contacts - Home</a>
+4. <a href="{{ page.url }}#search">Search for a contact</a>
+5. <a href="{{ page.url }}#view">View and edit a contact</a>
+6. <a href="{{ page.url }}#create">Create a new contact</a>
+7. <a href="{{ page.url }}#addorg">Adding organisation affiliations to a contact</a>
+8. <a href="{{ page.url }}#addvol">Adding a volunteer registration to a contact</a>
+9. <a href="{{ page.url }}#sum">Summary</a>
 
 
 #### Inroduction <a name="intro"></a>
@@ -38,7 +38,7 @@ Once a contact record has been set up, it can then be associated with other obje
 * By attaching a membership record
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Contacts in Milo <a name="manage"></a>
 
@@ -51,7 +51,7 @@ When you create your own views, these will be available from this dropdown.
 ![Views](/images/milo training/03_views.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Search for a contact** <a name="search"></a>
 
@@ -68,7 +68,7 @@ Alternatively, you can use views (see module 01) to set up a specific filter for
 Whichever method you use will return a list of contacts. Click on any of the contact names to access the record.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **View and edit a contact** <a name="view"></a>
 
@@ -97,7 +97,7 @@ The page will open in edit view, allowing you to update and change any data on t
 ![Edit Contact](/images/milo training/03_editcontact.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Create a new contact** <a name="create"></a>
 
@@ -124,7 +124,7 @@ Once you have added the mandatory fields plus any other information, click **Sav
 ![New Contacts Page](/images/milo training/03_completecontact.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Adding organisation affilations to a contact** <a name="addorg"></a>
 
@@ -149,7 +149,7 @@ Now look at ‘Organization Affliations’ at the top of the record – you will
 n.b. – you can also affiliate existing contacts to an organisation direct from the organisation record (see module 02). Obviously, if the contact does not exist yet you will have to create them following the steps above before they can be affiliated with an organisation.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Adding a volunteer registration to a contact** <a name="addvol"></a>
 
@@ -188,7 +188,7 @@ Now look at ‘Volunteer Registrations’ at the top of the contact record – y
 n.b. – you can also attach existing contacts to a volunteer registration direct from create new volunteer registration (see module 04). Once again, if the contact does not exist yet you will have to create them following the steps above before they can be attached to a volunteer registration.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -205,6 +205,6 @@ These skills are transferrable across the other Milo objects (volunteer Opportun
 Remember - for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

@@ -9,14 +9,14 @@ submenu: innovation
 
 ### Contents <a name="top"></a>
 
-1. <a href="#introduction">Introduction</a>
-2. <a href="#logging">Logging in</a>
-3. <a href="#steps">First steps and features</a>
-4. <a href="#objects">Milo objects</a>
-5. <a href="#views">Views</a>
-6. <a href="#adding">Adding an object tab to your display</a>
-7. <a href="#salesforce">Salesforce help and training</a>
-8. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#introduction">Introduction</a>
+2. <a href="{{ page.url }}#logging">Logging in</a>
+3. <a href="{{ page.url }}#steps">First steps and features</a>
+4. <a href="{{ page.url }}#objects">Milo objects</a>
+5. <a href="{{ page.url }}#views">Views</a>
+6. <a href="{{ page.url }}#adding">Adding an object tab to your display</a>
+7. <a href="{{ page.url }}#salesforce">Salesforce help and training</a>
+8. <a href="{{ page.url }}#sum">Summary</a>
 
 
 
@@ -31,7 +31,7 @@ For the most part, Milo 2 uses the same data types (organisations, contacts, opp
 If you just want to get the basics, module 00 – **Quick Start Guide**, will enable you to access the system and start exploring. If you would like more step by step guidance, just start working through the rest of the modules.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Logging in <a name="logging"></a>
 
@@ -44,7 +44,7 @@ To access Milo, go to <a href="https://login.salesforce.com/">https://login.sale
 ![Log Screen](/images/milo training/00_log_screen.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### First steps and features <a name="steps"></a>
 
@@ -89,7 +89,7 @@ This list will be blank the first time you log in. but as you investigate the sy
 Lastly, if you accidentally delete a record, fear not – there’s now a recycle bin so you can view and restore recently-deleted items if necessary.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Milo Objects <a name="objects"></a>
 
@@ -106,7 +106,7 @@ Don’t worry if no organisations are showing first time. The home screen defaul
 Although viewing recent organisations is often a very quick way of getting to the record you want, it is possible to set up different views to bring up the records you work with most often.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Views <a name="views"></a>
 
@@ -169,7 +169,7 @@ Now click on the Save button at the bottom of the screen and that’s it – you
 Instead of thousands of results, you can now view the 20 organisations on the database which are registered charities and have names beginning with the word ‘Airdrie’.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Adding an object tab to your display <a name="adding"></a>
 
@@ -204,7 +204,7 @@ In this example, we’ve added Reports and removed Volunteering Opportunities an
 If you change your mind, you can go back and add or remove tabs at any time.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Salesforce help and training <a name="salesforce"></a>
 
@@ -223,7 +223,7 @@ You can usually find the answer to any question about Salesforce by typing your 
 Remember, for Milo-specific questions (e.g. “how do I create a new interaction with an organisation?”), it’s best to refer to the training documentation or contact the Milo team on [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk) – but for questions about Salesforce itself, the online help and training is a fantastic resource.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -241,6 +241,6 @@ This gives you the basic skills you need to navigate around Milo and make use of
 Remember – if you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

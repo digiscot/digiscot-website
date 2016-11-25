@@ -8,14 +8,14 @@ submenu: innovation
 
 ### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#separate">Separating delineated lists into separate cells</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#separate">Separating delineated lists into separate cells</a>
 
 #### Inroduction <a name="intro"></a>
 
 This Reporting tips training module has been designed to provide you with several tips to help you use the features of reporting easier and more efficently.
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Separating delineated lists into separate cells** <a name="separate"></a>
 
@@ -56,6 +56,6 @@ All you have to do now is add relevant headers to your new columns, e.g. Main Ac
 
 ![Create 2](/images/milo training/b08_Tips.png )
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

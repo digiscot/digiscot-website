@@ -10,14 +10,14 @@ submenu: innovation
 
 #### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#manage">Managing Interactions in Milo</a>
-3. <a href="#nav">navigate to an interaction with an organisation</a>
-4. <a href="#incvol">Navigate to an interaction with a contact (including volunteers)</a>
-5. <a href="#view">View and edit an interaction</a>
-6. <a href="#create">Create a new interaction</a>
-7. <a href="#task">Assigning a task from an interaction</a>
-8. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#manage">Managing Interactions in Milo</a>
+3. <a href="{{ page.url }}#nav">navigate to an interaction with an organisation</a>
+4. <a href="{{ page.url }}#incvol">Navigate to an interaction with a contact (including volunteers)</a>
+5. <a href="{{ page.url }}#view">View and edit an interaction</a>
+6. <a href="{{ page.url }}#create">Create a new interaction</a>
+7. <a href="{{ page.url }}#task">Assigning a task from an interaction</a>
+8. <a href="{{ page.url }}#sum">Summary</a>
 
 
 
@@ -32,14 +32,14 @@ Interactions in the new Milo system have been revamped to provide a more streaml
 While it is possible to view historic interactions, together with the old subcategory, interactions from June 2015 will be recorded using the new interaction field.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Interactions in Milo <a name="mange"></a>
 
 One difference of interaction to other objects on the system is you will normally want to view and add interaction as they relate to a particular organisation or contact.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Navigate to an interaction with an organisation** <a name="nav"></a>
 
@@ -58,7 +58,7 @@ Hover over the link to see the main details of the organisations interaction:
 So to view the interaction record, simply click on the reference number.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Navigate to an interaction with a contact (including volunteers)** <a name="incvol"></a>
 
@@ -75,7 +75,7 @@ Hover over the link to see the main details of the contact interaction:
 ![Interaction Tab](/images/milo training/06_inttab.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 ** View and edit an interaction ** <a name="view"></a>
 
@@ -98,7 +98,7 @@ The page will open in edit view, allowing you to update and change any data on t
 ![Edit Page](/images/milo training/06_editpage.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Create a new interaction** <a name="create"></a>
 
@@ -135,7 +135,7 @@ Once you have added the mandatory fields plus any other information, click Save.
 To create a new interaction with a contact, repeat the steps above, but starting from a contact record rather than an organisation record.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Assigning a task from an interaction** <a name="task"></a>
 
@@ -164,7 +164,7 @@ To view an existing task, click on the action type under ‘Subject’ to open u
 ![Task View](/images/milo training/06_taskview.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -180,6 +180,6 @@ These skills are transferrable across the other Milo objects (Organisations, Vol
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

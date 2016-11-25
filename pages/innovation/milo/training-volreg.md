@@ -10,14 +10,14 @@ submenu: innovation
 
 #### Contents <a name="top"></a>
 
-1. <a href="#intro">Introduction</a>
-2. <a href="#manage">Managing Volunteer Registrations in Milo</a>
-3. <a href="#nav">Navigate to Volunteer Registrations - Home</a>
-4. <a href="#search">Search for a volunteer registration</a>
-5. <a href="#editvol">View and edit a volunteer registration</a>
-6. <a href="#newvol">Create a new volunteer registration</a>
-7. <a href="#create">Creating a placement from volunteer registration</a>
-8. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#intro">Introduction</a>
+2. <a href="{{ page.url }}#manage">Managing Volunteer Registrations in Milo</a>
+3. <a href="{{ page.url }}#nav">Navigate to Volunteer Registrations - Home</a>
+4. <a href="{{ page.url }}#search">Search for a volunteer registration</a>
+5. <a href="{{ page.url }}#editvol">View and edit a volunteer registration</a>
+6. <a href="{{ page.url }}#newvol">Create a new volunteer registration</a>
+7. <a href="{{ page.url }}#create">Creating a placement from volunteer registration</a>
+8. <a href="{{ page.url }}#sum">Summary</a>
 
 
 #### Introduction <a name="intro"></a>
@@ -29,7 +29,7 @@ Volunteer registrations enable users to record the relevant data about a volunte
 Volunteer registrations cannot be created without an associated contact record. Because volunteer registrations contain potentially sensitive data about individuals, they cannot be viewed by unauthorised users (e.g. staff from other TSIs).
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Volunteer Registrations in Milo <a name="manage"></a>
 
@@ -42,7 +42,7 @@ When you create your own views, these will be available from this dropdown.
 ![Volunteer Registration Views](/images/milo training/04_volregview.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Search for a volunteer registration** <a name="search"></a>
 
@@ -63,7 +63,7 @@ Whichever method you use will return a list of volunteer registrations. Click on
 ![Recent Volunteer Registration](/images/milo training/04_recentvolreg.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **View and edit a volunteer registration** <a name="editvol"></a>
 
@@ -101,7 +101,7 @@ The page will open in edit view, allowing you to update and change any data on t
 ![Edit Page](/images/milo training/04_editpage.PNG)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Create a new volunteer registration** <a name="newvol"></a>
 
@@ -133,7 +133,7 @@ Once you have added the mandatory fields plus any other information, click Save.
 n.b. – you can also attach existing a volunteer registration direct from an existing contact record (see module 03).
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 **Creating a placement from volunteer registration** <a name="create"></a>
 
@@ -164,7 +164,7 @@ You will be returned to the volunteer registration view page. If you hover over 
 n.b. you can also create a placement direct from a Volunteering Opportunity record – see module 05 for details.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -181,6 +181,6 @@ These skills are transferrable across the other Milo objects (Organisations, Vol
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>

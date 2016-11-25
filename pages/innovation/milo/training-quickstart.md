@@ -9,12 +9,12 @@ submenu: innovation
 
 ### Contents <a name="top"></a>
 
-1. <a href="#introduction">Introduction</a>
-2. <a href="#logging in">Logging in</a>
-3. <a href="#first steps">First Steps and Features</a>
-4. <a href="#search for">Search for, accessand edit an organisation</a>
-5. <a href="#salesforce">Salesforce help and training</a>
-6. <a href="#sum">Summary</a>
+1. <a href="{{ page.url }}#introduction">Introduction</a>
+2. <a href="{{ page.url }}#logging in">Logging in</a>
+3. <a href="{{ page.url }}#first steps">First Steps and Features</a>
+4. <a href="{{ page.url }}#search for">Search for, accessand edit an organisation</a>
+5. <a href="{{ page.url }}#salesforce">Salesforce help and training</a>
+6. <a href="{{ page.url }}#sum">Summary</a>
 
 
 #### Video Walkthrough of Milo 2.
@@ -48,7 +48,7 @@ This module will allow you to get logged in and using the system.
 For the most part, Milo 2 uses the same data types (organisations, contacts, opportunities) as the original Milo system, so once you become accustomed to the new user interface, it should be fairly straightforward to navigate around the system as before.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Logging in <a name="logging in"></a>
 
@@ -65,7 +65,7 @@ This video will show you how you can reset your password within Milo 2.
 <iframe width="280" height="158" src="https://www.youtube.com/embed/CCSotI8K1YY" frameborder="0" allowfullscreen></iframe>
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### First steps and features <a name="first steps"></a>
 
@@ -110,7 +110,7 @@ This list will be blank the first time you log in. but as you investigate the sy
 Lastly, if you accidentally delete a record, fear not – there’s now a recycle bin so you can view and restore recently-deleted items if necessary.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Search for, access and edit an organisation <a name="search for"></a>
 
@@ -197,7 +197,7 @@ You will now see the new location, which is associated with the organisation.
 Try clicking on the name of the organisation under ‘Recent Items’ to go back in to the record and check that the number of locations has increased by 1.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Salesforce help and training <a name="salesforce"></a>
 
@@ -217,7 +217,7 @@ You can usually find the answer to any question about Salesforce by typing your 
 Remember, for Milo-specific questions (e.g. “how do I create a new interaction with an organisation?”), it’s best to refer to the training documentation or contact the Milo team on [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk) – but for questions about Salesforce itself, the online help and training is a fantastic resource.
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Summary <a name="sum"></a>
 
@@ -235,6 +235,6 @@ You can use the same techniques to navigate around Milo and start to explore the
 Remember – for more step by step advice, see the individual training modules. If you have any problems or get stuck, you can contact the Milo team at [milosupport@scvo.org.uk](mailto:milosupport@scvo.org.uk)
 
 
-<a href="#top">Back to Top.</a>
+<a href="{{ page.url }}#top">Back to Top.</a>
 
 <a href="/innovation/milo-training/" class="btn btn-primary btn-lg">Training Materials</a>
