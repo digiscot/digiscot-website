@@ -1,7 +1,7 @@
 {% unless page.hide-masthead %}
-    {% if page.url == '/about1/' %}<div class="parallax-container">{% endif %}
-    <div class="masthead blue darken-2 white-text flow-text {% if page.url == '/about1/' %}parallax valign-wrapper{% endif %}">
-        {% if page.url == '/about1/' %}<img src="https://www.visitscotland.com/cms-images/attractions/edinburgh-skyline-calton-hill?view=Standard" style="max-width:100%;">{% endif %}
+    <div class="parallax-container">
+    <div class="masthead blue darken-2 white-text flow-text parallax valign-wrapper">
+        <img src="https://source.unsplash.com/collection/136279" style="max-width:100%;">
         <div class="container-fluid">
             <div class="row {% if page.fa-icon or page.icon %}valign-wrapper{% endif %}">
                 {% if page.fa-icon or page.icon %}
@@ -26,5 +26,5 @@
             </div>
         </div>
     </div>
-    {% if page.url == '/about12/' %}</div>{% endif %}
+    </div>
 {% endunless %}
