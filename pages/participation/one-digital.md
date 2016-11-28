@@ -14,4 +14,4 @@ Over the course of the year we have raised the profile of digital participation 
 
 We have tested a range of delivery models, working with frontline staff and senior leaders from diverse organisations. The University of the West of Scotland have evaluated these different approaches. 
 
-<a href="/files/MCS SCVO Report WEB.pdf" class="btn white-text">Read their full report here</a>
+<a href="files/MCS SCVO Report WEB.pdf" class="btn white-text">Read their full report here</a>
