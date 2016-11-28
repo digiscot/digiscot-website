@@ -45,8 +45,7 @@ participation:
     path: participation/library/
   - title: One Digital
     path: participation/one-digital/
-    submenu: participation/one-digital/
-
+    
 participation-projects:
   - title: Participation
     path: participation/
