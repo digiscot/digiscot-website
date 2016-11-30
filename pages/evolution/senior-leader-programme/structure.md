@@ -6,7 +6,7 @@ permalink: /evolution/senior-leader-programme/structure/
 submenu: senior-leader-programme
 ---
 
-##Structure 
+## Structure 
 
 Successful applicants for the One Digital senior leader development programme will participate in five full day sessions between Jan-May 2017. At the start of each session an expert speaker will provide a short input, but the bulk of the day will use action learning methodology where participants challenge and explore together. 
 
@@ -14,7 +14,8 @@ This is not a training programme and the facilitator is not there to provide sol
 
 Two cohorts will be run on the dates outlined below. The locations are provided as advisory but will be confirmed once applicants have been selected. 
 
-###Cohort 1
+### Cohort 1
+
 | Date          | Time          | Location TBC  | Topic               |
 | ------------- | -------------:| :-----:       | :---------------:   |
 | 26 Jan 2017   | 10:00-16:00   | Glasgow       | Leadership          |
@@ -24,7 +25,8 @@ Two cohorts will be run on the dates outlined below. The locations are provided 
 | 30 May 2017   | 10:00-16:00   | Edinburgh     | Utilising Data      |
 
 
-###Cohort 2
+### Cohort 2
+
 | Date          | Time          | Location TBC  | Topic               |
 | ------------- | -------------:| :-----:       | :---------------:   |
 |  2 Feb 2017   | 10:00-16:00   | Glasgow       | Leadership          |
