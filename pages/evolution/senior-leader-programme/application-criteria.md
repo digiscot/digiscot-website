@@ -6,7 +6,7 @@ permalink: /evolution/senior-leader-programme/application-criteria/
 submenu: evolution-senior-leader-programme
 ---
 
-##Application criteria and conditions
+## Application criteria and conditions
 
 The following criteria are essential, and you must meet them to be considered for this programme:
 
