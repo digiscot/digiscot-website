@@ -18,6 +18,7 @@ The following criteria are essential, and you must meet them to be considered fo
 *	Openness to peer learning and challenge, not expecting to be given solutions by the facilitator 
 
 Willingness to participate in the following activities:
+
 {:.browser-default}
 * Engage in evaluation activity about the impact of the programme 
 * Benchmark the level of digital maturity of your organisation 
