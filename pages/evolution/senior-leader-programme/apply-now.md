@@ -8,7 +8,7 @@ submenu: evolution-senior-leader-programme
 
 ## Apply now
 
-<a href="/evolution/senior-leader-programme/index.md/" class="btn white-text">Please read the guidance notes first</a>
+<a href="evolution/senior-leader-programme/index.md/" class="btn white-text">Please read the guidance notes first</a>
 
 The application process consists of one online form that must be fully completed before your application will be assessed. The timescale for the application process is outlined below. 
 
@@ -21,9 +21,16 @@ The application process consists of one online form that must be fully completed
 
 Please note that applications will be assessed by a panel comprised of representatives from SCVO and independent representatives from the third sector. 
 
-Successful candidates will be asked to sign  participant agreement accepting the application conditions [outlined here](www.digital.scvo.org.uk/evolution/application-criteria). 
+Successful candidates will be asked to sign  participant agreement accepting the application conditions [outlined here](digital.scvo.org/evolution/senior-leader-programme/application-criteria). 
 
 The application form will ask about your organisation, your reasons for wanting to be part of this programme and how you rate your current progress in each of the five key areas emphasised in the Call to Action. 
+
+{:.browser-default}
+* How to develop as an effective digital leader
+* How to support your organisation to adopt a digital culture
+* Exploring how digital can enhance your service delivery
+* Being driven by data
+* Introducing more flexible technologies
 
 If you have any questions about the application process or the development programme please email onedigital@scvo.org.uk 
 
@@ -35,8 +42,7 @@ If you have any questions about the application process or the development progr
 </div>
 
 <div class="section headingless">
-    <a href="files/Senior-Leader-Development-Programme" class="btn white-text right">
-        <i class="fa fa-pull-right fa-pencil"></i>
-        Download a PDF version of these guidance notes
+    <a href="files/Senior-Leader-Development-Programme.pdf" class="btn white-text right">
+       Download a PDF version of these guidance notes
     </a>
 </div>
