@@ -10,7 +10,7 @@ submenu: evolution-senior-leader-programme
 
 There is an increasing recognition and focus on the role of leadership to help drive digital change within organisations. 
 
-The evaluation of the 2016 senior leader action learning sets demonstrated the huge value of giving space and focus to digital, and having a safe peer support environment in which to do this. The leaders who met in 2016 are continuing their journey with ongoing regular meetings. They have shared their stories throughout the process, see for example [Mary Allison from Breast Cancer Now](https://www.youtube.com/watch?v=C0kGyhe4g3k) or read this blog by [Neil Clapperton, CEO at Grampion Housing](http://www.scvo.org.uk/blog/digital-licence-great-things/. 
+The evaluation of the 2016 senior leader action learning sets demonstrated the huge value of giving space and focus to digital, and having a safe peer support environment in which to do this. The leaders who met in 2016 are continuing their journey with ongoing regular meetings. They have shared their stories throughout the process, see for example [Mary Allison from Breast Cancer Now](https://www.youtube.com/watch?v=C0kGyhe4g3k) or read this blog by [Neil Clapperton, CEO at Grampion Housing](http://www.scvo.org.uk/blog/digital-licence-great-things/). 
 
 [The New Reality](http://thenewreality.info/) research report explored what is means to be a third sector digital leader with over 50 leaders and digital experts. It highlights themes and issues that were common across organisations, and suggests some of the key takeaways from these discussions. It has a focus on both leadership and culture.
 
