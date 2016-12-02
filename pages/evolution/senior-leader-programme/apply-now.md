@@ -8,7 +8,7 @@ submenu: evolution-senior-leader-programme
 
 ## Apply now
 
-<a href="evolution/senior-leader-programme/index.md/" class="btn white-text">Please read the guidance notes first</a>
+<a href="evolution/senior-leader-programme/index/" class="btn white-text">Please read the guidance notes first</a>
 
 The application process consists of one online form that must be fully completed before your application will be assessed. The timescale for the application process is outlined below. 
 
@@ -32,7 +32,7 @@ The application form will ask about your organisation, your reasons for wanting 
 * Being driven by data
 * Introducing more flexible technologies
 
-If you have any questions about the application process or the development programme please email onedigital@scvo.org.uk 
+If you have any questions about the application process or the development programme please email [onedigital@scvo.org.uk](mailto:onedigital@scvo.org.uk) 
 
 <div class="section headingless">
     <a href="http://forms.scvo.org.uk/s3/Digital-Leaders" class="btn white-text right">
@@ -42,7 +42,7 @@ If you have any questions about the application process or the development progr
 </div>
 
 <div class="section headingless">
-    <a href="files/Senior-Leader-Development-Programme.pdf" class="btn white-text right">
+    <a href="files/Senior-leader-programme.pdf" class="btn white-text right">
        Download a PDF version of these guidance notes
     </a>
 </div>
