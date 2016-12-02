@@ -1,0 +1,30 @@
+- name: Trello
+  icon: fa-trello
+  company: Trello Inc.
+  logo: trello-logo.svg
+  link: https://trello.com
+  company-link: https://trello.com/about
+  charity-discount: Yes
+  description: >
+    Trello is a collaborative project management tool which essentially
+    allows you to create online whiteboards which you can use to manage
+    backlogs of tasks and ideas for projects.
+  read-more: about/resources/trello/
+  categories:
+  - online-tools
+  - team-tools
+- name: Slack
+  icon: fa-slack
+  company: Slack Technologies
+  logo: slack-logo.svg
+  link: https://slack.com
+  company-link: https://slackhq.com/
+  charity-discount: Yes
+  description: >
+    Slack is a team communication tool. It allows people to create their
+    own chat rooms and discussions where they can post all types of content.
+    It also integrates well with other tools such as Trello and Github.
+  read-more: about/resources/slack/
+  categories:
+  - online-tools
+  - team-tools
