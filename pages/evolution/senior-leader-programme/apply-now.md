@@ -21,7 +21,7 @@ The application process consists of one online form that must be fully completed
 
 Please note that applications will be assessed by a panel comprised of representatives from SCVO and independent representatives from the third sector. 
 
-Successful candidates will be asked to sign  participant agreement accepting the application conditions [outlined here](digital.scvo.org/evolution/senior-leader-programme/application-criteria). 
+Successful candidates will be asked to sign  participant agreement accepting the application conditions [outlined here](evolution/senior-leader-programme/application-criteria). 
 
 The application form will ask about your organisation, your reasons for wanting to be part of this programme and how you rate your current progress in each of the five key areas emphasised in the Call to Action. 
 
