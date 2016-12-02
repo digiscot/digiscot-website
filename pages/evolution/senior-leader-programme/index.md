@@ -24,7 +24,7 @@ Many leaders have told us they want to build their skills, confidence and unders
 Supported by the Big Lottery and facilitated by Ross McCulloch, applications for this programme are now open. There is a particular focus on supporting leaders from organisations that deliver frontline services designed to reduce social inequalities, and organisations that support groups at risk of digital exclusion. 
 
 <div class="section headingless">
-    <a href="/evolution/senior-leader-programme/context/" class="btn right">
+    <a href="evolution/senior-leader-programme/context/" class="btn right">
         <i class="fa fa-pull-right fa-chevron-right"></i>
         Next
     </a>
