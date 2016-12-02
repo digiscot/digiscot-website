@@ -15,7 +15,7 @@ This is not a training programme and the facilitator is not there to provide sol
 Two cohorts will be run on the dates outlined below. The locations are provided as advisory but will be confirmed once applicants have been selected. 
 
 ### Cohort 1
-{:.striped}
+
 | Date          | Time          | Location TBC  | Topic               |
 | ------------- | -------------:| :-----:       | :---------------:   |
 | 26 Jan 2017   | 10:00-16:00   | Glasgow       | Leadership          |
@@ -26,7 +26,7 @@ Two cohorts will be run on the dates outlined below. The locations are provided 
 
 
 ### Cohort 2
-{:.striped}
+
 | Date          | Time          | Location TBC  | Topic               |
 | ------------- | -------------:| :-----:       | :---------------:   |
 |  2 Feb 2017   | 10:00-16:00   | Glasgow       | Leadership          |
