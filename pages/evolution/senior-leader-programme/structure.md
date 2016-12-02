@@ -3,7 +3,7 @@ layout: markdown
 title: One Digital Senior Leadership Programme
 excerpt: Call for Applications – Dec 2016
 permalink: /evolution/senior-leader-programme/structure/
-submenu: senior-leader-programme
+submenu: evolution/senior-leader-programme
 ---
 
 ## Structure 
