@@ -8,7 +8,7 @@ submenu: evolution-senior-leader-programme
 
 ## Apply now
 
-<a href="evolution/senior-leader-programme/index/" class="btn white-text">Please read the guidance notes first</a>
+<a href="evolution/senior-leader-programme" class="btn white-text">Please read the guidance notes first</a>
 
 The application process consists of one online form that must be fully completed before your application will be assessed. The timescale for the application process is outlined below. 
 
