@@ -1,10 +1,10 @@
 <!-- Twitter Card data -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site:id" content="@{{ site.twitter }}" />
-<meta name="twitter:title" content="{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}" />
-<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.icon %}{{ page.icon | prepend: site.github.url | replace: 'http://', '//' }}{% else %}{{ '/images/image.png' | prepend: site.github.url | replace: 'http://', '//' }}{% endif %}" />
-<meta name="twitter:creator:id" content="{{ site.twitter | prepend: '@' }}" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site:id" content="@{{ site.twitter }}">
+<meta name="twitter:title" content="{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image" content="{% if page.icon %}{{ page.icon | prepend: site.github.url | replace: 'http://', '//' }}{% else %}{{ '/images/image.png' | prepend: site.github.url | replace: 'http://', '//' }}{% endif %}">
+<meta name="twitter:creator:id" content="{{ site.twitter | prepend: '@' }}">
 
 <!-- Open Graph data -->
 <meta property="og:title" content="{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}" />
