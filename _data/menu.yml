@@ -29,6 +29,10 @@ evolution:
     parent: true
   - title: One Digital events
     path: evolution/one-digital-meetups/
+  - title: Senior Leader Development Programme
+    path: evolution/senior-leader-programme
+    submenu: evolution-senior-leader-programme
+    
 
 participation:
   - title: Participation
@@ -73,6 +77,22 @@ participation-apply-for-funding:
     path: participation/apply-for-funding/faq/
   - title: Apply now
     path: participation/apply-for-funding/apply-now/
+
+evolution-senior-leader-programme:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Senior Leader Programme
+    path: evolution/senior-leader-programme/
+    parent: true
+  - title: Context
+    path: evolution/senior-leader-programme/context/
+  - title: Structure
+    path: evolution/senior-leader-programme/structure/
+  - title: Application criteria
+    path: evolution/senior-leader-programme/application-criteria/
+  - title: Apply now
+    path: evolution/senior-leader-programme/apply-now/
 
 about:
   - title: About
