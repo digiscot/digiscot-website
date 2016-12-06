@@ -1,0 +1,91 @@
+---
+layout: default
+title: Resources
+excerpt: Tools, Applications, and Services that you may find useful
+permalink: /about/resources/
+fa-icon: fa-wrench
+submenu: about
+---
+
+{% for item in site.data.resources %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'even' %}
+        {% assign section-class = 'blue darken-4' %}
+        {% assign text-class = 'grey-text text-lighten-2' %}
+        {% assign divider-class = 'white' %}
+    {% else %}
+        {% assign section-class = '' %}
+        {% assign text-class = '' %}
+        {% assign divider-class = '' %}
+    {% endif %}
+
+    <div class="section {{ section-class }} {{ text-class }}">
+        <div class="container-fluid flow-text">
+            <div class="row valign-wrapper">
+                <div class="col s12 {% if item.logo %}m8{% else %}m12{% endif %} {{ text-class }}">
+                    <ul>
+                        <li>
+                            <h2 class="{{ text-class }}">
+                                <a href="{{ item.link }}" class="{{ text-class }}">
+                                    {% if item.icon %}
+                                        <i class="fa fa-fw {{ item.icon }}"></i>
+                                    {% endif %}
+                                    {{ item.name }}
+                                </a>
+                            </h2>
+                        </li>
+                        {% if item.company %}
+                            <li>
+                                <strong>By:</strong>
+                                <a href="{{ item.company-link }}" class="{{ text-class }}">{{ item.company }}</a>
+                            </li>
+                        {% endif %}
+                        <li>
+                            <strong>Charity discount: </strong>
+                            {% if item.charity-discount %}
+                                Aye
+                                <i class="fa fa-fw fa-thumbs-up"></i>
+                            {% else %}
+                                Naw
+                                <i class="fa fa-fw fa-thumbs-down"></i>
+                            {% endif %}
+                        </li>
+                        <li>
+                            <strong>Categories: </strong>
+                            {% for category in item.categories %}
+                                <span class="chip">
+                                    <i class="fa fa-fw fa-tag"></i>
+                                    {{ category }}
+                                </span>
+                            {% endfor %}
+                        </li>
+                    </ul>
+                </div>
+                {% if item.logo %}
+                    <div class="col s12 m4">
+                        <div class="card panel">
+                            <div class="card-content">
+                                <a href="{{ item.link }}">
+                                    <img src="images/resources/{{ item.logo }}" class="responsive-img" alt="{{ item.name }} Logo">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="divider {{ divider-class }}"></div>
+
+            <p>{{ item.description }}</p>
+
+            {% if item.read-more %}
+                <p class="right-align">
+                    <a href="{{ item.read-more }}" class="btn">
+                        <i class="fa fa-fw fa-pull-right fa-chevron-right"></i>
+                        Read more
+                    </a>
+                </p>
+            {% endif %}
+        </div>
+    </div>
+{% endfor %}
