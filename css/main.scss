@@ -57,10 +57,6 @@ body {
     color:                          $base-font-color;
 }
 
-#site{
-    min-height: 100vh;
-}
-
 strong {
     font-weight: 700;
 }
@@ -144,15 +140,36 @@ nav#header{
     top: 0;
 }
 
+#header.headroom--pinned {
+        transform: translateY(0%);
+    }
+#header.headroom--unpinned {
+    transform: translateY(-100%);
+}
+
 .headroom {
     will-change: transform;
     transition: transform 200ms linear;
 }
-.headroom--pinned {
+
+.fixed-top{
+    position: absolute;
+    top:0;
+}
+
+nav#tag-header{
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+#tag-header.headroom--unpinned {
     transform: translateY(0%);
 }
-.headroom--unpinned {
-    transform: translateY(-100%);
+#tag-header.headroom--pinned {
+    transform: translateY(100%);
 }
 
 @media(max-width: $medium-screen){
@@ -212,6 +229,11 @@ nav#header{
     i{
         color:#000!important;
     }
+}
+
+.btn-block{
+    text-align:center;
+    width:100%;
 }
 
 // Columns stuff
@@ -289,8 +311,24 @@ h2 {
     background-color:#ffffff;
 }
 
+.right-image-card{
+    margin-left:15px;
+    margin-bottom:15px;
+}
+
 .parallax{
     box-shadow: inset 0px -5px 5px -5px rgba(0,0,0,0.75);
+    overflow:hidden;
+}
+
+.equal, .equal > div[class*='col'] {
+    display: -webkit-flex;
+    display: flex;
+    flex:1 1 auto;
+}
+
+.card.horizontal .card-image-fa{
+    padding-top:15px;
 }
 
 // Team

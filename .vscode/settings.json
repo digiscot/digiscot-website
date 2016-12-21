@@ -1,8 +1,0 @@
-{
-  "files.exclude": {
-    "_site": "explorerExcludedFiles",
-    ".sass-cache": "explorerExcludedFiles",
-    ".jekyll-metadata": "explorerExcludedFiles",
-    "nohup.out": "explorerExcludedFiles"
-  }
-}

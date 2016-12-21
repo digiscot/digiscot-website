@@ -1,0 +1,62 @@
+<div class="card pull-right right-image-card">
+    <div class="card-content">
+        {% if include.item.logo %}
+            <img src="{{ include.item.logo }}">
+        {% else %}
+            <img src="https://logo.clearbit.com/{{ include.item.url }}" data-fallback="images/no-logo.png">
+        {% endif %}
+    </div>
+    <a href="{{ include.item.url }}" class="btn btn-block">
+        <i class="fa fa-fw fa-external-link"></i>
+        Open
+    </a>
+</div>
+
+<h2>
+    <a href="{{ include.item.url }}">
+        {{ include.item.name }}
+    </a>
+</h2>
+
+<div>
+    <span class="chip">
+        <strong>Charity Discount: </strong>
+        {% if include.item.charity-discount %}
+            <i class="fa fa-fw fa-thumbs-up"></i>
+            Aye
+        {% else %}
+            <i class="fa fa-fw fa-thumbs-down"></i>
+            Naw
+        {% endif %}
+    </span>
+
+    {% if include.item.entry-cost or include.item.full-cost %}
+    <span class="chip">
+        <i class="fa fa-fw fa-gbp"></i>
+        {{ include.item.entry-cost }}
+        {% if include.item.entry-cost and include.item.full-cost %}
+            &mdash;
+        {% endif %}
+        {{ include.item.full-cost }}
+    </span>
+    {% endif %}
+
+    <i class="fa fa-fw fa-tags"></i><i class="fa fa-fw fa-chevron-right"></i>
+
+    {% unless include.item.tags and include.item.tags | size > 0 %}
+        <span class="chip">No Tags</span>
+    {% endunless %}
+
+    {% for tag in include.item.tags %}
+        <a href="{{ page.url }}#{{ tag }}" class="chip">
+            <i class="fa fa-fw fa-tag"></i>
+            {{ tag }}
+        </a>
+    {% endfor %}
+</div>
+
+<p>
+    {{ include.item.description }}
+</p>
+
+<div class="clearfix"></div>
