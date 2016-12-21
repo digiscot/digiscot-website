@@ -1,11 +1,12 @@
-var infowindow = new google.maps.InfoWindow();
-var mapOptions = {
-    mapTypeId: google.maps.MapTypeId.ROADMAP
-}
-var bounds = new google.maps.LatLngBounds();
-var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-
 $(document).ready(function(){
+    var infowindow = new google.maps.InfoWindow();
+    var mapOptions = {
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        scrollwheel: false,
+    }
+    var bounds = new google.maps.LatLngBounds();
+    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
     var postcodeChunks = [],
         size = 100,
         postcodeLookup = {},
