@@ -32,6 +32,8 @@ $(document).ready(function(){
     }
 
     function postcodesLoaded(){
+        var heatmapPoints = [];
+
         for(let p = 0; p < projects.length; p++){
             if(postcodeLookup.hasOwnProperty(projects[p].postcode)){
                 projects[p].geo = postcodeLookup[projects[p].postcode];
@@ -51,8 +53,24 @@ $(document).ready(function(){
                     infowindow.setContent(projects[p].contentString);
                     infowindow.open(map, projects[p].marker);
                 });
+
+                heatmapPoints.push({
+                    location: projects[p].marker.position,
+                    weight: projects[p].award / 1000
+                });
             }
         }
+
+        //var heatmap = new google.maps.visualization.HeatmapLayer({
+        //    data: heatmapPoints,
+        //    map: map,
+        //    radius: 50,
+        //    opacity: 0.5,
+        //    gradient: [
+        //        'rgba(0, 150, 0, 0)',
+        //        'rgba(0, 150, 0, 1)'
+        //    ]
+        //});
 
         map.fitBounds(bounds);
     }
