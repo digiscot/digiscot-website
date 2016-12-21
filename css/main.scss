@@ -15,14 +15,14 @@
 $base-font-family:                Helvetica, Arial, sans-serif;
 $base-font-size:                  16px;
 $base-font-weight:                300;
-$base-font-color:                 #666666;
+$base-font-color:                 #555555;
 
 $base-line-height:                1.5;
 
 $h1-font-family:                  Montserrat, Helvetica, Arial, sans-serif;
 $h1-font-size:                    48px;
 $h1-font-weight:                  700;
-$h1-font-color:                   rgb(0, 99, 175);
+$h1-font-color:                   #000000;
 
 $h-font-color:                    #000000;
 $h-font-weight:                   700;
@@ -210,6 +210,10 @@ nav#tag-header{
   }
 }
 
+.col .card{
+    width:100%;
+}
+
 .row.valign-wrapper{
     @media(max-width: $small-screen){
         display:block;
@@ -290,7 +294,7 @@ nav#tag-header{
 
 // Colors
 h2 {
-    color: $primary-color
+    //color: $primary-color
 }
 
 .parallax-container{
