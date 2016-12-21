@@ -1,10 +1,12 @@
 <div class="card pull-right right-image-card">
     <div class="card-content">
-        {% if include.item.logo %}
-            <img src="{{ include.item.logo }}">
-        {% else %}
-            <img src="https://logo.clearbit.com/{{ include.item.url }}" data-fallback="images/no-logo.png">
-        {% endif %}
+        <a href="{{ include.item.url }}" class="">
+            {% if include.item.logo %}
+                <img src="{{ include.item.logo }}">
+            {% else %}
+                <img src="https://logo.clearbit.com/{{ include.item.url }}" data-fallback="images/no-logo.png">
+            {% endif %}
+        </a>
     </div>
     <a href="{{ include.item.url }}" class="btn btn-block">
         <i class="fa fa-fw fa-external-link"></i>
