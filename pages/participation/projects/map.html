@@ -1,0 +1,47 @@
+---
+layout: default
+title: Projects Map
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+permalink: /participation/projects/map/
+fa-icon: fa-pin
+submenu: participation-projects
+scripts:
+    - http://maps.google.com/maps/api/js?key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo
+    - scripts/map.js
+---
+
+{% assign postcodes = '' | split: ',' %}
+{% assign projects = '' | split: ',' %}
+{% for page in site.pages %}
+    {% if page.layout == 'project' %}
+        {% assign title = page.title | jsonify %}
+        {% assign excerpt = page.excerpt | jsonify %}
+        {% assign lead = page.lead | jsonify %}
+        {% assign website = page.website | jsonify %}
+        {% assign email = page.email | jsonify %}
+        {% assign twitter-url = page.twitter-url | jsonify %}
+        {% assign facebook-url = page.facebook-url | jsonify %}
+        {% assign start = page.start | jsonify %}
+        {% assign end = page.end | jsonify %}
+        {% assign award = page.award | jsonify %}
+        {% assign postcode = page.postcode | jsonify %}
+        {% assign image = page.image | jsonify %}
+        {% assign tags = page.tags | jsonify %}
+        {% assign permalink = page.permalink | jsonify %}
+
+        {% assign projectTemplate = '{ title: [title], excerpt: [excerpt], lead: [lead], website: [website], email: [email], twitterUrl: [twitter-url], facebookUrl: [facebook-url], start: [start], end: [end], award: [award], postcode: [postcode], image: [image], tags: [tags], permalink: [permalink] }' %}
+        {% assign project = projectTemplate | replace: '[title]', title | replace: '[excerpt]', excerpt | replace: '[lead]', lead | replace: '[website]', website | replace: '[email]', email | replace: '[twitter-url]', twitter-url | replace: '[facebook-url]', facebook-url | replace: '[start]', start | replace: '[end]', end | replace: '[award]', award | replace: '[postcode]', postcode | replace: '[image]', image | replace: '[tags]', tags | replace: '[permalink]', permalink  %}
+
+        {% assign projects = projects | push: project %}
+        {% unless postcodes contains page.postcode %}
+            {% assign postcodes = postcodes | push: page.postcode %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+<script>
+    var postcodes = {{ postcodes | jsonify }};
+    var projects = [{{ projects | join: ', ' }}];
+</script>
+
+<div id="map" style="width:100%;height:600px;"></div>

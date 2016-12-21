@@ -30,6 +30,10 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/1.4.0/jquery.localScroll.min.js"></script>
 <script src="scripts/main.js"></script>
 
+{% for script in page.scripts %}
+    <script src="{{ script }}"></script>
+{% endfor %}
+
 <!-- Begin Cookie Consent plugin -->
 <script type="text/javascript">
     window.cookieconsent_options = {"message":"This website uses cookies to anonymously track visitor numbers","dismiss":"Continue","learnMore":"Read more","link":"http://www.scvo.org.uk/long-form-posts/privacy-cookies-policy/","theme":"dark-floating"};
