@@ -3,14 +3,14 @@
 <meta name="twitter:site:id" content="@{{ site.twitter }}">
 <meta name="twitter:title" content="{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
-<meta name="twitter:image" content="{% if page.icon %}{{ page.icon | prepend: site.github.url | replace: 'http://', '//' }}{% else %}{{ '/images/image.png' | prepend: site.github.url | replace: 'http://', '//' }}{% endif %}">
+<meta name="twitter:image" content="{% if page.icon %}{{ page.icon | prepend: site.github.url | replace: 'http://', 'https://' }}{% else %}{{ '/images/image.png' | prepend: site.github.url | replace: 'http://', '//' }}{% endif %}">
 <meta name="twitter:creator:id" content="{{ site.twitter | prepend: '@' }}">
 
 <!-- Open Graph data -->
 <meta property="og:title" content="{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}" />
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
-<meta property="og:image" content="{% if page.icon %}{{ page.icon | prepend: site.github.url | replace: 'http://', '//' }}{% else %}{{ '/images/image.png' | prepend: site.github.url | replace: 'http://', '//' }}{% endif %}" />
+<meta property="og:image" content="{% if page.icon %}{{ page.icon | prepend: site.github.url | replace: 'http://', 'https://' }}{% else %}{{ '/images/image.png' | prepend: site.github.url | replace: 'http://', '//' }}{% endif %}" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:type" content="website" />
 <meta property="fb:admins" content="{{ site.facebook }}" />
