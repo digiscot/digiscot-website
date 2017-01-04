@@ -6,21 +6,23 @@
 // @import "components/prefixer";
 @import "materialize";
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(//fonts.googleapis.com/icon?family=Material+Icons);
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 
 // Base variables
 
 $base-font-family:                Helvetica, Arial, sans-serif;
 $base-font-size:                  16px;
 $base-font-weight:                300;
-$base-font-color:                 #666666;
+$base-font-color:                 #555555;
 
 $base-line-height:                1.5;
 
 $h1-font-family:                  Montserrat, Helvetica, Arial, sans-serif;
 $h1-font-size:                    48px;
 $h1-font-weight:                  700;
-$h1-font-color:                   rgb(0, 99, 175);
+$h1-font-color:                   #000000;
 
 $h-font-color:                    #000000;
 $h-font-weight:                   700;
@@ -53,10 +55,6 @@ body {
     font-size:                      $base-font-size;
     font-weight:                    $base-font-weight;
     color:                          $base-font-color;
-}
-
-#site{
-    min-height: 100vh;
 }
 
 strong {
@@ -142,15 +140,36 @@ nav#header{
     top: 0;
 }
 
+#header.headroom--pinned {
+        transform: translateY(0%);
+    }
+#header.headroom--unpinned {
+    transform: translateY(-100%);
+}
+
 .headroom {
     will-change: transform;
     transition: transform 200ms linear;
 }
-.headroom--pinned {
+
+.fixed-top{
+    position: absolute;
+    top:0;
+}
+
+nav#tag-header{
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+#tag-header.headroom--unpinned {
     transform: translateY(0%);
 }
-.headroom--unpinned {
-    transform: translateY(-100%);
+#tag-header.headroom--pinned {
+    transform: translateY(100%);
 }
 
 @media(max-width: $medium-screen){
@@ -191,6 +210,10 @@ nav#header{
   }
 }
 
+.col .card{
+    width:100%;
+}
+
 .row.valign-wrapper{
     @media(max-width: $small-screen){
         display:block;
@@ -210,6 +233,11 @@ nav#header{
     i{
         color:#000!important;
     }
+}
+
+.btn-block{
+    text-align:center;
+    width:100%;
 }
 
 // Columns stuff
@@ -266,7 +294,7 @@ nav#header{
 
 // Colors
 h2 {
-    color: $primary-color
+    //color: $primary-color
 }
 
 .parallax-container{
@@ -287,8 +315,24 @@ h2 {
     background-color:#ffffff;
 }
 
+.right-image-card{
+    margin-left:15px;
+    margin-bottom:15px;
+}
+
 .parallax{
     box-shadow: inset 0px -5px 5px -5px rgba(0,0,0,0.75);
+    overflow:hidden;
+}
+
+.equal, .equal > div[class*='col'] {
+    display: -webkit-flex;
+    display: flex;
+    flex:1 1 auto;
+}
+
+.card.horizontal .card-image-fa{
+    padding-top:15px;
 }
 
 // Team

@@ -1,0 +1,62 @@
+---
+layout: default
+fa-icon: fa-file-o
+---
+
+{% assign items = site.data[page.data-source] %}
+{% assign template = page.data-source | append: '-item.html' %}
+
+<!-- INCLUDE TEMPLATE: {{ template }} -->
+
+{% assign tags = '' | split: ',' %}
+{% for item in items %}
+    {% if item.tags %}
+        {% for tag in item.tags %}
+            {% unless tags contains tag %}
+                {% assign tags = tags | push: tag %}
+            {% endunless %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+<div class="hidden fixed-top">
+    {% for tag in tags %}
+        <a name="{{ tag }}"></a>
+    {% endfor %}
+</div>
+
+<nav class="grey darken-3" id="tag-header">
+    <div class="container-fluid">
+        <div class="nav-wrapper">
+            <ul>
+                <li>
+                    <a href="{{ page.url }}#top" class="">
+                        <i class="fa fa-fw fa-tags"></i>
+                        Clear Tags
+                    </a>
+                </li>
+                {% for tag in tags %}
+                    <li>
+                        <a href="{{ page.url }}#{{ tag }}" class="">
+                            <i class="fa fa-fw fa-tag"></i>
+                            {{ tag }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>
+
+{% for item in items %}
+    {% if item.categories contains page.category %}
+        <div class="section" data-tags="{{ item.tags | join: ', ' }}">
+            <div class="container-fluid">
+                {% include {{ template }} item=item %}
+            </div>
+        </div>
+
+        <div class="divider" data-tags="{{ item.tags | join: ', ' }}"></div>
+
+    {% endif %}
+{% endfor %}

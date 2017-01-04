@@ -32,7 +32,7 @@ evolution:
   - title: Senior Leader Development Programme
     path: evolution/senior-leader-programme
     submenu: evolution-senior-leader-programme
-    
+
 
 participation:
   - title: Participation
@@ -49,7 +49,7 @@ participation:
     path: participation/library/
   - title: One Digital
     path: participation/one-digital/
-    
+
 participation-projects:
   - title: Participation
     path: participation/
@@ -59,6 +59,50 @@ participation-projects:
     parent: true
   - title: Project Tags
     path: participation/projects/tags/
+  - title: Projects Map
+    path: participation/projects/map/
+
+participation-resources:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Resources
+    path: participation/resources/
+    parent: true
+  - title: Products, Services, & Tools
+    path: participation/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: participation/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: participation/resources/articles-webpages-and-blogs/
+
+innovation-resources:
+  - title: Innovation
+    path: innovation/
+    parent: true
+  - title: Resources
+    path: innovation/resources/
+    parent: true
+  - title: Products, Services, & Tools
+    path: innovation/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: innovation/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: innovation/resources/articles-webpages-and-blogs/
+
+evolution-resources:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Resources
+    path: evolution/resources/
+    parent: true
+  - title: Products, Services, & Tools
+    path: evolution/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: evolution/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: evolution/resources/articles-webpages-and-blogs/
 
 participation-apply-for-funding:
   - title: Participation
@@ -104,6 +148,8 @@ about:
     path: about/annual-report-2015/
   - title: Contact
     path: about/contact/
+  - title: Tools
+    path: about/resources/products-services-and-tools/
 
 footer:
   - title: About
