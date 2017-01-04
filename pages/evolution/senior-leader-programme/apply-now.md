@@ -14,7 +14,7 @@ The application process consists of one online form that must be fully completed
 
 {:.browser-default}
 * Applications open – 5 December 2016
-* Applications close – 4 January 2017
+* Applications close – 9am, 9 January 2017
 * Applications shortlisted – 9 January 2017
 * Successful participants notified – 11 January 2017
 * First session – 24 January 2017 (cohort 1) or 2 Feb 2017 (cohort 2)
