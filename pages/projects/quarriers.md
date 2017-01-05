@@ -73,10 +73,35 @@ Similar to the first group, there were a number of barriers created by the perso
 
 Despite these barriers, everyone engaged well with the course, and there was a positive atmosphere in the training room. Everyone completed the classes given, and learned about how to use their tablets. Each week they were charged and ready to use, and people managed to stay within their data usage limits. Three out of the four group members were close to absolute beginner level and real progress was made during this time to teach new skills. In the follow up sessions, all members were still making use of the tablets, and we'll be really interested to meet these group members at the end of the project to see how they are getting on. We are still on target for our final write up in December which will highlight in detail (anonymously) the barriers faced, and effective ways to tackle them.
 
+### Third Group Update (Aug - Oct 2016)
+
+The third group continued the trend we experienced in the project by our four individuals representing diverse groups of people who are digitally excluded. These diversities included autistic spectrum disorder in two cases, physical disabilities such as upper limb restrictive movement, wheelchair reliance and a certain amount of visual impairment. One elderly individual was retired and also presented a learning disability alongside all others to varying degrees.
+
+It was also a relatively young group, with three quarters being under the thirty year age mark. Learners struggled with being able to cope with most of the basic digital skills which were queried at the beginning of this group. This did not stop many of the learners from being involved with their tablets. Within the first two weeks, all users were able to switch on their tablet and knew how to open and use the apps which they liked. One asd user, despite having little knowledge of computers, was able to download and install many different apps. There was a gap here, and in one other learner, in having a language barrier. These individuals were learning apps by memory for what they actual did, not what the text explained about them. Sometimes this was less evident in more 'picture based' apps, but was shown very clearly on text searches with google, and form filling online. 
+
+The group worked well with the tutors in terms of progress, and a lot of their interest was fueled by access to multimedia, such as music, video and cause and effect apps with gaming. None of these required particularly high levels of basic digital skills to access however. As with most other groups, throughout the six week course, learners were very good at charging up their tablet and trying some apps out at home. Data use was not large in this group, and another issue was still centred around the understanding of different amounts of data. Overall, the group did make good progress in terms of practical tablet and internet use, but fell short of making large strides in achieving basic digital skills as outlined by Go On UK. 
+
 ### Evaluation
 
+Stories from the Digital Divide set out to find the reasons why some people remain digitally excluded. Despite the training, which took account of various barriers, most learners did not significantly advance their basic digital skills according to the GoOn Uk basic digital skills definitions.  But that is not to say that learners did not significantly advance their understanding of digital skills.
+
+All twelve learners were able to use their tablets in ways which they were not able to do before. Most learners could pick up their tablet, switch it on and navigate the tablet to areas of their own interest. Sometimes this was games, sometimes the browser for online surfing, and at other times, apps such as the camera or YouTube. Many learners were also able to change settings on their tablet, such as screen rotation, brightness, and to a lesser extent, toggle between Wi-Fi and mobile data.
+
+It is concluded that this group of learners did take away real digital skills, but at a level below what is considered within the Go On  UK framework. Although the basic skills framework makes logical sense, it is clear that individuals at the extreme fringe of digital exclusion may never fully engage with the skills required to match this. That does not mean that training should not take place with this group, but that perhaps another more generalised layer of basic skills are required to signify that individuals are computer literate in other important ways. Currently these basic skills are not captured by the existing framework as the level is too advanced, and thus masks the learning.
 
 ### Lessons learned
 
+There are always going to be limitations for what a classroom, or training course, can offer individual learners. Following on from this project, the ‘golden standards’ which could be aimed for, are as follows:
 
+* Planning for differentiation in materials and tuition. What works for one person does not always work for another. Using a range of techniques and approaches in conjunction with each other, means there will be something for everyone.
+
+* 1-1 training is essential for overcoming the barriers faced by learners. a complaint often heard by each group was that previous learning was not 1-1 and they had felt left behind, or forced to rush their learning.
+
+* Social networks in the physical world and supports out with the classroom are essential to ensuring the learning continues, and is utilised beyond the formal training.
+
+* Using an approach to learning which creates interest and fun is important. The learners were most engaged when they were able to enjoy the things they created, and when they took part in group activities.
+
+* Formulation of a clear learning plan and achievable goals. Avoid setting unrealistic expectations. For instance, a person who is not literate, will not be able to achieve the same through web browsing as someone with more refined language skills.
+
+* An initial assessment of learners needs and existing skills is essential to setting the appropriate pace of learning for individual learners.
 
