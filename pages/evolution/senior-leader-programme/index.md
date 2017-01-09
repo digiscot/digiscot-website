@@ -6,7 +6,7 @@ permalink: /evolution/senior-leader-programme/
 submenu: evolution-senior-leader-programme
 ---
 
-### Thank you for your interest in the One Digital Senior Leader Development programme. These pages provide the background to the programme, and a link to the application form. 
+### Thank you for your interest in the One Digital Senior Leader Development programme. The deadline has now passed and we are no longer accepting applications. 
 
 ## Introduction
 
