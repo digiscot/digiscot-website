@@ -8,11 +8,9 @@ submenu: evolution-senior-leader-programme
 
 ## Apply now
 
-The deadline for submitting applications has now expired. Applicants of the Senior Leadership Programme can now expect the timescale outlined below. 
+The application deadline has now passed. Applicants of the Senior Leadership Programme can now expect the timescale outlined below. 
 
 {:.browser-default}
-* Applications open – 5 December 2016
-* Applications close – 9am, 9 January 2017
 * Applications shortlisted – 9 January 2017
 * Successful participants notified – 11 January 2017
 * First session – 24 January 2017 (cohort 1) or 2 Feb 2017 (cohort 2)
