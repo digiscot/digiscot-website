@@ -48,6 +48,29 @@ fa-icon: fa-file-o
     </div>
 </nav>
 
+<!-- Find similar resource pages in other sections -->
+
+<div class="section headingless">
+    <div class="container-fluid">
+        <div class="row equal">
+            {% assign sections = 'participation,evolution,innovation' | split: ',' %}
+            {% for section in sections %}
+                {% for p in site.pages %}
+                    {% if p.category == section and p.layout == 'resources' and p.data-source == page.data-source %}
+                        <div class="col s4">
+                            <a href="{{ p.url }}">
+                                <strong>{{ p.category | upcase }}</strong><br>
+                                {{ p.title }}
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+        <div class="divider"></div>
+    </div>
+</div>
+
 {% for item in items %}
     {% if item.categories contains page.category %}
         <div class="section" data-tags="{{ item.tags | join: ', ' }}">

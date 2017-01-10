@@ -1,0 +1,8 @@
+{% for page in site.pages %}
+    {% assign key = page.url | replace: '/', '-' %}
+    {% assign page.titles[key] = page.title %}
+{% endfor %}
+
+<!--
+{{ page.titles }}
+-->
