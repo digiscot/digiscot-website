@@ -10,6 +10,7 @@
     anything-else:
     categories: [participation]
     tags: [tag1, tag2, tag3]
+    important: yes
 -
     name: 'The Media Trust''s Digital Guides'
     url: http://resources.mediatrust.org/guides/digital/
@@ -21,6 +22,7 @@
     anything-else:
     categories: [participation]
     tags: [tag2, tag4]
+    important: yes
 -
     name: Future Learn
     url: https://www.futurelearn.com/courses/categories/online-and-digital
@@ -32,6 +34,7 @@
     anything-else:
     categories: [participation]
     tags: [tag3, tag4]
+    important: yes
 -
     name: Connecting Care
     url: http://connectingcare.org.uk/
@@ -42,7 +45,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: idealware
     url: http://www.idealware.org/
@@ -53,7 +57,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Digital Charities group slack channel
     url: https://digital-charities.signup.team/
@@ -64,7 +69,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: CAST
     url: http://www.wearecast.org.uk/
@@ -75,7 +81,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: CAST Digital Fellowship
     url: https://castfellowship.wordpress.com/
@@ -86,7 +93,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Mentimeter
     url: https://www.mentimeter.com/
@@ -97,7 +105,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Slido
     url: https://www.sli.do/
@@ -108,7 +117,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: The beginners guide to SEO
     url: https://moz.com/beginners-guide-to-seo
@@ -119,7 +129,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Typeform
     url: https://www.typeform.com/
@@ -130,7 +141,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: CITA, IT Help for Charities
     url: https://charityithelp.org.uk/
@@ -141,7 +153,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Tito
     url: https://ti.to/home
@@ -152,7 +165,8 @@
     charity-discount: Yes
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: DigitalBoost from business gateway
     url: http://www.bgateway.com/driving-growth/digitalboost
@@ -163,7 +177,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Donately
     url: https://donate.ly/
@@ -174,7 +189,8 @@
     charity-discount: Yes
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Hemingway App
     url: http://www.hemingwayapp.com/
@@ -185,7 +201,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: AbilityNet Webinars
     url: https://www.abilitynet.org.uk/expert-resources/webinars
@@ -196,7 +213,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: AbilityNet Factsheets
     url: https://www.abilitynet.org.uk/factsheets
@@ -207,7 +225,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: MyComputerMyWay, AbilityNet
     url: https://mcmw.abilitynet.org.uk/
@@ -218,7 +237,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: In Kind Direct
     url: http://www.inkinddirect.org/office-workplace/computers-computer-equipment.html
@@ -229,7 +249,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: AbilityNet, Ask Alex
     url: https://www.youtube.com/watch?v=JAPbrS19eEg&feature=youtu.be
@@ -240,7 +261,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Google for Nonprofits
     url: https://www.google.com/nonprofits/
@@ -251,7 +273,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Jointly
     url: https://www.jointlyapp.com/#welcome
@@ -262,7 +285,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: BT MyDonate
     url: http://www.btplc.com/mydonate/Forcharities/index.aspx
@@ -273,7 +297,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: JustGiving
     url: https://www.justgiving.com/
@@ -284,7 +309,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Nonprofits on Facebook
     url: https://nonprofits.fb.com/
@@ -295,7 +321,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Charity Social Media Toolkit
     url: http://landing.skillsplatform.org/charitysocialmediatoolkit/
@@ -306,7 +333,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Barclays Digital Wings
     url: https://digital.wings.uk.barclays/
@@ -317,7 +345,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Primer|Marketing lessons from Google
     url: https://www.yourprimer.com/#
@@ -328,7 +357,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Building a digital workforce
     url: https://knowhownonprofit.org/tools-resources/building-a-digital-workforce
@@ -339,7 +369,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Unsplash
     url: https://unsplash.com/
@@ -350,7 +381,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Kahoot
     url: http://kahoot.it
@@ -361,7 +393,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: start.io
     url: http://start.io/
@@ -372,7 +405,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Usabilla
     url: https://usabilla.com/
@@ -383,7 +417,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: FREEIMAGES
     url: http://www.freeimages.com/
@@ -394,7 +429,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Capterra
     url: http://www.capterra.com/
@@ -405,7 +441,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: PhotoDune
     url: photodune.net
@@ -416,7 +453,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: pixabay
     url: https://pixabay.com/
@@ -427,7 +465,8 @@
     charity-discount:
     anything-else:
     categories: [participation]
-    tags:
+    tags: []
+    important: yes
 -
     name: Pexels
     url: https://www.pexels.com/

@@ -7,6 +7,7 @@
     description: A percentage-based overview of the digital skills of the EU population per member state and total.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Smartphone by default'' internet users'
     authors: Coducted by ESRO for Ofcom
@@ -15,6 +16,7 @@
     description: "This qualitative research report focuses on those who conduct the vast majority of their\nonline activities through their smartphone - either through choice or due to external factors\nlimiting their access to alternative devices."
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Bridging the Digital Divide: Measuring the progress of digital inclusion amongst Scottish CAB clients'
     authors: Citizens Advice Scotland
@@ -23,6 +25,7 @@
     description: A third of CAB clients find themselves digitally excluded. The report discusses some of the key challenges and makes a number of recommendations designed to help increase the uptake of the internet and computers.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Adults'' media use and attitudes'
     authors: Ofcom
@@ -31,6 +34,7 @@
     description: Research that looks at media use, attitudes and understanding, and how these change over time, with a particular focus on those groups that tend not to participate digitally.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'The Localstate We''re In: PwC’s annual local government survey, 2016'
     authors: PricewaterhouseCoopers
@@ -39,6 +43,7 @@
     description: A survey exploring how councils are dealing with the changing circumstances they find themselves in, including a chapter on Bridging the digital divide.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: 'Beyond control: local government in the age of participation'
     authors: PricewaterhouseCoopers
@@ -47,6 +52,7 @@
     description: Our Talking Points explores how the challenge of austerity and opportunities of devolution and digital are transforming local government.
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: 'Digital Neighbourhoods: Investigating the role of superfast broadband access on rural neighbourhoods'
     authors: Plymouth University, Superfast Cornwall part funded PhD
@@ -55,6 +61,7 @@
     description: Trying to understand the impact on communities of the introduction of a large-scale technological infrastructure to a rural, deprived region, Cornwall.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: Digital culture clash
     authors: Cisco
@@ -63,6 +70,7 @@
     description: This report examines just how digitally ready UK organisations are in terms of people, processes and, most significantly, company culture.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Digital skills crisis
     authors: House of Commons Science and Technology Committee
@@ -71,6 +79,7 @@
     description: A report warning that the UK risks being left behind if the Government does not take more action to address the digital skills crisis.
     categories: [evolution, participation]
     tags: []
+    important: yes
 -
     title: What are the main hurdles to digital transformation? (Infographic)
     authors: Liferay
@@ -79,6 +88,7 @@
     description: An infographic presenting the findings of a national survey, among more than 200 professionals, that looked at how successful the public sector has been in achieving digital transformation.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Aligning the organization for its digital future
     authors: Gerald C. Kane, Doug Palmer, Anh Nguyen Phillips, David Kiron, and Natasha Buckley, MIT Sloan Management Review
@@ -87,6 +97,7 @@
     description: Research from MIT SMR and Deloitte examines the digital transformation habits of digitally maturing companies and what sets them apart from digitally early stage companies.
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: 'Internet access in Great Britain: 2016'
     authors: Office for National Statistics
@@ -95,6 +106,7 @@
     description: What the internet is used for and types of purchases made, by adults (aged 16 or over).
     categories: [participation]
     tags: []
+    important: yes
 -
     title: A Portfolio Strategy to Execute Your Digital Transformation
     authors: Capgemini Consulting
@@ -103,6 +115,7 @@
     description: Success comes from consciously managing digital transformation as a strategic portfolio over time. This requires addressing three areas, The Why, The How and The What, in an analytical and consistent way.
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: Realising the benefits of digital technology, Citizen-led Innovation for Health and Wellbeing
     authors: Scottish Enterprise and the Health and Social Care Alliance Scotland (the ALLIANCE)
@@ -111,6 +124,7 @@
     description: Describing the current role of the third sector and identifying the benefits, opportunities and barriers to encouraging citizen-led innovation for health and wellbeing.
     categories: [innovation]
     tags: []
+    important: yes
 -
     title: What’s driving the Digital Skills Crisis?
     authors: Scottish Chambers of Commerce and ScotlandIS
@@ -119,6 +133,7 @@
     description: Addressing how to close the gap between supply and demand of skilled workers in the tech sector
     categories: [participation]
     tags: []
+    important: yes
 -
     title: Digital Participation And Social Justice In Scotland
     authors: Douglas White, Carnegie UK Trust
@@ -127,6 +142,7 @@
     description: Digital can be the driver for greater social and economic equality but just as surely it can be the barrier to such equality too.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Scotland''s Key Challenges'
     authors: Ipsos MORI
@@ -135,6 +151,7 @@
     description: 'Presentation from Ipsos MORI Scotland''s event "Scotland''s Key Challenges" on 21 September 2016 at the Scottish Parliament.'
     categories: []
     tags: []
+    important: yes
 -
     title: There’s no place like phone
     authors: Deloitte
@@ -143,6 +160,7 @@
     description: Consumer usage patterns in the era of peak smartphone
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Leadership Development in the Third Sector: Facing the Future'
     authors: Clore Social Leadership

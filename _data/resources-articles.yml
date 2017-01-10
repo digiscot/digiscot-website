@@ -7,6 +7,7 @@
     description: 10 lessons learned working in one of the largest charity digital teams in the UK
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Why I choose digital maturity over digital transformation
     authors: Jo Wolfe, Assistant Director, Digital @BCCare. Agile
@@ -15,6 +16,7 @@
     description: 'The charity sector''s digital know-how is improving and we need to measure the change'
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Elevation - Nonprofit Website Design Agency
     authors:
@@ -23,6 +25,7 @@
     description: American company. A good page to look at for ideas and inspiration for nonprofit websites.
     categories: []
     tags: []
+    important: yes
 -
     title: 'Digital customer service: how charities can do it successfully'
     authors: Zoe Amar, the Guardian
@@ -31,6 +34,7 @@
     description: 'There''s an increasing expectation that customer service should be offered via social media, so here''s how small organisations can keep up with demand'
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: 'POSTER: 20 Ways to achieve digital transformation'
     authors: The New Reality
@@ -39,6 +43,7 @@
     description: 'This poster is based on some of the most common advice offered in the New Reality''s interviews'
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: 'I''m no expert but: WTF is digital anyway'
     authors: Carolyne Mitchell
@@ -47,6 +52,7 @@
     description: An overview over what the author took away from the 2016 National Digital Conference in London.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: 'Developing a positive response to the public''s view of charities'
     authors: Vicky Browning, director, CharityComms
@@ -55,6 +61,7 @@
     description: Developing a positive narrative for the charity sector in response to concerns about a decrease in public trust and understanding of how modern charities work.
     categories: []
     tags: []
+    important: yes
 -
     title: 'Facebook''s latest feature helps you raise money for your favorite charity'
     authors: Matt Petronzio, Mashable
@@ -63,6 +70,7 @@
     description: Users in the U.S. can create dedicated fundraiser pages to raise money for verified nonprofits.
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: Social media essentials for boards and trustees
     authors: Nicola Slawson, the Guardian
@@ -71,6 +79,7 @@
     description: 'Celebrating volunteers or summarising board meetings online can raise an organisation''s profile, but trustees may feel nervous about getting stuck in'
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: How to harness technology for good
     authors: JustGiving and 3 Sided Cube
@@ -79,6 +88,7 @@
     description: Joint presentation on harnessing Technology For Good from the Fundraising convention in London
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: 'Lunchbox: Fill a tummy with a tap'
     authors: James Wood, Earnest
@@ -87,6 +97,7 @@
     description: '" Lunchbox, the contactless donation box that enables you to buy a child in the developing world school lunches for a week with one tap of your card. We think it''s about time the world of donations moved on from change in a bucket and being hassled while you do your shopping. The fact is the easier giving is, the more habitual it becomes - especially if it''s done in a context that relates to the cause."'
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: 'NESTA''S TECH-FOR-GOOD NEW RADICALS OF 2016'
     authors: Sam Firman, Tech-for-Good
@@ -95,6 +106,7 @@
     description: The New Radicals 2016 list of who are using tech for good. The list reflects not only some of the excellent work being done to help solve social problems, but also many of the key threads and developments in how we approach such problems as society.
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: What is digital transformation?
     authors: Howard King, Rufus Leonard
@@ -103,6 +115,7 @@
     description: 'This article tries to clarify the phrase ''digital transformation'' and explains why evolution is better.'
     categories: []
     tags: []
+    important: yes
 -
     title: 'Widening Digital Participation programme ''can help end digital exclusion, once and for all'''
     authors: Tinder Foundation
@@ -111,6 +124,7 @@
     description: The project Widening Digital Participation, a cooperation between the Tinder Foundation and NHS England, has successfully managed to marry health and digital, allowing those suffering from the former to be helped by the latter. This article refers to a report which sums up the concluded programme.
     categories: [participation, evolution]
     tags: []
+    important: yes
 -
     title: Widening digital participation in health - report launches today
     authors: Tinder Foundation
@@ -119,6 +133,7 @@
     description: The project Widening Digital Participation, a cooperation between the Tinder Foundation and NHS England, has successfully managed to marry health and digital, allowing those suffering from the former to be helped by the latter. This article refers to a report which sums up the concluded programme.
     categories: [participation, evolution]
     tags: []
+    important: yes
 -
     title: 'Microsoft has joined forces with Girlguiding to listen to girls'' views on digital technology'
     authors: Girlguiding
@@ -127,6 +142,7 @@
     description: Top tips from Girlguiding members for companies and employers wanting to inspire and engage girls in technology.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: Social division stays in online learning
     authors: Sean Coughlan, BBC News
@@ -135,6 +151,7 @@
     description: International research from the OECD, based on data from more than 40 countries, argues that even with equal access to technology a "digital divide" persists when looking at how teenagers use online technology at home.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: Digital Charities
     authors: Digital Charities
@@ -143,6 +160,7 @@
     description: A diverse, international group working together to share digital knowledge and help each other deliver compelling web campaigns and content for their supporters. Monthly London-based meetings.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Digital Zones - How Neighbours Are Helping Neighbours to Save Money and Keep In Touch with Friends and Family
     authors: Karen Cook, Doteveryone
@@ -151,6 +169,7 @@
     description: Two ambitious, year-long programmes in Croydon and Lewisham in 2015-16 launched to understand how best to demonstrate the benefits of the internet and motivate people to learn Basic Digital Skills.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Digital transformation, technology and local public services: Camden and beyond'
     authors: Theo Blackwell, Cabinet member for Finance, Technology and Growth
@@ -159,6 +178,7 @@
     description: Using digital technology and data analysis to deliver better and cheaper services
     categories: [evolution, innovation]
     tags: []
+    important: yes
 -
     title: Charity throws weight behind accessible technology charter
     authors: Austin Clark, Charity Digital News
@@ -167,6 +187,7 @@
     description: People with sight loss and dementia must not be denied the benefits of modern technology.
     categories: [participation]
     tags: []
+    important: yes
 -
     title: 'Making digital work: 12 questions for trustees to consider'
     authors: the Charity Commission, Grant Thornton and Zoe Amar Communications.
@@ -175,6 +196,7 @@
     description: A 12 points guide for charity boards to onsider regarding digital.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: madlinsudn blog
     authors: Sharing digital best practice to inspire other nonprofits to be brilliant
@@ -183,6 +205,7 @@
     description:
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Data Evolution
     authors: Research on the use of data in the third sector in England and Wales
@@ -191,6 +214,7 @@
     description:
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: IoF National Fundraising Awards shortlist recognises excellence in charity tech usage
     authors: Austin Clark, Charity Digital News
@@ -199,6 +223,7 @@
     description: The shortlist for the annual Institute of Fundraising National Fundraising Awards is heavily featuring technology-focused campaigns and charities.
     categories: [evolution]
     tags: []
+    important: yes
 -
     title: Are killer bots about to do away with smartphone apps?
     authors: Mark Ward, BBC News
