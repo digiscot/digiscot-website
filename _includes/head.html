@@ -1,13 +1,19 @@
-<!DOCTYPE html>
 <head>
-    <base href="{{site.github.url}}/">
+    <base href="{{ site.github.url | replace: 'http://', '//' }}/">
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
     {% include social-graph-tags.html %}
+
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#1976D2">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#1976D2">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#1976D2">
 
     <link rel="icon" href="images/favicon.ico" />
     <link rel="image_src" href="images/image.png" />
@@ -18,11 +24,9 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/main.css" />
 
-    <link rel="canonical" href="{{ site.github.url }}/index.html">
+    <link rel="canonical" href="{{ '/index.html' | prepend: site.github.url | replace: 'http://', '//' }}">
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="feed.xml" />
     {% include analytics.html %}

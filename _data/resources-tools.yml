@@ -1,0 +1,480 @@
+---
+-
+    name: The Third Sector Digital Maturity Matrix
+    url: http://digitalmaturity.co.uk/
+    logo:
+    description: Assess the current maturity of a not-for-profit organisation’s digital capability, compared with its desired target state
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: [tag1, tag2, tag3]
+    important: yes
+-
+    name: 'The Media Trust''s Digital Guides'
+    url: http://resources.mediatrust.org/guides/digital/
+    logo:
+    description: Online micro-masterclasses in everything from designing a great website to creating an online community and learning to improve it all through web analytics.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: [tag2, tag4]
+    important: yes
+-
+    name: Future Learn
+    url: https://www.futurelearn.com/courses/categories/online-and-digital
+    logo:
+    description: Learn and develop your coding skills and understand how digital affects our world. Join free online IT and programming courses from leading universities.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: [tag3, tag4]
+    important: yes
+-
+    name: Connecting Care
+    url: http://connectingcare.org.uk/
+    logo:
+    description: Technology advice for social care providers
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: idealware
+    url: http://www.idealware.org/
+    logo:
+    description: An American site helping Nonprofits make smart technology decisions. Find original research, insights, and assessment tools to help you solve your biggest tech challenges. Find original research, insights, and assessment tools to help you solve your tech challenges.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Digital Charities group slack channel
+    url: https://digital-charities.signup.team/
+    logo:
+    description: Find channel desciption
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: CAST
+    url: http://www.wearecast.org.uk/
+    logo:
+    description: Working with charitable funders and foundations to build stronger tech for good programmes. Supporting social technology ventures to grow and access finance and talent. Bringing together great individuals and organisations to support and build the sector.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: CAST Digital Fellowship
+    url: https://castfellowship.wordpress.com/
+    logo:
+    description: A comprehensive learning program to support charity CEOs to become experts in digital.
+    entry-cost: Free? £3k?
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Mentimeter
+    url: https://www.mentimeter.com/
+    logo:
+    description: An easy to use tool that makes presentations, meetings, events and classrooms interactive.
+    entry-cost: Free? £3k?
+    full-cost: $7.99-$19.99 per month
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Slido
+    url: https://www.sli.do/
+    logo:
+    description: Audience interaction tool that lets the audience ask questions and give opinions, and you can share slides and presentations with them easily.
+    entry-cost: Free
+    full-cost: £119-£599 per event
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: The beginners guide to SEO
+    url: https://moz.com/beginners-guide-to-seo
+    logo:
+    description: 'The Beginner''s Guide to SEO has been read over 3 million times and provides comprehensive information you need to get on the road to professional quality Search Engine Optimization, or SEO.'
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Typeform
+    url: https://www.typeform.com/
+    logo:
+    description: Build beautiful, engaging, and conversational online forms, surveys, or landing pages. Easily customize your typeforms to collect the information you need, one question at a time. Use for market research surveys, political polls, to get newsletter sign-ups, or register people for your event, build a simple and elegant shopping basket experience and start taking payments today, or make innovative tests and quizzes.
+    entry-cost: Free
+    full-cost: £28-£55 per month
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: CITA, IT Help for Charities
+    url: https://charityithelp.org.uk/
+    logo:
+    description: CITA provides free services to help charities be more effective through their use of technology. Provides tech surgery, IT consultancy and IT project delivery.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Tito
+    url: https://ti.to/home
+    logo:
+    description: A clean, mobile-friendly event homepage and checkout experience. A simple, fast checkout. Quick payments using Stripe.
+    entry-cost: Free
+    full-cost: 1% per ticket, up to €5
+    charity-discount: Yes
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: DigitalBoost from business gateway
+    url: http://www.bgateway.com/driving-growth/digitalboost
+    logo:
+    description: Free one-to-one digital support, digital workshops and guides
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Donately
+    url: https://donate.ly/
+    logo:
+    description: Online fundraising/crowdfunding tool
+    entry-cost: 4%-1%
+    full-cost:
+    charity-discount: Yes
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Hemingway App
+    url: http://www.hemingwayapp.com/
+    logo:
+    description: An editor that makes your writing bold and clear. Simply paste your text into it.
+    entry-cost: Free
+    full-cost: $19.99 for desktop app
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: AbilityNet Webinars
+    url: https://www.abilitynet.org.uk/expert-resources/webinars
+    logo:
+    description: Online events that are delivered through a website sharing expert information on a range of topics targeted at helping older or disabled people get online.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: AbilityNet Factsheets
+    url: https://www.abilitynet.org.uk/factsheets
+    logo:
+    description: Factsheets to download and provide advice and information about how computers and other digital technologies can help people with a range of conditions and impairments.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: MyComputerMyWay, AbilityNet
+    url: https://mcmw.abilitynet.org.uk/
+    logo:
+    description: Do you need help in making your computer easier to use? Several ways you can make your keyboard and mouse, Windows, the internet and your favourite applications suit you and your needs...
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: In Kind Direct
+    url: http://www.inkinddirect.org/office-workplace/computers-computer-equipment.html
+    logo:
+    description: Redistribution of products, including computers and IT equipment, from companies to charities, social enterprises and not-for-profit organisations.
+    entry-cost: Free
+    full-cost: Goods sold at 10%-20% of retails price
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: AbilityNet, Ask Alex
+    url: https://www.youtube.com/watch?v=JAPbrS19eEg&feature=youtu.be
+    logo:
+    description: Need advice on technology and disability? Ask Alex
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Google for Nonprofits
+    url: https://www.google.com/nonprofits/
+    logo:
+    description: Tools and advice on how to use the internet to promote your cause, raise donations and operate more efficiently.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Jointly
+    url: https://www.jointlyapp.com/#welcome
+    logo:
+    description: App making communication and coordination between those who share the care more easy.
+    entry-cost: £2.99
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: BT MyDonate
+    url: http://www.btplc.com/mydonate/Forcharities/index.aspx
+    logo:
+    description: Online fundraising service
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: JustGiving
+    url: https://www.justgiving.com/
+    logo:
+    description: Online fundraising service
+    entry-cost: £15 per month + 5% commission
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Nonprofits on Facebook
+    url: https://nonprofits.fb.com/
+    logo:
+    description: Run by Facebook, this Page seeks to optimize our connected world to foster more social good
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Charity Social Media Toolkit
+    url: http://landing.skillsplatform.org/charitysocialmediatoolkit/
+    logo:
+    description: A comprehensive guide to social media
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Barclays Digital Wings
+    url: https://digital.wings.uk.barclays/
+    logo:
+    description: Learning tool designed to develop and grow your digital confidence.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Primer|Marketing lessons from Google
+    url: https://www.yourprimer.com/#
+    logo:
+    description: App for learning new digital marketing skills.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Building a digital workforce
+    url: https://knowhownonprofit.org/tools-resources/building-a-digital-workforce
+    logo:
+    description: Resources and templates to help you plan, design and deliver a comprehensive digital skills development programme for your organisation.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Unsplash
+    url: https://unsplash.com/
+    logo:
+    description: Searchable high-resolution photos.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Kahoot
+    url: http://kahoot.it
+    logo:
+    description: Game-based learning platform that makes it fun to learn - create your own quiz.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: start.io
+    url: http://start.io/
+    logo:
+    description: Create your own start page with your favourite links, notifying you when one of them is updated
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Usabilla
+    url: https://usabilla.com/
+    logo:
+    description: Collect user feedback and improve your websites, apps and emails
+    entry-cost:
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: FREEIMAGES
+    url: http://www.freeimages.com/
+    logo:
+    description: Searchable high-resolution photos.
+    entry-cost:
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Capterra
+    url: http://www.capterra.com/
+    logo:
+    description: Read real user reviews, compare products, and get the latest software research to find the right solution for your business.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: PhotoDune
+    url: photodune.net
+    logo:
+    description: Offers low price stock photos and some free ones too each month.
+    entry-cost: Free
+    full-cost: From $3
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: pixabay
+    url: https://pixabay.com/
+    logo:
+    description: All images and videos on Pixabay are released free of copyrights under Creative Commons CC0. You may download, modify, distribute, and use them royalty free for anything you like, even in commercial applications. Attribution is not required.
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags: []
+    important: yes
+-
+    name: Pexels
+    url: https://www.pexels.com/
+    logo:
+    description: Free stock photos
+    entry-cost: Free
+    full-cost:
+    charity-discount:
+    anything-else:
+    categories: [participation]
+    tags:

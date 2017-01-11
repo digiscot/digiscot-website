@@ -1,0 +1,105 @@
+---
+layout: default
+fa-icon: fa-file-o
+---
+
+{% assign items = site.data[page.data-source] %}
+{% assign template = page.data-source | append: '-item.html' %}
+{% assign minor-template = page.data-source | append: '-minor-item.html' %}
+
+<!-- INCLUDE TEMPLATE: {{ template }} -->
+
+<!-- {{ site.data.pages[page.url] }} -->
+
+{% assign tags = '' | split: ',' %}
+{% for item in items %}
+    {% if item.tags %}
+        {% for tag in item.tags %}
+            {% unless tags contains tag %}
+                {% assign tags = tags | push: tag %}
+            {% endunless %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+<div class="hidden fixed-top">
+    {% for tag in tags %}
+        <a name="{{ tag }}"></a>
+    {% endfor %}
+</div>
+
+<nav class="grey darken-3" id="tag-header">
+    <div class="container-fluid">
+        <div class="nav-wrapper">
+            <ul>
+                <li>
+                    <a href="{{ page.url }}#top" class="">
+                        <i class="fa fa-fw fa-tags"></i>
+                        Clear Tags
+                    </a>
+                </li>
+                {% for tag in tags %}
+                    <li>
+                        <a href="{{ page.url }}#{{ tag }}" class="">
+                            <i class="fa fa-fw fa-tag"></i>
+                            {{ tag }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Find similar resource pages in other sections -->
+
+<div class="section headingless">
+    <div class="container-fluid">
+        <div class="row equal">
+            {% assign sections = 'participation,evolution,innovation' | split: ',' %}
+            {% for section in sections %}
+                {% for p in site.pages %}
+                    {% if p.category == section and p.layout == 'resources' and p.data-source == page.data-source %}
+                        <div class="col s4">
+                            <a href="{{ p.url }}">
+                                <strong>{{ p.category | upcase }}</strong><br>
+                                {{ p.title }}
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+        <div class="divider"></div>
+    </div>
+</div>
+
+{% for item in items %}
+    {% if item.categories contains page.category and item.important %}
+        <div class="section" data-tags="{{ item.tags | join: ', ' }}">
+            <div class="container-fluid">
+                {% include {{ template }} item=item %}
+            </div>
+        </div>
+
+        <div class="divider" data-tags="{{ item.tags | join: ', ' }}"></div>
+
+    {% endif %}
+{% endfor %}
+
+<div class="section">
+    <div class="container-fluid">
+        <h2>Other resources</h2>
+        {% for item in items %}
+            {% if item.categories contains page.category %}
+                {% unless item.important %}
+                <div class="other-item" data-tags="{{ item.tags | join: ', ' }}">
+                    {% include {{ minor-template }} item=item %}
+                </div>
+
+                <div class="divider" data-tags="{{ item.tags | join: ', ' }}"></div>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

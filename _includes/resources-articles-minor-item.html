@@ -1,0 +1,38 @@
+<h3>
+    <a href="{{ include.item.url }}">
+        {{ include.item.title }}
+    </a>
+</h3>
+
+<div>
+    {% if include.item.authors %}
+        <span class="chip">
+            <i class="fa fa-fw fa-users"></i>
+            {{ include.item.authors }}
+        </span>
+    {% endif %}
+
+    {% if include.item.year %}
+    <span class="chip">
+        <i class="fa fa-fw fa-calendar-o"></i>
+        {{ include.item.year }}
+    </span>
+    {% endif %}
+
+    <i class="fa fa-fw fa-tags"></i><i class="fa fa-fw fa-chevron-right"></i>
+
+    {% unless include.item.tags or include.item.tags | size > 0 %}
+        <span class="chip">No Tags</span>
+    {% endunless %}
+
+    {% for tag in include.item.tags %}
+        <a href="{{ page.url }}#{{ tag }}" class="chip">
+            <i class="fa fa-fw fa-tag"></i>
+            {{ tag }}
+        </a>
+    {% endfor %}
+</div>
+
+<p>
+    {{ include.item.description }}
+</p>
