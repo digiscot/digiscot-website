@@ -3,6 +3,8 @@ layout: markdown
 title: Editing your page
 excerpt: Here's how to edit your digital participation project or charter signatory page.
 permalink: /about/github-pages/
+fa-icon: fa-bullhorn
+submenu: about
 ---
 
 If we are supporting your [digital participation project](/projects/) or you have signed our [digital participation charter](/charter/) then you will have a page on this website where you can share a bit more about who you are and what you are doing. This is a short, step-by-step guide to adding content and editing your page along with some quick walkthrough videos to give you some extra guidance if needed.
