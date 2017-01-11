@@ -1,8 +1,8 @@
 {% if site.data.menu[include.menuPath] %}
     <ul {% if include.ulClass %}class="{{ include.ulClass }}"{% endif %}>
         {% for item in site.data.menu[include.menuPath] %}
-            {% assign itemUrl = item.path | prepend: '/' %}
-            {% assign pageData = site.data.pages[itemUrl] %}
+            {% comment %}{% assign itemUrl = item.path | prepend: '/' %}
+            {% assign pageData = site.data.pages[itemUrl] %}{% endcomment %}
 
             {% if include.submenu == true %}
                 {% if item.parent == nil %}
@@ -11,7 +11,8 @@
                             {% if item.icon %}
                                 <i class="fa fa-li fa-{{ item.icon }}"></i>
                             {% endif %}
-                            {{ pageData.menu-title }}
+                            {{ item.title }}
+                            {% comment %}{{ pageData.menu-title }}{% endcomment %}
                         </a>
                         {% if include.submenu %}
                             {% include menu.html menuPath=item.submenu submenu=include.submenu %}
@@ -25,7 +26,8 @@
                             {% if item.icon %}
                                 <i class="fa fa-fw fa-{{ item.icon }}"></i>
                             {% endif %}
-                            {{ pageData.menu-title }}
+                            {{ item.title }}
+                            {% comment %}{{ pageData.menu-title }}{% endcomment %}
                         </a>
                         {% if include.submenu %}
                             {% include menu.html menuPath=item.submenu submenu=include.submenu %}
@@ -38,7 +40,8 @@
                                 {% if item.icon %}
                                     <i class="fa fa-fw fa-{{ item.icon }}"></i>
                                 {% endif %}
-                                {{ pageData.menu-title }}
+                                {{ item.title }}
+                                {% comment %}{{ pageData.menu-title }}{% endcomment %}
                             </a>
                         </strong>
                     </li>

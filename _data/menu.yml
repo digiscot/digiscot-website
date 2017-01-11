@@ -1,107 +1,164 @@
 root:
-  - path:
-  - path: participation/
+  - title: Home
+    path:
+  - title: Participation
+    path: participation/
     submenu: participation
-  - path: evolution/
+  - title: Evolution
+    path: evolution/
     submenu: evolution
-  - path: innovation/
+  - title: Innovation
+    path: innovation/
     submenu: innovation
-  - path: about/
+  - title: About
+    path: about/
     submenu: about
 
 innovation:
-  - path: innovation/
+  - title: Innovation
+    path: innovation/
     parent: true
-  - path: innovation/milo/library/
-  - path: innovation/milo/training/
+  - title: Milo library
+    path: innovation/milo/library/
+  - title: Milo training
+    path: innovation/milo/training/
 
 evolution:
-  - path: evolution/
+  - title: Evolution
+    path: evolution/
     parent: true
-  - path: evolution/one-digital-meetups/
-  - path: evolution/senior-leader-programme/
+  - title: One Digital events
+    path: evolution/one-digital-meetups/
+  - title: Senior Leader Development Programme
+    path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
 
 
 participation:
-  - path: participation/
+  - title: Participation
+    path: participation/
     parent: true
-  - path: participation/apply-for-funding/
+  - title: Apply for funding
+    path: participation/apply-for-funding/
     submenu: participation-apply-for-funding
-  - path: participation/projects/
-  - path: participation/basic-digital-skills/
-  - path: participation/library/
-  - path: participation/one-digital/
+  - title: Projects
+    path: participation/projects/
+  - title: Basic digital skills
+    path: participation/basic-digital-skills/
+  - title: Browse the library
+    path: participation/library/
+  - title: One Digital
+    path: participation/one-digital/
 
 participation-projects:
-  - path: participation/
+  - title: Participation
+    path: participation/
     parent: true
-  - path: participation/projects/
+  - title: Projects
+    path: participation/projects/
     parent: true
-  - path: participation/projects/tags/
-  - path: participation/projects/map/
+  - title: Project Tags
+    path: participation/projects/tags/
+  - title: Projects Map
+    path: participation/projects/map/
 
 participation-resources:
-  - path: participation/
+  - title: Participation
+    path: participation/
     parent: true
-  - path: participation/resources/
+  - title: Resources
+    path: participation/resources/
     parent: true
-  - path: participation/resources/products-services-and-tools/
-  - path: participation/resources/research-and-reports/
-  - path: participation/resources/articles-webpages-and-blogs/
+  - title: Products, Services, & Tools
+    path: participation/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: participation/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: participation/resources/articles-webpages-and-blogs/
 
 innovation-resources:
-  - path: innovation/
+  - title: Innovation
+    path: innovation/
     parent: true
-  - path: innovation/resources/
+  - title: Resources
+    path: innovation/resources/
     parent: true
-  - path: innovation/resources/products-services-and-tools/
-  - path: innovation/resources/research-and-reports/
-  - path: innovation/resources/articles-webpages-and-blogs/
+  - title: Products, Services, & Tools
+    path: innovation/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: innovation/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: innovation/resources/articles-webpages-and-blogs/
 
 evolution-resources:
-  - path: evolution/
+  - title: Evolution
+    path: evolution/
     parent: true
-  - path: evolution/resources/
+  - title: Resources
+    path: evolution/resources/
     parent: true
-  - path: evolution/resources/products-services-and-tools/
-  - path: evolution/resources/research-and-reports/
-  - path: evolution/resources/articles-webpages-and-blogs/
+  - title: Products, Services, & Tools
+    path: evolution/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: evolution/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: evolution/resources/articles-webpages-and-blogs/
 
 participation-apply-for-funding:
-  - path: participation/
+  - title: Participation
+    path: participation/
     parent: true
-  - path: participation/apply-for-funding/
+  - title: Apply for Funding
+    path: participation/apply-for-funding/
     parent: true
-  - path: participation/apply-for-funding/context/
-  - path: participation/apply-for-funding/learning-to-be-considered/
-  - path: participation/apply-for-funding/funding-criteria/
-  - path: participation/apply-for-funding/faq/
-  - path: participation/apply-for-funding/apply-now/
+  - title: Context
+    path: participation/apply-for-funding/context/
+  - title: Learning to be considered
+    path: participation/apply-for-funding/learning-to-be-considered/
+  - title: Funding criteria
+    path: participation/apply-for-funding/funding-criteria/
+  - title: FAQ
+    path: participation/apply-for-funding/faq/
+  - title: Apply now
+    path: participation/apply-for-funding/apply-now/
 
 evolution-senior-leader-programme:
-  - path: evolution/
+  - title: Evolution
+    path: evolution/
     parent: true
-  - path: evolution/senior-leader-programme/
+  - title: Senior Leader Programme
+    path: evolution/senior-leader-programme/
     parent: true
-  - path: evolution/senior-leader-programme/context/
-  - path: evolution/senior-leader-programme/structure/
-  - path: evolution/senior-leader-programme/application-criteria/
-  - path: evolution/senior-leader-programme/apply-now/
+  - title: Context
+    path: evolution/senior-leader-programme/context/
+  - title: Structure
+    path: evolution/senior-leader-programme/structure/
+  - title: Application criteria
+    path: evolution/senior-leader-programme/application-criteria/
+  - title: Apply now
+    path: evolution/senior-leader-programme/apply-now/
 
 about:
-  - path: about/
+  - title: About
+    path: about/
     parent: true
-  - path: about/board/
-  - path: about/annual-report-2015/
-  - path: about/contact/
+  - title: Board
+    path: about/board/
+  - title: Annual Report 2015
+    path: about/annual-report-2015/
+  - title: Contact
+    path: about/contact/
 
 footer:
-  - path: about/
+  - title: About
+    path: about/
     icon: info-circle
-  - path: about/contact/
+  - title: Contact
+    path: about/contact/
     icon: bullhorn
-  - path: https://twitter.com/digiscot
+  - title: Follow @digiscot
+    path: https://twitter.com/digiscot
     icon: twitter
-  - path: about/#subscribe
+  - title: Join our e:bulletin
+    path: about/#subscribe
     icon: envelope
