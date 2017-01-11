@@ -30,7 +30,7 @@ evolution:
   - title: One Digital events
     path: evolution/one-digital-meetups/
   - title: Senior Leader Development Programme
-    path: evolution/senior-leader-programme
+    path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
 
 
@@ -148,8 +148,6 @@ about:
     path: about/annual-report-2015/
   - title: Contact
     path: about/contact/
-  - title: Tools
-    path: about/resources/products-services-and-tools/
 
 footer:
   - title: About

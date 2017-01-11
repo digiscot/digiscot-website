@@ -1,6 +1,7 @@
 ---
 layout: markdown
 title: Scotland's Digital Participation Charter Fund
+menu-title: Learning to be considered
 excerpt: Call for Funding – Autumn 2016
 permalink: /participation/apply-for-funding/learning-to-be-considered/
 submenu: participation-apply-for-funding

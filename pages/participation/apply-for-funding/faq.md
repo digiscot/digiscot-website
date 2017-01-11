@@ -1,6 +1,7 @@
 ---
 layout: markdown
 title: Scotland's Digital Participation Charter Fund
+menu-title: FAQ
 excerpt: Call for Funding – Autumn 2016
 permalink: /participation/apply-for-funding/faq/
 submenu: participation-apply-for-funding

@@ -6,9 +6,10 @@ module Jekyll
         key = page.url
         site.data['pages'][key] = {
           'title' => page['title'],
+          'menu-title' => page['menu-title'] || page['title'],
           'excerpt' => page['excerpt'],
           'icon' => page['icon'],
-          'faicon' => page['fa-icon'],
+          'fa-icon' => page['fa-icon'],
           'category' => page['category']
         }
       end
