@@ -17,7 +17,9 @@ Our website is powered by a service called [GitHub Pages](https://pages.github.c
 
 Creating an account is free and you only need to do this step once.  The video below will guide you through the sign up process.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/EVorj_yZ6M0?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/EVorj_yZ6M0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Updating a page
 
@@ -31,7 +33,9 @@ Follow these steps to send us an update:
 
 The last step will notify us that there are changes pending, and from here it's our job to review and then publish your updated page.  To see a quick walkthrough of this process, just watch the video below.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/KMvX20Vm7XA?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/KMvX20Vm7XA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Tips for editing your page
 
@@ -56,7 +60,9 @@ Here are some useful tips for editing the content:
 
 Our pages accept HTML, which means you can embed photos, videos and social media from other websites. The details will be different depending on which services you decide to use, but you'll usually be looking for an option called "embed" which will give you some code to copy and paste into your page.  The short video below will give you a brief overview of how to embed different types of media on your page.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6O_DtL9DBH0?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/6O_DtL9DBH0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Here are a few services that we like:
 
