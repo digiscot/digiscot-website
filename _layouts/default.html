@@ -1,16 +1,18 @@
+---
+  titles: []
+---
+
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
+  {% include menu-titles.html %}
   <body>
+      {% include header.html %}
 
-    {% include header.html %}
-    
-    {{ content }}
+      <div id="site-content">
+        {{ content }}
+      </div>
 
-    {% include footer.html %}
-
+      {% include footer.html %}
   </body>
-
 </html>

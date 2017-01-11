@@ -1,9 +1,30 @@
-- name: Lynne Swann
+- name: Chris Yiu
+  job: Director
+  image: chris.png
+  phone:
+  email:
+  twitter: clry2
+  linkedin: http://www.linkedin.com/in/clry2
+- name: Gillian Munro
+  job: Digital Participation Development Officer
+  image: gillian.JPG
+  phone:
+  email: 
+  twitter: digi_gill
+  linkedin:
+- name: Alastair Watson
+  job: Development Officer, Charter and Projects
+  image: alastair.jpg
+  phone:
+  email:
+  twitter: digit_aly
+  linkedin: https://www.linkedin.com/pub/alastair-watson/41/88b/2b2
+- name: Aron Seemel
   job: 
-  image: lynne.jpg
+  image: 
   phone: 
   email: 
-  twitter: LAS3158
+  twitter: 
   linkedin: 
 - name: Mary Sinclair
   job: 
@@ -11,4 +32,32 @@
   phone: 
   email: 
   twitter: marysinclair5
+  linkedin: 
+- name: Lynne Swann
+  job: 
+  image: lynne.jpg
+  phone: 
+  email: 
+  twitter: LAS3158
+  linkedin: 
+- name: Kevin Bradley
+  job: 
+  image: kevin.jpg
+  phone: 
+  email: 
+  twitter: TheAceofKs
+  linkedin: 
+- name: Andrew Watson
+  job: 
+  image: andrew.jpg
+  phone: 
+  email: 
+  twitter: 
+  linkedin: 
+- name: Rikki Dobson
+  job: 
+  image: rikki.jpg
+  phone: 
+  email: 
+  twitter: 
   linkedin: 

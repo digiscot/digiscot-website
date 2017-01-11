@@ -1,0 +1,11 @@
+{% assign j = 0 %}
+{% assign titles = '' | split: ',' %}
+{% for page in site.pages %}
+    {% assign j = j | plus: 1 %}
+    {% assign key = page.url | replace: '/', '' | replace: '-', '' %}
+    <!-- {{ j }}: {{ key }} | {{ page.title }} -->
+{% endfor %}
+
+<!--
+{{ titles | jsonify }}
+-->

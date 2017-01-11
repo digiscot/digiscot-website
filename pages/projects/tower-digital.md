@@ -3,16 +3,16 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
 title: Silverscreen Project
-excerpt: 
+excerpt:
 lead: The Tower Digital Arts Centre
 website: http://thetoweronline.com
 email: brian@thetoweronline.com
-twitter-url: 
+twitter-url:
 facebook-url: https://www.facebook.com/thetowerhelensburgh
 start: 16 November 2015
 end: 18 July 2016
 award: 8200
-postcode: G84 8TR		
+postcode: G84 8TR
 image: /images/projects/tower.jpg
 tags: older-people
 permalink: /projects/towerdigital/
@@ -36,11 +36,11 @@ We believe elderly people will go online or will agree to be trained to go onlin
 
 ### Planned outputs and outcomes
 
-* Over 120 elder people in Helensburgh will be digital enabled allowing them to manage information, communicate, transact, participate and create online thus transforming their daily lives and their involvement in the local community. 
+* Over 120 elder people in Helensburgh will be digital enabled allowing them to manage information, communicate, transact, participate and create online thus transforming their daily lives and their involvement in the local community.
 
 * The Tower will continue to operate SilverScreen Training in the future.
 
-* We will create a handful of digital evangelists from the first series who will be coached to blog and encouraged to participate in other courses at the Apple training centre (film making, script writing, editing etc..) 
+* We will create a handful of digital evangelists from the first series who will be coached to blog and encouraged to participate in other courses at the Apple training centre (film making, script writing, editing etc..)
 
 
 ### Evaluation

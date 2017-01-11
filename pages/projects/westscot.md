@@ -3,12 +3,12 @@ warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
 title: Digital Inclusion Coordinator
-excerpt: Digital Inclusion Coordinator to teach digital skills 
-lead: West of Scotland Housing Association 
+excerpt: Digital Inclusion Coordinator to teach digital skills
+lead: West of Scotland Housing Association
 website: http://www.westscot.co.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: April 2016
 award: 9901
@@ -23,90 +23,101 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-This project will employ a part-time Digital Inclusion Communications Coordinator at our Learning Centre at the G31 Centre, a community center in the heart of Camlachie, Glasgow. The G31 Learning Centre is part of the wider John Wheatley Learning Network, and is run in partnership with Glasgow Kelvin College.
+West of Scotland Housing Association (WSHA) will employ a part-time Digital Inclusion Co-ordinator (DIC) on a 12-month contract. Primary responsibilities will include co-ordinating digital inclusion activities at the G31 Centre, a community centre in the heart of Barrowfield, Glasgow, and delivering outreach appointments at other WSHA locations.
 
-The Coordinator role will include facilitating the Learning Centre’s operation, registering new users and assisting service users in getting the most out of equipment and software. The Coordinator will work alongside the Regeneration Department at WSHA in the creation and continual evaluation of a timetable of activities at the G31 Learning Centre to ensure that the community's needs are being addressed.
+The DIC will identify digitally-excluded tenants, to understand and cater for their digital needs with a view to specifically focusing on three key target groups: older tenants, benefit/employment-seekers and those with disabilities.  To ensure that the community’s needs are being addressed, the DIC will liaise with key partners and other local service users, to create sustainable partnerships and generate project ideas.
 
-The Coordinator will also liaise with key partners and other local service users - particularly existing G31 Centre users - to create sustainable partnerships and encourage further cross-demographic use of the ILC facilities, focusing in particular at engaging the Over 60s tenants, Benefit Seekers and those with mental and physical disabilities. This will be achieved through organising focus groups and holding workshop sessions to identify key needs, and subsequently generating project ideas to meet these needs.
 
 
 ## Project milestones
 
-### Month 1
+In July 2015, WSHA employed a DIC to work two days each week.  It was agreed that the post would be split between outreach work and direct delivery from the G31 Centre’s Inclusive Learning Centre.  A number of activities took place and have been broken down below.
+Older People
 
-- April 2015 : Digital Inclusion Coordinator Job listed & open for application
+To engage people aged over 60, the DIC worked in conjunction with WSHA’s Older Person Co-ordinator to identify digitally-excluded older tenants.  Through consultations and focus groups, sheltered housing complexes in Cumbernauld and Stonehouse were identified as having a need for digital support.  Communal WIFI has been provided at these locations for 12 months through the funding received.
 
-### Month 2
+Drop-in Sessions
 
-- May 2015   : 2x Lenovo Yoga 2 13.3" netbooks purhcased with first batch of funding. The Lenovo notebooks were selected due to their flexibility - they can act as Laptops or fold into flat Tablets, giving a range of training options for different user-bases.
+The DIC held weekly IT drop-in sessions at the Inclusive Learning Centre.  This was heavily promoted in Barrowfield and the surrounding communities through the distribution of flyers to every WSHA household.  New users were registered to the Kelvin College learning network and individual IT needs and queries were addressed. These drop in sessions mainly involved assisting tenants with tablets/smart phones, covering areas such as camera use, Wi-Fi and using widgets.
 
-### Month 3
+Youth Organisation Digital Newsletter
 
-- June 2015  : Interviews for the Digital Inclusion Coordinator post completed, and Niamh Timulty has been hired
- 
-### Month 4
+The DIC worked with two local youth organisations, South Barrowfield Youth Project and PEEK, to develop a digital newsletter with children aged 11-13. This was an eight week programme delivered from the Inclusive Learning Centre in Barrowfield.
+Benefit Seekers
 
-- 7th July 2015 : Niamh officially started in her post as Digital Inclusion Coordinator
-- 7th July 2015 : Niamh was introduced to the G31 Centre Staff and given a full induction to the G31 Learning Centre computer suite.
-- 15th July 2015 : Niamh visited Denmilne Gardens Sheltered Complex with Alison Cameron (WSHA's Older Persons Coordinator) to touch base with some of the residents, and to attempt to identifiy avenues through which to engage with Older People. Niamh will attend Denmilne Gardens at the end of a current Arts & Crafts project to introduce some of the community to digital communication.
-- 23rd July 2015 : Niamh and Marco visited Dawn McManus from Thenue Housing to learn about how they utilise digital technology to facilitate Community Engagement and Employability programme.
-- 29th July 2015 : Niamh and Marco met with Sarah Barnes from Glasgow Kelvin College to touch base, re-assess the G31 Learning Centre's timetable and discuss the inauguration process for a new year's worth of Learning Network sign-ups.
-- 29th July 2015: Niamh met with WSHA's financial wellbeing team to discuss future money advice sessions at the Inclusive Learning Centre, and the potential involvement of Credit Unions as part of a wider money-saving service
+The DIC worked with Healthy North Glasgow and Thenue Housing Association to assist in the delivery of an eight week ‘Health Issues in the Community’ programme to 10 benefit claimants. The DIC’s role was IT facilitation assisting participants to use word processing packages and to prepare power point presentations.
 
-### Month 5
+The DIC worked with internal WSHA departments including Financial Wellbeing and Welfare Rights to identify tenants that needed assistance with job-searching and CV-building. This was done on an ad hoc, case-by-case basis and took place at the Inclusive Learning Centre.
 
-- 5th August 2015 : All part of the John Wheatley Learning Network centres have begun the 2015-2016 year starting 31st July/1st August. This requires all users who have signed up to the Network to re-open their accounts in order to gain access to the G31 Learning Centre and other members of the wider network. Resultantly, Niamh and Marco held a session with one of the G31 Centre's staff on Wed 5th Aug to re-register a number of previous users who have expressed interest in continuing to use the G31 Learning Centre.
-- 5th August 2015 : Niamh attended the weekly Tea Dance at the G31 Centre. This event, organised in collaboration with Thriving Places, attracts a range of attendees from across Glasgow, including Older People and some John Orr Day Care service users who experience learning difficulties. The Tea Dance was cited as an excellent opportunity to meet with some Older People, and local service users with Disabilities. 
-- 5th August 2015 : Niamh was introduced to Mhairi from Axis (North Glasgow Healthy Living Commmunity) and a volunteer from the Camlachie Communtiy who have exptressed interest in further involvement in the G31 Learning Centre in collaboration with the John Orr Day Care service offered by Care UK.
-- 6th August 2015 : On Dawn McManus' suggestionNiamh and Marco visited the Thenue Housing Association weekly drop-in aimed at giving IT support to Older People in the Bridgeton and Calton areas. This was useful to touch base with similar services and avoid service duplication.
+Other
 
- - 6th August: Niamh makes contact with a Community Development Officer from Age Scotland, Charlie Murphy, about the iTea & Biscuits initiative that Age UK ran in the past. The project aims to bring a range of organisations together to promote and celebrate the benefits of digital inclusion for people in later life. Charlie was eager to revive the project and collaborate with WSHA on delivering a course in the G31 Centre for our older tenants. 
-11th August: Niamh & Marco met with Stephen and Frances Bradley from Glasgow Life, to find out about the types of courses they deliver. It was discovered that they do mostly taster sessions and then they tend to promote and sign-post after that. To set up a tutor-led session in the G31 centre, they require a minimum of 6 tenants to express interest. Following this meeting, the sustainability of these courses arose as an issue, as the courses are more ‘awareness-raising’ in nature. E.g. They run a Glasgow History/Family History course, and can do this remotely for a couple of weeks, but with the expectation that customers would eventually attend sessions in the Mitchell Library, which conflicts with what we’re trying to achieve, i.e. increased use of the computer suite facility in the G31 Community Centre. 
- - 11th August: Marco & Niamh met with Rosemary from Care UK, which coordinates the John Orr Day Care group, a group of people with a range of physical and mental disabilities. The John Orr group already make use of the computer suite one afternoon a week, but this is not tutor-led so they are not able to grow and develop their IT capabilities. Off the back of this meeting, Marco put in an application to Kelvin College for a specialised tutor to lead the group in an IT session every week at the G31 Centre.
- - 12th August: Niamh & Marco met with Kelly Glass from SCYP (South Camlachie Youth Project), whose offices are based in the G31 Centre.  The idea of a digital newsletter for 11-12 year olds was discussed – this would be a 16-20 week programme, and there is the potential that this could be delivered in the G31 Centre computer suite. 
- - 19th August: Marco & Niamh develop a flyer to promote the weekly IT drop-in session at the G31 Centre. These are distributed around the Camlachie community.
- - 20th August: Niamh attends Thenue Housing Association weekly drop-in again to gain further insight to this type of service and build experience and confidence in the provision of IT support to service-users. 
- - 25th August: Niamh visits Veronica at Tollcross Housing Association to learn about their Digital Inclusion programme. Veronica provided Niamh with resources that would enable her to guide a tenant through the use of Universal Credit. She also invited Niamh back to the Job Club so that she could gain experience in delivering a job search session. 
- - 26th August: The first IT drop-in session is held at G31 Centre from 1pm to 5pm. 2 Camlachie residents pick up registration forms but don’t stay. Niamh identified 4 potential service-users at the weekly Tea Dance, which also takes place in G31 Centre at this time. 
-2nd September: Second IT drop-in session. One person attended, needing assistance with operating her tablet. This advice session lasted approximately 1 hour and the kinds of topics covered were: camera use; making sense of WiFi; using Widgets. Niamh also engaged with the women from the previous week – they were still interested in receiving IT support but had forgotten to bring their personal devices with them. 
-
-Month #6
-
- - 8th September: Marco & Niamh meet with Donna from Healthy North Glasgow and Dawn McManus & Shayron Anderson from Thenue. The meeting was to discuss using the G31 computer suite to deliver an 8-week IT support programme to accompany the Axis HIIC course. 
- - 9th September: Third IT drop-in session. The woman from the week before sent her husband to Niamh for help operating his new smart phone. This session lasted approximately 2 hours. For the next 2 weeks, this husband and wife return to Niamh for further assistance on their devices. 
- - 17th September: Digital Inclusion Outreach visit – Niamh went to Linthaugh Gardens with the Older Person’s Coordinator, Alison to explore the idea of holding IT sessions in their communal area. Engaged with 2 people who were interested, both of whom have their own laptops/iPads already, but wished to improve their skills. Looked into WiFi options for the common room.  - 23rd September: nobody attended the drop-in session. However one of the volunteers working in the centre asked Niamh for internet job-searching and CV-building advice, on behalf of her 16-year old who had just left school. 
- - 30th September: nobody attended the drop-in session. Marco and Niamh reviewed how effective this time-slot is and decided not to hold it again until we came up with an alternative. 
-
-Month #7
-
- - 1st October: Niamh visited more WSHA sheltered housing on Witch Road in Kilmarnock, with Alison & Michelle the Volunteer Coordinator. There was a coffee afternoon held in the common room, to encourage tenants to give us their ideas for a weekly social activity. Attendance was poor; however Niamh identified one tenant who was in need of IT support. This tenant had additional needs due to him having a stroke 3 years before. Niamh is looking into signposting him to an AAC (Augmentative & Alternative communication) service in Ayrshire. 
+The DIC carried out sporadic Digital Inclusion work at the Thriving Places weekly Tea Dance at the G31 Centre. This included delivering presentations on how to use social media and assisting individual elderly tenants and residents to use smart phones and tablets. The Tea Dances brought together older people and adults with learning and support needs.
+Occasional work was also carried out with WSHA tenants on the committee and tenants and residents groups to assist with online funding applications, and to set up email and social media accounts.
 
 
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+WSHA had strong existing links to groups of older tenants through the Older Persons Co-ordinator and the Club 60 programme. This made engagement with older tenants easier than was initially anticipated. The Wi-Fi facility which was subsequently set up in two sheltered housing complexes will enhance social connectivity, facilitate caregiver support and improve the communication links between WSHA and tenants/residents. This in turn benefits WSHA, as it creates another line of communication with tenants, which can help minimise a number of housing and tenancy management issues.
+
+The Jobs and CV writing sessions were valuable to participants as the DIC could offer one to one support delivering a service that met individual needs.  Additional digital support was provided that was not available at local Job Centres, library’s etc.
+
+Working in partnership with the Welfare Rights and Financial Wellbeing Teams when assisting these individuals assisted to alleviate a level of stress and anxiety that is often associated with job-hunting whilst considering the current financial circumstances avoiding benefit sanctions.  One participant attended only 3 sessions with the before they were awarded a job.
+
+A number of referrals were also made to partner organisations such as Jobs and Business Glasgow who offered additional support, employability services and courses for tenants.
+
+Initially engaging with tenants who have disabilities proved to be difficult however as the post progressed the DIC engaged with tenants through specialist support agencies including the John Orr Day Care Services and the Accord Day Care Services. The DIC liaised with carers to assist with the installation of voice-recognition apps on devices and to assist with the use of tablets and smartphones.  The DIC liaised with Kelvin College to provide a specialised tutor to work with adults with learning disabilities in a digital capacity.  Referrals were also made to specialist services including the local Augmentative and Alternative Communication Service.
+
 
 ### Outputs and outcomes
 
-Our goal is to increase the number of tenants in disadvantaged communities engaging in digital technology, focusing on the following demographics and milestones:
+WSHA’s goal was to increase the number of tenants who engage with digital technology within disadvantaged communities with a focus on older people, people with disabilities and benefit seekers.
 
-- Older People: we aim to engage with 200 of our over 60s tenants through our existing Club60 programme, and through liaison with the Sheltered Complexes
+Older People
 
-- Disabilities: we aim to egage with 100 service users, via the Accord (in G31 Centre), Care UK and The Mungo Foundation (both of whome have facilities in Camlachie)
+Through partnership work with Thriving Places and WSHA’s existing Older Person’s service the DIC engaged with 130 older people. A positive outcome from the project is the communal Wi-Fi which has been made available for 12 months at 2 sheltered housing complexes. In addition to the above noted positive impact this has made it also enabled the DIC to deliver informal IT Skills sessions to the tenants within the complexes.  The DIC assisted to:
 
-- Benefit Seekers: currently our partners Jobs & Businesses Glasgow and Glasgow Homelessness Network engage with 20-30 service users at the ILC. We wish to expand this number to 200-250 users over the next year.
+•	Remove barriers to digital inclusion, e.g. cost, low confidence
+•	Motivate tenants by bringing digital activities into their lives in a way that benefits them
+•	Help tenants feel safe and confident using the internet, by providing simple and straight forward advice and tools
+•	Combat isolation and loneliness by encouraging social gatherings with a focus on IT learning
+
+People with Disabilities
+
+The DIC engaged a total of 35 tenants who have disabilities.  The DIC:
+
+•	Engaged with specialist organisations including the John Orr Day Care Services and the Accord Day Care Services to identify tenants with disabilities who required digital support and assistance
+•	Supported the John Orr Day Care Service to acquire specialised IT tutoring sessions from Kelvin College
+•	Assisted tenants with learning disabilities with the operation tablets and smartphones
+•	Made referrals to specialist services such as the Augmentative and Alternative Communication Service and Speech and Language to provide additional digital support to tenants
+
+Benefit Seekers
+
+The DIC engaged with a total of 60 benefit/employment seekers.  The DIC
+
+•	Facilitated an 8 week programme in partnership with Healthy North Glasgow which sought to assist people in receipt of benefits to programme to challenge health inequalities within their communities
+•	Raised awareness of the facilities available through digital means to access support services within their communities e.g. Job Clubs, Local Council Benefit Services, NHS Services etc.
+•	Promoted learning and capacity building through online digital resources
+•	Ran weekly job hunting/CV creating workshops to increase awareness of the different types of online job-searching platforms.  These workshops aimed to increasing self-esteem and confidence levels by improving the individuals skills and experience of using digital services
+
 
 ### Lessons learned
 
-Things that worked well:
+The project had a number of successes but also highlighted areas for improvement moving forward with the digital inclusion agenda.
 
-1. Text
-2. Text
-3. Text
+Things that worked well
 
-Things that we would do differently next time:
+The project:
 
-1. Text
-2. Text
-3. Text
+•	Formed strong partnerships and working relationships with DIC/WSHA and a variety of partner organisations.  These included Thriving Places, Thenue Housing Association, Healthy North Glasgow, South Camlachie Youth Project, PEEK, the John Orr Day Care Services, The Accord Day Care Services, Axis, and Jobs and Business Glasgow
+•	Engaged with a wide variety of tenants and tenant groups to raise awareness of IT and digital services and to improve the digital abilities of service users
+•	Delivered services tailored to suit individual needs allowing opportunity for services users to develop a level of trust and confidence working with the DIC
+•	Raised awareness of the WSHA’s Digital Inclusion Service with partner organisations and internal departments to ensure staff had the capacity to identify appropriate referrals and to signpost to the service
+•	Introduced free Wi-Fi to two sheltered housing complexes where a large number of tenants had previously faced barriers to internet access ie cost, ability confidence
+
+Things that we would do differently
+
+•	The initial promotion of the service was through the distribution of flyers to every household ad newsletter articles did not prove to be effective.  As the project progressed the DIC worked closely with partners to ensure the project was promoted in other ways ie attending partner services to deliver presentations and through word of mouth, however from the offset this may have been a more appropriate way to engage with service users
+•	The IT drop in sessions at the Inclusive Learning Centre were modelled on similar services in other communities however were at time poorly attended.  Service-users may have benefitted from a more structured, focused programme of IT learning
+•	The DIC operated two days each week however it is acknowledged that it was difficult to make a significant impact in some areas with this limited time to focus on the project.  WSHA would aim to extend the number of days each week when the project operated to provide a better service to tenants and communities
+

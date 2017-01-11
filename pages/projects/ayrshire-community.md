@@ -6,12 +6,12 @@ title: Digital Skills Job Club
 excerpt: Twice weekly Digital Skills Job Club
 lead: Ayrshire Community Trust
 website: http://www.theayrshirecommunitytrust.co.uk/
-email: 
-twitter-url: 
-facebook-url: 
+email:
+twitter-url:
+facebook-url:
 start: April 2015
 end: March 2016
-award: 14268 
+award: 14268
 postcode: KA22 8DQ
 image:
 tags: disabled-people benefits remote-rural
@@ -24,7 +24,7 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 ### Project description
 
 To provide a twice weekly Digital Skills Job Club aimed at those who do not have access to IT and who struggle to use a computer due to a lack of knowledge and skills. People will be supported on a one to one basis in a group setting to set up an email address, register with Universal Job Match and My World of Work, apply for ESA, PIP and other benefits and conduct
-Job searches and keeps their Job Seekers Agreement and account updated in order to prevent sanctions. 
+Job searches and keeps their Job Seekers Agreement and account updated in order to prevent sanctions.
 
 In conjunction with this we wish to provide basic training on how to use Microsoft Office, particularity Word so they feel confident to create CV's and covering letters and know how to save and edit them for future use. We will also provide training on how best to use the internet in order to research employers and to save money. We will do this by employing a part time
 worker (10 hrs per week) and recruiting a team of volunteers to provide the training and one to one support.
@@ -84,17 +84,17 @@ Overall this project has delivered the following:
 
 • Number of visits to Work Clubs = 109
 
-• Number of people reporting an increase in their Digital Skills = 
+• Number of people reporting an increase in their Digital Skills =
 
 • Number of people completing IT Training Programme = 5
 
 • Number of people moving into further learning opportunities =
 
-• Number of people moving into voluntary work = 
+• Number of people moving into voluntary work =
 
 • Number of people referred or signposted to other providers = 8
 
-• Number of people who have reported an increase in confidence, self esteem and mental wellbeing = 
+• Number of people who have reported an increase in confidence, self esteem and mental wellbeing =
 
 In terms of outputs we delivered A, B and C.
 
@@ -105,11 +105,11 @@ In terms of outcomes for the people and groups we care about, this project has P
 Things that worked well:
 
 1. One to one support within the Work Clubs - taking things at the individuals pace.
-2. 
-3. 
+2.
+3.
 
 Things that we would do differently next time:
 
-1. 
-2. 
-3. 
+1.
+2.
+3.

@@ -1,8 +1,9 @@
 # Site settings
 title: SCVO | Digital Participation
 description: We think the internet should be for everyone, so we're leading an ambitious programme to promote digital participation and basic online skills.
-url: "http://digital.scvo.org.uk"
-permalink: /blog/:title/
+url: https://digital.scvo.org.uk
+enforce_ssl: digital.scvo.org.uk
+permalink: /onedigital/blog/:title/
 
 # Account settings
 twitter: digiscot
@@ -11,3 +12,12 @@ ganalytics: UA-3467930-7
 
 # Build settings
 markdown: kramdown
+
+sass:
+    sass_dir: ./_scss
+    style: compressed
+
+gems:
+  - jekyll-redirect-from
+
+menu-titles: []

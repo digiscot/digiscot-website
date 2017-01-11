@@ -1,0 +1,166 @@
+root:
+  - title: Home
+    path:
+  - title: Participation
+    path: participation/
+    submenu: participation
+  - title: Evolution
+    path: evolution/
+    submenu: evolution
+  - title: Innovation
+    path: innovation/
+    submenu: innovation
+  - title: About
+    path: about/
+    submenu: about
+
+innovation:
+  - title: Innovation
+    path: innovation/
+    parent: true
+  - title: Milo library
+    path: innovation/milo/library/
+  - title: Milo training
+    path: innovation/milo/training/
+
+evolution:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: One Digital events
+    path: evolution/one-digital-meetups/
+  - title: Senior Leader Development Programme
+    path: evolution/senior-leader-programme
+    submenu: evolution-senior-leader-programme
+
+
+participation:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Apply for funding
+    path: participation/apply-for-funding/
+    submenu: participation-apply-for-funding
+  - title: Projects
+    path: participation/projects/
+  - title: Basic digital skills
+    path: participation/basic-digital-skills/
+  - title: Browse the library
+    path: participation/library/
+  - title: One Digital
+    path: participation/one-digital/
+
+participation-projects:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Projects
+    path: participation/projects/
+    parent: true
+  - title: Project Tags
+    path: participation/projects/tags/
+  - title: Projects Map
+    path: participation/projects/map/
+
+participation-resources:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Resources
+    path: participation/resources/
+    parent: true
+  - title: Products, Services, & Tools
+    path: participation/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: participation/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: participation/resources/articles-webpages-and-blogs/
+
+innovation-resources:
+  - title: Innovation
+    path: innovation/
+    parent: true
+  - title: Resources
+    path: innovation/resources/
+    parent: true
+  - title: Products, Services, & Tools
+    path: innovation/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: innovation/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: innovation/resources/articles-webpages-and-blogs/
+
+evolution-resources:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Resources
+    path: evolution/resources/
+    parent: true
+  - title: Products, Services, & Tools
+    path: evolution/resources/products-services-and-tools/
+  - title: Research, & Reports
+    path: evolution/resources/research-and-reports/
+  - title: Articles, Webpages, & Blogs
+    path: evolution/resources/articles-webpages-and-blogs/
+
+participation-apply-for-funding:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Apply for Funding
+    path: participation/apply-for-funding/
+    parent: true
+  - title: Context
+    path: participation/apply-for-funding/context/
+  - title: Learning to be considered
+    path: participation/apply-for-funding/learning-to-be-considered/
+  - title: Funding criteria
+    path: participation/apply-for-funding/funding-criteria/
+  - title: FAQ
+    path: participation/apply-for-funding/faq/
+  - title: Apply now
+    path: participation/apply-for-funding/apply-now/
+
+evolution-senior-leader-programme:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Senior Leader Programme
+    path: evolution/senior-leader-programme/
+    parent: true
+  - title: Context
+    path: evolution/senior-leader-programme/context/
+  - title: Structure
+    path: evolution/senior-leader-programme/structure/
+  - title: Application criteria
+    path: evolution/senior-leader-programme/application-criteria/
+  - title: Apply now
+    path: evolution/senior-leader-programme/apply-now/
+
+about:
+  - title: About
+    path: about/
+    parent: true
+  - title: Board
+    path: about/board/
+  - title: Annual Report 2015
+    path: about/annual-report-2015/
+  - title: Contact
+    path: about/contact/
+  - title: Tools
+    path: about/resources/products-services-and-tools/
+
+footer:
+  - title: About
+    path: about/
+    icon: info-circle
+  - title: Contact
+    path: about/contact/
+    icon: bullhorn
+  - title: Follow @digiscot
+    path: https://twitter.com/digiscot
+    icon: twitter
+  - title: Join our e:bulletin
+    path: about/#subscribe
+    icon: envelope

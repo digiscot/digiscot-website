@@ -1,0 +1,48 @@
+<h3>
+    <a href="{{ include.item.url }}">
+        {{ include.item.name }}
+    </a>
+</h3>
+
+<div>
+    <span class="chip">
+        <strong>Charity Discount: </strong>
+        {% if include.item.charity-discount %}
+            <i class="fa fa-fw fa-thumbs-up"></i>
+            Aye
+        {% else %}
+            <i class="fa fa-fw fa-thumbs-down"></i>
+            Naw
+        {% endif %}
+    </span>
+
+    {% if include.item.entry-cost or include.item.full-cost %}
+    <span class="chip">
+        <i class="fa fa-fw fa-gbp"></i>
+        {{ include.item.entry-cost }}
+        {% if include.item.entry-cost and include.item.full-cost %}
+            &mdash;
+        {% endif %}
+        {{ include.item.full-cost }}
+    </span>
+    {% endif %}
+
+    <i class="fa fa-fw fa-tags"></i><i class="fa fa-fw fa-chevron-right"></i>
+
+    {% unless include.item.tags and include.item.tags | size > 0 %}
+        <span class="chip">No Tags</span>
+    {% endunless %}
+
+    {% for tag in include.item.tags %}
+        <a href="{{ page.url }}#{{ tag }}" class="chip">
+            <i class="fa fa-fw fa-tag"></i>
+            {{ tag }}
+        </a>
+    {% endfor %}
+</div>
+
+<p>
+    {{ include.item.description }}
+</p>
+
+<div class="clearfix"></div>

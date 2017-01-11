@@ -5,10 +5,10 @@ call: 2
 title: Choice and use of Digital Computers
 excerpt: Introduction to computers, tablets and notebooks and how to use them
 lead: Bonkle Computer Club
-website: http://www.bonkleclub.plus.com/index.html 
-email: 
-twitter-url: 
-facebook-url: 
+website: http://www.bonkleclub.plus.com/index.html
+email:
+twitter-url:
+facebook-url:
 start: March 2015
 end: August 2015
 award: 900
@@ -49,7 +49,7 @@ In terms of outputs we delivered suitable tuition on the choice and use of diffe
 
 In terms of outcomes for the people and groups we care about, this project has helped them to choose a suitable computer for their use and introduced them to the use of such a unit.
 
-### Lessons learned. 
+### Lessons learned.
 As the course was designed as an initial introduction to the choice of a computer and its use, further tuition will be required to develop their skills in the use of that particular computer. This is available as the Computer Club itself is firmly established on an ongoing basis.
 
 Things that worked well:

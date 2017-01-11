@@ -1,31 +1,22 @@
-<div class="navbar navbar-inverse navbar-static-top" role="navigation">
-  <div class="container">
-    
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/"><i class="fa fa-home"></i> Home</a>
+<a name="top"></a>
+<nav class="grey darken-3" id="header">
+    <div class="container-fluid">
+        <div class="nav-wrapper">
+            <a href="" class="brand-logo">
+                <img src="images/scvo-inverse.png" height="40" style="vertical-align:middle;margin-top:-5px;">
+            </a>
+            <span class="right hide-on-med-and-down">
+                {% include menu.html menuPath="root" submenu=false %}
+            </span>
+            <a href="{{ page.url }}#" data-activates="side-nav" class="button-collapse">
+                <i class="material-icons">menu</i>
+            </a>
+        </div>
     </div>
-    
-    {% assign current = page.url | downcase | split: '/' %}
-    
-    <div class="collapse navbar-collapse" id="navbar-collapse-1">
-    
-      <ul class="nav navbar-nav">
-        <li{% if current[1] == "resources" %} class="active"{% endif %}><a href="/resources/">Resources</a></li>
-        <li{% if current[1] == "charter" %} class="active"{% endif %}><a href="/charter/">Charter</a></li>        
-        <li{% if current[1] == "projects" %} class="active"{% endif %}><a href="/projects/">Projects</a></li>        
-        <li{% if current[1] == "onedigital" %} class="active"{% endif %}><a href="/onedigital/">One Digital</a></li> 
-        <li{% if current[1] == "data" %} class="active"{% endif %}><a href="/data/">Data</a></li>
-        <li{% if current[1] == "events" %} class="active"{% endif %}><a href="/events/">Events</a></li> 
-        <li{% if current[1] == "about" %} class="active"{% endif %}><a href="/about/">About</a></li>      
-      </ul>        
-
-    </div>
-    
-  </div>
+</nav>
+<div id="side-nav" class="side-nav">
+    {% include menu.html menuPath="root" submenu=true %}
 </div>
+<div id="scaffold"></div>
+{% include masthead.html %}
+{% include submenu.html %}

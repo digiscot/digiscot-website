@@ -1,0 +1,36 @@
+---
+layout: default
+fa-icon: fa-list
+---
+
+<div class="section headingless">
+    <div class="container-fluid">
+        <p class="flow-text">
+            We have hand collated many resources we think you might find useful. Chose your type of resource below.
+        </p>
+
+
+        <div class="row equal">
+            {% for p in site.pages %}
+                {% if p.category == page.category and p.layout == 'resources' %}
+                    <div class="col s12 m6 offset-m3 l4">
+                        <div class="card hoverable horizontal">
+                            <div class="card-image card-image-fa">
+                                <i class="fa fa-fw {{ p.fa-icon }} fa-5x"></i>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="card-content">
+                                    <a href="{{ p.url }}" class="card-title">{{ p.title | upcase }}</a>
+                                    <p>{{ p.excerpt }}</p>
+                                </div>
+                                <div class="card-action">
+                                    <a href="{{ p.url }}">view resources</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
