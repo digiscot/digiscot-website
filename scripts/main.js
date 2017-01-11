@@ -32,14 +32,14 @@ $(document).ready(function () {
     });
     headroom.init();
 
-    var tagroom = null;
-    var tagHeader = $('#tag-header');
-    if(tagHeader.length > 0){
-        tagroom = new Headroom(document.querySelector('#tag-header'), {
-            offset: -64
-        });
-        tagroom.init();
-    }
+    // var tagroom = null;
+    // var tagHeader = $('#tag-header');
+    // if(tagHeader.length > 0){
+    //     tagroom = new Headroom(document.querySelector('#tag-header'), {
+    //         offset: -64
+    //     });
+    //     tagroom.init();
+    // }
 
     $(window).on('hashchange', hashChange);
 
