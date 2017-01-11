@@ -5,6 +5,7 @@ fa-icon: fa-file-o
 
 {% assign items = site.data[page.data-source] %}
 {% assign template = page.data-source | append: '-item.html' %}
+{% assign minor-template = page.data-source | append: '-minor-item.html' %}
 
 <!-- INCLUDE TEMPLATE: {{ template }} -->
 
@@ -72,7 +73,7 @@ fa-icon: fa-file-o
 </div>
 
 {% for item in items %}
-    {% if item.categories contains page.category %}
+    {% if item.categories contains page.category and item.important %}
         <div class="section" data-tags="{{ item.tags | join: ', ' }}">
             <div class="container-fluid">
                 {% include {{ template }} item=item %}
@@ -83,3 +84,20 @@ fa-icon: fa-file-o
 
     {% endif %}
 {% endfor %}
+
+<div class="section">
+    <div class="container-fluid">
+        <h2>Other resources</h2>
+        {% for item in items %}
+            {% if item.categories contains page.category %}
+                {% unless item.important %}
+                <div class="other-item" data-tags="{{ item.tags | join: ', ' }}">
+                    {% include {{ minor-template }} item=item %}
+                </div>
+
+                <div class="divider" data-tags="{{ item.tags | join: ', ' }}"></div>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
