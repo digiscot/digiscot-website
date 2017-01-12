@@ -50,7 +50,7 @@ Participants will be able to choose which device(s) they use to learn with inclu
 ### Evaluation
 
 
-### Lessons learned
+### Lessons learned 
 
 
 
