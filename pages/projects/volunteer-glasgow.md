@@ -75,3 +75,10 @@ The learners had a good time made new friends and all completers were presented 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some of Volunteer Glasgow&#39;s digital skills class learners with St Fernando in the middle. <a href="https://t.co/0ONfpG63s7">pic.twitter.com/0ONfpG63s7</a></p>&mdash; Volunteering Works (@volworksglasgow) <a href="https://twitter.com/volworksglasgow/status/743083162738249728">June 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Project Update
+
+We completed our third cohort of learners in December, where we had 6 learners start the programme, with 5 people completing. The learners covered similar subjects as in previous programmes, searching internet, cloud storage, social media and looking for volunteering opportunities. This time round we had a mix of older and younger people and refugee/asylum seekers and some native Glaswegians. This worked well as the refuges gained valuable local language and the Glaswegians gained a greater understanding of issues related to refugees.
+
+https://twitter.com/volworksglasgow/status/819882700437934080
+
+We are also running a programme between January and March as we were unable to run a class over the summer, due to staff shortages and look forward to another fun filled programme.
