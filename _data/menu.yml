@@ -38,9 +38,6 @@ participation:
   - title: Participation
     path: participation/
     parent: true
-  - title: Apply for funding
-    path: participation/apply-for-funding/
-    submenu: participation-apply-for-funding
   - title: Projects
     path: participation/projects/
   - title: Basic digital skills
