@@ -78,8 +78,12 @@ We found it beneficial to be flexible with our recruitment of volunteers. We sti
 
 We found the best way of recruiting leaners who wanted this support was through our ESOL classes. Many of these people were frustrated at not being able to learn IT skills and were very keen to do this. This was the very reason we set up the project.
 
+{:.responsive-img}
 ![abigail and hassan1](https://cloud.githubusercontent.com/assets/20575614/21897595/01c3bd3e-d8e2-11e6-8466-17cbc6c06e8d.jpg)
+{:.responsive-img}
 ![shabrina and illshwa](https://cloud.githubusercontent.com/assets/20575614/21897623/1a59dc34-d8e2-11e6-9d5a-9599a511a68e.JPG)
+{:.responsive-img}
 ![dsc_0385](https://cloud.githubusercontent.com/assets/20575614/21897637/21a3d6f2-d8e2-11e6-9ca0-b8b53ac91bbc.JPG)
+{:.responsive-img}
 ![dsc_0380](https://cloud.githubusercontent.com/assets/20575614/21897647/29a5822e-d8e2-11e6-8871-d6bca12ce0d7.JPG)
 
