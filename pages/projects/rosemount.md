@@ -47,7 +47,7 @@ Participants will be able to choose which device(s) they use to learn with inclu
 
 * Increase the skills of volunteers to support people to develop their digital skills.
 
-### Evaluation
+### Evaluation 
 
 
 ### Lessons learned
