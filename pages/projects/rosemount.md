@@ -48,9 +48,38 @@ Participants will be able to choose which device(s) they use to learn with inclu
 * Increase the skills of volunteers to support people to develop their digital skills.
 
 ### Evaluation 
+We started the project by reviewing and refreshing all our volunteers’ procedures and paperwork. Thinking about the volunteer role description helped us think about the skills we were looking for in terms of volunteers. We then moved on to recruiting our volunteers. We circulated the volunteer recruitment information widely and also spent time talking to local groups and organisations from where we thought we might be able to recruit volunteers. 
 
+ Unexpectedly the most successful way of recruiting volunteers was with the help of local ESOL providers and in particular City of Glasgow College. We were fortunate to attract high level ESOL learners who had fantastic skills sets and experience and were keen to utilise these.  We were also able to recruit from within our own IT learners who were speakers of other languages and who had good levels of IT skills. 
+ 
+We had developed some initial training and induction.  However we found that our volunteer tutors learnt best on the job with the support of our IT tutors who were always on hand. 
+
+After we had recruited some of volunteers, we recruited 9 volunteers by the end of the project, we could then recruit our learners to match them with. We tried where possible to match volunteers and learners on a first language basis. We found these matches worked really well.  As it was impossible to match every learner and volunteers on the same first language basis, we also made some matches where the same first language wasn’t spoken. We found the volunteers worked on this basis were very creative in their communication.     
+
+We also considered other factors in our matching volunteers to learners process. This included availability, gender and personality.  We found having volunteers available on different days and times helped in terms of the matching process.
+
+We tried to recruit volunteers that we thought spoke those most common languages in our area. However even over the life of the project we found that the most common languages spoken seemed to change. 
+
+We were overwhelmed by the quality of the volunteers we recruited. All the people we have worked with as volunteers have been exceptional. Some of our volunteers came from a background of teaching or supporting people and for others this is something they hoped to do in the future. Although we originally saw the project in regards to the benefit it would bring to learners we found that the volunteers also gained a lot from the project.
+
+We did have a number of leaners who failed to attend their appointments with volunteers which was frustrating for us and the volunteers. However, this didn’t happen as much as expected especially given the language barrier. We also had the benefit of our volunteer’s being able to phone the learners and speak to them in their own language.
 
 ### Lessons learned 
 
+1: 1 support was invaluable for our learners. First language matches worked really well, but when we made a match that was not on the basis of a shared first language this still worked well. We just needed to ensure the leaners had some English. Many of the learners we worked with were ESOL literacies level but still managed to learn a lot of digital skills.
 
+Basic IT skills are part of digital skills. Most people we worked with were total beginners so needed to learn computer basics such as how to turn a computer on and use a mouse and keyboard as well as digital skills.
+
+Good volunteers are essential. We were amazed at the skills and abilities of our volunteers. We have met some amazing people.
+
+Although we envisaged the support would be on a 1:1 basis some of our volunteers were comfortable working with 2 or 3 people at the same time. This worked well when everyone spoke the same language, had similar starting points and when we had volunteers that felt comfortable doing this.
+
+We found it beneficial to be flexible with our recruitment of volunteers. We still took our volunteer recruitment seriously but found many of our volunteers could not prove the information needed to get disclosure checks or provide references. We thought about adapting our recruitment and how volunteers were supervised to ensure appropriate practices.
+
+We found the best way of recruiting leaners who wanted this support was through our ESOL classes. Many of these people were frustrated at not being able to learn IT skills and were very keen to do this. This was the very reason we set up the project.
+
+![abigail and hassan1](https://cloud.githubusercontent.com/assets/20575614/21897595/01c3bd3e-d8e2-11e6-8466-17cbc6c06e8d.jpg)
+![shabrina and illshwa](https://cloud.githubusercontent.com/assets/20575614/21897623/1a59dc34-d8e2-11e6-9d5a-9599a511a68e.JPG)
+![dsc_0385](https://cloud.githubusercontent.com/assets/20575614/21897637/21a3d6f2-d8e2-11e6-9ca0-b8b53ac91bbc.JPG)
+![dsc_0380](https://cloud.githubusercontent.com/assets/20575614/21897647/29a5822e-d8e2-11e6-8871-d6bca12ce0d7.JPG)
 
