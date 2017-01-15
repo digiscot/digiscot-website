@@ -79,6 +79,7 @@ The learners had a good time made new friends and all completers were presented 
 
 We completed our third cohort of learners in December, where we had 6 learners start the programme, with 5 people completing. The learners covered similar subjects as in previous programmes, searching internet, cloud storage, social media and looking for volunteering opportunities. This time round we had a mix of older and younger people and refugee/asylum seekers and some native Glaswegians. This worked well as the refuges gained valuable local language and the Glaswegians gained a greater understanding of issues related to refugees.
 
-https://twitter.com/volworksglasgow/status/819882700437934080
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Learners at Volunteer Glasgow&#39;s digital skills class. <a href="https://t.co/PcitfJn5fh">pic.twitter.com/PcitfJn5fh</a></p>&mdash; Volunteering Works (@volworksglasgow) <a href="https://twitter.com/volworksglasgow/status/819882700437934080">13 January 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We are also running a programme between January and March as we were unable to run a class over the summer, due to staff shortages and look forward to another fun filled programme.
