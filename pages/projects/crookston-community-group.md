@@ -52,8 +52,25 @@ Our class begins with first two people :)
 
 ### Evaluation
 
+Overall,  this project was successful and achieved the aims as set out in the original application. Over the course of a year, we have engaged 30 females into using IT , females whom had very little experience of using a PC and were lacking confidence. In particular, a majority of these women came from black and minority ethnic backgrounds.
+
+The Women Want Wifi programme has helped them with a variety of  computer, laptop and tablet skills such as using Microsoft and social media platforms.
+
+The class ran twice per week for people who were unable able to attend on a specific designated day. Ultimately, we have helped females with the basic skills of every day use of Microsoft software programmes, email and social media for keeping in touch with family and friends as well as making online enquiries.  
+
+With regards to outputs, we delivered a basic IT skills based course and activities that included using their laptop, tablets/smartphones, to navigate their way around a computer system and the internet. 
+ 
+In terms of outcomes, feedback questionnaires at the end of the programme, showed that  the group this project has assisted, helped them gain confidence in using technologies in a safe environment where no questions were left unaddressed and help was at hand whenever required. This was evident through weekly attendance and differing questions that were asked to support their own personal stages of IT knowledge.  
+
+There were some limitations to the programme, not in terms of delivery, but in terms of facilities. We found that we had limited equipment to deal with the demand of females wishing to use our services, often resulting in a backlog of individuals wishing to use the service.  
+
 
 ### Lessons learned
 
+Through feedback from the community as well as the programme service users and the success of the Women Want Wifi Programme, it has collectively been expressed by service users that the service should not just be limited to women, they should also include men. Often, male CCG service users have voiced this when on the premises.
+
+They wish to expand on their current knowledge to adapt to the current digital age. They now seek to learn how to use technologies to conduct every day transactions such as online shopping and online banking. Also, they have voiced their interest in learning how to make full use of mobile phone technologies etc and this is something the CCG will now look to in the future. 
+
+This of course, would not have been discovered if it was not the the funded Women Want Wifi programme. 
 
 
