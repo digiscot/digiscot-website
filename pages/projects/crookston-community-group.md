@@ -37,6 +37,11 @@ Through the project our aim is not only to provide and develop Digital skills an
 * <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140196745@N07/24936319075/in/dateposted-public/" title="WWWiFi"><img src="https://farm2.staticflickr.com/1568/24936319075_dd41f69b39.jpg" width="386" height="500" alt="WWWiFi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 * Class starts in Febuary 2016
 
+Our class begins with first two people :)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140196745@N07/32222972201/in/album-72157679119279456/" title="Women Want WIFI"><img src="https://c1.staticflickr.com/1/344/32222972201_2c4d2b0e6c_n.jpg" width="320" height="240" alt="Women Want WIFI"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140196745@N07/31965729760/in/album-72157679119279456/" title="Women Want WIFI"><img src="https://c1.staticflickr.com/1/765/31965729760_43458c37b1_n.jpg" width="320" height="240" alt="Women Want WIFI"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140196745@N07/32222971771/in/album-72157679119279456/" title="Women Want WIFI"><img src="https://c1.staticflickr.com/1/657/32222971771_5d634d3cf7_n.jpg" width="320" height="240" alt="Women Want WIFI"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### Planned outputs and outcomes
 
 * The key achievement will be the increased digital participation and engagement of females from the Black and ethnic cultural communities that will result in them developing enhanced computer literacy skills. This is important considering these individuals may not otherwise have access to the resources which will be made possible and available through the project.
