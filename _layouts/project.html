@@ -62,15 +62,27 @@ submenu: participation-projects
 
         <div class="divider grey darken-3"></div>
 
-        <p class="right-align">
-            <strong>Tags: </strong>
-            {% for tag in sortedtags %}
-                <a href="projects/tags/#{{ tag }}" class="chip teal white-text">
-                    <i class="fa fa-fw fa-tag"></i>
-                        {{ tag }}
-                </a>
-            {% endfor %}
-        </p>
+        <div class="row">
+            <div class="col s6">
+                <p>
+                    <a href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="chip teal white-text">
+                        <i class="fa fa-fw fa-pencil-square-o"></i>
+                        Update this page
+                    </a>
+                </p>
+            </div>
+            <div class="col s6">
+                <p class="right-align">
+                    <strong>Tags: </strong>
+                    {% for tag in sortedtags %}
+                        <a href="projects/tags/#{{ tag }}" class="chip teal white-text">
+                            <i class="fa fa-fw fa-tag"></i>
+                                {{ tag }}
+                        </a>
+                    {% endfor %}
+                </p>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -82,7 +94,7 @@ submenu: participation-projects
         </a>
 
         {{ content }}
-      
+
         <a href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="chip teal white-text">
             <i class="fa fa-fw fa-pencil-square-o"></i>
             Update this page
