@@ -19,7 +19,7 @@ $base-font-color:                 #555555;
 
 $base-line-height:                1.5;
 
-$h1-font-family:                  Montserrat, Helvetica, Arial, sans-serif;
+$h1-font-family:                  "Montserrat", Helvetica, Arial, sans-serif;
 $h1-font-size:                    48px;
 $h1-font-weight:                  700;
 $h1-font-color:                   #000000;
@@ -51,11 +51,11 @@ html, body {
 }
 
 body {
+    background-color: #263238;
     font-family: $base-font-family;
     font-size: $base-font-size;
     font-weight: $base-font-weight;
     color: $base-font-color;
-    background: #263238;
 }
 
 strong {
