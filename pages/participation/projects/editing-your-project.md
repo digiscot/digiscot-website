@@ -17,9 +17,9 @@ You don't need to know the technical details of how Github Pages works to contri
 
 ## 1. Creating a verified account
 
-You need to create a verified GitHub account to start contributing. By verified I mean that you have confirmed that the email address you used to sign up is actually yours. If you have already done this you can skip to [Step 2](#2-finding-your-project-page). If you already have an account and need to make sure it is verified, go to [Step 1.2](#1-2-verifying-your-email-address).
+You need to create a verified GitHub account to start contributing. By verified I mean that you have confirmed that the email address you used to sign up is actually yours. If you have already done this you can skip to [Step 2]({{ page.url }}#finding-your-project-page). If you already have an account and need to make sure it is verified, go to [Step 1.2]({{ page.url }}#verifying-your-email-address).
 
-### 1.1 Creating an account
+### 1.1. Creating an account
 To create an account you will need to open your favourite web browser and navigate to the [main page of GitHub.com](https://github.com). Once there you should see a screen that looks something like this.
 
 ![GitHub homepage](images/guide/github-homepage.png){:.responsive-img.screenshot}
@@ -45,7 +45,7 @@ The next screen you will see is just a wee survey to help customize your GitHub 
 
 You now have a GitHub account! Let's verify your email address so you can start contributing.
 
-### 1.2 Verifying your email address
+### 1.2. Verifying your email address
 
 To prevent people from easily automatically creating accounts and attempting to push changes to other people's GitHub repositories, you are required to verify your email address. When you first register for an account you will be sent an email with a link in it you must follow.
 
@@ -190,4 +190,72 @@ When you fill in this form with a description of what you have changed, some one
 
 ## 4. Hosting images on GitHub
 
-_TODO: Create a guide to forking and creating a pull request_
+When you clicked "Propose file change" in the previous step, GitHub did a whole lot of things happened in the background to save you a lot of time. Unfortunately, for security reasons we don't just want anyone being able to upload files to our repository without us being able to check them out first. GitHub doesn't offer the same shortcuts as it does for text changes when it comes to uploading files. Here is how you submit an image file to our site so you can use it in your project page.
+
+### 4.1. Creating a "Fork"
+
+One of the key principals to GitHub is the ability for users to make their own copies of a repository to work on. This is called "Creating a Fork". Once you have done this, you'll have your own version of our site that you can make any changes you wish and then issue a "Pull Request" to ask us to include those changes in our repository so they appear on [digital.scvo.org.uk](https://digital.scvo.org.uk).
+
+Creating a fork is really simple. Visit our [main repository page here](https://github.com/digiscot/digiscot.github.io) and click on the "Fork" button.
+
+![Main repository page](images/guide/github-main-repository-page.png){:.responsive-img.screenshot}
+
+As soon as you click on this button, GitHub will copy every file that is used to construct our website to a repository on your own account.
+
+![Your own fork](images/guide/github-your-fork.png){:.responsive-img.screenshot}
+
+The list you are looking at is the "root" of the repository. Think of it as a normal computer directory structure with files and folders. If you click on a folder name such as "images", you will be presented with a list of its contents.
+
+### 4.2. Uploading your image
+
+All images used on the SCVO Digital site are stored in a folder called "images". If you are looking at the root of the repository, just click on the "images" folder to open it.
+
+![Images folder repository page](images/guide/github-repo-images.png){:.responsive-img.screenshot}
+
+All project specific images are stored in another folder inside the main images folder called "projects". Click on this to open it.
+
+![Project images folder](images/guide/github-project-images.png){:.responsive-img.screenshot}
+
+Uploading a file is simple. Just drag and drop the image file from your desktop onto the projects page. When you hover your mouse with the image file you want to upload over the page you will see a message saying "Drop to upload your files".
+
+Once you have dropped your image you will see a page with your image listed and a "Commit changes" form at the bottom. You can drag and drop more images onto this pages to upload. Your images aren't in the project images folder until you Commit your changes. Use the form to add a note about what files you have uploaded and click on the "Commit changes" button. Comments are only used for auditing purposes and so we have a nice history of changes to our site.
+
+**Make sure you have "Commit directly to the `master` branch." selected before you click on the "Commit Changes" button**.
+
+After the "Processing files" screen disappears you will be taken back to the project images folder and will see a message about your "Commit" at the top of the file list.
+
+![Image commit confirmation](images/guide/github-image-commit-confirmation.png){:.responsive.img.screenshot}
+
+### 4.3 Making a "Pull Request"
+
+Now you have successfully added your image to your own fork of our website you need to let us know about it by requesting that we "Merge" our version with your changes (the files you have uploaded and commited). You do this by creating what is called a "Pull Request". Instead of you "Pushing" your changes, GitHub puts the control in the hands of the owner of the original repository, us! Pull requests can contain as many commits as you like.
+
+To create your Pull request, simply click on the "Pull request" link that appears at the top of every directory listing in your repository.
+
+![Pull request link](images/guide/github-pull-request-link.png){:.responsive.img.screenshot}
+
+You will be taken to a page that lets you compare the changes you are asking us to accept. In the below screenshot you will see that there is a "Commit" listed with a your username and next to that the comment you entered.
+
+![Comparing changes](images/guide/github-comparing-changes.png){:.responsive.img.screenshot}
+
+Click on the "Create pull request" button to enter continue with the process.
+
+![Create a Pull request](images/guide/github-create-pull-request.png){:.responsive.img.screenshot}
+
+The "Leave a comment" box on this page can be used to describe all of your changes to help us understand what you are submitting. This is optional and like all comments, can be as brief as you like. When you are done writing your comment, click on the "Create pull request" button at the bottom.
+
+The page you have been taken to is a review of your Pull request on the main repository of our website.
+
+![Pull request review](images/guide/github-pull-request-review.png){:.responsive.img.screenshot}
+
+That's it, your Pull request has been created and is ready for review by one of Team Digital. We usually review and accept Pull requests within a working day.
+
+### 4.4 Using your uploaded image
+
+Obviously you will want to embed your image in your project page (see ["3. Editing your page"]({{ page.url }}#editing-your-page) above). These can be embedded in exactly the same way as the images we discussed in [the above section]({{ page.url }}#images). You will need to know what the Url is of your image, if you uploaded your image to the project images page, the Url is `/images/projects/your-file-name.jpg` replacing the "your-file-name.jpg" bit with the actual filename of what you uploaded. In our example, this would be:
+
+~~~~~
+![Pull request review](images/projects/image.png){:.responsive.img}
+~~~~~
+
+Propose the changes in the same way mentioned in [3.2 Propose your changes]({{ page.url }}#propose-your-changes) and as soon as we have reviewed and accepted them, your images will appear.
