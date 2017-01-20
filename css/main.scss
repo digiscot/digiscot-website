@@ -221,6 +221,16 @@ nav#tag-header{
     }
 }
 
+.screenshot{
+    border:1px solid darken($brand-color, 50%);
+}
+
+.highlight{
+    border:1px solid darken($brand-color, 50%);
+    background-color:lighten($brand-color, 50%);
+    padding:15px;
+}
+
 .side-nav{
     ul li ul{
         margin-left: 15px;
