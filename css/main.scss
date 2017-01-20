@@ -51,10 +51,10 @@ html, body {
 }
 
 body {
-    font-family:                    $base-font-family;
-    font-size:                      $base-font-size;
-    font-weight:                    $base-font-weight;
-    color:                          $base-font-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: $base-font-weight;
+    color: $base-font-color;
     background: #263238;
 }
 
@@ -109,6 +109,26 @@ ul.browser-default li{
         margin-bottom:0;
     }
 }
+.footer {
+    .copyright {
+        font-size: 95%;
+        p a {
+            color: white !important;
+            text-decoration: underline;
+        }
+        p {
+            margin-top: 1.5em;
+        }
+    }
+    .logo.digitalscotland {
+        background: #fff;
+        display: inline-block;
+        margin-left: 1em;
+    }
+    .menu ul {
+        margin-top: 0;
+    }
+}
 
 #scaffold {
     @media only screen and (min-width: 0) {
@@ -142,8 +162,8 @@ nav#header{
 }
 
 #header.headroom--pinned {
-        transform: translateY(0%);
-    }
+    transform: translateY(0%);
+}
 #header.headroom--unpinned {
     transform: translateY(-100%);
 }
@@ -194,21 +214,21 @@ nav#tag-header{
 }
 
 .card {
-  @media only screen and (min-width: 0) {
-    font-size: 14px;
-  }
+    @media only screen and (min-width: 0) {
+        font-size: 14px;
+    }
 
-  @media only screen and (min-width: $medium-screen) {
-    font-size: 14.5px;
-  }
+    @media only screen and (min-width: $medium-screen) {
+        font-size: 14.5px;
+    }
 
-  @media only screen and (min-width: $large-screen) {
-    font-size: 15px;
-  }
+    @media only screen and (min-width: $large-screen) {
+        font-size: 15px;
+    }
 
-  .card-content .card-title {
-      line-height: 1.5;
-  }
+    .card-content .card-title {
+        line-height: 1.5;
+    }
 }
 
 .col .card{
@@ -251,13 +271,13 @@ nav#tag-header{
 
 .project-cards[data-columns]::before {
     @media only screen and (min-width: 0) and (max-width: $medium-screen) {
-	    content: '1 .column.size-1of1';
+        content: '1 .column.size-1of1';
     }
     @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
-	    content: '2 .column.size-1of2';
+        content: '2 .column.size-1of2';
     }
     @media only screen and (min-width: $large-screen) {
-	    content: '3 .column.size-1of3';
+        content: '3 .column.size-1of3';
     }
 }
 
@@ -269,19 +289,19 @@ nav#tag-header{
 
 .team-cards[data-columns]::before {
     @media only screen and (min-width: 0) and (max-width: ($medium-screen / 3)) {
-	    content: '1 .column.size-1of1';
+        content: '1 .column.size-1of1';
     }
     @media only screen and (min-width: ($medium-screen / 3)) and (max-width: (($medium-screen / 3) * 2)) {
-	    content: '2 .column.size-1of2';
+        content: '2 .column.size-1of2';
     }
     @media only screen and (min-width: (($medium-screen / 3) * 2)) and (max-width: $medium-screen) {
-	    content: '3 .column.size-1of3';
+        content: '3 .column.size-1of3';
     }
     @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
-	    content: '4 .column.size-1of4';
+        content: '4 .column.size-1of4';
     }
     @media only screen and (min-width: $large-screen) {
-	    content: '5 .column.size-1of5';
+        content: '5 .column.size-1of5';
     }
 }
 
@@ -363,6 +383,12 @@ h2 {
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
+    }
+    .fa-ul {
+        margin-left: 0;
+    }
+    h2 {
+        font-size: 2em;
     }
 }
 
