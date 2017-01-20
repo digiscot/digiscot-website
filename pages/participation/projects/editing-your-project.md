@@ -2,11 +2,14 @@
 layout: markdown
 title: How to update your project page
 excerpt: A simple guide on what you need to do to make changes to your page
+permalink: /participation/projects/editing-your-project/
+fa-icon: fa-info-circle
+submenu: participation-projects
 ---
 
 # Github
 
-The SCVO Digital website is hosted on [Github](https://github.com) which is basically a service that lets you host some project files and many people work on them in tandem, keeping track of any changes. It is called a Version Control System (VCS). One of the benefits for using Github is that you can turn a project repository (or repo) into a website using [Github Pages](https://pages.github.com/). 
+The SCVO Digital website is hosted on [Github](https://github.com) which is basically a service that lets you host some project files and many people work on them in tandem, keeping track of any changes. It is called a Version Control System (VCS). One of the benefits for using Github is that you can turn a project repository (or repo) into a website using [Github Pages](https://pages.github.com/).
 
 You don't need to know the technical details of how Github Pages works to contribute to a website but it can seem a little tricky if you've never used it before. Here is a brief guide that will hopefully de-mystify things for you.
 
