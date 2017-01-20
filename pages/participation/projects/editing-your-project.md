@@ -224,7 +224,7 @@ Once you have dropped your image you will see a page with your image listed and 
 
 After the "Processing files" screen disappears you will be taken back to the project images folder and will see a message about your "Commit" at the top of the file list.
 
-![Image commit confirmation](images/guide/github-image-commit-confirmation.png){:.responsive.img.screenshot}
+![Image commit confirmation](images/guide/github-image-commit-confirmation.png){:.responsive-img.screenshot}
 
 ### 4.3 Making a "Pull Request"
 
@@ -232,21 +232,21 @@ Now you have successfully added your image to your own fork of our website you n
 
 To create your Pull request, simply click on the "Pull request" link that appears at the top of every directory listing in your repository.
 
-![Pull request link](images/guide/github-pull-request-link.png){:.responsive.img.screenshot}
+![Pull request link](images/guide/github-pull-request-link.png){:.responsive-img.screenshot}
 
 You will be taken to a page that lets you compare the changes you are asking us to accept. In the below screenshot you will see that there is a "Commit" listed with a your username and next to that the comment you entered.
 
-![Comparing changes](images/guide/github-comparing-changes.png){:.responsive.img.screenshot}
+![Comparing changes](images/guide/github-comparing-changes.png){:.responsive-img.screenshot}
 
 Click on the "Create pull request" button to enter continue with the process.
 
-![Create a Pull request](images/guide/github-create-pull-request.png){:.responsive.img.screenshot}
+![Create a Pull request](images/guide/github-create-pull-request.png){:.responsive-img.screenshot}
 
 The "Leave a comment" box on this page can be used to describe all of your changes to help us understand what you are submitting. This is optional and like all comments, can be as brief as you like. When you are done writing your comment, click on the "Create pull request" button at the bottom.
 
 The page you have been taken to is a review of your Pull request on the main repository of our website.
 
-![Pull request review](images/guide/github-pull-request-review.png){:.responsive.img.screenshot}
+![Pull request review](images/guide/github-pull-request-review.png){:.responsive-img.screenshot}
 
 That's it, your Pull request has been created and is ready for review by one of Team Digital. We usually review and accept Pull requests within a working day.
 
@@ -255,7 +255,7 @@ That's it, your Pull request has been created and is ready for review by one of 
 Obviously you will want to embed your image in your project page (see ["3. Editing your page"]({{ page.url }}#editing-your-page) above). These can be embedded in exactly the same way as the images we discussed in [the above section]({{ page.url }}#images). You will need to know what the Url is of your image, if you uploaded your image to the project images page, the Url is `/images/projects/your-file-name.jpg` replacing the "your-file-name.jpg" bit with the actual filename of what you uploaded. In our example, this would be:
 
 ~~~~~
-![Pull request review](images/projects/image.png){:.responsive.img}
+![Pull request review](images/projects/image.png){:.responsive-img}
 ~~~~~
 
 Propose the changes in the same way mentioned in [3.2 Propose your changes]({{ page.url }}#propose-your-changes) and as soon as we have reviewed and accepted them, your images will appear.
