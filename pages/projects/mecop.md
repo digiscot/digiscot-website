@@ -10,7 +10,7 @@ email: info@mecopp.org.uk
 twitter-url: https://twitter.com/mecopp1
 facebook-url: https://www.facebook.com/MECOPP/
 start: 16th November 2015
-end: 16th November 2016
+end: 31st March 2017
 award: 9940
 postcode: EH6 5EA
 image: /images/projects/mecopp.jpg
