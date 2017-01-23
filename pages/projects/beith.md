@@ -10,7 +10,7 @@ email: info@beithtrust.org
 twitter-url: https://twitter.com/BeithTrust
 facebook-url: https://www.facebook.com/BeithCommunityDevelopmentTrust
 start: 30th November 2015
-end: 31st July 2017
+end: 31st July 2016
 award: 6000
 postcode: KA15 1BY
 image: /images/projects/beith.png
