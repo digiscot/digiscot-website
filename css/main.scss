@@ -51,11 +51,13 @@ html, body {
 }
 
 body {
-    background-color: #263238;
     font-family: $base-font-family;
     font-size: $base-font-size;
     font-weight: $base-font-weight;
     color: $base-font-color;
+}
+.footer {
+    background-color: #263238;
 }
 
 strong {
