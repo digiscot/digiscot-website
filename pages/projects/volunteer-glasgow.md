@@ -10,7 +10,7 @@ email: info@volunteerglasgow.org
 twitter-url: https://twitter.com/volunteerglasgo
 facebook-url: https://www.facebook.com/volunteerglasgow
 start: 16 November 2015
-end: 16 November 2016
+end: 31 March 2017
 award: 5794.36
 postcode: G2 6LU
 image: /images/projects/volunteerglasgow.jpg
