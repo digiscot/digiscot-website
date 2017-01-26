@@ -48,8 +48,43 @@ The Maryhill Digital Inclusion programme will also seek to engage volunteers wit
 
 ### Evaluation
 
+In the last 12 months the Maryhill and Milton Digital Inclusion
+Programme has helped over 1244 people from 50 different nationalities gain
+access to a PC and get online. Statistics supplied by Glasgow Kelvin College
+inform us that we have had over 26,200 logins at the Ashgill Recreation Centre
+and the Maryhill Hub Learning Centres. From October 2015 to October 2016 we have
+had over 1244 new registered users and we have received over 300 hundred referrals
+from the DWP to assist Clients with Employability Issues. The Digital Programme
+continues grow and develop and we have engaged with various partners throughout
+the north of Glasgow from Glasgow Life, (delivering Basic and Intermediate IT
+classes), Glasgow Kelvin College (delivering Wider access and Youth Access
+programmes) and Jobs & Business Glasgow (providing employability
+assistance) etc… to deliver their services within the Learning Centres. We have
+also recruited our second Digital Inclusion Volunteer who has agreed to commit
+4 hours a week to assist in the Learning Centres.  This year we also opened our third Learning
+Centre situated within our Enterprise Centre in the east end of Glasgow which
+will assist Individual's within the Criminal Justice System to gain new ICT
+skills which will further their opportunities in the wider community. We anticipate
+that this new project will be as successful as our current Digital Programme.
 
 ### Lessons learned
 
+
+Overall, we have co-ordinated our efforts into engaging
+with the community and our partners to deliver a successful Digital programme
+within our Click & Connect Learning Centres.
+
+We identified early on that many within our communities
+lacked the basic knowledge to get online and set about delivering a
+comprehensive timetable that would address the needs of the public.
+
+We have engaged effectively to ensure that clients
+accessing the Learning Centres, many of which have complex needs, language
+barriers and low self-confidence can have a quality customer experience.
+
+On reflection, we have realised that although we endeavour
+to help with all things digital there is a limit to what we can achieve with
+certain individuals many of whom require one to one tuition before moving on to
+further develop their ICT skills.
 
 
