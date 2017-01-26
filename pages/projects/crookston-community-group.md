@@ -60,9 +60,11 @@ The class ran twice per week for people who were unable able to attend on a spec
 
 With regards to outputs, we delivered a basic IT skills based course and activities that included using their laptop, tablets/smartphones, to navigate their way around a computer system and the internet. 
  
-In terms of outcomes, feedback questionnaires at the end of the programme, showed that  the group this project has assisted, helped them gain confidence in using technologies in a safe environment where no questions were left unaddressed and help was at hand whenever required. This was evident through weekly attendance and differing questions that were asked to support their own personal stages of IT knowledge.  
+In terms of outcomes, feedback questionnaires at the end of the programme, showed that  the group this project has assisted, helped them gain confidence in using technologies in a safe environment where no questions were left unaddressed and help was at hand whenever required. This was evident through weekly attendance and differing questions that were asked to support their own personal stages of IT knowledge. 
 
-There were some limitations to the programme, not in terms of delivery, but in terms of facilities. We found that we had limited equipment to deal with the demand of females wishing to use our services, often resulting in a backlog of individuals wishing to use the service.  
+There were some limitations to the programme, not in terms of delivery, but in terms of facilities. We found that we had limited equipment to deal with the demand of females wishing to use our services, often resulting in a backlog of individuals wishing to use the service. 
+
+In total we have supported 30 people. Out of this figure, 9 participants have walked away with communication skills by communicating online with their families and friends using social media platforms. 2 participants learned how to make transactions online (banking, shopping etc), this low number is the reason we seek to deliver another programme aimed at educating partipants about the digital onine world, where they can shop and bank. 27 partipants now hold problem solving skills and can comfortably navigate their way around a computer system. 16 particpants learned how to create content online using facebook for status updates, pictures, album and instagram for images and editing those images. 28 participants can now manage information on systems using microsoft word for documents, as well as using Evernote and OneNote for storing notes.
 
 
 ### Lessons learned
