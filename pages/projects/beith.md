@@ -44,7 +44,7 @@ Beith Trust is a community led enterprise which was formed to tackle the social,
 
 
 ### Evaluation
-On-going
++Over the course of the project 156 people visited for employability support, of those 57 people attended 169 times for support connected to digital skills.   Our employability coach worked mainly on a 1-2-1 basis with these people.  Of the 156 people who attended 62% progressed to employment, further education or volunteering.  Of the 57 people who attended for Digital Skills support 80% reported that they had more confidence working on line, 50% have moved into employment, 25% into volunteering and 25% are regularly talking to family via Skype. A small number of participants simply wanted help to overcome the digital barriers they met trying to access employment or training opportunties and reported that they had no interest in learning digital skills
 
 ### Lessons learned
 The initial set-up in the shop unit proved problematical, there were issues of space and wifi connectivity. So the project was conducted from the Employability Hub at Beith Astro. The layout in the office was changed to allow small group working, and the first course commenced. Everyone had very different levels of digital skills and we had to work hard to maintain engagement for those who were more digitally savvy, while still supporting those with developing skills.
