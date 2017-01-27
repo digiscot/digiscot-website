@@ -60,5 +60,5 @@ We held a review meetings after the inital 3 courses and were pleased with the r
 
 ### Lessons learned
 After the intial 3 course were completed, we held a review meeting with all stakeholders involved to evaluate our delivery and make reccommendations for the next two classes.  We agreed that we would incorporate and induction session prioir to the next two courses, the people who were beginners would be placed on the Digital Inclusion programme deliverd by SHA and those who had a basic skill level would be referred to Glasgow Libraies.  We all agreed this format as we found that the original 3 courses were somewhat disjointed due to the various skill levels of participants.  Some particiapnts, with no skill level required one one one learning and others needed less support.  Thus, we agreed that we would group the skill levels together.
-
+TEST
 
