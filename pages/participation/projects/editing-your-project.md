@@ -143,7 +143,7 @@ To make bits of your text stand out you can wrap it in asterisks ( * ). Use 1 as
 ~~~~~
 *This text will be italicised* ⏎
 ⏎
-**This text will be made bold*
+**This text will be made bold**
 ~~~~~
 
 #### Links
