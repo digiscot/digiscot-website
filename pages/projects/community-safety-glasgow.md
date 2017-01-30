@@ -104,7 +104,7 @@ ESOL
 Referrals
 Oneto One Support (Employability) – Wednesday and Friday
 Glasgow Kelvin College ICT Classes / Wider Access
-GlasgowLife – Introduction ICT (Getting Started) + GOALS4WORK
+![Pull request review](images/projects/Arc LC 1 {:.responsive-img}GlasgowLife – Introduction ICT (Getting Started) + GOALS4WORK
 Jobs and Business Glasgow – Employability Support/ 4 days + ARC
 *Youth Access - Young People 14 – 16 
 Open Access – Adults and Young People Tue – Sat
@@ -158,8 +158,8 @@ In December Mark expressed an Interest in Volunteering within the Learning Centr
 Mark is a trained professional in the Petrol chemical industry and has recently attended an Interview in Germany for post of Strategic Account Manager.
 Whilst Mark awaits the outcome of their decision to appoint him in the role Mark continues to support users on a weekly basis.
 
-![Pull request review](images/projects/Maryhiil Hub Learning Centre Timetable){:.responsive-img}
+![Arc LC](images/projects/Arc LC 1.jpg){:.responsive-img}
 
-![Pull request review](images/projects/Arc Learning Centre Timetable){:.responsive-img}
+![Hub LC](images/projects/Hub LC 1.jpg){:.responsive-img}
 
-
+![Hub LC](images/projects/Hub LC 2.jpg){:.responsive-img}
