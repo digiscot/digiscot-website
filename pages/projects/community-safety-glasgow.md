@@ -38,18 +38,15 @@ The Maryhill Digital Inclusion programme will also seek to engage volunteers wit
 * Recruit and Train 5 Digital Inclusion Volunteers
 * Review sustainability of project (External Funding / Volunteers Engagement)
 
-
 ### Planned outputs and outcomes
 
-* Residents of Maryhill and Milton have a better understanding of how to access ICT
-* Increased support in accessing employability support and knowledge to stop unnecessary government sanctions
+* Residents of Maryhill and Milton have a better understanding of how to access ICT* Increased support in accessing employability support and knowledge to stop unnecessary government sanctions
 * Increase in accredited and unaccredited learning opportunities
 
 
 ### Evaluation
 
-In the last 12 months the Maryhill and Milton Digital Inclusion Programme has helped over 1244 people from 50 different nationalities gain access to a PC and get online. Statistics supplied by Glasgow Kelvin College inform us that we have had over 26,200 logins at the Ashgill Recreation Centre and the Maryhill Hub Learning Centres. From October 2015 to October 2016 we have had over 1244 new registered users and we have received over 300 hundred referrals from the DWP to assist Clients with Employability Issues. The Digital Programme continues grow and develop and we have engaged with various partners throughout the north of Glasgow from Glasgow Life, (delivering Basic and Intermediate IT classes), Glasgow Kelvin College (delivering Wider access and Youth Access programmes) and Jobs & Business Glasgow (providing employability
-assistance) etc… to deliver their services within the Learning Centres. We have also recruited our second Digital Inclusion Volunteer who has agreed to commit
+In the last 12 months the Maryhill and Milton Digital Inclusion Programme has helped over 1244 people from 50 different nationalities gain access to a PC and get online. Statistics supplied by Glasgow Kelvin College inform us that we have had over 26,200 logins at the Ashgill Recreation Centre and the Maryhill Hub Learning Centres. From October 2015 to October 2016 we have had over 1244 new registered users and we have received over 300 hundred referrals from the DWP to assist Clients with Employability Issues. The Digital Programme continues grow and develop and we have engaged with various partners throughout the north of Glasgow from Glasgow Life, (delivering Basic and Intermediate IT classes), Glasgow Kelvin College (delivering Wider access and Youth Access programmes) and Jobs & Business Glasgow (providing employabilityassistance) etc… to deliver their services within the Learning Centres. We have also recruited our second Digital Inclusion Volunteer who has agreed to commit
 4 hours a week to assist in the Learning Centres.  This year we also opened our third Learning Centre situated within our Enterprise Centre in the east end of Glasgow which will assist Individual's within the Criminal Justice System to gain new ICT skills which will further their opportunities in the wider community. We anticipate
 that this new project will be as successful as our current Digital Programme.
 
@@ -70,22 +67,23 @@ On reflection, we have realised that although we endeavour to help with all thin
 * Assistance in using Bluetooth.
 * Email Account Creation.
 * Sending Emails with attachments.
-* **Mouse & Keyboard Tutorials.**
+* Mouse & Keyboard Tutorials.
 * Employability Issues. CV, Cover Letter, Email Account, Universal
 * Jobmatch Account and tuition on how to navigate through the various websites.
 * All Digital Related Issues. Mobile Devices: Phones, Laptops, Tablets etc…
 * Digital Skills
-* **Tutorials**
+* Tutorials
 * ESOL
 * Referrals
 * One to One Support (Employability) – Wednesday and Friday
 * Glasgow Kelvin College ICT Classes / Wider Access
 * GlasgowLife – Introduction ICT (Getting Started) + GOALS4WORK
 * Jobs and Business Glasgow – Employability Support/ 4 days + ARC
-* **Youth Access - Young People 14 – 16**
+* Youth Access - Young People 14 – 16*
 * Open Access – Adults and Young People Tue – Sat
 
 ### Current Partner Organizations
+
 
 * Department of Work and Pensions
 * Jobs & Business Glasgow
@@ -119,3 +117,13 @@ Mark has been using the learning Centre for over a year. A frequent user Mark at
 ![Hub LC](images/projects/Hub LC 1.jpg){:.responsive-img}
 
 ![Hub LC](images/projects/Hub LC 2.png){:.responsive-img}
+
+
+
+
+
+
+
+![Pull request review](images/projects/Maryhiil Hub Learning Centre Timetable){:.responsive-img}
+
+![Pull request review](images/projects/Arc Learning Centre Timetable){:.responsive-img}
