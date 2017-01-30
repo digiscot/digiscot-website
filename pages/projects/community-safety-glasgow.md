@@ -94,7 +94,7 @@ Help with accessing Wi-Fi.
 Assistance in using Bluetooth.
 Email Account Creation.
 Sending Emails with attachments.
-Mouse & Keyboard Tutorials.
+*Mouse & Keyboard Tutorials.
 Employability Issues. CV, Cover Letter, Email Account, Universal
 Jobmatch Account and tuition on how to navigate through the various websites.
 All Digital Related Issues. Mobile Devices: Phones, Laptops, Tablets etc…
@@ -122,7 +122,7 @@ Glasgow Housing Association
 
 ### Case Studies/Success Stories
 
-**Rage Hagi
+**Rage Hagi*
 
 Rage was referred to the Learning Centre from
 Maryhill Job Centre to look for employment. Rage had already applied for his
@@ -136,14 +136,14 @@ scanned documents and how to forward them via email to the employer. I’m
 pleased to say Rage was successful in gaining employment with the company and
 continues the Learning Centre. 
 
-**John Clark
+**John Clark*
 
 John utilized the Learning Centre to look for employment.
 A trained professional in the Automotive Industry John looked for employment as a Service Manager.
 John applied for Job with Toyota Cars based in Sudan and was invited to attend an Interviewvia Skype for Business.
 We set John up with a headset and webcam for his interview and made sure the Learning Centre was relatively quiet to conduct his conference call. The company were impressed with the outcome and are arranging to meet John in person in London or Glasgow over the next few weeks.
 
-**Asha Kaka
+**Asha Kaka*
 
 Asha has been attending the Learning Centre on aregular basis for over a year.
 She initially attended to look for work and fulfil her claimant commitment with DWP.
@@ -151,15 +151,15 @@ With Help Asha created a CV and Cover letter and applied for jobs through univer
 Asha found employment with Poundland who gave her the hours she required due to family commitments.
 Asha is now enrolled for a course with Glasgow Clyde College and is enjoying the prospect of combining her family/work life with further education.  
 
-**Mark Hawthorne
+**Mark Hawthorne*
 
 Mark has been using the learning Centre for over ayear. A frequent user Mark attends most days to conduct his job searches for employment etc….
 In December Mark expressed an Interest in Volunteering within the Learning Centre so we started the application process and I’m pleased to say Mark now commits four hours of his time every week assisting users within the Maryhill Hub Learning Centre. 
 Mark is a trained professional in the Petrol chemical industry and has recently attended an Interview in Germany for post of Strategic Account Manager.
 Whilst Mark awaits the outcome of their decision to appoint him in the role Mark continues to support users on a weekly basis.
 
-![Pull request review](images/projects/Arc LC 1 {:.responsive-img}
+![Arc LC](images/projects/Arc LC 1.jpg){:.responsive-img}
 
-![Pull request review](images/projects/Hub LC 1 {:.responsive-img}
+![Hub LC](images/projects/Hub LC 1.jpg){:.responsive-img}
 
-![Pull request review](images/projects/Hub LC 2 {:.responsive-img}
+![Hub LC](images/projects/Hub LC 2.jpg){:.responsive-img}
