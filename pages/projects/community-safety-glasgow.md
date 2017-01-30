@@ -162,4 +162,4 @@ Whilst Mark awaits the outcome of their decision to appoint him in the role Mark
 
 ![Hub LC](images/projects/Hub LC 1.jpg){:.responsive-img}
 
-![Hub LC](images/projects/Hub LC 2.jpg){:.responsive-img}
+![Hub LC](images/projects/Hub LC 2.png){:.responsive-img}
