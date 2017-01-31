@@ -65,6 +65,7 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 
 * Economic - promote digital inclusion to enhance skills and opportunities for crofters and smallholders to work remotely.
 
+![Pull request review](images/projects/Croft IT.jpg){:.responsive-img}
 
 ### Evaluation
 
