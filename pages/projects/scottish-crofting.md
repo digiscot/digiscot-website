@@ -79,6 +79,7 @@ Creation of digital resources for use by crofters "The Communal Fank" is a mobil
 
 Feedback suggests digital takeup in volunteer board has reached a wide age range from 21 to 75.
 
+![Pull request review](images/projects/Croft IT 1.jpg){:.responsive-img}
 
 ### Lessons learned
 
@@ -86,4 +87,4 @@ Using a mobile platform makes digital particpation more accessible.  Use of apps
 
 Digital technology can create communities of practice through the use of social channels to share knowledge on issues such as animal husbandry, crop production and horticulture.
 
-
+![Pull request review](images/projects/Croft IT 2.jpg){:.responsive-img}
