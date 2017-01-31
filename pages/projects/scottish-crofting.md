@@ -68,8 +68,21 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 
 ### Evaluation
 
+In house staff training and local course director training with the James Hutton Institute demonstrating the use of mobile apps to measure land capability and soil carbon profile.  Using apps and social channels to bring groups together and share crofting knowledge with Tuminds media.
+
+Volunteer board members go paperless with new digital meeting format and signing the digital participation charter.
+
+Rolling out use of digital tech in crofting during training sessions to 100 crofters each year in the access to crofting toolkit - integrating digital technology in everyday life and breaking down barriers.
+
+Creation of digital resources for use by crofters "The Communal Fank" is a mobile space to share ideas and knowledge.  Creation of YouTube channel using video to increase opportnity for visual learners.
+
+Feedback suggests digital takeup in volunteer board has reached a wide age range from 21 to 75.
+
 
 ### Lessons learned
 
+Using a mobile platform makes digital particpation more accessible.  Use of apps in farming and crofting can be taught on handheld devices and replicated on personal mobile devices for those who don't use PCs or laptops.
+
+Digital technology can create communities of practice through the use of social channels to share knowledge on issues such as animal husbandry, crop production and horticulture.
 
 
