@@ -101,6 +101,8 @@ GitHub pages uses a markup language called [Markdown](https://en.wikipedia.org/w
 
 To be more specific GitHub pages uses a varient of Markdown called [kramdown](https://kramdown.gettalong.org/) that allows you to do a little bit more with your text but you don't need to worry about that.
 
+Below you can see how to do some of the more common formatting you might want to apply on your project page. For those wanting to learn more or wanting even more options, take a look at this [guidance for formatting in markdown](https://guides.github.com/features/mastering-markdown/) and this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 #### Paragraphs
 
 When writing text in Markdown you must remember to put a line break between each paragraph.
