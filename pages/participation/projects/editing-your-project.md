@@ -162,6 +162,8 @@ Be sure to start all of your website links with either "**http://**" or "**https
 
 #### Images
 
+For information on how to upload your own pictures to Github, please see section 4 below. However, if you would like to embed a picture that is alreay online, read on.
+
 Embedding an image is very similar to including a link. The only difference is you need to put an Exclamation Point at the start. The bit that would be the Link Text can now be used as a description for your image for people who use screen readers. Images should sit on their own lines.
 
 ~~~~~
