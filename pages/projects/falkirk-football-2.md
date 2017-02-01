@@ -69,8 +69,73 @@ All participants will be offered 2 weeks aftercare support including access to t
 
 ### Evaluation
 
+During the initial assessment at the start of the programme, it became aware that most or all of the group could not use their Universal Job Match account to keep their job advisers up to date with their job search activity. In addition to this, most or all could not even use this account to search for jobs, which was clearly minimising their ability to find work on this Government Gateway website. They were also unable to edit or upload their CV's onto this or other jobsites, so all were encountering significant barriers to progression.
+
+As a result of completing the programme and associated workshops, all of the participants are now able to complete each of the above tasks, therefore greatly enhancing their job search opportunities and their chances of employment.
+
+All felt confident to upload their CV's to various jobsites and were able to pick up job alerts from their advisers, Universal Job Match and other websites they had now registered with. 
+
+This programme has also supported each participant to be more confident and able to manipulate Powerpoint and Word documents throughout their time with us, increasing their skill set and producing enhanced, professional material in their quest of securing sustainable employment.
+
+### Outcomes and Outputs 
+
+**Managing Information**
+
+Pre-programme: 0% of participants could have used a search engine to look for information online
+
+Post-programme: **100% did this during the course and could do it again if asked** 
+
+Pre-programme: Only 25% of participants could download or save a photo found online and 0% had done this in the 3 months prior to attending
+
+Post-programme: **100% completed this task during the programme and could do it again if asked**
+
+Pre-programme: 0% of participants could have found a website they had visited before
+
+Post-programme: **100% did this during the programme and could do it again if asked**
+
+**Communicating**
+
+Pre-programme: Only 50% of participants could send a personal message via email or online service, with only 25% having done this during the 3 months prior to attending
+
+Post-programme: **100% completed this task during the programme and could do it again if asked**
+
+Pre-programme: 0% of participants could make comments and share information online
+
+Post-programme: **100% did this during the course and could do so again if asked**
+
+**Transacting**
+
+Pre-programme: 67% of participants could buy and install apps on a device, although 0% had done this during the 3 months prior to attending
+
+Post-programme: **100% did this during the course and could do so again if asked**
+
+**Problem Solving**
+
+Pre-programme: Only 25% of participants could solve a digital problem using online help, although 0% had actually done this during the 3 months prior to starting the course
+
+Post-programme: **100% completed this task during the programme and could do it again if required**
+
+Pre-programme: 0% of participants could verify sources of information found online
+
+Post-programme: **100% did this as part of the course and could do it again if asked**
+
+**Creating**
+
+Pre-programme: 0% of participants had completed any online application forms (including personal details) during the 3 months prior to starting the programme
+
+Post-programme: **100% completed this throughout the programme and could do so again if required**
+
+Pre-programme: Only 33% of participants could have created something new from existing online images, pictures, etc, although 0% had actually done this during the 3 months prior to attending the course 
+
+Post-programme: **100% completed this task during the programme and could do so again if asked**
+
+**100% of participants achieved a positive destination into employment/training as a result of completing this Digital Skills programme and other employability-related activities**  
 
 ### Lessons learned
 
+Creating a group for people who found themselves in similar situations and facing familiar barriers to progression, provided a positive learning environment in which they could bounce ideas off each other without feelings of inferiority or embarrassment. It also provided a platform for the group to benefit from each others strengths and job-search experiences.
 
+With the potential for this client group to experience decreased motivation and aspiration levels along with increased feelings of depression and isolation, raising their confidence levels through digital skill acquisition and successful task completion was essential if we were to achieve any long-term, sustainable success. 
+
+Pitching the Digital Skills sessions at the correct level therefore, ensured that everyone left with "can do" attitudes, a new found confidence in their own ability and an increased determination to fulfil their potential by securing a job. 
 
