@@ -72,37 +72,37 @@ On the whole and as a result of the programme, all of the groups are now able to
 **Managing Information**
 
 Pre-programme: 44% of participants had no idea what a search engine was and how you used one to look for information online.
-Post-programme: ** 100% ** have now done this and could do it again if asked
+Post-programme: **100%** have now done this and could do it again if asked
 
 Pre-programme: 38% of participants had no idea how to download or save a photo found online
-Post-programme: ** 100% ** have now done this and could do it again if asked
+Post-programme: **100%** have now done this and could do it again if asked
 
 Pre-programme: 50% of participants had no idea how to find a website online
-Post-programme: ** 100% ** have now done this and could do it again if asked
+Post-programme: **100%** have now done this and could do it again if asked
 
 **Communicating**
 
 Pre-programme: 40% of participants had no idea how to send a message via email or online service
-Post-programme: ** 100% ** have now done this and could do it agin if asked
+Post-programme: **100%** have now done this and could do it agin if asked
 
 Pre-programme: 44% of participants had no idea how to make comments and share information online
-Post-programme:** 100% ** have now done this and could do it again if asked
+Post-programme:**100%** have now done this and could do it again if asked
 
 **Problem Solving**
 
 Pre-programme: 50% of participants had no idea how to solve a digital problem using online help
-Post-programme: ** 100% ** have now done this and could do it again if asked
+Post-programme: **100%** have now done this and could do it again if asked
 
 Pre-programme: 50% of participants had no idea how to verify sources of information found online 
-Post-programme:** 100% ** have now done this and could do it again if asked
+Post-programme:**100%** have now done this and could do it again if asked
 
 **Creating**
 
 Pre-programme: 44% of participants had no idea how to complete online application forms including uploading personal details
-Post-programme: ** 100% ** could now do this if asked
+Post-programme: **100%** could now do this if asked
 
 Pre-programme: 67% of participants had no idea how to create something new from existing online images 
-Post-programme: ** 100% ** have now done this and could do it again if asked
+Post-programme: **100%** have now done this and could do it again if asked
 
 ### Lessons learned
 
