@@ -56,6 +56,8 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 
 * Evaluation of Croft IT project within SCF Training Programme to ensure IT training becomes a keystone of succeeding years within the Training Programme. During 2016 - 2019 we aim to support a further 1,500 Service Users: October 2016
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Digital education tools and training in croft business management supported by <a href="https://twitter.com/scvotweet">@scvotweet</a> Digital Challenge Fund. IACS forms and CAGS <a href="https://t.co/VWtzmIkcgh">pic.twitter.com/VWtzmIkcgh</a></p>&mdash; Crofting Training (@SCFtraining) <a href="https://twitter.com/SCFtraining/status/782566941227618304">October 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Planned outputs and outcomes
 
