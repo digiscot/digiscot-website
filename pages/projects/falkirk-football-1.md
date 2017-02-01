@@ -69,7 +69,7 @@ On the whole and as a result of the programme, all of the groups are now able to
 
 ## Outcomes and Outputs
 
-** Managing Information **
+**Managing Information**
 
 Pre-programme: 44% of participants had no idea what a search engine was and how you used one to look for information online.
 Post-programme: ** 100% ** have now done this and could do it again if asked
@@ -80,7 +80,7 @@ Post-programme: ** 100% ** have now done this and could do it again if asked
 Pre-programme: 50% of participants had no idea how to find a website online
 Post-programme: ** 100% ** have now done this and could do it again if asked
 
-** Communicating **
+**Communicating**
 
 Pre-programme: 40% of participants had no idea how to send a message via email or online service
 Post-programme: ** 100% ** have now done this and could do it agin if asked
@@ -88,7 +88,7 @@ Post-programme: ** 100% ** have now done this and could do it agin if asked
 Pre-programme: 44% of participants had no idea how to make comments and share information online
 Post-programme:** 100% ** have now done this and could do it again if asked
 
-** Problem Solving **
+**Problem Solving**
 
 Pre-programme: 50% of participants had no idea how to solve a digital problem using online help
 Post-programme: ** 100% ** have now done this and could do it again if asked
@@ -96,7 +96,7 @@ Post-programme: ** 100% ** have now done this and could do it again if asked
 Pre-programme: 50% of participants had no idea how to verify sources of information found online 
 Post-programme:** 100% ** have now done this and could do it again if asked
 
-** Creating **
+**Creating**
 
 Pre-programme: 44% of participants had no idea how to complete online application forms including uploading personal details
 Post-programme: ** 100% ** could now do this if asked
@@ -106,13 +106,13 @@ Post-programme: ** 100% ** have now done this and could do it again if asked
 
 ### Lessons learned
 
-** What worked well? **
+**What worked well?**
 
 The programme went well from start to finish. All of the participants were willing and keen to learn. They embraced the group setting and peer learning environment we created, due to the fact that they were mostly all at the same starting point re: their digital skills understanding. This group setting meant that they could learn as a "team" from successes and disappointments, whilst looking for solutions together.
 
 During the web search activity, one or two of the group started to research holidays and were comparing prices online. By the end of the programme, they were at the stage of booking their next holiday online!
 
-** What would you do differently? **
+**What would you do differently?**
 
 We would improve our marketing strategy re: clarification of course content and would provide additional time outwith the programme to offer support for smart phone and tablet usage. 
 
