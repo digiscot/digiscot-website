@@ -184,6 +184,15 @@ This will be displayed on the page as
 
 If you want to see a complete guide to what is possible using the kramdown variant of Markdown, read their ["Quick Reference"](https://kramdown.gettalong.org/quickref.html) guide. It'll tell you everything you need to know.
 
+#### Embedding Tweets
+
+See [this article about embedding a tweet on your website](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog). 
+
+Here's an example of an embedded tweet:
+
+<blockquote class="twitter-tweet" lang="en"><p>Standing room only at <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> for this afternoon&#39;s charter workshops! Find out more and sign <a href="http://t.co/DIWKnoOE3F">http://t.co/DIWKnoOE3F</a> <a href="http://t.co/YCtfI8SRax">pic.twitter.com/YCtfI8SRax</a></p>&mdash; Chris Yiu (@clry2) <a href="https://twitter.com/clry2/status/590502283982610432">April 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 3.2 Propose your changes
 
 As mentioned above, GitHub is a Version Control System. When you make changes to a file you don't just click a save button, you need to "Propose file change". If you scroll to the bottom of the edit page you will see a form to do this.
