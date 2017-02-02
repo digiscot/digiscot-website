@@ -88,7 +88,7 @@ On reflection, we have realised that although we endeavour to help with all thin
 * Department of Work and Pensions
 * Jobs & Business Glasgow
 * North United Communities
-* Cube Housing
+,* Cube Housing
 * Glasgow Kelvin College
 * Glasgow Life
 * North Glasgow Healthy Living
@@ -118,12 +118,14 @@ Mark has been using the learning Centre for over a year. A frequent user Mark at
 
 ![Hub LC](images/projects/Hub LC 2.png){:.responsive-img}
 
+![Pull request review](images/projects/Bob c.jpg{:.responsive-img}
 
+![Pull request review](images/projects/Bob c 2.jpg{:.responsive-img}
 
+![Pull request review](images/projects/Jamal Adam ECDL.jpg{:.responsive-img}
 
+![Pull request review](images/projects/Mariam Elsadig ECDL,jpg{:.responsive-img}
 
+![Pull request review](images/projects/Maryhiil Hub Learning Centre Timetable.jpg){:.responsive-img}
 
-
-![Pull request review](images/projects/Maryhiil Hub Learning Centre Timetable){:.responsive-img}
-
-![Pull request review](images/projects/Arc Learning Centre Timetable){:.responsive-img}
+![Pull request review](images/projects/Arc Learning Centre Timetable.jpg){:.responsive-img}
