@@ -429,7 +429,10 @@ h2 {
     margin-bottom: 15px;
 }
 
-@media(max-width: $medium-screen){
+@media only screen and (max-width: $medium-screen){
+    h1 {
+        font-size: 3rem;
+    }
     .team-image{
         height: 70%;
         background-position: center center;
@@ -445,7 +448,11 @@ h2 {
     nav#header .brand-logo .digital {
         margin-left: 0;
     }
-    .nav .button-collapse {
+    nav .brand-logo {
+        left: 35px;
+        transform: none;
+    }
+    nav .button-collapse {
         margin: 0 5px;
     }
     .parallax-container {
@@ -455,7 +462,7 @@ h2 {
 
 // Home
 
-@media(min-width: $medium-screen){
+@media only screen and (min-width: $medium-screen){
     .home-card{
         margin:0 60px;
     }
