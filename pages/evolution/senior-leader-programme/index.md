@@ -7,7 +7,7 @@ permalink: /evolution/senior-leader-programme/
 submenu: evolution-senior-leader-programme
 ---
 
-### Thank you for your interest in the One Digital Senior Leader Development programme. The deadline has now passed and we are no longer accepting applications.
+### Thank you for your interest in the One Digital Senior Leader Development programme.
 
 ## Introduction
 
@@ -22,7 +22,7 @@ The feedback and learning from these leaders has led to [The Call to Action](htt
 Leaders in the third sector do not need to be digital experts, but we do need to lead change which will enable our organisations to be fit-for-purpose in a digital world.
 Many leaders have told us they want to build their skills, confidence and understanding of the opportunities, and the Senior Leader Digital Development programme has been developed to help meet this need.
 
-Supported by the Big Lottery and facilitated by Ross McCulloch, applications for this programme are now open. There is a particular focus on supporting leaders from organisations that deliver frontline services designed to reduce social inequalities, and organisations that support groups at risk of digital exclusion.
+The Senior Leader programme is supported by the Big Lottery and facilitated by Ross McCulloch. There is a particular focus on supporting leaders from organisations that deliver frontline services designed to reduce social inequalities, and organisations that support groups at risk of digital exclusion.
 
 <div class="section headingless">
     <a href="evolution/senior-leader-programme/context/" class="btn right">
