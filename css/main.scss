@@ -442,6 +442,15 @@ h2 {
     h2 {
         font-size: 2em;
     }
+    nav#header .brand-logo .digital {
+        margin-left: 0;
+    }
+    .nav .button-collapse {
+        margin: 0 5px;
+    }
+    .parallax-container {
+        height: auto;
+    }
 }
 
 // Home
