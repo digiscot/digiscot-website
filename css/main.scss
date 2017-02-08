@@ -71,6 +71,9 @@ ul.browser-default{
         list-style-type: disc;
     }
 }
+.flow-text {
+    font-size: 1.1rem;
+}
 
 mark {
     padding:5px 0;
@@ -94,13 +97,13 @@ ul.browser-default li{
     margin: 0 auto;
 }
 
-.container-fluid>.row{
+.container-fluid>.row {
     margin-left:-11.250px;
     margin-right:-11.250px;
 }
 
-.masthead, .footer{
-    .row{
+.masthead {
+    .row {
         margin:0;
         padding:40px 0;
     }
@@ -112,23 +115,33 @@ ul.browser-default li{
     }
 }
 .footer {
+    padding: 40px 0;
+    .row {
+        margin-bottom: 0;
+    }
     .copyright {
         font-size: 95%;
-        p a {
-            color: white !important;
-            text-decoration: underline;
-        }
         p {
             margin-top: 1.5em;
+            a {
+                color: white !important;
+                text-decoration: underline;
+            }
         }
     }
+    // .logo {
+    //     float: right;
+    // }
     .logo.digitalscotland {
-        background: #fff;
+        // background: #fff;
         display: inline-block;
-        margin-left: 1em;
+        margin-right: 1em;
     }
     .menu ul {
-        margin-top: 0;
+        margin: 0;
+        .fa-ul {
+            margin-left: 0;
+        }
     }
 }
 
@@ -161,6 +174,23 @@ nav#header{
     right: 0;
     left: 0;
     top: 0;
+
+    .brand-logo {
+        img {
+            height: 40px;
+            width: auto;
+            vertical-align:middle;
+            margin-top:-5px;
+        }
+        .digital {
+            font-weight: 800;
+            font-size: 1em;
+            color: rgba(255, 255, 255, 0.3);
+            text-transform: uppercase;
+            letter-spacing: -0.04em;
+            margin-left: 0.3em;
+        }
+    }
 }
 
 #header.headroom--pinned {
@@ -268,7 +298,10 @@ nav#tag-header{
     }
 }
 
-.btn-block{
+.align-right {
+    text-align: right;
+}
+.btn-block {
     text-align:center;
     width:100%;
 }
@@ -334,8 +367,15 @@ h2 {
     height:auto;
     overflow:visible;
 
-    .masthead{
-        background-color: rgba(0, 99, 175, 0.8);
+    .masthead {
+        background: rgba(0,99,175,0.9);
+        background: -moz-linear-gradient(top, rgba(0,99,175,0.9) 0%, rgba(0,99,175,0.7) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,99,175,0.9)), color-stop(100%, rgba(0,99,175,0.7)));
+        background: -webkit-linear-gradient(top, rgba(0,99,175,0.9) 0%, rgba(0,99,175,0.7) 100%);
+        background: -o-linear-gradient(top, rgba(0,99,175,0.9) 0%, rgba(0,99,175,0.7) 100%);
+        background: -ms-linear-gradient(top, rgba(0,99,175,0.9) 0%, rgba(0,99,175,0.7) 100%);
+        background: linear-gradient(to bottom, rgba(0,99,175,0.9) 0%, rgba(0,99,175,0.7) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0063af', endColorstr='#0063af', GradientType=0 );
         position:relative;
         align-items: center;
         justify-content: center;
