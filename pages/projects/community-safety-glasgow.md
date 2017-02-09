@@ -81,7 +81,7 @@ On reflection, we have realised that although we endeavour to help with all thin
 * Jobs and Business Glasgow – Employability Support/ 4 days + ARC
 * Youth Access - Young People 14 – 16*
 * Open Access – Adults and Young People Tue – Sat
-
+)
 ### Current Partner Organizations
 
 
@@ -118,13 +118,13 @@ Mark has been using the learning Centre for over a year. A frequent user Mark at
 
 ![Hub LC](images/projects/Hub LC 2.png){:.responsive-img}
 
-![Pull request review](images/projects/Bob c.jpg{:.responsive-img}
+![Pull request review](images/projects/Bob c.jpg){:.responsive-img}
 
-![Pull request review](images/projects/Bob c 2.jpg{:.responsive-img}
+![Pull request review](images/projects/Bob c 2.jpg){:.responsive-img}
 
-![Pull request review](images/projects/Jamal Adam ECDL.jpg{:.responsive-img}
+![Pull request review](images/projects/Jamal Adam ECDL.jpg){:.responsive-img}
 
-![Pull request review](images/projects/Mariam Elsadig ECDL,jpg{:.responsive-img}
+![Pull request review](images/projects/Mariam Elsadig ECDL.jpg){:.responsive-img}
 
 ![Pull request review](images/projects/Maryhiil Hub Learning Centre Timetable.jpg){:.responsive-img}
 
