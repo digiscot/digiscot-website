@@ -7,7 +7,7 @@ fa-icon: fa-search
 submenu: about
 ---
 
-<h2>SCVO Team Digital</h2>
+<h2>SCVO Team Digital (stand 61 to 66)</h2>
 <h3>Who is Good HQ being built by?</h3>
 <p>a. <strong>SCVO Comms</strong></p>
 <p>b. <strong>SCVO Digital</strong></p>
@@ -16,7 +16,7 @@ submenu: about
 
 <hr />
 
-<h2>OSCR (stand 3)</h2>
+<h2>Scottish Charity Regulator (stand 3)</h2>
 <h3>What is the new guidance launched at the Gathering called?</h3>
 <p>a. <strong>Being a Charity in Scotland</strong></p>
 <p>b. <strong>Being a Third Sector Organisation in Scotland</strong></p>
@@ -34,7 +34,7 @@ submenu: about
 
 <hr />
 
-<h2>SCVO Welcome Stand (stand 9)</h2>
+<h2>SCVO Welcome Stand (by entrance)</h2>
 <h3>Which organisation organises the Gathering?</h3>
 <p>a. <strong>Third Force News</strong></p>
 <p>b. <strong>SCVO</strong></p>
@@ -43,8 +43,8 @@ submenu: about
 
 <hr />
 
-<h2>Graphics Coop (stand ?)</h2>
-<h3>What is a service Graphics Coop does not provide for third sector organisations?</h3>
+<h2>graphics.coop (stand 49)</h2>
+<h3>What is a service graphics.coop does not provide for third sector organisations?</h3>
 <p>a. <strong>Design</strong></p>
 <p>b. <strong>Digital</strong></p>
 <p>c. <strong>Print</strong></p>
@@ -52,7 +52,7 @@ submenu: about
 
 <hr />
 
-<h2>RNIB (stand ?)</h2>
+<h2>RNIB Online Today (stand 94)</h2>
 <h3>If you have no useful sight how would you be able to tell the difference between a tin of beans and a tin of custard without opening them?</h3>
 <p>a. <strong>Tins with savoury contents have ring pulls, sweet don't</strong></p>
 <p>b. <strong>The texture of the labels</strong></p>
