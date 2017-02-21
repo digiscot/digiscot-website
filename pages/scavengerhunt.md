@@ -53,7 +53,7 @@ submenu: about
 <hr />
 
 <h2>RNIB Online Today (stand 94)</h2>
-<h3>If you have no useful sight how would you be able to tell the difference between a tin of beans and a tin of custard without opening them?</h3>
+<h3>Without useful sight how would you tell the difference between unopened tins of beans or custard?</h3>
 <p>a. <strong>Tins with savoury contents have ring pulls, sweet don't</strong></p>
 <p>b. <strong>The texture of the labels</strong></p>
 <p>c. <strong>The sound they make when they hit the floor</strong></p>
