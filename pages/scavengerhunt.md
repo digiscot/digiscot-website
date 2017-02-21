@@ -18,8 +18,8 @@ submenu: about
 
 <h2>OSCR (stand 3)</h2>
 <h3>What is the new guidance launched at the Gathering called?</h3>
-<p>a. <strong>Being a Third Sector Organisation in Scotland</strong></p>
-<p>b. <strong>Being a Charity in Scotland</strong></p>
+<p>a. <strong>Being a Charity in Scotland</strong></p>
+<p>b. <strong>Being a Third Sector Organisation in Scotland</strong></p>
 <p>c. <strong>Being in Scotland for Charities</strong></p>
 <p>d. <strong>Being Awesome by Caroline</strong></p>
 
@@ -28,33 +28,33 @@ submenu: about
 <h2>Browsealoud (stand 7)</h2>
 <h3>How many languages does Browsealoud offer?</h3>
 <p>a. <strong>7</strong></p>
-<p>b. <strong>89</strong></p>
-<p>c. <strong>99</strong></p>
+<p>b. <strong>99</strong></p>
+<p>c. <strong>89</strong></p>
 <p>d. <strong>35</strong></p>
 
 <hr />
 
 <h2>SCVO Welcome Stand (stand 9)</h2>
-<h3>Which is a service that SCVO doesn't offer?</h3>
-<p>a. <strong>Goodmoves</strong></p>
-<p>b. <strong>Piano Tuning</strong></p>
-<p>c. <strong>Information Service</strong></p>
-<p>d. <strong>Funding Scotland</strong></p>
+<h3>Which organisation organises the Gathering?</h3>
+<p>a. <strong>Third Force News</strong></p>
+<p>b. <strong>SCVO</strong></p>
+<p>c. <strong>Gather Scotland</strong></p>
+<p>d. <strong>SEC</strong></p>
 
 <hr />
 
-<h2>? (stand ?)</h2>
-<h3>?</h3>
-<p>a. <strong></strong></p>
-<p>b. <strong></strong></p>
-<p>c. <strong></strong></p>
-<p>d. <strong></strong></p>
+<h2>Graphics Coop (stand ?)</h2>
+<h3>What is a service Graphics Coop does not provide for third sector organisations?</h3>
+<p>a. <strong>Design</strong></p>
+<p>b. <strong>Digital</strong></p>
+<p>c. <strong>Print</strong></p>
+<p>d. <strong>Photography</strong></p>
 
 <hr />
 
-<h2>? (stand ?)</h2>
-<h3>?</h3>
-<p>a. <strong></strong></p>
-<p>b. <strong></strong></p>
-<p>c. <strong></strong></p>
-<p>d. <strong></strong></p>
+<h2>RNIB (stand ?)</h2>
+<h3>If you have no useful sight how would you be able to tell the difference between a tin of beans and a tin of custard without opening them?</h3>
+<p>a. <strong>Tins with savoury contents have ring pulls, sweet don't</strong></p>
+<p>b. <strong>The texture of the labels</strong></p>
+<p>c. <strong>The sound they make when they hit the floor</strong></p>
+<p>d. <strong>Use a mobile app such as via TapTapSee or Bespecular</strong></p>
