@@ -12,7 +12,7 @@ submenu: about
 <ul class="fa-ul">
     <li>
         <i class="fa-li fa fa-envelope"></i>
-        <a href="mailto:digital@scvo.org.uk">digital@scvo.org.uk</a>
+        <a href="mailto:digital@scvo.org.uk">digital@scvo.org.uk </a>
     </li>
     <li>
         <i class="fa-li fa fa-twitter"></i>
