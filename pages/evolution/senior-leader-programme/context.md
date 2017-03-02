@@ -25,5 +25,3 @@ The [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/d
 * Exploring how digital can enhance your service delivery
 * Being driven by data
 * Introducing more flexible technologies
-
-<iframe width="560" height="315" src="https://readymag.com/u24124000/630268/" frameborder="0" allowfullscreen></iframe>
