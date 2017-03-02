@@ -128,12 +128,6 @@ evolution-senior-leader-programme:
     parent: true
   - title: Context
     path: evolution/senior-leader-programme/context/
-  - title:
-    path: evolution/senior-leader-programme/structure/
-  - title:
-    path: evolution/senior-leader-programme/application-criteria/
-  - title:
-    path: evolution/senior-leader-programme/apply-now/
 
 about:
   - title: About
