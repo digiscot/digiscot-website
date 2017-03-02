@@ -116,12 +116,12 @@ Groups will continue their learning using the co-production model and supported 
 
 We carried out evaluation at the end of each class and the feedback was very good.  For instance in one (anonymised) questionnaire 63% of learners said the course was ‘excellent’ while the remaining 27% said it was ‘good’.
 Written comments were also very encouraging.  Typical responses were: 
->As I've been trying to sort out my Family Tree for years, I'm relieved that this course is helping. It also boosts my computing skills
- “This was most interesting absorbing course with a variety of facets: Genealogy, Local History and computer search skills”
-“Really enjoyed the course”
-“Not being computer literate it took me time to learn. Overall very pleased with the course”.
- “Course was excellent in helping and advising on how to obtain information”
- “I learned about different websites and where to look for information”.
+>*"As I've been trying to sort out my Family Tree for years, I'm relieved that this course is helping. It also boosts my computing skills"*
+>*“This was most interesting absorbing course with a variety of facets: Genealogy, Local History and computer search skills”*
+>*“Really enjoyed the course”*
+>*“Not being computer literate it took me time to learn. Overall very pleased with the course.”*
+>*“Course was excellent in helping and advising on how to obtain information”*
+>*“I learned about different websites and where to look for information.”*
 
 We also asked learners to complete the Basic Digital Skills Assessment Questionnaire.  We did find that many Learners had well developed Digital Skills before starting the course: in 6 Skill areas more than 50% of learners reported they “could carry out the skill” beforehand.  Nevertheless, the number of learners able to carry out skills improved in all 11 skill areas.  In several areas very significant increases in capability were seen.  For instance Verifying sources of information increased from 27.5% to 72.5%, Completing On-Line Application forms increased from 22.5% to 92.5%, and Buying Items or services from 58% to 95%.
 All the learners developed appropriate skills in ICT such as: using the Internet to access a number of web sites for researching local history; applying on line to join sites such as Ancestry.co.uk and ‘ScotlandsPeople.co.uk;  saving information to/from USB sticks; printing. Some learners extended their skills to include: scanning photographs; using templates to record their researches; word-processing their research findings; formatting images downloaded from the internet.
@@ -129,14 +129,14 @@ All the learners developed appropriate skills in ICT such as: using the Internet
 ### Lessons learned
 
 #### Things that worked well:
-1. The course itself.   The course structure and content was very well received by learners, as shown by the evaluation. The majority of learners were actively engaged in the course and attended most sessions.  Perhaps most importantly, they clearly enjoyed the classes and wanted more.
-2. Approach.   A learner-centred approach was taken and content were modified, as far as possible, to meet learner needs and expectations. Learners expressed less interest in Digital Photography and this was reduced to a consideration of formatting images and incorporating them into Word documents.   
-3. Self-sustaining groups.  At the end of the course six of the seven groups elected to continue to meet on an informal basis, to continue to carry out family and local history research.  In addition some learners were meeting to discuss setting up a more formal co-production group to carry on with their researches.
+**1. The course itself**   The course structure and content was very well received by learners, as shown by the evaluation. The majority of learners were actively engaged in the course and attended most sessions.  Perhaps most importantly, they clearly enjoyed the classes and wanted more.
+**2. Approach**   A learner-centred approach was taken and content were modified, as far as possible, to meet learner needs and expectations. Learners expressed less interest in Digital Photography and this was reduced to a consideration of formatting images and incorporating them into Word documents.   
+**3. Self-sustaining groups**  At the end of the course six of the seven groups elected to continue to meet on an informal basis, to continue to carry out family and local history research.  In addition some learners were meeting to discuss setting up a more formal co-production group to carry on with their researches.
 
 #### Things that we would do differently next time:
-1. Location.    Most of the classes were run in libraries (the Library Service was very helpful in this project, proving much of the recruitment onto the courses and well as five of the six locations).    Some of the locations were less than ideal, with high noise levels at times.  Nevertheless they were convenient for most learners and IT provision, together with support from library staff, was excellent.
-2. Level of Digital Skills.  We were surprised at the relatively high level of skills that many learners had.  Nevertheless, we did find that most learners made significant progress in enhancing their digital literacy.   However, if we run the courses again we will hope to identify more learners with basic ICT skills.
-3. Website access.  Some of the best websites for researching family history require subscriptions, which were clearly not appropriate for those learners on restricted incomes.  We would look at alternative websites and sources of information in future. 
+**1. Location**    Most of the classes were run in libraries (the Library Service was very helpful in this project, proving much of the recruitment onto the courses and well as five of the six locations).    Some of the locations were less than ideal, with high noise levels at times.  Nevertheless they were convenient for most learners and IT provision, together with support from library staff, was excellent.
+**2. Level of Digital Skills**  We were surprised at the relatively high level of skills that many learners had.  Nevertheless, we did find that most learners made significant progress in enhancing their digital literacy.   However, if we run the courses again we will hope to identify more learners with basic ICT skills.
+**3. Website access**  Some of the best websites for researching family history require subscriptions, which were clearly not appropriate for those learners on restricted incomes.  We would look at alternative websites and sources of information in future. 
 
 ### Conclusions
 
