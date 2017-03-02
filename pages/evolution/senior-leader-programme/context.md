@@ -26,9 +26,4 @@ The [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/d
 * Being driven by data
 * Introducing more flexible technologies
 
-<div class="section headingless">
-    <a href="evolution/senior-leader-programme/structure/" class="btn right">
-        <i class="fa fa-pull-right fa-chevron-right"></i>
-        Next
-    </a>
-</div>
+<iframe width="560" height="315" src="https://readymag.com/u24124000/630268/" frameborder="0" allowfullscreen></iframe>
