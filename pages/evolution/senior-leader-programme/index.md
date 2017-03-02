@@ -7,8 +7,6 @@ permalink: /evolution/senior-leader-programme/
 submenu: evolution-senior-leader-programme
 ---
 
-### Thank you for your interest in the One Digital Senior Leader Development programme.
-
 ## Introduction
 
 We know that the digital revolution has already happened. New technologies and the internet have changed the way we live our lives.
