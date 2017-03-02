@@ -25,10 +25,3 @@ The [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/d
 * Exploring how digital can enhance your service delivery
 * Being driven by data
 * Introducing more flexible technologies
-
-<div class="section headingless">
-    <a href="evolution/senior-leader-programme/structure/" class="btn right">
-        <i class="fa fa-pull-right fa-chevron-right"></i>
-        Next
-    </a>
-</div>
