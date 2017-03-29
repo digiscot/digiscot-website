@@ -49,6 +49,11 @@ We will be taking digital inclusion in an additional direction using iPads and e
 
 
 ### Lessons learned
+If we were to run the project again we would do this 'in house' not through a third party. 
+
+The programme could have benefited from being delivered over a longer period of time. This is because young people with LD learn at different paces, they require patience, one to one and when revisiting previous learning covered from sessions we need to help them to learn using different strategies to help their recall. 
+
+We often had to revisit the purpose of the programme what we have covered and learned and what we will progress to learn. This was to help young people understand what we are setting out to achieve/our goals and the objectives of the project. 
 
 
 
