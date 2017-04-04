@@ -44,10 +44,6 @@ We will be taking digital inclusion in an additional direction using iPads and e
 * Many of our new and existing adult learners will be able to share specific skills and cascade specific skills, this will make them proud and us too, it will also ensure they are very much part of digital inclusion in our local communities.
 
 
-
-### Evaluation
-
-
 ### Lessons learned
 If we were to run the project again we would do this 'in house' not through a third party. 
 
