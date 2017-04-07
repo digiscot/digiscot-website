@@ -89,8 +89,15 @@ Our class in Grantown will continue - we are hoping to reach more learners by by
 
 ### Evaluation
 
+Living in a rural community is making digital skills and getting online more and more important, yet the stories of hacking and cyber-crime put many people off.  We therefore designed our sessions to start with setting strong passwords and giving participants the confidence to go online safely and then gave them a menu option to select the topics they wanted to learn most.
+We helped 39 people across both communities over 20 weeks.  All 39 learners covered the 3 main topics of problem solving (a mixture of solving an actual problem and internet safety / security), managing information and communicating.  Only two learners wanted to know about creating content online (through social media) and only one learner wanted to know more about transacting online (buying travel tickets).
+All learners said they had improved their digital skills and most said they had gained confidence, both in their skills and in using the internet safely.
 
 ### Lessons learned
 
-
+All the learners who completed a feedback form benefited from more knowledge round security and setting strong passwords.  The menu of topics for the rest of the sessions was generally well received, giving learners an opportunity to co-design their learning based on what they wanted to do with their increased digital skills.
+Learners enjoyed getting handouts to take home with them and watching a demo followed by time to try for themselves and to practice.  This gave them a step-by-step approach to follow and the time and space to try things out.
+The biggest challenge that learners seem to face is lack of confidence and concerns over ‘breaking’ a programme or a laptop.
+We found that different communities liked different styles of delivery, with one preferring a more drop-in style session while another liked a formal and structured class environment.
+The large range of abilities was sometimes a challenge for the tutors when trying to spend the right amount of time with each learner so asking learners to fill in a short questionnaire before attending would help us plan the sessions and activities to help with this challenge. 
 
