@@ -77,6 +77,10 @@ nav ul strong a {
     font-weight: 700;
 }
 
+a:link {
+    text-decoration-skip: ink;
+}
+
 ul.browser-default{
     margin-top:15px;
     margin-bottom:15px;
@@ -143,6 +147,7 @@ ul.browser-default li{
             a {
                 color: white !important;
                 text-decoration: underline;
+                text-decoration-skip: ink;
             }
         }
     }
@@ -285,8 +290,16 @@ nav#tag-header{
     .card-content .card-title.activator {
         display: block;
     }
+    .card-action.team-social a:not(.chip) {
+        display: inline-block !important;
+    }
     .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
         margin-right: auto;
+    }
+
+    .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+        color: #0D47A1;
+        font-weight: bold;
     }
 }
 .project-cards {
@@ -391,6 +404,32 @@ nav#tag-header{
     .size-1of3 { width: 33.333%; }
     .size-1of4 { width: 25%; }
     .size-1of5 { width: 20%; }
+}
+
+.case-study-cards[data-columns]::before {
+    @media only screen and (min-width: 0) and (max-width: ($medium-screen / 3)) {
+        content: '1 .column.size-1of1';
+    }
+    @media only screen and (min-width: ($medium-screen / 3)) and (max-width: (($medium-screen / 3) * 2)) {
+        content: '2 .column.size-1of2';
+    }
+    @media only screen and (min-width: (($medium-screen / 3) * 2)) and (max-width: $medium-screen) {
+        content: '3 .column.size-1of3';
+    }
+    @media only screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+        content: '4 .column.size-1of4';
+    }
+    @media only screen and (min-width: $large-screen) {
+        content: '5 .column.size-1of5';
+    }
+}
+
+.case-study-cards[data-columns]{
+    .size-1of1 { width: 100%; }
+    .size-1of2 { width: 50%; }
+    .size-1of3 { width: 50%; }
+    .size-1of4 { width: 33.333%; }
+    .size-1of5 { width: 33.333%; }
 }
 
 // Colors
