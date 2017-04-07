@@ -83,3 +83,13 @@ We completed our third cohort of learners in December, where we had 6 learners s
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We are also running a programme between January and March as we were unable to run a class over the summer, due to staff shortages and look forward to another fun filled programme.
+
+### Project Update
+
+We completed our final programme on the 29th March 2017, in this cohort we had 6 learners, 5 with english as a second language and one solitary scot. The programme using Google Nexus tablets  covered the same topics as previously, with the learners covering social media, online security, browsing, shopping, cloud storage, banking, device management, Skype, using bluetooth and email.
+One thing we discovered was that people had very little knowledge of online security and spent a lot of time covering topics like malware, viruses, browsing safely,  spam and phising emails, this proved to be an eyeopener and they were eager to learn about this as they had been unaware that this existed.
+Cloud storage was another area that people were unaware of and was a topic that was good to explore and raise awareness of.This also wenthand in hand with device management, as people easily lost files or photos and did not know where they had put them. THe learners had an enjoyable time and felt much more confident about using the internet.
+
+Some Learners exploring new worlds.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last Digital Skills Class for this quarter, more learners coming into the 21st Century. <a href="https://t.co/s4QrEUGn1M">pic.twitter.com/s4QrEUGn1M</a></p>&mdash; Volunteering Works (@volworksglasgow) <a href="https://twitter.com/volworksglasgow/status/850321437500084224">April 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
