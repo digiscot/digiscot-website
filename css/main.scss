@@ -28,7 +28,7 @@ $h1-font-color:                   #000000;
 $h-font-color:                    #000000;
 $h-font-weight:                   700;
 
-$brand-color:                     #009E99;
+$brand-color:                     #0D47A1;
 $brand-color-hover:               #33B1AD;
 
 $brand-color-button:              #009E99;
@@ -36,6 +36,8 @@ $brand-color-button-border:       #008E8A;
 
 $brand-color-button-hover:        #007E7A;
 $brand-color-button-border-hover: #006F6B;
+
+$scvo-footer-color:               #263238;
 
 @function black-or-white($color) {
     @if (lightness($color) > 50) {
@@ -58,7 +60,7 @@ body {
     color: $base-font-color;
 }
 .footer {
-    background-color: #263238;
+    background-color: $scvo-footer-color;
 }
 
 h1,
@@ -70,15 +72,23 @@ h3 {
 strong {
     font-weight: 700;
 }
+.nav-wrapper a,
 nav ul a {
     font-weight: 400;
+    color: white !important;
 }
 nav ul strong a {
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
+a,
+a:active,
+a:focus,
+a:visited,
+a:hover,
 a:link {
     text-decoration-skip: ink;
+    color: $brand-color;
 }
 
 ul.browser-default{
@@ -298,7 +308,7 @@ nav#tag-header{
     }
 
     .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
-        color: #0D47A1;
+        color: $brand-color;
         font-weight: bold;
     }
 }
@@ -352,6 +362,16 @@ nav#tag-header{
 .btn-block {
     text-align:center;
     width:100%;
+}
+
+.chip,
+.tags .collapsible-header {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+address {
+    font-style: normal;
 }
 
 // Columns stuff
@@ -515,6 +535,9 @@ h2 {
     h1 {
         font-size: 3rem;
     }
+    h2 {
+        font-size: 2em;
+    }
     .team-image{
         height: 70%;
         background-position: center center;
@@ -523,9 +546,6 @@ h2 {
     }
     .fa-ul {
         margin-left: 0;
-    }
-    h2 {
-        font-size: 2em;
     }
     nav#header .brand-logo .digital {
         margin-left: 0;
@@ -541,7 +561,14 @@ h2 {
         height: auto;
     }
 }
-
+@media only screen and (max-width: $small-screen){
+    h1 {
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-size: 1.75em;
+    }
+}
 // Home
 
 @media only screen and (min-width: $medium-screen){

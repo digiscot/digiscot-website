@@ -76,23 +76,23 @@ redirect_from:
                             </div>
                             <div class="card-action">
                                 {% if page.call == 1 %}
-                                    <a href="/participation/projects/tags/#call1" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#call1" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Winter 2014
                                     </a>
                                 {% elsif page.call == 2 %}
-                                    <a href="/participation/projects/tags/#call2" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#call2" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Spring 2015
                                     </a>
                                 {% elsif page.call == 3 %}
-                                    <a href="/participation/projects/tags/#call3" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#call3" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Winter 2015
                                     </a>
                                 {% endif %}
                                 {% for tag in sortedtags %}
-                                    <a href="/participation/projects/tags/#{{ tag }}" class="chip teal white-text">
+                                    <a href="/participation/projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-tag"></i>
                                         {{ tag }}
                                     </a>
@@ -132,7 +132,7 @@ redirect_from:
 
         {% assign sortedtags = tags | split:'|' | sort %}
 
-        <small><a href="/participation/projects/tags/">Tags:<a/></small>
+        <a href="/participation/projects/tags/">Tags:</a>
         {% for tag in sortedtags %}
             <a href="/participation/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a>
         {% endfor %}

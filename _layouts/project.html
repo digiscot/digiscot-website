@@ -18,25 +18,25 @@ submenu: participation-projects
             <div class="col s12 m9 l9">
                 <h3 class="black-text">{{ page.lead }}</h3>
                 {% if page.website %}
-                    <a href="{{ page.website }}" class="chip teal white-text">
+                    <a href="{{ page.website }}" class="chip blue darken-4 white-text">
                         <i class="fa fa-fw fa-link"></i>
                         Website
                     </a>
                 {% endif %}
                 {% if page.email %}
-                    <a href="mailto:{{ page.email }}" class="chip teal white-text">
+                    <a href="mailto:{{ page.email }}" class="chip blue darken-4 white-text">
                         <i class="fa fa-fw fa-envelope"></i>
                         Email
                     </a>
                 {% endif %}
                 {% if page.twitter-url %}
-                    <a href="{{ page.twitter-url }}" class="chip teal white-text">
+                    <a href="{{ page.twitter-url }}" class="chip blue darken-4 white-text">
                         <i class="fa fa-fw fa-twitter"></i>
                         Twitter
                     </a>
                 {% endif %}
                 {% if page.facebook-url %}
-                    <a href="{{ page.facebook-url }}" class="chip teal white-text">
+                    <a href="{{ page.facebook-url }}" class="chip blue darken-4 white-text">
                         <i class="fa fa-fw fa-facebook"></i>
                         Facebook
                     </a>
@@ -65,7 +65,7 @@ submenu: participation-projects
         <div class="row">
             <div class="col s6">
                 <p>
-                    <a href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="chip teal white-text">
+                    <a href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="chip blue darken-4 white-text">
                         <i class="fa fa-fw fa-pencil-square-o"></i>
                         Update this page
                     </a>
@@ -75,7 +75,7 @@ submenu: participation-projects
                 <p class="right-align">
                     <strong>Tags: </strong>
                     {% for tag in sortedtags %}
-                        <a href="projects/tags/#{{ tag }}" class="chip teal white-text">
+                        <a href="projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
                             <i class="fa fa-fw fa-tag"></i>
                                 {{ tag }}
                         </a>
@@ -95,7 +95,7 @@ submenu: participation-projects
 
         {{ content }}
 
-        <a href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="chip teal white-text">
+        <a href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="chip blue darken-4 white-text">
             <i class="fa fa-fw fa-pencil-square-o"></i>
             Update this page
         </a>
