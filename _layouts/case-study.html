@@ -1,0 +1,75 @@
+---
+layout: default
+fa-icon: fa-comments
+submenu: evolution
+---
+
+<div class="section grey lighten-2">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col s12">
+                <h3 class="black-text">{{ page.lead }}</h3>
+                {% if page.website %}
+                <a href="{{ page.website }}" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-link"></i>
+                    Website
+                </a>
+                {% endif %}
+                {% if page.email %}
+                <a href="mailto:{{ page.email }}" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-envelope"></i>
+                    Email
+                </a>
+                {% endif %}
+                {% if page.twitter-url %}
+                <a href="{{ page.twitter-url }}" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-twitter"></i>
+                    Twitter
+                </a>
+                {% endif %}
+                {% if page.facebook-url %}
+                <a href="{{ page.facebook-url }}" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-facebook"></i>
+                    Facebook
+                </a>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="divider grey darken-3"></div>
+    </div>
+</div>
+
+<div class="section headingless">
+    <div class="container-fluid">
+        <p>
+            <a href="evolution/case-studies/">
+                <i class="fa fa-fw fa-chevron-left"></i>
+                Back to Case Studies
+            </a>
+        </p>
+
+        <div class="row">
+            <div class="col s12 m6 l4">
+                {% if page.image %}
+                <img src="images/case-studies/{{ page.image }}" class="responsive-img" />
+                {% endif %}
+            </div>
+        </div>
+
+        {{ content }}
+
+        If you’d like to help spread some more digital inspiration across the third sector then get in touch,
+        we’d love to hear from you and share it with our networks.
+
+        <hr />
+
+        <div class="share-page">
+            Share this on &rarr;
+            <a class="chip" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i> Twitter</a>
+            <a class="chip" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i> Facebook</a>
+            <a class="chip" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i> Google+</a>
+        </div>
+
+    </div>
+</div>

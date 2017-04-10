@@ -6,17 +6,6 @@
         <div class="masthead white-text flow-text valign-wrapper">
             <div class="container-fluid">
                 <div class="row {% if page.fa-icon or page.icon %}valign-wrapper{% endif %}">
-                    {% if page.fa-icon or page.icon %}
-                    <div class="col s12 m3 l2 hide-on-small-only center-align">
-                        {% if page.fa-icon %}
-                        <i class="fa {{ page.fa-icon }} fa-fw fa-4x white-text"></i>
-                        {% elsif page.icon %}
-                        <i class="fa fa-fw fa-4x">
-                            <img src="{{ page.icon }}" class="responsive-img">
-                        </i>
-                        {% endif %}
-                    </div>
-                    {% endif %}
                     <div class="col s12 m9 l10">
                         <h1>
                             {{ page.title }}
@@ -25,6 +14,17 @@
                             {{ page.excerpt }}
                         </p>
                     </div>
+                    {% if page.fa-icon or page.icon %}
+                    <div class="col s12 m3 l2 hide-on-small-only right-align">
+                        {% if page.fa-icon %}
+                        <i class="fa {{ page.fa-icon }} fa-fw fa-5x white-text"></i>
+                        {% elsif page.icon %}
+                        <i class="fa fa-fw fa-5x">
+                            <img src="{{ page.icon }}" class="responsive-img">
+                        </i>
+                        {% endif %}
+                    </div>
+                    {% endif %}
                 </div>
             </div>
         </div>

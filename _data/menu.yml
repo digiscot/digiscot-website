@@ -29,10 +29,11 @@ evolution:
     parent: true
   - title: One Digital events
     path: evolution/one-digital-meetups/
+  # - title: Case Studies
+  #   path: evolution/case-studies/
   - title: Senior Leader Development Programme
     path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
-
 
 participation:
   - title: Participation

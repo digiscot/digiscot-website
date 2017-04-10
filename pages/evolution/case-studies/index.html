@@ -1,0 +1,73 @@
+---
+layout: default
+title: Case Studies
+excerpt: Text TBC
+permalink: /evolution/case-studies/
+fa-icon: fa-comments
+submenu: evolution
+---
+
+<!-- <div class="section">
+<div class="container-fluid flow-text">
+<p>
+TBC
+</p>
+</div>
+</div>
+
+<div class="divider"></div> -->
+
+<div class="section" id="case-studies">
+    <div class="container-fluid flow-text">
+        {% assign count = 0 %}
+        {% assign awarded = 0 %}
+
+        {% for page in site.pages %}
+        {% if page.layout == 'case-study' %}
+        {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+        {% capture awarded %}{{ awarded | plus: page.award }}{% endcapture %}
+        {% endif %}
+        {% endfor %}
+
+        <div class="case-study-cards" data-columns>
+            {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
+            {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
+
+            {% assign idx = 0 %}
+
+            {% for page in site.pages %}
+            {% if page.layout == 'case-study' %}
+            <div class="card hoverable">
+                <div class="card-content">
+                    {% capture tags %}
+                    {% for tag in page.tags %}
+                    {{ tag }}
+                    {% endfor %}
+                    {% endcapture %}
+
+                    {% assign sortedtags = tags | split:' ' | sort %}
+
+                    <p><a href="{{ page.url }}" class="card-title">
+                        {% if page.image %}<img src="images/case-studies/{{ page.image }}" class="responsive-img" />{% endif %}
+                        <strong>{{ page.title }}</strong>
+                    </a></p>
+                    <p>{{ page.excerpt }}</p>
+
+                    {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="divider"></div>
+
+        <br />
+        Get in touch if you have a digital story to share!
+
+    </div>
+</div>
+
+<div class="clearfix"></div>
