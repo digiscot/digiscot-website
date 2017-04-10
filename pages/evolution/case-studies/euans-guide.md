@@ -1,13 +1,13 @@
 ---
 layout: case-study
-title: Digi-tales from the third sector - Euan's Guide
-excerpt: Euan's Guide is the disabled access review website used by disabled people, their families and friends to review, share and discover accessible places online.
+title: Euan's Guide
+excerpt: Find out how Euan’s Guide are using digital to introduce a fun gamification element to their online reviews.
 image: disabled-access-reviews-for-disabled-people-their-families-and-friends.png
 website: https://www.euansguide.com
 email:
-twitter-url:
-facebook-url:
-permalink: /evolution/case-studies/euans-guide/
+twitter-url: https://twitter.com/EuansGuide?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+facebook-url: https://en-gb.facebook.com/EuansGuide
+permalink: /evolution/digital-pioneers/euans-guide/
 ---
 
 We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than
