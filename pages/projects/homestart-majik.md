@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Thrive in the Digital World
-excerpt: Helping people to thrive in the digital world and reducing social isolation
-lead: Homestart Majik
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Thrive in the Digital World
+project-excerpt: Helping people to thrive in the digital world and reducing social isolation
+project-lead: Homestart Majik
 website: http://www.home-start-majik.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: PA29 6UL
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/homestart-majik/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

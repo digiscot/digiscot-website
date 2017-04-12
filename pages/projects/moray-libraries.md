@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Get Digital Clubs
-excerpt: ICT courses for the most digitally excluded
-lead: Moray Libraries and Information Service
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Get Digital Clubs
+project-excerpt: ICT courses for the most digitally excluded
+project-lead: Moray Libraries and Information Service
 website: http://www.moray.gov.uk/moray_standard/page_1472.html
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV30 1HS
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/moray-libraries/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Getting Digital
-excerpt: Supporting older disabled people to learn relevant digital skills within a community housing environment.
-lead: Lead Scotland
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Getting Digital
+project-excerpt: Supporting older disabled people to learn relevant digital skills within a community housing environment.
+project-lead: Lead Scotland
 website: http://www.lead.org.uk/
 email: enquiries@lead.org.uk
 twitter-url: https://twitter.com/@leadscot_tweet
@@ -16,6 +18,8 @@ postcode: EH2 4RG
 image:
 tags:
 permalink: /projects/lead-scotland/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -59,6 +63,3 @@ We are grateful to Cairn Housing Association and their staff for supporting this
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Lead has <a href="https://twitter.com/scvotweet">@scvotweet</a> digital participation funding to deliver Getting Digital in Highland: <a href="http://t.co/ZTTEhYwLmq">http://t.co/ZTTEhYwLmq</a> <a href="http://t.co/8abRiEDbBD">pic.twitter.com/8abRiEDbBD</a></p>&mdash; Lead Scotland (@leadscot_tweet) <a href="https://twitter.com/leadscot_tweet/status/623499162529697792">July 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-

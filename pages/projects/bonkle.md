@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Choice and use of Digital Computers
-excerpt: Introduction to computers, tablets and notebooks and how to use them
-lead: Bonkle Computer Club
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Choice and use of Digital Computers
+project-excerpt: Introduction to computers, tablets and notebooks and how to use them
+project-lead: Bonkle Computer Club
 website: http://www.bonkleclub.plus.com/index.html
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: ML2 9QJ
 image:
 tags: older-people disabled-people remote-rural
 permalink: /projects/bonkle/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

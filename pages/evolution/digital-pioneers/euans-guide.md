@@ -1,8 +1,11 @@
 ---
-layout: case-study
-title: Euan's Guide
-excerpt: Find out how Euan’s Guide are using digital to introduce a fun gamification element to their online reviews.
-image: disabled-access-reviews-for-disabled-people-their-families-and-friends.png
+layout: digital-pioneer
+title: Digital Pioneers
+excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired.
+submenu: evolution-digital-pioneers
+pioneer-title: Euan's Guide
+pioneer-excerpt: Find out how Euan’s Guide are using digital to introduce a fun gamification element to their online reviews.
+image: EGLogo.png
 website: https://www.euansguide.com
 email:
 twitter-url: https://twitter.com/EuansGuide?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor

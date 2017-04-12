@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Connecting and Communicating
-excerpt: Improving the digital capability of SCoD to better support and communicate with members
-lead: Scottish Council on Deafness
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Connecting and Communicating
+project-excerpt: Improving the digital capability of SCoD to better support and communicate with members
+project-lead: Scottish Council on Deafness
 website: http://www.scod.org.uk/
 email: admin@scod.org.uk
 twitter-url: scodmedia
@@ -16,6 +18,8 @@ postcode: G2 6LD
 image:
 tags: disabled-people Glasgow remote-rural
 permalink: /projects/scottish-council-on-deafness/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

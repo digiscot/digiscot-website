@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Cairngorms Computing Confidence
-excerpt:
-lead: Cairngorms Learning Partnership
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Cairngorms Computing Confidence
+project-excerpt:
+project-lead: Cairngorms Learning Partnership
 website: https://www.clp-online.net/
 email: cclp@btconnect.com
 twitter-url: https://twitter.com/CairnLearn
@@ -16,6 +18,8 @@ postcode: PH21 1EH
 image: /images/projects/clp.jpg
 tags: older-people
 permalink: /projects/cairngorms/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -99,5 +103,4 @@ All the learners who completed a feedback form benefited from more knowledge rou
 Learners enjoyed getting handouts to take home with them and watching a demo followed by time to try for themselves and to practice.  This gave them a step-by-step approach to follow and the time and space to try things out.
 The biggest challenge that learners seem to face is lack of confidence and concerns over ‘breaking’ a programme or a laptop.
 We found that different communities liked different styles of delivery, with one preferring a more drop-in style session while another liked a formal and structured class environment.
-The large range of abilities was sometimes a challenge for the tutors when trying to spend the right amount of time with each learner so asking learners to fill in a short questionnaire before attending would help us plan the sessions and activities to help with this challenge. 
-
+The large range of abilities was sometimes a challenge for the tutors when trying to spend the right amount of time with each learner so asking learners to fill in a short questionnaire before attending would help us plan the sessions and activities to help with this challenge.

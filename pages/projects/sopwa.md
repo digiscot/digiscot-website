@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Tea and Technology
-excerpt:
-lead: Stornoway Old Peoples Welfare Association
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Tea and Technology
+project-excerpt:
+project-lead: Stornoway Old Peoples Welfare Association
 website: http://beithtrust.org/
 email: office.sopwa@gmail.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: HS1 2DU
 image: /images/projects/sopwa.png
 tags: older-people remote-rural
 permalink: /projects/sopwa/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -47,6 +51,3 @@ Tea and biscuits on tap throughout the afternoon. The Centre is wheelchair acces
 
 
 ### Lessons learned
-
-
-

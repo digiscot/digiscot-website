@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Blackwood Connect
-excerpt: Basic digital skills training for tenants
-lead: Blackwood
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Blackwood Connect
+project-excerpt: Basic digital skills training for tenants
+project-lead: Blackwood
 website: http://www.blackwoodgroup.org.uk/
 email: info@blackwoodgroup.org.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH12 8XF
 image:
 tags: older-people disabled-people benefits Glasgow remote-rural
 permalink: /projects/blackwood/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

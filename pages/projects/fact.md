@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Forres Online
-excerpt: Training programme for online learning and activity in Forres.
-lead: Forres Area Community Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Forres Online
+project-excerpt: Training programme for online learning and activity in Forres.
+project-lead: Forres Area Community Trust
 website: http://forresarea.org/
 email: info@forresarea.org
 twitter-url: https://twitter.com/Forres_Area
@@ -16,6 +18,8 @@ postcode: IV36 1SW
 image:
 tags: older-people benefits remote-rural
 permalink: /projects/fact/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

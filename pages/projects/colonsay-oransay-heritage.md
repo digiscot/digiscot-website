@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Colonsay Captured
-excerpt: Growing community resources with a website and the digitisation of historic archives
-lead: Colonsay and Oransay Heritage Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Colonsay Captured
+project-excerpt: Growing community resources with a website and the digitisation of historic archives
+project-lead: Colonsay and Oransay Heritage Trust
 website: http://www.spanglefish.com/ColonsayandOransayHeritageTrust/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: PA61 7YR
 image:
 tags: older-people remote-rural
 permalink: /projects/colonsay-oransay-heritage/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

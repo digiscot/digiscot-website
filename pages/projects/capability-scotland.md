@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: ICT suite refurbishment
-excerpt: Developing the ICT suite at Upper Springland residental and daycare service to enable wheelchair access.
-lead: Capability Scotland
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: ICT suite refurbishment
+project-excerpt: Developing the ICT suite at Upper Springland residental and daycare service to enable wheelchair access.
+project-lead: Capability Scotland
 website: http://www.capability-scotland.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH12 6HY
 image:
 tags: disabled-people
 permalink: /projects/capability-scotland/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -81,5 +85,3 @@ Continual Customer involvement was a crucial element in ensuring the environment
 Things we would have done differently:
 
 There is still work to be done in prmoting the IT Suite as a community resource which can be accessedd bu other disabled people living in the Perth area.
-
-

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Bringing out the Digital
-excerpt: Digital inclusion workshops for disabled people
-lead: Leonard Chesire Disability
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Bringing out the Digital
+project-excerpt: Digital inclusion workshops for disabled people
+project-lead: Leonard Chesire Disability
 website: https://www.leonardcheshire.org/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH12 6DD
 image:
 tags: disabled-people remote-rural
 permalink: /projects/leonard-cheshire/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -168,6 +172,3 @@ Things that we would do differently next time:
 
 1. Make the training sessions more structured
 2. Expand what we delivered in more depth. As many of the 1-1s only happened once, we could only complete very specific tailored support and in many instances we could have gone into more depth on topics that came out as a result of the sessions.
-
-
-

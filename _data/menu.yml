@@ -29,8 +29,9 @@ evolution:
     parent: true
   - title: One Digital events
     path: evolution/one-digital-meetups/
-  # - title: Case Studies
-  #   path: evolution/case-studies/
+  - title: Digital Pioneers
+    path: evolution/digital-pioneers/
+    submenu: evolution-digital-pioneers
   - title: Senior Leader Development Programme
     path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
@@ -129,6 +130,14 @@ evolution-senior-leader-programme:
     parent: true
   - title: Context
     path: evolution/senior-leader-programme/context/
+
+evolution-digital-pioneers:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Digital Pioneers
+    path: evolution/digital-pioneers/
+    parent: true
 
 about:
   - title: About

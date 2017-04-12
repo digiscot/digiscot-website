@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Strathmore Skills Centre
-excerpt: Basic digital skills lessons for local people
-lead: Coupar Angus Regeneration Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Strathmore Skills Centre
+project-excerpt: Basic digital skills lessons for local people
+project-lead: Coupar Angus Regeneration Trust
 website: http://www.coupar-angus.org/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: PH13 9AE
 image:
 tags: older-people remote-rural
 permalink: /projects/couper-angus/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

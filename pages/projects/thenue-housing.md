@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Smart Communities Volunteer Digital Champions
-excerpt: Volunteer Digital Champions programme
-lead: Thenue Housing Association
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Smart Communities Volunteer Digital Champions
+project-excerpt: Volunteer Digital Champions programme
+project-lead: Thenue Housing Association
 website: http://www.thenuehousing.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G40 1AG
 image:
 tags: older-people benefits Glasgow
 permalink: /projects/thenue-housing/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -90,4 +94,3 @@ Things that we would do differently next time:
 We initially underestimated the levels of support required by some volunteers to not only feel competent at giving Digital support, but also to feel confident about delivering that support to other people in their communities. We have realised that we will need to recruit volunteers from a range of sources, including individuals who already have many of the skills and experiences necessary to fulfil the role of Digital Champion. Indeed, we have begun recruiting additional volunteers through our Volunteering Programme, in the hope that more peer-to-peer support can be provided by volunteers, in addition to the support and training provided by the Smart Communities’ staff. The addition of Thenue Staff members as volunteers will also support this model, where volunteers can learn from each other, and provide support for each other as part of their role as Digital Champion. This would allow the Smart Communities project to support additional volunteers, as well as participants, and would foster a positive learning and volunteering environment which encourages interaction and skills-sharing between staff, volunteers and participants.
 
 We have also expanded our own ideas of what should be involved in volunteering training. Originally, our training focused mainly on skills attainment (e.g. having the basic IT skills required to complete digital activities) and some softer skills (e.g. communication with participants, making people feel at ease, treating others respectfully). However, we have now witnessed the importance of confidence and self-esteem building in supporting our volunteers, and so would like to incorporate this into our training on a more formal basis in future. This is particularly important for more vulnerable volunteers, but will be of benefit to all.
-

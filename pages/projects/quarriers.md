@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Quarriers Go4IT Project
-excerpt: Stories from the Digital Divide
-lead: Quarriers
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Quarriers Go4IT Project
+project-excerpt: Stories from the Digital Divide
+project-lead: Quarriers
 website: https://quarriers.org.uk/
 email: norrie.murray@quarriers.org.uk
 twitter-url: https://twitter.com/quarriers
@@ -16,6 +18,8 @@ postcode: PA11 3SX
 image: /images/projects/quarriers.jpg
 tags: disabled-people older-people benefits
 permalink: /projects/quarriers/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -77,9 +81,9 @@ Despite these barriers, everyone engaged well with the course, and there was a p
 
 The third group continued the trend we experienced in the project by our four individuals representing diverse groups of people who are digitally excluded. These diversities included autistic spectrum disorder in two cases, physical disabilities such as upper limb restrictive movement, wheelchair reliance and a certain amount of visual impairment. One elderly individual was retired and also presented a learning disability alongside all others to varying degrees.
 
-It was also a relatively young group, with three quarters being under the thirty year age mark. Learners struggled with being able to cope with most of the basic digital skills which were queried at the beginning of this group. This did not stop many of the learners from being involved with their tablets. Within the first two weeks, all users were able to switch on their tablet and knew how to open and use the apps which they liked. One asd user, despite having little knowledge of computers, was able to download and install many different apps. There was a gap here, and in one other learner, in having a language barrier. These individuals were learning apps by memory for what they actual did, not what the text explained about them. Sometimes this was less evident in more 'picture based' apps, but was shown very clearly on text searches with google, and form filling online. 
+It was also a relatively young group, with three quarters being under the thirty year age mark. Learners struggled with being able to cope with most of the basic digital skills which were queried at the beginning of this group. This did not stop many of the learners from being involved with their tablets. Within the first two weeks, all users were able to switch on their tablet and knew how to open and use the apps which they liked. One asd user, despite having little knowledge of computers, was able to download and install many different apps. There was a gap here, and in one other learner, in having a language barrier. These individuals were learning apps by memory for what they actual did, not what the text explained about them. Sometimes this was less evident in more 'picture based' apps, but was shown very clearly on text searches with google, and form filling online.
 
-The group worked well with the tutors in terms of progress, and a lot of their interest was fueled by access to multimedia, such as music, video and cause and effect apps with gaming. None of these required particularly high levels of basic digital skills to access however. As with most other groups, throughout the six week course, learners were very good at charging up their tablet and trying some apps out at home. Data use was not large in this group, and another issue was still centred around the understanding of different amounts of data. Overall, the group did make good progress in terms of practical tablet and internet use, but fell short of making large strides in achieving basic digital skills as outlined by Go On UK. 
+The group worked well with the tutors in terms of progress, and a lot of their interest was fueled by access to multimedia, such as music, video and cause and effect apps with gaming. None of these required particularly high levels of basic digital skills to access however. As with most other groups, throughout the six week course, learners were very good at charging up their tablet and trying some apps out at home. Data use was not large in this group, and another issue was still centred around the understanding of different amounts of data. Overall, the group did make good progress in terms of practical tablet and internet use, but fell short of making large strides in achieving basic digital skills as outlined by Go On UK.
 
 ### Evaluation
 
@@ -104,4 +108,3 @@ There are always going to be limitations for what a classroom, or training cours
 * Formulation of a clear learning plan and achievable goals. Avoid setting unrealistic expectations. For instance, a person who is not literate, will not be able to achieve the same through web browsing as someone with more refined language skills.
 
 * An initial assessment of learners needs and existing skills is essential to setting the appropriate pace of learning for individual learners.
-

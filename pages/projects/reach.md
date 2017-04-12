@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Ethnicity & Social Media, A Digital Way Forward
-excerpt:
-lead: Reach Community Health Project
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Ethnicity & Social Media, A Digital Way Forward
+project-excerpt:
+project-lead: Reach Community Health Project
 website: http://reachhealth.org.uk/
 email: admin@reachhealth.org.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G42 8JL
 image: /images/projects/reach.jpg
 tags: ethnic-minority
 permalink: /projects/reach/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

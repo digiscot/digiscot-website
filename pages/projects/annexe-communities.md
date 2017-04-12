@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Connected Up
-excerpt: Digital skills training for older people
-lead: Annexe Communities
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Connected Up
+project-excerpt: Digital skills training for older people
+project-lead: Annexe Communities
 website: http://www.annexecommunities.org.uk/
 email: info@annexecommunities.org.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G11 5PE
 image:
 tags: older-people Glasgow
 permalink: /projects/annexe-communities/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -106,4 +110,3 @@ Things that we would do differently next time:
 
 1. Make the classes smaller from day 1
 2. Make one class per piece of equipment ie.specifically Ipads or E-mail if at all possible.
-

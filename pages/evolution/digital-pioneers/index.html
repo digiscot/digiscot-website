@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Pioneers
-excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired. 
+excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired.
 permalink: /evolution/digital-pioneers/
 fa-icon: fa-comments
 submenu: evolution
@@ -23,20 +23,20 @@ TBC
         {% assign awarded = 0 %}
 
         {% for page in site.pages %}
-        {% if page.layout == 'case-study' %}
+        {% if page.layout == 'digital-pioneer' %}
         {% capture count %}{{ count | plus: 1 }}{% endcapture %}
         {% capture awarded %}{{ awarded | plus: page.award }}{% endcapture %}
         {% endif %}
         {% endfor %}
 
-        <div class="case-study-cards" data-columns>
+        <div class="digital-pioneer-cards" data-columns>
             {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
             {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
 
             {% assign idx = 0 %}
 
             {% for page in site.pages %}
-            {% if page.layout == 'case-study' %}
+            {% if page.layout == 'digital-pioneer' %}
             <div class="card hoverable">
                 <div class="card-content">
                     {% capture tags %}
@@ -48,10 +48,10 @@ TBC
                     {% assign sortedtags = tags | split:' ' | sort %}
 
                     <p><a href="{{ page.url }}" class="card-title">
-                        {% if page.image %}<img src="images/case-studies/{{ page.image }}" class="responsive-img" />{% endif %}
-                        <strong>{{ page.title }}</strong>
+                        {% if page.image %}<img src="images/digital-pioneers/{{ page.image }}" class="responsive-img" />{% endif %}
+                        <strong>{{ page.pioneer-title }}</strong>
                     </a></p>
-                    <p>{{ page.excerpt }}</p>
+                    <p>{{ page.pioneer-excerpt }}</p>
 
                     {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
                 </div>

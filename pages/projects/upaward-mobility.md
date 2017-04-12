@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Upload Mobility from Upward Mobility
-excerpt:
-lead: Upward Mobility
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Upload Mobility from Upward Mobility
+project-excerpt:
+project-lead: Upward Mobility
 website: http://www.upwardmobilityproject.com/
 email: info@upwardmobilityproject.com
 twitter-url: https://twitter.com/upmoproject
@@ -16,6 +18,8 @@ postcode: EH7 6AE
 image: /images/projects/upmologo.jpg
 tags: disabled-people
 permalink: /projects/upwardmobility/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -98,12 +102,12 @@ First 12 week block completed – First evaluation 5th August 2016
 
 ### Evaluation
 
-* Photography workshop every Monday (8 Students) 
+* Photography workshop every Monday (8 Students)
 We have used the iPads as cameras, a lot of our students find the digital camera too fiddly to use, not so much in buttons but in how small the screen is.  When we have the big screens of the iPad it allows more preplanning of what shots are taken, we take less shots, but have more discussion surrounding what shots we do take.  In terms of what we do after.  We can edit the shots more easily using the iPhoto software.  This means we can actually either edit when we return or even edit in the minibus on the way back, we can have lots more opportunities to see each picture, and we have also brought in editing as a group using the projector.  This has set up new oppurtunities to open out the workshop.
 
-* Social Media awareness every Thursday (5 Students) 
+* Social Media awareness every Thursday (5 Students)
 We are looking into social media sites, our computers are so old that we could not really use these for this task.  We have been using these to look at each social network but what has been even better is how the workshop has been able to link in with other students.  We can use the iPad with the projector to do live info and training on social media with the social media on screen as an example.  We can do live updates and it’s so much more reliable.
-* Cafe project every Monday/Tuesday (8 Students) 
+* Cafe project every Monday/Tuesday (8 Students)
 The café is in a transitional phase right now.  We are currently open 2 days and hope to be open 3 soon.  Currently the iPads are used before and after the cooking and selling.  We hope to use it during cooking too very soon, taking it to the next level.  At the end of the day, we use the iPads to order the materials.  We have found a money planning App which we use to set the budget for the next week, at first the students were surprised at how much things cost, but are starting to get used to this style and getting faster with it.  Another advantage of using the iPads, is that we can check supplies in real time, wandering around to see what we need.  Prior to making it, we use the Visual Recipes app to plan out what we are doing that day.  This is accessible to all in the workshop, as opposed to written instructions.  Our next plan is to link the iPad to a Bluetooth till so students can take orders in a visual way using the following app
 Restaurant Management:
 Lightspeed Restaurant http://www.lightspeedhq.co.uk/pos/restaurant/features/
@@ -119,7 +123,7 @@ Outcome Summary – Workshop Numbers:
 
 Numbers involved
 
-Each workshop – 
+Each workshop –
 
 Photography workshop every Monday (8 Students)
 Social Media awareness every Thursday (5 Students)
@@ -139,7 +143,7 @@ Prestonpans Multi Media Workshops every Monday (4 Staff)
 
 Outcomes
 1.	People with disabilities will be safer when using online tools – SCVO + RBS
-a.	Increasing the training of our staff and increasing the impact of teaching through real world examples will have a bigger impact than classroom type learning on our students. This will increase the chance of our students gaining life skills that will increase their safety in every area the use online tools and services. This will reduce their vulnerability to deception and predatory online practices. 
+a.	Increasing the training of our staff and increasing the impact of teaching through real world examples will have a bigger impact than classroom type learning on our students. This will increase the chance of our students gaining life skills that will increase their safety in every area the use online tools and services. This will reduce their vulnerability to deception and predatory online practices.
 
 Outcome Feedback:  
 We agreed that we would look into people with disabilities will be safer when using online tools.  There was a few different ways we looked into this.  The first thing we looked at was training for the staff members.  We looked at iPad training which had two sides to it.  The first thing we wanted to look at was how to make the iPads accessible to all.  We went over all the accessibility options, paying particular attention to the students we had identified to take part.  The trainees involved were a mix of facilitators and trainers who could assist in cascading this training to others.  The second part was looking at accessible apps and how we could make these seem more real to the students.  Choosing apps that related to real world situations like painting and identifying money being two examples that students requested as Apps that would be relevant to them in our initial information gathering.  Once we had this training in place, we had an initial period of iPad set up using the relevant facilitators (to keep the information fresh in their mind) and a group of student reps who were to assist in putting together all the apps in a student friendly fashion.  Once they were installed we ran pilot projects with four different workshops (Digital Photography, social Media, Multimedia and Café project.)  We decided to focus on the Social Media and Multimedia in the main instance on looking towards gaining life skills when working online.  The social media workshop worked on a project that was all about social media safety, and how to transfer this information onto other students, a multimedia style was used with info on social media, information on posters and specific presentations for other students using interactive methods with the iPads.  The multimedia group took a different tact.  They designed a unit using the iPads with the workshop designing it in real time over a 12 week unit, deciding on what to include with student assistance.  This can now be used with other workshops if they book out the iPads.
@@ -170,7 +174,7 @@ This Is who else has used the iPads in the similar styles generated by the digit
 
 
 3.	People with disabilities will have higher self-esteem  - RBS + SCVO
-a.	Seeing public and peer recognition of one’s creative and enterprising efforts will increase the self-esteem of our students as productive members of society. 
+a.	Seeing public and peer recognition of one’s creative and enterprising efforts will increase the self-esteem of our students as productive members of society.
 b.	JOBS – Moving closer to the employment market and receiving recognition for that work will increase the satisfaction with our students’ time at UPMO, and of this part of their lives.
 Outcome Feedback:  
 
@@ -181,6 +185,3 @@ This is the amount of students who attended the trail on most of the weeks to ga
 Cafe project every Monday/Tuesday (8 Students)
 Indirect Student Assistance
 60% of students use the café each day it is open,  This is more students with access to healthy eating choices and time to interact with their peers.  The fact they can see their peers at work is a uncountable goal of this too.
-
-
-

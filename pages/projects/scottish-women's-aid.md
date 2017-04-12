@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Recounting Women
-excerpt: To imporve the digital skills of the women involved
-lead: Scottish Women's Aid
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Recounting Women
+project-excerpt: To imporve the digital skills of the women involved
+project-lead: Scottish Women's Aid
 website: http://www.scottishwomensaid.org.uk/
 email: jo.ozga@scottishwomensaid.org.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH2 3JD
 image: /images/projects/SWA.jpg
 tags: women Glasgow
 permalink: /projects/scottish-womens-aid/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -51,6 +55,3 @@ One of the aims of the project is to support women to learn how to use digital p
 The Recounting Women project is innovative as it directly involves women who currently do not have a platform for communicating their experiences of the impact of public policy decisions, such as welfare reform, on their lives. Digital story telling provides a unique and creative way of doing that, it can also be used anonymously to enable women who have experienced domestic abuse to participate safely.
 
 We’ll be moving onto work with Glasgow East Women’s Aid in January and we look forward to sharing the results with you all!
-
-
-

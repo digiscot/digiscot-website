@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Grace Digital Well Being Cafe (Independence Through Digital Literacy Attainment)
-excerpt:
-lead: G.R.A.C.E
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Grace Digital Well Being Cafe (Independence Through Digital Literacy Attainment)
+project-excerpt:
+project-lead: G.R.A.C.E
 website: http://www.graceaftercare.co.uk/about
 email: gracesmailis@gmail.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G66 1NL
 image: /images/projects/grace.png
 tags: older-people benefits
 permalink: /projects/grace/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -187,6 +191,3 @@ In conclusion we would say that these past ten weeks have been very successful, 
 
 
 ### Lessons learned
-
-
-

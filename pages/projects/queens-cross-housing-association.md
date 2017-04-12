@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Historical Connections @ Queens Cross
-excerpt: Using local history to teach older people how to use the internet
-lead: Queens Cross Housing Association
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Historical Connections @ Queens Cross
+project-excerpt: Using local history to teach older people how to use the internet
+project-lead: Queens Cross Housing Association
 website: http://www.qcha.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G20 7BE
 image:
 tags: older-people disabled-people benefits young-people Glasgow
 permalink: /projects/queens-cross-housing-association/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

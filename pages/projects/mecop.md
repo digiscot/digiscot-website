@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Digital Dragons
-excerpt:
-lead: MECOPP Carers Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Dragons
+project-excerpt:
+project-lead: MECOPP Carers Centre
 website: http://www.mecopp.org.uk/
 email: info@mecopp.org.uk
 twitter-url: https://twitter.com/mecopp1
@@ -16,6 +18,8 @@ postcode: EH6 5EA
 image: /images/projects/mecopp.jpg
 tags: older-people remote-rural
 permalink: /projects/mecopp/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -60,6 +64,3 @@ Project costs include the purchase of ten transformer books (these offer the fun
 
 
 ### Lessons learned
-
-
-

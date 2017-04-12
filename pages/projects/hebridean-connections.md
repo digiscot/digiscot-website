@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Hebridean History in the Digital Age
-excerpt: Digital skills training events across Lewis and Harris
-lead: Hebridean Connections
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Hebridean History in the Digital Age
+project-excerpt: Digital skills training events across Lewis and Harris
+project-lead: Hebridean Connections
 website: http://www.hebrideanconnections.com/
 email: info@hebrideanconnections.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: HS2 9QA
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/hebridean-connections/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -76,5 +80,3 @@ Text
 Text
 
 Text
-
-

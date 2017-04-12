@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Skills Job Club
-excerpt: Twice weekly Digital Skills Job Club
-lead: Ayrshire Community Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Skills Job Club
+project-excerpt: Twice weekly Digital Skills Job Club
+project-lead: Ayrshire Community Trust
 website: http://www.theayrshirecommunitytrust.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: KA22 8DQ
 image:
 tags: disabled-people benefits remote-rural
 permalink: /projects/ayrshire-community/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

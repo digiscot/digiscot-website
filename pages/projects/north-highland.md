@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Get to know the Internet
-excerpt: Basic digital and online skills training
-lead: North Highland Language Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Get to know the Internet
+project-excerpt: Basic digital and online skills training
+project-lead: North Highland Language Centre
 website: http://www.nhlanguagecentre.com/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV19 1BP
 image:
 tags: older-people disabled-people remote-rural
 permalink: /projects/north-highland/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

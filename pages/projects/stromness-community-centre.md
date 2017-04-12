@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Bridging the Gap Getting Online
-excerpt: Beginner internet sessions delivered by young people for older people in the community
-lead: Stromness Community Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Bridging the Gap Getting Online
+project-excerpt: Beginner internet sessions delivered by young people for older people in the community
+project-lead: Stromness Community Centre
 website: http://www.orkney.gov.uk/Service-Directory/S/stromness-community-centre.htm
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: KW16 3BA
 image:
 tags: older-people remote-rural
 permalink: /projects/stromness-community-centre/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -60,4 +64,3 @@ Things that worked well:
 Things that we would do differently next time:
 
 1. Have more one to one sessions for older people who are more hard of hearing as being in a group sometimes confused them
-

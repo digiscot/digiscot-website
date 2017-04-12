@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Computing For All
-excerpt: Teaching basic computing skills.
-lead: Old Torry Community Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Computing For All
+project-excerpt: Teaching basic computing skills.
+project-lead: Old Torry Community Centre
 website: http://www.oldtorry.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: AB11 9QH
 image:
 tags: older-people disabled-people benefits
 permalink: /projects/old-torry-community-centre/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

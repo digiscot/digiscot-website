@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Digital VG
-excerpt:
-lead: Volunteer Glasgow
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digitally Agile Training Course
+project-excerpt:
+project-lead: Volunteer Glasgow
 website: http://www.volunteerglasgow.org/
 email: info@volunteerglasgow.org
 twitter-url: https://twitter.com/volunteerglasgo
@@ -16,6 +18,8 @@ postcode: G2 6LU
 image: /images/projects/volunteerglasgow.jpg
 tags: english-not-first-language
 permalink: /projects/volunteerglasgow/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

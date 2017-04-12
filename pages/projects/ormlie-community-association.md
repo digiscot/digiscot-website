@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Digital access and IT skills
-excerpt: Supported digital access and improving IT skills.
-lead: Ormlie Community Association
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital access and IT skills
+project-excerpt: Supported digital access and improving IT skills.
+project-lead: Ormlie Community Association
 website: http://www.ormlie.org/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: KW14 7SW
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/ormlie-community-association/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -86,5 +90,3 @@ Locating the project in the local CAB office, meant that we had expertise on han
 Things that we would do differently next time:
 
 We would market the project more often and more widely.  Although we met our targets, apart from an initial marketing "campaign" we relied on word of mouth thereafter to attract participants.
-
-

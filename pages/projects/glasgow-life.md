@@ -1,10 +1,12 @@
 ---
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
-title: Digitally Agile Staff CPD
 call: 2
-excerpt: Online learning resource for staff working with client groups least likely to have basic digital skills.
-lead: Glasgow Life
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digitally Agile Staff CPD
+project-excerpt: Online learning resource for staff working with client groups least likely to have basic digital skills.
+project-lead: Glasgow Life
 website: http://www.glasgowlife.org.uk/Pages/default.aspx
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G4 0QW
 image:
 tags: staff Glasgow
 permalink: /projects/glasgow-life/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -93,4 +97,3 @@ We know this because the feedback from staff who have completed the training has
 2. Involved the learning administrator (of the Moodle system) at an earlier stage, particularly in how the learning ‘bites’ are presented and described.
 
 3. Not presume that our frontline staff already have good basic digital skills – a minority of staff required a more remedial approach.
-

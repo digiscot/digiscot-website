@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Our Digital Zone
-excerpt: Variety of digital participation activity across the Highlands
-lead: Citizens Online
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Our Digital Zone
+project-excerpt: Variety of digital participation activity across the Highlands
+project-lead: Citizens Online
 website: http://www.citizensonline.org.uk/
 email:
 twitter-url: https://twitter.com/citizensonline1
@@ -16,6 +18,8 @@ postcode:
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/citizens-online/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

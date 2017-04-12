@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Connected, Confident & Included
-excerpt:
-lead: Inverclyde Council on Disability
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Connected, Confident & Included
+project-excerpt:
+project-lead: Inverclyde Council on Disability
 website: http://www.icod.org.uk/
 email: enquiries@icod.org.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: PA15 1NB
 image: /images/projects/inverclyde.jpg
 tags: older-people disabled-people benefits
 permalink: /projects/icod/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -58,6 +62,3 @@ Learners will be encouraged & have access to our other services, including advic
 
 
 ### Lessons learned
-
-
-

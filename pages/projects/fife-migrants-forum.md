@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: You Can Do IT, IT for work, for all.
-excerpt:
-lead: Fife Migrants Forum
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: You Can Do IT, IT for work, for all.
+project-excerpt:
+project-lead: Fife Migrants Forum
 website: http://fifemigrantsforum.org.uk/
 email: info@fifemigrantsforum.org.uk
 twitter-url: https://twitter.com/FifeMigrants
@@ -16,6 +18,8 @@ postcode: KY1 1EH
 image: /images/projects/fife.jpg
 tags: older-people remote-rural ethnic-minorities
 permalink: /projects/fife-migrants-forum/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -180,5 +184,3 @@ Employability skills considered as most important among migrant community
 
 
 ### Lessons learned
-
-

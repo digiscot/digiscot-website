@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Merkinch Gets Online
-excerpt: Supporting local people to access online services and resources
-lead: Merkinch Partnership
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Merkinch Gets Online
+project-excerpt: Supporting local people to access online services and resources
+project-lead: Merkinch Partnership
 website:
 email: anne@merkinch.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV3 8BL
 image:
 tags: unemployed
 permalink: /projects/merkinch-partnership/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

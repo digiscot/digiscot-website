@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Crookston Community WWW Club
-excerpt:
-lead: Crookston Community Group
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Crookston Community WWW Club
+project-excerpt:
+project-lead: Crookston Community Group
 website: http://www.myccg.co.uk/
 email:  info@myccg.co.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G53 5TF
 image: /images/projects/crookston.jpg
 tags: ethnic-minority
 permalink: /projects/crookston/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -58,11 +62,11 @@ The Women Want Wifi programme has helped them with a variety of  computer, lapto
 
 The class ran twice per week for people who were unable able to attend on a specific designated day. Ultimately, we have helped females with the basic skills of every day use of Microsoft software programmes, email and social media for keeping in touch with family and friends as well as making online enquiries.  
 
-With regards to outputs, we delivered a basic IT skills based course and activities that included using their laptop, tablets/smartphones, to navigate their way around a computer system and the internet. 
- 
-In terms of outcomes, feedback questionnaires at the end of the programme, showed that  the group this project has assisted, helped them gain confidence in using technologies in a safe environment where no questions were left unaddressed and help was at hand whenever required. This was evident through weekly attendance and differing questions that were asked to support their own personal stages of IT knowledge. 
+With regards to outputs, we delivered a basic IT skills based course and activities that included using their laptop, tablets/smartphones, to navigate their way around a computer system and the internet.
 
-There were some limitations to the programme, not in terms of delivery, but in terms of facilities. We found that we had limited equipment to deal with the demand of females wishing to use our services, often resulting in a backlog of individuals wishing to use the service. 
+In terms of outcomes, feedback questionnaires at the end of the programme, showed that  the group this project has assisted, helped them gain confidence in using technologies in a safe environment where no questions were left unaddressed and help was at hand whenever required. This was evident through weekly attendance and differing questions that were asked to support their own personal stages of IT knowledge.
+
+There were some limitations to the programme, not in terms of delivery, but in terms of facilities. We found that we had limited equipment to deal with the demand of females wishing to use our services, often resulting in a backlog of individuals wishing to use the service.
 
 In total we have supported 30 people. Out of this figure, 9 participants have walked away with communication skills by communicating online with their families and friends using social media platforms. 2 participants learned how to make transactions online (banking, shopping etc), this low number is the reason we seek to deliver another programme aimed at educating partipants about the digital onine world, where they can shop and bank. 27 partipants now hold problem solving skills and can comfortably navigate their way around a computer system. 16 particpants learned how to create content online using facebook for status updates, pictures, album and instagram for images and editing those images. 28 participants can now manage information on systems using microsoft word for documents, as well as using Evernote and OneNote for storing notes.
 
@@ -71,8 +75,6 @@ In total we have supported 30 people. Out of this figure, 9 participants have wa
 
 Through feedback from the community as well as the programme service users and the success of the Women Want Wifi Programme, it has collectively been expressed by service users that the service should not just be limited to women, they should also include men. Often, male CCG service users have voiced this when on the premises.
 
-They wish to expand on their current knowledge to adapt to the current digital age. They now seek to learn how to use technologies to conduct every day transactions such as online shopping and online banking. Also, they have voiced their interest in learning how to make full use of mobile phone technologies etc and this is something the CCG will now look to in the future. 
+They wish to expand on their current knowledge to adapt to the current digital age. They now seek to learn how to use technologies to conduct every day transactions such as online shopping and online banking. Also, they have voiced their interest in learning how to make full use of mobile phone technologies etc and this is something the CCG will now look to in the future.
 
-This of course, would not have been discovered if it was not the the funded Women Want Wifi programme. 
-
-
+This of course, would not have been discovered if it was not the the funded Women Want Wifi programme.

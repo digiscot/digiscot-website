@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Move On IT Literacy Project
-excerpt: IT literacy skills for homeless people and care leavers in Glasgow
-lead: Move On
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Move On IT Literacy Project
+project-excerpt: IT literacy skills for homeless people and care leavers in Glasgow
+project-lead: Move On
 website: http://www.moveon.org.uk/
 email: mail@moveon.org.uk
 twitter-url: moveonscotland
@@ -16,6 +18,8 @@ postcode: G1 1DN
 image:
 tags: benefits homeless Glasgow
 permalink: /projects/move-on/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -70,5 +74,3 @@ We are encouraging our learners to participate in the Six Book Challenge and to 
 ## Evaluation
 
 By the end of the project, our tutors had supported 54 people.  Of these, 25 improved their IT skills, 30 gained an SQA Award (Employability, Personal Development and/or Core Skills), with 7 gaining employment, 4 college places and 12 training. 42 reported increased confidence.  As a result of the funding, IT is now embedded in Move On's literacy, numeracy and employability support.
-
-

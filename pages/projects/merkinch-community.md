@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: UR CIRCLE
-excerpt: Informal computer drop-in sessions to boost IT skills and reduce social isolation
-lead: Merkinch Community Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: UR CIRCLE
+project-excerpt: Informal computer drop-in sessions to boost IT skills and reduce social isolation
+project-lead: Merkinch Community Centre
 website: http://www.merkinchcommunitycentre.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV3 8AD
 image:
 tags: older-people disabled-people benefits
 permalink: /projects/merkinch-community/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

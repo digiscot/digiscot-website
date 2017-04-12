@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: TransmIT
-excerpt: TransmIT (Training in Social Media and IT).
-lead: CVO East Ayrshire
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: TransmIT
+project-excerpt: TransmIT (Training in Social Media and IT).
+project-lead: CVO East Ayrshire
 website: http://www.cvoea.co.uk/
 email: info@cvoea.co.uk
 twitter-url: https://twitter.com/cvoea
@@ -16,6 +18,8 @@ postcode: KA1 3GZ
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/cvo-east-ayrshire/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

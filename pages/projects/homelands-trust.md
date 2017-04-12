@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Me Help Me
-excerpt: Introducing digital technology to alleviate symptoms of isolation and stress and also promote self-care and good health
-lead: Homelands Trust Fife
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Me Help Me
+project-excerpt: Introducing digital technology to alleviate symptoms of isolation and stress and also promote self-care and good health
+project-lead: Homelands Trust Fife
 website: http://homelands-fife.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: KY8 6HG
 image:
 tags: older-people disabled-people Glasgow remote-rural
 permalink: /projects/homelands-trust/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -108,4 +112,3 @@ From the evaluations which were returned here are few quotes from participants:
 "I enjoyed the camaraderie of the group".
 "I enjoyed the informality".
 "I enjoyed learning - and the kind, knowable (knowledgeable) ladies".
-

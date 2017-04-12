@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: DIGITAL Inverclyde
-excerpt:
-lead: Inverclyde Council
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: DIGITAL Inverclyde
+project-excerpt:
+project-lead: Inverclyde Council
 website: https://www.inverclyde.gov.uk/community-life-and-leisure/community-learning-development
 email: graham.maclellan@inverclyde.gov.uk
 twitter-url: https://twitter.com/inverclyde
@@ -16,6 +18,8 @@ postcode: PA15 1UL
 image: /images/projects/inverclyde1.jpg
 tags: older-people remote-rural
 permalink: /projects/inverclyde/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -115,7 +119,7 @@ Groups will continue their learning using the co-production model and supported 
 ### Evaluation
 
 We carried out evaluation at the end of each class and the feedback was very good.  For instance in one (anonymised) questionnaire 63% of learners said the course was ‘excellent’ while the remaining 27% said it was ‘good’.
-Written comments were also very encouraging.  Typical responses were: 
+Written comments were also very encouraging.  Typical responses were:
 >*"As I've been trying to sort out my Family Tree for years, I'm relieved that this course is helping. It also boosts my computing skills"*
 >*“This was most interesting absorbing course with a variety of facets: Genealogy, Local History and computer search skills”*
 >*“Really enjoyed the course”*
@@ -136,9 +140,9 @@ All the learners developed appropriate skills in ICT such as: using the Internet
 #### Things that we would do differently next time:
 **1. Location**    Most of the classes were run in libraries (the Library Service was very helpful in this project, proving much of the recruitment onto the courses and well as five of the six locations).    Some of the locations were less than ideal, with high noise levels at times.  Nevertheless they were convenient for most learners and IT provision, together with support from library staff, was excellent.
 **2. Level of Digital Skills**  We were surprised at the relatively high level of skills that many learners had.  Nevertheless, we did find that most learners made significant progress in enhancing their digital literacy.   However, if we run the courses again we will hope to identify more learners with basic ICT skills.
-**3. Website access**  Some of the best websites for researching family history require subscriptions, which were clearly not appropriate for those learners on restricted incomes.  We would look at alternative websites and sources of information in future. 
+**3. Website access**  Some of the best websites for researching family history require subscriptions, which were clearly not appropriate for those learners on restricted incomes.  We would look at alternative websites and sources of information in future.
 
 ### Conclusions
 
 The project was successful in meeting its objectives: it recruited   60 learners who were actively engaged in the course and attended most sessions.  Feedback from learners was very good, with a high level of reported satisfaction.  
-The project was successful in enabling older and disabled people, and ESA claimants, to build their digital skills to facilitate them fulfilling their potential and taking part in the digital world.  It was also great fun.  At the end learners were keen to carry on with their learning and use their new found skills and knowledge. 
+The project was successful in enabling older and disabled people, and ESA claimants, to build their digital skills to facilitate them fulfilling their potential and taking part in the digital world.  It was also great fun.  At the end learners were keen to carry on with their learning and use their new found skills and knowledge.

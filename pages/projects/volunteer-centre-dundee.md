@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Volunteer with IT
-excerpt: IT sessions with peer mentoring
-lead: Volunteer Centre Dundee
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Volunteer with IT
+project-excerpt: IT sessions with peer mentoring
+project-lead: Volunteer Centre Dundee
 website: http://www.volunteerdundee.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: DD1 1LL
 image:
 tags: disabled-people
 permalink: /projects/volunteer-centre-dundee/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

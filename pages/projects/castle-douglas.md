@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Take a Tablet
-excerpt: Tablet training for older people
-lead: Castle Douglas Community IT Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Take a Tablet
+project-excerpt: Tablet training for older people
+project-lead: Castle Douglas Community IT Centre
 website: http://www.theitcentre.org.uk
 email: learnit@castle-douglas.co.uk
 twitter-url: http://twitter.com/CDITCentre
@@ -16,6 +18,8 @@ postcode: DG7 1AJ
 image:
 tags: older-people remote-rural
 permalink: /projects/castle-douglas/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

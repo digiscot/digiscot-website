@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: City & Guilds Training
-excerpt: IT & digital skills training working towards accredited qualifications
-lead: Link Housing
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: City & Guilds Training
+project-excerpt: IT & digital skills training working towards accredited qualifications
+project-lead: Link Housing
 website: http://linkhousing.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH14 1RL
 image:
 tags: older-people disabled-people benefits
 permalink: /projects/link-housing/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

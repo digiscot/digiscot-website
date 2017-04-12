@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Dot Can
-excerpt: Digital skills sessions to help disadvantaged people use online services and access the support they need.
-lead: Comas
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Dot Can
+project-excerpt: Digital skills sessions to help disadvantaged people use online services and access the support they need.
+project-lead: Comas
 website: http://www.comas.org.uk/
 email: mail@comas.org.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH8 8PJ
 image:
 tags: older-people disabled-people benefits
 permalink: /projects/comas/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

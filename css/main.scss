@@ -117,8 +117,10 @@ mark {
 
 // Spacing and that
 
-ul.browser-default li{
-    margin:10px 0;
+hr,
+.divider,
+ul.browser-default li {
+    margin: 1rem 0;
 }
 
 .container-fluid{
@@ -342,8 +344,11 @@ nav#tag-header{
     padding:15px;
 }
 
-.side-nav{
-    ul li ul{
+.side-nav {
+    a {
+        overflow: hidden;
+    }
+    ul li ul {
         margin-left: 15px;
     }
 }
@@ -426,7 +431,7 @@ address {
     .size-1of5 { width: 20%; }
 }
 
-.case-study-cards[data-columns]::before {
+.digital-pioneer-cards[data-columns]::before {
     @media only screen and (min-width: 0) and (max-width: ($medium-screen / 3)) {
         content: '1 .column.size-1of1';
     }
@@ -444,12 +449,34 @@ address {
     }
 }
 
-.case-study-cards[data-columns]{
+.digital-pioneer-cards[data-columns]{
     .size-1of1 { width: 100%; }
     .size-1of2 { width: 50%; }
     .size-1of3 { width: 50%; }
     .size-1of4 { width: 33.333%; }
     .size-1of5 { width: 33.333%; }
+}
+
+.digital-pioneer-cards .card-content {
+    background: #eee;
+}
+
+.pioneer-img img,
+.digital-pioneer-cards .card-content img {
+        width: 40%;
+        border-radius: 10rem;
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+        display: block;
+        margin: 0 auto 1rem;
+        background: white;
+}
+.pioneer-img img {
+    margin-top: 2rem;
+    max-width: 150px;
+}
+.section.project,
+.section.pioneer {
+    padding-bottom: 1rem;
 }
 
 // Colors

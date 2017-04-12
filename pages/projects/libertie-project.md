@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Digital Creative Club
-excerpt: Using creative digital activities to engage with hard to reach individuals.
-lead: Libertie Project
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Creative Club
+project-excerpt: Using creative digital activities to engage with hard to reach individuals.
+project-lead: Libertie Project
 website: http://www.libertie.biz/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV2 6AE
 image:
 tags: benefits offenders remote-rural
 permalink: /projects/the-libertie-project/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

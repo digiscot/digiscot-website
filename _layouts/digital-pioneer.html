@@ -1,16 +1,20 @@
 ---
 layout: default
 fa-icon: fa-comments
-submenu: evolution
+submenu: evolution-digital-pioneers
 ---
 
-<div class="section grey lighten-2">
+<div class="section pioneer grey lighten-3">
     <div class="container-fluid">
         <div class="row">
-            <div class="col s12">
-                <h3 class="black-text">{{ page.lead }}</h3>
+            <div class="col s12 m6 l8">
+
+                <h2 class="black-text">{{ page.pioneer-title }}</h2>
+                <p class="black-text">{{ page.pioneer-excerpt }}</p>
+
+                <h3 class="black-text">{{ page.project-lead }}</h3>
                 {% if page.website %}
-                <a href="{{ page.website }}" class="chip blue darken-4 white-text">
+                <a href="{{ page.website }}" target="_blank" class="chip blue darken-4 white-text">
                     <i class="fa fa-fw fa-link"></i>
                     Website
                 </a>
@@ -34,28 +38,20 @@ submenu: evolution
                 </a>
                 {% endif %}
             </div>
+
+            <div class="col s12 m6 l4 pioneer-img">
+                {% if page.image %}
+                <img src="images/digital-pioneers/{{ page.image }}" class="responsive-img pull-right" />
+                {% endif %}
+            </div>
         </div>
 
-        <div class="divider grey darken-3"></div>
+        <!-- <div class="divider grey darken-3"></div> -->
     </div>
 </div>
 
 <div class="section headingless">
     <div class="container-fluid">
-        <p>
-            <a href="evolution/case-studies/">
-                <i class="fa fa-fw fa-chevron-left"></i>
-                Back to Case Studies
-            </a>
-        </p>
-
-        <div class="row">
-            <div class="col s12 m6 l4">
-                {% if page.image %}
-                <img src="images/case-studies/{{ page.image }}" class="responsive-img" />
-                {% endif %}
-            </div>
-        </div>
 
         {{ content }}
 

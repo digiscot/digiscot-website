@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Audio and Radio Production
-excerpt: Part time courses in digital and radio broadcasting production
-lead: Moray Firth Media Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Audio and Radio Production
+project-excerpt: Part time courses in digital and radio broadcasting production
+project-lead: Moray Firth Media Trust
 website:
 email: fiona.lewin@mfr.co.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV3 8UJ
 image:
 tags: older-people disabled-people benefits unemployed remote-rural
 permalink: /projects/moray-firth/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -1,9 +1,12 @@
 ---
+warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Toryglen Digital Base
-excerpt: IT suite refurbishment to support various digital inclusion projects
-lead: Toryglen Community Base
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Toryglen Digital Base
+project-excerpt: IT suite refurbishment to support various digital inclusion projects
+project-lead: Toryglen Community Base
 website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
 twitter-url:
@@ -15,6 +18,9 @@ postcode: G42 0LE
 image:
 tags: older-people benefits Glasgow
 permalink: /projects/toryglen-community-base/
+submenu: participation-projects
+fa-icon: fa-file-o
+warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
 ## Project plan
@@ -121,6 +127,3 @@ We know this because we conducted a short survey with 10% of people using the se
 2.	During this period Toryglen Community Base had a very basic website and it was difficult to manage the content which impacted on our ability to market our range of services.  This has now been rectified www.toryglencommunitybase.org
 
 3.	We would improve our marketing by conducting door to door outreach services
-
-
-

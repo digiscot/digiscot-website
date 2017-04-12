@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Maryhill and Milton Digital Inclusion Programme
-excerpt:
-lead: Community Safety Glasgow
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Maryhill and Milton Digital Inclusion Programme
+project-excerpt:
+project-lead: Community Safety Glasgow
 website: http://www.communitysafetyglasgow.org/
 email: sean.hanlon@glasgow.gov.uk
 twitter-url: https://twitter.com/CommSafetyGlasg/
@@ -16,6 +18,8 @@ postcode: G40 3AQ
 image: /images/projects/csg.png
 tags: older-people benefits ethnic-minority
 permalink: /projects/community-safety-glasgow/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Inclusion through Entrepreneurship
-excerpt: Developing IT skills and boosting organisational online fundraising activity
-lead: Flourish House
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Inclusion through Entrepreneurship
+project-excerpt: Developing IT skills and boosting organisational online fundraising activity
+project-lead: Flourish House
 website: http://www.flourishhouse.org.uk/
 email: info@flourishhouse.org.uk
 twitter-url: flourishhouse1
@@ -16,6 +18,8 @@ postcode: G3 6DR
 image:
 tags: disabled-people Glasgow
 permalink: /projects/flourish-house/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: IT for U
-excerpt:
-lead: Beith Community Development Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: IT for U
+project-excerpt:
+project-lead: Beith Community Development Trust
 website: http://beithtrust.org/
 email: info@beithtrust.org
 twitter-url: https://twitter.com/BeithTrust
@@ -16,6 +18,8 @@ postcode: KA15 1BY
 image: /images/projects/beith.png
 tags: benefits
 permalink: /projects/beith/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -50,4 +54,3 @@ Beith Trust is a community led enterprise which was formed to tackle the social,
 The initial set-up in the shop unit proved problematical, there were issues of space and wifi connectivity. So the project was conducted from the Employability Hub at Beith Astro. The layout in the office was changed to allow small group working, and the first course commenced. Everyone had very different levels of digital skills and we had to work hard to maintain engagement for those who were more digitally savvy, while still supporting those with developing skills.
 Another area where staff required immediate upskilling, was the variety of technology and operating systems available to the participants, it was no good showing someone how to use Windows 10 on a PC, if their mode of access at home was Windows 7 on a tablet, so we actively encourage participants to bring their device to the classes, teaching them to use both.
 Although taking referrals from a variety of external organisations (Jobcentre, NHS, Local Authority, Training Organisations) as well as through our own marketing, demand for the classes was not as high as anticipated and there is ongoing networking taking place to reach different sectors of the community. There was also more of a demand for 1-2-1 tuition rather than in the group setting, generally due to participants embarrassment. However, once initial confidence has been boosted, we move participants into a group setting and it's great to see the power of peer support in action! From the initial group of participants, 50% have moved into employment, 25% into volunteering and 25% are regularly talking to family via Skype! Feedback has been overwhelmingly positive and classes continue.
-

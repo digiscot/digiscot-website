@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digitally Agile Training Course
-excerpt: Developing training for CLD around the Digitally Agile National Principles
-lead: YouthLink Scotland
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digitally Agile Training Course
+project-excerpt: Developing training for CLD around the Digitally Agile National Principles
+project-lead: YouthLink Scotland
 website: http://www.youthlinkscotland.org/
 email: lgreen@youthlinkscotland.org
 twitter-url: https://twitter.com/DigitallyAgile
@@ -16,6 +18,8 @@ postcode: EH12 5EZ
 image:
 tags: staff Glasgow
 permalink: /projects/youthlink-scotland/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -29,7 +33,7 @@ Developing a training course for Community Learning and Development practitioner
 
 This project is part of and will be informed by a broader piece of work developing training on the Digitally Agile National Principles in a partnership between College Development Network, Glasgow Kelvin College, YouthLink Scotland, Learning Link Scotland and the Scottish Community Development Centre (SCDC), convened as a short life working group. This partnership will develop a training course and will assign certain elements to YouthLink Scotland to work with young people and youth workers to inform and develop.
 
-YouthLink Scotland will facilitate consultative workshops with young people and youth workers to develop elements of the training that young people and the youth work sector can make the stongest contribution to.
+YouthLink Scotland will facilitate consultative workshops with young people and youth workers to develop elements of the training that young people and the youth work sector can make the strongest contribution to.
 
 
 ## Project milestones
@@ -209,4 +213,3 @@ Things that we would do differently next time:
 3.	Build in guided practical session for novice users
 4.	Further develop the structure of online learning and build in more tasks
 5.	Consider a call back day after or during online learning weeks
-

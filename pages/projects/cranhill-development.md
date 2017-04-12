@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Works Club @ Ruchazie
-excerpt: Click and Connect Learning Centre in Ruchazie Parish Church
-lead: Cranhill Development Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Works Club @ Ruchazie
+project-excerpt: Click and Connect Learning Centre in Ruchazie Parish Church
+project-lead: Cranhill Development Trust
 website: http://www.cranhilldt.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G33 3HE
 image:
 tags: benefits Glasgow
 permalink: /projects/cranhill-development/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -83,4 +87,3 @@ We know this because we review and monitor all data captured, have a registratio
 1.	Plan more staff resource over a longer timescale
 2.	Work on marketing strategy (in progress)
 3.	More realistic timescale of when install taking place
-

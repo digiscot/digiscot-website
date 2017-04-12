@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Getting IT
-excerpt: This project will train voluntary and community organisations in Midlothian to help them to support their clients, service users or members to get online.
-lead: Midlothian Voluntary Action
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Getting IT
+project-excerpt: This project will train voluntary and community organisations in Midlothian to help them to support their clients, service users or members to get online.
+project-lead: Midlothian Voluntary Action
 website: http://www.mvacvs.org
 email: craig.turner@mvacvs.org.uk
 twitter-url: https://twitter.com/MVACommunity
@@ -16,6 +18,8 @@ postcode: EH22 1AE
 image:
 tags: disabled-people benefits remote-rural
 permalink: /projects/midlothian-voluntary-action/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -223,4 +227,3 @@ Getting staff to change their own online usage. Explaining the cloud was a major
 #### Things that we would do differently next time:
 
 Improve the promotion – the concept of upskilling was difficult to explain
-

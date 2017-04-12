@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Digital skills through football
-excerpt: Using football as a means to help people develop digital skills
-lead: Opportunity Enhancement Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital skills through football
+project-excerpt: Using football as a means to help people develop digital skills
+project-lead: Opportunity Enhancement Trust
 website: http://opportunityenhancement.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV30 8LG
 image:
 tags: older-people benefits Glasgow remote-rural
 permalink: /projects/opportunity-enhancement-trust/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

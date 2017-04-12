@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Southside Connections
-excerpt:
-lead: Southside Housing Association
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Southside Connections
+project-excerpt:
+project-lead: Southside Housing Association
 website: http://www.southside-ha.org/
 email: pfletcher@southside-ha.co.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G51 4EB
 image: /images/projects/shlogoonly.jpg
 tags: older-people benefits ethnic-minority
 permalink: /projects/southsideha/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -58,7 +62,7 @@ SHA now has a total of 8 Community Bases, each delivers a schedule of activities
 Following on from the Digital Inclusion programme, we are now encouraging residents to contact staff via email as well as by telephone.  We also encourage residents to bring thier IT equipment to the bases to utilise the wifi space.
 As part of our working practice, we contact tenants via email, where appropriate and where the tenants is confident in communticating in this manner. We launched SHA's Face Book Page in the summer of 2016 and since this time, we have been uploading all Community Initiaitves information onto Face Book and encouraging tenants to stay informed on local events and activities using this method.   Over the last 6 months there has been a significant increase in the number of resesidents and community members contacting Community Initiatives staff via Emails and Face Book messages.  
 * Participants have improved skills and abilities, and increased knowledge and understanding of how to improve their employment and financial opportunities through IT and internet sources.
-Each Digital Inclusion Programme delierved by Southside Housing Association 
+Each Digital Inclusion Programme delierved by Southside Housing Association
 
 * Participants have an increased awareness of and connectedness to existing community services and resources.
 As part of our working practice, SHA promotes all relevant services and events to particiapnts within a particualr programme as a means to ecnourage people to connect with their local bases and access pathways to local services.  Our volunteers have assited participants to make referrals to Welfare Rights services, Citizens Advice, seek suport and guidance from thier local Community Forums.  
@@ -72,7 +76,7 @@ hub where afternoon tea was provided for all the participants.   Participant�
 discussed and we encouraged feedback on the ways in which participants would
 like to see the programme develop further. 
 After the intial 3 course were completed, we held a review meeting with all stakeholders involved to evaluate our delivery and make reccommendations for the next two classes.  We agreed that we would incorporate and induction session prioir to the next two courses, the people who were beginners would be placed on the Digital Inclusion programme deliverd by SHA and those who had a basic skill level would be referred to Glasgow Libraies.  We all agreed this format as we found that the original 3 courses were somewhat disjointed due to the various skill levels of participants.  Some particiapnts, with no skill level required one one one learning and others needed less support.  Thus, we agreed that we would group the skill levels together.
-Similar to the inital review process.  Review meeting were held with participants and stakeholders to evualte our progress and make reccomendations for future programmes.  It was agreed that induction sessions proved to be extremely helpful to the delivery of the sessions and we could continue to work in this manner.  It was also agreed that SHA would implement a drop-in service for those who had basic skill levels but need a little one on one support with a minor task.  SHA aslso intend to pilot these drop-in sesssions as a Job Club for those who need some assistance with or simply need the resources to look for employment online. 
+Similar to the inital review process.  Review meeting were held with participants and stakeholders to evualte our progress and make reccomendations for future programmes.  It was agreed that induction sessions proved to be extremely helpful to the delivery of the sessions and we could continue to work in this manner.  It was also agreed that SHA would implement a drop-in service for those who had basic skill levels but need a little one on one support with a minor task.  SHA aslso intend to pilot these drop-in sesssions as a Job Club for those who need some assistance with or simply need the resources to look for employment online.
 
 ### Lessons learned
 Having delivered a number of Digital Learning programmes there are a few issues that the Community Initiaitves Team have identifie that would help SHA to, capture the most appropriate audience, deliver the programmes more effectively and engage with a wider group of people.

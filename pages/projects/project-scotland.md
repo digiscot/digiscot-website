@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: LinkedIn workshops
-excerpt: Get on in life workshop programme - LinkedIn workshops.
-lead: Project Scotland
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: LinkedIn workshops
+project-excerpt: Get on in life workshop programme - LinkedIn workshops.
+project-lead: Project Scotland
 website: http://www.projectscotland.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH7 4GH
 image:
 tags: unemployed young-people Glasgow remote-rural
 permalink: /projects/project-scotland/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

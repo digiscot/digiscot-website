@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Digital Employment Skills
-excerpt:
-lead: Falkirk Football Community Foundation
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Employment Skills
+project-excerpt:
+project-lead: Falkirk Football Community Foundation
 website: http://www.falkirkfcf.co.uk/
 email: foundation@falkirkfcf.co.uk
 twitter-url: https://twitter.com/falkirkfcf
@@ -16,6 +18,8 @@ postcode: FK2 9EE
 image: /images/projects/falkirk.jpg
 tags: benefits
 permalink: /projects/falkirk-football-2/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -73,17 +77,17 @@ During the initial assessment at the start of the programme, it became aware tha
 
 As a result of completing the programme and associated workshops, all of the participants are now able to complete each of the above tasks, therefore greatly enhancing their job search opportunities and their chances of employment.
 
-All felt confident to upload their CV's to various jobsites and were able to pick up job alerts from their advisers, Universal Job Match and other websites they had now registered with. 
+All felt confident to upload their CV's to various jobsites and were able to pick up job alerts from their advisers, Universal Job Match and other websites they had now registered with.
 
 This programme has also supported each participant to be more confident and able to manipulate Powerpoint and Word documents throughout their time with us, increasing their skill set and producing enhanced, professional material in their quest of securing sustainable employment.
 
-### Outcomes and Outputs 
+### Outcomes and Outputs
 
 **Managing Information**
 
 Pre-programme: 0% of participants could have used a search engine to look for information online
 
-Post-programme: **100% did this during the course and could do it again if asked** 
+Post-programme: **100% did this during the course and could do it again if asked**
 
 Pre-programme: Only 25% of participants could download or save a photo found online and 0% had done this in the 3 months prior to attending
 
@@ -125,7 +129,7 @@ Pre-programme: 0% of participants had completed any online application forms (in
 
 Post-programme: **100% completed this throughout the programme and could do so again if required**
 
-Pre-programme: Only 33% of participants could have created something new from existing online images, pictures, etc, although 0% had actually done this during the 3 months prior to attending the course 
+Pre-programme: Only 33% of participants could have created something new from existing online images, pictures, etc, although 0% had actually done this during the 3 months prior to attending the course
 
 Post-programme: **100% completed this task during the programme and could do so again if asked**
 
@@ -135,7 +139,6 @@ Post-programme: **100% completed this task during the programme and could do so 
 
 Creating a group for people who found themselves in similar situations and facing familiar barriers to progression, provided a positive learning environment in which they could bounce ideas off each other without feelings of inferiority or embarrassment. It also provided a platform for the group to benefit from each others strengths and job-search experiences.
 
-With the potential for this client group to experience decreased motivation and aspiration levels along with increased feelings of depression and isolation, raising their confidence levels through digital skill acquisition and successful task completion was essential if we were to achieve any long-term, sustainable success. 
+With the potential for this client group to experience decreased motivation and aspiration levels along with increased feelings of depression and isolation, raising their confidence levels through digital skill acquisition and successful task completion was essential if we were to achieve any long-term, sustainable success.
 
-Pitching the Digital Skills sessions at the correct level therefore, ensured that everyone left with "can do" attitudes, a new found confidence in their own ability and an increased determination to fulfil their potential by securing a job. 
-
+Pitching the Digital Skills sessions at the correct level therefore, ensured that everyone left with "can do" attitudes, a new found confidence in their own ability and an increased determination to fulfil their potential by securing a job.

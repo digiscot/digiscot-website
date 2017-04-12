@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Digital Inclusion for the Visually Impaired
-excerpt:
-lead: East Lothian Council - Wallyford Library
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Inclusion for the Visually Impaired
+project-excerpt:
+project-lead: East Lothian Council - Wallyford Library
 website: http://beithtrust.org/
 email: Delliott@eastlothian.gov.uk
 twitter-url: https://twitter.com/eastlothianlibs
@@ -16,6 +18,8 @@ postcode: EH39 5BG
 image: /images/projects/east-lothian.jpg
 tags: older-people disabled-people
 permalink: /projects/east-lothian-council/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -56,4 +60,3 @@ Our next student, Freda, involved a little more organisation alongwith partnersh
 
 ### Lessons learned
 One lesson learned early on was that timescales do slip. Staff and students can be ill, they take holidays etc. However, being flexible and working around people has ensured the project has remained on track with happy learners as a result.
-

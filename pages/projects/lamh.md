@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: IT Works for me
-excerpt:
-lead: LAMH Recycle Limited
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: IT Works for me
+project-excerpt:
+project-lead: LAMH Recycle Limited
 website: http://www.lamhrecycle.co.uk/
 email: info@lamhrecycle.co.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: ML1 2HR
 image: /images/projects/lamh.jpg
 tags: disabled-people
 permalink: /projects/lamh/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -104,6 +108,3 @@ Each course was designed to support the individual participant's needs, wants, a
 * Employability and social digital skills are 2 distinct areas but with a large overlap in general health and wellbeing.
 * The length of the course was probably a week too long for most people.  A shorter course would be more focused while still allowing for personalisation and choice.
 * Project was an excellent vehicle for professional development of modern apprentice.
-
-
-

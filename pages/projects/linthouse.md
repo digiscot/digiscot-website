@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Linthouse Digital Learners
-excerpt: IT workshops
-lead: Linthouse Monday club
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Linthouse Digital Learners
+project-excerpt: IT workshops
+project-lead: Linthouse Monday club
 website:
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G51 4RB
 image:
 tags: older-people Glasgow
 permalink: /projects/linthouse-monday-club/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

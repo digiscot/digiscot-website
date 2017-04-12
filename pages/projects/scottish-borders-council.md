@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Tea and Tablet
-excerpt: Introduction to IT and the internet
-lead: Scottish Borders Council
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Tea and Tablet
+project-excerpt: Introduction to IT and the internet
+project-lead: Scottish Borders Council
 website: http://www.scotborders.gov.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: TD7 5BA
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/scottish-borders-council/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -65,4 +69,3 @@ Things that we would do differently next time:
 
 Selkirk has an older population (as has the Scottish Borders in general) and most people who attended the course were of retirement age. We did not manage to engage with working age adults, especially males who are unemployed which we hoped we would do.  Next time we will ask for support of the job centre in promoting this learning opportunity to those using their services.
 We have had conversations with Library services about how we can work together to offer continued IT support to learners. Library services are about to go into Trust but what we hope to offer is the six week Tea and Tablet programme through CLD then direct learners to their local library two/three weeks after the end of the programme to help them troubleshoot any problems they may be experiencing.  We hope this will help maintain the learner's confidence about using IT if they do experience any problems.
-

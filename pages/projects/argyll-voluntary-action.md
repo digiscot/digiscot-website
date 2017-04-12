@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digit All
-excerpt: Digital drop-in clubs
-lead: Argyll Voluntary Action
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digit All
+project-excerpt: Digital drop-in clubs
+project-lead: Argyll Voluntary Action
 website:
 email:
 twitter-url: https://twitter.com/AVA_Communities
@@ -16,6 +18,8 @@ postcode: PA34 4BG
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/argyll-voluntary-action/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -134,4 +138,3 @@ Things that we would do differently next time:
 We feel and know that the project has been successful and that we have achieved the original outputs.  We are also aware of the level of demand and ongoing need.  There are clearly further benefits and outcomes which could follow a longer and more robustly resourced project.
 
 Feedback is excellent, and we are confident that the skills acquired will help support people for the longer term.
-

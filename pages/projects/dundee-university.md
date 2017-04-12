@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Tap and Talk
-excerpt: Support group to help adults with aphasia explore the benefits of technology
-lead: Dundee Augmentative and Alternative Communication (AAC) Research Group, University of Dundee
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Tap and Talk
+project-excerpt: Support group to help adults with aphasia explore the benefits of technology
+project-lead: Dundee Augmentative and Alternative Communication (AAC) Research Group, University of Dundee
 website:
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: DD1 4HN
 image:
 tags: disabled-people
 permalink: /projects/dundee-university/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -95,5 +99,3 @@ Communication Matters 2015 presentation:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Good start to the day <a href="https://twitter.com/hashtag/cm2015conf?src=hash">#cm2015conf</a> with <a href="https://twitter.com/tap_and_talk">@Tap_and_Talk</a>: Lovely reactions from the audience and great feedback. <a href="http://t.co/ACLjMDAnad">pic.twitter.com/ACLjMDAnad</a></p>&mdash; Dundee AAC Research (@DundeeAAC) <a href="https://twitter.com/DundeeAAC/status/643458957755990016">September 14, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-

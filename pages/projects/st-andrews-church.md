@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Community Spirit Learning Zone
-excerpt: Teaching basic computer skills alongside job search support and literacy and numeracy support
-lead: St Andrews Church (Havilah Project)
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Community Spirit Learning Zone
+project-excerpt: Teaching basic computer skills alongside job search support and literacy and numeracy support
+project-lead: St Andrews Church (Havilah Project)
 website: http://www.arbroathstandrews.org.uk/index.php/what-we-do/serve/locally/havilah/
 email: helensmithwallace@aol.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: DD11 1LE
 image:
 tags: disabled-people offenders
 permalink: /projects/st-andrews-church/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -74,4 +78,3 @@ Things that worked well:
 Things that we would do differently next time:
 
 1. Employ a tutor so that support can be more consistent and learning programmes can be offered
-

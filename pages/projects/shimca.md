@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: IT for total beginners
-excerpt: Introduction to IT sessions for beginners
-lead: SHIMCA (Scottish Highlands & Islands and Moray Chinese Association)
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: IT for total beginners
+project-excerpt: Introduction to IT sessions for beginners
+project-lead: SHIMCA (Scottish Highlands & Islands and Moray Chinese Association)
 website:
 email: shimca.org.uk@gmail.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode:
 image: /images/projects/shimca.jpg
 tags:
 permalink: /projects/shimca/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -55,4 +59,3 @@ Things that we would do differently next time:
 1. Text
 2. Text
 3. Text
-

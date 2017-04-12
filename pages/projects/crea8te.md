@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: FEMDA – Female Ethnic Minority Digital Academy
-excerpt:
-lead: Cre8te Opportunities Limited
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: FEMDA – Female Ethnic Minority Digital Academy
+project-excerpt:
+project-lead: Cre8te Opportunities Limited
 website: http://cre8te.co.uk/
 email: info@cre8te.co.uk
 twitter-url: https://twitter.com/Cre8teLtd
@@ -16,6 +18,8 @@ postcode: EH16 4BB
 image: /images/projects/cre8te.jpg
 tags: ethnic-minority benefits
 permalink: /projects/cre8te/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -89,7 +93,7 @@ Result: 2 senior staff members will carry forward embedding digital learning wit
 
 ### Evaluation
 
-1	What subjects did you cover in the lessons ? 
+1	What subjects did you cover in the lessons ?
 
 	Computer Basics	                100%			
 	Using the Internet	             50%			
@@ -98,7 +102,7 @@ Result: 2 senior staff members will carry forward embedding digital learning wit
 	Email	                           25%			
 	Microsoft Office (Word, Excel)	100%			
 	Taking and managing photographs  25%			
-  
+
 2	How easy did you find the training materials
 
 		100% reported a high level of satisfaction
@@ -106,19 +110,19 @@ Result: 2 senior staff members will carry forward embedding digital learning wit
 3	How well did the trainer explain things
 
 		100% expressed a high level of satisfaction
-    
+
 4	How confident did you feel using a computer before the training
 
 		75% reported a low level of confidence
 		25% reported a moderate level of confidence
-    
+
 5	How confident do you feel using a computer after the training
 
 		100% reported a high level of confidence
 
 6	How often do you use a computer after the training
 
-		100% reported they use a computer daily 
+		100% reported they use a computer daily
 
 7	Can you please rate each of the following aspects of the course?
 
@@ -129,19 +133,19 @@ Result: 2 senior staff members will carry forward embedding digital learning wit
 	Length of course	25% expressed they were unhappy with the length of the course
 		25% were moderately happy with the length of the course
 		50% were very happy with the length of the course
-    
+
 8	Do you have any suggestions how any of these could be improved?  Please state:
 
 	Trainer	               she is very good			
-	Training Materials	   I like the way its produced	
+	Training Materials	   I like the way its produced
                          sufficient but having some data ready to practice saves time		
 	Frequency of classes	 twice a week is fine	 
                          sufficient   		
-	Length of classes	     enough time	
-                         that would be great if the length of the classes increased	
-                         sufficient	
+	Length of classes	     enough time
+                         that would be great if the length of the classes increased
+                         sufficient
 	Length of course	     more time	 
-                         also increasing the length of the course	
+                         also increasing the length of the course
                          some course on database management would be helpful 	
 
 ### Lessons learned
@@ -153,7 +157,7 @@ Also, one of the reasons several of the learners were also able to complete thei
 
 **Childcare**
 
-While Saheliya had their own in-house social enterprise childcare provision, it was still a complex issue to be able to provide appropriate support within the budget.  We had originally planned for more children over a shorter course. However, what we had was less children for a longer time.  This impacted greatly on the budget. 
+While Saheliya had their own in-house social enterprise childcare provision, it was still a complex issue to be able to provide appropriate support within the budget.  We had originally planned for more children over a shorter course. However, what we had was less children for a longer time.  This impacted greatly on the budget.
 Several issues emerged, particularly around logistics, resources and the impact on the budget:
 -	Physical space available for crèche provision was an issue so the childcare centre was used. However this put pressure on their finances as the budget did not cover full costs involved.
 -	Unpredictable mix of under 2 years and over 2 years meant staffing was difficult to arrange (the ages require different staff to child ratio)
@@ -180,8 +184,3 @@ Several women have achieved outcomes way beyond our expectations, including 1 wh
 
 While the course gave some of the women who attend Saheliya the opportunity to become digitally included, our final evaluation meeting brought some issues to the fore.  For example, it was felt that in order to tackle the lack of confidence issue, women who are just starting out on their wellbeing journey could benefit from digital learning being an integrated part of their support. It was felt this would prepare them to then progress onto the actual classes themselves.  This could cover every day living and civil skills such as searching for services or being able to access services they are entitled to.
 Saheliya will take the idea forward of incorporating more digital learning as part of their ESOL and wellbeing classes to give women the confidence to progress to specialist digital inclusion classes.
-
-
-
-
-

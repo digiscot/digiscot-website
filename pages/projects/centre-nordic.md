@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Orkney and Shetland Community Digital Heritage
-excerpt: Teaching older people how to use digital technology through the app Fieldtrip GB
-lead: Centre for Nordic Studies
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Orkney and Shetland Community Digital Heritage
+project-excerpt: Teaching older people how to use digital technology through the app Fieldtrip GB
+project-lead: Centre for Nordic Studies
 website: http://www.nordic.uhi.ac.uk
 email: cns@uhi.ac.uk
 twitter-url: https://twitter.com/NordicUHI
@@ -16,6 +18,8 @@ postcode: KW15 1QX
 image:
 tags: older-people remote-rural
 permalink: /projects/centre-nordic/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -314,4 +318,3 @@ Things that we would do differently next time:
 2. Leaving Hudls with members of the island communities did not gather as much material as we had hoped. We found that people enjoyed sharing memories and stories while we were there to assist them, but the leap required to do it on their own (even with the detailed visual instruction booklet and us a phone call away) was too great for most participants. In a future project we would arrange a series of visits to the same group in order to help people learn to master the technology and gather even more data.  We found that participants often needed more than one session to simply learn how to use the tablet and all its features, before getting to grips with the app itself.
 
 3. The project period was too short. Ideally we would have wanted to run it until Christmas, but this was not possible due funding regulations. When we were planning the project, we thought summer would be the best time for data gathering in terms of weather, but we in actual fact it would have been better to run this later in the year as many people, especially farmers, tend to be very busy during the summer. This summer was particularly difficult due to the rainy weather, which meant that the farming season ran for longer than usual. We were in contact with additional community groups and organisations, such as the Westray Heritage Centre (on the island of Westray), the Shapinsay ranger (on the island of Shapinsay), the Friends of St Ninian’s in Deerness (Orkney mainland) and the Stromness museum (Orkney mainland), all of which expressed interest in the project and wanted us to do workshops with them, but were unable to find a time at this time of year that would suit them. In addition, many people have been in touch wanting to learn how to use the equipment recently. People clearly take a long time to think about using new technology and it needs multiple adverts, phone calls and interviews for them to make the decision to get involved. Long lead in times are needed.
-

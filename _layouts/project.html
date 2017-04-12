@@ -12,13 +12,27 @@ submenu: participation-projects
 
 {% assign sortedtags = tags | split:' ' | sort %}
 
-<div class="section grey lighten-2">
+<div class="project section grey lighten-2">
     <div class="container-fluid">
         <div class="row">
             <div class="col s12 m9 l9">
+                <h2 class="black-text">{{ page.project-title }}</h2>
                 <h3 class="black-text">{{ page.lead }}</h3>
+                <p class="black-text">{{ page.project-excerpt }}</p>
+
+                <ul class="fa-ul">
+                    <li>
+                        <i class="fa-li fa fa-calendar"></i>
+                        from: {{ page.start }} to {{ page.end }}
+                    </li>
+                    <li>
+                        <i class="fa-li fa fa-money"></i>
+                        Challenge fund award: £{{ page.award }}{% if page.call == 1 %} from Call 1 (Winter 2014){% elsif page.call == 2 %} from Call 2 (Spring 2015){% elsif page.call == 3 %} from Call 3 (Winter 2015){% endif %}
+                    </li>
+                </ul>
+
                 {% if page.website %}
-                    <a href="{{ page.website }}" class="chip blue darken-4 white-text">
+                    <a href="{{ page.website }}" target="_blank" class="chip blue darken-4 white-text">
                         <i class="fa fa-fw fa-link"></i>
                         Website
                     </a>
@@ -42,16 +56,6 @@ submenu: participation-projects
                     </a>
                 {% endif %}
 
-                <ul class="fa-ul">
-                    <li>
-                        <i class="fa-li fa fa-calendar"></i>
-                        from: {{ page.start }} to {{ page.end }}
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-money"></i>
-                        Challenge fund award: £{{ page.award }}{% if page.call == 1 %} from Call 1 (Winter 2014){% elsif page.call == 2 %} from Call 2 (Spring 2015){% elsif page.call == 3 %} from Call 3 (Winter 2015){% endif %}
-                    </li>
-                </ul>
             </div>
             <div class="col s12 m3 l3 right-align">
                 {% if page.image %}
@@ -73,11 +77,11 @@ submenu: participation-projects
             </div>
             <div class="col s6">
                 <p class="right-align">
-                    <strong>Tags: </strong>
+                    <strong>Tags:&ensp;</strong>
                     {% for tag in sortedtags %}
-                        <a href="projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
+                        <a href="participation/projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
                             <i class="fa fa-fw fa-tag"></i>
-                                {{ tag }}
+                            {{ tag }}
                         </a>
                     {% endfor %}
                 </p>
@@ -88,10 +92,10 @@ submenu: participation-projects
 
 <div class="section headingless">
     <div class="container-fluid">
-        <a href="projects/">
+        <!-- <a href="participation/projects/">
             <i class="fa fa-fw fa-chevron-left"></i>
             Back to projects
-        </a>
+        </a> -->
 
         {{ content }}
 

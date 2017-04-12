@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Lynedoch Shopper Service
-excerpt:
-lead: Tap into IT Where You Are
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Lynedoch Shopper Service
+project-excerpt:
+project-lead: Tap into IT Where You Are
 website: http://www.tap-into-it.co.uk/
 email: mike.ellis@tap-into-it.co.uk
 twitter-url: https://twitter.com/tapitlocal/
@@ -16,6 +18,8 @@ postcode: EH11 1JX
 image: /images/projects/tapintoit.jpg
 tags: older-people
 permalink: /projects/tapintoit/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

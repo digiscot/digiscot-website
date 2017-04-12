@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: The Spruce Hub
-excerpt: Accredited IT skills training.
-lead: Spruce Carpets
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: The Spruce Hub
+project-excerpt: Accredited IT skills training.
+project-lead: Spruce Carpets
 website: http://www.sprucecarpets.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G51 2JQ
 image:
 tags: benefits Glasgow
 permalink: /projects/spruce-carpets/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -66,4 +70,3 @@ Things that worked well:
 Things that we would do differently next time:
 
 1. One to one training slots from day one
-

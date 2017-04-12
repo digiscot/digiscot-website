@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Digital Oasis
-excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse.
-lead: Bethany Christian Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Oasis
+project-excerpt: Weekly digital learning drop-ins in Parkhead and Easterhouse.
+project-lead: Bethany Christian Trust
 website: http://www.bethanychristiantrust.com/
 email: info@bethanychristiantrust.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: EH6 5JQ
 image: /images/projects/OASIS - logo.png
 tags: older-people benefits disabled-people Glasgow
 permalink: /projects/bethany-christian-trust/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Our Stories Your Memories
-excerpt: Basic computer skills tuition for older people
-lead: Northwest Training Centre Association
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Our Stories Your Memories
+project-excerpt: Basic computer skills tuition for older people
+project-lead: Northwest Training Centre Association
 website: http://northwesttrainingcentre.weebly.com/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV27 4RG
 image:
 tags: older-people disabled-people remote-rural
 permalink: /projects/northwest-training/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Digital Empowerment - Person Centred Services
-excerpt: Encouraging digital participation through action learning and knowledge exchange
-lead: Mydex CIC
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Empowerment - Person Centred Services
+project-excerpt: Encouraging digital participation through action learning and knowledge exchange
+project-lead: Mydex CIC
 website: https://mydex.org/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G2 4JR
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/mydex/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: DEAFinitely Digital
-excerpt: Supporting the deaf community to develop and advance their digital skills
-lead: Deaf Connections
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: DEAFinitely Digital
+project-excerpt: Supporting the deaf community to develop and advance their digital skills
+project-lead: Deaf Connections
 website: http://www.deafconnections.co.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G5 9EJ
 image:
 tags: older-people disabled-people benefits Glasgow
 permalink: /projects/deaf-connections/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -139,5 +143,3 @@ Overall this project supported the Deaf community to develop and advance their d
 1.	Increase hours of project worker to meet demand
 
 2.	Increase diversity of equipment and use specialist technologies for people with additional needs
-
-

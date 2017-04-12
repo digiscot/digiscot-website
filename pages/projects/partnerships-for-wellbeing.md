@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Video Volunteers
-excerpt: To encourage engagement with and confidence in digital technology
-lead: Partnerships for Wellbeing
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Video Volunteers
+project-excerpt: To encourage engagement with and confidence in digital technology
+project-lead: Partnerships for Wellbeing
 website: http://www.pfw.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV3 5JU
 image:
 tags: older-people disabled-people remote-rural
 permalink: /projects/partnerships-for-wellbeing/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

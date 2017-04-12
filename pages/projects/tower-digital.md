@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Silverscreen Project
-excerpt:
-lead: The Tower Digital Arts Centre
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Silverscreen Project
+project-excerpt:
+project-lead: The Tower Digital Arts Centre
 website: http://thetoweronline.com
 email: brian@thetoweronline.com
 twitter-url:
@@ -16,6 +18,8 @@ postcode: G84 8TR
 image: /images/projects/tower.jpg
 tags: older-people
 permalink: /projects/towerdigital/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -47,6 +51,3 @@ We believe elderly people will go online or will agree to be trained to go onlin
 
 
 ### Lessons learned
-
-
-

@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Connecting Newmains
-excerpt:
-lead: Newmains Community Trust
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Connecting Newmains
+project-excerpt:
+project-lead: Newmains Community Trust
 website: http://nctcentre.co.uk/
 email: sandy@newmainscommunitytrust.co.uk
 twitter-url:
@@ -16,6 +18,8 @@ postcode: ML2 9AX
 image: /images/projects/newmains.png
 tags: older-people benefits
 permalink: /projects/newmains/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -84,4 +88,3 @@ New College Lanarkshire for adults looking to improve their digital participatio
 Originally we had planned to use new laptop computers from a local well known national outlet.  A decision was mad to use reconditioned laptops from Happus (http://www.happus.eu/) which has allowed us to increase the number of laptops available for participants.  They also cam with appropriate Microsoft software allowing a savings on software.
 
 From a previous position I knew of a supplier of software for charity organisations at a much reduced cost.  I have been able to use this for this project and would recommend if you are a registered charity to look at tt-exchange (https://www.tt-exchange.org/) for your software requirements.
-

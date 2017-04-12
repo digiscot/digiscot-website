@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: Connected Communities
-excerpt: Online community portal
-lead: Station House Media Unit (shmu)
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Connected Communities
+project-excerpt: Online community portal
+project-lead: Station House Media Unit (shmu)
 website: http://www.shmu.org.uk/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: AB24 2WB
 image:
 tags: older-people disabled-people benefits
 permalink: /projects/shmu/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

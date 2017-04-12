@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Drop-In
-excerpt: Drop-in digital training sessions
-lead: Co Chomunn na Pairce
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Digital Drop-In
+project-excerpt: Drop-in digital training sessions
+project-lead: Co Chomunn na Pairce
 website: http://www.youthlinkscotland.org/
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: HS2 9QA
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/co-chomunn-na-pairce/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

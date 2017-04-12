@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 1
-title: The Greenhouse Digital Participation Programme
-excerpt: IT equipment and digital skills sessions for the community
-lead: Greenhouse Shop CIC
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: The Greenhouse Digital Participation Programme
+project-excerpt: IT equipment and digital skills sessions for the community
+project-lead: Greenhouse Shop CIC
 website:
 email:
 twitter-url:
@@ -16,6 +18,8 @@ postcode: IV15 9RU
 image:
 tags: older-people disabled-people benefits remote-rural
 permalink: /projects/the-greenhouse-cic/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

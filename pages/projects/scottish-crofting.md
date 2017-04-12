@@ -2,9 +2,11 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 3
-title: Croft IT
-excerpt:
-lead: The Scottish Crofting Federation
+title: Projects
+excerpt: We're supporting some fantastic digital participation projects. Here are their stories.
+project-title: Croft IT
+project-excerpt:
+project-lead: The Scottish Crofting Federation
 website: http://www.crofting.org/
 email: HQ@crofting.org
 twitter-url: https://twitter.com/SCFHq
@@ -16,6 +18,8 @@ postcode: KA15 1BY
 image: /images/projects/crofting.jpg
 tags: other
 permalink: /projects/crofting/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

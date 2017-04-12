@@ -2,9 +2,10 @@
 warning-start: DO NOT EDIT THIS SECTION
 layout: project
 call: 2
-title: Digital Inclusion Coordinator
-excerpt: Digital Inclusion Coordinator to teach digital skills
-lead: West of Scotland Housing Association
+project-title: Digitally Agile Training Course
+project-title: Digital Inclusion Coordinator
+project-excerpt: Digital Inclusion Coordinator to teach digital skills
+project-lead: West of Scotland Housing Association
 website: http://www.westscot.co.uk/
 email:
 twitter-url:
@@ -16,6 +17,8 @@ postcode: G21 1HG
 image:
 tags: older-people disabled-people benefits Glasgow remote-rural
 permalink: /projects/westscot/
+submenu: participation-projects
+fa-icon: fa-file-o
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -120,4 +123,3 @@ Things that we would do differently
 •	The initial promotion of the service was through the distribution of flyers to every household ad newsletter articles did not prove to be effective.  As the project progressed the DIC worked closely with partners to ensure the project was promoted in other ways ie attending partner services to deliver presentations and through word of mouth, however from the offset this may have been a more appropriate way to engage with service users
 •	The IT drop in sessions at the Inclusive Learning Centre were modelled on similar services in other communities however were at time poorly attended.  Service-users may have benefitted from a more structured, focused programme of IT learning
 •	The DIC operated two days each week however it is acknowledged that it was difficult to make a significant impact in some areas with this limited time to focus on the project.  WSHA would aim to extend the number of days each week when the project operated to provide a better service to tenants and communities
-
