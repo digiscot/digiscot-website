@@ -68,9 +68,9 @@ redirect_from:
 
                             {% assign sortedtags = tags | split:' ' | sort %}
 
-                                <a href="{{ page.url }}" class="card-title">{{ page.lead }}</a>
-                                <p><strong>{{ page.title }}</strong></p>
-                                <p>{{ page.excerpt }}</p>
+                                <a href="{{ page.url }}" class="card-title">{{ page.project-lead }}</a>
+                                <p><strong>{{ page.project-title }}</strong></p>
+                                <p>{{ page.project-excerpt }}</p>
 
                                 {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
                             </div>

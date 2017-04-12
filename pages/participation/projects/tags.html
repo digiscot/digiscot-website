@@ -51,7 +51,7 @@ fa-icon: fa-tags
                   {% assign parray = ptags | split:' ' %}
 
                   {% if parray contains tag %}
-                    <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                    <li><a href="{{ page.url }}">{{ page.project-lead }}</a></li>
                   {% endif %}
                 {% endif %}
               {% endfor %}
@@ -79,7 +79,7 @@ fa-icon: fa-tags
             <ul class="browser-default">
               {% for page in site.pages %}
                 {% if page.call == 1 %}
-                  <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                  <li><a href="{{ page.url }}">{{ page.project-lead }}</a></li>
                 {% endif %}
               {% endfor %}
             </ul>
@@ -94,7 +94,7 @@ fa-icon: fa-tags
             <ul class="browser-default">
               {% for page in site.pages %}
                 {% if page.call == 2 %}
-                  <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                  <li><a href="{{ page.url }}">{{ page.project-lead }}</a></li>
                 {% endif %}
               {% endfor %}
             </ul>
@@ -109,7 +109,7 @@ fa-icon: fa-tags
             <ul class="browser-default">
               {% for page in site.pages %}
                 {% if page.call == 3 %}
-                  <li><a href="{{ page.url }}">{{ page.lead }}</a></li>
+                  <li><a href="{{ page.url }}">{{ page.project-lead }}</a></li>
                 {% endif %}
               {% endfor %}
             </ul>

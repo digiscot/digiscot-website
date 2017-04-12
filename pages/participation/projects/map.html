@@ -14,9 +14,9 @@ scripts:
 {% assign projects = '' | split: ',' %}
 {% for page in site.pages %}
     {% if page.layout == 'project' %}
-        {% assign title = page.title | jsonify %}
-        {% assign excerpt = page.excerpt | jsonify %}
-        {% assign lead = page.lead | jsonify %}
+        {% assign title = page.project-title | jsonify %}
+        {% assign excerpt = page.project-excerpt | jsonify %}
+        {% assign lead = page.project-lead | jsonify %}
         {% assign website = page.website | jsonify %}
         {% assign email = page.email | jsonify %}
         {% assign twitter-url = page.twitter-url | jsonify %}
