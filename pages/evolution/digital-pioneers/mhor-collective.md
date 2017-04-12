@@ -9,7 +9,7 @@ image: mhor.png
 website: http://mhorcollective.com/
 email:
 twitter-url: https://twitter.com/mhorcollective
-facebook-url: https://en-gb.facebook.com/EuansGuide
+facebook-url:
 permalink: /evolution/digital-pioneers/mhor-collective/
 ---
 
