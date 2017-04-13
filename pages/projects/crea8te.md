@@ -84,7 +84,7 @@ Result: 3 volunteers plus training for Saheliya staff as Digital Champions was d
 
 **36 ethnic minority women will have the skills to search for & obtain work, access public & consumer services, pay bills, search, have social contact thereby reducing discrimination & social isolation**
 
-Result: 24 women were supported in total.  Please see Lessons Learned for more information.
+Result: 30 women were supported in total.  Please see Lessons Learned for more information.
 
 **By training 2 Saheliya staff members we will leave a legacy for sustainability**
 
