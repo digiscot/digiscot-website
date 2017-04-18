@@ -80,7 +80,7 @@ Our plan is to keep evolving digitally – we absolutely love digital change. So
 
 We’re currently part of an all round inspiring WhatsApp group - headed up by the ever awesome Ross McCulloch of Be Good, Be Social. Every day a new and amazing thing appears on there for us to try.
 
-Last week’s highlights include: Mentimeter, Kahoot and Sideways Dictionary - Google them.
+Last week’s highlights include: <a target='_blank' href="https://www.mentimeter.com/">Mentimeter</a>, <a target='_blank' href="https://getkahoot.com/">Kahoot</a> and <a target='_blank' href="https://sidewaysdictionary.com/#/">Sideways dictionary</a>
 
 -----
 
