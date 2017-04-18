@@ -61,6 +61,7 @@ This was an innovative project because all other courses locally want to teach I
 *	Week 2 review Get even more tutors.as participants numbered 20+ for the first 8 weeks. 
 *	Week 12 Project completion and evaluation: April 2016
 
+
 * Tea and Technology helped the over 60s feel comfortable with their technology and reduced the fear that is engendered when faced with ’new’ systems
 * Tea and Technology helped the over 60s coming along, to keep in touch with friends and family by using modern technology
 * Tea and Technology was intergenerational as we got the support of the local school and college. This created a social occasion with learning for both generations.
