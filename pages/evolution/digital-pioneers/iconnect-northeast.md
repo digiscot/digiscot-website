@@ -5,7 +5,7 @@ excerpt: Some fantastic stories of digital use across the Scottish third sector.
 submenu: evolution-digital-pioneers
 pioneer-title: iConnect North East
 pioneer-excerpt: From Facebook campaigns to Google Analytics, iConnect North East tell us what digital has to offer.
-image: iconnect.png
+image: iconnect.PNG
 website: https://www.iconnectne.org.uk/
 email:
 twitter-url: https://twitter.com/iConnectNE
