@@ -5,7 +5,7 @@ excerpt: Some fantastic stories of digital use across the Scottish third sector.
 submenu: evolution-digital-pioneers
 pioneer-title: Quarriers
 pioneer-excerpt: On how digital can help to improve service delivery across remote and rural areas.
-image: quarriers.JPG
+image: quarriers.jpg
 website: https://quarriers.org.uk/
 email:
 twitter-url: https://twitter.com/quarriers
