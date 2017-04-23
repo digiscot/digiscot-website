@@ -23,6 +23,8 @@ submenu: evolution
         {% endif %}
         {% endfor %}
 
+        abs
+        
         <div class="digital-pioneer-cards" data-columns>
             {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
             {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
