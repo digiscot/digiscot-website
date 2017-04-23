@@ -4,7 +4,7 @@ title: Digital Pioneers
 excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired.
 submenu: evolution-digital-pioneers
 pioneer-title: Stirlingshire Voluntary Enterprise
-pioneer-excerpt: Discover how SVE use digital for staff collaboration and engagement with volunteers, partners and stakeholders.
+pioneer-excerpt: Discover how SVE use digital for staff collaboration and volunteer, partner & stakeholder engagement.
 image: sve.png
 website: http://www.sventerprise.org.uk/
 email:
