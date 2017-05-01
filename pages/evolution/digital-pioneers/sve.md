@@ -70,6 +70,7 @@ Joseph Rowntree Foundation for their ethos of encouraging all staff to get behin
 
 -----
 
-Thanks to SVE team for sharing how they’re using digital in the third sector for internal and external comms. We hope that the digital steps and learning shared inspires your third sector organisation to
+Thanks to SVE team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
 
-explore the benefits. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think @digitscot!
+If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
+
