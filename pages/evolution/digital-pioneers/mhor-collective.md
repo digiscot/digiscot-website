@@ -58,7 +58,7 @@ We’re a collective, so the embracing of change was a whole group thing. This e
 
 ### What’s been the impact?
 
-TOur digital changes have obviously impacted on us as a Collective, but because we’re in the business of sharing, we have already encouraged a fair few organisations to have a go with new tools. Lairg Learning Centre has started on Trello, the Highland Adult Learning Partnership has a Slack team, and we’ve spoken to a few organisations about appear.in for contact with remote clients as it has a lovely, clear and easy to use interface.
+Our digital changes have obviously impacted on us as a Collective, but because we’re in the business of sharing, we have already encouraged a fair few organisations to have a go with new tools. Lairg Learning Centre has started on Trello, the Highland Adult Learning Partnership has a Slack team, and we’ve spoken to a few organisations about appear.in for contact with remote clients as it has a lovely, clear and easy to use interface.
 
 Despite the distance, digital pulls us closer together. There’s a huge element of social and informal discussion that goes on in our slack channels, which is incredibly important to us as a team. We used to have Friday Gin and Tonics via Google Hangouts – it’s time to reintroduce this!
 
