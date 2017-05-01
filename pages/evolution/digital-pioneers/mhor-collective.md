@@ -84,5 +84,6 @@ Last week’s highlights include: <a target='_blank' href="https://www.mentimete
 
 -----
 
-Thanks to Mhor Collective for sharing how much digital can do for your organisation without costing a penny. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep
-the inspiration flowing and tell us what you think @digiscot!
+Thanks to Mhor Collective for sharing how they’re using digital in the third sector. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
+
+If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
