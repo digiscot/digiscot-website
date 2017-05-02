@@ -72,10 +72,12 @@ h3 {
 strong {
     font-weight: 700;
 }
-.nav-wrapper a,
-nav ul a {
+.nav-wrapper a {
     font-weight: 600;
     text-transform: uppercase;
+}
+nav ul a {
+    font-weight: 400;
     color: white !important;
 }
 nav ul strong a {
