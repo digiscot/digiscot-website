@@ -67,16 +67,18 @@ For G.R.A.C.E it is all about providing services and training which develop peop
 
 ### Evaluation
 
-Milestone One
+##### Milestone One
 
-In late November of last year G.R.A.C.E was in a period of transition with quite a few regular participants moving on to pastures new and quite a few new comers engaging with G.R.A.C.E for the first time. With this and the onset of Christmas approaching we felt it best to delay our start to early January of the new year
+In late November 2015 G.R.A.C.E was in a period of transition with quite a few regular participants moving on to pastures new and quite a few new comers engaging with G.R.A.C.E for the first time. With this and the onset of Christmas approaching we felt it best to delay our start to early January of the new year
 
-Milestone One January – March
+##### Milestone One January – March 2016
 
-Weeks one to four; 'The Wrong Browsers'
+**Weeks one to four; 'The Wrong Browsers'**
 
 Over this initial four week period many puns, jokes have been made about 'The Wrong Browsers' and through humour we have ventured forth as a group to explore which browsers best fit our individual needs.
+
 Initial group discussions revealed a great deal of confusion with regards to terminology and understanding of what the internet is and how best to access it.
+
 The analogy of comparing the internet to one library with many different entrances best suited our purpose
 
 We explored this idea in depth, looking at three main entrances, and how the same library, 'the internet' was presented differently when entered via:
@@ -91,60 +93,32 @@ Bing
 Yahoo
 Google
 
-The following is an example of a simple quiz sheet we used to spark exploration and discussion that focused on each browsers characteristics and strengths and weaknesses:
+The following is an **example of a simple quiz sheet** we used to spark exploration and discussion that focused on each browsers characteristics and strengths and weaknesses:
 
 Use Mozilla to find the answer to the following three questions, cut and paste your answers into the spaces below each question:
 
-1	When was Mozilla launched ?
-
-
-
-
-2	What is tech house ?
-
-
-
-
-3.	When was the first message sent by email ?
-
-
+1.	When was Mozilla launched?
+2.	What is tech house?
+3.	When was the first message sent by email?
 
 Use Internet Explorer to find the answer to the following three questions, cut and paste your answers into the spaces below each question:
 
-1	When was Internet Explorer launched ?
-
-
-
-
-2	Who was the last person on the moon ?
-
-
-
-
-3	How do you enter safe mode ?
-
-
+1.	When was Internet Explorer launched?
+2.	Who was the last person on the moon?
+3.	How do you enter safe mode?
 
 Use Google Chrome to find the answer to the following three questions, cut and paste your answers into the spaces below each question:
 
-
-1	When was Google Chrome launched ?
-
-
-
-2	How much is 23.50 euros in sterling ?
-
-
-
-
-3	Who published the first ever web page and in what year ?
+1.	When was Google Chrome launched?
+2.	How much is 23.50 euros in sterling?
+3.	Who published the first ever web page and in what year?
 
 Simple quizzes like this have been brilliant for introducing more challenging problems to the group for example:
 Although each laptop had Internet Explorer readily installed we had to download and install both Google Chrome and Mozilla Firefox
 Before setting off on this quiz, as a group, we had to identify download and install a suitable office package...............in this case Apache Open Office, an open source package which is free and very similar in nature, and interchangeable with, Microsoft Office.
 This exercise also allowed us to introduce simple shortcuts and techniques for lifting information from one medium to another.
 
-Weeks five to ten
+**Weeks five to ten**
 
 Tailoring our Browsers for a Better Fit
 
@@ -162,17 +136,17 @@ Bookmarks and how to use them was another very welcome session, we introduced fo
 
 Throughout this time we have also been looking at developing an understanding of all the incredible things we can do with a mouse, many of our members at outset had very basic skills in this area, a few had none, when you don't know what your mouse is up to, things can get very frustrating, we quickly identified that a lot of folks were guessing with their double clicking, right click, left click, scrolling and the whole myriad of multiple functions a mouse has.......... no one wants to appear inept when sitting next to others clicking away, we found people tended to mask their fear of uncertainty..... tackling this in a fun way, we found, was the answer; we had a great time using online mouse click games and exercises to help people get to grips with and take control of the potential of their mouse.......... we also made some great music along the way....
 
-Here's a few sites we investigated:
+**Here's a few sites we investigated:**
 
-http://www.incredibox.com/
+[http://www.incredibox.com/](http://www.incredibox.com/)
 
-http://www.noisli.com/
+[http://www.noisli.com/](http://www.noisli.com/)
 
-http://www.pbclibrary.org/mousing/mousercise.htm
+[http://www.pbclibrary.org/mousing/mousercise.htm](http://www.pbclibrary.org/mousing/mousercise.htm)
 
-https://www.justpark.com/creative/reaction-time-test/
+[https://www.justpark.com/creative/reaction-time-test/](https://www.justpark.com/creative/reaction-time-test/)
 
-http://www.roomrecess.com/pages/ClickSpeed.html
+[http://www.roomrecess.com/pages/ClickSpeed.html](http://www.roomrecess.com/pages/ClickSpeed.html)
 
 We also did a lot of work investigating basic short cuts that are universal between browsers and software such as
 
@@ -184,10 +158,22 @@ Ctrl A 	…....	Select All
 
 
 Over the the weeks, we have also had a steady stream of GRACE members and friends of GRACE, dropping in with computer related problems and questions. One of the biggest problems is computers and laptops running at incredibly slow speeds and under performing, in most cases the primary cause has been malware and other such nasties. As each case has presented itself we have used each as an opportunity to problem solve. We have also introduced the idea of basic computer and laptop house keeping, Malwarebytes, CC Cleaner, and Avast antivirus software has now been installed on all our laptops, by participants, and all now feel confident in regularly checking their laptops are malware and virus free.
-Other problems that are often presented usually follow a visit from teenage nieces, nephews, and grandchildren.............'I don't know what they did with it !'  We have looked at the basics of 'computer appearance' and taking charge of your desktop, and again browsers. This has on many occasions tied in with the use of Malwarebytes, it would seem that teenagers are quite adept at installing third party software that hi-jacks and changes browser behaviour !
 
+Other problems that are often presented usually follow a visit from teenage nieces, nephews, and grandchildren.............'I don't know what they did with it !'  We have looked at the basics of 'computer appearance' and taking charge of your desktop, and again browsers. This has on many occasions tied in with the use of Malwarebytes, it would seem that teenagers are quite adept at installing third party software that hi-jacks and changes browser behaviour !
 
 In conclusion we would say that these past ten weeks have been very successful, this is clearly evident to our facilitator through recognising the relaxed demeanour in which participants now tackle problems they encounter, or in the way they set about tasks in a confident manner, perhaps the best indicator is the confidence with which people speak up and share information, ask questions, or help fellow participants, or new comers to the group. There is also a new found understanding that no one is ever an expert on all things computer based, but that answers and solutions can be found in many formats by 'googling...... '
 
 
 ### Lessons learned
+
+##### Key lessons learned 
+
+The past year has been an incredible journey for GRACE with many of our members taking their first steps into the digital realm at the start of 2016 through to members now sharing skills and knowledge gained and helping new members. Over this time we have had a core group of participants attending our weekly workshops and many others dropping in to solve problems or tackle online forms they are struggling with, in addition to laptop and PC maintenance and digital housekeeping tips; our current record holder for malware infections, Mary, brought in her laptop to see why it was running so slow, Malwarebytes identified over 2690 malicious forms of malware nesting in her laptop. Mary's infested laptop is a prime of example of a key lesson learnt.
+
+##### Every problem is an opportunity to learn
+
+Each week some unforeseen computing related problem has arisen and provided opportunity for us as a group to explore solutions. Mary's laptop problems gave rise to a whole host of questions and shared experiences from all, many commented that they thought their household laptop was just slow because it was old, in some cases we were talking about laptops less than two years old, others spoke about not being able to afford to put their laptops in 'for repair'. The morning in question of identifying the malware that was rendering the laptop in question as virtually unusable, allowed us to introduce the group to the tools we can use to keep our PC's and laptops performing at optimal levels; tools such as CC Cleaner and Malwarebytes. Installing and using these on our Digital Cafe laptops not only introduced the group to such tools but allowed us to practice our 'Google' research skills, searching out articles on 'top ten tips for speeding up slow computers', 'dealing with computer viruses', in addition to watching short online tutorials on 'how to' matters  that arose.
+
+This whole event surrounding the infected laptop gave rise to over four weeks investigation into many topics about good digital houskeeping practises, safety on and offline, how to spot potential malware origins. In addition opportunity arose to practise downloading and installing software, unzipping files, choosing download locations, how to source online help and the best ways to ask or phrase 'Google' questions when searching for answers.
+
+Many other such 'problems' have provided a wealth of opportunity to learn and in so doing build confidence in engaging with the digital realm through our laptops and other devices, 'problems' like those presented in June 2016 when the deadline to upgrade to Windows 10 arose, this particular event lead to investigating 'pop ups', it is really quite incredible how much angst is generated from our computers constantly asking us questions in the form of 'pop ups'............'Do you wish to upgrade', 'Your software is out of date' etc etc. With regards to Windows 10 update we took everyone through the process of restoring laptops to factory condition, in some cases we rolled back several laptops to Windows 7 and Windows 8, and in others we took everyone through the process of updating their operating system........the key to learning in all of this was to view every perceived problem as an opportunity.
