@@ -30,7 +30,7 @@ You can do IT - IT training & mentoring support project aims at empowering and u
 * Establish and Map Relevant skills motivation - knowing the reasons why using the internet is a good thing
 * Build awareness and confidence trust - a fear of online fraud, or not knowing where to start to go online
 
-**Job Club sessions**
+**Job Club sessions**<br />
 Our training programme will be structured to deliver 8 training sessions to each participant over 2 months. On average, we accomodate 4 clients per session. We also take into account that some clients will need more flexible approach and more sessions will be available for clients needing extra support.
 1. We will run 2 hour long sessions a week initially then add 2 more as the numbers increase. The sessions timings will change to reflect clients’ needs.
 2. We will recruit and pay a sessional worker to deliver the training to both learners and mentors.
@@ -70,7 +70,7 @@ The clinic was kindly funded and supported by the Scottish Council for Voluntary
 
 #### Our Work
 
-**October 2015**
+**October 2015**<br />
 Our free IT workshops began in October 2015.  With a significant support of our local volunteers, we began our group sessions on Monday afternoons. In order to raise awareness of the classes, we designed  and distributed marketing materials locally as well as online. A special Facebook event was created in order to promote our services.
 
 The initial workshops provided us with an opportunity to investigate and identify the digital needs of our community. In order to learn more about participants skills, we had invited them to complete surveys, which focused on SCVO Basic Digital Skills framework. Our questions covered the topics of managing information, communication, online transactions and digital creation.
@@ -90,8 +90,7 @@ Our group weekly session were attended by 6-7 people. The majority of participan
 
 Furthermore, in order to address individual needs of our participants, we decided to begin working on a one-to-one basis and set up The Free IT Clinic.
 
-**December 2015-August 2016**
-
+**December 2015-August 2016**<br />
 In December, we began promoting our one-to-one digital skills sessions as IT Clinic. The clinic was available for our clients on a weekly basis. During the sessions, we had conversations with the participants about their skills and aspirations. Our learning objectives varied from setting up emails to exploring free photo editing tools.  In order to explore the diverse nature of our work, we decided to present several case studies below.
 
 ##### Case study 1: Digital Skills for employability
@@ -125,11 +124,11 @@ Below we would like to reflect on some of the key deliveries of our digital work
 
 ##### Adjusting workshops timetable according to participants’ needs
 
-**Group sessions**
+**Group sessions**<br />
 We began working with a group format sessions, where we dealt with a larger number of people simultaneously. These workshops were particularly successful when mapping the digital needs of our clients. However, our facilitators had difficulties when addressing everyone’s needs during the sessions, as most of the workshop attendants  required not only IT guidance but also language support. Working on an English version of the software proved to be difficult for some of them. Our volunteers and project facilitator were providing our clients with the support and guidance in order to address these needs, however it was clear that some of the participants would benefit from individual sessions. Although we received a very positive feedback from the sessions, we decided that running one-to-one sessions was the way to go forward.
 The overall feedback from the sessions was very positive and noticed that some of the clients really benefited from the group workshop and most of the signed up for the individual digital support sessions at the IT Clinic.
 
-**One-to-one sessions**
+**One-to-one sessions**<br />
 We began working with our clients on an individual basis as a part of IT Clinic, which took place at Fife Migrants Forum every Wednesday. They could book their appointments at our office, over the phone or online via Facebook or email. As the sessions progressed, we decided to change our slots from 2 hours to 1 hour. We learned that the individual sessions worked better when delivered in 60 minutes. Many of our participants were overwhelmed with the amount of information and preferred shorter workshops.
 In order to understand participant’s needs, we would ask our clients to complete a Google Form survey. The initial check-up provided us with some essential information to discuss the learning aims and objectives.  Our digital survey was always the first exercise during the session, which also allowed us to practically observe and assess the digital skills of our clients. Our surveys also allowed us to track individual progress and evaluate the quality of our work at the end of the learning experience. Having this recorder was not only beneficial for us but also participants, as it allowed us to reflect on the improvements that occurred during the process.
 
@@ -150,18 +149,18 @@ Due to the nature of our work with the migrants community, it was essential to w
 
 ##### Outcomes
 
-**Employability**
+**Employability**<br />
 As previously mentioned in this report, over 95% of our clients stated that improving their employability skills was a key aspect of their digital education. We noted that our participants were interested in CV creation, using Microsoft Office packages and online job search. We addressed these needs in our group workshops, individual IT and Job Club sessions. Fife Migrants Forum clients significantly benefited from this particular aspect of our digital work.
 
 Over 70% of our participants learned how to create a CV and email potential employers. From the final feedback forms we also learned that XXX of our clients managed to find employment thanks to our guidance and support. Moreover, some of the individuals who regularly attended the IT clinic are now informally supporting their networks in this area and are considered “digital experts” among their friends and co-workers.
 
-**Reducing social isolation & boosting confidence**
+**Reducing social isolation & boosting confidence**<br />
 Our regular meetings not only provided the clients with new technical skills but also encouraged them to socialize outside their home and work environment. Nearly 65%  of our clients indicated that  social isolation is a big issue for them,  due to the lack of sufficient communication skills, caring responsibilities or limited funds. Our regular sessions gave our clients simply “something to do” . For many, going back into education was a quite empowering experience. Some of our participants initially believed that “it’s too late” for them to learn new skills, only to surprise themselves as to how quickly they grasped basic concepts of technology. The experience of learning something new and achieving goals was definitely a huge confidence booster. Furthermore, learning how to communicate online via email, Skype and being able to share information (images) with the families abroad, was a great way to tackle their social isolation.
 
-**Communication Skills - online & offline**
+**Communication Skills - online & offline**<br />
 Our sessions aimed to primarily focus of digital skills and online communication. Indeed our tutors delivered education guidance in this area by introducing our clients to emails, Skype and other online communication tools. This definitely improved participants digital communication abilities. However, we did not expect to have a such a big impact on language and offline communication skills as well. During our bilingual workshops, our clients had an opportunity to improve their English skills by learning new set of vocabulary and using it during the classes. We had a very positive feedback regarding this aspect of the workshops and many our our clients highlighted the language learning aspects in our their final feedback.
 
-**Digital Awareness**
+**Digital Awareness**<br />
 The aim of the IT workshops was to introduce participants to basic digital skills and discuss their current “digital” knowledge. During our sessions we outlined the importance of online safety and privacy. Many of our clients did not consider these aspects earlier and as a result  became victims of SPAM email, adverts, phishing. Our tutors discussed these risks with the clients. As a result our participants became more vigilant and critical of the information they receive online. Furthermore they are now more aware of the digital risks and consider the importance of online privacy.
 
 **New Volunteers and Community Digital Leaders**<br />
