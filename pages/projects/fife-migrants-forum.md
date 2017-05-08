@@ -138,6 +138,9 @@ Being able to take time to learn and revise material on a weekly basis
 Having a Polish tutor, who was able to explain English commands
 Having access to the equipment and the Internet
 Apart from written surveys, we also interviewed our clients both off and on camera. In order to view our video, please follow the following link: https://goo.gl/25GVi5
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffife.migrants%2Fvideos%2F1324293920946042%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 3. Bilingual Digital Worker
 We recruited a seasonal Digital Worker in order coordinate the group workshops and individual session. Additionally we had a significant support from our volunteers, who helped running the sessions as well as providing additional administrative support.
 Due to the nature of our work with the migrants community, it was essential to work with a English/Polish speaking teacher.  Many of our clients have basic to intermediate language skills and being able to explain digital terminology in their native tongue really improves the educational process.  Additionally, many of our participants outlined having the workshop in two languages helped them to not only learn about the technology but also improve their overall communication skills.
@@ -168,18 +171,6 @@ Final thoughts
 Having bilingual workshop is essential
 Individual approach more effective than group setting
 Employability skills considered as most important among migrant community
-
-.
-
-
-
-
-
-
-
-
-
-
 
 
 
