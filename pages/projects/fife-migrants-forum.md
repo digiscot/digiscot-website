@@ -133,7 +133,7 @@ The overall feedback from the sessions was very positive and noticed that some o
 We began working with our clients on an individual basis as a part of IT Clinic, which took place at Fife Migrants Forum every Wednesday. They could book their appointments at our office, over the phone or online via Facebook or email. As the sessions progressed, we decided to change our slots from 2 hours to 1 hour. We learned that the individual sessions worked better when delivered in 60 minutes. Many of our participants were overwhelmed with the amount of information and preferred shorter workshops.
 In order to understand participant’s needs, we would ask our clients to complete a Google Form survey. The initial check-up provided us with some essential information to discuss the learning aims and objectives.  Our digital survey was always the first exercise during the session, which also allowed us to practically observe and assess the digital skills of our clients. Our surveys also allowed us to track individual progress and evaluate the quality of our work at the end of the learning experience. Having this recorder was not only beneficial for us but also participants, as it allowed us to reflect on the improvements that occurred during the process.
 
-2. Collecting feedback
+##### Collecting feedback
 In order to evaluate our digital educational work, we asked our clients to complete simple feedback forms. The forms outlined the most important aspects of the workshops:
 * Having a full attention of the teacher
 * Being able to take time to learn and revise material on a weekly basis
@@ -144,7 +144,7 @@ Apart from written surveys, we also interviewed our clients both off and on came
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffife.migrants%2Fvideos%2F1324293920946042%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-3. Bilingual Digital Worker
+##### Bilingual Digital Worker
 We recruited a seasonal Digital Worker in order coordinate the group workshops and individual session. Additionally we had a significant support from our volunteers, who helped running the sessions as well as providing additional administrative support.
 Due to the nature of our work with the migrants community, it was essential to work with a English/Polish speaking teacher.  Many of our clients have basic to intermediate language skills and being able to explain digital terminology in their native tongue really improves the educational process.  Additionally, many of our participants outlined having the workshop in two languages helped them to not only learn about the technology but also improve their overall communication skills.
 
