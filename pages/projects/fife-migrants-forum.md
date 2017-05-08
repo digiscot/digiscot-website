@@ -164,11 +164,11 @@ Our sessions aimed to primarily focus of digital skills and online communication
 **Digital Awareness**
 The aim of the IT workshops was to introduce participants to basic digital skills and discuss their current “digital” knowledge. During our sessions we outlined the importance of online safety and privacy. Many of our clients did not consider these aspects earlier and as a result  became victims of SPAM email, adverts, phishing. Our tutors discussed these risks with the clients. As a result our participants became more vigilant and critical of the information they receive online. Furthermore they are now more aware of the digital risks and consider the importance of online privacy.
 
-**New Volunteers and Community Digital Leaders**
+**New Volunteers and Community Digital Leaders**<br />
 In order to efficiently coordinate our digital education programme, we required an additional support from our volunteers. Our helpers also had an opportunity to learn new IT skills during their work with us.
 
 
 ### Lessons learned
-Having bilingual workshop is essential
-Individual approach more effective than group setting
+Having bilingual workshop is essential<br />
+Individual approach more effective than group setting<br />
 Employability skills considered as most important among migrant community
