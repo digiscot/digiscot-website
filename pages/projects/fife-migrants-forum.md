@@ -62,13 +62,13 @@ Our training programme will be structured to deliver 8 training sessions to each
 
 ### Evaluation
 
-####Description
+#### Description
 
 Free IT Clinic at Fife Migrants Forum was opened every Wednesday and welcomed clients with all aspects of digital inquires. Our regular sessions provided migrant’s community with opportunities to learn or improve their existing IT skills. The digital engagement work offered by Fife Migrants Forum, allowed us to explore and understand the essential need for this type of work. Our group as well as one-to-one sessions provided by our caseworkers on a daily basis had a significant impact on participants abilities to communicate, search information, seek employment opportunities online.
 
 The clinic was kindly funded and supported by the Scottish Council for Voluntary Organisations, ASDA Foundation Scotland, Greener Kirkcaldy, Big Lottery Support & Connect Fund.  This report covers the digital education work carried out by Fife Migrants Forum between October 2015 - May 2016 and continuing until October 2016 as a result of the extension.
 
-####Our Work
+#### Our Work
 
 **October 2015**
 Our free IT workshops began in October 2015.  With a significant support of our local volunteers, we began our group sessions on Monday afternoons. In order to raise awareness of the classes, we designed  and distributed marketing materials locally as well as online. A special Facebook event was created in order to promote our services.
@@ -84,7 +84,7 @@ The outcome of the surveys outlined the following problem areas:
 
 Being able to apply for jobs and writing a CV were outlined as the most important aspects for most of our participants. Therefore our group sessions were particularly dedicated to these aspects of digital communication. Our volunteers helped us to run the sessions, by supporting participants in the digital tasks as well as language support.
 
-####Group workshop challenges
+#### Group workshop challenges
 
 Our group weekly session were attended by 6-7 people. The majority of participants were from Eastern Europe and prefered using their native language during the classes. Among the people who joined the workshop were mainly Poles, Bulgarians and Slovaks. Most of the time we were able to explain the tasks by communicating in English and Polish. However the software used during the classes was in English, which meant we had to take extra time to translate instructions step by step. Our volunteers helped us by designing educational posters and materials for our participants, these were distributed during the sessions. The materials covered various aspects of our work, covering online safety, strong password and CV structure.
 
@@ -94,7 +94,7 @@ Furthermore, in order to address individual needs of our participants, we decide
 
 In December, we began promoting our one-to-one digital skills sessions as IT Clinic. The clinic was available for our clients on a weekly basis. During the sessions, we had conversations with the participants about their skills and aspirations. Our learning objectives varied from setting up emails to exploring free photo editing tools.  In order to explore the diverse nature of our work, we decided to present several case studies below.
 
-#####Case study 1: Digital Skills for employability
+##### Case study 1: Digital Skills for employability
 
 Among many of our individuals who participated in our IT clinic, was Client 1. The client first visited us in January 2016 and described his digital skills as “poor”. In our initial questionnaire, he pointed out that his digital knowledge is very limited and that he would like to learn about using his email, documents processing and online search in order to improve his chances of getting a suitable employment.
 
@@ -102,28 +102,28 @@ Over the course of 8 weeks, we introduced him the basic computer operations such
 
 Our IT Cafe practitioner noted a huge improvement in  client’s confidence and online problem solving. As a result of our session, the is now able to support other less confident digital users. Furthermore, he is now regularly exchanging emails with the potential employers and  is very keen to use the internet in order to seek employment.  In the final weeks of our sessions, Client 1 successfully found job online and started his work shortly after.
 
-#####Case study 2: Embedding Digital Skills into everyday tasks
+##### Case study 2: Embedding Digital Skills into everyday tasks
 
 Client’s 2 motivation to join the clinic was to improve her already existing basic IT skills. She was very keen to organise her work digitally and to learn how to confidently communicate online. Due to being a carer for her son, she had only limited time to explore the digital world. Our plan for the weekly sessions was to revise client’s email skills and learn Excel.
 
 At first client’s attitude was quite sceptical and she was finding it difficult to  navigate online. However after several 1:1 support sessions, the client gain an interest in digital tools and started exploring them at home as well as at Fife Migrants Forum. Being able to use technology to plan tasks or home budget was a key element of client's 2 work. The client is now effectively using this tools at home and is keen to develop her digital skills further.
 
-#####Case study 3: Digital skills for effective communication
+##### Case study 3: Digital skills for effective communication
 
 Client 3 came to talk to us about his issues with his email in December 2015. Our initial consultation outlined Client’s frustrations and “digital fears”. Client 3 was very sceptical and believed that “ the technology just wasn’t not for him”. During our regular weekly sessions, we slowly worked through emails and guided the client how to navigate in his inbox. Over the weeks, we had noticed a huge progress in client’s skills, within 4 weeks of hourly lessons, he was able to receive and create emails. Furthermore, Client 3 was very interested in using Skype as this would allow him to stay in touch with his friends and relatives in Poland.
 
-#####Case study 4: Digital Training for project volunteers
+##### Case study 4: Digital Training for project volunteers
 
 Our project volunteers were also provided with an additional digital training when supporting the coordination of IT Clinic and our weekly sessions.One of our volunteers, was refered to us by a local employebilty organisatios. The young volunteer was diagnosed with a  mild form of autism and was seeking additional experience to add to his CV. Our digital outreach work was a perfect opportunity for him to gain some extra admin and digital work experience.
 
 The administrative work for the project was all managed and saved online. Dealing with “cloud based” system was a new learning experience for him. During his time at Fife Migrants Forum, he was also able to explore digital marketing and graphic design tools. Our young volunteer designed and proofread our educational materials. In his final evaluation completed, the volunteer highlighted the digital aspects our his work as the most interesting. We believe that our digital training provided the volunteers with a unique, hands on experience.
 
-####Project Evaluation until 24/08/2016
+#### Project Evaluation until 24/08/2016
 
 As a result of the Digital Fund, we were able to organise 30 group workshops and 62 one-to-one sessions.  We had 78 people benefiting from the training. In particular, our IT Clinic provided us with a perfect environment to research and map the digital needs of our clients. Furthermore, having a flexible approach also helped us to adjust our workshops to individual needs of the participants, which had a particularly positive impact on the work we were delivering.
 Below we would like to reflect on some of the key deliveries of our digital work:
 
-#####Adjusting workshops timetable according to participants’ needs
+##### Adjusting workshops timetable according to participants’ needs
 
 **Group sessions**
 We began working with a group format sessions, where we dealt with a larger number of people simultaneously. These workshops were particularly successful when mapping the digital needs of our clients. However, our facilitators had difficulties when addressing everyone’s needs during the sessions, as most of the workshop attendants  required not only IT guidance but also language support. Working on an English version of the software proved to be difficult for some of them. Our volunteers and project facilitator were providing our clients with the support and guidance in order to address these needs, however it was clear that some of the participants would benefit from individual sessions. Although we received a very positive feedback from the sessions, we decided that running one-to-one sessions was the way to go forward.
@@ -148,7 +148,7 @@ Apart from written surveys, we also interviewed our clients both off and on came
 We recruited a seasonal Digital Worker in order coordinate the group workshops and individual session. Additionally we had a significant support from our volunteers, who helped running the sessions as well as providing additional administrative support.
 Due to the nature of our work with the migrants community, it was essential to work with a English/Polish speaking teacher.  Many of our clients have basic to intermediate language skills and being able to explain digital terminology in their native tongue really improves the educational process.  Additionally, many of our participants outlined having the workshop in two languages helped them to not only learn about the technology but also improve their overall communication skills.
 
-#####Outcomes
+##### Outcomes
 
 **Employability**
 As previously mentioned in this report, over 95% of our clients stated that improving their employability skills was a key aspect of their digital education. We noted that our participants were interested in CV creation, using Microsoft Office packages and online job search. We addressed these needs in our group workshops, individual IT and Job Club sessions. Fife Migrants Forum clients significantly benefited from this particular aspect of our digital work.
