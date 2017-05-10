@@ -60,6 +60,8 @@ Project costs include the purchase of ten transformer books (these offer the fun
 
 * Improved mental wellbeing as a result of being better connected to friends and family
 
+![Picture from a graduation ceremony that was organised](images/projects/Digital Dragons.jpg){:.responsive-img}
+
 ### Evaluation
 
 Of the above beneficiaries, 32 completed self-evaluation forms, the results of which are set out below:
