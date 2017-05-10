@@ -60,10 +60,6 @@ Project costs include the purchase of ten transformer books (these offer the fun
 
 * Improved mental wellbeing as a result of being better connected to friends and family<br />
 
-**Picture from a graduation ceremony that was organised**
-
-![Picture from a graduation ceremony that was organised](images/projects/Digital Dragons.jpg){:.responsive-img}
-
 ### Evaluation
 
 Of the above beneficiaries, 32 completed self-evaluation forms, the results of which are set out below:
@@ -80,10 +76,15 @@ Examples of how the learning has been utilised include:
 *	Sourcing of information (in community languages) via websites;
 *	Payment of bills (with support from family members) online; and,
 *	Posting of photos on Facebook.<br />
+
 Participants also commented that attending the classes helped to reduce social isolation as contacts were maintained via the social media groups and that they felt they had more in common with their grandchildren as they were able to share with them what they had learnt.<br />
 One participant commented that it was the first time she had received any form of educational certificate and how proud she felt.
  
 Overall project delivery was delayed due to office relocation which, in turn, led to a number of practical ‘challenges’.  We took an internal decision to provide the training to the Chinese community initially as the greatest level of interest was with this group.  This was borne out by how quickly the places were filled and the waiting list we had to instigate.  However, the lack of a suitably sized training/meeting room in our new offices impacted on the number of classes we had to arrange to meet the target.  The space available within our new premises meant that learning groups had to be smaller than originally anticipated due to space constraints.  A greater number of classes meant that they took longer to organise, deliver and evaluate.
+
+**Picture from a graduation ceremony that was organised**
+
+![Picture from a graduation ceremony that was organised](images/projects/Digital Dragons.jpg){:.responsive-img}
 
 ### Lessons learned
 
