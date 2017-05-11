@@ -94,22 +94,22 @@ Using the GO ON UK Basic Digital Skills Assessment Questions as a baseline and r
 
 **The course outline covered the following topics:**
 
-A. Introduction to the course 
-B. Working with a Windows PC / Android Tablet (starting, set-up, navigate, use, switch off) 
-C. Personal device security and Online Security (user name, pass wording, anti-virus, phishing…) 
-D. Search for Windows / Android apps and install them 
-E. Organizing information: Storage devices, folders and files 
-F. Web browsers and Search Engines 
-G. Google and find information online 
-H. Select and copy / download information from the internet 
-I. Introduction to new contents creation / edit existing content (using Google docs) 
-J. Use Online Storage services – the Cloud 
-K. Communicate via internet (email, Skype) 
-L. Share information locally using Bluetooth connection 
-M. Online registration forms (looking and applying for a job, jobcentre, online shopping…) 
-N. Online banking 
-O. Online shopping and payments (general shopping, eBay, amazon, flights, trains, bus) 
-P. Find online support, check reviews, leave feedback 
+A. Introduction to the course <br />
+B. Working with a Windows PC / Android Tablet (starting, set-up, navigate, use, switch off) <br />
+C. Personal device security and Online Security (user name, pass wording, anti-virus, phishing…) <br />
+D. Search for Windows / Android apps and install them <br />
+E. Organizing information: Storage devices, folders and files <br />
+F. Web browsers and Search Engines <br />
+G. Google and find information online <br />
+H. Select and copy / download information from the internet <br />
+I. Introduction to new contents creation / edit existing content (using Google docs) <br />
+J. Use Online Storage services – the Cloud <br />
+K. Communicate via internet (email, Skype) <br />
+L. Share information locally using Bluetooth connection <br />
+M. Online registration forms (looking and applying for a job, jobcentre, online shopping…) <br />
+N. Online banking <br />
+O. Online shopping and payments (general shopping, eBay, amazon, flights, trains, bus) <br />
+P. Find online support, check reviews, leave feedback <br />
 
 With almost 80% of participants coming from a refugee/Asylum Seeker background and having English as a second language, proved more challenging than expected. We had to spend time explaining basic computer terms and their transference from English into computer terminology such as: Bookmarks, browsing, viruses and apps. Many participants also expressed difficulty using an English Qwerty keyboard as the layout was different from their native language.
 
