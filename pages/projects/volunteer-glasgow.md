@@ -90,6 +90,33 @@ Some Learners exploring new worlds.
 
 ### Evaluation
 
+Using the GO ON UK Basic Digital Skills Assessment Questions as a baseline and repeating at the end of programme, we found that all participants expressed an increase in their skills and knowledge in the 5 basic categories.
+
+**The course outline covered the following topics:**
+
+A. Introduction to the course 
+B. Working with a Windows PC / Android Tablet (starting, set-up, navigate, use, switch off) 
+C. Personal device security and Online Security (user name, pass wording, anti-virus, phishing…) 
+D. Search for Windows / Android apps and install them 
+E. Organizing information: Storage devices, folders and files 
+F. Web browsers and Search Engines 
+G. Google and find information online 
+H. Select and copy / download information from the internet 
+I. Introduction to new contents creation / edit existing content (using Google docs) 
+J. Use Online Storage services – the Cloud 
+K. Communicate via internet (email, Skype) 
+L. Share information locally using Bluetooth connection 
+M. Online registration forms (looking and applying for a job, jobcentre, online shopping…) 
+N. Online banking 
+O. Online shopping and payments (general shopping, eBay, amazon, flights, trains, bus) 
+P. Find online support, check reviews, leave feedback 
+
+With almost 80% of participants coming from a refugee/Asylum Seeker background and having English as a second language, proved more challenging than expected. We had to spend time explaining basic computer terms and their transference from English into computer terminology such as: Bookmarks, browsing, viruses and apps. Many participants also expressed difficulty using an English Qwerty keyboard as the layout was different from their native language.
+
+Other areas where we spent more time than expected was in internet security, file management and cloud storage, as people had little or no knowledge of this.  All learners expressed greater confidence in using the internet, with many saying that it had also improved their general English language skills.
+
+Other barriers we found to this client group was lack of finance, many people expressing lack of money for buses into city centre, causing them to miss classes or not taking up programme and any training in future should build travel expenses into the budget.
+
 ### Lessons learned
 Some language barriers were found to be more difficult than were imagined. Some basic computer terms needed to be explained before we could proceed, eg Bookmark, because learners didn't understand the traditional term, the computer term was new to them.
 Also some learners found it difficult at the beginning to 'swipe' the screen. Perhaps a small piece of time practising this before starting the actual course may have built their confidence more.
