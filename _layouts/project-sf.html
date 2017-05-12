@@ -4,66 +4,51 @@ fa-icon: fa-file-o
 submenu: participation-projects
 ---
 
-{% capture tags %}
-  {% for tag in page.tags %}
-    {{ tag }}
-  {% endfor %}
-{% endcapture %}
-
-{% assign sortedtags = tags | split:' ' | sort %}
-
 <div class="project section grey lighten-2">
     <div class="container-fluid">
         <div class="row">
             <div class="col s12 m9 l9">
-                <h2 class="black-text">{{ page.project-title }}</h2>
-                <h3 class="black-text">{{ page.project-lead }}</h3>
-                <p class="black-text">{{ page.project-excerpt }}</p>
+                <h2 class="black-text" id="project-title"></h2>
+                <h3 class="black-text" id="project-organisation"></h3>
+                <p class="black-text" id="project-organisation-overview"><p>
 
                 <ul class="fa-ul">
                     <li>
                         <i class="fa-li fa fa-calendar"></i>
-                        from: {{ page.start }} to {{ page.end }}
+                        from: <span id="project-date-start"></span> to <span id="project-date-end"></span>
                     </li>
                     <li>
                         <i class="fa-li fa fa-money"></i>
-                        Challenge fund award: £{{ page.award }}{% if page.call == 1 %} from Call 1 (Winter 2014){% elsif page.call == 2 %} from Call 2 (Spring 2015){% elsif page.call == 3 %} from Call 3 (Winter 2015){% endif %}
+                        Challenge fund award: £<span id="project-amount-requested"></span>
                     </li>
                 </ul>
 
-                {% if page.website %}
-                    <a href="{{ page.website }}" target="_blank" class="chip blue darken-4 white-text">
-                        <i class="fa fa-fw fa-link"></i>
-                        Website
-                    </a>
-                {% endif %}
-                {% if page.email %}
-                    <a href="mailto:{{ page.email }}" class="chip blue darken-4 white-text">
-                        <i class="fa fa-fw fa-envelope"></i>
-                        Email
-                    </a>
-                {% endif %}
-                {% if page.twitter-url %}
-                    <a href="{{ page.twitter-url }}" class="chip blue darken-4 white-text">
-                        <i class="fa fa-fw fa-twitter"></i>
-                        Twitter
-                    </a>
-                {% endif %}
-                {% if page.facebook-url %}
-                    <a href="{{ page.facebook-url }}" class="chip blue darken-4 white-text">
-                        <i class="fa fa-fw fa-facebook"></i>
-                        Facebook
-                    </a>
-                {% endif %}
+                <a href="#" id="project-website" target="_blank" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-link"></i>
+                    Website
+                </a>
 
+                <a href="#" id="project-email" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-envelope"></i>
+                    Email
+                </a>
+
+                <a href="#" id="project-twitter-url" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-twitter"></i>
+                    Twitter
+                </a>
+
+                <a href="#" id="project-facebook-url" class="chip blue darken-4 white-text">
+                    <i class="fa fa-fw fa-facebook"></i>
+                    Facebook
+                </a>
             </div>
             <div class="col s12 m3 l3 right-align">
-                {% if page.image %}
-                    <img src="{{ page.image }}" class="responsive-img" />
-                {% endif %}
+                <img src="" id="project-image" class="responsive-img" />
             </div>
         </div>
 
+        <!--
         <div class="divider grey darken-3"></div>
 
         <div class="row">
@@ -79,6 +64,7 @@ submenu: participation-projects
                 </p>
             </div>
         </div>
+        -->
     </div>
 </div>
 
