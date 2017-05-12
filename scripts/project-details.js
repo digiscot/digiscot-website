@@ -29,25 +29,49 @@
     }
 
     function displayProjectInfo(project) {
-        $('#project-title').text(project['project-title']);
-        $('#project-organisation').text(project['organisation']);
-        $('#project-organisation-overview').text(project['organisation-overview']);
-        $('#project-date-start').text(project['date-start']);
-        $('#project-date-end').text(project['date-end']);
-        $('#project-amount-requested').text(project['amount-requested']);
+        var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBD';
+        var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBD';
+        var amount = project['amount_awarded'] || 'TBD'
+
+        $('#project-project_title').text(project['project_title']);
+        $('#project-organisation_name').text(project['organisation_name']);
+        $('#project-organisation_overview').text(project['organisation_overview']);
+        $('#project-project_overview').text(project['project_overview']);
+        $('#project-start_date').text(start);
+        $('#project-end_date').text(end);
+        $('#project-amount_awarded').text(amount);
 
         setAttrOrHide('project-website', 'href', project, 'website');
-        setAttrOrHide('project-email', 'href', project, 'email');
-        setAttrOrHide('project-twitter-url', 'href', project, 'twitter');
-        setAttrOrHide('project-facebook-url', 'href', project, 'facebook');
-        setAttrOrHide('project-image', 'src', project, 'image');
+        setAttrOrHide('project-twitter', 'href', project, 'twitter');
+        setAttrOrHide('project-facebook', 'href', project, 'facebook');
+
+        $('#project-tags').empty();
+        project.individuals_supported.forEach((tag) => {
+            var tagElement = createTag(tag)
+            $('#project-tags').append(tagElement);
+        });
     }
 
     function setAttrOrHide(id, attr, project, field) {
         if (project.hasOwnProperty(field) && project[field]) {
-            $('#' + id).attr({ [attr]: project[field] });
+            $('#' + id).attr({ [attr]: fixUrl(project[field]) });
         } else {
             $('#' + id).hide();
         }
+    }
+
+    function fixUrl(url){
+        if(url.indexOf('http') !== 0){
+            url = 'http://' + url;
+        }
+        return url;
+    }
+
+    function createTag(tag){
+        var chip = $('<a />')
+            .addClass('chip blue darken-4 white-text')
+            .attr('href', 'participation/projects-new/#' + tag)
+            .html('<i class="fa fa-fw fa-tag"></i> ' + tag);
+        return chip;
     }
 }())

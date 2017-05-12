@@ -7,6 +7,7 @@ fa-icon: fa-file-o
 submenu: participation-projects
 scripts:
     - https://cdnjs.cloudflare.com/ajax/libs/elasticsearch/13.0.1/elasticsearch.min.js
+    - https://unpkg.com/moment@2.18.1
     - scripts/project-details.js
 ---
 
@@ -17,71 +18,53 @@ scripts:
     <div class="project section grey lighten-2">
         <div class="container-fluid">
             <div class="row">
-                <div class="col s12 m9 l9">
-                    <h2 class="black-text" id="project-title"></h2>
-                    <h3 class="black-text" id="project-organisation"></h3>
-                    <p class="black-text" id="project-organisation-overview">
-                        <p>
+                <div class="col s12">
+                    <h2 class="black-text" id="project-project_title"></h2>
+                    <h3 class="black-text" id="project-organisation_name"></h3>
+                    <div class="black-text" id="project-organisation_overview"></div>
+                    <ul class="fa-ul">
+                        <li>
+                            <i class="fa-li fa fa-calendar"></i> From: <span id="project-start_date"></span> to
+                            <span id="project-end_date"></span>
+                        </li>
+                        <li>
+                            <i class="fa-li fa fa-money"></i> Amount awarded: £<span id="project-amount_awarded"></span>
+                        </li>
+                    </ul>
 
-                            <ul class="fa-ul">
-                                <li>
-                                    <i class="fa-li fa fa-calendar"></i> from: <span id="project-date-start"></span> to
-                                    <span
-                                        id="project-date-end"></span>
-                                </li>
-                                <li>
-                                    <i class="fa-li fa fa-money"></i> Challenge fund award: £<span id="project-amount-requested"></span>
-                                </li>
-                            </ul>
-
-                            <a href="#" id="project-website" target="_blank" class="chip blue darken-4 white-text">
+                    <a href="#" id="project-website" target="_blank" class="chip blue darken-4 white-text">
                     <i class="fa fa-fw fa-link"></i>
                     Website
                 </a>
 
-                            <a href="#" id="project-email" class="chip blue darken-4 white-text">
-                    <i class="fa fa-fw fa-envelope"></i>
-                    Email
-                </a>
-
-                            <a href="#" id="project-twitter-url" class="chip blue darken-4 white-text">
+                    <a href="#" id="project-twitter" class="chip blue darken-4 white-text">
                     <i class="fa fa-fw fa-twitter"></i>
                     Twitter
                 </a>
 
-                            <a href="#" id="project-facebook-url" class="chip blue darken-4 white-text">
+                    <a href="#" id="project-facebook" class="chip blue darken-4 white-text">
                     <i class="fa fa-fw fa-facebook"></i>
                     Facebook
                 </a>
                 </div>
-                <div class="col s12 m3 l3 right-align">
-                    <img src="" id="project-image" class="responsive-img" />
+            </div>
+
+
+            <div class="divider grey darken-3"></div>
+
+            <div class="row">
+                <div class="col s12">
+                    <p class="right-align">
+                        <strong>Tags:&ensp;</strong>
+                        <span id="project-tags"></span>
+                    </p>
                 </div>
             </div>
 
-            <!--
-        <div class="divider grey darken-3"></div>
-
-        <div class="row">
-            <div class="col s12">
-                <p class="right-align">
-                    <strong>Tags:&ensp;</strong>
-                    {% for tag in sortedtags %}
-                        <a href="participation/projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
-                            <i class="fa fa-fw fa-tag"></i>
-                            {{ tag }}
-                        </a>
-                    {% endfor %}
-                </p>
-            </div>
-        </div>
-        -->
         </div>
     </div>
 
     <div class="section headingless">
-        <div class="container-fluid">
-
-        </div>
+        <div class="container-fluid" id="project-project_overview"></div>
     </div>
 </div>
