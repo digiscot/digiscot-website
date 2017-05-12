@@ -29,17 +29,29 @@
     }
 
     function displayProjectInfo(project) {
-        var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBD';
-        var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBD';
-        var amount = project['amount_awarded'] || 'TBD'
+        var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBC';
+        var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBC';
+        var amount = project['amount_awarded'] || 'TBC';
+        var organisation_overview = project['organisation_overview'] || 'TBC';
+        var project_overview = project['project_overview'] || 'TBC';
+        var project_milestone_1_desc = project['milestone_1_desc'] || 'TBC';
+        var project_milestone_2_desc = project['milestone_2_desc'] || 'TBC';
+        var project_milestone_3_desc = project['milestone_3_desc'] || 'TBC';
+        var project_milestone_4_desc = project['milestone_4_desc'] || 'TBC';
+        var project_project_evaluation = project['project_evaluation'] || 'TBC';
 
         $('#project-project_title').text(project['project_title']);
         $('#project-organisation_name').text(project['organisation_name']);
-        $('#project-organisation_overview').text(project['organisation_overview']);
-        $('#project-project_overview').text(project['project_overview']);
+        $('#project-organisation_overview').text(organisation_overview);
         $('#project-start_date').text(start);
         $('#project-end_date').text(end);
         $('#project-amount_awarded').text(amount);
+        $('#project-project_overview').text(project_overview);
+        $('#project-project_milestone_1').text(project_milestone_1_desc);
+        $('#project-project_milestone_2').text(project_milestone_2_desc);
+        $('#project-project_milestone_3').text(project_milestone_3_desc);
+        $('#project-project_milestone_4').text(project_milestone_4_desc);
+        $('#project-project_evaluation').text(project_project_evaluation);
 
         setAttrOrHide('project-website', 'href', project, 'website');
         setAttrOrHide('project-twitter', 'href', project, 'twitter');

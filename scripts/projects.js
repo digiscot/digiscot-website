@@ -2,7 +2,7 @@
     var tag;
 
     var client = new elasticsearch.Client({
-        host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io:9243',
+        host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io',
         //log: 'trace',
         apiVersion: '2.4'
     });
@@ -76,6 +76,10 @@
             size: 1000
         }
 
+        client.search(payload).then((results) => {
+            $('#projects-total').text(results.hits.total);
+        });
+
         if (!tag && !search) {
             payload.body.query.bool.must.push({ match_all: {} });
         } else {
@@ -101,11 +105,11 @@
                 projectCards.push(projectCard);
             });
 
-            for (var i = 0, j = projectCards.length, chunk = 2; i < j; i += chunk) {
+            for (var i = 0, j = projectCards.length, chunk = 3; i < j; i += chunk) {
                 var temp = projectCards.slice(i, i + chunk);
                 var row = $('<div />').addClass('row equal');
                 temp.forEach((cell) => {
-                    cell.addClass('col s12 m' + (12/chunk));
+                    cell.addClass('col s12 m' + (18/chunk) + ' l' + (12/chunk));
                     row.append(cell);
                 });
                 $('#projects-results').append(row);
@@ -121,7 +125,7 @@
         var content = $('<div />').addClass('card-content').appendTo(card);
         var organisation = $('<a />')
             .addClass('card-title')
-            .attr('href', 'participation/view-project/#' + project.Id)
+            .attr('href', 'participation/project/#' + project.Id)
             .text(project.organisation_name)
             .appendTo(content);
         var title = $('<p />').appendTo(content);
