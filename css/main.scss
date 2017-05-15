@@ -321,10 +321,7 @@ nav#tag-header{
         display: inline-block !important;
     }
     .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
-        margin-right: auto;
-    }
-
-    .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+        margin-right: 5px;
         color: $brand-color;
         font-weight: bold;
     }

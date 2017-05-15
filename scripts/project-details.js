@@ -31,7 +31,7 @@
     function displayProjectInfo(project) {
         var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBC';
         var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBC';
-        var amount = project['amount_awarded'] || 'TBC';
+        var amount = '£' + project['amount_awarded'] || 'TBC';
         var organisation_overview = project['organisation_overview'] || 'TBC';
         var project_overview = project['project_overview'] || 'TBC';
         var project_milestone_1_desc = project['milestone_1_desc'] || 'TBC';
