@@ -17,12 +17,12 @@
     }
 
     function getProject(projectId) {
-        client.get({ index: 'funded-projects', type: 'project', id: projectId }).then((result) => {
+        client.get({ index: 'funded-projects', type: 'project', id: projectId }).then(function(result){
             var project = result._source;
             displayProjectInfo(project);
             $('#project-container').show();
             $('#project-loading').hide();
-        }).catch((err) => {
+        }).catch(function(err){
             console.error('ES Query Error:', err);
             window.location.href = '/404';
         });
@@ -58,7 +58,7 @@
         setAttrOrHide('project-facebook', 'href', project, 'facebook');
 
         $('#project-tags').empty();
-        project.individuals_supported.forEach((tag) => {
+        project.individuals_supported.forEach(function(tag){
             var tagElement = createTag(tag)
             $('#project-tags').append(tagElement);
         });

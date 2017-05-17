@@ -15,7 +15,7 @@
     var searchDelay = null;
     function delaySearch(){
         window.clearTimeout(searchDelay);
-        searchDelay = window.setTimeout(() => {
+        searchDelay = window.setTimeout(function(){
             doSearch();
         }, 1000);
     }
@@ -51,12 +51,12 @@
             }
         }
 
-        client.search(payload).then((results) => {
+        client.search(payload).then(function(results){
             var any = $('<option />').attr('value', '').text('Any tag (' + results.hits.total + ')');
             $('#projects-tags').append(any);
 
             var buckets = results.aggregations.tags.buckets;
-            buckets.forEach((bucket) => {
+            buckets.forEach(function(bucket){
                 var tagName = bucket.key;
                 var text = tagName + ' (' + bucket.doc_count + ')';
                 var option = $('<option />').attr('value', tagName).text(text);
@@ -76,7 +76,7 @@
             size: 1000
         }
 
-        client.search(payload).then((results) => {
+        client.search(payload).then(function(results){
             $('#projects-total').text(results.hits.total);
         });
 
@@ -91,7 +91,7 @@
             }
         }
 
-        client.search(payload).then((results) => {
+        client.search(payload).then(function(results){
             var hits = results.hits;
             $('#projects-container').show();
             $('#projects-loading').hide();
@@ -99,7 +99,7 @@
             $('#projects-results').empty();
 
             var projectCards = [];
-            hits.hits.forEach((hit) => {
+            hits.hits.forEach(function(hit){
                 var project = hit._source;
                 var projectCard = createProject(project);
                 projectCards.push(projectCard);
@@ -108,13 +108,13 @@
             for (var i = 0, j = projectCards.length, chunk = 3; i < j; i += chunk) {
                 var temp = projectCards.slice(i, i + chunk);
                 var row = $('<div />').addClass('row equal');
-                temp.forEach((cell) => {
+                temp.forEach(function(cell){
                     cell.addClass('col s12 m' + (18/chunk) + ' l' + (12/chunk));
                     row.append(cell);
                 });
                 $('#projects-results').append(row);
             }
-        }).catch((err) => {
+        }).catch(function(err){
             console.error('ES Query Error:', err);
         });
     }
@@ -133,7 +133,7 @@
         var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
         var actions = $('<div />').addClass('card-action').appendTo(card);
 
-        project.individuals_supported.forEach((tag) => {
+        project.individuals_supported.forEach(function(tag){
             actions.append(createTag(tag));
         });
 
@@ -146,7 +146,7 @@
             .addClass('chip ' + colours)
             .attr('href', 'participation/projects-new/#' + tagLabel)
             .html('<i class="fa fa-fw fa-tag"></i> ' + tagLabel)
-            .on('click', () => { $.scrollTo('#projects-filters') });
+            .on('click', function(){ $.scrollTo('#projects-filters') });
         return chip;
     }
 }())
