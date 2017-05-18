@@ -55,7 +55,7 @@ participation-projects:
     parent: true
   - title: Projects
     path: participation/projects/
-    parent: true
+  #   parent: true
   # - title: Project Tags
   #   path: participation/projects/tags/
   # - title: Projects Map

@@ -33,8 +33,13 @@
         var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBC';
         // if (project['amount_awarded'] == null) project['amount_awarded'] = '';
         // var amount_awarded = '£' + project['amount_awarded'] || 'TBC';
-        if (project['amount_requested'] == null) project['amount_requested'] = '';
-        var amount_requested = '£' + project['amount_requested'] || 'TBC';
+        
+        if (project['amount_requested'] == null) project['amount_requested'] = 0;
+        if (project['amount_requested'] == '')
+            var amount_requested = 'TBC';
+        else
+            var amount_requested = '£' + project['amount_requested'];
+
         var organisation_overview = project['organisation_overview'] || 'TBC';
         var project_overview = project['project_overview'] || 'TBC';
         var project_milestone_1_desc = project['milestone_1_desc'] || 'TBC';
