@@ -2,7 +2,7 @@
 layout: markdown
 title: How to update your project page
 excerpt: A simple guide on what you need to do to make changes to your page
-permalink: /participation/projects/editing-your-project/
+permalink: /participation/projects-archive/editing-your-project/
 fa-icon: fa-info-circle
 submenu: participation-projects
 ---
@@ -186,7 +186,7 @@ If you want to see a complete guide to what is possible using the kramdown varia
 
 #### Embedding Tweets
 
-See [this article about embedding a tweet on your website](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog). 
+See [this article about embedding a tweet on your website](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog).
 
 Here's an example of an embedded tweet:
 

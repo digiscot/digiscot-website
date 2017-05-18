@@ -5,8 +5,10 @@ excerpt: We're supporting some fantastic digital participation projects. Here ar
 permalink: /participation/projects/
 fa-icon: fa-list
 submenu: participation-projects
-redirect_from:
-  - /projects/
+scripts:
+    - https://cdnjs.cloudflare.com/ajax/libs/elasticsearch/13.0.1/elasticsearch.min.js
+    - https://unpkg.com/string@3.3.3
+    - scripts/projects.js
 ---
 
 <div class="section">
@@ -17,14 +19,13 @@ redirect_from:
             financial support from our
             <a href="/participation/challenge-fund/">challenge fund</a>, whilst
             others are receiving in-kind support from organisations that have
-            signed our <a href="http://charter.scvo.org.uk/">digital participation charter</a>.
+            signed our <a href="http://digitalparticipation.scot/">digital participation charter</a>.
             Each of them has a page on this site to tell their story in their
             own words.
         </p>
 
         <p>
-            You can also <a href="/participation/projects/tags/">explore the projects by tag</a>
-            or <a href="/participation/projects/tags/#call1">by date funded</a>, or
+            You can also
             <a href="/participation/projects/map/">see an interactive map</a> of where things
             are happening.
         </p>
@@ -33,108 +34,48 @@ redirect_from:
 
 <div class="divider"></div>
 
-<div class="section" id="projects">
+<div class="section" id="projects-filters">
     <div class="container-fluid flow-text">
-        {% assign count = 0 %}
-        {% assign awarded = 0 %}
-
-        {% for page in site.pages %}
-        {% if page.layout == 'project' %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
-            {% capture awarded %}{{ awarded | plus: page.award }}{% endcapture %}
-        {% endif %}
-        {% endfor %}
-
         <h2>
             Our projects |
-            <small>{{ count }} projects have received support</small>
+            <small><span id="projects-total"></span> projects have received support</small>
         </h2>
 
-        <div class="project-cards" data-columns>
-            {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
-            {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
-
-            {% assign idx = 0 %}
-
-                {% for page in site.pages %}
-                    {% if page.layout == 'project' %}
-                        <div class="card hoverable">
-                            <div class="card-content">
-                            {% capture tags %}
-                                {% for tag in page.tags %}
-                                {{ tag }}
-                                {% endfor %}
-                            {% endcapture %}
-
-                            {% assign sortedtags = tags | split:' ' | sort %}
-
-                                <a href="{{ page.url }}" class="card-title">{{ page.project-lead }}</a>
-                                <p><strong>{{ page.project-title }}</strong></p>
-                                <p>{{ page.project-excerpt }}</p>
-
-                                {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
-                            </div>
-                            <div class="card-action">
-                                {% if page.call == 1 %}
-                                    <a href="/participation/projects/tags/#call1" class="chip blue darken-4 white-text">
-                                        <i class="fa fa-fw fa-calendar"></i>
-                                        Winter 2014
-                                    </a>
-                                {% elsif page.call == 2 %}
-                                    <a href="/participation/projects/tags/#call2" class="chip blue darken-4 white-text">
-                                        <i class="fa fa-fw fa-calendar"></i>
-                                        Spring 2015
-                                    </a>
-                                {% elsif page.call == 3 %}
-                                    <a href="/participation/projects/tags/#call3" class="chip blue darken-4 white-text">
-                                        <i class="fa fa-fw fa-calendar"></i>
-                                        Winter 2015
-                                    </a>
-                                {% endif %}
-                                {% for tag in sortedtags %}
-                                    <a href="/participation/projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
-                                        <i class="fa fa-fw fa-tag"></i>
-                                        {{ tag }}
-                                    </a>
-                                {% endfor %}
-                            </div>
+        <div class="card">
+            <div class="card-content">
+                <p class="card-title">Filter projects</p>
+                <div class="row">
+                    <div class="col s12 m8">
+                        <label></label>
+                        <div class="input-field">
+                            <input type="text" id="projects-search">
+                            <label for="projects-search">Projects Search Query</label>
                         </div>
-                    {% endif %}
-                {% endfor %}
+                    </div>
+                    <div class="col s12 m4">
+                        <label for="projects-tags">Tags:</label>
+                        <div class="input-field">
+                            <select class="browser-default" id="projects-tags"></select>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="clearfix"></div>
-
-<div class="divider"></div>
-
-<div class="section">
-    <div class="container-fluid">
-        {% capture tags %}
-            {% for page in site.pages %}
-            {% for tag in page.tags %}
-                {{ tag }}
-            {% endfor %}
-            {% endfor %}
-        {% endcapture %}
-
-        {% assign array = tags | split:' ' %}
-
-        {% assign tags = array[1] %}
-
-        {% for item in array %}
-            {% unless tags contains item %}
-                {% capture tags %}{{ tags }}|{{ item }}{% endcapture %}
-            {% endunless %}
-        {% endfor %}
-
-        {% assign sortedtags = tags | split:'|' | sort %}
-
-        <a href="/participation/projects/tags/">Tags:</a>
-        {% for tag in sortedtags %}
-            <a href="/participation/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a>
-        {% endfor %}
+<div class="section" id="projects-loading">
+    <div class="container-fluid flow-text">
+        Loading...
+    </div>
+</div>
+<div id="projects-container">
+    <div class="project section">
+        <div class="container-fluid">
+            <p>
+                <strong>Total results: </strong><span id="projects-count"></span>
+            </p>
+            <div id="projects-results"></div>
+        </div>
     </div>
 </div>
