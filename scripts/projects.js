@@ -72,7 +72,14 @@
         var payload = {
             index: 'funded-projects',
             type: 'project',
-            body: { query: { bool: { must: [] } } },
+            body: {
+                query: {
+                    bool: {
+                        must: []
+                    }
+                },
+                sort: 'organisation_name'
+            },
             size: 1000
         }
 
