@@ -31,7 +31,10 @@
     function displayProjectInfo(project) {
         var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBC';
         var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBC';
-        var amount = '£' + project['amount_awarded'] || 'TBC';
+        if (project['amount_awarded'] == null) project['amount_awarded'] = '';
+        var amount_awarded = '£' + project['amount_awarded'] || 'TBC';
+        if (project['amount_requested'] == null) project['amount_requested'] = '';
+        var amount_requested = '£' + project['amount_requested'] || 'TBC';
         var organisation_overview = project['organisation_overview'] || 'TBC';
         var project_overview = project['project_overview'] || 'TBC';
         var project_milestone_1_desc = project['milestone_1_desc'] || 'TBC';
@@ -45,7 +48,8 @@
         $('#project-organisation_overview').text(organisation_overview);
         $('#project-start_date').text(start);
         $('#project-end_date').text(end);
-        $('#project-amount_awarded').text(amount);
+        $('#project-amount_awarded').text(amount_awarded);
+        // $('#project-amount_requested').text(amount_requested);
         $('#project-project_overview').text(project_overview);
         $('#project-project_milestone_1').text(project_milestone_1_desc);
         $('#project-project_milestone_2').text(project_milestone_2_desc);
@@ -66,13 +70,13 @@
 
     function setAttrOrHide(id, attr, project, field) {
         if (project.hasOwnProperty(field) && project[field])
-            $('#' + id).attr(fixUrl(project[field]));
+            $('#' + id).attr(attr, fixUrl(project[field]));
         else
             $('#' + id).hide();
     }
 
-    function fixUrl(url){
-        if(url.indexOf('http') !== 0){
+    function fixUrl(url) {
+        if (url.indexOf('http') !== 0){
             url = 'http://' + url;
         }
         return url;
