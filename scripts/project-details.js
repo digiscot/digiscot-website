@@ -65,11 +65,10 @@
     }
 
     function setAttrOrHide(id, attr, project, field) {
-        if (project.hasOwnProperty(field) && project[field]) {
+        if (project.hasOwnProperty(field) && project[field])
             $('#' + id).attr(fixUrl(project[field]));
-        } else {
+        else
             $('#' + id).hide();
-        }
     }
 
     function fixUrl(url){
