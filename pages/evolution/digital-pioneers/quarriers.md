@@ -17,7 +17,9 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from the North East of Scotland Team of Quarriers about how they’re using digital to provide improved service delivery across their remote and rural area and how their staff and clients played a key role in shaping their service delivery through digital.
 
-### Tell us about iConnect North East!
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswebsiteheader.jpg){:height="222px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersbuilding.jpg){:height="222px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersgroupimage.jpg){:height="222px" width="400px"}
+
+### Tell us about Quarriers!
 
 Quarriers provide practical care and support for vulnerable children, adults and families facing extremely challenging circumstances. We challenge poverty and inequality of opportunity to bring about positive changes in people’s lives.
 
@@ -48,6 +50,8 @@ We’ve been using Skype for Business for a number of months now and our trainin
 ### Who was involved?
 
 This was a collaborative effort by all at Quarriers, including carers and staff helping to identify needs and taking part in training, the IT department ensuring we had the correct technical support and developing an appropriate training programme, and our CEO and Board showing digital leadership and approving the significant investment of resources required, in recognition of the resulting value in terms of service delivery. We all played a role!
+
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersknitting.jpg){:height="222px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierschatting.jpg){:height="222px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswheelchair.jpg){:height="222px" width="400px"}
 
 ### What’s been the impact?
 
