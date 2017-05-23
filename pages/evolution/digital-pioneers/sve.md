@@ -31,11 +31,11 @@ We have recently undertaken several changes but two I will focus on are and the 
 
 ### What motivated you?
 
-In 2015 SVE welcomed a new CEO, Natalie Masterson. I would say that Natalie was instrumental in encouraging and motivating the team to make digital change. Natalie came to us from an organisation that used digital and social media regularly, so not only was she a motivation but also a source of great support and knowledge.
+In 2015 SVE welcomed a new CEO, <a target='_blank' href="https://uk.linkedin.com/in/natalie-masterson-5335b878">Natalie Masterson</a>. I would say that Natalie was instrumental in encouraging and motivating the team to make digital change. Natalie came to us from an organisation that used digital and social media regularly, so not only was she a motivation but also a source of great support and knowledge.
 
 ### How did you go about it?
 
-We started by identifying what we hoped to achieve. Our use of Slack came about because although we’re a small team, we have a lot of flexible working and home working so it could be difficult to know who was doing what. It’s also a means of sharing work and collaborating on projects from separate locations.
+We started by identifying what we hoped to achieve. Our use of <a target='_blank' href="https://slack.com/">Slack</a> came about because although we’re a small team, we have a lot of flexible working and home working so it could be difficult to know who was doing what. It’s also a means of sharing work and collaborating on projects from separate locations.
 
 We also knew from previous feedback that there is still a lack of knowledge regarding what TSI’s do in the local area. We wanted to use social media more effectively to market ourselves and engage with our local stakeholders.
 
@@ -47,7 +47,7 @@ Our CEO has been instrumental in driving forward digital change within the organ
 
 ### What’s been the impact?
 
-With the use of social media we have reached much more services users. In the last three months we have gained 100 more followers on Twitter and have engaged with many new organisations. Through using Slack in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
+With the use of social media we have reached much more services users. In the last three months we have gained 100 more followers on <a target='_blank' href="https://twitter.com">Twitter</a> and have engaged with many new organisations. Through using <a target='_blank' href="https://slack.com/">Slack</a> in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
 
 It is hard to quantify figures but I would say that the recent changes made will have impacted around 200 people. In the last month we have had 535 profile visits on Twitter and 21,000 impressions, so the impact can be very wide.
 
@@ -69,11 +69,11 @@ We are going to focus more on widening our social media platforms and which will
 
 ### What’s digitally inspiring you at the moment?
 
-Joseph Rowntree Foundation for their ethos of encouraging all staff to get behind their Social Media, ‘Organisations don’t tweet, people do.’
+<a target='_blank' href="https://www.jrf.org.uk/">Joseph Rowntree Foundation</a> for their ethos of encouraging all staff to get behind their Social Media, ‘Organisations don’t tweet, people do.’
 
 -----
 
-Thanks to SVE team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
+Thanks to SVE team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using ### #digitisation.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
 
