@@ -20,7 +20,7 @@ Let’s hear from the Mhor Collective on how digital is helping them to collabor
 
 ### Tell us about Mhor Collective!
 
-Mhor Collective is a relatively new community interest company, specialising in digital inclusion, digital skills training and support. The team used to be part of national charity Citizens Online, but the funding landscape changed and so the Collective was born - just like an actual phoenix. While new in terms of our legal status, we’re older and wiser in experience as we’ve all worked in the field for several years, and we believe we know our stuff. We’re a scattered team based up in the Highlands - working from a range of gorgeous locations.
+Mhor Collective is a relatively new community interest company, specialising in digital inclusion, digital skills training and support. The team used to be part of national charity <a target='_blank' href="http://www.citizensonline.org.uk/">Citizens Online</a>, but the funding landscape changed and so the Collective was born - just like an actual phoenix. While new in terms of our legal status, we’re older and wiser in experience as we’ve all worked in the field for several years, and we believe we know our stuff. We’re a scattered team based up in the Highlands - working from a range of gorgeous locations.
 
 We work at various different levels – sometimes we provide frontline staff with digital inclusion training for their own specific client groups and digital challenges, sometimes we provide digital skills training and support for staff themselves to gain digital confidence which can then allow them to further support others as digital champions; and finally, we often provide community based learning opportunities for individuals needing a wee bit of extra support with their digital skills.
 
@@ -64,7 +64,7 @@ Despite the distance, digital pulls us closer together. There’s a huge element
 
 ### Any challenges?
 
-Our key challenge seems to be using the Google suite to its full potential - many of the applications leave us wondering how to use them properly. We muddle through with our google files, gmail and with hangouts but it’s a bit like building flat pack furniture without reading the instructions. You kind of get there in the end, but somehow you’re not quite sure how you did!
+Our key challenge seems to be using the <a target='_blank' href="https://www.google.com/nonprofits/">Google Suite</a> to its full potential - many of the applications leave us wondering how to use them properly. We muddle through with our google files, gmail and with hangouts but it’s a bit like building flat pack furniture without reading the instructions. You kind of get there in the end, but somehow you’re not quite sure how you did!
 
 We’re still overcoming Google issues – learning by doing is always our motto. That, and asking folk who have it covered for advice and pointers.
 
