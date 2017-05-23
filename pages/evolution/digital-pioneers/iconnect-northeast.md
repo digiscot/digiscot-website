@@ -17,6 +17,8 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from the iConnect North East Team about how they’re using digital to achieve their goals, in particular using Facebook Campaigns to promote Self-Directed Support opportunities and measuring their impact with Google Analytics.
 
+![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEworkshop.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEwebsiteheader.png){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/ICNEmeetupimage.jpg){:height="222px" width="400px"}
+
 ### Tell us about iConnect North East!
 
 iConnect are a local North East of Scotland charity based in Aberdeen, offering two core services: (a) helping people with their Self-Directed Support and (b) supporting people develop Life Skills. To this end, we provide free independent advice, information and practical support to all client groups, no matter their age, disability group or culture.  
@@ -52,6 +54,8 @@ For example, we ran a recent Facebook Campaign to recruit Personal Care Assistan
 ### Who was involved?
 
 As with all our work at iConnect North East it’s a Team effort.  With a mix of marketing, social media service delivery and website know how, we’ve used Facebook campaigns as an effective part of our marketing communication strategy.
+
+![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEfacebookcampaign1.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNESDS.jpgg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEfacebookcampaign2.jpg){:height="222px" width="400px"}
 
 ### What’s been the impact?
 
