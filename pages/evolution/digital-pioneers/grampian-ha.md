@@ -77,14 +77,13 @@ My broader vision is to:
 
 ### What’s digitally inspiring you at the moment?
 
-As mentioned earlier, East Lothian Housing Association is at the cutting edge, and you can also learn from what the private sector is doing with online services e.g. online banking. This is an example of a service that genuinely makes life easier and allows you to do things when you want to, 24/7. 
+As mentioned earlier, <a target='_blank' href="https://www.elha.com/">East Lothian Housing Association </a> is at the cutting edge, and you can also learn from what the private sector is doing with online services e.g. online banking. This is an example of a service that genuinely makes life easier and allows you to do things when you want to, 24/7. 
 
-In a different part of the third sector, social care, I’m inspired by national provider Cornerstone. They are adopting the Buurtzorg model, creating a flat, semi-autonomous, hub and team structure. I would love to do this, it opens up the possibility of improving wages for some, providing more flexible working and allowing people to retrain and develop their skills. IT underpins this model and I urge people to have a look. As an organisation we are 40 years old and as result very hierarchical - this was before the real age of computers so I expect much change to come. 
-
+In a different part of the third sector, social care, I’m inspired by national provider <a target='_blank' href="https://www.cornerstone.org.uk/">Cornerstone</a> . They are adopting the Buurtzorg model, creating a flat, semi-autonomous, hub and team structure. I would love to do this, it opens up the possibility of improving wages for some, providing more flexible working and allowing people to retrain and develop their skills. IT underpins this model and I urge people to have a look. As an organisation we are 40 years old and as result very hierarchical - this was before the real age of computers so I expect much change to come. 
 
 -----
 
-Thanks to Neil at Grampian Housing Association for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
+Thanks to Neil at Grampian Housing Association for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using #digitisation.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
 
