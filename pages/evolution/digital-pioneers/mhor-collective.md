@@ -58,7 +58,7 @@ We’re a collective, so the embracing of change was a whole group thing. This e
 
 ### What’s been the impact?
 
-Our digital changes have obviously impacted on us as a Collective, but because we’re in the business of sharing, we have already encouraged a fair few organisations to have a go with new tools. Lairg Learning Centre has started on Trello, the Highland Adult Learning Partnership has a Slack team, and we’ve spoken to a few organisations about appear.in for contact with remote clients as it has a lovely, clear and easy to use interface.
+Our digital changes have obviously impacted on us as a Collective, but because we’re in the business of sharing, we have already encouraged a fair few organisations to have a go with new tools. <a target='_blank' href="http://www.lairglearningcentre.org.uk/">Lairg Learning Centre</a> has started on <a target='_blank' href="https://trello.com/">Trello</a>, the <a target='_blank' href="https://www.highlifehighland.com/adult-learning/">Highland Adult Learning Partnership</a> has a <a target='_blank' href="https://slack.com/">Slack</a> team, and we’ve spoken to a few organisations about <a target='_blank' href="https://appear.in/">appear.in</a> for contact with remote clients as it has a lovely, clear and easy to use interface.
 
 Despite the distance, digital pulls us closer together. There’s a huge element of social and informal discussion that goes on in our slack channels, which is incredibly important to us as a team. We used to have Friday Gin and Tonics via Google Hangouts – it’s time to reintroduce this!
 
@@ -70,7 +70,7 @@ We’re still overcoming Google issues – learning by doing is always our motto
 
 ### Any advice?
 
-Why on earth haven’t you used Slack yet?
+Why on earth haven’t you used <a target='_blank' href="https://slack.com/">Slack</a> yet?
 
 ### What’s on your digital horizon?
 
@@ -78,12 +78,12 @@ Our plan is to keep evolving digitally – we absolutely love digital change. So
 
 ### What’s digitally inspiring you at the moment?
 
-We’re currently part of an all round inspiring WhatsApp group - headed up by the ever awesome Ross McCulloch of Be Good, Be Social. Every day a new and amazing thing appears on there for us to try.
+We’re currently part of an all round inspiring <a target='_blank' href="https://www.whatsapp.com//">Whatsapp</a> group - headed up by the ever awesome Ross McCulloch of <a target='_blank' href="http://rossmcculloch.com/tag/begoodbesocial/">Be Good, Be Social</a>. Every day a new and amazing thing appears on there for us to try.
 
-Last week’s highlights include: <a target='_blank' href="https://www.mentimeter.com/">Mentimeter</a>, <a target='_blank' href="https://getkahoot.com/">Kahoot</a> and <a target='_blank' href="https://sidewaysdictionary.com/#/">Sideways dictionary</a>
+Recent highlights include: <a target='_blank' href="https://www.mentimeter.com/">Mentimeter</a>, <a target='_blank' href="https://getkahoot.com/">Kahoot</a> and <a target='_blank' href="https://sidewaysdictionary.com/#/">Sideways dictionary</a>
 
 -----
 
-Thanks to Mhor Collective for sharing how they’re using digital in the third sector. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
+Thanks to Mhor Collective for sharing how they’re using digital in the third sector. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using #digitisation.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
