@@ -19,7 +19,7 @@ to find out what’s going on digitally in the third sector and to share it with
 Let’s hear from the Euan’s Guide Team about how they’re using digital to achieve their goals, in
 particular creating fun reviewer engagement by introducing a gamification element to their reviews.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="300px" width="400px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"}{:.responsive-img} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="300px" width="400px"}{:.responsive-img} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="300px" width="400px"}{:.responsive-img}
 
 ### Tell us about Euan’s Guide!
 
@@ -92,7 +92,7 @@ feedback and input, some of whom helped to test the new features before release!
 everything was agreed upon, we worked with our web developer team and badge designers to turn
 the ideas into reality.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="300px" width="400px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="300px" width="400px"}{:.responsive-img} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="300px" width="400px"}{:.responsive-img} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="300px" width="400px"}{:.responsive-img}
 
 ### What’s been the impact?
 
