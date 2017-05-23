@@ -19,7 +19,7 @@ to find out what’s going on digitally in the third sector and to share it with
 Let’s hear from the Euan’s Guide Team about how they’re using digital to achieve their goals, in
 particular creating fun reviewer engagement by introducing a gamification element to their reviews.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="222px" width="400px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="222px" width="400px"}
 
 ### Tell us about Euan’s Guide!
 
@@ -99,6 +99,8 @@ has made the activity more fun and engaging.
 We saw a spike in traffic to our website from social media around the time of the launch. The new
 badges are colourful and vibrant, so they performed well on Facebook and Twitter as people began
 customising their new profiles.
+
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="222px" width="400px"}
 
 ### Any challenges?
 
