@@ -17,7 +17,7 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from the North East of Scotland Team of Quarriers about how they’re using digital to provide improved service delivery across their remote and rural area and how their staff and clients played a key role in shaping their service delivery through digital.
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswebsiteheader.jpg){:height="150px" width="1000px"}{:.responsive-img} 
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswebsiteheader.jpg){:height="150px" width="1000px"} 
 
 ### Tell us about Quarriers!
 
@@ -51,7 +51,7 @@ We’ve been using <a target='_blank' href="https://www.skype.com/en/business/sk
 
 This was a collaborative effort by all at Quarriers, including carers and staff helping to identify needs and taking part in training, the IT department ensuring we had the correct technical support and developing an appropriate training programme, and our CEO and Board showing digital leadership and approving the significant investment of resources required, in recognition of the resulting value in terms of service delivery. We all played a role!
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"}{:.responsive-img} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"}{:.responsive-img} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}{:.responsive-img}
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
