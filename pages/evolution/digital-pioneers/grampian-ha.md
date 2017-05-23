@@ -17,7 +17,7 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from Grampian Housing Association Chief Executive, Neil Clapperton on how he and the organisation are internally embracing the latest in digital to the benefit of their staff, housing and tenants.
 
-![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}
+![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHANeilClapperton.jpg){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}
 
 ### Tell us about Grampian Housing Association!
 
