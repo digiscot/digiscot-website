@@ -27,7 +27,7 @@ Stirlingshire Voluntary Enterprise (SVE) is Stirling’s local third sector inte
 
 While SVE has always used digital technologies to deliver our work, it’s perhaps only within the last 18 months that more of an emphasis has been placed on digital capabilities in response to our stakeholders and strategic aims. SVE’s social media platform is growing and developing and is now seen as an effective way for us to report third sector news, promote volunteering opportunities and engage with our partners and stakeholders. We have also looked at ways to improve internal communication as a small, busy team. 
 
-We have recently undertaken several changes but two I will focus on are and the use of <a target='_blank' href="https://slack.com/">Slack</a> as a communication tool and a focus on social media, in particular <a target='_blank' href="https://twitter.com">Twitter/</a> to market our organisation and engage with our stakeholders.
+We have recently undertaken several changes but two I will focus on are and the use of <a target='_blank' href="https://slack.com/">Slack</a> as a communication tool and a focus on social media, in particular <a target='_blank' href="https://twitter.com">Twitter</a> to market our organisation and engage with our stakeholders.
 
 ### What motivated you?
 
