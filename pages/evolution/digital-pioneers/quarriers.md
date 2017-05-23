@@ -17,7 +17,7 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from the North East of Scotland Team of Quarriers about how they’re using digital to provide improved service delivery across their remote and rural area and how their staff and clients played a key role in shaping their service delivery through digital.
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswebsiteheader.jpg){:height="150px" width="800px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersgroupimage.jpg){:height="150px" width="400px"}
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswebsiteheader.jpg){:height="150px" width="1000px"} 
 
 ### Tell us about Quarriers!
 
