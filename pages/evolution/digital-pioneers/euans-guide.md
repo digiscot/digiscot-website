@@ -39,15 +39,17 @@ Ratings are awarded for accessibility, and people can rate (out of five) how the
 elements of their visit, including parking, toilets, staff and overall disabled access.
 
 We also use social media platforms and email marketing to spread the word about disabled access
-reviews and to inspire people to get involved. Twitter and Facebook are our two biggest platforms
-where we like to engage with audiences, share reviews and content.
+reviews and to inspire people to get involved.  <a target='_blank' href="https://twitter.com">Twitter</a>
+and <a target='_blank' href="https://en-gb.facebook.com/">Facebook</a> are our two biggest platforms where
+we like to engage with audiences, share reviews and content.
 
 Behind the scenes, we have a range of tools that help us as a charity to achieve our work. We like to
-use apps such as Slack to communicate internally, and content management tools such as Asana
-which have been incredibly useful for planning. Both of these apps are colourful and fun to use!
+use apps such as <a target='_blank' href="https://slack.com/">Slack</a> to communicate internally, 
+and content management tools such as <a target='_blank' href="https://asana.com/">Asana</a> which 
+have been incredibly useful for planning. Both of these apps are colourful and fun to use!
 
-Another fantastic app we use is called Toggl, and this helps us to plan projects by tracking how long
-we spend on event-planning, website testing and more.
+Another fantastic app we use is called <a target='_blank' href="https://toggl.com/">Toggl</a>, and 
+this helps us to plan projects by tracking how long we spend on event-planning, website testing and more.
 
 ### Tell us about a recent digital change you’ve made.
 
@@ -99,8 +101,8 @@ with how we inspire people to review. The release has added a new dimension to r
 has made the activity more fun and engaging.
 
 We saw a spike in traffic to our website from social media around the time of the launch. The new
-badges are colourful and vibrant, so they performed well on Facebook and Twitter as people began
-customising their new profiles.
+badges are colourful and vibrant, so they performed well on <a target='_blank' href="https://en-gb.facebook.com/">Facebook</a>
+and <a target='_blank' href="https://twitter.com">Twitter</a> as people began customising their new profiles.
 
 ### Any challenges?
 
@@ -135,7 +137,7 @@ of our digital growth (including designing our badges!).
 
 -----
 
-Thanks to the Euan’s Guide Team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
+Thanks to the Euan’s Guide Team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using #digitisation.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
 
