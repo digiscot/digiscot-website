@@ -43,6 +43,8 @@ Developing and implementing our vision has been ongoing from the beginning of 20
 
 You could say everyone in our organisation, but it is important to have champions.  We recruited a new Director of Housing & Property Services, Angela who has been key in effecting this change. Some very focused  managers in finance, corporate services, housing and property  played a role.  One transforming moment was the recruitment of a business analyst, because a proper redesign of processes and services should be at the heart of this.
 
+![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAdoorstep.jpg){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image2.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAmobileworking.JPG){:height="222px" width="400px"}
+
 ### What’s been the impact?
 
 The benefits from the changes we’ve implemented won't fully be felt for a couple of years and are incremental. These will be seen, experienced and felt team by team as we work at each particular service. 70% of our staff are in frontline operations and some won’t benefit just yet but the back office teams are largely there. It will free up staff time, resources and change some job roles – not involving redundancy but just switching responsibilities around and making the most of valuable staff time. 
