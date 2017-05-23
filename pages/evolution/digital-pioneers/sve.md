@@ -49,7 +49,7 @@ Our CEO has been instrumental in driving forward digital change within the organ
 
 With the use of social media we have reached much more services users. In the last three months we have gained 100 more followers on Twitter and have engaged with many new organisations. Through using Slack in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
 
-It is hard to quantify figures but I would say that the recent changes made will have impacted around 200 people. In the last month we have had 535 profile visits on Twitter and 21, 000 impressions, so the impact can be very wide.
+It is hard to quantify figures but I would say that the recent changes made will have impacted around 200 people. In the last month we have had 535 profile visits on Twitter and 21,000 impressions, so the impact can be very wide.
 
 ### Any challenges?
 
