@@ -43,7 +43,7 @@ We also knew from previous feedback that there is still a lack of knowledge rega
 
 Our CEO has been instrumental in driving forward digital change within the organisation, and I, as the Communication and Engagement Officer have been involved in the implementation. I administer our social media pages and was an advocate for using the tool such Slack, especially amongst staff who were unfamiliar with this way of working, and needed some further support and encouragement.
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}{:.responsive-img}
 
 ### What’s been the impact?
 
