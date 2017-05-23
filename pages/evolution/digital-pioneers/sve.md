@@ -17,7 +17,7 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from <a target='_blank' href="http://www.sventerprise.org.uk/">Stirlingshire Voluntary Enterprise</a> on how they have been finding the right communication tools to collaborate as a team and engage with their volunteers, partners and stakeholders.
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEevent.jpg){:height="300px" width="400px"}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEevent.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
 
