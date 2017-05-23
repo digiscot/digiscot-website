@@ -100,7 +100,7 @@ We saw a spike in traffic to our website from social media around the time of th
 badges are colourful and vibrant, so they performed well on Facebook and Twitter as people began
 customising their new profiles.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="222px" width="400px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="222px" width="400px"}![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="222px" width="400px"}
 
 ### Any challenges?
 
