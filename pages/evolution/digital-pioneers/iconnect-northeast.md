@@ -55,7 +55,7 @@ For example, we ran a recent Facebook Campaign to recruit Personal Care Assistan
 
 As with all our work at iConnect North East it’s a Team effort.  With a mix of marketing, social media service delivery and website know how, we’ve used Facebook campaigns as an effective part of our marketing communication strategy.
 
-![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEfacebookcampaign1.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEscanandshare.jpg){:height="222px" width="500px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEfacebookcampaign2.jpg){:height="222px" width="400px"}
+![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEfacebookcampaign1.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEscanandshare.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEfacebookcampaign2.jpg){:height="222px" width="400px"}
 
 ### What’s been the impact?
 
