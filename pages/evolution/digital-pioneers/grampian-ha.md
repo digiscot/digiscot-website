@@ -29,6 +29,8 @@ Technically Grampian HA has been using IT for around 30 years but these systems 
 
 We  brought in a new CRM (customer relationship management) and housing system called QL in 2014. It has a number of connected modules which  handle different aspects of our work e.g. invoices and contact with contractors. We have also introduced back office systems like the Citrix platform which enables employees to work remotely – this is being rolled out as we speak. For remote working we have invested in tablets which will allow for real-time assistance to tenants from anywhere, and saving time and travel.  We also invested in back office functions and upgrades so that finance and HR had scope to change the way they did things.  It is an ongoing process for both back office and for frontline services, and one driven by the need to stop paper shuffling and focus staff time on things that matter.
 
+Here are some example images of our QL Contractor system, allowing us to work more efficiently to fix issues in tenants homes.
+
 ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image1.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image2.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image3.png){:height="222px" width="400px"} 
 
 ### What motivated you?
@@ -45,7 +47,7 @@ Developing and implementing our vision has been ongoing from the beginning of 20
 
 You could say everyone in our organisation, but it is important to have champions.  We recruited a new Director of Housing & Property Services, Angela who has been key in effecting this change. Some very focused  managers in finance, corporate services, housing and property  played a role.  One transforming moment was the recruitment of a business analyst, because a proper redesign of processes and services should be at the heart of this.
 
-![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAdoorstep.jpg){:height="222px" width="222px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAmobileworking.JPG){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAroundtable.jpg){:height="222px" width="222px"}
+![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAdoorstep.jpg){:height="300px" width="300px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAmobileworking.JPG){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAroundtable.jpg){:height="300px" width="300px"}
 
 ### What’s been the impact?
 
