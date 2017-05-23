@@ -27,11 +27,11 @@ We have four services across the North East of Scotland, supporting over 2,500 u
 
 ### How have you been using digital?
 
-As an organisation, Quarriers has been using digital for a long time. Since 2005 we have used SharePoint for managing files, procedures and media within our organisation Intranet, and we use Social Media to help reach and support our clients, including enabling face to face peer support. Our award winning digital inclusion project, <a target='_blank' href="https://digital.scvo.org.uk/projects/quarriers/">Go4IT</a>, works intensively with digitally excluded individuals with learning disabilities, enabling them to digitally participate and benefit from all that being online has to offer. Our lending library of equipment and resources enables people we support to develop their digital skills by borrowing devices.
+As an organisation, Quarriers has been using digital for a long time. Since 2005 we have used SharePoint for managing files, procedures and media within our organisation Intranet, and we use Social Media to help reach and support our clients, including enabling face to face peer support. Our award winning digital inclusion project funded by the Challenge Fund, <a target='_blank' href="https://digital.scvo.org.uk/projects/quarriers/">Go4IT</a>, works intensively with digitally excluded individuals with learning disabilities, enabling them to digitally participate and benefit from all that being online has to offer. Our lending library of equipment and resources enables people we support to develop their digital skills by borrowing devices.
 
 ### Tell us about a recent digital change you’ve made
 
-We recently rolled out use of Skype for Business across our network to help our staff communicate more easily with colleagues, and to help support carers in remote and rural communities in Scotland. To support this roll out we’ve developed digital training for both our staff and carers.
+We recently rolled out use of <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a>  across our network to help our staff communicate more easily with colleagues, and to help support carers in remote and rural communities in Scotland. To support this roll out we’ve developed digital training for both our staff and carers.
 
 ### What motivated you?
 
@@ -39,13 +39,13 @@ Like all services, we wanted to balance meeting the needs of the people we suppo
 
 ### How did you go about it?
 
-Working with our IT Department, we tested several software options before settling on Skype for Business, which was the most robust and met our needs. The IT Department also supported us by enabling an appropriate infrastructure to meet the challenges presented by our large, rural area.
+Working with our IT Department, we tested several software options before settling on <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a>, which was the most robust and met our needs. The IT Department also supported us by enabling an appropriate infrastructure to meet the challenges presented by our large, rural area.
 
 We used a blend of digital and face to face communications to introduce and roll out Skype for Business. We assessed how confident our staff and carers were to allow us to target our training. We then utilised a Digital Champion to train those that needed support.
 
 We also created step-by-step guides which were well used. We’re now creating Digital Champions across our teams and networks to support each other with digital more generally.
 
-We’ve been using Skype for Business for a number of months now and our training is ongoing. We continue to adapt our support to meet the needs of our users. So far we’ve trained up over 20 carers and 40 staff.
+We’ve been using <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a> for a number of months now and our training is ongoing. We continue to adapt our support to meet the needs of our users. So far we’ve trained up over 20 carers and 40 staff.
 
 ### Who was involved?
 
@@ -55,9 +55,9 @@ This was a collaborative effort by all at Quarriers, including carers and staff 
 
 ### What’s been the impact?
 
-Using Skype for Business has meant we’ve been able to introduce more flexible support for carers in remote and rural areas, particularly in Aberdeenshire. The likelihood of a 2-4 hour round trip to have what turns out to be a 15 minute support meeting can now be significantly reduced by the meeting taking place online. This has increased the number of carers reached in a day, whilst still maintaining face-to-face support.
+Using <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a>s has meant we’ve been able to introduce more flexible support for carers in remote and rural areas, particularly in Aberdeenshire. The likelihood of a 2-4 hour round trip to have what turns out to be a 15 minute support meeting can now be significantly reduced by the meeting taking place online. This has increased the number of carers reached in a day, whilst still maintaining face-to-face support.
 
-We have over 2500 unpaid carers registered across Aberdeenshire and Moray. Digital is helping make us more efficient, freeing up funds to focus on front line service delivery and freeing up staff time to engage directly with more carers.
+We have over 2,500 unpaid carers registered across Aberdeenshire and Moray. Digital is helping make us more efficient, freeing up funds to focus on front line service delivery and freeing up staff time to engage directly with more carers.
 
 Adopting this digital approach to communicating has had a positive impact on staff, who feel they can respond more effectively to carer needs and carers are receiving support that makes a difference for them.
 
@@ -87,9 +87,8 @@ We’ve got some really exciting digital developments in the future, including a
 
 Digital health innovations aimed at supporting carers and those being cared for at home!
 
-
 -----
-Thanks to the North East of Scotland Team of Quarriers for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a>.
+Thanks to the North East of Scotland Team of Quarriers for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using #digitisation.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
 
