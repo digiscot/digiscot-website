@@ -90,6 +90,8 @@ feedback and input, some of whom helped to test the new features before release!
 everything was agreed upon, we worked with our web developer team and badge designers to turn
 the ideas into reality.
 
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="222px" width="400px"}
+
 ### What’s been the impact?
 
 This new feature has impacted all of our reviewers, but it has also given us more scope to be creative
@@ -99,8 +101,6 @@ has made the activity more fun and engaging.
 We saw a spike in traffic to our website from social media around the time of the launch. The new
 badges are colourful and vibrant, so they performed well on Facebook and Twitter as people began
 customising their new profiles.
-
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="222px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="222px" width="400px"}
 
 ### Any challenges?
 
