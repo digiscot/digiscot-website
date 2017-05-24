@@ -19,8 +19,6 @@ to find out what’s going on digitally in the third sector and to share it with
 Let’s hear from the Euan’s Guide Team about how they’re using digital to achieve their goals, in
 particular creating fun reviewer engagement by introducing a gamification element to their reviews.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/EUheaderimages.png){:height="300px" width="1000px"}
-
 ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="300px" width="400px"}
 
 ### Tell us about Euan’s Guide!
