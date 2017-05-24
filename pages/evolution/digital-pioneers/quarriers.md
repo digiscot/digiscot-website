@@ -27,7 +27,7 @@ We have four services across the North East of Scotland, supporting over 2,500 u
 
 ### How have you been using digital?
 
-As an organisation, Quarriers has been using digital for a long time. Since 2005 we have used SharePoint for managing files, procedures and media within our organisation Intranet, and we use Social Media to help reach and support our clients, including enabling face to face peer support. Our award winning digital inclusion project funded by the Challenge Fund, <a target='_blank' href="https://digital.scvo.org.uk/projects/quarriers/">Go4IT</a>, works intensively with digitally excluded individuals with learning disabilities, enabling them to digitally participate and benefit from all that being online has to offer. Our lending library of equipment and resources enables people we support to develop their digital skills by borrowing devices.
+As an organisation, Quarriers has been using digital for a long time. Since 2005 we have used <a target='_blank' href="https://products.office.com/en-gb/nonprofit/office-365-nonprofit">SharePoint</a> for managing files, procedures and media within our organisation Intranet, and we use Social Media to help reach and support our clients, including enabling face to face peer support. Our award winning digital inclusion project funded by the Challenge Fund, <a target='_blank' href="https://digital.scvo.org.uk/projects/quarriers/">Go4IT</a>, works intensively with digitally excluded individuals with learning disabilities, enabling them to digitally participate and benefit from all that being online has to offer. Our lending library of equipment and resources enables people we support to develop their digital skills by borrowing devices.
 
 ### Tell us about a recent digital change you’ve made
 
@@ -45,7 +45,7 @@ We used a blend of digital and face to face communications to introduce and roll
 
 We also created step-by-step guides which were well used. We’re now creating Digital Champions across our teams and networks to support each other with digital more generally.
 
-We’ve been using <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a> for a number of months now and our training is ongoing. We continue to adapt our support to meet the needs of our users. So far we’ve trained up over 20 carers and 40 staff.
+We’ve been using <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a> for some time now and our training is ongoing. We continue to adapt our support to meet the needs of our users. So far we’ve trained up over 20 carers and 40 staff.
 
 ### Who was involved?
 
@@ -55,7 +55,7 @@ This was a collaborative effort by all at Quarriers, including carers and staff 
 
 ### What’s been the impact?
 
-Using <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a>s has meant we’ve been able to introduce more flexible support for carers in remote and rural areas, particularly in Aberdeenshire. The likelihood of a 2-4 hour round trip to have what turns out to be a 15 minute support meeting can now be significantly reduced by the meeting taking place online. This has increased the number of carers reached in a day, whilst still maintaining face-to-face support.
+Using <a target='_blank' href="https://www.skype.com/en/business/skype-for-business/">Skype for Business</a> has meant we’ve been able to introduce more flexible support for carers in remote and rural areas, particularly in Aberdeenshire. The likelihood of a 2-4 hour round trip to have what turns out to be a 15 minute support meeting can now be significantly reduced by the meeting taking place online. This has increased the number of carers reached in a day, whilst still maintaining face-to-face support.
 
 We have over 2,500 unpaid carers registered across Aberdeenshire and Moray. Digital is helping make us more efficient, freeing up funds to focus on front line service delivery and freeing up staff time to engage directly with more carers.
 
