@@ -12,28 +12,29 @@ twitter-url: https://twitter.com/mhorcollective
 facebook-url:
 permalink: /evolution/digital-pioneers/mhor-collective/
 ---
+**Irene Mackintosh, one of the Directors of Mhor Collective tells us more...**
 
 ### Tell us about Mhor Collective!
 
-Mhor Collective is a relatively new community interest company, specialising in digital inclusion, digital skills training and support. The team used to be part of national charity <a target='_blank' href="http://www.citizensonline.org.uk/">Citizens Online</a>, but the funding landscape changed and so the Collective was born - just like an actual phoenix. While new in terms of our legal status, we’re older and wiser in experience as we’ve all worked in the field for several years, and we believe we know our stuff. We’re a scattered team based up in the Highlands - working from a range of gorgeous locations.
+**Irene:** Mhor Collective is a relatively new community interest company, specialising in digital inclusion, digital skills training and support. The team used to be part of national charity <a target='_blank' href="http://www.citizensonline.org.uk/">Citizens Online</a>, but the funding landscape changed and so the Collective was born - just like an actual phoenix. While new in terms of our legal status, we’re older and wiser in experience as we’ve all worked in the field for several years, and we believe we know our stuff. We’re a scattered team based up in the Highlands - working from a range of gorgeous locations.
 
 We work at various different levels – sometimes we provide frontline staff with digital inclusion training for their own specific client groups and digital challenges, sometimes we provide digital skills training and support for staff themselves to gain digital confidence which can then allow them to further support others as digital champions; and finally, we often provide community based learning opportunities for individuals needing a wee bit of extra support with their digital skills.
 
 ### How have you been using digital?
 
-We have always used digital to achieve what we do, and indeed, part of the day job is inspiring others to do the same, encouraging folk to try something new – either as an organisation or as individual or often both.
+**Irene:** We have always used digital to achieve what we do, and indeed, part of the day job is inspiring others to do the same, encouraging folk to try something new – either as an organisation or as individual or often both.
 
 None of us in the Collective is a tech genius but we’re endlessly positive about the possibilities of technology and always excited about sharing this with others.
 
 ### What motivated you?
 
-We were motivated by a tremendous change in circumstance, moving away from a larger organisation and setting up ourselves. We had a real desire to stay close as a team despite the geographic miles between us, to share information and keep things as social as we could and to stay on top of things as they evolved. We needed both collaborative and task focussed free tools to keep us on track.
+**Irene:** We were motivated by a tremendous change in circumstance, moving away from a larger organisation and setting up ourselves. We had a real desire to stay close as a team despite the geographic miles between us, to share information and keep things as social as we could and to stay on top of things as they evolved. We needed both collaborative and task focussed free tools to keep us on track.
 
 Digital was the very best way to achieve all of these things.
 
 ### How did you go about it?
 
-We’ve taken some of the tools we were already familiar with but made much more of them, replacing costed tools with free ones wherever possible.
+**Irene:** We’ve taken some of the tools we were already familiar with but made much more of them, replacing costed tools with free ones wherever possible.
 
 Our key tools at the moment are: 
 
@@ -49,36 +50,36 @@ A final note – all of these solutions interact beautifully, with Slack as the 
 
 ### Who was involved?
 
-We’re a collective, so the embracing of change was a whole group thing. This excitement at trying new things makes our digital evolution easier - we work in a headspace where we don’t approach new tools with scepticism, but instead try them out and move on if they don’t meet our needs.
+**Irene:** We’re a collective, so the embracing of change was a whole group thing. This excitement at trying new things makes our digital evolution easier - we work in a headspace where we don’t approach new tools with scepticism, but instead try them out and move on if they don’t meet our needs.
 
 ### What’s been the impact?
 
-Our digital changes have obviously impacted on us as a Collective, but because we’re in the business of sharing, we have already encouraged a fair few organisations to have a go with new tools. <a target='_blank' href="http://www.lairglearningcentre.org.uk/">Lairg Learning Centre</a> has started on <a target='_blank' href="https://trello.com/">Trello</a>, the <a target='_blank' href="https://www.highlifehighland.com/adult-learning/">Highland Adult Learning Partnership</a> has a <a target='_blank' href="https://slack.com/">Slack</a> team, and we’ve spoken to a few organisations about <a target='_blank' href="https://appear.in/">appear.in</a> for contact with remote clients as it has a lovely, clear and easy to use interface.
+**Irene:** Our digital changes have obviously impacted on us as a Collective, but because we’re in the business of sharing, we have already encouraged a fair few organisations to have a go with new tools. <a target='_blank' href="http://www.lairglearningcentre.org.uk/">Lairg Learning Centre</a> has started on <a target='_blank' href="https://trello.com/">Trello</a>, the <a target='_blank' href="https://www.highlifehighland.com/adult-learning/">Highland Adult Learning Partnership</a> has a <a target='_blank' href="https://slack.com/">Slack</a> team, and we’ve spoken to a few organisations about <a target='_blank' href="https://appear.in/">appear.in</a> for contact with remote clients as it has a lovely, clear and easy to use interface.
 
 Despite the distance, digital pulls us closer together. There’s a huge element of social and informal discussion that goes on in our slack channels, which is incredibly important to us as a team. We used to have Friday Gin and Tonics via Google Hangouts – it’s time to reintroduce this!
 
 ### Any challenges?
 
-Our key challenge seems to be using the <a target='_blank' href="https://www.google.com/nonprofits/">Google Suite</a> to its full potential - many of the applications leave us wondering how to use them properly. We muddle through with our google files, gmail and with hangouts but it’s a bit like building flat pack furniture without reading the instructions. You kind of get there in the end, but somehow you’re not quite sure how you did!
+**Irene:** Our key challenge seems to be using the <a target='_blank' href="https://www.google.com/nonprofits/">Google Suite</a> to its full potential - many of the applications leave us wondering how to use them properly. We muddle through with our google files, gmail and with hangouts but it’s a bit like building flat pack furniture without reading the instructions. You kind of get there in the end, but somehow you’re not quite sure how you did!
 
 We’re still overcoming Google issues – learning by doing is always our motto. That, and asking folk who have it covered for advice and pointers.
 
 ### Any advice?
 
-Why on earth haven’t you used <a target='_blank' href="https://slack.com/">Slack</a> yet?
+**Irene:** Why on earth haven’t you used <a target='_blank' href="https://slack.com/">Slack</a> yet?
 
 ### What’s on your digital horizon?
 
-Our plan is to keep evolving digitally – we absolutely love digital change. So the next digital change will result from a new challenge to meet, which requires a slightly different tool.
+**Irene:** Our plan is to keep evolving digitally – we absolutely love digital change. So the next digital change will result from a new challenge to meet, which requires a slightly different tool.
 
 ### What’s digitally inspiring you at the moment?
 
-We’re currently part of an all round inspiring <a target='_blank' href="https://www.whatsapp.com//">Whatsapp</a> group - headed up by the ever awesome Ross McCulloch of <a target='_blank' href="http://rossmcculloch.com/tag/begoodbesocial/">Be Good, Be Social</a>. Every day a new and amazing thing appears on there for us to try.
+**Irene:** We’re currently part of an all round inspiring <a target='_blank' href="https://www.whatsapp.com//">Whatsapp</a> group - headed up by the ever awesome Ross McCulloch of <a target='_blank' href="http://rossmcculloch.com/tag/begoodbesocial/">Be Good, Be Social</a>. Every day a new and amazing thing appears on there for us to try.
 
 Recent highlights include: <a target='_blank' href="https://www.mentimeter.com/">Mentimeter</a>, <a target='_blank' href="https://getkahoot.com/">Kahoot</a> and <a target='_blank' href="https://sidewaysdictionary.com/#/">Sideways dictionary</a>
 
 -----
 
-Thanks to Mhor Collective for sharing how they’re using digital in the third sector. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
+Thanks to Irene from the Mhor Collective for sharing how they’re using digital in the third sector. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
