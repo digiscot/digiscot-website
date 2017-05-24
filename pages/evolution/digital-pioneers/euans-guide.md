@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/euans-guide/
 ---
 **Antonia Lee-Bapty, Director of Operations at Euan's Guide tells us more...**
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="400px" width="1000px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="400px" width="1200px"}
 
 ### Tell us about Euan’s Guide!
 
