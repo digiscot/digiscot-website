@@ -13,11 +13,6 @@ facebook-url:
 permalink: /evolution/digital-pioneers/mhor-collective/
 ---
 
-We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than
-to find out what’s going on digitally in the third sector and to share it with you!
-
-Let’s hear from the Mhor Collective on how digital is helping them to collaborate as a geographically dispersed team.
-
 ### Tell us about Mhor Collective!
 
 Mhor Collective is a relatively new community interest company, specialising in digital inclusion, digital skills training and support. The team used to be part of national charity <a target='_blank' href="http://www.citizensonline.org.uk/">Citizens Online</a>, but the funding landscape changed and so the Collective was born - just like an actual phoenix. While new in terms of our legal status, we’re older and wiser in experience as we’ve all worked in the field for several years, and we believe we know our stuff. We’re a scattered team based up in the Highlands - working from a range of gorgeous locations.
