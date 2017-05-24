@@ -15,7 +15,7 @@ permalink: /evolution/digital-pioneers/grampian-ha/
 
 We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than to find out what’s going on digitally in the third sector and to share it with you! 
 
-Let’s hear from Grampian Housing Association Chief Executive, Neil Clapperton on how he and the organisation are internally embracing the latest in digital to the benefit of their staff, housing and tenants.
+Let’s hear from Grampian Housing Association Chief Executive, Neil Clapperton on how he and the organisation are embracing the latest in digital to the benefit of their staff, housing and tenants.
 
 ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHANeilClapperton.jpg){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}
 
@@ -25,9 +25,9 @@ Grampian Housing Association is a leading housing association based in the North
 
 ### Tell us about a recent digital change you have made
 
-Technically Grampian HA has been using IT for around 30 years but these systems have been very clunky, helping us do what we have always done! We have only truly thought about digital in the true sense, and how it can transform for the last two years. 
+Technically Grampian HA has been using IT for around 30 years but these systems have been very clunky, helping us do what we have always done! We have only thought about digital in the true transformational sense over the last two years. 
 
-We  brought in a new CRM (customer relationship management) and housing system called QL in 2014. It has a number of connected modules which  handle different aspects of our work e.g. invoices and contact with contractors. We have also introduced back office systems like the Citrix platform which enables employees to work remotely – this is being rolled out as we speak. For remote working we have invested in tablets which will allow for real-time assistance to tenants from anywhere, and saving time and travel.  We also invested in back office functions and upgrades so that finance and HR had scope to change the way they did things.  It is an ongoing process for both back office and for frontline services, and one driven by the need to stop paper shuffling and focus staff time on things that matter.
+We  brought in a new CRM (customer relationship management) and housing system called QL in 2014. It has a number of connected modules which  handle different aspects of our work e.g. invoices and contact with contractors. We have also introduced back office systems like the Citrix platform which enables employees to work remotely – this is being rolled out as we speak. For remote working we have invested in tablets which will allow for real-time assistance to tenants from across our communities, saving time and travel.  We also invested in back office functions and upgrades so that finance and HR had scope to change the way they did things.  It is an ongoing process for both back office and for frontline services, and one driven by the need to stop paper shuffling and focus staff time on things that matter.
 
 Here are some example images of our QL Contractor system, allowing us to work more efficiently to fix issues in tenants homes.
 
@@ -79,7 +79,7 @@ My broader vision is to:
 
 As mentioned earlier, <a target='_blank' href="https://www.elha.com/">East Lothian Housing Association </a> is at the cutting edge, and you can also learn from what the private sector is doing with online services e.g. online banking. This is an example of a service that genuinely makes life easier and allows you to do things when you want to, 24/7. 
 
-In a different part of the third sector, social care, I’m inspired by national provider <a target='_blank' href="https://www.cornerstone.org.uk/">Cornerstone</a> . They are adopting the Buurtzorg model, creating a flat, semi-autonomous, hub and team structure. I would love to do this, it opens up the possibility of improving wages for some, providing more flexible working and allowing people to retrain and develop their skills. IT underpins this model and I urge people to have a look. As an organisation we are 40 years old and as result very hierarchical - this was before the real age of computers so I expect much change to come. 
+In a different part of the third sector, social care, I’m inspired by national provider <a target='_blank' href="https://www.cornerstone.org.uk/">Cornerstone</a> . They are adopting the Buurtzorg model, creating a flat, semi-autonomous, hub and team structure. I would love to do this; it opens up the possibility of improving wages for some, providing more flexible working and allowing people to retrain and develop their skills. IT underpins this model and I urge people to have a look. As an organisation we are 40 years old and as result very hierarchical - this was before the real age of computers so I expect much change to come. 
 
 -----
 
