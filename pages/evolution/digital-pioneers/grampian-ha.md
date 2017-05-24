@@ -12,11 +12,6 @@ twitter-url: https://twitter.com/grampianha?lang=en
 facebook-url: https://en-gb.facebook.com/GrampianHousingAssociation/
 permalink: /evolution/digital-pioneers/grampian-ha/
 ---
-
-We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than to find out what’s going on digitally in the third sector and to share it with you! 
-
-Let’s hear from Grampian Housing Association Chief Executive, Neil Clapperton on how he and the organisation are embracing the latest in digital to the benefit of their staff, housing and tenants.
-
 ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHANeilClapperton.jpg){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}
 
 ### Tell us about Grampian Housing Association!
