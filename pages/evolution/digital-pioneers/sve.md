@@ -12,11 +12,6 @@ twitter-url: https://twitter.com/StirVolunteer
 facebook-url: https://www.facebook.com/Stirlingshire-Voluntary-Enterprise-208612419156913/
 permalink: /evolution/digital-pioneers/sve/
 ---
-
-We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than to find out what’s going on digitally in the third sector and to share it with you!
-
-Let’s hear from <a target='_blank' href="http://www.sventerprise.org.uk/">Stirlingshire Voluntary Enterprise</a> on how they have been finding the right communication tools to collaborate as a team and engage with their volunteers, partners and stakeholders.
-
 ![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
