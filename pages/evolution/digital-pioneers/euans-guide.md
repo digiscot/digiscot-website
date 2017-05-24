@@ -12,7 +12,7 @@ twitter-url: https://twitter.com/EuansGuide?ref_src=twsrc%5Egoogle%7Ctwcamp%5Ese
 facebook-url: https://en-gb.facebook.com/EuansGuide
 permalink: /evolution/digital-pioneers/euans-guide/
 ---
-Antonia Lee-Bapty, Director of Operations at Euan's Guide tell's us more...
+**Antonia Lee-Bapty, Director of Operations at Euan's Guide tell's us more...**
 
 ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="300px" width="400px"}
 
