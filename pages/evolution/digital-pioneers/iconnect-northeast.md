@@ -25,7 +25,7 @@ iConnect are a local North East of Scotland charity based in Aberdeen, offering 
 
 All our services actively support individuals and carers to have more choice and control over their lives and become part of communities that recognise and celebrate their individual skills, abilities and differences.  
 
-Within our Life Skills offering, local people with limited or no basic digital skills can be supported to learn digital life skills in either a community (small groups) or homebased (one-to-one) environments
+Within our Life Skills offering, local people with limited or no basic digital skills can be supported to learn digital life skills in either a community (small groups) or home-based (one-to-one) environments.
 
 ### How have you been using digital?
 
@@ -37,7 +37,7 @@ The most recent digital opportunity we’ve taken up has been the use of <a targ
 
 We’ve run several to date which have all been successful. One of our recent campaigns was in relation to our <a target='_blank' href="https://digitalparticipation.scot/">Digital Participation Charter</a> funded Project ‘Online Employment Support’ which is looking to remove barriers for those unemployed who may have no or limited IT Skills. Our Facebook Campaign promoted the project and advertised community bases sessions in locations around Aberdeen.
 
-Over the 10 day campaign we had up to 100 people click on the ad which generated a spike in our website traffic to the <a target='_blank' href="https://www.iconnectne.org.uk/how-we-can-help/life-in-the-community/help-with-training-and-employment/">‘Help with Employment and Training’</a> section. They also doubled the time they spent on the website from over 3 minutes to over 6 minutes. We also had over 30 new people come into our office asking for help with employment related digital skills.
+Over the 10 day campaign we had up to 100 people click on the ad which generated a spike in our website traffic to the <a target='_blank' href="https://www.iconnectne.org.uk/how-we-can-help/life-in-the-community/help-with-training-and-employment/">‘Help with Employment and Training’</a> section. They also doubled the time they spent on the website from over three minutes to over six minutes. We also had over 30 new people come into our office asking for help with employment related digital skills.
 
 A 10 day <a target='_blank' href="https://en-gb.facebook.com/business/a/campaign-structure">Facebook Campaigns</a> currently costs £100. With this small investment we were able to maximise our marketing budget to reach thousands of new people. It would certainly cost significantly more to have the same impact if we just used traditional communication methods like print marketing or running events.
 
@@ -49,7 +49,7 @@ We wanted to reach more people across our community to take advantage of Self-Di
 
 As a team we agree the outcome we wish to achieve from running the campaign, define the target client groups and geographic area we want our messages to reach. Basically <a target='_blank' href="https://en-gb.facebook.com/business/a/campaign-structure">Facebook Campaigns</a> supports us to target our messages to the right people in a localities we deliver our services in.  
 
-For example, we ran a recent <a target='_blank' href="https://en-gb.facebook.com/business/a/campaign-structure">Facebook Campaigns</a> to recruit Personal Care Assistants.  We were able to target working aged people within a 10 mile radius of Aberdeen.  We had over 2000 new visitors to our website and over 40 people applied for the positions. Over 50% of applicants who applied for the positions were selected by their prospective employers and are now making a real difference to people’s lives in the local community.
+For example, we ran a recent <a target='_blank' href="https://en-gb.facebook.com/business/a/campaign-structure">Facebook Campaign</a> to recruit Personal Care Assistants.  We were able to target working aged people within a 10 mile radius of Aberdeen.  We had over 2000 new visitors to our website and over 40 people applied for the positions. Over 50% of applicants who applied for the positions were selected by their prospective employers and are now making a real difference to people’s lives in the local community.
 
 ### Who was involved?
 
