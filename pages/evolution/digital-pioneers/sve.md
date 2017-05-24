@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/sve/
 ---
 **Rachel Johnston, Organisational Support Worker from Stirlingshire Voluntary Enterprise tells us more...**
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}{:.responsive-img}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
 
@@ -24,7 +24,7 @@ permalink: /evolution/digital-pioneers/sve/
 
 **Rachel:** While SVE has always used digital technologies to deliver our work, it’s perhaps only within the last 18 months that more of an emphasis has been placed on digital capabilities in response to our stakeholders and strategic aims. SVE’s social media platform is growing and developing and is now seen as an effective way for us to report third sector news, promote volunteering opportunities and engage with our partners and stakeholders. We have also looked at ways to improve internal communication as a small, busy team. 
 
-We have recently undertaken several changes but two I will focus on are and the use of <a target='_blank' href="https://slack.com/">Slack</a> as a communication tool and a focus on social media, in particular <a target='_blank' href="https://twitter.com">Twitter</a> to market our organisation and engage with our stakeholders.
+We have recently undertaken several changes but two I will focus on are and the use of <a target='_blank' href="https://slack.com/">Slack</a> as a communication tool and a focus on social media, in particular <a target='_blank' href="https://twitter.com/StirVolunteer?lang=en">Twitter</a> to market our organisation and engage with our stakeholders.
 
 ### What motivated you?
 
@@ -40,11 +40,11 @@ We also knew from previous feedback that there is still a lack of knowledge rega
 
 **Rachel:** Our CEO has been instrumental in driving forward digital change within the organisation, and I, as the Communication and Engagement Officer have been involved in the implementation. I administer our social media pages and was an advocate for using the tool such Slack, especially amongst staff who were unfamiliar with this way of working, and needed some further support and encouragement.
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}{:.responsive-img}
 
 ### What’s been the impact?
 
-**Rachel:** With the use of social media we have reached many more service users. In the first three months we gained 100 more followers on <a target='_blank' href="https://twitter.com">Twitter</a> and have engaged with many new organisations. Through using <a target='_blank' href="https://slack.com/">Slack</a> in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
+**Rachel:** With the use of social media we have reached many more service users. In the first three months we gained 100 more followers on <a target='_blank' href="https://twitter.com/StirVolunteer?lang=en">Twitter</a> and have engaged with many new organisations. Through using <a target='_blank' href="https://slack.com/">Slack</a> in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
 
 It is hard to quantify figures but I would say that the recent changes made will have impacted around 200 people.  We recently had 535 profile visits on Twitter and 21,000 impressions, so the impact can be very wide.
 
