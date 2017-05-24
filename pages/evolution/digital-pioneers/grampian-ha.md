@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/grampian-ha/
 ---
 **Neil Clapperton, Chief Executive of Grampian Housing Association tells us more...**
 
-![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHANeilClapperton.jpg){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}
+![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHANeilClapperton.jpg){:height="222px" width="400px"}{:.responsive-img} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"}{:.responsive-img} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}{:.responsive-img}
 
 ### Tell us about Grampian Housing Association!
 
@@ -28,7 +28,7 @@ We  brought in a new CRM (customer relationship management) and housing system c
 
 *Here are some example images of Grampian Housing Association's QL Contractor system, allowing them to work more efficiently to fix issues in tenants homes.*
 
-![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image1.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image2.png){:height="222px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image3.png){:height="222px" width="400px"} 
+![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image1.png){:height="222px" width="400px"}{:.responsive-img} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image2.png){:height="222px" width="400px"}{:.responsive-img} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAM3image3.png){:height="222px" width="400px"}{:.responsive-img} 
 
 ### What motivated you?
 
@@ -44,7 +44,7 @@ Developing and implementing our vision has been ongoing from the beginning of 20
 
 **Neil:** You could say everyone in our organisation, but it is important to have champions.  We recruited a new Director of Housing & Property Services, Angela who has been key in effecting this change. Some very focused  managers in finance, corporate services, housing and property  played a role.  One transforming moment was the recruitment of a business analyst, because a proper redesign of processes and services should be at the heart of this.
 
-![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAdoorstep2.jpg){:height="333px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAgettinginvolved.jpg){:height="333px" width="400px"} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAmobileworking.JPG){:height="333px" width="400px"} 
+![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAdoorstep2.jpg){:height="333px" width="400px"}{:.responsive-img} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAgettinginvolved.jpg){:height="333px" width="400px"}{:.responsive-img} ![Grampian Housing Assocation](digiscot.github.io/images/digital-pioneers/GHAmobileworking.JPG){:height="333px" width="400px"}{:.responsive-img} 
 
 ### What’s been the impact?
 
