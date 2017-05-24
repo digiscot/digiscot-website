@@ -55,11 +55,22 @@ participation-projects:
     parent: true
   - title: Projects
     path: participation/projects/
-  #   parent: true
-  # - title: Project Tags
-  #   path: participation/projects/tags/
-  # - title: Projects Map
-  #   path: participation/projects/map/
+  - title: Past Projects
+    path: participation/projects-archive/
+
+participation-projects-archive:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Projects
+    path: participation/projects/
+    parent: true
+  - title: Past Projects
+    path: participation/projects-archive/
+  - title: Past Projects' Tags
+    path: participation/projects-archive/tags/
+  - title: Past Projects' Map
+    path: participation/projects-archive/map/
 
 participation-resources:
   - title: Participation
