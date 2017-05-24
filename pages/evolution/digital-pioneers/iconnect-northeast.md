@@ -12,11 +12,6 @@ twitter-url: https://twitter.com/iConnectNE
 facebook-url: https://www.facebook.com/iConnectNE/
 permalink: /evolution/digital-pioneers/iconnect-northeast/
 ---
-
-We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than to find out what’s going on digitally in the third sector and to share it with you!
-
-Let’s hear from the iConnect North East Team about how they’re using digital to achieve their goals, in particular using Facebook Campaigns to promote Self-Directed Support opportunities and measuring their impact with Google Analytics.
-
 ![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEworkshop.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEwebsiteheader.png){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/ICNEmeetupimage.jpg){:height="222px" width="400px"}
 
 ### Tell us about iConnect North East!
