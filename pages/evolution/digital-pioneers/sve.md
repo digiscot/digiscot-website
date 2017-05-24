@@ -17,7 +17,7 @@ We at SCVO Digital Team like to digitally inspire and be inspired! So what bette
 
 Let’s hear from <a target='_blank' href="http://www.sventerprise.org.uk/">Stirlingshire Voluntary Enterprise</a> on how they have been finding the right communication tools to collaborate as a team and engage with their volunteers, partners and stakeholders.
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEevent.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
 
@@ -47,9 +47,9 @@ Our CEO has been instrumental in driving forward digital change within the organ
 
 ### What’s been the impact?
 
-With the use of social media we have reached much more services users. In the last three months we have gained 100 more followers on <a target='_blank' href="https://twitter.com">Twitter</a> and have engaged with many new organisations. Through using <a target='_blank' href="https://slack.com/">Slack</a> in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
+With the use of social media we have reached many more service users. In the first three months we gained 100 more followers on <a target='_blank' href="https://twitter.com">Twitter</a> and have engaged with many new organisations. Through using <a target='_blank' href="https://slack.com/">Slack</a> in-house, communication is more streamlined, effective and staff are more aware of where others are and what they are working on.
 
-It is hard to quantify figures but I would say that the recent changes made will have impacted around 200 people. In the last month we have had 535 profile visits on Twitter and 21,000 impressions, so the impact can be very wide.
+It is hard to quantify figures but I would say that the recent changes made will have impacted around 200 people.  We recently had 535 profile visits on Twitter and 21,000 impressions, so the impact can be very wide.
 
 ### Any challenges?
 
