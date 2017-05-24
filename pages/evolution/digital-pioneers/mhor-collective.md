@@ -12,7 +12,7 @@ twitter-url: https://twitter.com/mhorcollective
 facebook-url:
 permalink: /evolution/digital-pioneers/mhor-collective/
 ---
-**Irene Mackintosh, one of the Directors of Mhor Collective tells us more...**
+**Irene Mackintosh, one of the Mhor Collective's Directors tells us more...**
 
 ### Tell us about Mhor Collective!
 
