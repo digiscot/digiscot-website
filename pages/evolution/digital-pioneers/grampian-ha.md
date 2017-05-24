@@ -79,7 +79,7 @@ My broader vision is to:
 
 As mentioned earlier, <a target='_blank' href="https://www.elha.com/">East Lothian Housing Association </a> is at the cutting edge, and you can also learn from what the private sector is doing with online services e.g. online banking. This is an example of a service that genuinely makes life easier and allows you to do things when you want to, 24/7. 
 
-In a different part of the third sector, social care, I’m inspired by national provider <a target='_blank' href="https://www.cornerstone.org.uk/">Cornerstone</a> . They are adopting the Buurtzorg model, creating a flat, semi-autonomous, hub and team structure. I would love to do this; it opens up the possibility of improving wages for some, providing more flexible working and allowing people to retrain and develop their skills. IT underpins this model and I urge people to have a look. As an organisation we are 40 years old and as result very hierarchical - this was before the real age of computers so I expect much change to come. 
+In a different part of the third sector, social care, I’m inspired by national provider <a target='_blank' href="https://www.cornerstone.org.uk/">Cornerstone</a> . They are adopting the Buurtzorg model, creating a flat, semi-autonomous hub and team structure. I would love to do this; it opens up the possibility of improving wages for some, providing more flexible working and allowing people to retrain and develop their skills. IT underpins this model and I urge people to have a look. As an organisation we are 40 years old and as result very hierarchical - this was before the real age of computers so I expect much change to come. 
 
 -----
 
