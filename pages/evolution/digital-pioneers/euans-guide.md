@@ -12,7 +12,7 @@ twitter-url: https://twitter.com/EuansGuide?ref_src=twsrc%5Egoogle%7Ctwcamp%5Ese
 facebook-url: https://en-gb.facebook.com/EuansGuide
 permalink: /evolution/digital-pioneers/euans-guide/
 ---
-**Antonia Lee-Bapty, Director of Operations at Euan's Guide tell's us more...**
+**Antonia Lee-Bapty, Director of Operations at Euan's Guide tells us more...**
 
 ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="300px" width="400px"}
 
@@ -34,8 +34,8 @@ Ratings are awarded for accessibility, and people can rate (out of five) how the
 elements of their visit, including parking, toilets, staff and overall disabled access.
 
 We also use social media platforms and email marketing to spread the word about disabled access
-reviews and to inspire people to get involved.  <a target='_blank' href="https://twitter.com">Twitter</a>
-and <a target='_blank' href="https://en-gb.facebook.com/">Facebook</a> are our two biggest platforms where
+reviews and to inspire people to get involved.  <a target='_blank' href="https://twitter.com/EuansGuide">Twitter</a>
+and <a target='_blank' href="https://en-gb.facebook.com/EuansGuide/">Facebook</a> are our two biggest platforms where
 we like to engage with audiences, share reviews and content.
 
 Behind the scenes, we have a range of tools that help us as a charity to achieve our work. We like to
@@ -96,8 +96,7 @@ with how we inspire people to review. The release has added a new dimension to r
 has made the activity more fun and engaging.
 
 We saw a spike in traffic to our website from social media around the time of the launch. The new
-badges are colourful and vibrant, so they performed well on <a target='_blank' href="https://en-gb.facebook.com/">Facebook</a>
-and <a target='_blank' href="https://twitter.com">Twitter</a> as people began customising their new profiles.
+badges are colourful and vibrant, so they performed well on <a target='_blank' href="https://en-gb.facebook.com/EuansGuide/">Facebook</a> and <a target='_blank' href="https://twitter.com/EuansGuide">Twitter</a> as people began customising their new profiles.
 
 ### Any challenges?
 
