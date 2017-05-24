@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/euans-guide/
 ---
 **Antonia Lee-Bapty, Director of Operations at Euan's Guide tells us more...**
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height="300px" width="400px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="400px" width="500px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideScreenshots.png){:height="400px" width="500px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimageevent.jpg){:height=4300px" width="500px"}
 
 ### Tell us about Euan’s Guide!
 
@@ -87,7 +87,7 @@ feedback and input, some of whom helped to test the new features before release!
 everything was agreed upon, we worked with our web developer team and badge designers to turn
 the ideas into reality.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="300px" width="400px"}
+![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="400px" width="700px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="400px" width="500px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="400px" width="500px"}
 
 ### What’s been the impact?
 
