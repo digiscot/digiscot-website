@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/mhor-collective/
 ---
 **Irene Mackintosh, one of the Mhor Collective's Directors tells us more...**
 
-![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCIreneprofile2.jpg){:height="300px" width="300px"} ![Mhor Collective](digiscot.github.io/images/digital-pioneers/MClogo.png){:height="300px" width="500px"}{:.responsive-img} 
+![Mhor Collective](digiscot.github.io/images/digital-pioneers/MClogo.png){:height="300px" width="500px"}{:.responsive-img} 
 
 ### Tell us about Mhor Collective!
 
@@ -54,7 +54,7 @@ A final note – all of these solutions interact beautifully, with Slack as the 
 
 **Irene:** We’re a collective, so the embracing of change was a whole group thing. This excitement at trying new things makes our digital evolution easier - we work in a headspace where we don’t approach new tools with scepticism, but instead try them out and move on if they don’t meet our needs.
 
-![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCappearin.JPG){:height="300px" width="500px"}{:.responsive-img} ![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCsession.jpeg){:height="300px" width="600px"}{:.responsive-img} 
+![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCappearin.JPG){:height="300px" width="500px"} ![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCsession.jpeg){:height="300px" width="600px"}
 
 ### What’s been the impact?
 
