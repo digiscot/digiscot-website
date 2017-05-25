@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/sve/
 ---
 **Rachel Johnston, Organisational Support Worker from Stirlingshire Voluntary Enterprise tells us more...**
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}{:.responsive-img}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
 
@@ -40,7 +40,7 @@ We also knew from previous feedback that there is still a lack of knowledge rega
 
 **Rachel:** Our CEO has been instrumental in driving forward digital change within the organisation, and I, as the Communication and Engagement Officer have been involved in the implementation. I administer our social media pages and was an advocate for using the tool such Slack, especially amongst staff who were unfamiliar with this way of working, and needed some further support and encouragement.
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"}{:.responsive-img} ![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}{:.responsive-img}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"}![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
