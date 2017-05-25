@@ -14,6 +14,8 @@ permalink: /evolution/digital-pioneers/mhor-collective/
 ---
 **Irene Mackintosh, one of the Mhor Collective's Directors tells us more...**
 
+![Mhor Collective](digiscot.github.io/images/digital-pioneers/MClogo.png){:height="400px" width="1200px"}{:.responsive-img}
+
 ### Tell us about Mhor Collective!
 
 **Irene:** Mhor Collective is a relatively new community interest company, specialising in digital inclusion, digital skills training and support. The team used to be part of national charity <a target='_blank' href="http://www.citizensonline.org.uk/">Citizens Online</a>, but the funding landscape changed and so the Collective was born - just like a phoenix. While new in terms of our legal status, we’re older and wiser in experience as we’ve all worked in the field for several years, and we believe we know our stuff. We’re a scattered team based up in the Highlands - working from a range of gorgeous locations.
@@ -51,6 +53,8 @@ A final note – all of these solutions interact beautifully, with Slack as the 
 ### Who was involved?
 
 **Irene:** We’re a collective, so the embracing of change was a whole group thing. This excitement at trying new things makes our digital evolution easier - we work in a headspace where we don’t approach new tools with scepticism, but instead try them out and move on if they don’t meet our needs.
+
+![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCappearin.JPG){:height="300px" width="400px"}{:.responsive-img}
 
 ### What’s been the impact?
 
