@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/quarriers/
 ---
 **Peter Rainbird, Digital Inclusion Facilitator of Quarriers North East of Scotland Team  tells us more...**
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/quarrierslaughing.jpg){:height="222px" width="600px"}
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"}{:.responsive-img}
 
 ### Tell us about Quarriers!
 
