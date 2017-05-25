@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/sve/
 ---
 **Rachel Johnston, Organisational Support Worker from Stirlingshire Voluntary Enterprise tells us more...**
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEevent2.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/sve.png){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVETwittergrab.jpg){:height="300px" width="400px"}
+![SVE](digiscot.github.io/images/digital-pioneers/SVEConference.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVElogoforbannerr.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVENHSVolsWeek.jpg){:height="300px" width="400px"}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
 
