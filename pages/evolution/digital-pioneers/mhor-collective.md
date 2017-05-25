@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/mhor-collective/
 ---
 **Irene Mackintosh, one of the Mhor Collective's Directors tells us more...**
 
-![Mhor Collective](digiscot.github.io/images/digital-pioneers/MClogo.png){:height="400px" width="1200px"}{:.responsive-img}
+![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCShonaprofile.jpg){:height="300px" width="400px"}{:.responsive-img} ![Mhor Collective](digiscot.github.io/images/digital-pioneers/MClogo.png){:height="300px" width="400px"}{:.responsive-img} ![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCIreneprofile.jpg){:height="300px" width="400px"}{:.responsive-img}
 
 ### Tell us about Mhor Collective!
 
