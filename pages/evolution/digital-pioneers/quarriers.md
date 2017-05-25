@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/quarriers/
 ---
 **Peter Rainbird, Digital Inclusion Facilitator of Quarriers North East of Scotland Team  tells us more...**
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"}{:.responsive-img} ![Quarriers](digiscot.github.io/images/digital-pioneers/quarrierslaughing.jpg){:height="222px" width="600px"}{:.responsive-img} 
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/quarrierslaughing.jpg){:height="222px" width="600px"}
 
 ### Tell us about Quarriers!
 
@@ -48,7 +48,7 @@ We’ve been using <a target='_blank' href="https://www.skype.com/en/business/sk
 
 **Peter:** This was a collaborative effort by all at Quarriers, including carers and staff helping to identify needs and taking part in training, the IT department ensuring we had the correct technical support and developing an appropriate training programme, and our CEO and Board showing digital leadership and approving the significant investment of resources required, in recognition of the resulting value in terms of service delivery. We all played a role!
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"}{:.responsive-img} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"}{:.responsive-img} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}{:.responsive-img}
+![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
