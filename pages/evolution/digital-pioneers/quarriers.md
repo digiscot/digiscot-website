@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/quarriers/
 ---
 **Peter Rainbird, Digital Inclusion Facilitator of Quarriers North East of Scotland Team  tells us more...**
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"}{:.responsive-img}
+![Quarriers](/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"}{:.responsive-img}
 
 ### Tell us about Quarriers!
 
@@ -48,7 +48,7 @@ We’ve been using <a target='_blank' href="https://www.skype.com/en/business/sk
 
 **Peter:** This was a collaborative effort by all at Quarriers, including carers and staff helping to identify needs and taking part in training, the IT department ensuring we had the correct technical support and developing an appropriate training programme, and our CEO and Board showing digital leadership and approving the significant investment of resources required, in recognition of the resulting value in terms of service delivery. We all played a role!
 
-![Quarriers](digiscot.github.io/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"} ![Quarriers](digiscot.github.io/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}
+![Quarriers](/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"} ![Quarriers](/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"} ![Quarriers](/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
@@ -88,4 +88,3 @@ On reflection, it might have helped to produce a plan to guide finding the right
 Thanks to Peter from the North East of Scotland Team of Quarriers for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
-

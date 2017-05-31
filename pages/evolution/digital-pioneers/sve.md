@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/sve/
 ---
 **Rachel Johnston, Organisational Support Worker from Stirlingshire Voluntary Enterprise tells us more...**
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEConference.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVElogoforbannerr.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVENHSVolsWeek.jpg){:height="300px" width="400px"}
+![SVE](/images/digital-pioneers/SVEConference.jpg){:height="300px" width="400px"} ![SVE](/images/digital-pioneers/SVElogoforbannerr.jpg){:height="300px" width="400px"} ![SVE](/images/digital-pioneers/SVENHSVolsWeek.jpg){:height="300px" width="400px"}
 
 ### Tell us about Stirlingshire Voluntary Enterprise!
 
@@ -22,7 +22,7 @@ permalink: /evolution/digital-pioneers/sve/
 
 ### How have you been using digital?
 
-**Rachel:** While SVE has always used digital technologies to deliver our work, it’s perhaps only within the last 18 months that more of an emphasis has been placed on digital capabilities in response to our stakeholders and strategic aims. SVE’s social media platform is growing and developing and is now seen as an effective way for us to report third sector news, promote volunteering opportunities and engage with our partners and stakeholders. We have also looked at ways to improve internal communication as a small, busy team. 
+**Rachel:** While SVE has always used digital technologies to deliver our work, it’s perhaps only within the last 18 months that more of an emphasis has been placed on digital capabilities in response to our stakeholders and strategic aims. SVE’s social media platform is growing and developing and is now seen as an effective way for us to report third sector news, promote volunteering opportunities and engage with our partners and stakeholders. We have also looked at ways to improve internal communication as a small, busy team.
 
 We have recently undertaken several changes but two I will focus on are and the use of <a target='_blank' href="https://slack.com/">Slack</a> as a communication tool and a focus on social media, in particular <a target='_blank' href="https://twitter.com/StirVolunteer?lang=en">Twitter</a> to market our organisation and engage with our stakeholders.
 
@@ -40,7 +40,7 @@ We also knew from previous feedback that there is still a lack of knowledge rega
 
 **Rachel:** Our CEO has been instrumental in driving forward digital change within the organisation, and I, as the Communication and Engagement Officer have been involved in the implementation. I administer our social media pages and was an advocate for using the tool such Slack, especially amongst staff who were unfamiliar with this way of working, and needed some further support and encouragement.
 
-![SVE](digiscot.github.io/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"} ![SVE](digiscot.github.io/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"}![SVE](digiscot.github.io/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}
+![SVE](/images/digital-pioneers/SVEpersonatcomputer.jpg){:height="300px" width="400px"} ![SVE](/images/digital-pioneers/SVEletsgetslacking.jpg){:height="300px" width="400px"}![SVE](/images/digital-pioneers/SVEcomputerscreen.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
@@ -73,4 +73,3 @@ You do need time to plan properly. Maintaining several channels can be time cons
 Thanks to Rachel from the SVE team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
-

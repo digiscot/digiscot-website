@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/euans-guide/
 ---
 **Antonia Lee-Bapty, Director of Operations at Euan's Guide tells us more...**
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/websiteheader.png){:height="400px" width="1200px"}{:.responsive-img}
+![Euan's Guide](/images/digital-pioneers/websiteheader.png){:height="400px" width="1200px"}{:.responsive-img}
 
 ### Tell us about Euan’s Guide!
 
@@ -39,11 +39,11 @@ and <a target='_blank' href="https://en-gb.facebook.com/EuansGuide/">Facebook</a
 we like to engage with audiences, share reviews and content.
 
 Behind the scenes, we have a range of tools that help us as a charity to achieve our work. We like to
-use apps such as <a target='_blank' href="https://slack.com/">Slack</a> to communicate internally, 
-and content management tools such as <a target='_blank' href="https://asana.com/">Asana</a> which 
+use apps such as <a target='_blank' href="https://slack.com/">Slack</a> to communicate internally,
+and content management tools such as <a target='_blank' href="https://asana.com/">Asana</a> which
 have been incredibly useful for planning. Both of these apps are colourful and fun to use!
 
-Another fantastic app we use is called <a target='_blank' href="https://toggl.com/">Toggl</a>, and 
+Another fantastic app we use is called <a target='_blank' href="https://toggl.com/">Toggl</a>, and
 this helps us to plan projects by tracking how long we spend on event-planning, website testing and more.
 
 ### Tell us about a recent digital change you’ve made.
@@ -87,7 +87,7 @@ feedback and input, some of whom helped to test the new features before release!
 everything was agreed upon, we worked with our web developer team and badge designers to turn
 the ideas into reality.
 
-![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EuansGuideimagereview.png){:height="300px" width="400px"} ![Euan's Guide](digiscot.github.io/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="300px" width="400px"}
+![Euan's Guide](/images/digital-pioneers/EuansGuideImageBadgelaunch.jpg){:height="300px" width="400px"} ![Euan's Guide](/images/digital-pioneers/EuansGuideimagereview.png){:height="300px" width="400px"} ![Euan's Guide](/images/digital-pioneers/EaunsGuideImagelaptop.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
@@ -134,4 +134,3 @@ of our digital growth (including designing our badges!).
 Thanks to Antonia from the Euan’s Guide Team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
-

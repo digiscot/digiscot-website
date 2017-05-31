@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/mhor-collective/
 ---
 **Irene Mackintosh, one of the Mhor Collective's Directors tells us more...**
 
-![Mhor Collective](digiscot.github.io/images/digital-pioneers/MClogo.png){:height="300px" width="500px"}{:.responsive-img} 
+![Mhor Collective](/images/digital-pioneers/MClogo.png){:height="300px" width="500px"}{:.responsive-img}
 
 ### Tell us about Mhor Collective!
 
@@ -38,9 +38,9 @@ Digital was the very best way to achieve all of these things.
 
 **Irene:** We’ve taken some of the tools we were already familiar with but made much more of them, replacing costed tools with free ones wherever possible.
 
-Our key tools at the moment are: 
+Our key tools at the moment are:
 
-1. First and foremost, <a target='_blank' href="https://slack.com/">Slack</a>. If someone hasn’t yet persuaded you to get on board with this fantastic tool, I can’t stress enough why you should literally stop everything you’re doing and start using it right now! It’s essentially a productivity tool, which allows you to create a closed team and establish topic based ‘channels’ to focus discussion. Within these channels, you can collaborate on files, concepts, project planning and favourite holiday destinations. Perhaps most importantly, conversations are grouped together in a way that facilitates actual dialogue. Slack also links together with all manners of useful things like Dropbox, Microsoft apps, Trello, Google Docs and replaces team emails in a heartbeat. This means that email communication with the outside world is always a wee bit tinged with thoughts like, ‘this would be so much easier if you were on Slack’! You can’t lose Slack messages because they stay in the channel as a record, meaning you can always find that third version of a document you worked together on and see why you all wanted to change it for a fourth time. 
+1. First and foremost, <a target='_blank' href="https://slack.com/">Slack</a>. If someone hasn’t yet persuaded you to get on board with this fantastic tool, I can’t stress enough why you should literally stop everything you’re doing and start using it right now! It’s essentially a productivity tool, which allows you to create a closed team and establish topic based ‘channels’ to focus discussion. Within these channels, you can collaborate on files, concepts, project planning and favourite holiday destinations. Perhaps most importantly, conversations are grouped together in a way that facilitates actual dialogue. Slack also links together with all manners of useful things like Dropbox, Microsoft apps, Trello, Google Docs and replaces team emails in a heartbeat. This means that email communication with the outside world is always a wee bit tinged with thoughts like, ‘this would be so much easier if you were on Slack’! You can’t lose Slack messages because they stay in the channel as a record, meaning you can always find that third version of a document you worked together on and see why you all wanted to change it for a fourth time.
 
 2. Next is <a target='_blank' href="https://trello.com/">Trello</a>: this is a grown-up but awfully friendly wee project management tool. It helps you list jobs to do, delegate tasks and create both panic button deadlines and longer-term timelines with milestones. It’s aesthetically pleasing (plenty of colour) and not challenging to get to grips with. It’s also easy to add in excuses as things go off-piste.
 
@@ -54,7 +54,7 @@ A final note – all of these solutions interact beautifully, with Slack as the 
 
 **Irene:** We’re a collective, so the embracing of change was a whole group thing. This excitement at trying new things makes our digital evolution easier - we work in a headspace where we don’t approach new tools with scepticism, but instead try them out and move on if they don’t meet our needs.
 
-![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCappearin.JPG){:height="300px" width="400px"} ![Mhor Collective](digiscot.github.io/images/digital-pioneers/MCsession.jpeg){:height="300px" width="400px"} 
+![Mhor Collective](/images/digital-pioneers/MCappearin.JPG){:height="300px" width="400px"} ![Mhor Collective](/images/digital-pioneers/MCsession.jpeg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 

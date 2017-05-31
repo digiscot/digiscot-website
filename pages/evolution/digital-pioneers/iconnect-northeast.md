@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/iconnect-northeast/
 ---
 **Graham Murdo, Community Support Officer at iConnect North East tells us more...**
 
-![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEworkshop.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEwebsiteheader.png){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/ICNEmeetupimage.jpg){:height="222px" width="400px"}
+![iConnect North East](/images/digital-pioneers/iCNEworkshop.jpg){:height="222px" width="400px"} ![iConnect North East](/images/digital-pioneers/iCNEwebsiteheader.png){:height="222px" width="400px"} ![iConnect North East](/images/digital-pioneers/ICNEmeetupimage.jpg){:height="222px" width="400px"}
 
 ### Tell us about iConnect North East!
 
@@ -52,7 +52,7 @@ For example, we ran a recent <a target='_blank' href="https://en-gb.facebook.com
 
 **Graham:** As with all our work at iConnect North East it’s a Team effort.  With a mix of marketing, social media service delivery and website know how, we’ve used Facebook campaigns as an effective part of our marketing communication strategy.
 
-![iConnect North East](digiscot.github.io/images/digital-pioneers/iCNEfacebookcampaign1.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEscanandshare.jpg){:height="222px" width="400px"} ![iConnect North East](digiscot.github.io/images/digital-pioneers/iICNEfacebookcampaign2.jpg){:height="222px" width="400px"}
+![iConnect North East](/images/digital-pioneers/iCNEfacebookcampaign1.jpg){:height="222px" width="400px"} ![iConnect North East](/images/digital-pioneers/iICNEscanandshare.jpg){:height="222px" width="400px"} ![iConnect North East](/images/digital-pioneers/iICNEfacebookcampaign2.jpg){:height="222px" width="400px"}
 
 ### What’s been the impact?
 
@@ -84,7 +84,6 @@ We’re really interested in assistive technology such as devices with voice con
 
 -----
 
-Thanks to Graham from the iConnect North East Team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**. 
+Thanks to Graham from the iConnect North East Team for sharing how they’re using digital in the third sector. We hope you’re feeling digitally inspired after reading it. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
 
 If you’d like to help spread some more digital inspiration across the third sector then get in touch with us <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> and <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>.  We’d love to hear from you and share it with our networks!
-
