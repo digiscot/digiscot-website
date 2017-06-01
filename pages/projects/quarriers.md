@@ -91,7 +91,7 @@ All twelve learners were able to use their tablets in ways which they were not a
 
 It is concluded that this group of learners did take away real digital skills, but at a level below what is considered within the Go On  UK framework. Although the basic skills framework makes logical sense, it is clear that individuals at the extreme fringe of digital exclusion may never fully engage with the skills required to match this. That does not mean that training should not take place with this group, but that perhaps another more generalised layer of basic skills are required to signify that individuals are computer literate in other important ways. Currently these basic skills are not captured by the existing framework as the level is too advanced, and thus masks the learning.
 
-[**Final report - Stories from the Digital Divide**](digiscot.github.io/images/projects/Stories from the Digital Divide - Quarriers working with GCIL 2016.pdf)
+[**Final report - Stories from the Digital Divide**](/images/projects/Stories from the Digital Divide - Quarriers working with GCIL 2016.pdf)
 
 ### Lessons learned
 
