@@ -14,7 +14,7 @@ permalink: /evolution/digital-pioneers/quarriers/
 ---
 **Peter Rainbird, Digital Inclusion Facilitator of Quarriers North East of Scotland Team  tells us more...**
 
-![Quarriers](/images/digital-pioneers/Quarriersreachyourtruepotential.jpg){:height="222px" width="600px"}{:.responsive-img}
+![Quarriers](/images/digital-pioneers/Quarriers16_logo_cmyk.png){:height="222px" width="600px"}{:.responsive-img}
 
 ### Tell us about Quarriers!
 
@@ -48,7 +48,7 @@ We’ve been using <a target='_blank' href="https://www.skype.com/en/business/sk
 
 **Peter:** This was a collaborative effort by all at Quarriers, including carers and staff helping to identify needs and taking part in training, the IT department ensuring we had the correct technical support and developing an appropriate training programme, and our CEO and Board showing digital leadership and approving the significant investment of resources required, in recognition of the resulting value in terms of service delivery. We all played a role!
 
-![Quarriers](/images/digital-pioneers/Quarriersknitting.jpg){:height="300px" width="400px"} ![Quarriers](/images/digital-pioneers/Quarrierschatting.jpg){:height="300px" width="400px"} ![Quarriers](/images/digital-pioneers/Quarrierswheelchair.jpg){:height="300px" width="400px"}
+![Quarriers](/images/digital-pioneers/Quarrier-digitalchampion.JPG){:height="300px" width="400px"} ![Quarriers](/images/digital-pioneers/Quarrier-supportworker.jpg){:height="300px" width="400px"} ![Quarriers](/images/digital-pioneers/Quarrier-wheelchair.jpg){:height="300px" width="400px"}
 
 ### What’s been the impact?
 
