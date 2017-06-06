@@ -90,7 +90,7 @@
     function createTag(tag){
         var chip = $('<a />')
             .addClass('chip blue darken-4 white-text')
-            .attr('href', 'participation/projects-new/#' + tag)
+            .attr('href', 'participation/projects/#' + tag)
             .html('<i class="fa fa-fw fa-tag"></i> ' + tag);
         return chip;
     }

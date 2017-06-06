@@ -151,7 +151,7 @@
         var colours = tag === tagLabel ? 'grey lighten-2 blue-text text-darken-4' : 'blue darken-4 white-text';
         var chip = $('<a />')
             .addClass('chip ' + colours)
-            .attr('href', 'participation/projects-new/#' + tagLabel)
+            .attr('href', 'participation/projects/#' + tagLabel)
             .html('<i class="fa fa-fw fa-tag"></i> ' + tagLabel)
             .on('click', function(){ $.scrollTo('#projects-filters') });
         return chip;
