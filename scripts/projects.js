@@ -38,7 +38,7 @@
             });
 
         var payload = {
-            index: 'funded-projects',
+            index: 'funded-projects-call-4',
             type: 'project',
             body: {
                 aggs: {
@@ -70,7 +70,7 @@
         $('#projects-tags').val(tag);
 
         var payload = {
-            index: 'funded-projects',
+            index: 'funded-projects-call-4',
             type: 'project',
             body: {
                 query: {

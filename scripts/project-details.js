@@ -17,7 +17,7 @@
     }
 
     function getProject(projectId) {
-        client.get({ index: 'funded-projects', type: 'project', id: projectId }).then(function(result){
+        client.get({ index: 'funded-projects-call-4', type: 'project', id: projectId }).then(function(result){
             var project = result._source;
             displayProjectInfo(project);
             $('#project-container').show();
@@ -33,7 +33,7 @@
         var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBC';
         // if (project['amount_awarded'] == null) project['amount_awarded'] = '';
         // var amount_awarded = '£' + project['amount_awarded'] || 'TBC';
-        
+
         if (project['amount_requested'] == null) project['amount_requested'] = 0;
         if (project['amount_requested'] == '')
             var amount_requested = 'TBC';
