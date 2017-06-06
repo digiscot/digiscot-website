@@ -75,6 +75,7 @@ strong {
 .headroom .nav-wrapper a {
     font-weight: 600;
     text-transform: uppercase;
+    color: white;
 }
 nav ul a {
     font-weight: 400;
@@ -334,6 +335,9 @@ nav#tag-header{
         padding: 10px 10px 5px;
     }
 }
+.project .fa-ul {
+    margin-left: 2rem;
+}
 
 .col .card{
     width:100%;
@@ -577,6 +581,12 @@ h2 {
     h2 {
         font-size: 2em;
     }
+    h3 {
+        font-size: 1.8em;
+    }
+    h4 {
+        font-size: 1.6em;
+    }
     .team-image{
         height: 70%;
         background-position: center center;
@@ -599,6 +609,9 @@ h2 {
     .parallax-container {
         height: auto;
     }
+    .project.section .right-align {
+        text-align: left;
+    }
 }
 @media only screen and (max-width: $small-screen){
     h1 {
@@ -606,6 +619,12 @@ h2 {
     }
     h2 {
         font-size: 1.75em;
+    }
+    h3 {
+        font-size: 1.6em;
+    }
+    h4 {
+        font-size: 1.5em;
     }
 }
 // Home

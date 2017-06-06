@@ -114,7 +114,7 @@
 
             for (var i = 0, j = projectCards.length, chunk = 3; i < j; i += chunk) {
                 var temp = projectCards.slice(i, i + chunk);
-                var row = $('<div />').addClass('row equal');
+                var row = $('<div />').addClass('row');
                 temp.forEach(function(cell){
                     cell.addClass('col s12 m' + (18/chunk) + ' l' + (12/chunk));
                     row.append(cell);
