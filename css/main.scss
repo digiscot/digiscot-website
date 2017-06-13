@@ -271,6 +271,29 @@ nav#tag-header{
     bottom: 0;
 }
 
+.sg-header {
+    display: none;
+}
+.sg-question-set label {
+    font-size: 1.2rem;
+    color: inherit;
+}
+.sg-question-description {
+    font-weight: normal;
+    opacity: 0.7;
+}
+.sg-question-description,
+.sg-question-options {
+    padding: 0 !important;
+}
+.sg-mobile-optimized .sg-question input[type=text],
+.sg-question input {
+    border-radius: 0 !important;
+}
+.sg-list li {
+    list-style-type: none;
+}
+
 #tag-header.headroom--unpinned {
     transform: translateY(0%);
 }

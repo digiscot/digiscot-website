@@ -49,6 +49,13 @@ participation:
   - title: One Digital
     path: participation/one-digital/
 
+participation-basic-digital-skills:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Basic digital skills
+    path: participation/basic-digital-skills/
+
 participation-projects:
   - title: Participation
     path: participation/
