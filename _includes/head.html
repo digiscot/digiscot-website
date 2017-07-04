@@ -32,4 +32,17 @@
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="feed.xml" />
     {% include analytics.html %}
+
+    <!-- Begin Browser Update plugin -->
+    <script>
+    var $buoop = {vs:{i:10,f:-6,o:-6,s:7,c:-8},unsecure:true,mobile:false,api:4};
+    function $buo_f(){
+        var e = document.createElement("script");
+        e.src = "//browser-update.org/update.min.js";
+        document.body.appendChild(e);
+    };
+    try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+    catch(e){window.attachEvent("onload", $buo_f)}
+    </script>
+    <!-- End Browser Update plugin -->
 </head>
