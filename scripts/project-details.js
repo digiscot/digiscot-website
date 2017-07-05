@@ -48,6 +48,7 @@
         var project_milestone_3_desc = project['milestone_3_desc'] || 'TBC';
         var project_milestone_4_desc = project['milestone_4_desc'] || 'TBC';
         var project_evaluation = project['project_evaluation'] || 'TBC';
+
         var project_updates = '';
         if (project['project_updates']) {
             for (var i = 0; i < project['project_updates'].length; i++) {
@@ -55,7 +56,6 @@
             }
         }
         var project_updates = project_updates || 'TBC';
-        // var project_updates = project['project_updates'] || 'TBC';
 
         $('#project-title').text(project['project_title']);
         $('#project-organisation_name').text(project['organisation_name']);
