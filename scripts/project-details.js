@@ -25,7 +25,7 @@
             $('#project-loading').hide();
         }).catch(function(err){
             console.error('ES Query Error:', err);
-            window.location.href = '/404';
+            window.location.href = '/participation/project';
         });
     }
 
@@ -49,8 +49,10 @@
         var project_milestone_4_desc = project['milestone_4_desc'] || 'TBC';
         var project_evaluation = project['project_evaluation'] || 'TBC';
         var project_updates = '';
-        for (var i = 0; i < project['project_updates'].length; i++) {
-            project_updates += ''+project['project_updates'][i].Project_Update__c+' ';
+        if (project['project_updates']) {
+            for (var i = 0; i < project['project_updates'].length; i++) {
+                project_updates += ''+project['project_updates'][i].Project_Update__c+' ';
+            }
         }
         var project_updates = project_updates || 'TBC';
         // var project_updates = project['project_updates'] || 'TBC';
