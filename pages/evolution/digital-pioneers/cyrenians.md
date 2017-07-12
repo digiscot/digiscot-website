@@ -2,7 +2,7 @@
 layout: digital-pioneer
 title: Digital Pioneers
 excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired.
-submenu: evolution-digital-pioneers
+submenu: 
 pioneer-title: Cyrenians
 pioneer-excerpt: Find out how a chat bot called Alex is helping raise awareness and inspire future service delivery ideas.
 image: cyrenianslogohighres.jpg
