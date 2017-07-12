@@ -5,7 +5,7 @@ excerpt: Some fantastic stories of digital use across the Scottish third sector.
 submenu: 
 pioneer-title: Cyrenians
 pioneer-excerpt: Find out how a chat bot called Alex is helping raise awareness and inspire future service delivery ideas.
-image: cyreniansq.jpg
+image: cyreniansq.JPG
 website: http://cyrenians.scot/
 email:
 twitter-url: https://twitter.com/Cyrenians1968
