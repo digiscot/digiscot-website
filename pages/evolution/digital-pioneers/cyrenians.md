@@ -63,7 +63,7 @@ To date, we have over 800 unique visits to the site and the <a target="_blank" h
 
 Future benefits to be realised are through the potential development of the bot as a tool to be used within our services.  We have had a couple of enquiries and are interested in potential partners willing to work with us to develop the bot further for use in our services.
 
-![Cyrenians - Ask Alex](/images/digital-pioneers/ask_alex_facebook_cover_x2.jpg){:height="400px" width="1200px"}{:.responsive-img
+![Cyrenians - Ask Alex](/images/digital-pioneers/ask_alex_facebook_cover_x2.jpg){:height="400px" width="1200px"}{:.responsive-img}
 
 ### Any challenges?
 
