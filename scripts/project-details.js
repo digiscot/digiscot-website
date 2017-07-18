@@ -32,14 +32,18 @@
     function displayProjectInfo(project) {
         var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBD';
         var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBD';
-        // if (project['amount_awarded'] == null) project['amount_awarded'] = '';
-        // var amount_awarded = '£' + project['amount_awarded'] || 'TBC';
 
         if (project['amount_requested'] == null) project['amount_requested'] = 0;
         if (project['amount_requested'] == '')
             var amount_requested = 'TBC';
         else
-            var amount_requested = '£' + project['amount_requested'];
+            var amount_requested = '£' + addCommas(project['amount_requested']);
+
+        if (project['amount_awarded'] == null) project['amount_awarded'] = 0;
+        if (project['amount_awarded'] == '')
+            var amount_awarded = 'TBC';
+        else
+            var amount_awarded = '£' + addCommas(project['amount_awarded']);
 
         var organisation_overview = project['organisation_overview'] || 'TBC';
         var project_overview = project['project_overview'] || 'TBC';
@@ -64,6 +68,7 @@
         $('#project-end_date').text(end);
         // $('#project-amount_awarded').text(amount_awarded);
         $('#project-amount_requested').text(amount_requested);
+        $('#project-amount_awarded').text(amount_awarded);
 
         $('#project-overview').text(project_overview);
         if (project_overview == 'TBC')
@@ -118,6 +123,18 @@
             $('#' + id).attr(attr, fixUrl(project[field]));
         else
             $('#' + id).hide();
+    }
+
+    function addCommas(nStr) {
+        nStr += '';
+        var x = nStr.split('.');
+        var x1 = x[0];
+        var x2 = x.length > 1 ? '.' + x[1] : '';
+        var rgx = /(\d+)(\d{3})/;
+        while (rgx.test(x1)) {
+            x1 = x1.replace(rgx, '$1' + ',' + '$2');
+        }
+        return x1 + x2;
     }
 
     function fixUrl(url) {
