@@ -25,7 +25,8 @@
         }
 
         client.search(payload).then(function(results){
-            var grants = [];
+            var grantsExport = {};
+            grantsExport.grants = [];
             var hits = results.hits.hits;
             for (var i = 0; i < hits.length; i++) {
                 var grant = hits[i]._source;
@@ -128,12 +129,12 @@
                 delete grant.call;
                 delete grant.slug;
 
-                grants.push(grant);
+                grantsExport.grants.push(grant);
             }
 
             // console.log(grants);
 
-            var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grants));
+            var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grantsExport));
             var dlAnchorElem = document.getElementById('downloadAnchorElem');
             dlAnchorElem.setAttribute("href", dataStr);
             dlAnchorElem.setAttribute("download", "digital-challenge-fund.json");
