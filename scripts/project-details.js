@@ -39,6 +39,11 @@
         else
             var amount_requested = '£' + addCommas(project['amount_requested']);
 
+        if (project['call'] == 'Call 4')
+            var call_detail = 'Spring 2017';
+        else
+            var call_detail = 'N/A';
+
         if (project['amount_awarded'] == null) project['amount_awarded'] = 0;
         if (project['amount_awarded'] == '')
             var amount_awarded = 'TBC';
@@ -69,6 +74,9 @@
         // $('#project-amount_awarded').text(amount_awarded);
         $('#project-amount_requested').text(amount_requested);
         $('#project-amount_awarded').text(amount_awarded);
+
+        $('#project-call').text(project['call']);
+        $('#project-call_detail').text(call_detail);
 
         $('#project-overview').text(project_overview);
         if (project_overview == 'TBC')

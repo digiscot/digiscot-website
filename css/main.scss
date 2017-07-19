@@ -95,7 +95,7 @@ a:link {
 }
 
 .hoverable:hover {
-    transition: none;
+    // transition: none;
 }
 
 ul:not(.fa-ul) {
@@ -502,12 +502,12 @@ address {
 
 .pioneer-img img,
 .digital-pioneer-cards .card-content img {
-        width: 40%;
-        border-radius: 10rem;
-        box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
-        display: block;
-        margin: 0 auto 1rem;
-        background: white;
+    width: 40%;
+    border-radius: 10rem;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    display: block;
+    margin: 0 auto 1rem;
+    background: white;
 }
 .pioneer-img img {
     margin-top: 2rem;
