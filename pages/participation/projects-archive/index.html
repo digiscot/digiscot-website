@@ -6,7 +6,7 @@ permalink: /participation/projects-archive/
 fa-icon: fa-list
 submenu: participation-projects-archive
 redirect_from:
-  - /projects/
+  - /projects-archive/
 ---
 
 <div class="section">
@@ -65,23 +65,23 @@ redirect_from:
                             </div>
                             <div class="card-action">
                                 {% if page.call == 1 %}
-                                    <a href="/participation/projects/tags/#call1" class="chip blue darken-4 white-text">
+                                    <a href="/participation/projects-archive/tags/#call1" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Winter 2014
                                     </a>
                                 {% elsif page.call == 2 %}
-                                    <a href="/participation/projects/tags/#call2" class="chip blue darken-4 white-text">
+                                    <a href="/participation/projects-archive/tags/#call2" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Spring 2015
                                     </a>
                                 {% elsif page.call == 3 %}
-                                    <a href="/participation/projects/tags/#call3" class="chip blue darken-4 white-text">
+                                    <a href="/participation/projects-archive/tags/#call3" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-calendar"></i>
                                         Winter 2015
                                     </a>
                                 {% endif %}
                                 {% for tag in sortedtags %}
-                                    <a href="/participation/projects/tags/#{{ tag }}" class="chip blue darken-4 white-text">
+                                    <a href="/participation/projects-archive/tags/#{{ tag }}" class="chip blue darken-4 white-text">
                                         <i class="fa fa-fw fa-tag"></i>
                                         {{ tag }}
                                     </a>
@@ -121,9 +121,9 @@ redirect_from:
 
         {% assign sortedtags = tags | split:'|' | sort %}
 
-        <a href="/participation/projects/tags/">Tags:</a>
+        <a href="/participation/projects-archive/tags/">Tags:</a>
         {% for tag in sortedtags %}
-            <a href="/participation/projects/tags/#{{ tag }}" class="chip">{{ tag }}</a>
+            <a href="/participation/projects-archive/tags/#{{ tag }}" class="chip">{{ tag }}</a>
         {% endfor %}
     </div>
 </div>
