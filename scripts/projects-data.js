@@ -86,6 +86,7 @@
                 } else {
                     grant.recipientOrganization.id = '';
                 }
+                delete grant.recipientOrganizationCharityNumber;
                 delete grant.recipientOrganizationId;
 
                 if (grant.recipientOrganizationName) {
