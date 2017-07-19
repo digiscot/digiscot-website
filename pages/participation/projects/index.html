@@ -13,22 +13,20 @@ scripts:
 
 <div class="section">
     <div class="container-fluid flow-text">
-        <p>
-            We're supporting a wide range of digital participation projects
-            in communities across Scotland. Many of these are benefiting from
-            financial support from our
-            <a href="/participation/challenge-fund/">challenge fund</a>, whilst
-            others are receiving in-kind support from organisations that have
-            signed our <a href="http://digitalparticipation.scot/">digital participation charter</a>.
-            Each of them has a page on this site to tell their story in their
-            own words.
-        </p>
-
-        <!-- <p>
-            You can also
-            <a href="/participation/projects/map/">see an interactive map</a> of where things
-            are happening.
-        </p> -->
+        <div class="row">
+            <div class="col s12">
+                <p>
+                    We're supporting a wide range of digital participation projects
+                    in communities across Scotland. Many of these are benefiting from
+                    financial support from our
+                    <a href="/participation/challenge-fund/">challenge fund</a>, whilst
+                    others are receiving in-kind support from organisations that have
+                    signed our <a href="http://digitalparticipation.scot/">digital participation charter</a>.
+                    Each of them has a page on this site to tell their story in their
+                    own words.
+                </p>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -36,26 +34,30 @@ scripts:
 
 <div class="section" id="projects-filters">
     <div class="container-fluid flow-text">
-        <h2>
-            Our projects |
-            <small><span id="projects-total">__</span> projects have received support</small>
-        </h2>
+        <div class="row">
+            <div class="col s12">
+                <h2>
+                    Our projects |
+                    <small><span id="projects-total">__</span> projects have received support</small>
+                </h2>
 
-        <div class="card">
-            <div class="card-content">
-                <p class="card-title">Filter projects</p>
-                <div class="row">
-                    <div class="col s12 m8">
-                        <label></label>
-                        <div class="input-field">
-                            <input type="text" id="projects-search">
-                            <label for="projects-search">Projects Search Query</label>
-                        </div>
-                    </div>
-                    <div class="col s12 m4">
-                        <label for="projects-tags">Tags:</label>
-                        <div class="input-field">
-                            <select class="browser-default" id="projects-tags"></select>
+                <div class="card">
+                    <div class="card-content">
+                        <p class="card-title">Filter projects</p>
+                        <div class="row">
+                            <div class="col s12 m8">
+                                <label></label>
+                                <div class="input-field">
+                                    <input type="text" id="projects-search">
+                                    <label for="projects-search">Projects Search Query</label>
+                                </div>
+                            </div>
+                            <div class="col s12 m4">
+                                <label for="projects-tags">Tags:</label>
+                                <div class="input-field">
+                                    <select class="browser-default" id="projects-tags"></select>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -72,9 +74,13 @@ scripts:
 <div id="projects-container">
     <div class="project section">
         <div class="container-fluid">
-            <p>
-                <strong>Total results: </strong><span id="projects-count"></span>
-            </p>
+            <div class="row">
+                <div class="col s12">
+                    <p>
+                        <strong>Total results: </strong><span id="projects-count"></span>
+                    </p>
+                </div>
+            </div>
             <div id="projects-results"></div>
         </div>
     </div>
