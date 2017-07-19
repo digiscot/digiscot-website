@@ -30,7 +30,7 @@
             for (var i = 0; i < hits.length; i++) {
                 var grant = hits[i]._source;
 
-                grant.id = 'SCVO-' + grant.Id;
+                grant.id = '360G-SCVO-' + grant.Id;
                 delete grant.Id;
 
                 grant.currency = "GBP";
@@ -130,7 +130,7 @@
                 grants.push(grant);
             }
 
-            console.log(grants);
+            // console.log(grants);
 
             var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grants));
             var dlAnchorElem = document.getElementById('downloadAnchorElem');
