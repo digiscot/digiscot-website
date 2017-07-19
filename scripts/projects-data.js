@@ -30,7 +30,9 @@
             for (var i = 0; i < hits.length; i++) {
                 var grant = hits[i]._source;
 
-                grant.id = grant.Id;
+                grant.id = 'SCVO-' + grant.Id;
+                delete grant.Id;
+
                 grant.currency = "GBP";
 
                 if (grant.awardDate) {
@@ -76,8 +78,11 @@
                 }
 
                 grant.recipientOrganization = {};
-                if (grant.recipientOrganizationId) {
-                    grant.recipientOrganization.id = grant.recipientOrganizationId;
+                if (grant.recipientOrganizationCharityNumber) {
+                    grant.recipientOrganization.id = 'GB-SC-' + grant.recipientOrganizationCharityNumber;
+                    grant.recipientOrganization.charityNumner = grant.recipientOrganizationCharityNumber;
+                } else if (grant.recipientOrganizationId) {
+                    grant.recipientOrganization.id = 'SCVO-' + grant.recipientOrganizationId;
                 } else {
                     grant.recipientOrganization.id = '';
                 }
@@ -90,16 +95,21 @@
                 }
                 delete grant.recipientOrganizationName;
 
-                if (grant.recipientOrganizationUri) {
-                    grant.recipientOrganization.url = grant.recipientOrganizationUri;
+                if (grant.recipientOrganizationUrl) {
+                    var url = grant.recipientOrganizationUrl;
+                    var prefix = 'http://';
+                    if (url.substr(0, prefix.length) !== prefix) url = prefix + url;
+                    grant.recipientOrganization.url = url;
                 } else {
                     grant.recipientOrganization.url = '';
                 }
-                delete grant.recipientOrganizationUri;
+                delete grant.recipientOrganizationUrl;
 
                 grant.fundingOrganization = {};
-                grant.fundingOrganization.id = '001b000000SsxRDAAZ';
+                grant.fundingOrganization.id = 'GB-SC-SC003558';
                 grant.fundingOrganization.name = 'Scottish Council For Voluntary Organisations';
+                grant.fundingOrganization.charityNumber = 'SC003558';
+                grant.fundingOrganization.url = 'http://scvo.org';
 
                 grant.grantProgramme = {};
                 grant.grantProgramme.code = 'digital-challenge-fund';
@@ -114,11 +124,9 @@
                 } else {
                     grant.url = '';
                 }
-
-                delete grant.slug;
                 delete grant.call;
-                delete grant.Id;
-                // console.log(grant);
+                delete grant.slug;
+
                 grants.push(grant);
             }
 
@@ -126,8 +134,8 @@
 
             var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grants));
             var dlAnchorElem = document.getElementById('downloadAnchorElem');
-            dlAnchorElem.setAttribute("href",     dataStr     );
-            dlAnchorElem.setAttribute("download", "scene.json");
+            dlAnchorElem.setAttribute("href", dataStr);
+            dlAnchorElem.setAttribute("download", "digital-challenge-fund.json");
             // dlAnchorElem.click();
 
             // $('#projects-container').show();
