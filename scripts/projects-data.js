@@ -130,7 +130,7 @@
                 grants.push(grant);
             }
 
-            // console.log(grants);
+            console.log(grants);
 
             var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grants));
             var dlAnchorElem = document.getElementById('downloadAnchorElem');
