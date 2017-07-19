@@ -25,7 +25,7 @@
             $('#project-loading').hide();
         }).catch(function(err){
             console.error('ES Query Error:', err);
-            window.location.href = '/participation/project';
+            window.location.href = '/participation/projects';
         });
     }
 
