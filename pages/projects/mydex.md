@@ -60,17 +60,3 @@ Individual evaluations on use of accounts and ability to easily and in a control
 ### Outputs and outcomes
 
 Overall this project is designed to put people in charge of their own data, allowing a person centered approach, putting the citizen rather than the agency in charge.
-
-### Lessons learned
-
-Things that worked well:
-
-1. Text
-2. Text
-3. Text
-
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
