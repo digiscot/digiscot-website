@@ -21,7 +21,7 @@ permalink: /projects/link-housing/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/city-guilds-project-link-group-ltd
+  - /projects/city-guilds-project-link-group-ltd/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

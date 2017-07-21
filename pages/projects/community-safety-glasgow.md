@@ -21,7 +21,7 @@ permalink: /projects/community-safety-glasgow/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/maryhill-and-milton-digital-inclusion-programme-community-safety-glasgow
+  - /projects/maryhill-and-milton-digital-inclusion-programme-community-safety-glasgow/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

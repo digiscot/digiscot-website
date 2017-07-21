@@ -21,7 +21,7 @@ permalink: /projects/blackwood/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/blackwood-connect-blackwood-foundation
+  - /projects/blackwood-connect-blackwood-foundation/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

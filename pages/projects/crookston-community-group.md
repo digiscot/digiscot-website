@@ -21,7 +21,7 @@ permalink: /projects/crookston/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/crookston-community-www-club-crookston-community-group
+  - /projects/crookston-community-www-club-crookston-community-group/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

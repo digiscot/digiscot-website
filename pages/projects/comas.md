@@ -21,7 +21,7 @@ permalink: /projects/comas/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/dot-can-comas
+  - /projects/dot-can-comas/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

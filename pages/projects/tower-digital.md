@@ -21,7 +21,7 @@ permalink: /projects/towerdigital/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/silverscreen-project-the-tower-digital-arts-centre
+  - /projects/silverscreen-project-the-tower-digital-arts-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

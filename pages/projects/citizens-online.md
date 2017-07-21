@@ -21,7 +21,7 @@ permalink: /projects/citizens-online/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/our-digital-zone-citizens-online
+  - /projects/our-digital-zone-citizens-online/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/grace/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/grace-digital-well-being-cafe-independence-through-digital-literacy-attainment-grace-group-recovery-aftercare-community-enterprise
+  - /projects/grace-digital-well-being-cafe-independence-through-digital-literacy-attainment-grace-group-recovery-aftercare-community-enterprise/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

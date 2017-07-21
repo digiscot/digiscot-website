@@ -21,7 +21,7 @@ permalink: /projects/move-on/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/move-on-it-literacy-project-move-on-limited
+  - /projects/move-on-it-literacy-project-move-on-limited/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/toryglen-community-base/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/toryglen-digital-base-toryglen-community-base
+  - /projects/toryglen-digital-base-toryglen-community-base/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

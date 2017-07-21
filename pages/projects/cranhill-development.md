@@ -21,7 +21,7 @@ permalink: /projects/cranhill-development/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-work-clubs-ruchazie-cranhill-development-trust
+  - /projects/digital-work-clubs-ruchazie-cranhill-development-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/cre8te/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/femda-female-ethnic-minority-digital-academy-cre8te-opportunities-limited
+  - /projects/femda-female-ethnic-minority-digital-academy-cre8te-opportunities-limited/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

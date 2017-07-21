@@ -21,7 +21,7 @@ permalink: /projects/the-greenhouse-cic/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/the-greenhouse-digital-inclusion-project-the-greenhouse-shop-community-interest-company
+  - /projects/the-greenhouse-digital-inclusion-project-the-greenhouse-shop-community-interest-company/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

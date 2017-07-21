@@ -21,7 +21,7 @@ permalink: /projects/bonkle/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/bonkle-computer-club-bonkle-computer-club
+  - /projects/bonkle-computer-club-bonkle-computer-club/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

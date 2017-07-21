@@ -21,7 +21,7 @@ permalink: /projects/ormlie-community-association/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/net-axs-wick-ormlie-community-association
+  - /projects/net-axs-wick-ormlie-community-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

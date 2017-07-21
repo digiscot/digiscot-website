@@ -21,7 +21,7 @@ permalink: /projects/st-andrews-church/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/community-spirit-learning-zone-st-andrews-church-of-scotland-arbroath-havilah-project
+  - /projects/community-spirit-learning-zone-st-andrews-church-of-scotland-arbroath-havilah-project/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

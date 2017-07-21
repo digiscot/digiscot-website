@@ -21,7 +21,7 @@ permalink: /projects/volunteerglasgow/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-vg-volunteer-glasgow
+  - /projects/digital-vg-volunteer-glasgow/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

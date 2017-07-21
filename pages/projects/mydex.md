@@ -21,7 +21,7 @@ permalink: /projects/mydex/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-empowerment-person-centred-services-mydex-cic
+  - /projects/digital-empowerment-person-centred-services-mydex-cic/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

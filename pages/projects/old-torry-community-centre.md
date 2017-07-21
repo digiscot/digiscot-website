@@ -21,7 +21,7 @@ permalink: /projects/old-torry-community-centre/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/computing-for-all-old-torry-community-centre
+  - /projects/computing-for-all-old-torry-community-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

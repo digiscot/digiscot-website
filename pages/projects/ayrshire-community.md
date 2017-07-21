@@ -21,7 +21,7 @@ permalink: /projects/ayrshire-community/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-skills-job-club-the-ayrshire-community-trust
+  - /projects/digital-skills-job-club-the-ayrshire-community-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

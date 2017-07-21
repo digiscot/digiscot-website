@@ -21,7 +21,7 @@ permalink: /projects/merkinch-partnership/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/merkinch-goes-online-merkinch-partnership
+  - /projects/merkinch-goes-online-merkinch-partnership/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

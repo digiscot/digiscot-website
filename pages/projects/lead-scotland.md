@@ -21,7 +21,7 @@ permalink: /projects/lead-scotland/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/getting-digital-lead-scotland
+  - /projects/getting-digital-lead-scotland/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

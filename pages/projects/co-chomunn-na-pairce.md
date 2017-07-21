@@ -21,7 +21,7 @@ permalink: /projects/co-chomunn-na-pairce/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-drop-in-co-chomunn-na-pairc
+  - /projects/digital-drop-in-co-chomunn-na-pairc/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

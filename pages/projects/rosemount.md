@@ -21,7 +21,7 @@ permalink: /projects/rosemount/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-skills-for-speakers-of-other-languages-rosemount-lifelong-learning
+  - /projects/digital-skills-for-speakers-of-other-languages-rosemount-lifelong-learning/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

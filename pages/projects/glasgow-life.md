@@ -21,7 +21,7 @@ permalink: /projects/glasgow-life/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/supported-staff-cpd-in-web-based-technologies-glasgow-life
+  - /projects/supported-staff-cpd-in-web-based-technologies-glasgow-life/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

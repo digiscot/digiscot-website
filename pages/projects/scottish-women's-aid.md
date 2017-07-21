@@ -21,7 +21,7 @@ permalink: /projects/scottish-womens-aid/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/recounting-women-scottish-womens-aid
+  - /projects/recounting-women-scottish-womens-aid/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

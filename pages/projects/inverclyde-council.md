@@ -21,7 +21,7 @@ permalink: /projects/inverclyde/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-inverclyde-inverclyde-council
+  - /projects/digital-inverclyde-inverclyde-council/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/annexe-communities/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/connecting-up-project-the-annexe-healthy-living-centre
+  - /projects/connecting-up-project-the-annexe-healthy-living-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

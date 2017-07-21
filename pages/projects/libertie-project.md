@@ -21,7 +21,7 @@ permalink: /projects/the-libertie-project/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/creative-digital-club-the-libertie-project-ltd
+  - /projects/creative-digital-club-the-libertie-project-ltd/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/beith/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/it-for-u-beith-community-development-trust
+  - /projects/it-for-u-beith-community-development-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/falkirk-football-1/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-silver-bairns-falkirk-football-community-foundation
+  - /projects/digital-silver-bairns-falkirk-football-community-foundation/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

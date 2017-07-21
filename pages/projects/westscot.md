@@ -20,7 +20,7 @@ permalink: /projects/westscot/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-inclusion-coordinator-west-of-scotland-housing-association-ltd
+  - /projects/digital-inclusion-coordinator-west-of-scotland-housing-association-ltd/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

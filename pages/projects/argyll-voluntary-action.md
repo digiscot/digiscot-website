@@ -21,7 +21,7 @@ permalink: /projects/argyll-voluntary-action/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digit-all-argyll-bute-third-sector-interface
+  - /projects/digit-all-argyll-bute-third-sector-interface/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

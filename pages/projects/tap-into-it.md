@@ -21,7 +21,7 @@ permalink: /projects/tapintoit/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/lynedoch-shopper-service-tap-into-it-where-you-are-ltd
+  - /projects/lynedoch-shopper-service-tap-into-it-where-you-are-ltd/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

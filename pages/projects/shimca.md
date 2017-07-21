@@ -21,7 +21,7 @@ permalink: /projects/shimca/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/it-for-totally-beginners-the-scottish-highlands-and-islands-and-morayshire-chinese-association
+  - /projects/it-for-totally-beginners-the-scottish-highlands-and-islands-and-morayshire-chinese-association/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

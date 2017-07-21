@@ -21,7 +21,7 @@ permalink: /projects/bethany-christian-trust/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-oasis-bethany-christian-trust
+  - /projects/digital-oasis-bethany-christian-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

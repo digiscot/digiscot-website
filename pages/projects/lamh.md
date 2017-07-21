@@ -21,7 +21,7 @@ permalink: /projects/lamh/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/it-works-for-me-lamh-recycle-limited
+  - /projects/it-works-for-me-lamh-recycle-limited/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

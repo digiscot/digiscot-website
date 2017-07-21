@@ -21,7 +21,7 @@ permalink: /projects/flourish-house/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-inclusion-through-entrepreneurship-flourish-house
+  - /projects/digital-inclusion-through-entrepreneurship-flourish-house/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

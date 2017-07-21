@@ -21,7 +21,7 @@ permalink: /projects/centre-nordic/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-- /projects/orkney-community-digital-heritage-centre-for-nordic-studies
+- /projects/orkney-community-digital-heritage-centre-for-nordic-studies/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

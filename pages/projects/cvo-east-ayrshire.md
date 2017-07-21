@@ -21,7 +21,7 @@ permalink: /projects/cvo-east-ayrshire/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/transmit-training-in-social-media-and-it-cvo-east-ayrshire-ltd
+  - /projects/transmit-training-in-social-media-and-it-cvo-east-ayrshire-ltd/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

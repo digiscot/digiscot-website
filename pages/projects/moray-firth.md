@@ -21,7 +21,7 @@ permalink: /projects/moray-firth/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-audio-and-radio-production-moray-firth-media-trust
+  - /projects/digital-audio-and-radio-production-moray-firth-media-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

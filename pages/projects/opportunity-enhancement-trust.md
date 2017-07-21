@@ -21,7 +21,7 @@ permalink: /projects/opportunity-enhancement-trust/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-skills-through-football-opportunity-enhancement-trust
+  - /projects/digital-skills-through-football-opportunity-enhancement-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

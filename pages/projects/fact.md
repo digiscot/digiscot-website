@@ -21,7 +21,7 @@ permalink: /projects/fact/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/forres-online-fact-forres-area-community-trust
+  - /projects/forres-online-fact-forres-area-community-trust/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

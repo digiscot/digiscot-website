@@ -21,7 +21,7 @@ permalink: /projects/northwest-training/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/our-stories-your-memories-north-west-training-centre
+  - /projects/our-stories-your-memories-north-west-training-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -21,7 +21,7 @@ permalink: /projects/hebridean-connections/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/hebridean-history-in-the-digital-age-hebridean-connections
+  - /projects/hebridean-history-in-the-digital-age-hebridean-connections/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

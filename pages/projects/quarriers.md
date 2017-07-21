@@ -21,7 +21,7 @@ permalink: /projects/quarriers/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/stories-from-the-digital-divide-quarriers
+  - /projects/stories-from-the-digital-divide-quarriers/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

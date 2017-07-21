@@ -21,7 +21,7 @@ permalink: /projects/north-highland/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/get-to-know-the-internet-north-highland-language-centre
+  - /projects/get-to-know-the-internet-north-highland-language-centre/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

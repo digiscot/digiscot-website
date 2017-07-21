@@ -21,7 +21,7 @@ permalink: /projects/southsideha/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/southside-connections-southside-housing-association-ltd
+  - /projects/southside-connections-southside-housing-association-ltd/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

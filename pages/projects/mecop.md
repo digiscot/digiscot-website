@@ -21,7 +21,7 @@ permalink: /projects/mecopp/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/digital-dragons-minority-ethnic-carers-of-older-people-project-mecopp
+  - /projects/digital-dragons-minority-ethnic-carers-of-older-people-project-mecopp/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

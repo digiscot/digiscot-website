@@ -21,7 +21,7 @@ permalink: /projects/shmu/
 submenu: participation-projects
 fa-icon: fa-file-o
 redirect_from:
-  - /projects/station-house-media-unit-community-portal-station-house-media-unit-shmu
+  - /projects/station-house-media-unit-community-portal-station-house-media-unit-shmu/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
