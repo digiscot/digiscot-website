@@ -20,6 +20,8 @@ tags: older-people remote-rural
 permalink: /projects/couper-angus/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/strathmore-skills-centre-coupar-angus-regeneration-trust
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

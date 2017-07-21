@@ -20,6 +20,8 @@ tags: disabled-people
 permalink: /projects/dundee-university/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/tap-and-talk-dundee-augmentative-and-alternative-communication-aac-research-group
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

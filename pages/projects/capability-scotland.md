@@ -20,6 +20,8 @@ tags: disabled-people
 permalink: /projects/capability-scotland/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/upper-springland-ict-suite-refurbishment-capability-scotland
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

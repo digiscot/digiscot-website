@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits remote-rural
 permalink: /projects/hebridean-connections/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/hebridean-history-in-the-digital-age-hebridean-connections
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

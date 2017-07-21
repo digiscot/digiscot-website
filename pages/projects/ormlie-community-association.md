@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits remote-rural
 permalink: /projects/ormlie-community-association/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/net-axs-wick-ormlie-community-association
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

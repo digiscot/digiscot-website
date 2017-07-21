@@ -20,6 +20,8 @@ tags: older-people disabled-people remote-rural
 permalink: /projects/partnerships-for-wellbeing/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/video-volunteers-partnerships-for-wellbeing
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

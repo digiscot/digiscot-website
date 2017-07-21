@@ -20,6 +20,8 @@ tags: older-people remote-rural ethnic-minorities
 permalink: /projects/fife-migrants-forum/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/can-you-do-it-it-for-work-for-all-fife-migrants-forum
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

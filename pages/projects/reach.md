@@ -20,6 +20,8 @@ tags: ethnic-minority
 permalink: /projects/reach/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/ethnicity-social-media-a-digital-way-forward-reach-community-health-project
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

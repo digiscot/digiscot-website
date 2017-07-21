@@ -20,6 +20,8 @@ tags: older-people remote-rural
 permalink: /projects/colonsay-oransay-heritage/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/colonsay-connections-colonsay-and-oransay-heritage-trust
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

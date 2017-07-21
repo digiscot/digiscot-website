@@ -20,6 +20,8 @@ tags: benefits Glasgow
 permalink: /projects/spruce-carpets/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/the-spruce-hub-spruce-carpets-ltd
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

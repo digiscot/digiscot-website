@@ -20,6 +20,8 @@ tags: older-people remote-rural
 permalink: /projects/stromness-community-centre/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/bridging-the-gap-getting-online-stromness-community-centre
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

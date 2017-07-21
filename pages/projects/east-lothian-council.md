@@ -20,6 +20,8 @@ tags: older-people disabled-people
 permalink: /projects/east-lothian-council/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/digital-inclusion-for-the-visually-impaired-east-lothian-council
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

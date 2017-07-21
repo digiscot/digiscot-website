@@ -20,6 +20,8 @@ tags: older-people disabled-people Glasgow remote-rural
 permalink: /projects/homelands-trust/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/me-help-me-digital-advancement-encouraging-self-m-homelands-trust-fife
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -17,7 +17,7 @@
     }
 
     function getProject(projectId) {
-        client.get({ index: 'funded-projects-call-4', type: 'project', id: projectId }).then(function(result){
+        client.get({ index: 'digital-funded-projects', type: 'project', id: projectId }).then(function(result){
             var project = result._source;
             console.log(result._source);
             displayProjectInfo(project);

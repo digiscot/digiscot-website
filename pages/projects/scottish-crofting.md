@@ -20,6 +20,8 @@ tags: other
 permalink: /projects/crofting/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/croft-it-scottish-crofting-federation
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

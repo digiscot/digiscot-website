@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits remote-rural
 permalink: /projects/moray-libraries/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/get-digital-clubs-moray-council-libraries
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -20,6 +20,8 @@ tags: staff Glasgow
 permalink: /projects/youthlink-scotland/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/digitally-agile-national-principles-training-course-youthlink-scotland
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

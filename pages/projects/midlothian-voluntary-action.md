@@ -20,6 +20,8 @@ tags: disabled-people benefits remote-rural
 permalink: /projects/midlothian-voluntary-action/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/getting-it-midlothian-voluntary-action
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

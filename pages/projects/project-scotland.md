@@ -20,6 +20,8 @@ tags: unemployed young-people Glasgow remote-rural
 permalink: /projects/project-scotland/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/get-on-in-life-workshop-projgramme-linkedin-works-project-scotland
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

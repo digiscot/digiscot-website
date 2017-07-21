@@ -20,6 +20,8 @@ tags: disabled-people remote-rural
 permalink: /projects/leonard-cheshire/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/bringing-out-the-digital-leonard-cheshire-disability
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

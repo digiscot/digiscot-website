@@ -20,6 +20,8 @@ tags: older-people remote-rural
 permalink: /projects/sopwa/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/tea-and-technology-stornoway-old-peoples-welfare-association
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

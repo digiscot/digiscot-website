@@ -20,6 +20,8 @@ tags: older-people benefits
 permalink: /projects/newmains/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/connecting-newmains-newmains-community-trust-ltd
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

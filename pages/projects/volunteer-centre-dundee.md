@@ -20,6 +20,8 @@ tags: disabled-people
 permalink: /projects/volunteer-centre-dundee/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/volunteer-with-it-volunteer-dundee
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

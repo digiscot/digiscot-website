@@ -19,6 +19,8 @@ tags: older-people disabled-people benefits Glasgow remote-rural
 permalink: /projects/westscot/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/digital-inclusion-coordinator-west-of-scotland-housing-association-ltd
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

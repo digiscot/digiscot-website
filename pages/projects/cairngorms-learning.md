@@ -20,6 +20,8 @@ tags: older-people
 permalink: /projects/cairngorms/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/cairngorms-computing-confidence-cairngorms-learning-partnership
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

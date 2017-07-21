@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits
 permalink: /projects/merkinch-community/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/ur-circle-merkinch-community-centre
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

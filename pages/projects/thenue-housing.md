@@ -20,6 +20,8 @@ tags: older-people benefits Glasgow
 permalink: /projects/thenue-housing/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/smart-communities-volunteer-digital-champions-thenue-housing-association-ltd
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

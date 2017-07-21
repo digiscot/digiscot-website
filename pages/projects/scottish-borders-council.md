@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits remote-rural
 permalink: /projects/scottish-borders-council/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/tea-and-tablet-scottish-borders-council
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

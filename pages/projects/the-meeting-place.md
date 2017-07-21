@@ -20,6 +20,8 @@ tags: disabled-people
 permalink: /projects/themeetingplace/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/dynamic-individuals-gaining-internet-training-and-lotsmore-we-are-digital-the-meeting-place
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -42,7 +42,7 @@ redirect_from:
 
                 <h2>
                     Our projects |
-                    <small>{{ count }} projects have received support</small>
+                    <small>{{ count }} projects have received support (before 2017)</small>
                 </h2>
 
                 <div class="project-cards" data-columns>
@@ -71,23 +71,23 @@ redirect_from:
                                     </div>
                                     <div class="card-action">
                                         {% if page.call == 1 %}
-                                            <a href="/participation/projects-archive/tags/#call1" class="chip blue darken-4 white-text">
+                                            <a href="/participation/projects-archive/tags/#call1" class="chip grey lighten-1 blue-text text-darken-4">
                                                 <i class="fa fa-fw fa-calendar"></i>
                                                 Winter 2014
                                             </a>
                                         {% elsif page.call == 2 %}
-                                            <a href="/participation/projects-archive/tags/#call2" class="chip blue darken-4 white-text">
+                                            <a href="/participation/projects-archive/tags/#call2" class="chip grey lighten-1 blue-text text-darken-4">
                                                 <i class="fa fa-fw fa-calendar"></i>
                                                 Spring 2015
                                             </a>
                                         {% elsif page.call == 3 %}
-                                            <a href="/participation/projects-archive/tags/#call3" class="chip blue darken-4 white-text">
+                                            <a href="/participation/projects-archive/tags/#call3" class="chip grey lighten-1 blue-text text-darken-4">
                                                 <i class="fa fa-fw fa-calendar"></i>
                                                 Winter 2015
                                             </a>
                                         {% endif %}
                                         {% for tag in sortedtags %}
-                                            <a href="/participation/projects-archive/tags/#{{ tag }}" class="chip blue darken-4 white-text">
+                                            <a href="/participation/projects-archive/tags/#{{ tag }}" class="chip grey lighten-1 blue-text text-darken-4">
                                                 <i class="fa fa-fw fa-tag"></i>
                                                 {{ tag }}
                                             </a>
@@ -133,7 +133,7 @@ redirect_from:
 
                 <a href="/participation/projects-archive/tags/">Tags:</a>
                 {% for tag in sortedtags %}
-                    <a href="/participation/projects-archive/tags/#{{ tag }}" class="chip">{{ tag }}</a>
+                    <a href="/participation/projects-archive/tags/#{{ tag }}" class="chip grey lighten-1 blue-text text-darken-4">{{ tag }}</a>
                 {% endfor %}
             </div>
         </div>

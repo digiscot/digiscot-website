@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits Glasgow
 permalink: /projects/deaf-connections/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/deafinitely-digital-deaf-connections
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

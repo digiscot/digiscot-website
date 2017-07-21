@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits remote-rural
 permalink: /projects/homestart-majik/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/thrive-in-the-digital-world-reduce-isolation-home-start-majik
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

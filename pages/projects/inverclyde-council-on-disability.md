@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits
 permalink: /projects/icod/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/connected-confident-included-inverclyde-council-on-disability
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

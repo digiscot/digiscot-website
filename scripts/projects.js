@@ -1,5 +1,5 @@
 (function () {
-    var tag;
+    var tag, call;
 
     var client = new elasticsearch.Client({
         host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io',
@@ -10,6 +10,7 @@
     window.addEventListener('hashchange', doSearch, false);
     $('#projects-search').on('keyup', delaySearch);
     getTags();
+    getCalls();
     doSearch();
 
     var searchDelay = null;
@@ -23,7 +24,16 @@
     function doSearch() {
         $('#projects-container').hide();
         $('#projects-loading').show();
-        tag = window.location.hash.replace(/\#/, '');
+        if (/^#tag-/.test(window.location.hash)) {
+            tag = window.location.hash.replace(/\#tag-/, '');
+            call = '';
+        } else if (/^#calendar-/.test(window.location.hash)) {
+            tag = '';
+            call = window.location.hash.replace(/\#calendar-/, '');
+        } else {
+            tag = '';
+            call = '';
+        }
         var search = $('#projects-search').val();
         getProjects(search);
     }
@@ -32,19 +42,18 @@
         $('#projects-tags')
             .empty()
             .on('change', function() {
-                console.log(this);
-                console.log($(this).val());
                 window.location.hash = $(this).val();
             });
 
         var payload = {
-            index: 'funded-projects-call-4',
-            type: 'project',
-            body: {
-                aggs: {
-                    tags: {
-                        terms: {
-                            field: 'individuals_supported'
+            "index": "digital-funded-projects",
+            "type": "project",
+            "body": {
+                "aggs": {
+                    "tags": {
+                        "terms": {
+                            "field": "individuals_supported",
+                            "order" : { "_term" : "asc" }
                         }
                     }
                 }
@@ -52,33 +61,81 @@
         }
 
         client.search(payload).then(function(results){
-            var any = $('<option />').attr('value', '').text('Any tag (' + results.hits.total + ')');
+            var any = $('<option />').attr('value', '').text('All tags (' + results.hits.total + ')');
             $('#projects-tags').append(any);
 
             var buckets = results.aggregations.tags.buckets;
             buckets.forEach(function(bucket){
                 var tagName = bucket.key;
                 var text = tagName + ' (' + bucket.doc_count + ')';
-                var option = $('<option />').attr('value', tagName).text(text);
-                option.prop('selected', tagName === tag);
+                var option = $('<option />').attr('value', 'tag-' + tagName).text(text);
+                option.prop('selected', 'tag-' + tagName === tag);
                 $('#projects-tags').append(option);
             });
         });
     }
 
-    function getProjects(search) {
-        $('#projects-tags').val(tag);
+    function getCalls() {
+        $('#projects-calls')
+            .empty()
+            .on('change', function() {
+                window.location.hash = $(this).val();
+            });
 
         var payload = {
-            index: 'funded-projects-call-4',
-            type: 'project',
-            body: {
-                query: {
-                    bool: {
-                        must: []
+            "index": "digital-funded-projects",
+            "type": "project",
+            "body": {
+                "aggs": {
+                    "tags": {
+                        "terms": {
+                            "field": "call",
+                            "order" : { "_term" : "desc" }
+                        }
+                    }
+                }
+            }
+        }
+
+        client.search(payload).then(function(results){
+            var any = $('<option />').attr('value', '').text('All calls (' + results.hits.total + ')');
+            $('#projects-calls').append(any);
+
+            var buckets = results.aggregations.tags.buckets;
+            buckets.forEach(function(bucket){
+                var tagName = bucket.key;
+                var text = tagName + ' - ' + createCallDetail(tagName) + ' (' + bucket.doc_count + ')';
+                var option = $('<option />').attr('value', 'calendar-' + createCallDetail(tagName)).text(text);
+                option.prop('selected', 'calendar-' + tagName === tag);
+                $('#projects-calls').append(option);
+            });
+        });
+    }
+
+    function getProjects(search) {
+        if (tag) {
+            $('#projects-tags').val('tag-'+tag);
+        } else {
+            $('#projects-tags').val('');
+        }
+        if (call) {
+            $('#projects-calls').val('calendar-'+call);
+            var selected = $('#projects-calls option:selected').text();
+            var call_label = selected.split("-")[0].trim();
+        } else {
+            $('#projects-calls').val('');
+        }
+
+        var payload = {
+            "index": "digital-funded-projects",
+            "type": "project",
+            "body": {
+                "query": {
+                    "bool": {
+                        "must": []
                     }
                 },
-                sort: 'organisation_name'
+                "sort": "organisation_name"
             },
             size: 1000
         }
@@ -87,19 +144,25 @@
             $('#projects-total').text(results.hits.total);
         });
 
-        if (!tag && !search) {
+        if (!tag && !call && !search) {
             payload.body.query.bool.must.push({ match_all: {} });
         } else {
             if (tag) {
                 payload.body.query.bool.must.push({ terms: { individuals_supported: [tag] } });
+            }
+            if (call) {
+                payload.body.query.bool.must.push({ match: { call: call_label } });
             }
             if (search) {
                 payload.body.query.bool.must.push({ simple_query_string: { analyzer: 'snowball', query: search } });
             }
         }
 
+        console.log(payload);
+
         client.search(payload).then(function(results){
             var hits = results.hits;
+            console.log(hits);
             $('#projects-container').show();
             $('#projects-loading').hide();
             $('#projects-count').text(hits.total);
@@ -127,33 +190,84 @@
     }
 
     function createProject(project){
-        var cell = $('<div />');
-        var card = $('<div />').addClass('card hoverable').appendTo(cell);
-        var content = $('<div />').addClass('card-content').appendTo(card);
-        var organisation = $('<a />')
-            .addClass('card-title')
-            .attr('href', 'participation/project/#' + project.Id)
-            .text(project.organisation_name)
-            .appendTo(content);
-        var title = $('<p />').appendTo(content);
-        var titleBold = $('<strong />').text(project.project_title).appendTo(title);
-        var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
-        var actions = $('<div />').addClass('card-action').appendTo(card);
+        if (project.call == 'Call 1' || project.call == 'Call 2' || project.call == 'Call 3') {
+            var cell = $('<div />');
+            var card = $('<div />').addClass('card hoverable').appendTo(cell);
+            var content = $('<div />').addClass('card-content').appendTo(card);
+            var organisation = $('<a />')
+                .addClass('card-title')
+                .attr('href', 'projects/'+(project.project_title+'-'+project.organisation_name).replace(/\s+/g, '-').replace(/[^\w\-]+/g, '').replace(/-+/g,'-').toLowerCase())
+                .text(project.organisation_name)
+                .appendTo(content);
+            var title = $('<p />').appendTo(content);
+            var titleBold = $('<strong />').text(project.project_title).appendTo(title);
+            var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
+            var actions = $('<div />').addClass('card-action').appendTo(card);
 
-        project.individuals_supported.forEach(function(tag){
-            actions.append(createTag(tag));
-        });
+            actions.append(createTag(createCallDetail(project.call), "calendar"));
+
+        } else {
+            var cell = $('<div />');
+            var card = $('<div />').addClass('card hoverable').appendTo(cell);
+            var content = $('<div />').addClass('card-content').appendTo(card);
+            var organisation = $('<a />')
+                .addClass('card-title')
+                .attr('href', 'participation/project/#' + project.Id)
+                .text(project.organisation_name)
+                .appendTo(content);
+            var title = $('<p />').appendTo(content);
+            var titleBold = $('<strong />').text(project.project_title).appendTo(title);
+            var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
+            var actions = $('<div />').addClass('card-action').appendTo(card);
+
+            actions.append(createTag(createCallDetail(project.call), "calendar"));
+
+            project.individuals_supported.forEach(function(tag){
+                actions.append(createTag(tag, "tag"));
+            });
+        }
 
         return cell;
     }
 
-    function createTag(tagLabel){
-        var colours = tag === tagLabel ? 'grey lighten-2 blue-text text-darken-4' : 'blue darken-4 white-text';
+    function createTag(tagLabel, tagType){
+        var colours = 'grey lighten-2 blue-text text-darken-4';
+        console.log(call);
+        if (tag) {
+            colours = tag === tagLabel ? 'blue darken-4 white-text' : 'grey lighten-2 blue-text text-darken-4';
+        } else if (call) {
+            colours = call === tagLabel ? 'blue darken-4 white-text' : 'grey lighten-2 blue-text text-darken-4';
+        }
         var chip = $('<a />')
             .addClass('chip ' + colours)
-            .attr('href', 'participation/projects/#' + tagLabel)
-            .html('<i class="fa fa-fw fa-tag"></i> ' + tagLabel)
+            .attr('href', 'participation/projects/#' + tagType + '-' + tagLabel)
+            .html('<i class="fa fa-fw fa-'+tagType+'"></i> ' + tagLabel)
             .on('click', function(){ $.scrollTo('#projects-filters') });
         return chip;
+    }
+
+    function createCallDetail(call) {
+        var call_detail = "";
+        switch (call) {
+            case "Call 1":
+                call_detail = "Winter 2014";
+                break;
+            case "Call 2":
+                call_detail = "Spring 2015";
+                break;
+            case "Call 3":
+                call_detail = "Winter 2015";
+                break;
+            case "Call 4":
+                call_detail = "Spring 2017";
+                break;
+            case "Call 5":
+                call_detail = "Autumn 2017";
+                break;
+            default:
+                call_detail = "TBC";
+                break;
+        }
+        return call_detail;
     }
 }())

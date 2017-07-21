@@ -40,9 +40,11 @@
                     grant.description = "Detailed information not yet available.";
                 }
 
-                if (!grant.amountAwarded) {
+                if (grant.totalAmountRequested) {
                     grant.amountAppliedFor = grant.totalAmountRequested;
                     grant.amountAwarded = grant.totalAmountRequested;
+                } else {
+                    grant.amountAwarded = grant.amountAppliedFor;
                 }
                 delete grant.totalAmountRequested;
 
@@ -185,7 +187,7 @@
                 var grantProgramme = {};
                 var call, call_detail = "";
                 if (grant.call) {
-                    call = "-" + grant.call.toLowerCase().replace(" ", "-");
+                    call = "-" + grant.call.replace(/\s+/g, '-').toLowerCase();
                     switch (grant.call) {
                         case "Call 1":
                             call_detail = " (Winter 2014)";
@@ -203,7 +205,8 @@
                             call_detail = " (Autumn 2017)";
                             break;
                         default:
-
+                            call_detail = "";
+                            break;
                     }
                 }
                 if (grant.call == "Call 4" || grant.call == "Call 5") {
@@ -256,7 +259,7 @@
             var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grantsExport));
             var dlAnchorElem = document.getElementById('downloadAnchorElem');
             dlAnchorElem.setAttribute("href", dataStr);
-            dlAnchorElem.setAttribute("download", "digital-participation-funds.json");
+            dlAnchorElem.setAttribute("download", "digital-participation-grants.json");
             // dlAnchorElem.click();
 
             // $('#projects-container').show();

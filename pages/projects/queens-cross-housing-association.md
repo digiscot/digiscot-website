@@ -20,6 +20,8 @@ tags: older-people disabled-people benefits young-people Glasgow
 permalink: /projects/queens-cross-housing-association/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/historical-connections-queens-cross-queens-cross-housing-association
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

@@ -20,6 +20,8 @@ tags: older-people benefits
 permalink: /projects/grace/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/grace-digital-well-being-cafe-independence-through-digital-literacy-attainment-grace-group-recovery-aftercare-community-enterprise
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
@@ -166,7 +168,7 @@ In conclusion we would say that these past ten weeks have been very successful, 
 
 ### Lessons learned
 
-##### Key lessons learned 
+##### Key lessons learned
 
 The past year has been an incredible journey for GRACE with many of our members taking their first steps into the digital realm at the start of 2016 through to members now sharing skills and knowledge gained and helping new members. Over this time we have had a core group of participants attending our weekly workshops and many others dropping in to solve problems or tackle online forms they are struggling with, in addition to laptop and PC maintenance and digital housekeeping tips; our current record holder for malware infections, Mary, brought in her laptop to see why it was running so slow, Malwarebytes identified over 2690 malicious forms of malware nesting in her laptop. Mary's infested laptop is a prime of example of a key lesson learnt.
 

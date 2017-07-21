@@ -20,6 +20,8 @@ tags: older-people Glasgow
 permalink: /projects/linthouse-monday-club/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/linthouse-monday-club-it-workshops-linthouse-monday-club
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

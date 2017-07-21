@@ -20,6 +20,8 @@ tags: disabled-people
 permalink: /projects/upwardmobility/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/upload-mobility-from-upward-mobility-upward-mobility
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

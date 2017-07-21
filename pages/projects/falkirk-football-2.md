@@ -20,6 +20,8 @@ tags: benefits
 permalink: /projects/falkirk-football-2/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/digital-employment-skills-the-falkirk-football-community-foundation
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

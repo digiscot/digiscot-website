@@ -20,6 +20,8 @@ tags: disabled-people Glasgow remote-rural
 permalink: /projects/scottish-council-on-deafness/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/connecting-communicating-scottish-council-on-deafness
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 

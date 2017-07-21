@@ -20,6 +20,8 @@ tags: older-people remote-rural
 permalink: /projects/castle-douglas/
 submenu: participation-projects
 fa-icon: fa-file-o
+redirect_from:
+  - /projects/take-a-tablet-castle-douglas-community-it-centre
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
