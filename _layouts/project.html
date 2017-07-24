@@ -12,7 +12,7 @@ submenu: participation-projects
 
 {% assign sortedtags = tags | split:' ' | sort %}
 
-<div class="project section grey lighten-2">
+<div class="project section grey lighten-3">
     <div class="container-fluid">
         <div class="row">
             <div class="col s12 m9 l9">
@@ -79,7 +79,7 @@ submenu: participation-projects
                 <p class="right-align">
                     <strong>Tags:&ensp;</strong>
                     {% for tag in sortedtags %}
-                        <a href="participation/projects-archive/tags/#{{ tag }}" class="chip grey lighten-3 blue-text text-darken-4">
+                        <a href="participation/projects-archive/tags/#{{ tag }}" class="chip grey lighten-2 blue-text text-darken-4">
                             <i class="fa fa-fw fa-tag"></i>
                             {{ tag }}
                         </a>

@@ -420,6 +420,11 @@ nav#tag-header{
     font-weight: bold;
 }
 
+.chip:hover {
+    background-color: $brand-color !important;
+    color: white !important;
+}
+
 address {
     font-style: normal;
 }
