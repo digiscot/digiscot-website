@@ -7,7 +7,7 @@ permalink: /participation/charter-fund/
 submenu: participation-funding
 ---
 
-Our Digital Participation Charter Fund, supported by by the [Scottish Government](http://www.gov.scot), the ERDF and [BT](https://digitalparticipation.scot/signatories/bt-scotland), invests in community digital participation projects across Scotland. The [projects that we're supporting](/participation/projects/) will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
+Our Digital Participation Charter Fund, supported by the [Scottish Government](http://www.gov.scot), the [ERDF](http://ec.europa.eu/regional_policy/en/funding/erdf/) and [BT](https://digitalparticipation.scot/signatories/bt-scotland), invests in community digital participation projects across Scotland. The [projects that we're supporting](/participation/projects/) will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.
 
 ## Project criteria
 
@@ -22,7 +22,7 @@ Projects must meet some broad criteria to be considered for funding.
   * People seeking benefits
   * Glasgow
 * Awards will typically range from £100 to £10,000; applications for more than this will only be considered in exceptional circumstances
-* To help us understand what the project has achieved and what lessons others can learn, sucessful projects will be required to:
+* To help us understand what the project has achieved and what lessons others can learn, successful projects will be required to:
   * Ask the individuals they're supporting to fill out a short questionnaire to gauge their [basic digital skills](/participation/basic-digital-skills/)
   * Provide regular progress updates by posting content to your project page (here's [an example](/projects/comas/))
 
