@@ -12,15 +12,15 @@ submenu: participation-funding
 
 ### 1. When is the deadline?
 
-We will stop accepting application forms at 5pm on 31st August. We will not be able to accept applications after this deadline - please leave plenty of time to fill in the form and ensure you are signed up to the Digital Participation Charter as we'd hate you to miss out.
+We will stop accepting application forms at 5pm on 31st August. We will not be able to accept applications after this deadline - please leave plenty of time to fill in the form and ensure you are signed up to the [Digital Participation Charter](https://digitalparticipation.scot/sign-up) as we'd hate you to miss out.
 
 ### 2. Digital Participation Charter
 
-We're inviting organisations across Scotland to join a national movement to promote digital participation and basic digital skills. By undertaking work as part of the Charter Fund you will be expected to sign the Charter before submitting your application. If you have nto done this you will be unable to proceed with your application. You can read more on the Charter here.
+We're inviting organisations across Scotland to join a national movement to promote digital participation and basic digital skills. By undertaking work as part of the [Charter Fund](/participation/charter-fund/) you will be expected to sign the Charter before submitting your application. If you have not done this you will be unable to proceed with your application. [Read more on the Charter](https://digitalparticipation.scot/the-charter).
 
 ### 3. What questions will I be asked?
 
-You'll be asked to answer the following questions. If you feel supporting information is required to further evidence your project idea this can be emailed separately, with your Organisation and Project Name as the reference, to digital@scvo.org.uk following the submission of your application. However, the application will be assessed primarily on the application form. You should make sure that every piece of information you would like considered as part of your application is within the form.
+You'll be asked to answer the following questions. If you feel supporting information is required to further evidence your project idea this can be emailed separately, with your Organisation and Project Name as the reference, to <a href="mailto:digital@scvo.org.uk">digital@scvo.org.uk</a> following the submission of your application. However, the application will be assessed primarily on the application form. You should make sure that every piece of information you would like considered as part of your application is within the form.
 
 **About Your Organisation**
 
@@ -83,7 +83,7 @@ This must be completed by someone within your organisation who has the authority
 
 ### 4. Can I save my application?
 
-No, we have used this facility in the past but have found that it is easier for us and applicants to employ a one take approach. The above list outlined in point 2 will give you the exact ordering of questions and level of detail you need to construct answers in advance and copy & paste in. We have also developed a downloadable blank application form which can be used for guidance. This can be found on the webpage beside the "Apply Now" link.
+No, we have used this facility in the past but have found that it is easier for us and applicants to employ a one take approach. The above list outlined in point 2 will give you the exact ordering of questions and level of detail you need to construct answers in advance and copy & paste in.
 
 ### 5. Can I move backwards and forwards within the application form?
 
