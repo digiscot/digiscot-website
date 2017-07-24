@@ -158,11 +158,11 @@
             }
         }
 
-        console.log(payload);
+        // console.log(payload);
 
         client.search(payload).then(function(results){
             var hits = results.hits;
-            console.log(hits);
+            // console.log(hits);
             $('#projects-container').show();
             $('#projects-loading').hide();
             $('#projects-count').text(hits.total);
@@ -194,13 +194,13 @@
             var cell = $('<div />');
             var card = $('<div />').addClass('card hoverable').appendTo(cell);
             var content = $('<div />').addClass('card-content').appendTo(card);
-            var organisation = $('<a />')
+            var title = $('<a />')
                 .addClass('card-title')
                 .attr('href', 'projects/'+(project.project_title+'-'+project.organisation_name).replace(/\s+/g, '-').replace(/[^\w\-]+/g, '').replace(/-+/g,'-').toLowerCase())
-                .text(project.organisation_name)
+                .text(project.project_title)
                 .appendTo(content);
-            var title = $('<p />').appendTo(content);
-            var titleBold = $('<strong />').text(project.project_title).appendTo(title);
+            var organisation = $('<p />').appendTo(content);
+            var organisationBold = $('<strong />').text(project.organisation_name).appendTo(organisation);
             var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
@@ -210,13 +210,13 @@
             var cell = $('<div />');
             var card = $('<div />').addClass('card hoverable').appendTo(cell);
             var content = $('<div />').addClass('card-content').appendTo(card);
-            var organisation = $('<a />')
+            var title = $('<a />')
                 .addClass('card-title')
                 .attr('href', 'participation/project/#' + project.Id)
-                .text(project.organisation_name)
+                .text(project.project_title)
                 .appendTo(content);
-            var title = $('<p />').appendTo(content);
-            var titleBold = $('<strong />').text(project.project_title).appendTo(title);
+            var organisation = $('<p />').appendTo(content);
+            var organisationBold = $('<strong />').text(project.organisation_name).appendTo(organisation);
             var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
@@ -232,7 +232,7 @@
 
     function createTag(tagLabel, tagType){
         var colours = 'grey lighten-2 blue-text text-darken-4';
-        console.log(call);
+        // console.log(call);
         if (tag) {
             colours = tag === tagLabel ? 'blue darken-4 white-text' : 'grey lighten-2 blue-text text-darken-4';
         } else if (call) {

@@ -19,7 +19,7 @@
     function getProject(projectId) {
         client.get({ index: 'digital-funded-projects', type: 'project', id: projectId }).then(function(result){
             var project = result._source;
-            console.log(result._source);
+            // console.log(result._source);
             displayProjectInfo(project);
             $('#project-container').show();
             $('#project-loading').hide();
@@ -58,13 +58,10 @@
         var project_milestone_4_desc = project['milestone_4_desc'] || 'TBC';
         var project_evaluation = project['project_evaluation'] || 'TBC';
 
-        var project_updates = '';
+        var project_updates = 'TBC';
         if (project['project_updates']) {
-            for (var i = 0; i < project['project_updates'].length; i++) {
-                project_updates += ''+project['project_updates'][i].Project_Update__c+' ';
-            }
+            project_updates = '<p>' + (project['project_updates'][0].Project_Update__c || '').split(/[\r\n\t]+/gm).join('</p><p>') + '</p>';
         }
-        var project_updates = project_updates || 'TBC';
 
         $('#project-title').text(project['project_title']);
         $('#project-organisation_name').text(project['organisation_name']);
@@ -107,7 +104,7 @@
         if (project_evaluation == 'TBC')
             $('.project-outputs').hide();
 
-        $('#project-updates').text(project_updates);
+        $('#project-updates').html(project_updates);
         if (project_updates == 'TBC')
             $('.project-updates').hide();
 
@@ -121,7 +118,7 @@
 
         $('#project-tags').empty();
         project.individuals_supported.forEach(function(tag){
-            var tagElement = createTag(tag)
+            var tagElement = createTag(tag);
             $('#project-tags').append(tagElement);
         });
     }
