@@ -10,13 +10,6 @@ This is the master repository for [digital.scvo.org.uk](http://digital.scvo.org.
 /pages/
 ```
 
-**Profile pages** for projects and charter signatories are at:
-
-```
-/pages/projects/
-/pages/signatories/
-```
-
 ### Adding pages
 
 Navigate to the relevant folder and use the `+` button to add a new page.
@@ -66,8 +59,7 @@ Add any new images to your local copy of the images folder, either:
 Or the relevant subfolder:
 
 ```
-/images/projects/
-/images/signatories/
+/images/theme/
 ```
 
 Please try to give your images sensible filenames!
