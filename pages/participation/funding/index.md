@@ -1,10 +1,11 @@
 ---
 layout: markdown
 title: Scotland's Digital Participation Charter Fund
-menu-title: Apply for funding
-excerpt: Call for Funding – Autumn 2016
-permalink: /participation/apply-for-funding/
-submenu: participation-apply-for-funding
+menu-title: Funding
+excerpt: Call for Funding - Autumn 2017
+fa-icon: fa-pencil-square-o
+permalink: /participation/funding/
+submenu: participation-funding
 ---
 
 ## Introduction
@@ -17,12 +18,12 @@ If this were just a case of missing out on a few distracting websites and celebr
 
 Getting people online and developing basic digital skills in Scotland's communities is key to tackling inequalities and [building a fairer Scotland](https://fairer.scot/).
 
-Over the past two years, the Digital Participation Challenge Fund has [supported 84 projects](/participation/projects/) across Scotland to get people online and develop basic digital skills.
+Over the past two years, the Digital Participation Challenge Fund has [supported 126 projects](/participation/projects/) across Scotland to get people online and develop basic digital skills.
 
 Supported by the Scottish Government, the new Digital Participation Charter Fund is now open for applications. There is a particular focus for the Fund to support organisations currently working to tackle poverty, social isolation and other forms of inequality to embed basic digital skill development work into their day-to-day activity with service users.
 
 <div class="section headingless">
-    <a href="/participation/apply-for-funding/context/" class="btn right">
+    <a href="/participation/funding/context/" class="btn btn-primary blue darken-4 white-text right">
         <i class="fa fa-pull-right fa-chevron-right"></i>
         Next
     </a>

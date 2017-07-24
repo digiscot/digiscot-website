@@ -15,7 +15,7 @@
 
 $base-font-family:                'Open Sans', Helvetica, Arial, sans-serif;
 $base-font-size:                  16px;
-$base-font-weight:                300;
+$base-font-weight:                400;
 $base-font-color:                 #555555;
 
 $base-line-height:                1.5;
@@ -47,6 +47,13 @@ $scvo-footer-color:               #263238;
     }
 }
 
+#nav a,
+.headroom .nav-wrapper a {
+    font-weight: $h1-font-weight;
+    text-transform: uppercase;
+    color: white;
+}
+
 // Base styles
 
 html, body {
@@ -71,11 +78,6 @@ h3 {
 
 strong {
     font-weight: 700;
-}
-.headroom .nav-wrapper a {
-    font-weight: 600;
-    text-transform: uppercase;
-    color: white;
 }
 nav ul a {
     font-weight: 400;
@@ -681,4 +683,13 @@ h2 {
 #project-loading, #projects-loading{
     text-align:center;
     padding: 100px;
+}
+
+::-moz-selection {
+    color: white;
+    background: $brand-color;
+}
+::selection {
+    color: white;
+    background: $brand-color;
 }

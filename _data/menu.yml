@@ -40,27 +40,25 @@ participation:
   - title: Participation
     path: participation/
     parent: true
+  - title: Basic Digital Skills
+    path: participation/basic-digital-skills/
   - title: Projects
     path: participation/projects/
-  - title: Basic digital skills
-    path: participation/basic-digital-skills/
-  - title: Browse the library
+  - title: Funding
+    path: participation/funding/
+  - title: Library
     path: participation/library/
   - title: One Digital
     path: participation/one-digital/
-
-participation-basic-digital-skills:
-  - title: Participation
-    path: participation/
-    parent: true
-  - title: Basic digital skills
-    path: participation/basic-digital-skills/
 
 participation-projects:
   - title: Participation
     path: participation/
     parent: true
   - title: Projects
+    path: participation/projects/
+    parent: true
+  - title: Search
     path: participation/projects/
   - title: Past Projects
     path: participation/projects-archive/
@@ -72,12 +70,38 @@ participation-projects-archive:
   - title: Projects
     path: participation/projects/
     parent: true
+  - title: Search
+    path: participation/projects/
   - title: Past Projects
     path: participation/projects-archive/
-  - title: Past Projects' Tags
-    path: participation/projects-archive/tags/
   - title: Past Projects' Map
     path: participation/projects-archive/map/
+
+participation-funding:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Funding
+    path: participation/funding/
+    parent: true
+  - title: Context
+    path: participation/funding/context/
+  - title: Key criteria
+    path: participation/funding/key-criteria/
+  - title: FAQ
+    path: participation/funding/faq/
+  - title: Apply
+    path: participation/funding/apply/
+
+participation-basic-digital-skills:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Basic Digital Skills
+    path: participation/basic-digital-skills/
+    parent: true
+  - title: Questionnaire
+    path: participation/basic-digital-skills/questionnaire/
 
 participation-resources:
   - title: Participation
@@ -120,24 +144,6 @@ evolution-resources:
     path: evolution/resources/research-and-reports/
   - title: Articles, Webpages, & Blogs
     path: evolution/resources/articles-webpages-and-blogs/
-
-participation-apply-for-funding:
-  - title: Participation
-    path: participation/
-    parent: true
-  - title: Apply for Funding
-    path: participation/apply-for-funding/
-    parent: true
-  - title: Context
-    path: participation/apply-for-funding/context/
-  - title: Learning to be considered
-    path: participation/apply-for-funding/learning-to-be-considered/
-  - title: Funding criteria
-    path: participation/apply-for-funding/funding-criteria/
-  - title: FAQ
-    path: participation/apply-for-funding/faq/
-  - title: Apply now
-    path: participation/apply-for-funding/apply-now/
 
 evolution-senior-leader-programme:
   - title: Evolution
