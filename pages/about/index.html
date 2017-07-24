@@ -73,7 +73,7 @@ submenu: about
 
         <div class="team-cards" data-columns>
             {% for item in site.data.team %}
-                <div class="card hoverable">
+                <div class="card medium hoverable">
                     <div class="card-image">
                         <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
                     </div>
@@ -88,9 +88,13 @@ submenu: about
                     </div>
                     <div class="card-action team-social">
                         {% if item.email %}
-                            <a href="mailto:{{ item.email }}" class="blue-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a> {% endif %} {% if item.twitter %}
-                            <a href="https://twitter.com/{{ item.twitter }}" class="blue-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>                    {% endif %} {% if item.linkedin %}
-                            <a href="{{ item.linkedin }}" class="blue-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                            <a href="mailto:{{ item.email }}" class="blue-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
+                        {% endif %}
+                        {% if item.twitter %}
+                            <a href="https://twitter.com/{{ item.twitter }}" target="_blank" class="blue-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                        {% endif %}
+                        {% if item.linkedin %}
+                            <a href="{{ item.linkedin }}" target="_blank" class="blue-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
                         {% endif %}
                     </div>
                 </div>
@@ -104,7 +108,7 @@ submenu: about
 
         <div class="team-cards" data-columns>
             {% for item in site.data.alumni %}
-                <div class="card hoverable">
+                <div class="card medium hoverable">
                     <div class="card-image">
                         <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
                     </div>
@@ -119,9 +123,13 @@ submenu: about
                     </div>
                     <div class="card-action team-social">
                         {% if item.email %}
-                            <a href="mailto:{{ item.email }}" class="blue-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a> {% endif %} {% if item.twitter %}
-                            <a href="https://twitter.com/{{ item.twitter }}" class="blue-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>                    {% endif %} {% if item.linkedin %}
-                            <a href="{{ item.linkedin }}" class="blue-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
+                            <a href="mailto:{{ item.email }}" class="blue-text"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
+                        {% endif %}
+                        {% if item.twitter %}
+                            <a href="https://twitter.com/{{ item.twitter }}" target="_blank" class="blue-text"><i class="fa fa-fw fa-twitter fa-2x"></i></a>
+                        {% endif %}
+                        {% if item.linkedin %}
+                            <a href="{{ item.linkedin }}" target="_blank" class="blue-text"><i class="fa fa-fw fa-linkedin fa-2x"></i></a>
                         {% endif %}
                     </div>
                 </div>
