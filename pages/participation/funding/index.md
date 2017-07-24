@@ -18,7 +18,7 @@ If this were just a case of missing out on a few distracting websites and celebr
 
 Getting people online and developing basic digital skills in Scotland's communities is key to tackling inequalities and [building a fairer Scotland](https://fairer.scot/).
 
-Over the past two years, the Digital Participation [Challenge Fund](/participation/challenge-fund/) and [Charter Fund](/participation/charter-fund/) and  have [supported 126 projects](/participation/projects/) across Scotland to get people online and develop basic digital skills.
+Over the past three years, the Digital Participation [Challenge Fund](/participation/challenge-fund/) and [Charter Fund](/participation/charter-fund/) and  have [supported 126 projects](/participation/projects/) across Scotland to get people online and develop basic digital skills.
 
 Supported by the Scottish Government and BT, the new Digital Participation Charter Fund is now open for applications. There is a particular focus for the Fund to support organisations currently working to tackle poverty, social isolation and other forms of inequality to embed basic digital skill development work into their day-to-day activity with service users.
 
