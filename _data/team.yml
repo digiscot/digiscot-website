@@ -25,14 +25,14 @@
   phone:
   email: beth.murphy@scvo.org.uk
   twitter: Betty_Murphy
-  linkedin:
+  linkedin: https://uk.linkedin.com/in/beth-murphy-88544623
 - name: Maddie Stark
   job: Development Officer, One Digital
   image: Maddie.png
   phone:
   email: maddie.stark@scvo.org.uk
   twitter: StarkMadelaine
-  linkedin:
+  linkedin: https://uk.linkedin.com/in/maddie-stark-52622686
 - name: Eilidh Little
   job: Development Officer, One Digital
   image: Eilidh.jpg
@@ -53,16 +53,16 @@
   phone: 01463 251723
   email: beverley.maclean@scvo.org.uk
   twitter: bevlington
-  linkedin:
+  linkedin: https://www.linkedin.com/in/beverley-maclean-23a03734
 - name: Gavin Bell
   job: Programme Manager, Milo
   image: gavin.jpg
   phone: 0141 559 5004
   email: gavin.bell@scvo.org.uk
   twitter: GavinDigital
-  linkedin: https://www.linkedin.com/pub/gavin-bell/4a/583/168
+  linkedin: https://uk.linkedin.com/in/gavin-bell-1685834a
 - name: Calum MacÙisdean
-  job: Manager, SCVO Web
+  job: Web Development & Design Manager
   image: calum.jpg
   phone:
   email: calum.macuisdean@scvo.org.uk
@@ -74,7 +74,7 @@
   phone:
   email: matthew.wilkes@scvo.org.uk
   twitter: tonicblue
-  linkedin:
+  linkedin: https://uk.linkedin.com/in/matthew-wilkes-345b8616
 - name: Lauren Pluss
   job: Good HQ Community Manager
   image: lauren.jpg
@@ -84,15 +84,43 @@
   linkedin: https://www.linkedin.com/in/laurenpluss
 - name: Alex Nuttgens
   job: Developer, SCVO Labs
-  image:
+  image: alex.jpg
   phone:
   email: alex.nuttgens@scvo.org.uk
   twitter: anuttgens
-  linkedin:
+  linkedin: https://uk.linkedin.com/in/alexnuttgens
 - name: Rebecca Stafford (Maternity Leave)
   job: Team Support Officer
   image: rebecca.jpg
   phone:
-  email:
+  email: rebecca.stafford@scvo.org.uk
+  twitter: digibecca
+  linkedin:
+- name: Ian Mathieson
+  job: Development Officer
+  image:
+  phone:
+  email: ian.mathieson@scvo.org.uk
+  twitter:
+  linkedin: https://uk.linkedin.com/in/ian-mathieson-07030310
+- name: Graeme Hamilton
+  job: Charter Manager
+  image:
+  phone:
+  email: graeme.hamilton@scvo.org.uk
+  twitter: graememhamilton
+  linkedin: https://uk.linkedin.com/in/graeme-hamilton-b3073211
+- name: Alana Neil
+  job: Development Officer
+  image:
+  phone:
+  email: alana.neil@scvo.org.uk
   twitter:
   linkedin:
+- name: Kyle Usher
+  job: Digital Change Manager
+  image:
+  phone:
+  email: kyle.usher@scvo.org.uk
+  twitter: kyle_usher
+  linkedin: https://uk.linkedin.com/in/kyleu
