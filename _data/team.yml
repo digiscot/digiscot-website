@@ -19,13 +19,20 @@
   email: haldis.watson@scvo.org.uk
   twitter: IamHaldis
   linkedin: https://uk.linkedin.com/in/haldis-watson-b8aa767b
-- name: Beth Murphy (Maternity Leave)
-  job: Project Manager, One Digital
-  image: Beth.jpg
+- name: Kyle Usher
+  job: Digital Change Manager
+  image:
   phone:
-  email: beth.murphy@scvo.org.uk
-  twitter: Betty_Murphy
-  linkedin: https://uk.linkedin.com/in/beth-murphy-88544623
+  email: kyle.usher@scvo.org.uk
+  twitter: kyle_usher
+  linkedin: https://uk.linkedin.com/in/kyleu
+- name: Jo Malo
+  job: Team Support Officer, One Digital
+  image: jo.jpg
+  phone: 0131 281 0868
+  email: jo.malo@scvo.org.uk
+  twitter: jomalo6
+  linkedin:
 - name: Maddie Stark
   job: Development Officer, One Digital
   image: Maddie.png
@@ -39,13 +46,6 @@
   phone: 01463 251735
   email: eilidh.little@scvo.org.uk
   twitter: LittleEilidh
-  linkedin:
-- name: Jo Malo
-  job: Team Support Officer, One Digital
-  image: jo.jpg
-  phone: 0131 281 0868
-  email: jo.malo@scvo.org.uk
-  twitter: jomalo6
   linkedin:
 - name: Beverley Maclean
   job: European Development Officer
@@ -61,6 +61,13 @@
   email: gavin.bell@scvo.org.uk
   twitter: GavinDigital
   linkedin: https://uk.linkedin.com/in/gavin-bell-1685834a
+- name: Graeme Hamilton
+  job: Charter Manager
+  image:
+  phone:
+  email: graeme.hamilton@scvo.org.uk
+  twitter: graememhamilton
+  linkedin: https://uk.linkedin.com/in/graeme-hamilton-b3073211
 - name: Calum MacÙisdean
   job: Web Development & Design Manager
   image: calum.jpg
@@ -75,13 +82,6 @@
   email: matthew.wilkes@scvo.org.uk
   twitter: tonicblue
   linkedin: https://uk.linkedin.com/in/matthew-wilkes-345b8616
-- name: Lauren Pluss
-  job: Good HQ Community Manager
-  image: lauren.jpg
-  phone:
-  email: lauren.pluss@scvo.org.uk
-  twitter: laurenpluss
-  linkedin: https://www.linkedin.com/in/laurenpluss
 - name: Alex Nuttgens
   job: Developer, SCVO Labs
   image: alex.jpg
@@ -89,13 +89,13 @@
   email: alex.nuttgens@scvo.org.uk
   twitter: anuttgens
   linkedin: https://uk.linkedin.com/in/alexnuttgens
-- name: Rebecca Stafford (Maternity Leave)
-  job: Team Support Officer
-  image: rebecca.jpg
+- name: Lauren Pluss
+  job: Good HQ Community Manager
+  image: lauren.jpg
   phone:
-  email: rebecca.stafford@scvo.org.uk
-  twitter: digibecca
-  linkedin:
+  email: lauren.pluss@scvo.org.uk
+  twitter: laurenpluss
+  linkedin: https://www.linkedin.com/in/laurenpluss
 - name: Ian Mathieson
   job: Development Officer
   image:
@@ -103,13 +103,6 @@
   email: ian.mathieson@scvo.org.uk
   twitter:
   linkedin: https://uk.linkedin.com/in/ian-mathieson-07030310
-- name: Graeme Hamilton
-  job: Charter Manager
-  image:
-  phone:
-  email: graeme.hamilton@scvo.org.uk
-  twitter: graememhamilton
-  linkedin: https://uk.linkedin.com/in/graeme-hamilton-b3073211
 - name: Alana Neil
   job: Development Officer
   image:
@@ -117,10 +110,17 @@
   email: alana.neil@scvo.org.uk
   twitter:
   linkedin:
-- name: Kyle Usher
-  job: Digital Change Manager
-  image:
+- name: Rebecca Stafford (Maternity Leave)
+  job: Team Support Officer
+  image: rebecca.jpg
   phone:
-  email: kyle.usher@scvo.org.uk
-  twitter: kyle_usher
-  linkedin: https://uk.linkedin.com/in/kyleu
+  email: rebecca.stafford@scvo.org.uk
+  twitter: digibecca
+  linkedin:
+- name: Beth Murphy (Maternity Leave)
+  job: Project Manager, One Digital
+  image: Beth.jpg
+  phone:
+  email: beth.murphy@scvo.org.uk
+  twitter: Betty_Murphy
+  linkedin: https://uk.linkedin.com/in/beth-murphy-88544623

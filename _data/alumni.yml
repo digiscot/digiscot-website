@@ -1,10 +1,3 @@
-- name: Jenny Bann
-  job: Digital Participation Charter Lead
-  image: jenny.jpg
-  phone:
-  email: jenny.bann@scvo.org.uk
-  twitter: calluna_
-  linkedin: https://uk.linkedin.com/in/jenny-bann-18b527109
 - name: Chris Yiu
   job: Director
   image: chris.png
@@ -12,6 +5,13 @@
   email:
   twitter: clry2
   linkedin: http://www.linkedin.com/in/clry2
+- name: Jenny Bann
+  job: Digital Participation Charter Lead
+  image: jenny.jpg
+  phone:
+  email: jenny.bann@scvo.org.uk
+  twitter: calluna_
+  linkedin: https://uk.linkedin.com/in/jenny-bann-18b527109
 - name: Gillian Munro
   job: Digital Participation Development Officer
   image: gillian.JPG
@@ -19,9 +19,16 @@
   email:
   twitter: digi_gill
   linkedin:
+- name: Tessa Quinn
+  job: Good HQ Consultant
+  image:
+  phone:
+  email:
+  twitter: tessaq03
+  linkedin: https://uk.linkedin.com/in/tessaquinn
 - name: Alastair Watson
   job: Development Officer, Charter and Projects
-  image: alastair.jpg
+  image:
   phone:
   email:
   twitter: digit_aly
@@ -32,7 +39,7 @@
   phone:
   email:
   twitter:
-  linkedin:
+  linkedin: https://uk.linkedin.com/in/aronseemel
 - name: Mary Sinclair
   job:
   image: mary.jpg
@@ -49,7 +56,7 @@
   linkedin:
 - name: Kevin Bradley
   job:
-  image: kevin.jpg
+  image:
   phone:
   email:
   twitter: TheAceofKs
@@ -61,6 +68,13 @@
   email:
   twitter:
   linkedin:
+- name: James Williams
+  job:
+  image:
+  phone:
+  email:
+  twitter:
+  linkedin: https://uk.linkedin.com/in/james-williams-ba361b6a
 - name: Rikki Dobson
   job:
   image: rikki.jpg
