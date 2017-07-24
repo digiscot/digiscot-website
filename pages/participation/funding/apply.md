@@ -12,7 +12,7 @@ submenu: participation-funding
 
 <a href="/participation/funding/faq/" class="btn btn-primary blue darken-4 white-text">Read the FAQ and guidance notes first</a>
 
-The application process consists of one online form that must be fully complete before your application will be assessed.
+The application process consists of an online form that must be fully complete before your application will be assessed.
 
 The timescale for the application process is outlined below.
 

@@ -18,9 +18,11 @@ We will stop accepting application forms at 5pm on 31st August. We will not be a
 
 We're inviting organisations across Scotland to join a national movement to promote digital participation and basic digital skills. By undertaking work as part of the [Charter Fund](/participation/charter-fund/) you will be expected to sign the Charter before submitting your application. If you have not done this you will be unable to proceed with your application. [Read more on the Charter](https://digitalparticipation.scot/the-charter).
 
-### 3. What questions will I be asked?
+### 3. Can I download a blank application form?
 
-You'll be asked to answer the following questions. If you feel supporting information is required to further evidence your project idea this can be emailed separately, with your Organisation and Project Name as the reference, to <a href="mailto:digital@scvo.org.uk">digital@scvo.org.uk</a> following the submission of your application. However, the application will be assessed primarily on the application form. You should make sure that every piece of information you would like considered as part of your application is within the form.
+We haven't provided a blank application form. However, below is a list of all the questions you'll be asked along with a brief explanatory note.
+
+If you feel supporting information is required to further evidence your project idea this can be emailed separately, with your Organisation and Project Name as the reference, to <a href="mailto:digital@scvo.org.uk">digital@scvo.org.uk</a> following the submission of your application. However, the application will be assessed primarily on the application form. You should make sure that every piece of information you would like considered as part of your application is within the form.
 
 **About Your Organisation**
 
@@ -50,15 +52,15 @@ We'd like some information on the lead contact for the purpose of this applicati
 In the next set of questions we'd like you to tell us more about your specific project idea. The majority of the questions have a word limit, it might be helpful if you draft text in word (or similar) before pasting your final crafted answer. There is a word count indicator under each question for guidance.
 
 {:.browser-default}
-1. **Project Name** - A short, snappy title for your project
+1. **Project Name** - A short, positive, snappy title for your project
 2. **Start and End Date** - The earliest start date your project can start is 16th October 2017. In the past we have had projects ranging from 6 months to 15 months but the average delivery period has been 9/12 months.
-3. **Project Detail** - We'd like to get a clear understanding of your project. Please explain your proposal and how it will support people who don't have Basic Digital Skills. Think about things such as (but not limited to); who are you supporting, who will be running the project, what type of activities you will be doing to support people's learning and what devices will be used (if any) (N.B. There is a 300 word limit for this answer - you might like to refine your answer in word (or similar first)
+3. **Project Detail** - We'd like to get a clear understanding of your project. Please explain your proposal and how it will support people who don't have basic digital skills. Think about things such as (but not limited to); who are you supporting, who will be running the project, what type of activities you will be doing to support people's learning and what devices will be used (if any) (N.B. There is a 300 word limit for this answer - you might like to refine your answer in word (or similar first)
 4. **Project Delivery** - Please tell us where this specific project will be delivered in terms of Local Authority area and down to community or neighbourhood. We'd also like to know what spaces/buildings you will use. (N.B. There is a 300 word limit for this answer)
 5. **Which key target theme are you addressing?** - Please tell us which of the key themes you are addressing - either Reducing Social isolation or Increasing Economic Prospects. You will then be asked to select your target groups within these two options. Please select all that apply.
 6. **Project Management** - Please explain how the project will be managed within your organisation and who will be responsible for reporting on progress (N.B. There is a 400 word limit for this answer)
-7. **Embedding the activity** - Our evidence tells us that greater success is achieved if passing on Basic Digital Skills is embedded within a regular activity. Please use this space to tell us how you will embed this digital skills activity in to your work? (N.B. There is a 400 word limit for this answer)
+7. **Embedding the activity** - Our evidence tells us that greater success is achieved if passing on basic digital skills is embedded within a regular activity. Please use this space to tell us how you will embed this digital skills activity in to your work? (N.B. There is a 400 word limit for this answer)
 8. **Number of people supported** - How many people will be supported to gain basic digital skills?
-9. **Measuring progress** - Please explain how you will measure the progress and the number of people you are supporting. You will be required to ensure that each learner completed a Basic Digital Skills questionnaire at the beginning and end of their learning (we will make this available to you) (N.B. There is a 300 word limit for this answer)
+9. **Measuring progress** - Please explain how you will measure the progress and the number of people you are supporting. You will be required to ensure that each learner completed a basic digital skills questionnaire at the beginning and end of their learning (we will make this available to you) (N.B. There is a 300 word limit for this answer)
 
 **Funding & Expenditure**
 

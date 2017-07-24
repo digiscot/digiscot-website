@@ -9,7 +9,7 @@ submenu: participation-funding
 ---
 
 ## Key criteria
-As with previous rounds, we will be applying lessons learnt from previous rounds to help projects maximise their effect. Key areas to consider include:
+As with previous rounds, we will be applying lessons learnt to help projects maximise their effect. Key areas to consider include:
 
 1. Engagement and reach
 2. Participants' barriers and support needs
@@ -20,7 +20,7 @@ Challenges have been reported in engaging the right participants, and maintainin
 
 Solutions have included offering short information sessions in advance of the actual course. These can be evening talks, brief presentations at other organisations, etc. One group suggested pop-up events in coffee shops. Partnerships with other organisations and more formal referral routes are seen as fruitful ways of reaching the right people to support. In particular, referrals from Jobcentre Plus have been identified as the best way to reach unemployed people. ESOL classes have been suggested as an appropriate source of referrals for people also facing English language barriers.
 
-For older people, it is seen as important that digital skills sessions are embedded within other activities they are already doing.
+It is seen as important that digital skills sessions are embedded within other activities they are already doing.
 
 ### 2. Participants' barriers and support needs
 Practical barriers to participation, alongside those of digital exclusion, have been identified, such as childcare or transport issues. The three most common barriers, however, were language, confidence, and motivation. As a result, the overwhelming feeling amongst projects is that one-to-one support, or support to a small group of people in similar situations, is necessary.
@@ -32,7 +32,7 @@ Language barriers amongst participants for whom English is not their first langu
 Two areas to overcome confidence barriers have been identified as important. Meeting people ‘where they are at', both in their skills and their confidence, and ensuring that participants are at similar levels of skills and confidence when they start the training. This ensures that classes are pitched in the right way, but also creates “a positive learning environment in which they could bounce ideas off each other without feelings of inferiority or embarrassment.” In order to do this, many projects shared the view that “an initial assessment of learners' needs and existing skills is essential to setting the appropriate pace of learning for individual learners.”
 
 #### Motivation barriers
-Beyond lack of confidence, people might have little desire to acquire digital skills. In some cases, this is out of fear or mistrust of the internet. The solution, many projects found, was twofold. Firstly, explicitly, to tackle worries about security with digital security training and secondly, to highlight the usefulness of digital skills to those that are unconvinced.
+Beyond lack of confidence, people might have little desire to acquire digital skills. In some cases, this is out of fear or mistrust of the internet. The solution, many projects found, was twofold. Firstly, explicitly, to tackle worries about security with digital security training and secondly, to highlight the usefulness of digital skills in day to day offline situations.
 
 #### 1 to 1 or small groups necessary
 A quarter of all groups explicitly identified one-to-one (preferably) or small group learning as the necessary approach to digital inclusion training for vulnerable or digitally excluded groups, from ‘day one'.

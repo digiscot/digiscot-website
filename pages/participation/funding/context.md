@@ -10,26 +10,26 @@ submenu: participation-funding
 
 ## Context
 
-Building on an understanding of 'what works' in the development of Basic Digital Skills, the fifth round of the Digital Participation Fund will be focussed on two specific themes:
+Building on an understanding of 'what works' in the development of basic digital skills, the fifth round of the Digital Participation Fund will be focussed on two specific themes:
 
 * Supporting working age people to increase financial capability, employment and other economic outcomes
 * Supporting older and disabled people to reduce social isolation and loneliness
 
-In this round £175,000 which will be split 75/25 respectively across these key areas.
+In this round £175,000 is available which will be split 75/25 respectively across the two themes.
 
 Priority will be focussed in two areas:
 
 * Projects which can demonstrate a track record of working with individuals who are facing issues such as poverty, social isolation and other forms of inequality.
 * Projects where digital skills activity for their service users are embedded in the organisation's day-to-day activity.
 
-Over previous rounds we have received a good mix of both 'hyper-local' and 'wider reach' projects. 'Hyper-local' we would define as those led by a single organisation, without strong links to other organisations and/or happening in a single venue e.g. community hubs, particularly in remote and rural areas. Wider reach we would view as national initiatives or partnerships which are trying to drive a change management programme of works on digital basic skills.
+Over previous rounds we have received a good mix of both 'hyper-local' and 'wider reach' projects. 'Hyper-local' we would define as those led by a single organisation, without strong links to other organisations and/or happening in a single venue e.g. community hubs, particularly in remote and rural areas. Wider reach we would view as national initiatives or partnerships which are trying to drive a change management programme of works on basic digital skills.
 
 The application process consists of one online form that must be fully completed before your application will be assessed. All applicants must be signed up to the Digital Participation Charter and be able to demonstrate their commitment through their proposed project. We will be unable to accept applications from organisations not already registered with the scheme so please bear that in mind when planning out your submission timetable.
 
 ### Timeline
 
 | Milestone | Date |
-|-----------|------|
+| --- | --- |
 | **Application process for Round 5 open** | 24th July – 31st August |
 | **Applications are assessed by the Digital team & recommendations are made** | 1st September – 20th September |
 | **Final portfolio approval** | 27th September |
