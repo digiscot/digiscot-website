@@ -209,16 +209,16 @@
                             break;
                     }
                 }
-                if (grant.call == "Call 4" || grant.call == "Call 5") {
-                    grantProgramme.code = "scvo-digital-charter-fund" + call;
-                    grantProgramme.title = "Digital Participation Charter Fund - " + grant.call + call_detail;
-                    grantProgramme.description = "Our Digital Participation Charter Fund, supported by by the Scottish Government, the ERDF and BT, invests in community digital participation projects across Scotland. The projects that we’re supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.";
-                    grantProgramme.url = "http://digital.scvo.org.uk/participation/challenge-fund/";
-                } else {
+                if (grant.call == "Call 1" || grant.call == "Call 2" || grant.call == "Call 3") {
                     grantProgramme.code = "scvo-digital-challenge-fund" + call;
                     grantProgramme.title = "Digital Participation Challenge Fund - " + grant.call + call_detail;
-                    grantProgramme.description = "Our Digital Participation Challenge Fund, supported by by the Scottish Government, the ERDF and BT, invests in community digital participation projects across Scotland. The projects that we’re supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.";
+                    grantProgramme.description = "Our Digital Participation Challenge Fund, supported by by the Scottish Government, the ERDF and BT, invests in community digital participation projects across Scotland. The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.";
                     grantProgramme.url = "http://digital.scvo.org.uk/participation/challenge-fund/";
+                } else {
+                    grantProgramme.code = "scvo-digital-charter-fund" + call;
+                    grantProgramme.title = "Digital Participation Charter Fund - " + grant.call + call_detail;
+                    grantProgramme.description = "Our Digital Participation Charter Fund, supported by by the Scottish Government, the ERDF and BT, invests in community digital participation projects across Scotland. The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.";
+                    grantProgramme.url = "http://digital.scvo.org.uk/participation/charter-fund/";
                 }
                 grant.grantProgramme = [];
                 grant.grantProgramme.push(grantProgramme);
