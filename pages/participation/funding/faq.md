@@ -103,11 +103,15 @@ Of course. We love seeing organisations working together so please feel free to 
 
 Yes, we will accept more than one application form where several discrete support activities are being proposed and they are not dependent on one another.
 
-### 9. Can we submit an application if we have already had a project funded under the Digital Participation Challenge?
+### 9. How much can I apply for through the fund?
+
+The minimum amount of funding is £500 and the maximum is £10,000 per project. If you would like to request amounts outside of these parameters please email <A href="mailto:digital@scvo.org.uk">digital@scvo.org.uk</a> for a discussion in the first instance.
+
+### 10. Can we submit an application if we have already had a project funded under the Digital Participation Challenge?
 
 Yes, however, the activity which you are now asking to be funded must not be continuation funding of that previous project.
 
-### 10. How will my application be assessed?
+### 11. How will my application be assessed?
 
 After the deadline has passed, all applications will be allocated to a member of the assessing group made up of members of the SCVO team; a random group of applications will be selected for peer review. We will then hold a meeting where all of the projects / applications deemed suitable will be discussed and a final set of recommended projects will be agreed upon. The team's recommendations are then considered by a panel of experts which has the final approval. We aim to announce our final decisions by the end of September 2017.
 
