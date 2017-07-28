@@ -6,6 +6,8 @@ excerpt: Call for Funding - Autumn 2017
 fa-icon: fa-pencil-square-o
 permalink: /participation/funding/
 submenu: participation-funding
+redirect_from:
+  - /participation/apply-for-funding/
 ---
 
 ## Introduction
