@@ -85,7 +85,7 @@ This must be completed by someone within your organisation who has the authority
 
 ### 4. Can I save my application?
 
-No, we have used this facility in the past but have found that it is easier for us and applicants to employ a one take approach. The above list outlined in point 2 will give you the exact ordering of questions and level of detail you need to construct answers in advance and copy & paste in.
+No, we have used this facility in the past but have found that it is easier for us and applicants to employ a one take approach. The above list outlined in point 3 will give you the exact ordering of questions and level of detail you need to construct answers in advance and copy & paste in.
 
 ### 5. Can I move backwards and forwards within the application form?
 
