@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/grampianha?lang=en
 facebook-url: https://en-gb.facebook.com/GrampianHousingAssociation/
 permalink: /evolution/digital-pioneers/grampian-ha/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Neil Clapperton, Chief Executive of Grampian Housing Association tells us more...**
 
 ![Grampian Housing Assocation](/images/digital-pioneers/GHANeilClapperton.jpg){:height="222px" width="400px"} ![Grampian Housing Assocation](/images/digital-pioneers/GHAoffice.png){:height="222px" width="400px"} ![Grampian Housing Assocation](/images/digital-pioneers/GHAstaff.jpg){:height="222px" width="400px"}
