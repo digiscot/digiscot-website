@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/Cyrenians1968
 facebook-url: https://en-gb.facebook.com/cyrenians/
 permalink: /evolution/digital-pioneers/cyrenians/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Ian Grimwade, Head of Business Development at Cyrenians tells us more...**
 
 ![Cyrenians - Ask Alex](/images/digital-pioneers/askalextwitter.jpg){:height="400px" width="1200px"}{:.responsive-img}
