@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/EuansGuide?ref_src=twsrc%5Egoogle%7Ctwcamp%5Ese
 facebook-url: https://en-gb.facebook.com/EuansGuide
 permalink: /evolution/digital-pioneers/euans-guide/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Antonia Lee-Bapty, Director of Operations at Euan's Guide tells us more...**
 
 ![Euan's Guide](/images/digital-pioneers/websiteheader.png){:height="400px" width="1200px"}{:.responsive-img}
