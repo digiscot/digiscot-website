@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/StirVolunteer
 facebook-url: https://www.facebook.com/Stirlingshire-Voluntary-Enterprise-208612419156913/
 permalink: /evolution/digital-pioneers/sve/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Rachel Johnston, Organisational Support Worker from Stirlingshire Voluntary Enterprise tells us more...**
 
 ![SVE](/images/digital-pioneers/SVEConference.jpg){:height="300px" width="400px"} ![SVE](/images/digital-pioneers/SVElogoforbannerr.jpg){:height="300px" width="400px"} ![SVE](/images/digital-pioneers/SVENHSVolsWeek.jpg){:height="300px" width="400px"}
