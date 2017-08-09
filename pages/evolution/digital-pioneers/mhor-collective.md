@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/mhorcollective
 facebook-url:
 permalink: /evolution/digital-pioneers/mhor-collective/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Irene Mackintosh, one of the Mhor Collective's Directors tells us more...**
 
 ![Mhor Collective](/images/digital-pioneers/MClogo.png){:height="300px" width="500px"}{:.responsive-img}
