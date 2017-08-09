@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/quarriers
 facebook-url: https://www.facebook.com/quarriersfans
 permalink: /evolution/digital-pioneers/quarriers/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Peter Rainbird, Digital Inclusion Facilitator of Quarriers North East of Scotland Team  tells us more...**
 
 ![Quarriers](/images/digital-pioneers/Quarriers16_logo_cmyk.png){:height="222px" width="600px"}{:.responsive-img}
