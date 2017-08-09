@@ -12,6 +12,8 @@ twitter-url: https://twitter.com/iConnectNE
 facebook-url: https://www.facebook.com/iConnectNE/
 permalink: /evolution/digital-pioneers/iconnect-northeast/
 ---
+**Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
+
 **Graham Murdo, Community Support Officer at iConnect North East tells us more...**
 
 ![iConnect North East](/images/digital-pioneers/iCNEworkshop.jpg){:height="222px" width="400px"} ![iConnect North East](/images/digital-pioneers/iCNEwebsiteheader.png){:height="222px" width="400px"} ![iConnect North East](/images/digital-pioneers/ICNEmeetupimage.jpg){:height="222px" width="400px"}
