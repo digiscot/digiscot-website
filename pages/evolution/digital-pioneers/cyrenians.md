@@ -89,7 +89,7 @@ The key point for people to know is that you can get much, much more data into t
 
 You will need to engage expert help – we did, and still had challenges as this is very new technology.   
 
-### What"s on your digital horizon?
+### What's on your digital horizon?
 
 **Ian:** We’re looking at how digital can allow us to deliver a better service for our clients, for us to be more effective and how we can use it to support our innovation as an organisation.  The specific direction remains fairly open at this time, but as well as potential further development of the bot for our services, we are working on an App, continuing to seek to grow our brand reach and recognition through our digital following and looking at the use of technology across all of our services.
 
