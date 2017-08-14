@@ -16,7 +16,7 @@ permalink: /evolution/digital-pioneers/leadscotland/
 
 **Emma Whitelock, Chief Executive Officer at Lead Scotland tells us more...**
 
-![Lead Scotland](/images/digital-pioneers/leadsq.JPG){:height="400px" width="1200px"}{:.responsive-img}
+![Lead Scotland](/images/digital-pioneers/leadsq.JPG)
 
 ### Tell us about Tell us about Lead Scotland!
 
