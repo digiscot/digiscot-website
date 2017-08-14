@@ -75,7 +75,7 @@ submenu: about
             {% for item in site.data.team %}
                 <div class="card medium hoverable">
                     <div class="card-image">
-                        <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                        <img src="/images/photos/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
                     </div>
                     <div class="card-content">
                         <strong>{{ item.name }}</strong><br />
@@ -110,7 +110,7 @@ submenu: about
             {% for item in site.data.alumni %}
                 <div class="card medium hoverable">
                     <div class="card-image">
-                        <img src="/images/team/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
+                        <img src="/images/photos/alumni/{% if item.image %}{{ item.image }}{% else %}avatar.png{% endif %}" class="responsive-img">
                     </div>
                     <div class="card-content">
                         <strong>{{ item.name }}</strong><br />
