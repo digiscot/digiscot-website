@@ -16,7 +16,7 @@ permalink: /evolution/digital-pioneers/leadscotland/
 
 **Emma Whitelock, Chief Executive Officer at Lead Scotland tells us more...**
 
-![Lead Scotland](/images/digital-pioneers/leadscotlandheader.JPG){:height="400px" width="1200px"}{:.responsive-img}
+![Lead Scotland](/images/digital-pioneers/leadsq.JPG){:height="400px" width="1200px"}{:.responsive-img}
 
 ### Tell us about Tell us about Lead Scotland!
 
@@ -49,7 +49,9 @@ We decided on a broad range of assessment methods in order to make the course as
 
 ### What's been the impact?
 
-**Emma:** Around 20 people have taken the course so far with the same again ready to go after the summer.  We keep the cohorts small at around 5 to maximise the quality of the learning experience online.  Our own staff and volunteers have also directly benefited as we are continually learning and finding digital solutions.   
+**Emma:** Around 20 people have taken the course so far with the same again ready to go after the summer.  We keep the cohorts small at around 5 to maximise the quality of the learning experience online.  Our own staff and volunteers have also directly benefited as we are continually learning and finding digital solutions. 
+
+![Lead Scotland](/images/digital-pioneers/lspictures.JPG){:height="400px" width="1200px"}{:.responsive-img}
 
 ### Any challenges?
 
