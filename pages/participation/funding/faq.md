@@ -115,6 +115,14 @@ Yes, however, the activity which you are now asking to be funded must not be con
 
 After the deadline has passed, all applications will be allocated to a member of the assessing group made up of members of the SCVO team; a random group of applications will be selected for peer review. We will then hold a meeting where all of the projects / applications deemed suitable will be discussed and a final set of recommended projects will be agreed upon. The team's recommendations are then considered by a panel of experts which has the final approval. We aim to announce our final decisions by the end of September 2017.
 
+### 12. What type of projects are you looking to fund?
+
+Evidence from previous rounds identifies that projects are more successful in supporting people to develop basic digital skills if the activity is embedded in a regular activity. Some examples of this could be linking budgeting activity to an online free app, supporting a job search with the development of a CV or supporting basic cookery classes with an online recipe search. With all projects that are funded we would anticipate that the organisation is taking learning and the changing of their own processes and procedures at the heart of the delivery, and that they will continue to employ this new digital skills development activity in future operations.
+
+### 13. Can we start our project in 2018?
+
+Unless discussed with and approved by the Digital Team, all projects must commence in 2017. We are unable to award funding retrospectively; projects are required to commence within 8 weeks of the funding award being made. Please refer to the Charter 5 Timescales for further information.
+
 <div class="section headingless">
     <a href="/participation/funding/apply/" class="btn btn-primary blue darken-4 white-text right">
         <i class="fa fa-pull-right fa-chevron-right"></i>
