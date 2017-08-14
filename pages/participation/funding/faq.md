@@ -121,7 +121,7 @@ Evidence from previous rounds identifies that projects are more successful in su
 
 ### 13. Can we start our project in 2018?
 
-Unless discussed with and approved by the Digital Team, all projects must commence in 2017. We are unable to award funding retrospectively; projects are required to commence within 8 weeks of the funding award being made. Please refer to the Charter 5 Timescales for further information.
+Unless discussed with and approved by the Digital Team, all projects must commence in 2017. We are unable to award funding retrospectively; projects are required to commence within 8 weeks of the funding award being made. Please refer to the [Charter 5 Timescales](/participation/funding/context/#timeline) for further information.
 
 <div class="section headingless">
     <a href="/participation/funding/apply/" class="btn btn-primary blue darken-4 white-text right">
