@@ -22,8 +22,8 @@ submenu: evolution
         {% capture awarded %}{{ awarded | plus: page.award }}{% endcapture %}
         {% endif %}
         {% endfor %}
-        
-        <div class="digital-pioneer-cards" data-columns>
+
+        <div class="digital-pioneer-cards row">
             {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
             {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
 
@@ -31,23 +31,25 @@ submenu: evolution
 
             {% for page in site.pages %}
             {% if page.layout == 'digital-pioneer' %}
-            <div class="card hoverable">
-                <div class="card-content">
-                    {% capture tags %}
-                    {% for tag in page.tags %}
-                    {{ tag }}
-                    {% endfor %}
-                    {% endcapture %}
+            <div class="col s4">
+                <div class="card hoverable">
+                    <div class="card-content">
+                        {% capture tags %}
+                        {% for tag in page.tags %}
+                        {{ tag }}
+                        {% endfor %}
+                        {% endcapture %}
 
-                    {% assign sortedtags = tags | split:' ' | sort %}
+                        {% assign sortedtags = tags | split:' ' | sort %}
 
-                    <p><a href="{{ page.url }}" class="card-title">
-                        {% if page.image %}<img src="images/digital-pioneers/{{ page.image }}" class="responsive-img" />{% endif %}
-                        <strong>{{ page.pioneer-title }}</strong>
-                    </a></p>
-                    <p>{{ page.pioneer-excerpt }}</p>
+                        <p><a href="{{ page.url }}" class="card-title">
+                            {% if page.image %}<img src="images/digital-pioneers/{{ page.image }}" class="responsive-img" />{% endif %}
+                            <strong>{{ page.pioneer-title }}</strong>
+                        </a></p>
+                        <p>{{ page.pioneer-excerpt }}</p>
 
-                    {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
+                        {% capture idx %}{{ idx | plus: 1}}{% endcapture %}
+                    </div>
                 </div>
             </div>
             {% endif %}
