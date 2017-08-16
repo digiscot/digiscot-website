@@ -17,7 +17,7 @@ permalink:
 
 **Lynne Collinson, Community Action Officer at <a target='_blank' href="http://www.orkneycommunities.co.uk/shapinsay/">Shapinsay Development Trust</a> tells us more...**
 
-![Shapinsay Development Trust](/images/digital-pioneers/shapinsaylogo.jpg){:height="300px" width="500px"}{:.responsive-img}
+![Shapinsay Development Trust](/images/digital-pioneers/shapinsaylogo.jpg){:height="400px" width="1200px"}{:.responsive-img}
 
 ### Tell us about Shapinsay Development Trust! 
 
@@ -30,7 +30,7 @@ The regular activities of <a target='_blank' href="http://www.orkneycommunities.
 
 **Lynne:** We started using digital technology just over a year ago to document and publicise our <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">'Sew Shapinsay'</a> project which was the first public activity held in our new community facility – an old Boathouse, the conversion of which was supported by funding from <a target='_blank' href="https://www.biglotteryfund.org.uk/">Big Lottery</a> and <a target='_blank' href="http://www.hie.co.uk/">Highland and Islands Enterprise</a>. 
 
-![Shapinsay Development Trust](/images/digital-pioneers/shapinsaygroup.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Shapinsay Development Trust](/images/digital-pioneers/shapinsaygrouprs.jpg)
 
 ### Tell us more about Sew Shapinsay and how you used digital.
 
@@ -40,7 +40,7 @@ The regular activities of <a target='_blank' href="http://www.orkneycommunities.
 
 At the time the project started I had recently started working as a freelance Community Action Officer for the Trust and decided to use the Trust’s iPad to capture the creativity involved – this resulted in my first <a target='_blank' href="https://www.apple.com/uk/imovie/">iMovie</a> video which to my surprise attracted over 1000 viewings and counting on <a target='_blank' href="https://www.facebook.com/ShapDevTrust/">Facebook</a> for just a £10 promotional fee! It was in theory a little too long at 6 minutes but it seems that many people watched it the whole way through and shared it with others and even now there are regular fresh viewings. 
 
-![Shapinsay Development Trust](/images/digital-pioneers/sewing.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Shapinsay Development Trust](/images/digital-pioneers/sewingrs.jpg)
 
 ### What motivated you?
 
@@ -68,7 +68,7 @@ It is liberating and exciting to see how much can be done with today’s latest 
 
 From our <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">Facebook</a> promotion, the project was picked up by BBC Breakfast TV who featured some shots of our handiwork as a backdrop to a feature on Orkney – emphasising the validity and relevance of the work to a national audience. A local glossy magazine has also recently asked to do a feature on us. 
 
-![Shapinsay Development Trust](/images/digital-pioneers/filming.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Shapinsay Development Trust](/images/digital-pioneers/filmingrs.jpg)
 
 Seeing the completed <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">'Sew Shapinsay' video</a> gave people who took part the confidence that the material had been used in a professional way that added value to the project and has given them a confidence about taking part in other filming. 
 
@@ -76,7 +76,7 @@ It has also been admired and the video shown to many visitors to <a target='_bla
 
 Tourists who’ve come in to have a look have also got involved and sewn a few stitches and at Christmas we took the project to the craft shop at our Heritage Centre where some of the visitors sat down to have a go. One thing people have enjoyed doing is embroidering their home on the map or somewhere important to them such as their favourite beach. 
 
-![Shapinsay Development Trust](/images/digital-pioneers/closeup.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Shapinsay Development Trust](/images/digital-pioneers/closeuprs.jpg){:height="400px" width="1200px"}{:.responsive-img}
 
 ### Any challenges?
 
