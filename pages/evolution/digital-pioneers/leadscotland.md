@@ -34,9 +34,22 @@ Alongside our loan scheme we have continuously been on a digital journey interna
 
 ![Lead Scotland Thinking Digitally](/images/digital-pioneers/leadscotlandtd.JPG){:height="400px" width="1200px"}{:.responsive-img}
 
+These are some of the impacts felt by volunteers and staff:
+
+**Building confidence:** “It is pushing me to try things I have always steered away from”
+
+**Broadened knowledge:** “It has introduced me to a wide range of digital tools and platforms and given instruction on how they might be used”
+
+**Getting rid of the fear factor:** “Honestly, I used to be a bit suspicious and dismissive of 'cloud' based apps. I am now a convert! I am enjoying being in the learner seat and can't wait to share my new knowledge to collaborate on or facilitate digital artefact projects with learners and colleagues”
+
+**Empowerment to ask for needs to be met:** “I liked the accessibility. The use of soundfiles, images, etc”. This volunteer has dyslexia and said he had been put off formal learning before because of the type of assessments, but he learned about new tools and ways that he could submit assessment evidence.
+
+**Accessible:** “I can take part from home. Living in a remote part of the country, this is important.”
+
 ### What motivated you?
 
-**Emma:** We are aware of many disabled people and others who find it hard to get a job.  Disabled people are also 3 times as likely not to have recognised qualifications. We saw a gap in the market for a flexible, person centred, context free, digital skills credit bearing course which would build confidence and demonstrate digital skills development.  Pitched at SCQF level 6, the course assumes that people already had basic ICT skills and that they could independently and remotely link into the online webinars.   
+**Emma:** We are aware of many disabled people and others who find it hard to get a job.  Disabled people are also 3 times as likely not to have recognised qualifications. We saw a gap in the market for a flexible, person centred, context free, digital skills credit bearing course which would build confidence and demonstrate digital skills development.  Pitched at SCQF level 6, the course assumes that people already had basic ICT skills and that they could independently and remotely link into the online webinars.  
+
 We decided on a broad range of assessment methods in order to make the course as accessible as possible. Many people also told us they would like to gain more confidence in understanding how to create accessible digital artefacts online and this has become a key part of the experience. In order to sustain the learning, the use of free tools means that people retain ownership of the digital artefact they have curated, to showcase their skills, keep learning and feature in their CV. 
 
 ### How did you go about it?
