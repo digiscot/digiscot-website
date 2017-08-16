@@ -104,19 +104,21 @@ a:link {
     // transition: none;
 }
 
-ul:not(.fa-ul) {
-    margin: 1rem 0 1rem 1.5rem;
-    li {
-        list-style-type: disc;
+.content {
+    ul:not(.fa-ul) {
+        margin: 1rem 0 1rem 1.5rem;
+        li {
+            list-style-type: disc;
+        }
     }
-}
-.collapsible ul li {
-    list-style-type: none;
-}
-.nav-wrapper ul:not(.browser-default) {
-    margin: 0;
-    li {
+    .collapsible ul li {
         list-style-type: none;
+    }
+    .nav-wrapper ul:not(.browser-default) {
+        margin: 0;
+        li {
+            list-style-type: none;
+        }
     }
 }
 
