@@ -54,6 +54,9 @@ Actually making the video took a couple of days but collecting the material was 
 
 The iPad was a general purchase for Trust use.  It already had iMovie as an available free app to allow editing of the video.  We did decide to invest around £100 on a decent external mic (and wind shield given that it’s Orkney!) so that the quality of the audio would be of a good standard.  There were no other costs involved as the content was all generated naturally from those taking part in the project.
 
+<iframe src="https://player.vimeo.com/video/178032654" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/178032654">Sew Shapinsay - HD Version</a> from <a href="https://vimeo.com/user55179119">Shapinsay Development Trust</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ### Who was involved?
 
 **Lynne:** Over 30 people have directly been involved from the community in working on the project and feature in the <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">'Sew Shapinsay'</a> film.  
