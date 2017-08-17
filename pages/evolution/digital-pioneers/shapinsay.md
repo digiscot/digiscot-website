@@ -68,7 +68,7 @@ It is liberating and exciting to see how much can be done with today’s latest 
 
 From our <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">Facebook</a> promotion, the project was picked up by BBC Breakfast TV who featured some shots of our handiwork as a backdrop to a feature on Orkney – emphasising the validity and relevance of the work to a national audience. A local glossy magazine has also recently asked to do a feature on us. 
 
-![Shapinsay Development Trust](/images/digital-pioneers/filming.jpg){:height="400px" width="1200px"}{:.responsive-img} 
+![Shapinsay Development Trust](/images/digital-pioneers/filming.jpg){:height="400px" width="1200px"}{:.responsive-img}
 
 Seeing the completed <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">'Sew Shapinsay' video</a> gave people who took part the confidence that the material had been used in a professional way that added value to the project and has given them a confidence about taking part in other filming. 
 
