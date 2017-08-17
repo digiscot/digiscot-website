@@ -17,7 +17,7 @@ permalink:
 
 **Lynne Collinson, Community Action Officer at <a target='_blank' href="http://www.orkneycommunities.co.uk/shapinsay/">Shapinsay Development Trust</a> tells us more...**
 
-![Shapinsay Development Trust](/images/digital-pioneers/shapinsaylogo.jpg)
+![Shapinsay Development Trust](/images/digital-pioneers/shapbanner.jpg)
 
 ### Tell us about Shapinsay Development Trust! 
 
