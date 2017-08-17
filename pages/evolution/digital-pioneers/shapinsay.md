@@ -10,7 +10,7 @@ website: http://www.orkneycommunities.co.uk/shapinsay/
 email:
 twitter-url: 
 facebook-url: https://www.facebook.com/ShapDevTrust/
-permalink: 
+permalink: /evolution/digital-pioneers/shapinsay/ 
 ---
 
 **Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations.
