@@ -10,7 +10,7 @@
     getProjects();
 
     function getProjects() {
-        var fundType = 'grants-digital'; // grants-ccrf or grants-digital
+        var fundType = 'grants-ccrf'; // grants-ccrf or grants-digital
         var payload = {
             index: fundType,
             type: 'grant',
@@ -165,6 +165,7 @@
                 grant.recipientOrganization = [];
                 grant.recipientOrganization.push(recipientOrganization);
 
+                var location = {};
                 var fundingOrganization = {};
                 fundingOrganization.id = "GB-SC-SC003558";
                 fundingOrganization.name = "Scottish Council For Voluntary Organisations";
@@ -172,21 +173,22 @@
                 if (fundType == 'grants-digital') {
                     fundingOrganization.department = "Digital";
                     fundingOrganization.streetAddress = "Hayweight House, 23 Lauriston Street";
+                    location.latitude = "55.945492";
+                    location.longitude = "-3.201152";
                 } else {
                     fundingOrganization.department = "Policy";
                     fundingOrganization.streetAddress = "Mansfield Traquair, 15 Mansfield Place";
+                    location.latitude = "55.959611";
+                    location.longitude = "-3.190946";
                 }
+                fundingOrganization.location = [];
+                fundingOrganization.location.push(location);
                 fundingOrganization.addressLocality = "Edinburgh";
                 fundingOrganization.addressRegion = "City of Edinburgh";
                 fundingOrganization.addressCountry = "Scotland";
                 fundingOrganization.postalCode = "EH3 9DQ";
                 fundingOrganization.description = "The Scottish Council for Voluntary Organisations is the membership organisation for Scotland's charities, voluntary organisations and social enterprises.";
                 fundingOrganization.url = "http://scvo.org";
-                var location = {};
-                location.latitude = "55.945492";
-                location.longitude = "-3.201152";
-                fundingOrganization.location = [];
-                fundingOrganization.location.push(location);
                 grant.fundingOrganization = [];
                 grant.fundingOrganization.push(fundingOrganization);
 
