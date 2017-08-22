@@ -59,7 +59,7 @@ The iPad was a general purchase for Trust use.  It already had iMovie as an avai
 
 ### Who was involved?
 
-**Lynne:** Over 30 people have directly been involved from the community in working on the project and feature in the <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">'Sew Shapinsay'</a> film.  
+**Lynne:** Over 30 people have directly been involved from the community in working on the project and many of them feature in the <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">'Sew Shapinsay'</a> film.  
 
 With my video production background and use of the iPad to capture <a target='_blank' href="http://www.orkneycommunities.co.uk/shapinsay/">Shapinsay Development Trust</a> activities and community events, it seemed a natural progression to use this resource as fully as possible and for me to play a key coordinating role. 
 
@@ -69,7 +69,7 @@ It is liberating and exciting to see how much can be done with today’s latest 
 
 **Lynne:** Promoting the project digitally has helped those taking part feel pleased about their involvement and there’s a satisfaction in having their work and island featured and admired both within and beyond Shapinsay.
 
-From our <a target='_blank' href="https://www.facebook.com/ShapDevTrust/videos/vb.116047575144237/1108799772535674/?type=2&theater">Facebook</a> promotion, the project was picked up by BBC Breakfast TV who featured some shots of our handiwork as a backdrop to a feature on Orkney – emphasising the validity and relevance of the work to a national audience. A local glossy magazine has also recently asked to do a feature on us. 
+The project was picked up by BBC Breakfast TV who featured some shots of our handiwork as a backdrop to a feature on Orkney – emphasising the validity and relevance of the work to a national audience. A local glossy magazine has also recently asked to do a feature on us. 
 
 ![Shapinsay Development Trust](/images/digital-pioneers/filming.jpg){:height="400px" width="1200px"}{:.responsive-img}
 
