@@ -2,7 +2,7 @@
     var tag, call;
 
     var client = new elasticsearch.Client({
-        host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io',
+        host: 'https://readonly:onlyread@50896fdf5c15388f8976945e5582a856.eu-west-1.aws.found.io',
         //log: 'trace',
         apiVersion: '2.4'
     });
@@ -46,8 +46,8 @@
             });
 
         var payload = {
-            "index": "digital-funded-projects",
-            "type": "project",
+            "index": "web-content",
+            "type": "scvo-grant-digital",
             "body": {
                 "aggs": {
                     "tags": {
@@ -83,8 +83,8 @@
             });
 
         var payload = {
-            "index": "digital-funded-projects",
-            "type": "project",
+            "index": "web-content",
+            "type": "scvo-grant-digital",
             "body": {
                 "aggs": {
                     "tags": {
@@ -127,15 +127,15 @@
         }
 
         var payload = {
-            "index": "digital-funded-projects",
-            "type": "project",
+            "index": "web-content",
+            "type": "scvo-grant-digital",
             "body": {
                 "query": {
                     "bool": {
                         "must": []
                     }
                 },
-                "sort": "organisation_name"
+                "sort": "recipient_name"
             },
             size: 1000
         }
@@ -196,12 +196,12 @@
             var content = $('<div />').addClass('card-content').appendTo(card);
             var title = $('<a />')
                 .addClass('card-title')
-                .attr('href', 'projects/'+(project.project_title+'-'+project.organisation_name).replace(/\s+/g, '-').replace(/[^\w\-]+/g, '').replace(/-+/g,'-').toLowerCase())
-                .text(project.project_title)
+                .attr('href', 'projects/'+(project.title+'-'+project.recipient_name).replace(/\s+/g, '-').replace(/[^\w\-]+/g, '').replace(/-+/g,'-').toLowerCase())
+                .text(project.title)
                 .appendTo(content);
             var organisation = $('<p />').appendTo(content);
-            var organisationBold = $('<strong />').text(project.organisation_name).appendTo(organisation);
-            var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
+            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation);
+            var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
             actions.append(createTag(createCallDetail(project.call), "calendar"));
@@ -213,11 +213,11 @@
             var title = $('<a />')
                 .addClass('card-title')
                 .attr('href', 'participation/project/#' + project.Id)
-                .text(project.project_title)
+                .text(project.title)
                 .appendTo(content);
             var organisation = $('<p />').appendTo(content);
-            var organisationBold = $('<strong />').text(project.organisation_name).appendTo(organisation);
-            var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
+            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation);
+            var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
             actions.append(createTag(createCallDetail(project.call), "calendar"));

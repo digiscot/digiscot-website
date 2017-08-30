@@ -2,7 +2,7 @@
     var tag;
 
     var client = new elasticsearch.Client({
-        host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io',
+        host: 'https://readonly:onlyread@50896fdf5c15388f8976945e5582a856.eu-west-1.aws.found.io',
         //log: 'trace',
         apiVersion: '2.4'
     });
@@ -10,10 +10,10 @@
     getProjects();
 
     function getProjects() {
-        var fundType = 'grants-ccrf'; // grants-ccrf or grants-digital
+        var fundType = 'scvo-grant-digital'; // scvo-grant-digital or scvo-grant-ccrf or scvo-grant-ccrf-additional
         var payload = {
-            index: fundType,
-            type: 'grant',
+            index: 'web-content',
+            type: fundType,
             body: {
                 query: {
                     bool: {
@@ -315,10 +315,10 @@
         var organisation = $('<a />')
             .addClass('card-title')
             .attr('href', 'participation/project/#' + project.Id)
-            .text(project.organisation_name)
+            .text(project.recipient_name)
             .appendTo(content);
         var title = $('<p />').appendTo(content);
-        var titleBold = $('<strong />').text(project.project_title).appendTo(title);
+        var titleBold = $('<strong />').text(project.title).appendTo(title);
         var exerpt = $('<p />').text(S(project.project_overview).truncate(140, '...').s).appendTo(content);
         var actions = $('<div />').addClass('card-action').appendTo(card);
 

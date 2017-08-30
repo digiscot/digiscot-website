@@ -1,6 +1,6 @@
 (function () {
     var client = new elasticsearch.Client({
-        host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io',
+        host: 'https://readonly:onlyread@50896fdf5c15388f8976945e5582a856.eu-west-1.aws.found.io',
         //log: 'trace',
         apiVersion: '2.4'
     });
@@ -14,7 +14,7 @@
                     "must": []
                 }
             },
-            "sort": "organisation_name"
+            "sort": "recipient_name"
         },
         size: 1000
     }

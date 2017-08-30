@@ -1,6 +1,6 @@
 (function () {
     var client = new elasticsearch.Client({
-        host: 'https://readonly:onlyread@4c19757a0460c764d6e4712b0190cc21.eu-west-1.aws.found.io',
+        host: 'https://readonly:onlyread@50896fdf5c15388f8976945e5582a856.eu-west-1.aws.found.io',
         //log: 'trace',
         apiVersion: '2.4'
     });
@@ -17,7 +17,7 @@
     }
 
     function getProject(projectId) {
-        client.get({ index: 'digital-funded-projects', type: 'project', id: projectId }).then(function(result){
+        client.get({ index: 'web-content', type: 'scvo-grant-digital', id: projectId }).then(function(result){
             var project = result._source;
             // console.log(result._source);
             displayProjectInfo(project);
@@ -30,8 +30,8 @@
     }
 
     function displayProjectInfo(project) {
-        var start = project['start_date'] ? moment(project['start_date']).format('Do MMM YYYY') : 'TBD';
-        var end = project['end_date'] ? moment(project['end_date']).format('Do MMM YYYY') : 'TBD';
+        var start = project['planned_start'] ? moment(project['planned_start']).format('Do MMM YYYY') : 'TBD';
+        var end = project['planned_end'] ? moment(project['planned_end']).format('Do MMM YYYY') : 'TBD';
 
         if (project['amount_requested'] == null) project['amount_requested'] = 0;
         if (project['amount_requested'] == '')
@@ -50,8 +50,8 @@
         else
             var amount_awarded = '£' + addCommas(project['amount_awarded']);
 
-        var organisation_overview = project['organisation_overview'] || 'TBC';
-        var project_overview = project['project_overview'] || 'TBC';
+        var recipient_overview = project['recipient_overview'] || 'TBC';
+        var description = project['description'] || 'TBC';
         var project_milestone_1_desc = project['milestone_1_desc'] || 'TBC';
         var project_milestone_2_desc = project['milestone_2_desc'] || 'TBC';
         var project_milestone_3_desc = project['milestone_3_desc'] || 'TBC';
@@ -60,14 +60,16 @@
 
         var project_updates = 'TBC';
         if (project['project_updates']) {
-            project_updates = '<p>' + (project['project_updates'][0].Project_Update__c || '').split(/[\r\n\t]+/gm).join('</p><p>') + '</p>';
+            for (var i = 0; i < project['project_updates'].length; i++) {
+                project_updates = '<p>' + (project['project_updates'][i].Project_Update__c || '').split(/[\r\n\t]+/gm).join('</p><p>') + '</p>';
+            }
         }
 
-        $('#project-title').text(project['project_title']);
-        $('#project-organisation_name').text(project['organisation_name']);
-        $('#project-organisation_overview').text(organisation_overview);
-        $('#project-start_date').text(start);
-        $('#project-end_date').text(end);
+        $('#project-title').text(project['title']);
+        $('#project-recipient_name').text(project['recipient_name']);
+        $('#project-recipient_overview').text(recipient_overview);
+        $('#project-planned_start').text(start);
+        $('#project-planned_end').text(end);
         // $('#project-amount_awarded').text(amount_awarded);
         $('#project-amount_requested').text(amount_requested);
         $('#project-amount_awarded').text(amount_awarded);
@@ -75,8 +77,8 @@
         $('#project-call').text(project['call']);
         $('#project-call_detail').text(call_detail);
 
-        $('#project-overview').text(project_overview);
-        if (project_overview == 'TBC')
+        $('#project-overview').text(description);
+        if (description == 'TBC')
             $('.project-overview').hide();
 
         $('#project-milestone_1').text(project_milestone_1_desc);
