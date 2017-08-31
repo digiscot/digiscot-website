@@ -8,6 +8,15 @@ permalink: /participation/funding/apply/
 submenu: participation-funding
 ---
 
+<div class="row">
+    <div class="col s12">
+        <div class="card-panel alert red darken-4 white-text">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+            we are no longer taking applications for round 5 
+        </div>
+    </div>
+</div>
+
 ## Apply now
 
 <a href="/participation/funding/faq/" class="btn btn-primary blue darken-4 white-text">Read the FAQ and guidance notes first</a>
@@ -39,9 +48,3 @@ If your project is successful, then you will also have some key obligations as p
 
 Further terms and conditions will apply.
 
-<div class="section headingless">
-    <a href="/participation/funding/application-form/" class="btn btn-primary blue darken-4 white-text right">
-        <i class="fa fa-pull-right fa-pencil"></i>
-        Apply now
-    </a>
-</div>

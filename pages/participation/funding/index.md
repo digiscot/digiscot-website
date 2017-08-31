@@ -10,6 +10,15 @@ redirect_from:
   - /participation/apply-for-funding/
 ---
 
+<div class="row">
+    <div class="col s12">
+        <div class="card-panel alert red darken-4 white-text">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+            We are no longer taking applications for Round 5 
+        </div>
+    </div>
+</div>
+
 ## Introduction
 
 Scotland is already a digital nation. Eight in ten households have an internet connection, and four in ten have a tablet computer. Six in ten people use a smartphone. For those who have the access, motivation and skills to get things done online, life is enhanced.

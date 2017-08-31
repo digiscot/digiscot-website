@@ -8,6 +8,15 @@ permalink: /participation/funding/key-criteria/
 submenu: participation-funding
 ---
 
+<div class="row">
+    <div class="col s12">
+        <div class="card-panel alert red darken-4 white-text">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+            We are no longer taking applications for Round 5 
+        </div>
+    </div>
+</div>
+
 ## Key criteria
 As with previous rounds, we will be applying lessons learnt to help projects maximise their effect. Key areas to consider include:
 

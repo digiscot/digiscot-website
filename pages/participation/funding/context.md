@@ -8,6 +8,15 @@ permalink: /participation/funding/context/
 submenu: participation-funding
 ---
 
+<div class="row">
+    <div class="col s12">
+        <div class="card-panel alert red darken-4 white-text">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+            We are no longer taking applications for Round 5 
+        </div>
+    </div>
+</div>
+
 ## Context
 
 Building on an understanding of 'what works' in the development of basic digital skills, the fifth round of the Digital Participation Fund will be focussed on two specific themes:
