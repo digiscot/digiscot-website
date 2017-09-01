@@ -72,7 +72,7 @@ We were surprised at how significant the impact was on our organisation, and how
 
 **Josiah:** We are currently in the process of introducing <a target='_blank' href="http://www.salesforce.org/nonprofit/">Salesforce</a> for our CRM as well as <a target='_blank' href="http://www.penumbra.org.uk/innovation/iroc/">Penumbra's iRoc system</a> to measure the recovery journey of people who use our services. 
 
-![Gorgie City Farm](/images/digital-pioneers/volunteers1.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Gorgie City Farm](/images/digital-pioneers/volunteers1.jpg){:height="600px" width="800px"}{:.responsive-img}
 -----
 
 Thanks to Josiah from Gorgie City Farm for sharing how they’re using digital in the third sector. We hope that the digital tools mentioned and their approach have inspired your third sector organisation. Don’t forget to share it with your networks to keep the inspiration flowing and tell us what you think  <a href="https://twitter.com/digiscot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">@digiscot</a> using **#digiscotpioneers**.
