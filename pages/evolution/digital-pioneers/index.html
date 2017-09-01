@@ -7,8 +7,22 @@ fa-icon: fa-comments
 submenu: evolution
 ---
 
-<div class="container-fluid flow-text">
-    <p>SCVO Digital Team like to inspire and be inspired!<br><br>We’ve scouted out some of the best examples from across the third sector of organisations which are utilising a range of tools and approaches to help improve the way they support people and work more efficiently. Our Digital Pioneers recognise the need to continuously develop their skills and actively seek out new ways of doing things.<br><br>Here, our Digital Pioneers share their stories in their own words.  Why don’t you tell us yours and we’ll share it to inspire others.</p>
+<div class="section">
+    <div class="container-fluid flow-text">
+        <div class="row">
+            <div class="col s12">
+                <p>
+                    SCVO Digital Team like to inspire and be inspired!
+                </p>
+                <p>
+                    We've scouted out some of the best examples from across the third sector of organisations which are utilising a range of tools and approaches to help improve the way they support people and work more efficiently. Our Digital Pioneers recognise the need to continuously develop their skills and actively seek out new ways of doing things.
+                </p>
+                <p>
+                    Here, our Digital Pioneers share their stories in their own words.  Why don't you tell us yours and we'll share it to inspire others.
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="section" id="digital-pioneers">
@@ -28,7 +42,7 @@ submenu: evolution
             {% assign idx = 0 %}
             {% for page in site.pages %}
             {% if page.layout == 'digital-pioneer' %}
-            <div class="col s4">
+            <div class="col s12 m4">
                 <div class="card hoverable">
                     <div class="card-content">
                         {% capture tags %}
@@ -52,8 +66,8 @@ submenu: evolution
             {% capture count %}{{ count | plus: 1 }}{% endcapture %}
             {% capture mod %}{{ count | modulo: 3 }}{% endcapture %}
             {% if mod == '0' %}
-            </div>
-            <div class="digital-pioneer-cards row">
+        </div>
+        <div class="digital-pioneer-cards row">
             {% endif %}
             {% endif %}
             {% endfor %}
