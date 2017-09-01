@@ -18,17 +18,14 @@ submenu: evolution
 
         {% for page in site.pages %}
         {% if page.layout == 'digital-pioneer' %}
-        {% capture count %}{{ count | plus: 1 }}{% endcapture %}
         {% capture awarded %}{{ awarded | plus: page.award }}{% endcapture %}
         {% endif %}
         {% endfor %}
 
         <div class="digital-pioneer-cards row">
-            {% capture mod %}{{ count | modulo: 2 }}{% endcapture %}
-            {% capture break %}{{ count | divided_by: 2 | plus: mod }}{% endcapture %}
+            {% capture break %}{{ count | divided_by: 3 | plus: mod }}{% endcapture %}
 
             {% assign idx = 0 %}
-
             {% for page in site.pages %}
             {% if page.layout == 'digital-pioneer' %}
             <div class="col s4">
@@ -52,6 +49,12 @@ submenu: evolution
                     </div>
                 </div>
             </div>
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% capture mod %}{{ count | modulo: 3 }}{% endcapture %}
+            {% if mod == '0' %}
+            </div>
+            <div class="digital-pioneer-cards row">
+            {% endif %}
             {% endif %}
             {% endfor %}
         </div>
