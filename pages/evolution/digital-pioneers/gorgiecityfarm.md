@@ -26,7 +26,7 @@ permalink: /evolution/digital-pioneers/gorgie-city-farm/
 
 **Josiah:** Although the organisation has been engaging with digital to some extent, 2016 saw a concentrated effort to use digital technologies to bring in new efficiencies to our administration systems as well as making customer engagement easier and more user friendly.
 
-![Gorgie City Farm](/images/digital-pioneers/kidswithanimals.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Gorgie City Farm](/images/digital-pioneers/kidswithanimals.jpg){:height="600px" width="800px"}{:.responsive-img}
 
 ### Tell us about a recent digital change you’ve made.
 
@@ -54,7 +54,7 @@ We invested £700 into the systems and it took us 3 months to implement the chan
 
 The number of people our digital change has impacted equates to roughly 30 members of staff, more than 200 supported volunteers and 976 customers who have directly interacted with our systems.
 
-![Gorgie City Farm](/images/digital-pioneers/volunteers.jpg){:height="400px" width="1200px"}{:.responsive-img}
+![Gorgie City Farm](/images/digital-pioneers/volunteers.jpg){:height="600px" width="800px"}{:.responsive-img}
 
 ### Any challenges?
 
