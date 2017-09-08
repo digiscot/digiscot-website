@@ -3,7 +3,7 @@ layout: markdown
 title: Cyber Resilience and Cyber Essentials Grants  
 menu-title: Cyber Resilience
 excerpt: Call for Applications – September 2017
-permalink: /evolution/cyber-resilience/
+permalink: /evolution/cyber-resilience/grants/
 submenu: evolution-cyber-resilience
 ---
 
