@@ -35,6 +35,9 @@ evolution:
   - title: Senior Leader Development Programme
     path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
+  - title: Cyber Resilience & Cyber Essentials Grants  
+    path: evolution/cyber-resilience/
+    submenu: evolution-cyber-resilience  
 
 participation:
   - title: Participation
@@ -163,6 +166,14 @@ evolution-digital-pioneers:
     path: evolution/digital-pioneers/
     parent: true
 
+evolution-cyber-resilience:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Cyber Resilience
+    path: evolution/cyber-resilience/
+    parent: true
+    
 about:
   - title: About
     path: about/
