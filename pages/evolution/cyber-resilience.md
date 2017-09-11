@@ -28,8 +28,10 @@ To speak to the team about the SCVO Cyber Essential Grants, please email [onedig
 
 **SCVO Cyber Essential Grants qualifying criteria:**
 
-- SCVO Cyber Essentials Grants are available to registered Scottish charities with either their own internal IT support staff or with a contracted IT supplier.
-- The maximum annual income threshold to receive our Cyber Essentials Grants is £4 million.
-- It is the responsibility of the qualifying organisation to contact and contract a supplier to carry out the accreditation.
+<ul class="browser-default">
+  <li>SCVO Cyber Essentials Grants are available to registered Scottish charities with either their own internal IT support staff or with a contracted IT supplier.</li>
+  <li>The maximum annual income threshold to receive our Cyber Essentials Grants is £4 million.</li>
+  <li>It is the responsibility of the qualifying organisation to contact and contract a supplier to carry out the accreditation.</li>
+</ul>
 
 If you do not fit within these criteria but are still interested in becoming more cyber resilient, please contact us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk)
