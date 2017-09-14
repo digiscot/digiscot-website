@@ -6,6 +6,8 @@ permalink: /participation/Digital-Champions-Training/
 submenu: participation
 ---
 
+## Become a Digital Champion with our Training!
+
 Are you an organisation working with people in your community who are facing social exclusion? Perhaps older people, disabled people or those with low incomes. Do you want to help people to benefit from getting online by developing their basic digital skills?
 
 We know that 1 in 5 people in Scotland are lacking basic digital skills and are missing out. From being able to access services, socialising, saving money, staying healthy to learning new things.
