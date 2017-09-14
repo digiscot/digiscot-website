@@ -3,7 +3,7 @@ layout: markdown
 title: Digital Champions Training
 excerpt: Find out how to get involve in our Digital Champions Training programme.
 permalink: /participation/Digital-Champions-Training/
-submenu: participation-Digital-Champion-Training
+submenu: participation-Digital-Champions-Training
 ---
 
 ## Become a Digital Champion with our Training!
