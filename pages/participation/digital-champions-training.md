@@ -3,7 +3,7 @@ layout: markdown
 title: Digital Champions Training
 menu-title: Training 
 excerpt: Find out how to get involve in our Digital Champions Training programme.
-permalink: /participation/Digital-Champions-Training/
+permalink: /participation/digital-champions-training/
 submenu: participation-digital-champions-training
 ---
 
