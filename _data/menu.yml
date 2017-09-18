@@ -35,9 +35,9 @@ evolution:
   - title: Senior Leader Development Programme
     path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
-  - title: Cyber Resilience & Cyber Essentials Grants  
+  - title: Cyber Resilience & Cyber Essentials Grants
     path: evolution/cyber-resilience/
-    submenu: evolution-cyber-resilience  
+    submenu: evolution-cyber-resilience
 
 participation:
   - title: Participation
@@ -108,6 +108,22 @@ participation-basic-digital-skills:
   - title: Questionnaire
     path: participation/basic-digital-skills/questionnaire/
 
+participation-digital-champions-training:
+  - title: Participation
+    path: participation/
+    parent: true
+  - title: Digital Champions Training
+    path: participation/digital-champions-training/
+    parent: true
+  - title: Sub page 1
+    path: participation/digital-champions-training/1
+  - title: Sub page 2
+    path: participation/digital-champions-training/2
+  - title: Sub page 3
+    path: participation/digital-champions-training/3
+  - title: Sub page 4
+    path: participation/digital-champions-training/4
+
 participation-resources:
   - title: Participation
     path: participation/
@@ -175,7 +191,7 @@ evolution-cyber-resilience:
   - title: Cyber Resilience
     path: evolution/cyber-resilience/
     parent: true
-    
+
 about:
   - title: About
     path: about/
