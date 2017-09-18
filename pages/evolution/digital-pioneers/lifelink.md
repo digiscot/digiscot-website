@@ -17,7 +17,7 @@ permalink: /evolution/digital-pioneers/lifelink/
 
 **Jacqui Taylor, Chief Executive at <a target='_blank' href="https://lifelink.org.uk/">Lifelink</a> tells us more...**
 
-![Lifelink](/images/digital-pioneers/lifelinkwall.JPG){:height="222px" width="1200px"}{:.responsive-img}
+![Lifelink](/images/digital-pioneers/lifelinkwall.png){:height="222px" width="1200px"}{:.responsive-img}
 
 ### Tell us about Lifelink! 
 
