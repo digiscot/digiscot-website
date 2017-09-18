@@ -38,16 +38,16 @@ We knew the opportunities that digital could bring to our business to help shape
 ### Tell us about a recent digital change you’ve made.
 
 **Jacqui:** Our most recent changes over the last 12 months has seen Lifelink undertake an extensive digital transformation project. This project started with an initial idea of developing video based counselling and quickly grew arms and legs as we embraced the opportunities that digital offers our business. Over the last 12 months we have:    
-*	embraced Office 365 and the Cloud; 
-*	introduced a new cloud based Microsoft Dynamics CRM system; 
-*	rolled out tablets to all practitioner to eliminate paperwork and provide more robust and consistent client data; 
-	introduced the use of text messaging to support client appointments and minimise cancellations; 
-*	introduced an on-line Breathe HR system;
-*	developed audio resources for relaxation;
-*	introduced telephone counselling; 
-*	supported and empowering digital champions across the organisation; 
-*	undertook a digital skills audit for all staff and recruited an IT Trainer; and 
-*	achieved Cyber Essentials Certification in June 2017.     
+* embraced Office 365 and the Cloud; 
+* introduced a new cloud based Microsoft Dynamics CRM system; 
+* rolled out tablets to all practitioner to eliminate paperwork and provide more robust and consistent client data; 
+introduced the use of text messaging to support client appointments and minimise cancellations; 
+* introduced an on-line Breathe HR system;
+* developed audio resources for relaxation;
+* introduced telephone counselling; 
+* supported and empowering digital champions across the organisation; 
+* undertook a digital skills audit for all staff and recruited an IT Trainer; and 
+* achieved Cyber Essentials Certification in June 2017.     
 
 At the time of writing (Sept 17), we are in the process of finalising the most appropriate secure platform to roll out video conferencing counselling over the coming weeks and months.  
 
@@ -56,10 +56,10 @@ At the time of writing (Sept 17), we are in the process of finalising the most a
 ### What motivated you?
 
 **Jacqui:**  There were several aspects that motivated digital change for us.   
-*	Young people are our workforce for the future, they’ve been brought up in a digital world, they expect instant answers and innovative flexible (digital) services at a time that suits them and as a service provider we need to respond.    
-*	We wanted to offer customer choice and reach a wider range of clients including those who suffer from mobility issues; perhaps they are elderly or housebound; or experience conditions such as agoraphobia of social anxiety to help reduce health inequalities.  
-*	We wanted to be more effective and efficient as a business using technology to streamline processes and procedures and reduce operating costs. 
-*	We wanted to support colleagues to become digital citizens, to embrace technology, demystify digital and the World Wide Web and increase their confidence in the use of digital technology.  
+* Young people are our workforce for the future, they’ve been brought up in a digital world, they expect instant answers and innovative flexible (digital) services at a time that suits them and as a service provider we need to respond.    
+* We wanted to offer customer choice and reach a wider range of clients including those who suffer from mobility issues; perhaps they are elderly or housebound; or experience conditions such as agoraphobia of social anxiety to help reduce health inequalities.  
+* We wanted to be more effective and efficient as a business using technology to streamline processes and procedures and reduce operating costs. 
+* We wanted to support colleagues to become digital citizens, to embrace technology, demystify digital and the World Wide Web and increase their confidence in the use of digital technology.  
 
 ### How did you go about it?
 
@@ -72,13 +72,13 @@ At the time of writing (Sept 17), we are in the process of finalising the most a
 ### What’s been the impact?
 
 **Jacqui:** 
-*	Online Breathe HR System: improved efficiencies and staff time, monitors sickness absence, annual leave, expenses, HR reporting.   Breathe HR is also used as one of our communication portals for company announcements/documents etc.
-*	Text messaging: - positive impact on the reduction in Did Not Attend (DNA) rates from 21% to 11%.
-*	Microsoft Dynamics CRM and tablets:  improved efficiencies, real time reporting, customer service team staff time will be freed up to do other tasks and develop their skills and experience. 
-*	Telephone Counselling:  demand for telephone counselling increasing, benefits yet to be realised due to a change in service delivery and reporting. 
-*	Digital Skills Audit:  IT trainer started September 2017, benefits yet to be realised.
-*	Video Conferencing Counselling:  in final stages of development, benefits yet to be realised.
-*	Achieved Cyber Essentials Certification in June 2017, benefits yet to be realised but there is comfort (and a better night’s sleep) in the security of our systems and processes. 
+* Online Breathe HR System: improved efficiencies and staff time, monitors sickness absence, annual leave, expenses, HR reporting.   Breathe HR is also used as one of our communication portals for company announcements/documents etc.
+* Text messaging: - positive impact on the reduction in Did Not Attend (DNA) rates from 21% to 11%.
+* Microsoft Dynamics CRM and tablets:  improved efficiencies, real time reporting, customer service team staff time will be freed up to do other tasks and develop their skills and experience. 
+* Telephone Counselling:  demand for telephone counselling increasing, benefits yet to be realised due to a change in service delivery and reporting. 
+* Digital Skills Audit:  IT trainer started September 2017, benefits yet to be realised.
+* Video Conferencing Counselling:  in final stages of development, benefits yet to be realised.
+* Achieved Cyber Essentials Certification in June 2017, benefits yet to be realised but there is comfort (and a better night’s sleep) in the security of our systems and processes. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6N2QSSbGpKE" frameborder="0" allowfullscreen></iframe>
 
