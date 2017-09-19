@@ -28,7 +28,7 @@ evolution:
     path: evolution/
     parent: true
   - title: One Digital events
-    path: evolution/one-digital-meetups/
+    path: evolution/events-and-networking/
   - title: Digital Pioneers
     path: evolution/digital-pioneers/
     submenu: evolution-digital-pioneers
