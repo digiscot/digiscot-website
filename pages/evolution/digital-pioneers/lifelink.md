@@ -55,8 +55,8 @@ At the time of writing (Sept 17), we are in the process of finalising the most a
 ### What motivated you?
 
 **Jacqui:**  There were several aspects that motivated digital change for us.   
--  Young people are our workforce for the future, they’ve been brought up in a digital world, they expect instant answers and innovative flexible (digital) services at a time that suits them and as a service provider we need to respond.    
-- We wanted to offer customer choice and reach a wider range of clients including those who suffer from mobility issues; perhaps they are elderly or housebound; or experience conditions such as agoraphobia of social anxiety to help reduce health inequalities.  
+-Young people are our workforce for the future, they’ve been brought up in a digital world, they expect instant answers and innovative flexible (digital) services at a time that suits them and as a service provider we need to respond.    
+-We wanted to offer customer choice and reach a wider range of clients including those who suffer from mobility issues; perhaps they are elderly or housebound; or experience conditions such as agoraphobia of social anxiety to help reduce health inequalities.  
 - We wanted to be more effective and efficient as a business using technology to streamline processes and procedures and reduce operating costs.
 - We wanted to support colleagues to become digital citizens, to embrace technology, demystify digital and the World Wide Web and increase their confidence in the use of digital technology.  
 
@@ -97,10 +97,10 @@ Enjoy the experience, it may be scary at time, a little tough to manage the chan
 
 **Jacqui:** We have three focus areas:
 
-1. To finalise our plans to deliver video conferencing counselling
+1. To finalise our plans to deliver video conferencing counselling<br>
 
 2. Over the next 12 months, upskill 60 individuals on the use of IT (Office 365, SharePoint, Windows 7/
-    Office 2010 video conferencing, demystifying the web, cyber resilience etc.)
+    Office 2010 video conferencing, demystifying the web, cyber resilience etc.)<br>
     
 3. Undertake focussed client research to explore the range of digital services that would meet the needs
      of our clients in the future.
