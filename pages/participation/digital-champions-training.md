@@ -9,8 +9,7 @@ submenu: participation
 
 ## Become a Digital Champion with our Training!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m0M6FDu0c-I?rel=0" frameborder="0" allowfullscreen></iframe> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j6qbLj32S44?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/m0M6FDu0c-I?rel=0" frameborder="0" allowfullscreen></iframe>      <iframe width="400" height="300" src="https://www.youtube.com/embed/j6qbLj32S44?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Are you an organisation working with people in your community who are facing social exclusion? Perhaps older people, disabled people or those with low incomes. Do you want to help people to benefit from getting online by developing their basic digital skills?
 
