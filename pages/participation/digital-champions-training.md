@@ -27,6 +27,8 @@ Here’s what existing Digital Champions from One Digital have to say:
 
 We can tailor our training topics where possible to best meet the needs of you and your clients. This could include topics such as accessibility, gaining employment, financial inclusion, health and wellbeing and communicating with friends and family.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m0M6FDu0c-I?rel=0" frameborder="0" allowfullscreen></iframe>
+
 Our Digital Champions Training is aimed at third sector organisations who can commit to supporting their frontline staff and volunteers to become Digital Champions. This includes time for ongoing training and development and support to enable Digital Champion activities with clients. If this sounds like your organisation then we’d really like to hear from you! Ideally, this would be from a member of staff who has an overview of resourcing such as a Manager or Team Coordinator and can play a key role in working with us to create your organisations Digital Champions.
 
 Get in touch now to register your interest in our Digital Champions Training by emailing [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
