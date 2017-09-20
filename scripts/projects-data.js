@@ -19,8 +19,8 @@
                     bool: {
                         must: []
                     }
-                },
-                sort: 'title'
+                }
+                // sort: 'title'
             },
             size: 1000
         }
@@ -30,138 +30,137 @@
             grantsExport.grants = [];
             var hits = results.hits.hits;
             for (var i = 0; i < hits.length; i++) {
-                var grant = hits[i]._source;
+                var grant_data = hits[i]._source;
 
-                grant.id = "360G-SCVO-" + grant.Id;
-                delete grant.Id;
+                var grant = {};
+                grant.id = "360G-SCVO-" + grant_data.Id;
+                grant.call = grant_data.call;
+                grant.title = grant_data.title;
+                grant.description = grant_data.description;
 
                 grant.currency = "GBP";
 
-                if (!grant.description) {
+                if (!grant_data.description) {
                     grant.description = "Detailed information not yet available.";
                 }
 
-                if (grant.totalAmountRequested) {
-                    grant.amountAppliedFor = grant.totalAmountRequested;
-                    grant.amountAwarded = grant.totalAmountRequested;
-                } else {
-                    grant.amountAwarded = grant.amountAppliedFor;
+                if (grant_data.amount_requested) {
+                    grant.amountAppliedFor = grant_data.amount_requested;
                 }
-                delete grant.totalAmountRequested;
-
-                if (grant.plannedStart) {
-                    grant.awardDate = formatDate(grant.plannedStart);
+                if (grant_data.amount_awarded) {
+                    grant.amountAwarded = grant_data.amount_awarded;
                 } else {
-                    grant.awardDate = '2014-01-01';
+                    if (grant_data.amount_requested_total) {
+                        grant.amountAppliedFor = grant_data.amount_requested_total;
+                        grant.amountAwarded = grant_data.amount_requested_total;
+                    } else {
+                        grant.amountAwarded = grant_data.amount_requested;
+                    }
+                }
+
+                if (grant_data.planned_start) {
+                    grant.awardDate = formatDate(grant_data.planned_start);
+                } else {
+                    if (grant_data.actual_start) {
+                        grant.awardDate = formatDate(grant_data.actual_start);
+                    } else {
+                        grant.awardDate = '2014-01-01';
+                    }
                 }
 
                 var plannedDates = {};
                 var addPlannedDates = false;
-                if (grant.plannedStart) {
-                    plannedDates.startDate = formatDate(grant.plannedStart);
+                if (grant_data.planned_start) {
+                    plannedDates.startDate = formatDate(grant_data.planned_start);
                     addPlannedDates = true;
                 }
-                delete grant.plannedStart;
-                if (grant.plannedEnd) {
-                    plannedDates.endDate = formatDate(grant.plannedEnd);
+                if (grant_data.planned_end) {
+                    plannedDates.endDate = formatDate(grant_data.planned_end);
                     addPlannedDates = true;
                 }
-                delete grant.plannedEnd;
                 if (addPlannedDates) {
                     grant.plannedDates = [];
-                    if (grant.dateModified) {
-                        plannedDates.dateModified = formatDate(grant.dateModified);
+                    if (grant_data.date_modified) {
+                        plannedDates.dateModified = formatDate(grant_data.date_modified);
                     }
                     grant.plannedDates.push(plannedDates);
                 }
 
                 var actualDates = {};
                 var addActualDates = false;
-                if (grant.actualStart) {
-                    actualDates.startDate = formatDate(grant.actualStart);
+                if (grant_data.actual_start) {
+                    actualDates.startDate = formatDate(grant_data.actual_start);
                     addActualDates = true;
                 }
-                delete grant.actualStart;
-                if (grant.actualEnd) {
-                    actualDates.endDate = formatDate(grant.actualEnd);
+                if (grant_data.actual_end) {
+                    actualDates.endDate = formatDate(grant_data.actual_end);
                     addActualDates = true;
                 }
-                delete grant.actualEnd;
                 if (addActualDates) {
                     grant.actualDates = [];
-                    if (grant.dateModified) {
-                        actualDates.dateModified = formatDate(grant.dateModified);
+                    if (grant_data.last_modified) {
+                        actualDates.dateModified = formatDate(grant_data.last_modified);
                     }
                     grant.actualDates.push(actualDates);
                 }
 
                 // Date modified
-                if (grant.dateModified) {
-                    grant.dateModified = formatDate(grant.dateModified);
+                if (grant_data.last_modified) {
+                    grant.dateModified = formatDate(grant_data.last_modified);
                 }
 
                 // Set up recipient org
                 var recipientOrganization = {};
-                if (grant.recipientOrganizationCharityNumber) {
+                if (grant_data.recipient_charity_number) {
                     // Charity number as ID
-                    recipientOrganization.id = "GB-SC-" + grant.recipientOrganizationCharityNumber;
-                    recipientOrganization.charityNumber = grant.recipientOrganizationCharityNumber;
+                    recipientOrganization.id = "GB-SC-" + grant_data.recipient_charity_number;
+                    recipientOrganization.charityNumber = grant_data.recipient_charity_number;
                 } else if (grant.recipientOrganizationId) {
                     // Salesforce Id as ID
-                    recipientOrganization.id = "SCVO-" + grant.recipientOrganizationId;
+                    recipientOrganization.id = "SCVO-" + grant_data.recipient_id;
                 } else {
                     // No ID?!
                     recipientOrganization.id = "";
                 }
-                delete grant.recipientOrganizationCharityNumber;
-                delete grant.recipientOrganizationId;
-                if (grant.recipientOrganizationName) {
+                if (grant_data.recipient_name) {
                     // Organisation name
-                    recipientOrganization.name = grant.recipientOrganizationName;
+                    recipientOrganization.name = grant_data.recipient_name;
                 } else {
                     // No name?!
                     recipientOrganization.name = "";
                 }
-                delete grant.recipientOrganizationName;
                 // Address street
-                if (grant.addressStreet) {
-                    recipientOrganization.streetAddress = grant.addressStreet;
+                if (grant_data.recipient_address_street) {
+                    recipientOrganization.streetAddress = grant_data.recipient_address_street;
                 }
-                delete grant.addressStreet;
                 // Address town
-                if (grant.addressTown) {
-                    recipientOrganization.addressLocality = grant.addressTown;
+                if (grant_data.recipient_address_town) {
+                    recipientOrganization.addressLocality = grant_data.recipient_address_town;
                 }
-                delete grant.addressTown;
                 // Address region
-                if (grant.addressRegion) {
-                    recipientOrganization.addressRegion = grant.addressRegion;
+                if (grant_data.recipient_address_region) {
+                    recipientOrganization.addressRegion = grant_data.recipient_address_region;
                 }
-                delete grant.addressRegion;
                 // Address postcode
-                if (grant.addressPostcode) {
-                    recipientOrganization.postalCode = grant.addressPostcode;
-                    if (grant.addressLocation.latitude && grant.addressLocation.longitude) {
+                if (grant_data.recipient_address_postcode) {
+                    recipientOrganization.postalCode = grant_data.recipient_address_postcode;
+                    if (grant_data.recipient_address_location_coords.lat && grant_data.recipient_address_location_coords.lon) {
                         var location = {};
-                        location.latitude = ""+grant.addressLocation.latitude;
-                        location.longitude = ""+grant.addressLocation.longitude;
+                        location.latitude = ""+grant_data.recipient_address_location_coords.lat;
+                        location.longitude = ""+grant_data.recipient_address_location_coords.lon;
                         recipientOrganization.location = [];
                         recipientOrganization.location.push(location);
                     }
                 }
-                delete grant.addressPostcode;
-                delete grant.addressLocation;
-                delete grant.addressLocation_coords;
                 // Address country
                 recipientOrganization.addressCountry = "Scotland";
                 // URL
-                if (grant.recipientOrganizationUrl) {
-                    var url = grant.recipientOrganizationUrl;
+                if (grant_data.recipient_url) {
+                    var url = grant_data.recipient_url;
                     var prefix = "http://";
                     if (url.substr(0, prefix.length) !== prefix) url = prefix + url;
                     recipientOrganization.url = url;
                 }
-                delete grant.recipientOrganizationUrl;
                 grant.recipientOrganization = [];
                 grant.recipientOrganization.push(recipientOrganization);
 
@@ -170,7 +169,7 @@
                 fundingOrganization.id = "GB-SC-SC003558";
                 fundingOrganization.name = "Scottish Council For Voluntary Organisations";
                 fundingOrganization.charityNumber = "SC003558";
-                if (fundType == 'grants-digital') {
+                if (fundType == 'scvo-grant-digital') {
                     fundingOrganization.department = "Digital";
                     fundingOrganization.streetAddress = "Hayweight House, 23 Lauriston Street";
                     location.latitude = "55.945492";
@@ -194,9 +193,9 @@
 
                 var grantProgramme = {};
                 var call, call_detail = "";
-                if (grant.call) {
-                    call = "-" + grant.call.replace(/\s+/g, '-').toLowerCase();
-                    switch (grant.call) {
+                if (fundType == 'scvo-grant-digital' && grant_data.call) {
+                    call = "-" + grant_data.call.replace(/\s+/g, '-').toLowerCase();
+                    switch (grant_data.call) {
                         case "Call 1":
                             call_detail = " (Winter 2014)";
                             break;
@@ -217,21 +216,21 @@
                             break;
                     }
                 }
-                if (fundType == 'grants-digital') {
-                    if (grant.call == "Call 1" || grant.call == "Call 2" || grant.call == "Call 3") {
+                if (fundType == 'scvo-grant-digital') {
+                    if (grant_data.call == "Call 1" || grant_data.call == "Call 2" || grant_data.call == "Call 3") {
                         grantProgramme.code = "scvo-digital-challenge-fund" + call;
-                        grantProgramme.title = "Digital Participation Challenge Fund - " + grant.call + call_detail;
+                        grantProgramme.title = "Digital Participation Challenge Fund - " + grant_data.call + call_detail;
                         grantProgramme.description = "Our Digital Participation Challenge Fund, supported by by the Scottish Government, the ERDF and BT, invests in community digital participation projects across Scotland. The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.";
                         grantProgramme.url = "http://digital.scvo.org.uk/participation/challenge-fund/";
                     } else {
                         grantProgramme.code = "scvo-digital-charter-fund" + call;
-                        grantProgramme.title = "Digital Participation Charter Fund - " + grant.call + call_detail;
+                        grantProgramme.title = "Digital Participation Charter Fund - " + grant_data.call + call_detail;
                         grantProgramme.description = "Our Digital Participation Charter Fund, supported by by the Scottish Government, the ERDF and BT, invests in community digital participation projects across Scotland. The projects that we're supporting will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world.";
                         grantProgramme.url = "http://digital.scvo.org.uk/participation/charter-fund/";
                     }
                 } else {
                     grantProgramme.code = "scvo-community-capacity-and-resilience-fund" + call;
-                    grantProgramme.title = "Community Capacity & Resilience Fund - " + grant.call;
+                    grantProgramme.title = "Community Capacity & Resilience Fund - " + grant_data.call;
                     grantProgramme.description = "Funding to help local third sector groups and organisations across Scotland tackle poverty and mitigate against UK government welfare changes.";
                     grantProgramme.url = "http://www.scvo.org/running-your-organisation/funding/capacity-resilience-fund/";
                 }
@@ -240,8 +239,8 @@
 
                 grant.fromOpenCall = "Yes";
 
-                if (grant.individuals_supported) {
-                    // for (var i = 0; i < grant.individuals_supported.length; i++) {
+                if (grant_data.individuals_supported) {
+                    // for (var i = 0; i < grant_data.individuals_supported.length; i++) {
                     //     var fundingType = {};
                     //     fundingType.vocabulary = "tags";
                     //     fundingType.title = grant.individuals_supported[i];
@@ -249,13 +248,13 @@
                     //     grant.fundingType.push(fundingType);
                     // }
                 }
-                delete grant.individuals_supported;
 
-                if (grant.call == "Call 4" || grant.call == "Call 5") {
+                if (grant_data.call == "Call 4" || grant_data.call == "Call 5") {
                     grant.url = "http://digital.scvo.org.uk/participation/project/#" + grant.slug;
                 }
-                delete grant.call;
-                delete grant.slug;
+
+                // console.log(grant_data);
+                // console.log(grant);
 
                 if (grant.id &&
                     grant.title &&
@@ -269,7 +268,7 @@
                 }
             }
 
-            console.log(grantsExport.grants);
+            // console.log(grantsExport.grants);
 
             var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(grantsExport));
             var dlAnchorElem = document.getElementById('downloadAnchorElem');
