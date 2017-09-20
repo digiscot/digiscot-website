@@ -37,8 +37,8 @@ To speak to the team about the SCVO Cyber Essential Grants, please email [onedig
   <li>SCVO have limited funds available and cannot guarantee all applications will be successful.</li>
   <li>SCVO Cyber Essential Grants - Round 1:<br>
       Opening 21st September at 9am<br> 
-      Closing 20th October at 5pm
-  <li>SCVO will inform all applicants of their application status by email within 2 weeks of the closing deadline. Further rounds will be opened at a later date if grant funding is still available.
+    Closing 20th October at 5pm</li>
+  <li>SCVO will inform all applicants of their application status by email within 2 weeks of the closing deadline. Further rounds will be opened at a later date if grant funding is still available.</li>
 </ul>
 
 If you do not fit within these criteria but are still interested in becoming more cyber resilient, please contact us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk)
