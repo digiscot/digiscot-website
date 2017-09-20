@@ -27,9 +27,9 @@ Willingness to participate in the following activities:
 
 Applications are welcome from all organisations, but we have a particular interest in how the sector can integrate digital solutions in service design, and make better use of data to make decisions. Organisations that deliver frontline services and work with communities likely to be digitally excluded are therefore particularly welcome.
 
-<div class="section headingless">
-    <a href="evolution/senior-leader-programme/apply-now/" class="btn right">
+<!-- <div class="section headingless">
+    <a href="/evolution/senior-leader-programme/apply/" class="btn btn-primary blue darken-4 white-text right">
         <i class="fa fa-pull-right fa-chevron-right"></i>
         Next
     </a>
-</div>
+</div> -->

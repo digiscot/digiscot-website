@@ -175,6 +175,10 @@ evolution-senior-leader-programme:
     parent: true
   - title: Context
     path: evolution/senior-leader-programme/context/
+  - title: Structure
+    path: evolution/senior-leader-programme/structure/
+  - title: Application criteria
+    path: evolution/senior-leader-programme/application-criteria/
 
 evolution-digital-pioneers:
   - title: Evolution

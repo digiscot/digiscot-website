@@ -2,7 +2,7 @@
 layout: markdown
 title: One Digital Senior Leadership programme
 menu-title: Senior Leader Programme
-excerpt: 
+excerpt:
 permalink: /evolution/senior-leader-programme/
 submenu: evolution-senior-leader-programme
 ---
@@ -23,7 +23,7 @@ Many leaders have told us they want to build their skills, confidence and unders
 The Senior Leader programme is supported by the Big Lottery and facilitated by Ross McCulloch. In 2017 a new group of senior leaders have joined the programme with a particular focus on supporting leaders from organisations that deliver frontline services designed to reduce social inequalities, and those that support groups at risk of digital exclusion.
 
 <div class="section headingless">
-    <a href="evolution/senior-leader-programme/context/" class="btn right">
+    <a href="/evolution/senior-leader-programme/context/" class="btn btn-primary blue darken-4 white-text right">
         <i class="fa fa-pull-right fa-chevron-right"></i>
         Next
     </a>

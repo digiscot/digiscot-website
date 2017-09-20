@@ -2,7 +2,7 @@
 layout: markdown
 title: One Digital Senior Leadership Programme
 menu-title: Context
-excerpt: Call for Applications – Decemeber 2016
+excerpt: Call for Applications – December 2016
 permalink: /evolution/senior-leader-programme/context/
 submenu: evolution-senior-leader-programme
 ---
@@ -26,5 +26,12 @@ The [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/d
 * Being driven by data
 * Introducing more flexible technologies
 
-<a class="rm-mag-embed" href="https://readymag.com/630268" data-uri="630268"  data-width="responsive"  target="_blank">https://readymag.com/630268</a>
+<a class="rm-mag-embed" href="https://readymag.com/630268" data-uri="630268" data-width="responsive"  target="_blank">https://readymag.com/630268</a>
 <script async src="https://readymag.com/specials/assets/embed_init.js" id="readymag-embed-init"></script>
+
+<div class="section headingless">
+    <a href="/evolution/senior-leader-programme/structure/" class="btn btn-primary blue darken-4 white-text right">
+        <i class="fa fa-pull-right fa-chevron-right"></i>
+        Next
+    </a>
+</div>

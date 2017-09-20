@@ -41,7 +41,7 @@ In addition to these full day sessions participants are encouraged to discuss an
 Where appropriate SCVO and the facilitator will provide networking opportunities and links to resources and people who might be able to offer practical solutions and help as each leader develops an understanding of what direction they want to take.
 
 <div class="section headingless">
-    <a href="evolution/senior-leader-programme/application-criteria/" class="btn right">
+    <a href="/evolution/senior-leader-programme/application-criteria/" class="btn btn-primary blue darken-4 white-text right">
         <i class="fa fa-pull-right fa-chevron-right"></i>
         Next
     </a>
