@@ -7,24 +7,32 @@ permalink: /evolution/senior-leader-programme/
 submenu: evolution-senior-leader-programme
 ---
 
-## Introduction
+## One Digital: Senior Leaders Programme 
 
-We know that the digital revolution has already happened. New technologies and the internet have changed the way we live our lives.
+>*"Leaders in the third sector do not need to be digital experts, but we do need to lead change which will enable our organisations to be fit-for-purpose in a digital world."*
 
-Over the course of 2016 SCVO supported 19 senior leaders from across the third sector to participate in a digital leadership learning process. They recognised that the opportunities provided by new technology and the internet extend beyond fundraising and marketing. They also recognised it is not simply about having a good website, making an app or using social media effectively.
+                                                                          **Creating a Digitally Confident in Scotland’s Third Sector**
 
-The starting point is people. We need to ask service users, donors, funders and stakeholders how they want to interact with us in a digital world. We also need to understand how staff and volunteers can use technology to maximise their impact. This will then require us to challenge the status quo, redesign services and change the way we work. Such fundamental change can only be achieved through effective leadership.
+The words from our [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/digital-call-to-action/), launched in 2016 still ring true today. Almost half of charities lack organisational digital skills and 55% of charities see a lack of digital knowledge at board level being a key barrier. 
 
-The feedback and learning from these leaders has led to [The Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/digital-call-to-action/) to create a more digitally confident third sector in Scotland. The Call asks whether we, as a sector, have evolved the way we deliver services to support individuals and communities in recognition of this change.
+We know from working with a range of third sector Senior Leaders, who helped us write our Call to Action, that organisational digital change is ‘about the people and not the kit’.
 
-Leaders in the third sector do not need to be digital experts, but we do need to lead change which will enable our organisations to be fit-for-purpose in a digital world.
-Many leaders have told us they want to build their skills, confidence and understanding of the opportunities, and the Senior Leader Digital Development programme has been developed to help meet this need.
+Our established Senior Leaders Programme takes an ‘Action Learning Set’ approach and offers you the opportunity to build your personal knowledge and confidence on digital from our experienced facilitators, industry experts and our Programme Alumni. The outcome of the Programme will be a digitally engaged and enabled group of Senior Leaders who will design their own approaches to ensure a lasting impact for their organisations and on the wider sector.
 
-The Senior Leader programme is supported by the Big Lottery and facilitated by Ross McCulloch. In 2017 a new group of senior leaders have joined the programme with a particular focus on supporting leaders from organisations that deliver frontline services designed to reduce social inequalities, and those that support groups at risk of digital exclusion.
+**Download**: [One Digital:Senior Leaders Programme Prospectus 2018](digiscot.github.io/files/Senior_Leaders_Programme_2018_Prospectus.pdf).
 
-<div class="section headingless">
-    <a href="/evolution/senior-leader-programme/context/" class="btn btn-primary blue darken-4 white-text right">
-        <i class="fa fa-pull-right fa-chevron-right"></i>
-        Next
-    </a>
-</div>
+Our programme is aimed at ‘Senior Leaders’; those with the authority to bring about real, active change for their organisation through digital, including: Chief Officers, Department Heads, Board Members and Trustees. Don’t worry, you don’t have to be a digital expert to take part; it’s about maximising your leadership skills to adapt services and approaches to make the most of a digitally evolving world and bringing your workforce along with you.
+
+Here’s what some of our previous participants of our Senior Leaders Programme had to say about their experience:
+
+>*“Participation in the programme has made me ask some fundamental questions about "how we do things around here" and some of these questions might not have been asked if I'd not been on the programme.”*
+
+>*"The presentations were useful to think about things in a different way, gain new insights and learn for others.”*
+
+>*"Time with peers, learning from them and also generating ideas from the facilitator and speakers has allowed me to introduce new and proven concepts within my organisation - to the team and service delivery.”*
+
+Participants will be required to commit time to the Programme to attend sessions and complete actions between sessions. Find out more about what to expect in the [One Digital:Senior Leaders Programme Prospectus 2018](digiscot.github.io/files/Senior_Leaders_Programme_2018_Prospectus.pdf)
+
+The programme will open for applications on **Tuesday 26th September**.
+
+If you’re interested in our One Digital: Senior Leaders Programme and would like to register your interest, please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
