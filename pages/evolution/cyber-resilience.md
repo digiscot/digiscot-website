@@ -42,3 +42,5 @@ Closing 20th October at 5pm</li>
 </ul>
 
 If you do not fit within these criteria but are still interested in becoming more cyber resilient, please contact us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk)
+
+<a href="/evolution/cyber-resilience/apply/" class="btn btn-primary blue darken-4 white-text">Apply now</a>
