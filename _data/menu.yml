@@ -201,6 +201,7 @@ evolution-digital-check-up:
     parent: true
   - title: Digital Check-up
     path: evolution/digital-check-up/
+    parent: true
 
 about:
   - title: About
