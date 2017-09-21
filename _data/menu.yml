@@ -38,7 +38,10 @@ evolution:
   - title: Cyber Resilience & Cyber Essentials Grants
     path: evolution/cyber-resilience/
     submenu: evolution-cyber-resilience
-
+  - title: Digital Check-up
+    path: evolution/digital-check-up
+    submenu: evolution-digital-check-up
+    
 participation:
   - title: Participation
     path: participation/
@@ -191,6 +194,13 @@ evolution-cyber-resilience:
     parent: true
   - title: Apply
     path: evolution/cyber-resilience/apply
+    
+evolution-digital-check-up:
+  - title: Evolution
+    path: evolution/
+    parent: true
+  - title: Digital Check-up
+    path: evolution/digital-check-up/
 
 about:
   - title: About
