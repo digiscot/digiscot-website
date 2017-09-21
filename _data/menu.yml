@@ -39,7 +39,7 @@ evolution:
     path: evolution/cyber-resilience/
     submenu: evolution-cyber-resilience
   - title: Digital Check-up
-    path: evolution/digital-check-up
+    path: evolution/digital-check-up/
     submenu: evolution-digital-check-up
     
 participation:
