@@ -22,7 +22,7 @@ We are working with Scottish charities to achieve the following aims:
 1. To build commitment from third sector leaders to assess and improve their cyber resilience. 
 2. To test the ability of third sector organisations to achieve [Cyber Essentials accreditation](https://www.cyberaware.gov.uk/cyberessentials/) through a small scale ‘grants’ programme of up to £1500 to help cover the application and IT support costs needed to achieve accreditation.
 
-**SCVO Cyber Essential Grants will open at 9am on 21st September 2017. Please check back to this page after that time to complete the application.**
+**Find out more about [Cyber Essentials and why you should have it](/files/cyber.pdf). Apply for SCVO Cyber Essential Grants by completing this <a target='_blank' href="https://digital.scvo.org.uk/evolution/cyber-resilience/apply/">application form</a>.**
 
 To speak to the team about the SCVO Cyber Essential Grants, please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk) in the first instance.
 
