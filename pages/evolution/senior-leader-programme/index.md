@@ -11,7 +11,7 @@ submenu: evolution-senior-leader-programme
 
 >*"Leaders in the third sector do not need to be digital experts, but we do need to lead change which will enable our organisations to be fit-for-purpose in a digital world."*
 
-**Creating a Digitally Confident in Scotland’s Third Sector**
+   **Creating a Digitally Confident Third Sector in Scotland**
 
 The words from our [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/digital-call-to-action/), launched in 2016 still ring true today. Almost half of charities lack organisational digital skills and 55% of charities see a lack of digital knowledge at board level being a key barrier. 
 
