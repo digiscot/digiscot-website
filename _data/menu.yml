@@ -175,7 +175,6 @@ evolution-senior-leader-programme:
     parent: true
   - title: Apply
     path: evolution/senior-leader-programme/apply/
-    parent: true
 
 evolution-digital-pioneers:
   - title: Evolution
@@ -194,7 +193,6 @@ evolution-cyber-resilience:
     parent: true
   - title: Apply
     path: evolution/cyber-resilience/apply
-    parent: true
 
 about:
   - title: About
