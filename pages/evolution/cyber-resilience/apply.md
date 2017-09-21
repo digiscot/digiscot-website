@@ -11,5 +11,4 @@ scripts:
 
 ## Apply now
 
-<!-- This embed code may be restricted to use on a single domain, see documentation at: https://help.surveygizmo.com/help/iframe-embed#limit-permitted-domains-for-embeds -->
-<iframe src="http://www.surveygizmo.eu/s3/90049072/SCVO-Cyber-Essential-Grants-application" frameborder="0" width="700" height="500" style="overflow:hidden"></iframe>
+<iframe src="http://www.surveygizmo.eu/s3/90049072/SCVO-Cyber-Essential-Grants-application" frameborder="0" width="100%" height="700" style="overflow:hidden"></iframe>
