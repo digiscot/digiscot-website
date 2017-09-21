@@ -3,7 +3,7 @@ layout: markdown
 title: Digital Check-up
 menu-title: Digital Check-up
 excerpt: Find out how digitally mature your organisation is
-permalink: /evolution/digital-check-up
+permalink: /evolution/digital-check-up/
 submenu: evolution-digial-check-up
 ---
 
