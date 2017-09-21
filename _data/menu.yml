@@ -195,6 +195,9 @@ evolution-cyber-resilience:
   - title: Cyber Resilience
     path: evolution/cyber-resilience/
     parent: true
+  - title: Apply
+    path: evolution/cyber-resilience/apply
+    parent: true
 
 about:
   - title: About
