@@ -12,7 +12,7 @@ Good news! We've been awarded further funding from the Big Lottery to deliver ev
 
 Find out more about our Programme and how to get involved:
 
-**Digital Champions Training**
+## Digital Champions Training
 
 Free local training to create Digital Champions within third sector organisations who will support their clients to get the most out of being online.
 
@@ -26,7 +26,7 @@ Free local training to create Digital Champions within third sector organisation
 
 Find out more about our Digital Champions Training [here](https://digital.scvo.org.uk/participation/digital-champions-training/).
 
-**One Digital: Senior Leaders Programme**
+## One Digital: Senior Leaders Programme
 
 We want to create a digitally confident third sector. To help achieve this, we facilitate learning opportunities for third sector senior-level decision makers to help them evolve their organisations and become more digitally confident.
 
@@ -40,7 +40,7 @@ We want to create a digitally confident third sector. To help achieve this, we f
 
 Find out more about our One Digital: Senior Leaders Programme [here](https://digital.scvo.org.uk/evolution/senior-leader-programme/).
 
-**Digital Check-up** 
+## Digital Check-up
 
 We have developed an intuitive web tool to enable small to medium sized third sector organisations to assess their current digital maturity and take steps for change.
 
@@ -54,7 +54,7 @@ We have developed an intuitive web tool to enable small to medium sized third se
 
 Find out more about our Digital Check-up [here](https://digital.scvo.org.uk/evolution/digital-check-up/).
 
-**Cyber Resilience and Cyber Essentials Grants**
+## Cyber Resilience and Cyber Essentials Grants
 
 We are exploring how to build a cyber resilient third sector in Scotland through senior-level engagement and the use of a small grants programme.
 
@@ -68,7 +68,7 @@ We are exploring how to build a cyber resilient third sector in Scotland through
 
 Find out more about our Cyber Resilience Project [here](https://digital.scvo.org.uk/evolution/cyber-resilience/).
 
-**Events and Networking**
+## Events and Networking
 
 A range of flexible follow-on sessions to support existing programme participants in their digital learning and to encourage new network members to get involved.
 
@@ -81,5 +81,7 @@ A range of flexible follow-on sessions to support existing programme participant
 </ul>
 
 Find out more about our Events and Networking [here](https://digital.scvo.org.uk/evolution/events-and-networking/).
+
+## Getting in touch
 
 If you're interested in getting involved in any of our One Digital activities then please do get in touch by emailing us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk). We'd love to chat to you and find out how we can help you on your digital journey.
