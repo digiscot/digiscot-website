@@ -19,9 +19,9 @@ Free local training to create Digital Champions within third sector organisation
 **So what’s unique about our Digital Champion Training?**
 
 <ul class="browser-default">
-<li>You’ll access a free opportunity to aid you in helping your clients to improve their lives by developing basic digital skills.
-<li>We can offer a tailored approach to training to meet your organisation’s and client’s needs.
-<li>You’ll get access to the [Digital Champions Network](https://www.digitalchampionsnetwork.com/content/learn-share-change-lives) and resources as well as One Digital Team support.
+<li>You’ll access a free opportunity to aid you in helping your clients to improve their lives by developing basic digital skills.</li>
+<li>We can offer a tailored approach to training to meet your organisation’s and client’s needs.</li>
+<li>You’ll get access to the [Digital Champions Network](https://www.digitalchampionsnetwork.com/content/learn-share-change-lives) and resources as well as One Digital Team support.</li>
 </ul>
 
 Find out more about our Digital Champions Training [here](https://digital.scvo.org.uk/participation/digital-champions-training/).
