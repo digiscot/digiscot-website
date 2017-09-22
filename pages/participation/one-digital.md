@@ -61,7 +61,7 @@ We are exploring how to build a cyber resilient third sector in Scotland through
 **So what’s unique about our Cyber Resilience Project?** 
 
 <ul class="browser-default">
-<li>You’ll have access to funding and support to help your organisation to become <a href="https://www.cyberaware.gov.uk/cyberessentials/">Cyber Essentials Accredited</a> and resources as well as One Digital Team support.</li>(https://www.cyberaware.gov.uk/cyberessentials/).</li>
+<li>You’ll have access to funding and support to help your organisation to become <a href="https://www.cyberaware.gov.uk/cyberessentials/">Cyber Essentials Accredited</a> and resources as well as One Digital Team support.</li>
 <li>Third sector leaders will get the opportunity to develop abilities to assess and improve cyber resilience.</li>
 <li>You’ll help us to test workplace learning approaches in the third sector around cyber resilient behaviours to influence future work.</li>
 </ul>
