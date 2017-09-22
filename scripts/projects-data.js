@@ -12,7 +12,7 @@
     function getProjects() {
         var fundType = 'scvo-grant-digital'; // scvo-grant-digital or scvo-grant-ccrf or scvo-grant-ccrf-additional
         var payload = {
-            index: 'web-content-test',
+            index: 'web-content-production',
             type: fundType,
             body: {
                 query: {

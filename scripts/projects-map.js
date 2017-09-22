@@ -6,15 +6,14 @@
     });
 
     var payload = {
-        "index": "digital-funded-projects",
-        "type": "project",
+        "index": "web-content-production",
+        "type": "scvo-grant-digital",
         "body": {
             "query": {
                 "bool": {
                     "must": []
                 }
-            },
-            "sort": "recipient_name"
+            }
         },
         size: 1000
     }
@@ -25,10 +24,10 @@
         var hits = results.hits.hits;
 
         for (var i = 0; i < hits.length; i++) {
-            if (hits[i]._source.address_postcode) {
-                postcodes.push(hits[i]._source.address_postcode);
-                console.log(hits[i]._source.address_location.latitude);
-                console.log(hits[i]._source.address_location.longitude);
+            if (hits[i]._source.recipient_address_location_coords) {
+                postcodes.push(hits[i]._source.recipient_address_postcode);
+                console.log(hits[i]._source.recipient_address_location_coords.lat);
+                console.log(hits[i]._source.recipient_address_location_coords.log);
             }
         }
         console.log(postcodes);

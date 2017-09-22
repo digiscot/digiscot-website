@@ -17,7 +17,7 @@
     }
 
     function getProject(projectId) {
-        client.get({ index: 'web-content', type: 'scvo-grant-digital', id: projectId }).then(function(result){
+        client.get({ index: 'web-content-production', type: 'scvo-grant-digital', id: projectId }).then(function(result){
             var project = result._source;
             // console.log(result._source);
             displayProjectInfo(project);
