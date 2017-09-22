@@ -4,7 +4,7 @@ title: Digital Check-up
 menu-title: Digital Check-up
 excerpt: Find out how digitally mature your organisation is
 permalink: /evolution/digital-check-up/
-submenu: evolution-digial-check-up
+submenu: evolution-digital-check-up
 ---
 
 ## What's your organisation's rating?
@@ -27,4 +27,3 @@ Our engaging and simple to use Digital Check-up lets you easily assess your orga
 Once you have your digital maturity ratings, we’ll be able to signpost you to third sector relevant tools, resources and free SCVO Digital products and events that can maximise your strengths and help address those digital gaps.
 
 If you would like to use our **Digital Check-up** to find out your rating and make a positive change to how your organisation ‘does digital’, please email us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
-
