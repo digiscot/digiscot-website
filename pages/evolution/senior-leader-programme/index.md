@@ -11,15 +11,17 @@ submenu: evolution-senior-leader-programme
 
 >*"Leaders in the third sector do not need to be digital experts, but we do need to lead change which will enable our organisations to be fit-for-purpose in a digital world."*
 
-   **Creating a Digitally Confident Third Sector in Scotland**
+ ### Creating a Digitally Confident Third Sector in Scotland
 
 The words from our [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/digital-call-to-action/), launched in 2016 still ring true today. Almost half of charities lack organisational digital skills and 55% of charities see a lack of digital knowledge at board level being a key barrier.
 
 We know from working with a range of third sector Senior Leaders, who helped us write our [Call to Action](http://www.scvo.org.uk/news-campaigns-and-policy/research/digital-call-to-action/), that organisational digital change is ‘about the people and not the kit’.
 
-Our established Senior Leaders Programme takes an ‘Action Learning Set’ approach and offers you the opportunity to build your personal knowledge and confidence on digital from our experienced facilitators, industry experts and our Programme Alumni. The outcome of the Programme will be a digitally engaged and enabled group of Senior Leaders who will design their own approaches to ensure a lasting impact for their organisations and on the wider sector.
+Our established Senior Leaders Programme takes an <a href="https://www.bond.org.uk/data/files/resources/463/No-5.1-Action-Learning-Sets.pdf">'Action Learning Set'</a> approach and offers you the opportunity to build your personal knowledge and confidence on digital from our experienced facilitators, industry experts and our Programme Alumni. The outcome of the Programme will be a digitally engaged and enabled group of Senior Leaders who will design their own approaches to ensure a lasting impact for their organisations and on the wider sector.
 
 **Download**: [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders_Programme_2018_Prospectus_v3.pdf).
+
+### Getting involved in our Programme
 
 Our programme is aimed at ‘Senior Leaders’; those with the authority to bring about real, active change for their organisation through digital, including: Chief Officers, Department Heads, Board Members and Trustees. Don’t worry, you don’t have to be a digital expert to take part; it’s about maximising your leadership skills to adapt services and approaches to make the most of a digitally evolving world and bringing your workforce along with you.
 
