@@ -17,6 +17,8 @@ We know that 1 in 5 people in Scotland are lacking basic digital skills and are 
 
 With your established and trusted relationships we know you’re well placed to help tackle this inequality.
 
+### Our Digital Champions Training offer
+
 We can provide you with free training and access to the <a href="https://www.digitalchampionsnetwork.com/">Digital Champions Network</a> to help your staff feel confident in supporting people facing digital exclusion. We’ll help to give you the skills to support your clients to get the most from being online. Don’t worry, you don’t need to be a digital guru; it’s all about your <strong>people skills</strong>.
 
 Through the <a href="https://www.digitalchampionsnetwork.com/">Digital Champions Network</a> you’ll get access to online training modules, learner guides and relevant resources. The One Digital Team will also provide face-to-face training along with follow up sessions and events to help support you.
@@ -28,6 +30,8 @@ Here’s what existing Digital Champions from One Digital have to say:
 >*“Helping others to learn and use the internet for their own benefit is enormously satisfying and gives me a real boost.”*
 
 We can tailor our training topics where possible to best meet the needs of you and your clients. This could include topics such as accessibility, gaining employment, financial inclusion, health and wellbeing and communicating with friends and family.
+
+### Getting involved in our Digital Champions Training
 
 Our Digital Champions Training is aimed at third sector organisations who can commit to supporting their frontline staff and volunteers to become Digital Champions. This includes time for ongoing training and development and support to enable Digital Champion activities with clients. If this sounds like your organisation then we’d really like to hear from you! Ideally, this would be from a member of staff who has an overview of resourcing such as a Manager or Team Coordinator and can play a key role in working with us to create your organisations Digital Champions.
 
