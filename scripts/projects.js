@@ -190,7 +190,7 @@
     }
 
     function createProject(project){
-        if (project.call == 'Call 1' || project.call == 'Call 2' || project.call == 'Call 3') {
+        if (project.call == 'Call 1' || project.call == 'Call 2') {
             var cell = $('<div />');
             var card = $('<div />').addClass('card hoverable').appendTo(cell);
             var content = $('<div />').addClass('card-content').appendTo(card);

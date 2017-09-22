@@ -68,22 +68,6 @@ participation-projects:
     parent: true
   - title: Search
     path: participation/projects/
-  - title: Past Projects
-    path: participation/projects-archive/
-
-participation-projects-archive:
-  - title: Participation
-    path: participation/
-    parent: true
-  - title: Projects
-    path: participation/projects/
-    parent: true
-  - title: Search
-    path: participation/projects/
-  - title: Past Projects
-    path: participation/projects-archive/
-  - title: Past Projects' Map
-    path: participation/projects-archive/map/
 
 participation-funding:
   - title: Participation

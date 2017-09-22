@@ -41,14 +41,24 @@
 
         if (project['call'] == 'Call 4')
             var call_detail = 'Spring 2017';
+        else if (project['call'] == 'Call 3')
+            var call_detail = 'Winter 2015';
         else
             var call_detail = 'N/A';
 
-        if (project['amount_awarded'] == null) project['amount_awarded'] = 0;
-        if (project['amount_awarded'] == '')
-            var amount_awarded = 'TBC';
-        else
+        if (!project['amount_awarded'] || project['amount_awarded'] == 0) {
+            if (!project['amount_requested'] || project['amount_requested'] == 0) {
+                if (!project['amount_requested_total'] || project['amount_requested_total'] == 0) {
+                    var amount_awarded = 'TBC';
+                } else {
+                    var amount_awarded = '£' + addCommas(project['amount_requested_total']);
+                }
+            } else {
+                var amount_awarded = '£' + addCommas(project['amount_requested']);
+            }
+        } else {
             var amount_awarded = '£' + addCommas(project['amount_awarded']);
+        }
 
         var recipient_overview = project['recipient_overview'] || 'TBC';
         var description = project['description'] || 'TBC';
@@ -68,6 +78,8 @@
         $('#project-title').text(project['title']);
         $('#project-recipient_name').text(project['recipient_name']);
         $('#project-recipient_overview').text(recipient_overview);
+        if (recipient_overview == 'TBC')
+            $('#project-recipient_overview').hide();
         $('#project-planned_start').text(start);
         $('#project-planned_end').text(end);
         // $('#project-amount_awarded').text(amount_awarded);
