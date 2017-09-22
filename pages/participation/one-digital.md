@@ -6,68 +6,70 @@ permalink: /participation/one-digital/
 submenu: participation
 ---
 
-<h2>One Digital, the next steps&hellip;</h2>
+## One Digital
 
-<p>
-    Good news! We've been awarded further funding from the Big Lottery to deliver even more amazing Digital Skills work across Scotland's third sector as part of the One Digital Project.
-</p>
+Good news! We've been awarded further funding from the Big Lottery to deliver even more amazing digital skills work across Scotland's third sector as part of the One Digital Project.
 
-<p>
-    We're currently pulling together all the information you'll need to find out what and how you can get involved. Here's an overview of what we will deliver:
-</p>
+Find out more about our Programme and how to get involved:
 
-<p>
-    <strong>Digital Champions Training</strong> - Free local training and support programme for third sector organisations to create Digital Champions across your staff and volunteers to support clients to get the most of being online. This opportunity includes access to the <a href="https://www.digitalchampionsnetwork.com/">Digital Champions Network</a>.
-</p>
+**Digital Champions Training**
 
-<p>
-    <strong>Digital Pioneers</strong> - A range of inspiring stories, information and events about how digital evolution is helping third sector organisations to achieve their goals.
-</p>
+Free local training to create Digital Champions within third sector organisations who will support their clients to get the most out of being online.
 
-<p>
-    <strong>Senior Leaders Programme</strong> - Free peer network support for third sector Senior Leaders who want to bring about real, active changes for their organisation through digital.
-</p>
+**So what’s unique about our Digital Champion Training?**
 
-<p>
-    If you're interested in getting involved in any of our One Digital activities then please register your interest by emailing us at <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a>. We'd love to chat to you and find out how we can meet your needs.
-</p>
+**1.** You’ll access a free opportunity to aid you in helping your clients to improve their lives by developing basic digital skills
+**2.** We can offer a tailored approach to training is offered to meet your organisation’s and client’s needs 
+**3.** You’ll get access to the [Digital Champions Network](https://www.digitalchampionsnetwork.com/content/learn-share-change-lives) and resources as well as One Digital Team support
 
-<p>
-    Meanwhile, you can find out what we got up to during 2016 during our initial 'test and learn' activities.
-</p>
+Find out more about our Digital Champions Training [here](https://digital.scvo.org.uk/participation/digital-champions-training/).
 
-<h3>
-    What we got up to last year!
-</h3>
+**One Digital: Senior Leaders Programme**
 
-<p>
-    Throughout 2016 the One Digital team at SCVO were developing the digital skills and confidence of the Scottish third sector. The project has been funded by the Big Lottery fund, and is part of a wider consortium delivering across the UK.
-</p>
+We want to create a digitally confident third sector. To help achieve this, we facilitate learning opportunities for third sector senior-level decision makers to help them evolve their organisations and become more digitally confident.
 
-<p>
-    Over the course of the year we raised the profile of digital participation and evolution with over 1000 staff and volunteers, and 500 of these are now trained as digital champions. See the project in numbers below with the 12 Facts of One Digital.
-</p>
+**So what’s unique about our One Digital: Senior Leadership Programme?**
 
-<p>
-    We tested a range of delivery models, working with frontline staff and senior leaders from diverse organisations. The University of the West of Scotland have evaluated these different approaches. The summary report is available below, and you can <a href="files/MCS SCVO Report WEB.pdf" download>download the full report here</a>. An evaluation of the full One Digital programme across all partners will be available in due course.
-</p>
+**1.** You’ll build personal knowledge and confidence for using digital to improve your organisation’s service delivery
+**2.** You’ll get free access to a peer network of experienced facilitators, industry experts and Programme Alumni to help effect real digital change for your organisation
+**3.** You’ll have an opportunity to influence the third sector’s digital agenda going forward, making our sector even stronger.
 
-<div class="video-container">
-    <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/b4a22741-2001-4425-bdc3-ecbe40d9bf3f?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-</div>
+Find out more about our One Digital: Senior Leaders Programme [here](https://digital.scvo.org.uk/evolution/senior-leader-programme/).
 
-<p class="right-align">
-    <a href="files/MCS SCVO Report WEB.pdf" class="btn btn-primary blue darken-4 white-text">
-        Read their full report here
-    </a>
-</p>
+**Digital Check-up** 
 
-<p>
-    If you have any questions about this evaluation or the One Digital project please get in touch by emailing <a href="mailto:onedigital@scvo.org.uk">onedigital@scvo.org.uk</a> or tweet using <a href="https://twitter.com/hashtag/onedigital?src=hash">#onedigital</a>.
-</p>
+We have developed an intuitive web tool to enable small to medium sized third sector organisations to assess their current digital maturity and take steps for change.
 
-<p>
-    <a href="images/12 Stats of One Digital.png">
-        <img src="images/12 Stats of One Digital.png" alt="12 stats of One Digital" class="responsive-img">
-    </a>
-</p>
+**So what’s unique about our Digital Check-up?**
+
+**1.** You can easily assess and understand your organisation’s current digital maturity
+**2.** It’s a free, engaging and simple to use
+**3.** You’ll be sign-posted to relevant resources, information and One Digital support to effect change to address any gaps.
+
+Find out more about our Digital Check-up [here](https://digital.scvo.org.uk/evolution/digital-check-up/).
+
+**Cyber Resilience and Cyber Essentials Grants**
+
+We are exploring how to build a cyber resilient third sector in Scotland through senior-level engagement and the use of a small grants programme.
+
+**So what’s unique about our Cyber Resilience Project?** 
+
+**1.** You’ll have access to funding and support to help your organisation to become [Cyber Essentials Accredited](https://www.cyberaware.gov.uk/cyberessentials/)
+**2.** Third sector leaders will get the opportunity to develop abilities to assess and improve cyber resilience
+**3.** You’ll help us to test workplace learning approaches in the third sector around cyber resilient behaviours to influence future work
+
+Find out more about our Cyber Resilience Project [here](https://digital.scvo.org.uk/evolution/cyber-resilience/).
+
+**Events and Networking**
+
+A range of flexible follow-on sessions to support existing programme participants in their digital learning and to encourage new network members to get involved.
+
+**So what’s unique about our Events and Networking?**
+
+**1.** You’ll have the opportunity to network with fellow third sector participants from a wide range of organisations
+**2.** You’ll have access to a range of face-to-face and online events on relevant topics led by experts and key facilitators
+**3.** A free opportunity to further develop your digital learning
+
+Find out more about our Events and Networking [here](https://digital.scvo.org.uk/evolution/events-and-networking/).
+
+If you're interested in getting involved in any of our One Digital activities then please do get in touch by emailing us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk). We'd love to chat to you and find out how we can help you on your digital journey.
