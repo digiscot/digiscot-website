@@ -24,9 +24,9 @@ Free local training to create Digital Champions within third sector organisation
 <li>You’ll get access to the [Digital Champions Network](https://www.digitalchampionsnetwork.com/content/learn-share-change-lives) and resources as well as One Digital Team support.</li>
 </ul>
 
-Find out more about our Digital Champions Training [here](https://digital.scvo.org.uk/participation/digital-champions-training/).
+<br>Find out more about our Digital Champions Training [here](https://digital.scvo.org.uk/participation/digital-champions-training/).
 
-**One Digital: Senior Leaders Programme**
+<br>**One Digital: Senior Leaders Programme**
 
 We want to create a digitally confident third sector. To help achieve this, we facilitate learning opportunities for third sector senior-level decision makers to help them evolve their organisations and become more digitally confident.
 
