@@ -19,9 +19,9 @@ Free local training to create Digital Champions within third sector organisation
 **So what’s unique about our Digital Champion Training?**
 
 <ul class="browser-default">
-<li>You’ll access a free opportunity to aid you in helping your clients to improve their lives by developing basic digital skills.
-<li>We can offer a tailored approach to training to meet your organisation’s and client’s needs.
-<li>You’ll get access to the [Digital Champions Network](https://www.digitalchampionsnetwork.com/content/learn-share-change-lives) and resources as well as One Digital Team support.
+<li>You’ll access a free opportunity to aid you in helping your clients to improve their lives by developing basic digital skills.</li>
+<li>We can offer a tailored approach to training to meet your organisation’s and client’s needs.</li>
+<li>You’ll get access to the [Digital Champions Network](https://www.digitalchampionsnetwork.com/content/learn-share-change-lives) and resources as well as One Digital Team support.</li>
 </ul>
 
 Find out more about our Digital Champions Training [here](https://digital.scvo.org.uk/participation/digital-champions-training/).
@@ -33,9 +33,9 @@ We want to create a digitally confident third sector. To help achieve this, we f
 **So what’s unique about our One Digital: Senior Leadership Programme?**
 
 <ul class="browser-default">
-<li>You’ll build personal knowledge and confidence for using digital to improve your organisation’s service delivery.
-<li>You’ll get free access to a peer network of experienced facilitators, industry experts and Programme Alumni to help effect real digital change for your organisation.
-<li>You’ll have an opportunity to influence the third sector’s digital agenda going forward, making our sector even stronger.
+<li>You’ll build personal knowledge and confidence for using digital to improve your organisation’s service delivery.</li>
+<li>You’ll get free access to a peer network of experienced facilitators, industry experts and Programme Alumni to help effect real digital change for your organisation.</li>
+<li>You’ll have an opportunity to influence the third sector’s digital agenda going forward, making our sector even stronger.</li>
 </ul>
 
 Find out more about our One Digital: Senior Leaders Programme [here](https://digital.scvo.org.uk/evolution/senior-leader-programme/).
@@ -47,9 +47,9 @@ We have developed an intuitive web tool to enable small to medium sized third se
 **So what’s unique about our Digital Check-up?**
 
 <ul class="browser-default">
-<li>You can easily assess and understand your organisation’s current digital maturity.
-<li>It’s a free, engaging and simple to use.
-<li>You’ll be sign-posted to relevant resources, information and One Digital support to effect change to address any gaps.
+<li>You can easily assess and understand your organisation’s current digital maturity.</li>
+<li>It’s a free, engaging and simple to use.</li>
+<li>You’ll be sign-posted to relevant resources, information and One Digital support to effect change to address any gaps.</li>
 </ul>
 
 Find out more about our Digital Check-up [here](https://digital.scvo.org.uk/evolution/digital-check-up/).
@@ -61,9 +61,9 @@ We are exploring how to build a cyber resilient third sector in Scotland through
 **So what’s unique about our Cyber Resilience Project?** 
 
 <ul class="browser-default">
-<li>You’ll have access to funding and support to help your organisation to become [Cyber Essentials Accredited](https://www.cyberaware.gov.uk/cyberessentials/).
-<li>Third sector leaders will get the opportunity to develop abilities to assess and improve cyber resilience.
-<li>You’ll help us to test workplace learning approaches in the third sector around cyber resilient behaviours to influence future work.
+<li>You’ll have access to funding and support to help your organisation to become [Cyber Essentials Accredited](https://www.cyberaware.gov.uk/cyberessentials/).</li>
+<li>Third sector leaders will get the opportunity to develop abilities to assess and improve cyber resilience.</li>
+<li>You’ll help us to test workplace learning approaches in the third sector around cyber resilient behaviours to influence future work.</li>
 </ul>
 
 Find out more about our Cyber Resilience Project [here](https://digital.scvo.org.uk/evolution/cyber-resilience/).
@@ -75,9 +75,9 @@ A range of flexible follow-on sessions to support existing programme participant
 **So what’s unique about our Events and Networking?**
 
 <ul class="browser-default">
-<li>You’ll have the opportunity to network with fellow third sector participants from a wide range of organisations.
-<li>You’ll have access to a range of face-to-face and online events on relevant topics led by experts and key facilitators.
-<li>A free opportunity to further develop your digital learning.
+<li>You’ll have the opportunity to network with fellow third sector participants from a wide range of organisations.</li>
+<li>You’ll have access to a range of face-to-face and online events on relevant topics led by experts and key facilitators.</li>
+<li>A free opportunity to further develop your digital learning.</li>
 </ul>
 
 Find out more about our Events and Networking [here](https://digital.scvo.org.uk/evolution/events-and-networking/).
