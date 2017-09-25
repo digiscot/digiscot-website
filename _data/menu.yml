@@ -159,7 +159,6 @@ evolution-senior-leader-programme:
     parent: true
   - title: Senior Leader Development Programme
     path: evolution/senior-leader-programme/
-    parent: true
 
 evolution-digital-pioneers:
   - title: Evolution
@@ -167,7 +166,6 @@ evolution-digital-pioneers:
     parent: true
   - title: Digital Pioneers
     path: evolution/digital-pioneers/
-    parent: true
 
 evolution-cyber-resilience:
   - title: Evolution
@@ -175,7 +173,6 @@ evolution-cyber-resilience:
     parent: true
   - title: Cyber Resilience & Cyber Essentials Grants
     path: evolution/cyber-resilience/
-    parent: true
   - title: Apply
     path: evolution/cyber-resilience/apply
 
