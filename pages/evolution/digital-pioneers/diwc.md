@@ -16,6 +16,8 @@ permalink: /evolution/digital-pioneers/dundee-international-womens-centre/
 **Important:** Opinions expressed by Digital Pioneer interviewees are their own and don't represent those of the Scottish Council for Voluntary Organisations. 
   
 **Parven Kaur, previous Community Engagement Officer at <a target='_blank' href="http://diwc.co.uk/">Dundee Women’s International Centre</a> tells us more...** 
+
+![Dundee International Women's Centre](/images/digital-pioneers/class circle.jpg){:height="222px" width="400px"} ![Dundee International Women's Centre](/images/digital-pioneers/map circle.jpg){:height="222px" width="400px"}
   
 ### Tell us about Dundee International Women's Centre!  
   
@@ -41,7 +43,10 @@ The digital apps, many of which are free, that we use are:
 <li><a target='_blank' href="https://www.techsmith.com/video-editor.html">Camtasia</a> for video editing.</li> 
 <li><a target='_blank' href="https://mailchimp.com/">Mailchimp</a> for our email lists and newsletters.</li>
 </ul>  
+
+![Dundee International Women's Centre](/images/digital-pioneers/diwcgroup.jpg){:height="222px" width="400px"} ![Dundee International Women's Centre](/images/digital-pioneers/diwcladies.jpg){:height="222px" width="400px"}
   
+
 ### Tell us about a recent digital change you’ve made. 
   
 **Parven:** In 2016 we introduced the **#womenofdundee campaign** which is aimed at sharing the journey, struggle, ambition and achievements of multi- cultural women living in Dundee. We interview women who attend our centre and finding out their story - why did they move to Dundee, what barriers have they faced, how have they overcome them and what do they enjoy about their achievements now.  
@@ -75,7 +80,9 @@ I am also part of the <a target='_blank' href="https://www.thecontentmarketingac
 </ul>
 
 Many of our learners are delighted to be a part of and see and share our/their stories on social media.  Staff have also realised the importance of digital media and having a solid web presence.  We are also able to recruit volunteers more easily as we can direct them to our website and show them the work that we do.  Our partners and funders always comment on our website and how powerful it is and how easy to navigate.  
-  
+
+![Dundee International Women's Centre](/images/digital-pioneers/diwchug.jpg){:height="222px" width="400px"}
+
 ### Any challenges? 
   
 **Parven:** Initially it was not easy to get learners to consent to using their photographs or videos due to privacy concerns. However, over time and with our support our learners are more confident about their photographs/video being taken.   
