@@ -4,7 +4,7 @@ title: Digital Pioneers
 excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired. 
 submenu: evolution-digital-pioneers 
 pioneer-title: Dundee International Women's Centre 
-pioneer-excerpt: DIWC tell us what digital tools they’ve been using to share #womenofdundee campaign learner stories & generate lots of engagement.   
+pioneer-excerpt: DIWC tell us what digital tools they’ve been using to share learner stories & generate lots of engagement.   
 image: diwc.png 
 website: http://diwc.co.uk/ 
 email: mail@diwc.co.uk 
@@ -32,14 +32,15 @@ Over time we started to create <a target='_blank' href="http://diwc.co.uk/videos
 This year we created and emailed a monthly newsletter to our learners, funders and other stakeholders. In our newsletter we give out information on upcoming events, achievements of learners, future plans and things that have been happening in the centre.   
   
 The digital apps, many of which are free, that we use are:   
-  
-* <a target='_blank' href="https://www.canva.com/">Canva</a> to create posters/social media posts. 
-* <a target='_blank' href="https://piktochart.com/">Piktochart</a> to create infographics. 
-* <a target='_blank' href="https://trello.com/">Trello</a> for our ‘To Do’ lists and productivity. 
-* <a target='_blank' href="https://smarterqueue.com/">SmarterQueue</a> for our social media scheduling and analysing our insights. 
-* <a target='_blank' href="https://www.google.co.uk/intl/en/grants/">Google Ad Words</a> for non profit to help raise our profile.   
-* <a target='_blank' href="https://www.techsmith.com/video-editor.html">Camtasia</a> for video editing. 
-* <a target='_blank' href="https://mailchimp.com/">Mailchimp</a> for our email lists and newsletters. 
+<ul class="browser-default"> 
+<li><a target='_blank' href="https://www.canva.com/">Canva</a> to create posters/social media posts.</li> 
+<li><a target='_blank' href="https://piktochart.com/">Piktochart</a> to create infographics.</li> 
+<li><a target='_blank' href="https://trello.com/">Trello</a> for our ‘To Do’ lists and productivity.</li> 
+<li><a target='_blank' href="https://smarterqueue.com/">SmarterQueue</a> for our social media scheduling and analysing our insights.</li> 
+<li><a target='_blank' href="https://www.google.co.uk/intl/en/grants/">Google Ad Words</a> for non profit to help raise our profile.</li>   
+<li><a target='_blank' href="https://www.techsmith.com/video-editor.html">Camtasia</a> for video editing.</li> 
+<li><a target='_blank' href="https://mailchimp.com/">Mailchimp</a> for our email lists and newsletters.</li>
+</ul>  
   
 ### Tell us about a recent digital change you’ve made. 
   
@@ -64,14 +65,15 @@ I am also part of the <a target='_blank' href="https://www.thecontentmarketingac
 ### What's been the impact? 
   
 **Parven:** We’ve seen many benefits to our **#womenofdundee campaign**, including:  
-  
-* More people are aware of the work that we do   
-* We had an increase in the number of learners registering for our classes   
-* We kept in touch with our funders through our online work  
-* We have partners and funders who contact us to offer support  
-* Local businesses have started supporting our events via sponsorship  
-* Local press have picked up our stories and run with them as features - increasing our reach and awareness throughout Dundee  
-  
+<ul class="browser-default">   
+<li>More people are aware of the work that we do</li>   
+<li>We had an increase in the number of learners registering for our classes</li>   
+<li>We kept in touch with our funders through our online work</li>  
+<li>We have partners and funders who contact us to offer support</li>  
+<li>Local businesses have started supporting our events via sponsorship</li>  
+<li>Local press have picked up our stories and run with them as features - increasing our reach and awareness throughout Dundee</li>  
+</ul>
+
 Many of our learners are delighted to be a part of and see and share our/their stories on social media.  Staff have also realised the importance of digital media and having a solid web presence.  We are also able to recruit volunteers more easily as we can direct them to our website and show them the work that we do.  Our partners and funders always comment on our website and how powerful it is and how easy to navigate.  
   
 ### Any challenges? 
