@@ -65,9 +65,6 @@ participation-projects:
     parent: true
   - title: Projects
     path: participation/projects/
-    parent: true
-  - title: Search
-    path: participation/projects/
 
 participation-funding:
   - title: Participation
@@ -75,7 +72,6 @@ participation-funding:
     parent: true
   - title: Funding
     path: participation/funding/
-    parent: true
   - title: Context
     path: participation/funding/context/
   - title: Key criteria
@@ -91,7 +87,6 @@ participation-basic-digital-skills:
     parent: true
   - title: Basic Digital Skills
     path: participation/basic-digital-skills/
-    parent: true
   - title: Questionnaire
     path: participation/basic-digital-skills/questionnaire/
 
@@ -101,7 +96,6 @@ participation-digital-champions-training:
     parent: true
   - title: Digital Champions Training
     path: participation/digital-champions-training/
-    parent: true
   - title: Sub page 1
     path: participation/digital-champions-training/1
   - title: Sub page 2
@@ -117,7 +111,6 @@ participation-resources:
     parent: true
   - title: Resources
     path: participation/resources/
-    parent: true
   - title: Products, Services, & Tools
     path: participation/resources/products-services-and-tools/
   - title: Research, & Reports
@@ -131,7 +124,6 @@ innovation-resources:
     parent: true
   - title: Resources
     path: innovation/resources/
-    parent: true
   - title: Products, Services, & Tools
     path: innovation/resources/products-services-and-tools/
   - title: Research, & Reports
@@ -145,7 +137,6 @@ evolution-resources:
     parent: true
   - title: Resources
     path: evolution/resources/
-    parent: true
   - title: Products, Services, & Tools
     path: evolution/resources/products-services-and-tools/
   - title: Research, & Reports
