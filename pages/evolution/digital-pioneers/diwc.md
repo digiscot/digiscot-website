@@ -81,7 +81,7 @@ I am also part of the <a target='_blank' href="https://www.thecontentmarketingac
 
 Many of our learners are delighted to be a part of and see and share our/their stories on social media.  Staff have also realised the importance of digital media and having a solid web presence.  We are also able to recruit volunteers more easily as we can direct them to our website and show them the work that we do.  Our partners and funders always comment on our website and how powerful it is and how easy to navigate.  
 
-![Dundee International Women's Centre](/images/digital-pioneers/diwchug.jpg)
+![Dundee International Women's Centre](/images/digital-pioneers/diwchug.jpg){:height="566px" width="666px"}
 
 ### Any challenges? 
   
