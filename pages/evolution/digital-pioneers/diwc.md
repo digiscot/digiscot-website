@@ -17,7 +17,7 @@ permalink: /evolution/digital-pioneers/dundee-international-womens-centre/
   
 **Parven Kaur, previous Community Engagement Officer at <a target='_blank' href="http://diwc.co.uk/">Dundee Women’s International Centre</a> tells us more...** 
 
-![Dundee International Women's Centre](/images/digital-pioneers/class circle.jpg){:height="222px" width="400px"} ![Dundee International Women's Centre](/images/digital-pioneers/map circle.jpg){:height="222px" width="400px"}
+![Dundee International Women's Centre](/images/digital-pioneers/class circle.jpg){:height="400px" width="400px"} ![Dundee International Women's Centre](/images/digital-pioneers/map circle.jpg){:height="400px" width="400px"}
   
 ### Tell us about Dundee International Women's Centre!  
   
@@ -44,7 +44,7 @@ The digital apps, many of which are free, that we use are:
 <li><a target='_blank' href="https://mailchimp.com/">Mailchimp</a> for our email lists and newsletters.</li>
 </ul>  
 
-![Dundee International Women's Centre](/images/digital-pioneers/diwcgroup.jpg){:height="222px" width="400px"} ![Dundee International Women's Centre](/images/digital-pioneers/diwcladies.jpg){:height="222px" width="400px"}
+![Dundee International Women's Centre](/images/digital-pioneers/diwcgroup.jpg){:height="600px" width="800px"} ![Dundee International Women's Centre](/images/digital-pioneers/diwcladies.jpg){:height="600px" width="800px"}
   
 
 ### Tell us about a recent digital change you’ve made. 
@@ -81,7 +81,7 @@ I am also part of the <a target='_blank' href="https://www.thecontentmarketingac
 
 Many of our learners are delighted to be a part of and see and share our/their stories on social media.  Staff have also realised the importance of digital media and having a solid web presence.  We are also able to recruit volunteers more easily as we can direct them to our website and show them the work that we do.  Our partners and funders always comment on our website and how powerful it is and how easy to navigate.  
 
-![Dundee International Women's Centre](/images/digital-pioneers/diwchug.jpg){:height="222px" width="400px"}
+![Dundee International Women's Centre](/images/digital-pioneers/diwchug.jpg){:height="600px" width="800px"}
 
 ### Any challenges? 
   
