@@ -32,7 +32,7 @@ evolution:
   - title: Digital Pioneers
     path: evolution/digital-pioneers/
     submenu: evolution-digital-pioneers
-  - title: Senior Leader Development Programme
+  - title: Senior Leaders Programme
     path: evolution/senior-leader-programme/
     submenu: evolution-senior-leader-programme
   - title: Cyber Resilience & Cyber Essentials Grants
@@ -148,9 +148,9 @@ evolution-senior-leader-programme:
   - title: Evolution
     path: evolution/
     parent: true
-  - title: Senior Leader Development Programme
+  - title: Senior Leaders Programme
     path: evolution/senior-leader-programme/
-    - title: Apply
+  - title: Apply
     path: evolution/senior-leader-programme/apply
 
 evolution-digital-pioneers:
