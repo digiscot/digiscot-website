@@ -35,6 +35,9 @@ Here’s what some of our previous participants of our Senior Leaders Programme 
 
 Participants will be required to commit time to the Programme to attend sessions and complete actions between sessions. Find out more about what to expect in the [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders Programme_2018_Prospectus_v3.pdf)
 
-The programme will open for applications on **Tuesday 26th September**.  Please return to this page to access.
+You can apply now for our next One Digital: Senior Leadership Programme by using this 
+<a target='_blank' href="https://digital.scvo.org.uk/evolution/senior-leaders-programme/apply/">application form</a>. Applications will **close at midnight on the 31st October 2017**.
 
-If you’re interested in our One Digital: Senior Leaders Programme and would like to register your interest, please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
+Applicants will be informed of their success on the 7th November 2017. If you’d like to discuss our Programme before applying, please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
+
+<a href="/evolution/senior-leader-programme/apply/" class="btn btn-primary blue darken-4 white-text">Apply now</a>
