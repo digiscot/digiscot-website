@@ -19,8 +19,19 @@
     function getProject(projectId) {
         client.get({ index: 'web-content-production', type: 'scvo-grant-digital', id: projectId }).then(function(result){
             var project = result._source;
-            // console.log(result._source);
-            displayProjectInfo(project);
+            var html = 'Loading...'
+
+            if (project.views) {
+                for (var k = 0; k < project.views.length; k++) {
+                    if (project.views[k].name == 'full') {
+                        html = project.views[k].html;
+                    }
+                }
+            }
+
+            $('#project-container').html(html);
+
+            // displayProjectInfo(project);
             $('#project-container').show();
             $('#project-loading').hide();
         }).catch(function(err){
@@ -77,7 +88,7 @@
 
         $('#project-title').text(project['title']);
         $('#project-recipient_name').text(project['recipient_name']);
-        $('#project-recipient_overview').text(recipient_overview);
+        $('#project-recipient_overview').html(recipient_overview);
         if (recipient_overview == 'TBC')
             $('#project-recipient_overview').hide();
         $('#project-planned_start').text(start);
@@ -89,7 +100,7 @@
         $('#project-call').text(project['call']);
         $('#project-call_detail').text(call_detail);
 
-        $('#project-overview').text(description);
+        $('#project-overview').html(description);
         if (description == 'TBC')
             $('.project-overview').hide();
 
@@ -114,7 +125,7 @@
             project_milestone_4_desc == 'TBC')
             $('.project-milestones').hide();
 
-        $('#project-outputs').text(project_evaluation);
+        $('#project-outputs').html(project_evaluation);
         if (project_evaluation == 'TBC')
             $('.project-outputs').hide();
 
