@@ -21,7 +21,9 @@ Our established Senior Leaders Programme takes an <a href="https://www.bond.org.
 
 **Download**: [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders Programme_2018_Prospectus_v3.pdf).
 
-Have questions about the programme before you apply? <a target='_blank' href="https://zoom.us/meeting/register/e9e8e093987674f8dc2040ba88984b7b">**Sign up to our live Q&A**</a> with Programme Facilitator, Ross McCulloch, on 10th October at 2pm.
+**Ask Questions**: Have questions about the programme before you apply? Sign up to our live <a target='_blank' href="https://zoom.us/meeting/register/e9e8e093987674f8dc2040ba88984b7b">Q&A with Programme Facilitator, Ross McCulloch</a>, on 10th October at 2pm.
+
+**Apply**: You can apply now for our next One Digital: Senior Leadership Programme by using this <a target='_blank' href="https://digital.scvo.org.uk/evolution/senior-leader-programme/apply/">application form</a>.
 
 ### Getting involved in our Programme
 
