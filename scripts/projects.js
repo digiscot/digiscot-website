@@ -46,7 +46,7 @@
             });
 
         var payload = {
-            "index": "web-content-production",
+            "index": "web-content",
             "type": "scvo-grant-digital",
             "body": {
                 "aggs": {
@@ -83,7 +83,7 @@
             });
 
         var payload = {
-            "index": "web-content-production",
+            "index": "web-content",
             "type": "scvo-grant-digital",
             "body": {
                 "aggs": {
@@ -127,7 +127,7 @@
         }
 
         var payload = {
-            "index": "web-content-production",
+            "index": "web-content",
             "type": "scvo-grant-digital",
             "body": {
                 "query": {
