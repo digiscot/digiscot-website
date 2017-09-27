@@ -97,7 +97,7 @@
             }
         }
 
-        client.search(payload).then(function(results){
+        client.search(payloadDISABLED).then(function(results){
             var any = $('<option />').attr('value', '').text('All calls (' + results.hits.total + ')');
             $('#projects-calls').append(any);
 
