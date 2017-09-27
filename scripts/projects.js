@@ -21,7 +21,7 @@
         }, 1000);
     }
 
-    function doSearchDisabled() {
+    function doSearch() {
         $('#projects-container').hide();
         $('#projects-loading').show();
         if (/^#tag-/.test(window.location.hash)) {
@@ -97,7 +97,7 @@
             }
         }
 
-        client.search(payloadDISABLED).then(function(results){
+        client.search(payload).then(function(results){
             var any = $('<option />').attr('value', '').text('All calls (' + results.hits.total + ')');
             $('#projects-calls').append(any);
 
