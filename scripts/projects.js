@@ -17,7 +17,7 @@
     function delaySearch(){
         window.clearTimeout(searchDelay);
         searchDelay = window.setTimeout(function(){
-            doSearch();
+            //doSearch();
         }, 1000);
     }
 
