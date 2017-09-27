@@ -17,11 +17,11 @@
     function delaySearch(){
         window.clearTimeout(searchDelay);
         searchDelay = window.setTimeout(function(){
-            //doSearch();
+            doSearch();
         }, 1000);
     }
 
-    function doSearch() {
+    function doSearchDisabled() {
         $('#projects-container').hide();
         $('#projects-loading').show();
         if (/^#tag-/.test(window.location.hash)) {
