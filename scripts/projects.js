@@ -200,8 +200,8 @@
                 .text(project.title)
                 .appendTo(content);
             var organisation = $('<p />').appendTo(content);
-            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation);
-            var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
+            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation).appendTo(content);
+            // var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
             actions.append(createTag(createCallDetail(project.call), "calendar"));
@@ -216,8 +216,8 @@
                 .text(project.title)
                 .appendTo(content);
             var organisation = $('<p />').appendTo(content);
-            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation);
-            var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
+            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation).appendTo(content);
+            // var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
             actions.append(createTag(createCallDetail(project.call), "calendar"));
