@@ -19,8 +19,19 @@
     function getProject(projectId) {
         client.get({ index: 'web-content-production', type: 'scvo-grant-digital', id: projectId }).then(function(result){
             var project = result._source;
-            // console.log(result._source);
-            displayProjectInfo(project);
+            var html = 'Loading...'
+
+            if (project.views) {
+                for (var k = 0; k < project.views.length; k++) {
+                    if (project.views[k].name == 'full') {
+                        html = project.views[k].html;
+                    }
+                }
+            }
+
+            $('#project-container').html(html);
+
+            // displayProjectInfo(project);
             $('#project-container').show();
             $('#project-loading').hide();
         }).catch(function(err){
