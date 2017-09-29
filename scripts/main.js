@@ -65,7 +65,7 @@ $(document).ready(function () {
     if ($('#events').length > 0) {
         $.getJSON("https://www.googleapis.com/calendar/v3/calendars/8ep89c5uh3nekaub1jelb4jdp1epc8t0%40import.calendar.google.com/events?key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo")
             .done(function (obj, status, xhr) {
-                console.log('Got:', obj, status, xhr);
+                // console.log('Got:', obj, status, xhr);
                 displayEvents(obj.items);
             })
             .fail(function (obj, status, xhr) {
