@@ -86,32 +86,46 @@ $(document).ready(function () {
             var event = events[x];
 
             var uid = event.iCalUID.replace(/\D/g, '');
-            var image = 'https://maps.googleapis.com/maps/api/staticmap';
-            image += '?markers=' + event.location;
-            image += '&size=300x300';
-            image += '&key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo';
-
-            var maplink = 'https://www.google.co.uk/maps/search/';
-            maplink += encodeURIComponent(event.location);
 
             var $event = $('<div />').addClass('card horizontal');
 
-            var $image = $('<a />').attr({ 'href': 'maplink', 'title': 'Find on Google Maps' }).addClass('card-image').appendTo($event);
-            var $img = $('<img />').attr('src', image).addClass('responsive-img').appendTo($image);
+            if (!event.location || event.location == 'undefined') {
+                event.location = 'Venue to be confirmed';
+            } else {
+                var image = 'https://maps.googleapis.com/maps/api/staticmap';
+                image += '?markers=' + event.location;
+                image += '&size=300x300';
+                image += '&key=AIzaSyD0cYtgDN1PYx5mr9ubdhlLPAtlMrwiBdo';
+                var maplink = 'https://www.google.co.uk/maps/search/';
+                maplink += encodeURIComponent(event.location);
+                var $image = $('<a />').attr({ 'href': 'maplink', 'title': 'Find on Google Maps' }).addClass('card-image').appendTo($event);
+                var $img = $('<img />').attr('src', image).addClass('responsive-img').appendTo($image);
+            }
 
             var $stacked = $('<div />').addClass('card-stacked').appendTo($event);
 
             var $content = $('<div />').addClass('card-content').appendTo($stacked);
+
             var $title = $('<span />').addClass('card-title').text(event.summary).appendTo($content);
+
+            var start_date_formatted = formatDate(new Date(event.start.dateTime));
+            var end_date_formatted = formatDate(new Date(event.end.dateTime));
+
+            var start_time_formatted = formatTime(new Date(event.start.dateTime));
+            var end_time_formatted = formatTime(new Date(event.end.dateTime));
+
+            if (start_date_formatted == end_date_formatted) end_date_formatted = '';
+
             var $info = $('<ul />').addClass('fa-ul').appendTo($content);
             var $date = $('<li />').appendTo($info);
-            $date.html('<i class="fa fa-li fa-calendar"></i>' + event.start.dateTime + ' - ' + event.end.dateTime);
+            $date.html('<i class="fa fa-li fa-calendar"></i>' + start_date_formatted + start_time_formatted + ' - ' + end_date_formatted + end_time_formatted);
+
             var $location = $('<li />').appendTo($info);
             $location.html('<i class="fa fa-li fa-map-marker"></i>' + event.location);
-            var $description = $('<div />').html(event.description).appendTo($content);
+            var $description = $('<div />').text(event.description.split('\n')[3]).appendTo($content); // hope this always works...
 
             var $action = $('<div />').addClass('card-action').appendTo($stacked);
-            var $link = $('<a />').addClass('teal-text').attr('href', 'https://www.meetup.com/One-Digital-Meetup/events/' + uid + '/').html('<i class="fa fa-fw fa-meetup"></i> Visit event on meetup.com').appendTo($action);
+            var $link = $('<a />').addClass('text').attr('href', 'https://www.meetup.com/One-Digital-Meetup/events/' + uid + '/').html('<i class="fa fa-fw fa-meetup"></i> Visit event on meetup.com').appendTo($action);
 
             $el.append($event);
         }
@@ -156,3 +170,24 @@ $(document).ready(function () {
         $this.attr('src', fallback);
     });
 });
+
+function formatDate(date) {
+  var year = date.getFullYear()
+  var month = pad(date.getMonth()+1, 2);
+  var day = pad(date.getDate(), 2);
+  return year + "-" + month + "-" + day + " ";
+}
+function formatTime(date) {
+  var hours = date.getHours();
+  var minutes = date.getMinutes();
+  var ampm = hours >= 12 ? 'pm' : 'am';
+  hours = hours % 12;
+  hours = hours ? hours : 12; // the hour '0' should be '12'
+  minutes = minutes < 10 ? '0'+minutes : minutes;
+  return hours + ':' + minutes + ' ' + ampm;
+}
+function pad(num, size) {
+    var s = num+"";
+    while (s.length < size) s = "0" + s;
+    return s;
+}
