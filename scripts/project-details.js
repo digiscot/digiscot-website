@@ -22,7 +22,7 @@
             var html = 'Loading...'
 
             if (project.full) {
-                html = project.full.html;
+                html = project.full;
             }
 
             $('#project-container').html(html);
