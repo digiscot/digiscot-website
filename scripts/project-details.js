@@ -21,12 +21,8 @@
             var project = result._source;
             var html = 'Loading...'
 
-            if (project.views) {
-                for (var k = 0; k < project.views.length; k++) {
-                    if (project.views[k].name == 'full') {
-                        html = project.views[k].html;
-                    }
-                }
+            if (project.full) {
+                html = project.full.html;
             }
 
             $('#project-container').html(html);

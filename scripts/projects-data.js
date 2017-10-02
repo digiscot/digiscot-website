@@ -33,22 +33,18 @@
                 var grant_data = hits[i]._source;
                 var grant = {};
 
-                if (grant_data.views) {
-                    for (var k = 0; k < grant_data.views.length; k++) {
-                        if (grant_data.views[k].name == 'threesixtygiving') {
-                            var json = grant_data.views[k].json;
-                            json = json.replace(/(?:\r\n|\r|\n)/g,'')
-                                       .replace(/\\"/g, '"')
-                                       .replace(/\\./g, ".")
-                                       .replace(/\\&/g, "\\&")
-                                       .replace(/\\t/g, "\\t")
-                                       .replace(/\\b/g, "\\b")
-                                       .replace(/\\f/g, "\\f")
-                                       .replace(/[\u0000-\u0019]+/g,"");
-                            // console.log(json);
-                            grant = JSON.parse(json);
-                        }
-                    }
+                if (grant_data.threesixtygiving) {
+                    var json = grant_data.threesixtygiving.json;
+                    json = json.replace(/(?:\r\n|\r|\n)/g,'')
+                               .replace(/\\"/g, '"')
+                               .replace(/\\./g, ".")
+                               .replace(/\\&/g, "\\&")
+                               .replace(/\\t/g, "\\t")
+                               .replace(/\\b/g, "\\b")
+                               .replace(/\\f/g, "\\f")
+                               .replace(/[\u0000-\u0019]+/g,"");
+                    // console.log(json);
+                    grant = JSON.parse(json);
                 }
                 grantsExport.grants.push(grant);
 
