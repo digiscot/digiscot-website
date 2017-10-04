@@ -25,7 +25,7 @@ permalink: /evolution/digital-pioneers/dundee-international-womens-centre/
   
 ### How have you been using digital? 
   
-**Parven:** It’s only been for a few years.  We were not a digitally savvy organisation even though we have been going for 48 years now.  In 2015, a Community Engagement Officer (Digital and Content Coordinator) post was created in late 2015 which I took up.  It made a real different to how we engaged with digital and got our message out.   
+**Parven:** It’s only been for a few years.  We were not a digitally savvy organisation even though we have been going for 48 years now.  In 2015, a Community Engagement Officer (Digital and Content Coordinator) post was created in late 2015 which I took up.  It made a real difference to how we engaged with digital and got our message out.   
   
 We revamped our <a target='_blank' href="http://diwc.co.uk/">website</a> and created our first <a target='_blank' href="https://twitter.com/DIWC1969">Twitter</a> and <a target='_blank' href="https://www.facebook.com/diwc1969">Facebook</a> accounts. We also focused on content marketing as a way to answer the questions asked by our funders, partners and learners.   
   
@@ -49,7 +49,7 @@ The digital apps, many of which are free, that we use are:
 
 ### Tell us about a recent digital change you’ve made. 
   
-**Parven:** In 2016 we introduced the **#womenofdundee campaign** which is aimed at sharing the journey, struggle, ambition and achievements of multi- cultural women living in Dundee. We interview women who attend our centre and finding out their story - why did they move to Dundee, what barriers have they faced, how have they overcome them and what do they enjoy about their achievements now.  
+**Parven:** In 2016 we introduced the **#womenofdundee campaign** which is aimed at sharing the journey, struggle, ambition and achievements of multi- cultural women living in Dundee. We interview women who attend our centre and find out their story - why did they move to Dundee, what barriers have they faced, how have they overcome them and what do they enjoy about their achievements now.  
   
 ### What motivated you? 
   
@@ -57,7 +57,7 @@ The digital apps, many of which are free, that we use are:
   
 ### How did you go about it? 
   
-**Parven:** We first started by sharing the story of our staff members. We interviewed a few of our staff members and posted their story along with their picture on our website and social media platforms.  Each week we published one new story. We realised that many of our learners enjoy reading the journey of other women – our social media reach and engagement went through the roof.  Many of our learners find that they have had a similar experiences and can relate to what other women have been through.   
+**Parven:** We first started by sharing the story of our staff members. We interviewed a few of our staff members and posted their story along with their picture on our website and social media platforms.  Each week we published one new story. We realised that many of our learners enjoyed reading the journey of other women – our social media reach and engagement went through the roof!  Many of our learners find that they have had a similar experiences and can relate to what other women have been through.   
   
 To undertake the interviews, we used a recording device instead of writing the interview down as this saves time and allowed us to transcribe and edit the interview more accurately.  Once the interview was written it was emailed to our learners for approval and they then provided us with their photographs.  Interviewing and editing a story could take up to 2 to 3 hours.   
   
