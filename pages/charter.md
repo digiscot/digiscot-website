@@ -2,7 +2,7 @@
 layout: default
 title: Digital Participation Charter
 excerpt: Sign Up & Skill Up for a Digitally Smarter Scotland
-permalink: /charter/
+permalink: /charter
 fa-icon: fa-users
 ---
 
