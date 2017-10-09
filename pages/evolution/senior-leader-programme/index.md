@@ -37,7 +37,7 @@ Here’s what some of our previous participants of our Senior Leaders Programme 
 
 >*"Time with peers, learning from them and also generating ideas from the facilitator and speakers has allowed me to introduce new and proven concepts within my organisation - to the team and service delivery.”*
 
-Participants will be required to commit time to the Programme to attend sessions and complete actions between sessions. Find out more about what to expect in the [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders Programme_2018_Prospectus_v3.pdf)
+Participants will be required to commit time to the Programme to attend sessions and complete actions between sessions. Find out more about what to expect in the [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders Programme_2018_Prospectus_v4.pdf)
 
 You can apply now for our next One Digital: Senior Leadership Programme by using this <a target='_blank' href="https://digital.scvo.org.uk/evolution/senior-leader-programme/apply/">application form</a>. Applications will **close at midnight on the 31st October 2017**.
 
