@@ -105,7 +105,7 @@
             buckets.forEach(function(bucket){
                 var tagName = bucket.key;
                 var text = tagName + ' - ' + createCallDetail(tagName) + ' (' + bucket.doc_count + ')';
-                var option = $('<option />').attr('value', 'calendar-' + createCallDetail(tagName)).text(text);
+                var option = $('<option />').attr('value', 'calendar-' + tagName).text(text);
                 option.prop('selected', 'calendar-' + tagName === tag);
                 $('#projects-calls').append(option);
             });
@@ -204,27 +204,29 @@
             // var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
             var actions = $('<div />').addClass('card-action').appendTo(card);
 
-            actions.append(createTag(createCallDetail(project.call), "calendar"));
+            actions.append(createTag(project.call, "calendar"));
 
         } else {
             var cell = $('<div />');
-            var card = $('<div />').addClass('card hoverable').appendTo(cell);
-            var content = $('<div />').addClass('card-content').appendTo(card);
-            var title = $('<a />')
-                .addClass('card-title')
-                .attr('href', 'participation/project/#' + project.Id)
-                .text(project.title)
-                .appendTo(content);
-            var organisation = $('<p />').appendTo(content);
-            var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation).appendTo(content);
-            // var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
-            var actions = $('<div />').addClass('card-action').appendTo(card);
+            var card = $(project.rendered.search_result).appendTo(cell);
 
-            actions.append(createTag(createCallDetail(project.call), "calendar"));
-
-            project.individuals_supported.forEach(function(tag){
-                actions.append(createTag(tag, "tag"));
-            });
+            // var card = $('<div />').addClass('card hoverable').appendTo(cell);
+            // var content = $('<div />').addClass('card-content').appendTo(card);
+            // var title = $('<a />')
+            //     .addClass('card-title')
+            //     .attr('href', 'participation/project/#' + project.Id)
+            //     .text(project.title)
+            //     .appendTo(content);
+            // var organisation = $('<p />').appendTo(content);
+            // var organisationBold = $('<strong />').text(project.recipient_name).appendTo(organisation).appendTo(content);
+            // // var exerpt = $('<p />').text(S(project.description).truncate(140, '...').s).appendTo(content);
+            // var actions = $('<div />').addClass('card-action').appendTo(card);
+            //
+            // actions.append(createTag(createCallDetail(project.call), "calendar"));
+            //
+            // project.individuals_supported.forEach(function(tag){
+            //     actions.append(createTag(tag, "tag"));
+            // });
         }
 
         return cell;
