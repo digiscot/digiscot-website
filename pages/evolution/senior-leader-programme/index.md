@@ -19,7 +19,7 @@ We know from working with a range of third sector Senior Leaders, who helped us 
 
 Our established Senior Leaders Programme takes an <a href="https://www.bond.org.uk/data/files/resources/463/No-5.1-Action-Learning-Sets.pdf">'Action Learning Set'</a> approach and offers you the opportunity to build your personal knowledge and confidence on digital from our experienced facilitators, industry experts and our Programme Alumni. The outcome of the Programme will be a digitally engaged and enabled group of Senior Leaders who will design their own approaches to ensure a lasting impact for their organisations and on the wider sector.
 
-**Download**: [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders Programme_2018_Prospectus_v3.pdf).
+**Download**: [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders Programme_2018_Prospectus_v4.pdf).
 
 **Ask Questions**: Have questions about the programme before you apply? Sign up to our live <a target='_blank' href="https://zoom.us/meeting/register/e9e8e093987674f8dc2040ba88984b7b">Q&A with Programme Facilitator, Ross McCulloch</a>, on 10th October at 2pm.
 
