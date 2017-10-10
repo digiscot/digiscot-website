@@ -5,6 +5,8 @@ menu-title: Digital Champions Training
 excerpt: Find out how to get involve in our Digital Champions Training programme
 permalink: /participation/digital-champions-training/
 submenu: participation
+scripts:
+    - scripts/iframe.js
 ---
 
 ## Become a Digital Champion with our Training!
@@ -35,4 +37,6 @@ We can tailor our training topics where possible to best meet the needs of you a
 
 Our Digital Champions Training is aimed at third sector organisations who can commit to supporting their frontline staff and volunteers to become Digital Champions. This includes time for ongoing training and development and support to enable Digital Champion activities with clients. If this sounds like your organisation then we’d really like to hear from you! Ideally, this would be from a member of staff who has an overview of resourcing such as a Manager or Team Coordinator and can play a key role in working with us to create your organisations Digital Champions.
 
-Get in touch now to register your interest in our Digital Champions Training by emailing [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
+Fill in your details below and we will be in touch shortly. If you have any questions please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
+
+<iframe src="http://www.surveygizmo.eu/s3/90052391/New-form" frameborder="0" width="100%" height="100" style="overflow:hidden"></iframe>
