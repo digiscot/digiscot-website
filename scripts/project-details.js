@@ -13,24 +13,26 @@
     }
 
     function getProject(slug) {
-        client.get(
+        client.search(
             {
                 "index": 'web-content-production',
                 "type": 'scvo-grant-digital',
-                "query": {
-                    "bool": {
-                        "must": [
-                            {
-                                "term": {
-                                    "slug": slug
+                "body": {
+                    "query": {
+                        "bool": {
+                            "must": [
+                                {
+                                    "term": {
+                                        "slug": slug
+                                    }
                                 }
-                            }
-                        ]
+                            ]
+                        }
                     }
                 }
             }
-        ).then(function(result) {
-            var project = result._source;
+        ).then(function(results) {
+            var project = results.hits.hits[0]._source;
 
             var html = '';
             if (project.rendered.full) {
@@ -40,7 +42,7 @@
             $('#project-container').html(html);
         }).catch(function(err){
             console.error('ES Query Error:', err);
-            window.location.href = '/participation/projects';
+            // window.location.href = '/participation/projects';
         });
     }
 }());
