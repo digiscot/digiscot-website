@@ -42,7 +42,7 @@
             $('#project-container').html(html);
         }).catch(function(err){
             console.error('ES Query Error:', err);
-            // window.location.href = '/participation/projects';
+            window.location.href = '/participation/projects';
         });
     }
 }());
