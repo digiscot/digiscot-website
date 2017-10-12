@@ -9,13 +9,27 @@
     loadProject();
 
     function loadProject() {
-        var projectId = window.location.hash;
-        projectId = projectId.replace(/\#/, '');
-        getProject(projectId);
+        getProject(window.location.hash.replace(/\#/, ''));
     }
 
-    function getProject(projectId) {
-        client.get({ index: 'web-content-production', type: 'scvo-grant-digital', id: projectId }).then(function(result){
+    function getProject(slug) {
+        client.get(
+            {
+                "index": 'web-content-production',
+                "type": 'scvo-grant-digital',
+                "query": {
+                    "bool": {
+                        "must": [
+                            {
+                                "term": {
+                                    "slug": slug
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        ).then(function(result) {
             var project = result._source;
 
             var html = '';
