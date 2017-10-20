@@ -21,9 +21,20 @@ Our established Senior Leaders Programme takes an <a href="https://www.bond.org.
 
 **Download**: [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders_Programme_2018_Prospectus_v4.pdf).
 
-**Ask Questions**: Have questions about the programme before you apply? Sign up to our live <a target='_blank' href="https://zoom.us/meeting/register/e9e8e093987674f8dc2040ba88984b7b">Q&A with Programme Facilitator, Ross McCulloch</a>, on 10th October at 2pm.
-
 **Apply**: You can apply now for our next One Digital: Senior Leadership Programme by using this <a target='_blank' href="https://digital.scvo.org.uk/evolution/senior-leader-programme/apply/">application form</a>.
+
+### 10 reasons to join our Programme
+
+1.  Develop as an effective digital leader. Take the time to think about what “Digital” means to your role as a senior leader
+2.  Explore how digital technologies can enhance your service delivery and add to what you currently do
+3.  Follow in the footsteps of over 35 programme “Alumni” who have enacted change within their organisations 
+4.  Come together with other Third Sector leaders; finding common challenges and supporting solutions
+5.  Investigate the possibilities of being “driven by data” – using technology to guide decision making 
+6.  Look for ways to use flexible technologies to do more and evolve your internal practices 
+7.  Consider how to instil a digitally-receptive culture throughout your staff team
+8.  Hear from guest speakers and be guided along by Third Sector Lab director, Ross McCulloch
+9.  Get practical support from SCVO’s team who will help you to put actions in place
+10. Be part of a programme that will shape and lead the call for a digitally confident third sector
 
 ### Getting involved in our Programme
 
