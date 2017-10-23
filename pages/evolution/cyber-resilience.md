@@ -22,25 +22,6 @@ We are working with Scottish charities to achieve the following aims:
 1. To build commitment from third sector leaders to assess and improve their cyber resilience. 
 2. To test the ability of third sector organisations to achieve [Cyber Essentials accreditation](https://www.cyberaware.gov.uk/cyberessentials/) through a small scale ‘grants’ programme of up to £1500 to help cover the application and IT support costs needed to achieve accreditation.
 
-**Find out more about [Cyber Essentials and why you should have it](/files/cyber.pdf). Apply for SCVO Cyber Essential Grants by completing this <a target='_blank' href="https://digital.scvo.org.uk/evolution/cyber-resilience/apply/">application form</a>.**
+**The SCVO Cyber Essential Grants are now closed. You can still find out more about [Cyber Essentials and why you should have it](https://digital.scvo.org.uk/files/cyber.pdf).**
 
-To speak to the team about the SCVO Cyber Essential Grants, please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk) in the first instance.
-
-**SCVO Cyber Essential Grants qualifying criteria:**
-
-<ul class="browser-default">
-  <li>SCVO Cyber Essentials Grants are available to registered Scottish charities with either their own internal IT support staff or with a contracted IT supplier.</li>
-  <li>The maximum annual income threshold to receive our Cyber Essentials Grants is £4 million.</li>
-  <li>It is the responsibility of the qualifying organisation to contact and contract a supplier to carry out the accreditation.</li>
-  <li>SCVO Cyber Essential Grants will be prioritised for organisations who can demonstrate how achieving the grant will benefit their organisation and their service users.</li>
-  <li>Grants will be between £500 and £1500 based on the requirements outlined in the application process.</li>
-  <li>SCVO have limited funds available and cannot guarantee all applications will be successful.</li>
-  <li>SCVO Cyber Essential Grants - Round 1:<br />
-Opening 21st September at 9am<br />
-Closing 20th October at 5pm</li>
-  <li>SCVO will inform all applicants of their application status by email within 2 weeks of the closing deadline. Further rounds will be opened at a later date if grant funding is still available.</li>
-</ul>
-
-If you do not fit within these criteria but are still interested in becoming more cyber resilient, please contact us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk)
-
-<a href="/evolution/cyber-resilience/apply/" class="btn btn-primary blue darken-4 white-text">Apply now</a>
+If you are interested in becoming more cyber resilient and want to discuss this with the One Digital team, please contact us at [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk)
