@@ -2,7 +2,7 @@
 layout: markdown
 title: Cyber Resilience and Cyber Essentials Grants 
 menu-title: Cyber Resilience
-excerpt: Call for Applications – September 2017
+excerpt: Find out more about Cyber Essentials & why you should have them
 permalink: /evolution/cyber-resilience/
 submenu: evolution-cyber-resilience
 ---
