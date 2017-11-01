@@ -152,8 +152,6 @@ evolution-senior-leader-programme:
     parent: true
   - title: Senior Leaders Programme
     path: evolution/senior-leader-programme/
-  - title: Apply
-    path: evolution/senior-leader-programme/apply
 
 evolution-digital-pioneers:
   - title: Evolution
