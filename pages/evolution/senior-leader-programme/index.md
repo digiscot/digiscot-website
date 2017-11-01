@@ -21,8 +21,6 @@ Our established Senior Leaders Programme takes an <a href="https://www.bond.org.
 
 **Download**: [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders_Programme_2018_Prospectus_v4.pdf).
 
-**Apply**: You can apply now for our next One Digital: Senior Leadership Programme by using this <a target='_blank' href="https://digital.scvo.org.uk/evolution/senior-leader-programme/apply/">application form</a>.
-
 ### 10 reasons to join our Programme
 
 1.  Develop as an effective digital leader. Take the time to think about what “Digital” means to your role as a senior leader
@@ -50,8 +48,4 @@ Here’s what some of our previous participants of our Senior Leaders Programme 
 
 Participants will be required to commit time to the Programme to attend sessions and complete actions between sessions. Find out more about what to expect in the [One Digital: Senior Leaders Programme Prospectus 2018](/files/Senior_Leaders_Programme_2018_Prospectus_v4.pdf)
 
-You can apply now for our next One Digital: Senior Leadership Programme by using this <a target='_blank' href="https://digital.scvo.org.uk/evolution/senior-leader-programme/apply/">application form</a>. Applications will **close at midnight on the 31st October 2017**.
-
-Applicants will be informed of their success on the 7th November 2017. If you’d like to discuss our Programme before applying, please email [onedigital@scvo.org.uk](mailto: onedigital@scvo.org.uk).
-
-<a href="/evolution/senior-leader-programme/apply/" class="btn btn-primary blue darken-4 white-text">Apply now</a>
+**Applications are now closed.**  Applicants will be informed of their success on the 7th November 2017.
