@@ -16,7 +16,7 @@
         client.search(
             {
                 "index": 'web-content-production',
-                "type": 'scvo-grant-digital',
+                "type": 'scvo-grant-charter',
                 "body": {
                     "query": {
                         "bool": {

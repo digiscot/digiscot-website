@@ -47,7 +47,7 @@
 
         var payload = {
             "index": "web-content-production",
-            "type": "scvo-grant-digital",
+            "type": "scvo-grant-charter",
             "body": {
                 "aggs": {
                     "tags": {
@@ -84,7 +84,7 @@
 
         var payload = {
             "index": "web-content-production",
-            "type": "scvo-grant-digital",
+            "type": "scvo-grant-charter",
             "body": {
                 "aggs": {
                     "tags": {
@@ -128,7 +128,7 @@
 
         var payload = {
             "index": "web-content-production",
-            "type": "scvo-grant-digital",
+            "type": "scvo-grant-charter",
             "body": {
                 "query": {
                     "bool": {
