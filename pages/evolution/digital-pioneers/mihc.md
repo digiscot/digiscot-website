@@ -29,7 +29,7 @@ In Scotland we deliver almost 1,700 concerts each year.  Evaluations are carried
 
 ### How have you been using digital? 
   
-**Florence:** Like many organisations, Music in Hospitals & Care had been using digital tools to manage our information and had a reasonably active website as well as Facebook and Twitter accounts despite juggling these between various staff members.
+**Florence:** Like many organisations, Music in Hospitals & Care had been using digital tools to manage our information and had a reasonably active website as well as <a target='_blank' href="https://www.facebook.com/MiHCScotland/">Facebook</a> and <a target='_blank' href="https://twitter.com/MiHCScotland">Twitter</a> accounts despite juggling these between various staff members.
 
 This had developed organically rather than being planned. Without the benefit of specialist staff or skills we had also become comfortable with what we used and worked our way around the bits that did not do what we wanted them to do. Time as well as knowledge was also a factor in being able to look to new approaches and improvements.
 
@@ -45,9 +45,9 @@ This had developed organically rather than being planned. Without the benefit of
   
 **Florence:** Staff reviewed each of the processes and systems they used. This was presented at a series of team meetings in action learning sets. This was key in enabling the team to not only identify the issues they wanted to address but also opened their thinking around solutions using existing technology rather than assuming that we needed something bespoke.
 
-Our first step was to move to G Suite and a cloud based server. This increased collaboration across the team and also meant that staff could work more agilely from different locations, putting less pressure on the office space. We were able to use it to improve engagement with our musicians in terms of checking their availability, confirming arrangements and making payments.
+Our first step was to move to <a target='_blank' href="https://gsuite.google.com/together/?user-benefits_activeEl=tab-connect">G Suite</a> and a cloud based server. This increased collaboration across the team and also meant that staff could work more agilely from different locations, putting less pressure on the office space. We were able to use it to improve engagement with our musicians in terms of checking their availability, confirming arrangements and making payments.
 
-Since then we have moved to Sage drive and made changes to our on-line banking processes. All of which has served to avoid duplication of effort, improved our financial reporting and reduced the payments we were making for other services.
+Since then we have moved to <a target='_blank' href="https://www.sage.com/en-gb/">Sage</a> drive and made changes to our on-line banking processes. All of which has served to avoid duplication of effort, improved our financial reporting and reduced the payments we were making for other services.
 
 ![MiHC](/images/digital-pioneers/mihc4.jpg){:height="600px" width="800px"}{:.responsive-img}
 
@@ -83,7 +83,7 @@ There are also more people than you think going through the same thing so do not
 
 ### What’s on your digital horizon? 
   
-**Florence:** Our new website is now up and running and we are seeing an increase in on-line giving through this. Our plans are to now build on the site’s ability to make it easier for people to access our services.
+**Florence:** Our <a target='_blank' href="https://mihc.org.uk/">new website</a> is now up and running and we are seeing an increase in on-line giving through this. Our plans are to now build on the site’s ability to make it easier for people to access our services.
 
 We are also exploring the development of a CRM system. To improve our services we need to make better use of the information we currently hold on our databases. The CRM system will provide an opportunity to have ‘everything in the one place’.
 
