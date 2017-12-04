@@ -4,7 +4,7 @@ title: Digital Pioneers
 excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired. 
 submenu: evolution-digital-pioneers 
 pioneer-title: Music in Hospitals and Care 
-pioneer-excerpt: MIHC Scotland tell us about the changes they have and are embarking upon to bring their organisation's systems & processes up to date.   
+pioneer-excerpt: MIHC Scotland tell us about the changes they have embarked upon to bring their organisation's systems & processes up to date.   
 image: mihc2.PNG 
 website: https://mihc.org.uk/scotland/ 
 email: 
