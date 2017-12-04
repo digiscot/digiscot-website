@@ -25,6 +25,8 @@ That is why I often think that Music in Hospitals & Care is one of the best kept
 
 In Scotland we deliver almost 1,700 concerts each year.  Evaluations are carried out for each concert covering everything from socialisation, movement, communication and improved mood. We are rightly proud that in each of these categories we have over 90% of people benefitting from the concerts.
 
+![MiHC](/images/digital-pioneers/mihc3.jpg){:height="600px" width="800px"}{:.responsive-img}
+
 ### How have you been using digital? 
   
 **Florence:** Like many organisations, Music in Hospitals & Care had been using digital tools to manage our information and had a reasonably active website as well as Facebook and Twitter accounts despite juggling these between various staff members.
@@ -47,6 +49,8 @@ Our first step was to move to G Suite and a cloud based server. This increased c
 
 Since then we have moved to Sage drive and made changes to our on-line banking processes. All of which has served to avoid duplication of effort, improved our financial reporting and reduced the payments we were making for other services.
 
+![MiHC](/images/digital-pioneers/mihc4.jpg){:height="600px" width="800px"}{:.responsive-img}
+
 ### Who was involved? 
 
 **Florence:** Credit has to go to the staff for being willing to make the changes necessary. This did require training for some but because Google is so widely used in our private lives, the training was about maximising the potential offered by G Suite as opposed to the basics. 
@@ -66,6 +70,8 @@ The move to G Suite has allowed for greater efficiencies and collaboration. It h
 </ul>
 
 Because staff had been involved in the process and come up with the solutions we were able to build much of the change in to their day to day work. This meant that things were phased over a longer period but also allowed for confidence to be built and peer support across the team members. A relatively small grant, enabled us to bring in specialists, where needed, to transfer our data and emails and provide us with training.
+
+![MiHC](/images/digital-pioneers/mihc5.jpg){:height="600px" width="800px"}{:.responsive-img}
 
 ### Any advice? 
   
