@@ -29,4 +29,4 @@ Here’s what some of our previous participants of our Senior Leaders Programme 
 
 >*"Time with peers, learning from them and also generating ideas from the facilitator and speakers has allowed me to introduce new and proven concepts within my organisation - to the team and service delivery.”*
 
-**Applications for the 2018 Programme are now closed.**  Applicants will be informed of their success on the 7th November 2017.
+**Applications for the 2018 Programme are now closed.**
